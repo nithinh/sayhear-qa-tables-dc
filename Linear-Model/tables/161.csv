@@ -1,0 +1,6 @@
+Table_1
+url,Date,Date_link,Temperature,Forecast
+https://www.accuweather.com/en/us/waycross-ga/31501/weather-forecast/332523,Current Weather,https://www.accuweather.com/en/us/waycross-ga/31501/current-weather/332523,75°,Clear
+https://www.accuweather.com/en/us/waycross-ga/31501/weather-forecast/332523,Tonight,https://www.accuweather.com/en/us/waycross-ga/31501/daily-weather-forecast/332523?day=1,56°,Patchy clouds
+https://www.accuweather.com/en/us/waycross-ga/31501/weather-forecast/332523,Tomorrow,https://www.accuweather.com/en/us/waycross-ga/31501/daily-weather-forecast/332523?day=2,89°,Partly sunny and warm
+https://www.accuweather.com/en/us/waycross-ga/31501/weather-forecast/332523,Sunday,https://www.accuweather.com/en/us/waycross-ga/31501/daily-weather-forecast/332523?day=3,90°,Cloudy and warm

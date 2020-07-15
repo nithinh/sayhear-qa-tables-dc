@@ -1,0 +1,41 @@
+Basic_Math_Symbols
+url,Symbol,Symbol_Name,Meaning_/_Definition,Example
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,=,equals sign,equality,"5 = 2+3
+5 is equal to 2+3"
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,≠,not equal sign,inequality,"5 ≠ 4
+5 is not equal to 4"
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,≈,approximately equal,approximation,"sin(0.01) ≈ 0.01,
+x ≈ y means x is approximately equal to y"
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,>,strict inequality,greater than,"5 > 4
+5 is greater than 4"
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,<,strict inequality,less than,"4 < 5
+4 is less than 5"
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,≥,inequality,greater than or equal to,"5 ≥ 4,
+x ≥ y means x is greater than or equal to y"
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,≤,inequality,less than or equal to,"4 ≤ 5,
+x ≤ y means x is less than or equal to y"
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,( ),parentheses,calculate expression inside first,2 × (3+5) = 16
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,[ ],brackets,calculate expression inside first,[(1+2)×(1+5)] = 18
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,+,plus sign,addition,1 + 1 = 2
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,−,minus sign,subtraction,2 − 1 = 1
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,±,plus - minus,both plus and minus operations,3 ± 5 = 8 and -2
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,±,minus - plus,both minus and plus operations,3 ∓ 5 = -2 and 8
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,*,asterisk,multiplication,2 * 3 = 6
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,×,times sign,multiplication,2 × 3 = 6
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,⋅,multiplication dot,multiplication,2 ⋅ 3 = 6
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,÷,division sign / obelus,division,6 ÷ 2 = 3
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,/,division slash,division,6 / 2 = 3
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,—,horizontal line,division / fraction,
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,mod,modulo,remainder calculation,7 mod 2 = 1
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,.,period,"decimal point, decimal separator",2.56 = 2+56/100
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,ab,power,exponent,23 = 8
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,a^b,caret,exponent,2 ^ 3 = 8
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,√a,square root,√a ⋅ √a = a,√9 = ±3
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,3√a,cube root,3√a ⋅ 3√a ⋅ 3√a = a,3√8 = 2
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,4√a,fourth root,4√a ⋅ 4√a ⋅ 4√a ⋅ 4√a = a,4√16 = ±2
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,n√a,n-th root (radical),,"for n=3, n√8 = 2"
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,%,percent,1% = 1/100,10% × 30 = 3
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,‰,per-mille,1‰ = 1/1000 = 0.1%,10‰ × 30 = 0.3
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,,per-million,1ppm = 1/1000000,10ppm × 30 = 0.0003
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,,per-billion,1ppb = 1/1000000000,10ppb × 30 = 3×10-7
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html,,per-trillion,1ppt = 10-12,10ppt × 30 = 3×10-10

@@ -1,0 +1,24 @@
+Table_1
+Unnamed:_1,Function,Manufacturer,Country_of_origin,Cost_per_launch,Height,Diameter,Width,Mass,Stages,Payload_to_LEO_(28.5_),Payload_to_GTO_(27_),Payload_to_Mars,Payload_to_Pluto,Family,Comparable,Status,Launch_sites,Total_launches,Successes,Failures,Partial_failures,Landings,First_flight,No._boosters,Engines,Thrust,Total_thrust,Specific_impulse,Burn_time,Fuel,Engines.1,Thrust.1,Specific_impulse.1,Burn_time.1,Fuel.1,Engines.2,Thrust.2,Specific_impulse.2,Burn_time.2,Fuel.2,Unnamed:_42
+"Falcon Heavy on pad LC-39A, being prepared for its first launch",Orbital heavy-lift launch vehicle,SpaceX; SpaceX,United States,"Reusable: $90M[1]
+ 
+Expendable: $150M[2]; Reusable: $90M[1]
+ 
+Expendable: $150M[2]",70 m (230 ft)[3],3.66 m (12.0 ft)[3],12.2 m (40 ft)[3],"1,420,788 kg (3,132,301 lb)[3]",2+,"63,800 kg (140,700 lb)[3]; 63,800 kg (140,700 lb)","26,700 kg (58,900 lb)[3]","16,800 kg (37,000 lb)[3]; 16,800 kg (37,000 lb)","3,500 kg (7,700 lb)[3]",Falcon 9,"Delta IV Heavy
+ 
+Long March 5
+ 
+New Glenn
+ 
+Saturn C-3
+ 
+Vulcan",Active,"Kennedy LC-39A
+ 
+Boca Chica (under construction); Kennedy LC-39A
+ 
+Boca Chica (under construction)",1,1; 1,0,0; 0,2 / 3 attempts,"February 6, 2018[4][5]; February 6, 2018",2,9 Merlin 1D per booster; 9,"Sea level: 7.6 MN (1,700,000 lbf) (each)
+ Vacuum: 8.2 MN (1,800,000 lbf) (each)","Sea level: 15.2 MN (3,400,000 lbf)
+ Vacuum: 16.4 MN (3,700,000 lbf); 15.2 MN (3,400,000 lb","Sea level: 282 seconds[6]
+ Vacuum: 311 seconds[7]",154 seconds; 154 seconds,Subcooled LOX / Chilled RP-1[8],9 Merlin 1D,"Sea level: 7.6 MN (1,700,000 lbf)
+ Vacuum: 8.2 MN (1,800,000 lbf); 7.6 MN (1,700,000 lb","Sea level: 282 seconds
+ Vacuum: 311 seconds",187 seconds; 187 seconds,Subcooled LOX / Chilled RP-1,1 Merlin 1D Vacuum,"934 kN (210,000 lbf)[3]; 934 kN (210,000 lb",348 seconds[3],397 seconds[3]; 397 seconds,LOX / RP-1,"Falcon Heavy is a partially reusable super heavy-lift launch vehicle[9] designed and manufactured by SpaceX. It is derived from the Falcon 9 vehicle and consists of a strengthened Falcon 9 first stage as a central core with two additional first stages as strap-on boosters.[10] Falcon Heavy has the highest payload capacity of any currently operational launch vehicle and has the fourth-highest capacity of any rocket ever built, trailing the American Saturn V, the Soviet Energia, and the never-successful Soviet N1."

@@ -1,0 +1,652 @@
+Cryptocurrencies
+url,Release_1,Status,Currency,Currency_link,Description
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2009; 2009,Active,Bitcoin,https://en.wikipedia.org/wiki/Bitcoin,"2009
+ 
+Active
+ 
+Bitcoin
+ 
+BTC,[4][5] XBT, ₿
+ 
+Satoshi Nakamoto[nt 1]
+ 
+SHA-256d[6][7]
+ 
+C++[8]
+ 
+PoW[7][9]
+ 
+The first decentralized ledger currency. Cryptocurrency with the most famous, popular, notable and highest market capitalization."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2011; 2011,Active,Litecoin,https://en.wikipedia.org/wiki/Litecoin,"2011
+ 
+Active
+ 
+Litecoin
+ 
+LTC, Ł
+ 
+Charlie Lee
+ 
+Scrypt
+ 
+C++[10]
+ 
+PoW
+ 
+The first cryptocurrency to use Scrypt as a hashing algorithm."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2011; 2011,Active,Namecoin,https://en.wikipedia.org/wiki/Namecoin,"2011
+ 
+Active
+ 
+Namecoin
+ 
+NMC
+ 
+Vincent Durham[11][12]
+ 
+SHA-256d
+ 
+C++[13]
+ 
+PoW
+ 
+Also acts as an alternative, decentralized DNS."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2011; 2011,Active,SwiftCoin,https://en.wikipedia.org/wiki/SwiftCoin,"2011
+ 
+Active
+ 
+SwiftCoin
+ 
+STC
+ 
+Daniel Bruno
+ 
+SHA-256
+ 
+ 
+PoW
+ 
+First digital coin with theoretical value based on the work required to produce electricity. First block chain to support currency creation by interest paid on debt. Solidus Bond proto smart-contract. One of the first digital coins patented in the US. First block chain to support encrypted mail with attachments."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2012; 2012,Active,Bytecoin,https://en.wikipedia.org/wiki/Bytecoin_(cryptocurrency),"2012
+ 
+Active
+ 
+Bytecoin
+ 
+BCN
+ 
+ 
+CryptoNote
+ 
+C++[14]
+ 
+PoW
+ 
+First cryptocurrency based on the CryptoNote algorithm. Focused on user privacy through impassive and anonymous transactions"
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2012; 2012,Active,Peercoin,https://en.wikipedia.org/wiki/Peercoin,"2012
+ 
+Active
+ 
+Peercoin
+ 
+PPC
+ 
+Sunny King
+ (pseudonym)[15]
+ 
+SHA-256d[16]
+ 
+C++[17]
+ 
+PoW & PoS
+ 
+The first cryptocurrency to use POW and POS functions."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2013; 2013,Active,Dogecoin,https://en.wikipedia.org/wiki/Dogecoin,"2013
+ 
+Active
+ 
+Dogecoin
+ 
+DOGE, XDG, Ð
+ 
+Jackson Palmer
+ & Billy Markus[18]
+ 
+Scrypt[19]
+ 
+C++[20]
+ 
+PoW
+ 
+Based on an internet meme."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2013; 2013,Active,Emercoin,https://en.wikipedia.org/wiki/Emercoin,"2013
+ 
+Active
+ 
+Emercoin
+ 
+EMC
+ 
+EvgenijM86 & Yitshak Dorfman
+ 
+SHA-256
+ 
+C++[21]
+ 
+PoW & PoS
+ 
+Trusted storage for any small data: acts as an alternative, decentralized DNS, PKI store, SSL infrastructure and other."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2013[22]; 2013,Active,Feathercoin,https://en.wikipedia.org/wiki/Feathercoin,"2013[22]
+ 
+Active
+ 
+Feathercoin
+ 
+FTC, ₣
+ 
+Peter Bushnell, Brasenose College of Oxford University
+ 
+NeoScrypt
+ 
+C++[23]
+ 
+N/A
+ 
+Approx. 60 seconds block time"
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2013[24][25]; 2013,Active,Gridcoin,https://en.wikipedia.org/wiki/Gridcoin,"2013[24][25]
+ 
+Active
+ 
+Gridcoin
+ 
+GRC
+ 
+Rob Hälford [26]
+ 
+Scrypt
+ 
+C++[27]
+ 
+Decentralized PoS
+ 
+The first cryptocurrency linked to citizen science through the Berkeley Open Infrastructure for Network Computing[28][29]"
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2013; 2013,Active,Primecoin,https://en.wikipedia.org/wiki/Primecoin,"2013
+ 
+Active
+ 
+Primecoin
+ 
+XPM
+ 
+Sunny King
+ (pseudonym)[15]
+ 
+1CC/2CC/TWN[30]
+ 
+TypeScript, C++[31]
+ 
+PoW[30]
+ 
+Uses the finding of prime chains composed of Cunningham chains and bi-twin chains for proof-of-work, which can lead to useful byproducts."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2013; 2013,Active,Ripple,https://en.wikipedia.org/wiki/Ripple_(payment_protocol),"2013
+ 
+Active
+ 
+Ripple[32][33][34]
+ 
+XRP[34]
+ 
+Chris Larsen &
+ Jed McCaleb[35]
+ 
+ECDSA[36]
+ 
+C++[37]
+ 
+""Consensus""
+ 
+Designed for peer to peer debt transfer. Not based on bitcoin."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2013; 2013,Active,Nxt,https://en.wikipedia.org/wiki/Nxt,"2013
+ 
+Active
+ 
+Nxt
+ 
+NXT
+ 
+BCNext
+ (pseudonym)
+ 
+SHA-256d[38]
+ 
+Java[39]
+ 
+PoS
+ 
+Specifically designed as a flexible platform to build applications and financial services around its protocol."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2014; 2014,Active,Auroracoin,https://en.wikipedia.org/wiki/Auroracoin,"2014
+ 
+Active
+ 
+Auroracoin
+ 
+AUR
+ 
+Baldur Odinsson
+ (pseudonym)[40]
+ 
+Scrypt
+ 
+C++[41]
+ 
+PoW
+ 
+Created as an alternative to fiat currency in Iceland."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2014; 2014,,Coinye,https://en.wikipedia.org/wiki/Coinye,"2014
+ 
+Inactive
+ 
+Coinye
+ 
+KOI, COYE
+ 
+ 
+Scrypt
+ 
+ 
+PoW
+ 
+Used American hip hop artist Kanye West as its mascot, abandoned after trademark lawsuit."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2014; 2014,Active,Dash,https://en.wikipedia.org/wiki/Dash_(cryptocurrency),"2014
+ 
+Active
+ 
+Dash
+ 
+DASH
+ 
+Evan Duffield &
+ Kyle Hagan[42]
+ 
+X11
+ 
+C++[43]
+ 
+PoW & Proof of Service[nt 2]
+ 
+A bitcoin-based currency featuring instant transactions, decentralized governance and budgeting, and private transactions."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2014; 2014,Active,NEO,https://en.wikipedia.org/wiki/NEO_(cryptocurrency),"2014
+ 
+Active
+ 
+NEO
+ 
+NEO
+ 
+Da Hongfei & Erik Zhang
+ 
+SHA-256 & RIPEMD160
+ 
+C#[44]
+ 
+dBFT
+ 
+Chinese based cryptocurrency (formerly ANT Shares which produce ANT Coins) name change August 2017 to NEO and GAs, these enable the development of digital assets and smart contracts."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2014; 2014,Active,MazaCoin,https://en.wikipedia.org/wiki/MazaCoin,"2014
+ 
+Active
+ 
+MazaCoin
+ 
+MZC
+ 
+BTC Oyate Initiative
+ 
+SHA-256d
+ 
+C++[45]
+ 
+PoW
+ 
+The underlying software is derived from that of another cryptocurrency, ZetaCoin."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2014; 2014,Active,Monero,https://en.wikipedia.org/wiki/Monero_(cryptocurrency),"2014
+ 
+Active
+ 
+Monero
+ 
+XMR
+ 
+Monero Core Team
+ 
+CryptoNight[46]
+ 
+C++[47]
+ 
+PoW
+ 
+Privacy-centric coin using the CryptoNote protocol with improvements for scalability and decentralization."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2014; 2014,Active,NEM,https://en.wikipedia.org/wiki/NEM_(cryptocurrency),"2014
+ 
+Active
+ 
+NEM
+ 
+XEM
+ 
+UtopianFuture (pseudonym)
+ 
+SHA3-512
+ 
+Java[48]
+ 
+POI
+ 
+The first hybrid public/private blockchain solution built from scratch, and first to use the Proof of Importance algorithm using EigenTrust++ reputation system."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2015; 2015,Active,Tether,https://en.wikipedia.org/wiki/Tether_(cryptocurrency),"2015
+ 
+Active
+ 
+Tether
+ 
+USDT
+ 
+Jan Ludovicus van der Velde[49]
+ 
+Omnicore [50]
+ 
+ 
+PoW
+ 
+Tether is backed by the USD so that one tether is exactly equal to $1USD. It is commonly used to convert other cryptocurrencies to USD.[51]"
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2014; 2014,Active,PotCoin,https://en.wikipedia.org/wiki/PotCoin,"2014
+ 
+Active
+ 
+PotCoin
+ 
+POT
+ 
+Potcoin core dev team
+ 
+Scrypt
+ 
+C++[52]
+ 
+PoS
+ 
+Developed to service the legalized cannabis industry"
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2014; 2014,Active,Synereo AMP,https://en.wikipedia.org/wiki/Synereo,"2014
+ 
+Active
+ 
+Synereo AMP
+ 
+AMP
+ 
+Dor Konforty & Greg Meredith[53]
+ 
+PoS
+ 
+Scala, Java[54]
+ 
+PoS
+ 
+Trying to create a world computer, Synereo’s 2.0 tech stack incorporates all faculties needed to support decentralized computation without central servers.[55]"
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2014; 2014,Active,Titcoin,https://en.wikipedia.org/wiki/Titcoin,"2014
+ 
+Active
+ 
+Titcoin
+ 
+TIT
+ 
+Edward Mansfield & Richard Allen[56]
+ 
+SHA-256d
+ 
+TypeScript, C++[57]
+ 
+PoW
+ 
+The first cryptocurrency to be nominated for a major adult industry award.[58]"
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2014; 2014,Active,Verge,https://en.wikipedia.org/wiki/Verge_(cryptocurrency),"2014
+ 
+Active
+ 
+Verge
+ 
+XVG
+ 
+Sunerok
+ 
+Scrypt, x17, groestl, blake2s, and lyra2rev2
+ 
+C, C++[59]
+ 
+PoW"
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2014; 2014,Active,Stellar,https://en.wikipedia.org/wiki/Stellar_(payment_network),"2014
+ 
+Active
+ 
+Stellar
+ 
+XLM
+ 
+Jed McCaleb
+ 
+Stellar Consensus Protocol (SCP) [60]
+ 
+C, C++[61]
+ 
+Stellar Consensus Protocol (SCP) [60]
+ 
+Open-source, decentralized global financial network. The usage is for remittances, micropayments, services for the underbanked, mobile money/branches and professional setups."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2014; 2014,Active,Vertcoin,https://en.wikipedia.org/wiki/Vertcoin,"2014
+ 
+Active
+ 
+Vertcoin
+ 
+VTC
+ 
+Bushido
+ 
+Lyra2RE[62]
+ 
+C++[63]
+ 
+PoW
+ 
+Next-gen ASIC resistance and first to implement stealth addresses."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2015; 2015,Active,Ether,https://en.wikipedia.org/wiki/Ether_(currency),"2015
+ 
+Active
+ 
+Ether or ""Ethereum""
+ 
+ETH
+ 
+Vitalik Buterin[64]
+ 
+Ethash[65]
+ 
+C++, Go[66]
+ 
+PoW
+ 
+Supports Turing-complete smart contracts."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2015; 2015,Active,Ethereum Classic,https://en.wikipedia.org/wiki/Ethereum_Classic,"2015
+ 
+Active
+ 
+Ethereum Classic
+ 
+ETC
+ 
+ 
+Ethash[65]
+ 
+ 
+PoW
+ 
+An alternative version of Ethereum[67] whose blockchain does not include the DAO Hard-fork.[68][69] Supports Turing-complete smart contracts."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2015; 2015,Active,IOTA,https://en.wikipedia.org/wiki/IOTA_(cryptocurrency),"2015
+ 
+Active
+ 
+IOTA
+ 
+IOT, MIOTA[70]
+ 
+David Sønstebø, Sergey Ivancheglo, Dominik Schiener and Dr. Serguei Popov
+ 
+SHA-3
+ 
+Java[71]
+ 
+Directed acyclic graph
+ 
+The first cryptocurrency using the Tangle, a next generation blockchain, as distributed ledger technology."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2016; 2016,Active,Decred,https://en.wikipedia.org/wiki/Decred,"2016
+ 
+Active
+ 
+Decred
+ 
+DCR
+ 
+ 
+Blake-256
+ 
+Go[72]
+ 
+PoW/PoS Hybrid
+ 
+Built in governance and hybrid PoW/PoS."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2016; 2016,Active,Waves Platform,https://en.wikipedia.org/wiki/Waves_Platform,"2016
+ 
+Active
+ 
+Waves Platform
+ 
+WAVES
+ 
+Sasha Ivanov
+ 
+PoS
+ 
+Scala, JavaScript[73]
+ 
+PoS
+ 
+Open blockchain platform, featuring token creation, distributed exchange and fast, high volume, transactions designed for ease of use[74] and mass adoption."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2016; 2016,Active,Zcash,https://en.wikipedia.org/wiki/Zcash,"2016
+ 
+Active
+ 
+Zcash
+ 
+ZEC
+ 
+Zooko Wilcox
+ 
+Equihash
+ 
+C++[75]
+ 
+PoW
+ 
+The first open, permissionless financial system employing zero-knowledge security."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2017; 2017,,BitConnect,https://en.wikipedia.org/wiki/BitConnect,"2017
+ 
+Inactive
+ 
+BitConnect
+ 
+BCC"
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2017; 2017,Active,Bitcoin Cash,https://en.wikipedia.org/wiki/Bitcoin_Cash,"2017
+ 
+Active
+ 
+Bitcoin Cash
+ 
+BCH[76]
+ 
+ 
+SHA-256d
+ 
+ 
+PoW
+ 
+Hard fork from Bitcoin, Increased Block size from 1mb to 8mb"
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2017; 2017,Active,EOS.IO,https://en.wikipedia.org/wiki/EOS.IO,"2017
+ 
+Active
+ 
+EOS.IO
+ 
+EOS
+ 
+Dan Larimer
+ 
+ 
+WebAssembly, Rust, C, C++[77]
+ 
+delegated Proof-of-stake
+ 
+Feeless Smart contract platform for decentralized applications and decentralized autonomous corporations with a block time of 500 ms.[78][77]"
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2018; 2018,Active,Cardano,https://en.wikipedia.org/wiki/Cardano_(cryptocurrency),"2018
+ 
+Active
+ 
+Cardano
+ 
+ADA
+ 
+Charles Hoskinson & Jeremy Wood
+ 
+ 
+Haskell[79]"
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2018; 2018,,KodakCoin,https://en.wikipedia.org/wiki/KodakCoin,"2018
+ 
+Inactive
+ 
+KodakCoin
+ 
+ 
+Kodak and WENN Digital
+ 
+Ethash[80]
+ 
+ 
+ 
+KodakCoin is a ""photographer-centric"" blockchain cryptocurrency used for payments for licensing photographs."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2018; 2018,Active,Petro,https://en.wikipedia.org/wiki/Petro_(cryptocurrency),"2018
+ 
+Active
+ 
+Petro
+ 
+ 
+Venezuela Government
+ 
+onixCoin[81]
+ 
+C++[82]
+ 
+ 
+First cryptocurrency backed by Venezuela's reserves of oil."
+https://en.wikipedia.org/wiki/List_of_cryptocurrencies,2018; 2018,,Petro gold,https://en.wikipedia.org/wiki/Petro_gold,"2018
+ 
+Proposed
+ 
+Petro gold
+ 
+ 
+Venezuela Government
+ 
+ 
+ 
+ 
+Announced by President Nicolás Maduro February 21, 2018"

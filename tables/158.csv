@@ -1,0 +1,9 @@
+Table_1
+url,Classification,BMI
+http://www.newyorkbariatrics.com/body-mass-index/,Underweight,<19
+http://www.newyorkbariatrics.com/body-mass-index/,Ideal BMI,19-25
+http://www.newyorkbariatrics.com/body-mass-index/,Overweight,25-30
+http://www.newyorkbariatrics.com/body-mass-index/,Obese,>30
+http://www.newyorkbariatrics.com/body-mass-index/,Severely Obese,>35
+http://www.newyorkbariatrics.com/body-mass-index/,Morbidly Obese,>40
+http://www.newyorkbariatrics.com/body-mass-index/,Super Obese,>50

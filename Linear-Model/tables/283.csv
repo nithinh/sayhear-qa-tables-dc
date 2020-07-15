@@ -1,0 +1,53 @@
+Table_1
+url,State,Periodic_safety_inspections,Periodic_emissions_inspections
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Alabama,no,no
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Alaska,no,no
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Arizona,no,biennially for Phoenix and Tucson metros
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Arkansas,no,no
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,California,no,biennially for cars from out-of-state or in-state cars 7 or more years old in all or some zip codes in 41 of 58 counties
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Colorado,no,"biennially in all or parts of 9 out of 64 counties, except for vehicles 7 model years old and newer"
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Connecticut,no,biennially
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Delaware,biennially,biennially
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,District of Columbia,biennially,biennially
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Florida,no,no
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Georgia,no,annually for Atlanta metro
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Hawaii,annually,no
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Idaho,no,yes for Ada and Canyon counties
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Illinois,"no (not actively checked, see above)",biennially for Chicago and St. Louis metros
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Indiana,no,biennially for Lake and Porter counties
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Iowa,no,no
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Kansas,no,no
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Kentucky,no,no
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Louisiana,annually*/biennially,annually for Baton Rouge metro
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Maine,annually,annually for Cumberland county only
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Maryland,no,biennially for 13/23 counties and Baltimore
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Massachusetts,annually,annually
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Michigan,no,no
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Minnesota,no,no
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Mississippi,no,no
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Missouri,biennially,biennially for St. Louis metro
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Montana,no,no
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Nebraska,no,no
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Nevada,no,annually for urban areas of Clark and Washoe counties for most vehicles
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,New Hampshire,annually,annually (Model Year 1996 and Newer Only)
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,New Jersey,no,biennially
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,New Mexico,no,biennially for Bernalillo county only
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,New York,annually,annually
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,North Carolina,annually,annually for 48/100 counties
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,North Dakota,no,no
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Ohio,no,odd/even for Cleveland metro
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Oklahoma,no,no
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Oregon,no,yes for Portland and Medford metros
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Pennsylvania,annually,annually in 25 of 67 counties
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Rhode Island,biennially,biennially
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,South Carolina,no,no
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,South Dakota,no,no
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Tennessee,no,annually for select Nashville counties/Chattanooga area
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Texas,annually,annually for large urban areas
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Utah,biennially,yes for four most populated counties
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Vermont,annually,annually
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Virginia,annually,biennially for urban and suburban northern Virginia
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Washington,no,yes for urban areas of select counties
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,West Virginia,annually,no
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Wisconsin,no,biennially for select counties
+https://en.wikipedia.org/wiki/Vehicle_inspection_in_the_United_States,Wyoming,no,no

@@ -1,0 +1,55 @@
+Euro_conversion
+url,Currency,From_Euro_to_Currency,From_Euro_to_Currency_link,From_Currency_to_Euro,From_Currency_to_Euro_link
+https://x-rates.com/table/?from=EUR&amount=1,Argentine Peso,24.790958,http://x-rates.com/graph/?from=EUR&to=ARS,0.040337,http://x-rates.com/graph/?from=ARS&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Australian Dollar,1.602371,http://x-rates.com/graph/?from=EUR&to=AUD,0.624075,http://x-rates.com/graph/?from=AUD&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Bahraini Dinar,0.462011,http://x-rates.com/graph/?from=EUR&to=BHD,2.164450,http://x-rates.com/graph/?from=BHD&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Botswana Pula,11.814947,http://x-rates.com/graph/?from=EUR&to=BWP,0.084639,http://x-rates.com/graph/?from=BWP&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Brazilian Real,4.188210,http://x-rates.com/graph/?from=EUR&to=BRL,0.238765,http://x-rates.com/graph/?from=BRL&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,British Pound,0.876826,http://x-rates.com/graph/?from=EUR&to=GBP,1.140477,http://x-rates.com/graph/?from=GBP&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Bruneian Dollar,1.617345,http://x-rates.com/graph/?from=EUR&to=BND,0.618297,http://x-rates.com/graph/?from=BND&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Bulgarian Lev,1.955830,http://x-rates.com/graph/?from=EUR&to=BGN,0.511292,http://x-rates.com/graph/?from=BGN&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Canadian Dollar,1.567188,http://x-rates.com/graph/?from=EUR&to=CAD,0.638086,http://x-rates.com/graph/?from=CAD&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Chilean Peso,732.751444,http://x-rates.com/graph/?from=EUR&to=CLP,0.001365,http://x-rates.com/graph/?from=CLP&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Chinese Yuan Renminbi,7.735806,http://x-rates.com/graph/?from=EUR&to=CNY,0.129269,http://x-rates.com/graph/?from=CNY&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Colombian Peso,3392.736334,http://x-rates.com/graph/?from=EUR&to=COP,0.000295,http://x-rates.com/graph/?from=COP&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Croatian Kuna,7.415592,http://x-rates.com/graph/?from=EUR&to=HRK,0.134851,http://x-rates.com/graph/?from=HRK&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Czech Koruna,25.353777,http://x-rates.com/graph/?from=EUR&to=CZK,0.039442,http://x-rates.com/graph/?from=CZK&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Danish Krone,7.448062,http://x-rates.com/graph/?from=EUR&to=DKK,0.134263,http://x-rates.com/graph/?from=DKK&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Emirati Dirham,4.512595,http://x-rates.com/graph/?from=EUR&to=AED,0.221602,http://x-rates.com/graph/?from=AED&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Hong Kong Dollar,9.638155,http://x-rates.com/graph/?from=EUR&to=HKD,0.103754,http://x-rates.com/graph/?from=HKD&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Hungarian Forint,310.827652,http://x-rates.com/graph/?from=EUR&to=HUF,0.003217,http://x-rates.com/graph/?from=HUF&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Icelandic Krona,123.252901,http://x-rates.com/graph/?from=EUR&to=ISK,0.008113,http://x-rates.com/graph/?from=ISK&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Indian Rupee,81.352462,http://x-rates.com/graph/?from=EUR&to=INR,0.012292,http://x-rates.com/graph/?from=INR&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Indonesian Rupiah,17060.642294,http://x-rates.com/graph/?from=EUR&to=IDR,0.000059,http://x-rates.com/graph/?from=IDR&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Iranian Rial,51758.170969,http://x-rates.com/graph/?from=EUR&to=IRR,0.000019,http://x-rates.com/graph/?from=IRR&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Israeli Shekel,4.333231,http://x-rates.com/graph/?from=EUR&to=ILS,0.230775,http://x-rates.com/graph/?from=ILS&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Japanese Yen,132.218932,http://x-rates.com/graph/?from=EUR&to=JPY,0.007563,http://x-rates.com/graph/?from=JPY&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Kazakhstani Tenge,401.110023,http://x-rates.com/graph/?from=EUR&to=KZT,0.002493,http://x-rates.com/graph/?from=KZT&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Kuwaiti Dinar,0.369152,http://x-rates.com/graph/?from=EUR&to=KWD,2.708912,http://x-rates.com/graph/?from=KWD&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Libyan Dinar,1.628266,http://x-rates.com/graph/?from=EUR&to=LYD,0.614150,http://x-rates.com/graph/?from=LYD&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Malaysian Ringgit,4.790520,http://x-rates.com/graph/?from=EUR&to=MYR,0.208746,http://x-rates.com/graph/?from=MYR&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Mauritian Rupee,41.885391,http://x-rates.com/graph/?from=EUR&to=MUR,0.023875,http://x-rates.com/graph/?from=MUR&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Mexican Peso,22.766614,http://x-rates.com/graph/?from=EUR&to=MXN,0.043924,http://x-rates.com/graph/?from=MXN&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Nepalese Rupee,130.774082,http://x-rates.com/graph/?from=EUR&to=NPR,0.007647,http://x-rates.com/graph/?from=NPR&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,New Zealand Dollar,1.704244,http://x-rates.com/graph/?from=EUR&to=NZD,0.586770,http://x-rates.com/graph/?from=NZD&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Norwegian Krone,9.612000,http://x-rates.com/graph/?from=EUR&to=NOK,0.104037,http://x-rates.com/graph/?from=NOK&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Omani Rial,0.472455,http://x-rates.com/graph/?from=EUR&to=OMR,2.116602,http://x-rates.com/graph/?from=OMR&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Pakistani Rupee,142.268586,http://x-rates.com/graph/?from=EUR&to=PKR,0.007029,http://x-rates.com/graph/?from=PKR&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Philippine Peso,64.140813,http://x-rates.com/graph/?from=EUR&to=PHP,0.015591,http://x-rates.com/graph/?from=PHP&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Polish Zloty,4.172555,http://x-rates.com/graph/?from=EUR&to=PLN,0.239661,http://x-rates.com/graph/?from=PLN&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Qatari Riyal,4.472661,http://x-rates.com/graph/?from=EUR&to=QAR,0.223581,http://x-rates.com/graph/?from=QAR&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Romanian New Leu,4.659068,http://x-rates.com/graph/?from=EUR&to=RON,0.214635,http://x-rates.com/graph/?from=RON&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Russian Ruble,75.385556,http://x-rates.com/graph/?from=EUR&to=RUB,0.013265,http://x-rates.com/graph/?from=RUB&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Saudi Arabian Riyal,4.607823,http://x-rates.com/graph/?from=EUR&to=SAR,0.217022,http://x-rates.com/graph/?from=SAR&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Singapore Dollar,1.617345,http://x-rates.com/graph/?from=EUR&to=SGD,0.618297,http://x-rates.com/graph/?from=SGD&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,South African Rand,14.867169,http://x-rates.com/graph/?from=EUR&to=ZAR,0.067262,http://x-rates.com/graph/?from=ZAR&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,South Korean Won,1316.033948,http://x-rates.com/graph/?from=EUR&to=KRW,0.000760,http://x-rates.com/graph/?from=KRW&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Sri Lankan Rupee,192.115006,http://x-rates.com/graph/?from=EUR&to=LKR,0.005205,http://x-rates.com/graph/?from=LKR&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Swedish Krona,10.374010,http://x-rates.com/graph/?from=EUR&to=SEK,0.096395,http://x-rates.com/graph/?from=SEK&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Swiss Franc,1.197905,http://x-rates.com/graph/?from=EUR&to=CHF,0.834791,http://x-rates.com/graph/?from=CHF&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Taiwan New Dollar,36.207594,http://x-rates.com/graph/?from=EUR&to=TWD,0.027619,http://x-rates.com/graph/?from=TWD&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Thai Baht,38.502753,http://x-rates.com/graph/?from=EUR&to=THB,0.025972,http://x-rates.com/graph/?from=THB&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Trinidadian Dollar,8.319266,http://x-rates.com/graph/?from=EUR&to=TTD,0.120203,http://x-rates.com/graph/?from=TTD&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Turkish Lira,5.007516,http://x-rates.com/graph/?from=EUR&to=TRY,0.199700,http://x-rates.com/graph/?from=TRY&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,US Dollar,1.228753,http://x-rates.com/graph/?from=EUR&to=USD,0.813833,http://x-rates.com/graph/?from=USD&to=EUR
+https://x-rates.com/table/?from=EUR&amount=1,Venezuelan Bolivar,12.272169,http://x-rates.com/graph/?from=EUR&to=VEF,0.081485,http://x-rates.com/graph/?from=VEF&to=EUR

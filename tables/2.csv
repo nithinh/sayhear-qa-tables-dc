@@ -1,0 +1,21 @@
+food_safety
+url,Category,food,temperature,resting_time
+https://www.foodsafety.gov/keep/charts/mintemp.html,Ground Meat & Meat Mixtures,"Beef, Pork, Veal, Lamb",160,None
+https://www.foodsafety.gov/keep/charts/mintemp.html,Ground Meat & Meat Mixtures,"Turkey, Chicken",165,None
+https://www.foodsafety.gov/keep/charts/mintemp.html,"Fresh Beef, Veal, Lamb","Steaks, roasts, chops",145,3 minutes
+https://www.foodsafety.gov/keep/charts/mintemp.html,Poultry,"Chicken & Turkey, whole",165,None
+https://www.foodsafety.gov/keep/charts/mintemp.html,Poultry,"Poultry breasts, roasts",165,None
+https://www.foodsafety.gov/keep/charts/mintemp.html,Poultry,"Poultry thighs, legs, wings",165,None
+https://www.foodsafety.gov/keep/charts/mintemp.html,Poultry,Duck & Goose,165,None
+https://www.foodsafety.gov/keep/charts/mintemp.html,Poultry,Stuffing (cooked alone or in bird),165,None
+https://www.foodsafety.gov/keep/charts/mintemp.html,Pork and Ham,Fresh pork,145,3 minutes
+https://www.foodsafety.gov/keep/charts/mintemp.html,Pork and Ham,Fresh ham (raw),145,3 minutes
+https://www.foodsafety.gov/keep/charts/mintemp.html,Pork and Ham,Precooked ham (to reheat),140,None
+https://www.foodsafety.gov/keep/charts/mintemp.html,Eggs & Egg Dishes,Eggs,Cook until yolk and white are firm,None
+https://www.foodsafety.gov/keep/charts/mintemp.html,Eggs & Egg Dishes,Egg dishes,160,None
+https://www.foodsafety.gov/keep/charts/mintemp.html,Leftovers & Casseroles,Leftovers,165,None
+https://www.foodsafety.gov/keep/charts/mintemp.html,Leftovers & Casseroles,Casseroles,165,None
+https://www.foodsafety.gov/keep/charts/mintemp.html,Seafood,Fin Fish,145 or cook until flesh is opaque and separates easily with a fork.,None
+https://www.foodsafety.gov/keep/charts/mintemp.html,Seafood,"Shrimp, lobster, and crabs",Cook until flesh is pearly and opaque.,None
+https://www.foodsafety.gov/keep/charts/mintemp.html,Seafood,"Clams, oysters, and mussels",Cook until shells open during cooking.,None
+https://www.foodsafety.gov/keep/charts/mintemp.html,Seafood,Scallops,Cook until flesh is milky white or opaque and firm.,None

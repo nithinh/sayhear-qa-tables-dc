@@ -1,0 +1,1835 @@
+{
+ "0": {
+  "short_a": "16-feb-18", 
+  "long_a": "black panther comes out in the movie theaters on february 16, 2018.", 
+  "question": "Alexa, when does Black Panther come out in the theaters? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Property\"  LIKE \"%%Release Date%\"", 
+   "column_names": [
+    "url", 
+    "Property", 
+    "Data"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Table_1\"  WHERE  \"Property\"  LIKE \"%%Release Date%\"", 
+  "query": "SELECT Value FROM TABLE WHERE Property LIKE \"%Release Date%\"", 
+  "dirname": "sayhearfall2018_test/http:\\\\www.imdb.com\\title\\tt1825683\\_sayanc_24\\3\\2018@22:59:0", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [], 
+   "preprocessed_query": true
+  }
+ }, 
+ "1": {
+  "short_a": "9:15 pm", 
+  "long_a": "the squashbusters gym closes at 9:15pm on weekdays and at 6pm on weekends.", 
+  "question": "When does Squashbusters gym close?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Close_Time\" FROM Table_1  WHERE  \"Day\"  LIKE \"%%Mon%\"", 
+   "column_names": [
+    "Day", 
+    "Open Time", 
+    "Close Time"
+   ], 
+   "table_name": "SquashBusters_Hours"
+  }, 
+  "preprocessed_query": "SELECT  \"Close_Time\" from \"SquashBusters_Hours\"  WHERE  \"Day\"  LIKE \"%%Mon%\"", 
+  "query": "SELECT 'Close_Time' from 'SquashBusters_Hours' WHERE 'Day' LIKE '%Mon%'", 
+  "dirname": "sayhearfall2018_test/https:\\\\www.yelp.com\\biz\\squashbusters-roxbury-crossing_sstritte_25\\3\\2018@22:53:2", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "Close_Time"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "2": {
+  "short_a": "2.79", 
+  "long_a": "egg mcmuffins cost $2.79.", 
+  "question": "How much are egg mcmuffins?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Price\" FROM Table_1  WHERE  \"Food\"  LIKE \"%%Egg McMuffin%\"", 
+   "column_names": [
+    "url", 
+    "Food", 
+    "Price"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Price\" FROM \"Table_1\"  WHERE  \"Food\"  LIKE \"%%Egg McMuffin%\"", 
+  "query": "SELECT Price FROM TABLE WHERE Food LIKE \"Egg McMuffin\"", 
+  "dirname": "sayhearfall2018_test/https___www_fastfoodmenuprices_com_mcdonalds-prices_?redir_sayanc_27_4_2018@13_13_38", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "$2.79"
+    ], 
+    [
+     "$3.99"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "3": {
+  "short_a": "anthony fauci", 
+  "long_a": "the director of the national institute of allergy and infectious diseases is dr. anthony fauci.", 
+  "question": "Alexa, who is the director of the National Institute of Allergy and Infectious Diseases?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"value\" FROM Table_1  WHERE  \"key\"  LIKE \"%%Institute executive%\";", 
+   "column_names": [
+    "url", 
+    "key", 
+    "value"
+   ], 
+   "table_name": "National_Institute_of_Allergy_and_Infectious_Diseases"
+  }, 
+  "preprocessed_query": "SELECT  \"value\" FROM National_Institute_of_Allergy_and_Infectious_Diseases  WHERE  \"key\"  LIKE \"%%Institute executive%\";", 
+  "query": "SELECT value FROM National_Institute_of_Allergy_and_Infectious_Diseases WHERE key LIKE \"%Institute executive%\";", 
+  "dirname": "sayhearfall2018_test/https___en_wikipedia_org_wiki_National_Institute_of_Allergy_and_Infectious_Diseases_shayati_13_4_2018@15_45_18", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "Anthony S. Fauci; , Director"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "4": {
+  "short_a": "22", 
+  "long_a": "there are 22 new science jobs in rochester ny.", 
+  "question": " Are there any science jobs in Rochester, NY?", 
+  "for_QA_parser": {
+   "query": "SELECT   COUNT ( Title ) FROM Table_1  WHERE  \"Location\"  LIKE \"%%Rochester, NY%\"", 
+   "column_names": [
+    "url", 
+    "Title", 
+    "Title_link", 
+    "Company", 
+    "Location", 
+    "Rating", 
+    "Description", 
+    "Salary"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT   COUNT ( Title ) FROM \"Table_1\"  WHERE  \"Location\"  LIKE \"%%Rochester, NY%\"", 
+  "query": "SELECT COUNT(Title) FROM TABLE WHERE Location LIKE \"Rochester, NY\"", 
+  "dirname": "sayhearfall2018_test/https___www_simplyhired_com_search?q=science&l=rochester%2C+ny&job=eN9qPX6REZIAFp0DShF5_0BRrY7v-QBpKTgg1ZScULkFlJDMAUTwbg_sayanc_27_4_2018@13_3_43", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     22
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "5": {
+  "short_a": "u.s. bank stadium, minneapolis, minnesota", 
+  "long_a": "the game will be held at u.s. bank stadium in minneapolis.", 
+  "question": " Alexa, where is the Super Bowl being played this year?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Key\"  LIKE \"%%Stadium%\"", 
+   "column_names": [
+    "url", 
+    "Key", 
+    "Value"
+   ], 
+   "table_name": "Super_Bowl_LII"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Super_Bowl_LII\"  WHERE  \"Key\"  LIKE \"%%Stadium%\"", 
+  "query": "SELECT Value FROM \"Super Bowl LII\" WHERE Key LIKE \"%Stadium%\"", 
+  "dirname": "sayhearfall2018_test/https___en_wikipedia_org_wiki_Super_Bowl_LII_lcallebe_8_6_2018@16_29_58", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "U.S. Bank Stadium, Minneapolis, Minnesota"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "6": {
+  "short_a": "1 cup peanut butter 1 cup white sugar 1 egg", 
+  "long_a": "white sugar, peanut butter, an egg.", 
+  "question": "how to make 3 ingredient peanut butter cookies", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Ingredients\" FROM Table_1  WHERE  \"Name\"  LIKE \"%%Three%Ingredient%Peanut%Butter%Cookie%\"", 
+   "column_names": [
+    "url", 
+    "Image", 
+    "Image_alt", 
+    "Image_link", 
+    "Name", 
+    "Description", 
+    "Rating", 
+    "Author", 
+    "Ingredients", 
+    "Main_Entity_Of_Page", 
+    "Nutrition_Calories", 
+    "Nutrition_Carbohydrate_Content", 
+    "Nutrition_Cholesterol_Content", 
+    "Nutrition_Fat_Content", 
+    "Nutrition_Protein_Content", 
+    "Nutrition_Sodium_Content", 
+    "Rating_Review_Count", 
+    "Recipe_Category", 
+    "Recipe_Instructions", 
+    "Recipe_Yield", 
+    "Video", 
+    "Video_Content_Url", 
+    "Video_Content_Url_link", 
+    "Video_Description", 
+    "Video_Duration", 
+    "Video_Embed_Url", 
+    "Video_Embed_Url_link", 
+    "Video_Image", 
+    "Video_Image_alt", 
+    "Video_Interaction_Count", 
+    "Video_Publisher", 
+    "Video_Publisher_Logo_Height", 
+    "Video_Publisher_Logo_Url", 
+    "Video_Publisher_Logo_Url_alt", 
+    "Video_Publisher_Logo_Width", 
+    "Video_Thumbnail_Url", 
+    "Video_Thumbnail_Url_alt", 
+    "Video_Upload_Date"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Ingredients\" FROM \"Table_1\"  WHERE  \"Name\"  LIKE \"%%Three%Ingredient%Peanut%Butter%Cookie%\"", 
+  "query": "SELECT Ingredients FROM TABLE WHERE Name LIKE \"Three%Ingredient%Peanut%Butter%Cookie%\"", 
+  "dirname": "sayhearfall2018_test/https___www_allrecipes_com_recipe_11352_three-ingredient-peanut-butter-cookies__sayanc_8_5_2018@18_2_38", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "1 cup peanut butter; 1 cup white sugar; 1 egg"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "7": {
+  "short_a": "internet encyclopedia", 
+  "long_a": "wikipedia is an internet encyclopedia.", 
+  "question": "What is Wikipedia? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Key\"  LIKE \"%%type of site%\"", 
+   "column_names": [
+    "url", 
+    "Key", 
+    "Value"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Table_1\"  WHERE  \"Key\"  LIKE \"%%type of site%\"", 
+  "query": "SELECT Value FROM TABLE WHERE Key LIKE \"type of site\"", 
+  "dirname": "sayhearfall2018_test/https___simple_wikipedia_org_wiki_Wikipedia_sayanc_12_4_2018@22_54_31", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "Internet encyclopedia"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "8": {
+  "short_a": "october 28 1967", 
+  "long_a": "julia roberts was born on october 28, 1967.", 
+  "question": " Alexa, what year was Julia Roberts born?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"value\" FROM Table_1  WHERE  \"Key\"  LIKE \"%%Born%\"", 
+   "column_names": [
+    "Key", 
+    "Value"
+   ], 
+   "table_name": "Julia_Roberts"
+  }, 
+  "preprocessed_query": "SELECT  \"value\" FROM \"Julia_Roberts\"  WHERE  \"Key\"  LIKE \"%%Born%\"", 
+  "query": "SELECT value FROM 'Julia Roberts' WHERE Key LIKE '%Born%'", 
+  "dirname": "sayhearfall2018_test/https___en_wikipedia_org_wiki_Julia_Roberts_lcallebe_16_5_2018@13_21_6", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "julia fiona roberts  ( 1967-10-28 ) october 28, 1967 (age\u00a050)  smyrna, georgia , u.s."
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "9": {
+  "short_a": "friendly with people needs a firm leader differences: the alaskan malamute is much larger and stronger than the siberian husky. the malamute never has blue eyes like the siberian husky. the siberian husky has a longer lifespan on average. the siberian husky is a faster runner. the siberian husky needs lots more vigorous exercise (e.g. hiking, jogging). the siberian husky is more intelligent than the malamute. the alaskan malamute is calmer indoors than the siberian husky. the siberian husky is more sociable with other dogs. the siberian husky prefers to live with other dogs.", 
+  "long_a": "the dogs differ in size, eye color,and coat.", 
+  "question": " What's the difference between a Siberian Husky and a Malamute?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Key\"  LIKE \"%%differences%\"", 
+   "column_names": [
+    "Key", 
+    "Value"
+   ], 
+   "table_name": "Siberian_Husky_vs_Malamute"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Siberian_Husky_vs_Malamute\"  WHERE  \"Key\"  LIKE \"%%differences%\"", 
+  "query": "SELECT Value FROM \"Siberian Husky vs Malamute\" WHERE Key LIKE \"%differences%\"", 
+  "dirname": "sayhearfall2018_test/https___animalso_com_breeds_malamute-vs-husky_#tab-con-2_sayanc_5_5_2018@13_37_58", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "the alaskan malamute is much larger and stronger than the siberian husky. the malamute never has blue eyes like the siberian husky. the siberian husky has a longer lifespan on average. the siberian husky is a faster runner. the siberian husky needs lots more vigorous exercise (e.g. hiking, jogging). the siberian husky is more intelligent than the malamute. the alaskan malamute is calmer indoors than the siberian husky. the siberian husky is more sociable with other dogs. the siberian husky prefers to live with other dogs."
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "10": {
+  "short_a": "online advertising", 
+  "long_a": "google adsense is an online adverstising tool.", 
+  "question": " Alexa, what is Google Adsense", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"KEY\"  LIKE \"%%Type%\"", 
+   "column_names": [
+    "url", 
+    "Key", 
+    "Key_link", 
+    "Value"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Table_1\"  WHERE  \"KEY\"  LIKE \"%%Type%\"", 
+  "query": "SELECT Value FROM TABLE WHERE KEY LIKE \"Type\"", 
+  "dirname": "sayhearfall2018_test/https___en_wikipedia_org_wiki_AdSense_sayanc_13_4_2018@1_27_14", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "Online advertising"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "11": {
+  "short_a": "4-5 years", 
+  "long_a": "cats live for 4 to 5 years.", 
+  "question": "How long do cats live?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Property\"  LIKE \"%%Lifespan%\"", 
+   "column_names": [
+    "url", 
+    "Property", 
+    "Value"
+   ], 
+   "table_name": "Cat_Info"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM Cat_Info  WHERE  \"Property\"  LIKE \"%%Lifespan%\"", 
+  "query": "SELECT Value FROM Cat_Info\nWHERE Property LIKE '%Lifespan%'", 
+  "dirname": "sayhearfall2018_test/https___www_google_com_search?q=cat+lifespan_xiyangz_15_4_2018@21_48_12", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "4 \u2013 5 years (In the wild)"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "12": {
+  "short_a": "#4cbb17", 
+  "long_a": "the kelly green color is #4cbb17.", 
+  "question": "What is the kelly green hex code?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Color_Value\" FROM Table_1  WHERE  \"Color_Model\"  LIKE \"%%HEX%\"", 
+   "column_names": [
+    "url", 
+    "Color_Model", 
+    "Color_Value"
+   ], 
+   "table_name": "Kelly_Green_Color"
+  }, 
+  "preprocessed_query": "SELECT  \"Color_Value\" FROM Kelly_Green_Color  WHERE  \"Color_Model\"  LIKE \"%%HEX%\"", 
+  "query": "SELECT Color_Value FROM Kelly_Green_Color\nWHERE Color_Model LIKE '%HEX%'", 
+  "dirname": "sayhearfall2018_test/http___www_99colors_net_name_kelly-green_xiyangz_13_4_2018@0_52_36", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "#4CBB17"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "13": {
+  "short_a": "normally, swallowing causes a little click or popping sound in the ear. this occurs because a small bubble of air has entered the middle ear, up from the back of the nose.", 
+  "long_a": "ears pop because a bubble of air has entered the middle of the ear and pops, usually when you swallow.", 
+  "question": "Why are my ears always popping? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Answers\" FROM Table_1  WHERE  \"Questions\"  LIKE \"%%Why do ears pop%\"", 
+   "column_names": [
+    "Questions", 
+    "Answers"
+   ], 
+   "table_name": "Ears_and_Altitude"
+  }, 
+  "preprocessed_query": "SELECT  \"Answers\" FROM \"Ears_and_Altitude\"  WHERE  \"Questions\"  LIKE \"%%Why do ears pop%\"", 
+  "query": "SELECT Answers FROM \"Ears and Altitude\" WHERE Questions LIKE \"%Why do ears pop%\"", 
+  "dirname": "sayhearfall2018_test/http___www_entnet_org_content_ears-and-altitude_lcallebe_12_4_2018@15_6_37", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "normally, swallowing causes a little click or popping sound in the ear. this occurs because a small bubble of air has entered the middle ear, up from the back of the nose. it passes through the eustachian tube, a membrane-lined tube about the size of a pencil lead that connects the back of the nose with the middle ear. the air in the middle ear is constantly being absorbed by its membranous lining and re-supplied through the eustachian tube. in this manner, air pressure on both sides of the eardrum stays about equal. if, and when, the air pressure is not equal the ear feels blocked. the eustachian tube can be blocked, or obstructed, for a variety of reasons. when that occurs, the middle ear pressure cannot be equalized. the air already there is absorbed and a vacuum occurs, sucking the eardrum inward and stretching it. such an eardrum cannot vibrate naturally, so sounds are muffled or blocked, and the stretching can be painful. if the tube remains blocked, fluid (like blood serum) will seep into the area from the membranes in an attempt to overcome the vacuum. this is called \u0093fluid in the ear,\u0094 serous otitis or aero-otitis. uncommon problems include developing a hole in the ear drum, hearing loss and dizziness.  the most common cause for a blocked eustachian tube is the common cold. sinus infections and nasal allergies are also common causes. a stuffy nose leads to stuffy ears because the swollen membranes block the opening of the eustachian tube."
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "14": {
+  "short_a": "happy supermarket", 
+  "long_a": "happy supermarket on 1299 nw 79th st\nmiami, fl 33147 is the best condom shop in miami.", 
+  "question": " Where do I find the best condoms in Miami?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Name\" FROM Table_1  WHERE  \"Search_Result\"  LIKE \"%%1.%\"", 
+   "column_names": [
+    "url", 
+    "Image_1", 
+    "Image_1_alt", 
+    "Image_1_link", 
+    "Search_Result", 
+    "Name", 
+    "Name_link", 
+    "Review_Count", 
+    "Cost", 
+    "Category_1", 
+    "Category_1_link", 
+    "Category_2", 
+    "Category_2_link", 
+    "Neighborhood", 
+    "Category_3", 
+    "Category_3_link", 
+    "Address", 
+    "City", 
+    "Phone_Number", 
+    "Image_2", 
+    "Image_2_alt", 
+    "Image_2_link", 
+    "Snippet"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Name\" FROM \"Table_1\"  WHERE  \"Search_Result\"  LIKE \"%%1.%\"", 
+  "query": "SELECT Name FROM TABLE WHERE \"Search Result\" LIKE \"1.\"", 
+  "dirname": "sayhearfall2018_test/https___www_yelp_com_search?find_desc=condoms&find_loc=Miami%2C+FL_sayanc_2_5_2018@20_30_8", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "Happy Supermarket"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "15": {
+  "short_a": "299", 
+  "long_a": "benefits: free voice, unlimited data (3gb high speed data per day, thereafter unlimited at 64kbps), 100sms/day and complimentary subscription to jio apps. validity: 28days", 
+  "question": "Alexa what is the price of jio 4G Net pack 3Gb per day month Pack?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"price\" FROM Table_1  WHERE  \"plan_heading\"  LIKE \"%%3 GB/DAY%\" ;", 
+   "column_names": [
+    "url", 
+    "Plan_Heading", 
+    "price", 
+    "data", 
+    "validity"
+   ], 
+   "table_name": "jio"
+  }, 
+  "preprocessed_query": "SELECT  \"price\" FROM jio  WHERE  \"plan_heading\"  LIKE \"%%3 GB/DAY%\" ;", 
+  "query": "SELECT price FROM jio WHERE plan_heading LIKE \"%3 GB/DAY%\" ;", 
+  "dirname": "sayhearfall2018_test/https___www_jio_com_en-in_4g-plans_rolivier_24_4_2018@1_34_39", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "299"
+    ], 
+    [
+     "509"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "16": {
+  "short_a": "no. 24", 
+  "long_a": "the carolina panthers will draft at pick number 24 in the 2018 nfl draft.", 
+  "question": "Alexa, what draft pick will the Carolina Panthers have in the first round of the NFL draft? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Pick\" FROM Table_1  WHERE  \"Team\"  LIKE \"%%Panthers%\"", 
+   "column_names": [
+    "url", 
+    "Pick", 
+    "Team", 
+    "Record"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Pick\" FROM \"Table_1\"  WHERE  \"Team\"  LIKE \"%%Panthers%\"", 
+  "query": "SELECT Pick FROM TABLE WHERE Team LIKE \"Panthers\"", 
+  "dirname": "sayhearfall2018_test/https___pantherswire_usatoday_com_2018_01_08_carolina-panthers-will-pick-no-24-in-the-2018-nfl-draft__sayanc_12_4_2018@2_7_47", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "24"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "17": {
+  "short_a": "high blood pressure", 
+  "long_a": "hypertension is another name for high blood pressure.", 
+  "question": "Alexa, what is hypertension?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Definition\" FROM Table_1  WHERE  \"Term\"  LIKE \"%%Hypertension%\"", 
+   "column_names": [
+    "url", 
+    "Term", 
+    "Definition"
+   ], 
+   "table_name": "Hypertension_Glossary"
+  }, 
+  "preprocessed_query": "SELECT  \"Definition\" from \"Hypertension_Glossary\"  WHERE  \"Term\"  LIKE \"%%Hypertension%\"", 
+  "query": "SELECT 'Definition' from 'Hypertension_Glossary' WHERE 'Term' LIKE '%Hypertension%'", 
+  "dirname": "sayhearfall2018_test/https___my_clevelandclinic_org_health_articles_12273-hypertension-glossary_sstritte_10_4_2018@17_43_20", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     ": High blood pressure that does not have an apparent cause. The vast majority (95%) of high blood pressure is essential hypertension."
+    ], 
+    [
+     ": High blood pressure."
+    ], 
+    [
+     ": High blood pressure that is caused by conditions such as alcohol or drug abuse, pregnancy, kidney disorders, or taking certain medicines."
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "18": {
+  "short_a": "europe", 
+  "long_a": "scotland is part of europe.", 
+  "question": " Siri, what continent is scotland a part of?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Key\"  LIKE \"%%Continent%\"", 
+   "column_names": [
+    "Key", 
+    "Value"
+   ], 
+   "table_name": "Geography_of_Scotland"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Geography_of_Scotland\"  WHERE  \"Key\"  LIKE \"%%Continent%\"", 
+  "query": "SELECT Value FROM 'Geography of Scotland' WHERE Key LIKE '%Continent%'", 
+  "dirname": "sayhearfall2018_test/https___en_wikipedia_org_wiki_Geography_of_Scotland_lcallebe_14_5_2018@9_59_46", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "europe"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "19": {
+  "short_a": "february 2", 
+  "long_a": "groundhog day is february 2.", 
+  "question": "When is Groundhog Day?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Date\" FROM Table_1  WHERE  \"Holiday\"  LIKE \"%%Groundhog_Day%\"", 
+   "column_names": [
+    "url", 
+    "Date", 
+    "Holiday", 
+    "Holiday_link", 
+    "Day", 
+    "Days_To_Go"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Date\" FROM \"Table_1\"  WHERE  \"Holiday\"  LIKE \"%%Groundhog_Day%\"", 
+  "query": "SELECT 'Date' from table WHERE 'Holiday' LIKE '%Groundhog_Day%'", 
+  "dirname": "sayhearfall2018_test/https:\\\\www.calendar-365.com\\holidays\\2018.html_sstritte_28\\3\\2018@1:2:58", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "February 2"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "20": {
+  "short_a": "nbc 6:30 pm", 
+  "long_a": "i found the answer to my question about the superbowl.", 
+  "question": " What is the superbowl being televised on channel in new england", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"KEY\"  LIKE \"%%TV%\"", 
+   "column_names": [
+    "Key", 
+    "Value"
+   ], 
+   "table_name": "How_to_Watch_Super_Bowl_LII"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"How_to_Watch_Super_Bowl_LII\"  WHERE  \"KEY\"  LIKE \"%%TV%\"", 
+  "query": "SELECT Value FROM TABLE WHERE KEY LIKE \"TV\"", 
+  "dirname": "sayhearfall2018_test/https___www_cbssports_com_nfl_news_super-bowl-2018-kickoff-time-how-to-watch-on-tv-stream-info-halftime-and-more__sayanc_13_4_2018@14_50_21", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "tv: nbc (check local listings)"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "21": {
+  "short_a": "anually", 
+  "long_a": "vehicle in new york state must be inspected anually for both safety and emission", 
+  "question": " Siri, how often does New York State require cars to be inspected?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Periodic_safety_inspections\", \"Periodic_emissions_inspections\" FROM Table_1  WHERE  \"State\"  LIKE \"%%New York%\" ;", 
+   "column_names": [
+    "url", 
+    "State", 
+    "Periodic_safety_inspections", 
+    "Periodic_emissions_inspections"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Periodic_safety_inspections\", \"Periodic_emissions_inspections\" FROM \"Table_1\"  WHERE  \"State\"  LIKE \"%%New York%\" ;", 
+  "query": "SELECT Periodic_safety_inspections,Periodic_emissions_inspections FROM table WHERE State LIKE \"%New York%\" ;", 
+  "dirname": "sayhearfall2018_test/https:\\\\en.wikipedia.org\\wiki\\Vehicle_inspection_in_the_United_States_rolivier_23\\3\\2018@11:7:43", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "annually", 
+     "annually"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "22": {
+  "short_a": "180 days", 
+  "long_a": "under georgia law, residency is established once one has lived in georgia for six months.", 
+  "question": " How do you establish jurisdiction for divorce in Georgia?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Residency\" FROM Table_1  WHERE  \"State\"  LIKE \"%%Georgia%\"", 
+   "column_names": [
+    "url", 
+    "State", 
+    "Residency"
+   ], 
+   "table_name": "Divorce_Residency_Requirements"
+  }, 
+  "preprocessed_query": "SELECT  \"Residency\" FROM \"Divorce_Residency_Requirements\"  WHERE  \"State\"  LIKE \"%%Georgia%\"", 
+  "query": "SELECT Residency FROM \"Divorce Residency Requirements\" WHERE State LIKE \"%Georgia%\"", 
+  "dirname": "sayhearfall2018_test/https___www_divorcewriter_com_divorce-residency-requirements_aspx_lcallebe_13_4_2018@10_12_52", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "State: 180 days\nCounty: No in-county minimum. You can always file in Respondent's county. If Respondent doesn't live in-state, file in Petitioner's county. If both spouses agree on any other county, DivorceWriter provides a form for the Respondent to sign consenting to the jurisdiction of the court in the agreed upon county."
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "23": {
+  "short_a": "corticosteroids, ibuprofen and acetaminophen.", 
+  "long_a": "the treatment for epstein-barr virus is corticosteroids, ibuprofen and acetaminophen.", 
+  "question": "What is the treatment for Epstein-Barr virus? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Property\"  LIKE \"%%What is the treatment for Epstein-Barr virus?%\"", 
+   "column_names": [
+    "Property", 
+    "Value"
+   ], 
+   "table_name": "Questions_and_Answers"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Questions_and_Answers\"  WHERE  \"Property\"  LIKE \"%%What is the treatment for Epstein-Barr virus?%\"", 
+  "query": "SELECT Value FROM Questions_And_Answers WHERE Property LIKE \"What is the treatment for Epstein-Barr virus?\"", 
+  "dirname": "sayhearfall2018_test/https:\\\\www.reference.com\\health\\treatment-epstein-barr-virus-3083334982f8258f_sayanc_24\\3\\2018@23:13:16", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "the epstein-barr virus, or ebv, has no cure or designated treatment, but physicians typically recommend medications such as ibuprofen, acetaminophen and corticosteroids to relieve fever, pain and inflammation symptoms, according to healthgrades."
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "24": {
+  "short_a": "687,584", 
+  "long_a": "the population of boston in 2018 is 687,584.", 
+  "question": "Alexa, what is the population of Boston, MA?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"2018_Population\" FROM Table_1  WHERE  \"Name\"  LIKE \"%%Boston%\"", 
+   "column_names": [
+    "url", 
+    "Rank", 
+    "Name", 
+    "Name_link", 
+    "State", 
+    "State_link", 
+    "2018_Population", 
+    "2016_Population", 
+    "2010_Census", 
+    "Change", 
+    "2018_Density"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"2018_Population\" FROM \"Table_1\"  WHERE  \"Name\"  LIKE \"%%Boston%\"", 
+  "query": "SELECT '2018_Population' from table WHERE 'Name' LIKE '%Boston%'", 
+  "dirname": "sayhearfall2018_test/http:\\\\worldpopulationreview.com\\us-cities\\_sstritte_29\\3\\2018@12:54:56", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "687,584"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "25": {
+  "short_a": "7 november 2001 (london)\n1 february 2002 (united kingdom)", 
+  "long_a": "gosford park was released in november 2001 in london and in february 2002 in the rest of the uk.", 
+  "question": " what year did Gosford Park come out?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"key\"  LIKE \"%%Release date%\"", 
+   "column_names": [
+    "key", 
+    "Value"
+   ], 
+   "table_name": "Gosford_Park"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Gosford_Park\"  WHERE  \"key\"  LIKE \"%%Release date%\"", 
+  "query": "SELECT Value FROM 'Gosford Park' WHERE key LIKE '%Release date%'", 
+  "dirname": "sayhearfall2018_test/https___en_wikipedia_org_wiki_Gosford_Park_lcallebe_3_5_2018@16_48_45", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "   7\u00a0november\u00a02001 ( 2001-11-07 ) ( london )  1\u00a0february\u00a02002 ( 2002-02-01 ) (united kingdom)      "
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "26": {
+  "short_a": "nicholas ii; vladimir lenin", 
+  "long_a": "the leader of russia during world war i were nicholas ii and vladimir lenin.", 
+  "question": "Alexa, who was the leader of Russia during World War I? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Leader\" FROM Table_1  WHERE  \"COUNTRY\"  LIKE \"%%Russia%\"", 
+   "column_names": [
+    "url", 
+    "Country", 
+    "Leader"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Leader\" FROM \"Table_1\"  WHERE  \"COUNTRY\"  LIKE \"%%Russia%\"", 
+  "query": "SELECT Leader FROM TABLE WHERE COUNTRY LIKE \"%Russia%\"", 
+  "dirname": "sayhearfall2018_test/https___en_wikipedia_org_wiki_Allied_leaders_of_World_War_I#Russian_Empire_sayanc_12_4_2018@2_2_41", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "Nicholas II"
+    ], 
+    [
+     "Vladimir Lenin"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "27": {
+  "short_a": "mon - sun 6am - 11pm", 
+  "long_a": "the walmart in pittsburgh, pa closes at 11 pm everyday.", 
+  "question": "Alexa, what time does wal-mart close? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Key\"  LIKE \"%%hour%\"", 
+   "column_names": [
+    "url", 
+    "Key", 
+    "Value"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Table_1\"  WHERE  \"Key\"  LIKE \"%%hour%\"", 
+  "query": "SELECT Value FROM TABLE WHERE Key LIKE \"%hour%\"", 
+  "dirname": "sayhearfall2018_test/https___www_walmart_com_store_5339_pittsburgh-pa_details_sayanc_12_4_2018@14_45_15", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "Mon - Sun\n6am - 11pm\n(412) 782-4444"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "28": {
+  "short_a": "barton creek square\n 2901 s capital of texas highway", 
+  "long_a": "the cheesecake factory is located barton creek square 2901 s capital of texas highway", 
+  "question": "Siri, where is the Cheesecake Factory located at Barton Creek Mall ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Key\"  LIKE \"%%Location%\"", 
+   "column_names": [
+    "Key", 
+    "Value"
+   ], 
+   "table_name": "Cheesecake_Factory_at_Barton_Creek_Mall"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Cheesecake_Factory_at_Barton_Creek_Mall\"  WHERE  \"Key\"  LIKE \"%%Location%\"", 
+  "query": "SELECT Value FROM \"Cheesecake Factory at Barton Creek Mall\" WHERE Key LIKE \"Location\"", 
+  "dirname": "sayhearfall2018_test/http___locations_thecheesecakefactory_com_tx_austin-188_html_sayanc_20_4_2018@17_55_18", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "located at the southwest entrance to the barton creek square mall adjacent the amc theatre. reservations are available for certain times of the day."
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "29": {
+  "short_a": "no", 
+  "long_a": "a period of 90 days without a repayment results in the amount taxed as income, with a potential 10% penalty on top if you\u2019re under 59.5 years old", 
+  "question": "Does a loan from my 401k count as taxable income?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"401kloan\" FROM Table_1  WHERE  \"info\"  LIKE \"%%Tax%\"", 
+   "column_names": [
+    "url", 
+    "info", 
+    "Personal_Loan", 
+    "401kloan"
+   ], 
+   "table_name": "loans"
+  }, 
+  "preprocessed_query": "SELECT  \"401kloan\" FROM loans  WHERE  \"info\"  LIKE \"%%Tax%\"", 
+  "query": "SELECT 401kloan FROM loans WHERE info LIKE \"%Tax%\"", 
+  "dirname": "sayhearfall2018_test/https___www_finder_com_personal-loan-vs-401k-loan_rolivier_24_4_2018@1_3_54", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "A period of 90 days without a repayment results in the amount taxed as income, with a potential 10% penalty on top if you\u2019re under 59.5 years old"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "30": {
+  "short_a": "100\u2013400 billion (2.5 \u00d7 1011 \u00b1 1.5 \u00d7 1011)[6][7][8]", 
+  "long_a": "there are 100\u2013400 billion stars in the milky way.", 
+  "question": " Alexa, how many stars are in the Milky Way Galaxy?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Key\"  LIKE \"%%number%of%stars%\"", 
+   "column_names": [
+    "url", 
+    "Key", 
+    "Key_link", 
+    "Value"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Table_1\"  WHERE  \"Key\"  LIKE \"%%number%of%stars%\"", 
+  "query": "SELECT Value FROM TABLE WHERE Key LIKE \"%number%of%stars%\"", 
+  "dirname": "sayhearfall2018_test/https___en_wikipedia_org_wiki_Milky_Way_sayanc_26_4_2018@1_57_38", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "100\u2013400 billion (2.5 \u00d7 1011 \u00b1 1.5 \u00d7 1011)[6][7][8]"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "31": {
+  "short_a": "april 17, 2018", 
+  "long_a": "the post dvd release date was april 17, 2018.", 
+  "question": "Alexa, when is the movie \"The Post\" coming to DVD?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Release_Date\" FROM Table_1  WHERE  \"Format\"  LIKE \"%%DVD%\"", 
+   "column_names": [
+    "url", 
+    "Format", 
+    "UPC", 
+    "Release_Date", 
+    "Amazon_Price", 
+    "Best_Buy_Price"
+   ], 
+   "table_name": "The_Post_Release"
+  }, 
+  "preprocessed_query": "SELECT  \"Release_Date\" FROM The_Post_Release  WHERE  \"Format\"  LIKE \"%%DVD%\"", 
+  "query": "SELECT Release_Date FROM The_Post_Release\nWHERE Format LIKE '%DVD%'", 
+  "dirname": "sayhearfall2018_test/https___www_dvdsreleasedates_com_movies_8544_the-post_xiyangz_1_5_2018@22_34_59", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "April 17, 2018"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "32": {
+  "short_a": "43-39", 
+  "long_a": "washington wizards win-loss record is 43-39.", 
+  "question": "What is washington wizards record?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"W\", \"L\" FROM Table_1  WHERE  \"Team\"  LIKE \"%%Washington%\"", 
+   "column_names": [
+    "url", 
+    "Team", 
+    "W", 
+    "L", 
+    "Pct", 
+    "Gb", 
+    "Strk"
+   ], 
+   "table_name": "NBA_Southeast_Standings"
+  }, 
+  "preprocessed_query": "SELECT  \"W\", \"L\" FROM NBA_Southeast_Standings  WHERE  \"Team\"  LIKE \"%%Washington%\"", 
+  "query": "SELECT W, L FROM NBA_Southeast_Standings\nWHERE Team LIKE '%Washington%'", 
+  "dirname": "sayhearfall2018_test/http___www_espn_com_nba_team___name_wsh_washington-wizards_xiyangz_15_5_2018@13_19_24", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "43", 
+     "39"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "33": {
+  "short_a": "250,776", 
+  "long_a": "the municipality (commune) of bordeaux proper has a population of 250,776 (2016).", 
+  "question": " Alexa, what is the population of Bordeaux, France?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"values\" FROM Table_1  WHERE  \"keys\"  LIKE \"%%Population%\"", 
+   "column_names": [
+    "url", 
+    "keys", 
+    "values"
+   ], 
+   "table_name": "Bordeaux"
+  }, 
+  "preprocessed_query": "SELECT  \"values\" FROM Bordeaux  WHERE  \"keys\"  LIKE \"%%Population%\"", 
+  "query": "SELECT values FROM Bordeaux where keys LIKE \"%Population%\"", 
+  "dirname": "sayhearfall2018_test/https___en_wikipedia_org_wiki_Bordeaux_shayati_8_4_2018@22_35_38", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "250,776"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "34": {
+  "short_a": "feb. 16, 2018 (friday)", 
+  "long_a": "chinese new years is on friday, february 16, 2018.", 
+  "question": "What day is Chinese New Years?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Dates\" FROM Table_1  WHERE  \"Years\"  LIKE \"%%2018%\"", 
+   "column_names": [
+    "url", 
+    "Years", 
+    "Dates", 
+    "Lasting_Days", 
+    "Animal_Signs"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Dates\" FROM \"Table_1\"  WHERE  \"Years\"  LIKE \"%%2018%\"", 
+  "query": "SELECT 'Dates' from table WHERE 'Years' LIKE '%2018%'", 
+  "dirname": "sayhearfall2018_test/https:\\\\www.travelchinaguide.com\\essential\\holidays\\new-year\\dates.htm_sstritte_21\\3\\2018@22:26:39", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "Feb. 16, 2018 (Friday)"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "35": {
+  "short_a": "apr 17", 
+  "long_a": "taxes are due april 17, 2018.", 
+  "question": "When are taxes due?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Date\" FROM Table_1  WHERE  \"Year\"  LIKE \"%%2018%\"", 
+   "column_names": [
+    "url", 
+    "Weekday", 
+    "Date", 
+    "Year"
+   ], 
+   "table_name": "US_Tax_Day"
+  }, 
+  "preprocessed_query": "SELECT  \"Date\" FROM US_Tax_Day  WHERE  \"Year\"  LIKE \"%%2018%\"", 
+  "query": "SELECT Date FROM US_Tax_Day\nWHERE Year LIKE '%2018%'", 
+  "dirname": "sayhearfall2018_test/https___www_timeanddate_com_holidays_us_tax-day_xiyangz_21_4_2018@23_6_17", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "Apr 17"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "36": {
+  "short_a": "legit", 
+  "long_a": "swagbucks is an online reward program that is legitimate.", 
+  "question": "Alexa, does Swagbucks work?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"value\" FROM Table_1  WHERE  \"key\"  LIKE \"%%VERDICT%\";", 
+   "column_names": [
+    "url", 
+    "key", 
+    "value"
+   ], 
+   "table_name": "Swagbucks"
+  }, 
+  "preprocessed_query": "SELECT  \"value\" FROM Swagbucks  WHERE  \"key\"  LIKE \"%%VERDICT%\";", 
+  "query": "SELECT value FROM Swagbucks WHERE key LIKE \"%VERDICT%\";", 
+  "dirname": "sayhearfall2018_test/http___waystoavoidscamsonline_com_is-swagbucks-a-scam-or-worthwhile-opportunity_shayati_17_4_2018@11_0_47", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "LEGIT; , Very Limited Earning Potential"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "37": {
+  "short_a": "laurie metcalf", 
+  "long_a": "laurie metcalf plays mary cooper who is sheldon's mother", 
+  "question": "Alexa, who is the actress that plays Sheldon's mother?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Portrayed_by\" FROM Table_1  WHERE  \"Character\"  LIKE \"%%Mary Cooper%\";", 
+   "column_names": [
+    "url", 
+    "Character", 
+    "Portrayed_by", 
+    "Seasons"
+   ], 
+   "table_name": "Character_Appearances"
+  }, 
+  "preprocessed_query": "SELECT  \"Portrayed_by\" FROM \"Character_Appearances\"  WHERE  \"Character\"  LIKE \"%%Mary Cooper%\";", 
+  "query": "SELECT \"Portrayed by\" FROM Character_Apperances WHERE \"Character\" LIKE \"%Mary Cooper%\";", 
+  "dirname": "sayhearfall2018_test/https___en_wikipedia_org_wiki_List_of_The_Big_Bang_Theory_characters#Mary_Cooper_shayati_10_4_2018@13_48_44", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "Laurie Metcalf"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "38": {
+  "short_a": "self-employed people are responsible for paying the same federal income taxes as everyone else.", 
+  "long_a": "self-employed people are responsible for paying the same federal income taxes as everyone else.", 
+  "question": " Siri, does self employment require you to pay taxes", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Key\"  LIKE \"%%Overview%\"", 
+   "column_names": [
+    "url", 
+    "Key", 
+    "Value"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Table_1\"  WHERE  \"Key\"  LIKE \"%%Overview%\"", 
+  "query": "SELECT Value FROM TABLE WHERE Key LIKE \"%Overview%\"", 
+  "dirname": "sayhearfall2018_test/https___turbotax_intuit_com_tax-tips_self-employment-taxes_self-employed-federal-income-taxes_L7fmfVHM3_sayanc_20_4_2018@17_37_30", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "Self-employed people are responsible for paying the same federal income taxes as everyone else."
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "39": {
+  "short_a": "jan. 26, 1837", 
+  "long_a": "michigan became a state on janunary 26, 1837.", 
+  "question": "Alexa, what year did Michigan become a state? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Date\" FROM Table_1  WHERE  \"State_Name\"  LIKE \"%%Michigan%\"", 
+   "column_names": [
+    "url", 
+    "State_Name", 
+    "Date", 
+    "Order", 
+    "Pre-Statehood_Notes"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Date\" FROM \"Table_1\"  WHERE  \"State_Name\"  LIKE \"%%Michigan%\"", 
+  "query": "SELECT 'Date' from table' WHERE 'State_Name' LIKE '%Michigan%'", 
+  "dirname": "sayhearfall2018_test/https:\\\\www.50states.com\\statehood.htm_sstritte_21\\3\\2018@21:56:29", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "Jan. 26, 1837"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "40": {
+  "short_a": "yes", 
+  "long_a": "punxsutawney phil saw his shadow in 2018.", 
+  "question": "Alexa, Did the Groundhog see his shadow in 2018", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Result\" FROM Table_1  WHERE  \"Year\"  LIKE \"%%2018%\"", 
+   "column_names": [
+    "url", 
+    "Year", 
+    "Result"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Result\" FROM \"Table_1\"  WHERE  \"Year\"  LIKE \"%%2018%\"", 
+  "query": "SELECT 'Result' from table WHERE 'Year' LIKE '%2018%'", 
+  "dirname": "sayhearfall2018_test/http:\\\\www.stormfax.com\\ghogday.htm_sstritte_25\\3\\2018@21:29:43", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "Shadow at 7:20 AM; 9\u00ba cloudy skies with -7\u00ba Wind Chill."
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "41": {
+  "short_a": "the premier league, the football league", 
+  "long_a": "the premier league and the football league are two soccer leagues in england.", 
+  "question": "Alexa, what soccer leagues do they have in england? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"League\" FROM Table_1  WHERE  \"Country\"  LIKE \"%%England%\"", 
+   "column_names": [
+    "url", 
+    "Country", 
+    "Country_link", 
+    "League", 
+    "Affiliation", 
+    "Competitions"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"League\" FROM \"Table_1\"  WHERE  \"Country\"  LIKE \"%%England%\"", 
+  "query": "SELECT League FROM TABLE WHERE Country LIKE \"England\"", 
+  "dirname": "sayhearfall2018_test/https:\\\\en.wikipedia.org\\wiki\\European_Professional_Football_Leagues_sayanc_25\\3\\2018@15:44:39", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "The Premier League"
+    ], 
+    [
+     "The Football League; The Football League"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "42": {
+  "short_a": "about 4500 years old", 
+  "long_a": "the pyramids were constructed in 2584\u20132561 bc, making them around 4,500 years old.", 
+  "question": "Alexa, how old are the pyramids?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Date_of_Construction\" FROM Table_1  WHERE  \"Name\"  LIKE \"%%Great_Pyramid_of_Giza%\"", 
+   "column_names": [
+    "Name", 
+    "Date of Construction", 
+    "Builders", 
+    "Date of Destruction", 
+    "Cause of Destruction", 
+    "Modern Location"
+   ], 
+   "table_name": "Wonders"
+  }, 
+  "preprocessed_query": "SELECT  \"Date_of_Construction\" from \"Wonders\"  WHERE  \"Name\"  LIKE \"%%Great_Pyramid_of_Giza%\"", 
+  "query": "SELECT 'Date_of_Construction' from 'Wonders' WHERE 'Name' LIKE '%Great_Pyramid_of_Giza%'", 
+  "dirname": "sayhearfall2018_test/https:\\\\en.wikipedia.org\\wiki\\Seven_Wonders_of_the_Ancient_World_sstritte_25\\3\\2018@22:26:2", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "Date_of_Construction"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "43": {
+  "short_a": "peter jones, bicester shopping village, the outnet", 
+  "long_a": "princess kate shops for dresses at shops including peter jones, bicester shopping village, and the outnet.", 
+  "question": "Alexa, where does Princess Kate get her dresses?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"values\" FROM Table_1  WHERE  \"keys\"  LIKE \"%%STORES%\";", 
+   "column_names": [
+    "url", 
+    "keys", 
+    "values"
+   ], 
+   "table_name": "Kate_Middleton_Style"
+  }, 
+  "preprocessed_query": "SELECT  \"values\" FROM Kate_Middleton_Style  WHERE  \"keys\"  LIKE \"%%STORES%\";", 
+  "query": "SELECT values FROM Kate_Middleton_Style WHERE keys LIKE \"%STORES%\";", 
+  "dirname": "sayhearfall2018_test/https___katemiddletonstyle_org_category_get-kates-style__shayati_16_4_2018@15_48_2", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "Peter Jones / John Lewis\n Bicester Shopping Village\n Net-A-Porter (I suspect!)\n The Outnet"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "44": {
+  "short_a": "1119-1314", 
+  "long_a": "the knights templar existed between 1119-1312", 
+  "question": " Alexa, what year did the knights Templar exist?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"year\" FROM Table_1  WHERE  \"year\" = ( SELECT  MIN(year) FROM Table_1 UNION SELECT  \"year\" FROM Table_1  WHERE  \"year\" = ( SELECT  MAX(year) FROM Table_1", 
+   "column_names": [
+    "url", 
+    "Year", 
+    "Event"
+   ], 
+   "table_name": "TemplarTimePeriod"
+  }, 
+  "preprocessed_query": "SELECT  \"year\" FROM TemplarTimePeriod  WHERE  \"year\" = ( SELECT  MIN(year) FROM TemplarTimePeriod) UNION SELECT  \"year\" FROM TemplarTimePeriod  WHERE  \"year\" = ( SELECT  MAX(year) FROM TemplarTimePeriod)", 
+  "query": "SELECT year\nFROM    TemplarTimePeriod\nWHERE   year = (SELECT MIN(year)  FROM TemplarTimePeriod)\n\nUNION\n\nSELECT year\nFROM    TemplarTimePeriod\nWHERE   year = (SELECT MAX(year)  FROM TemplarTimePeriod)", 
+  "dirname": "sayhearfall2018_test/http___www_timeref_com_library_medieval_knights_templar_timeline_htm_pavvaru_16_4_2018@8_3_0", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     ""
+    ], 
+    [
+     "1314"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "45": {
+  "short_a": "5280 ft", 
+  "long_a": "there are 5280 feet in a mile.", 
+  "question": "How many feet are in a mile? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Foot\" FROM Table_1  WHERE  \"Mile\"  LIKE \"%%1 mi%\"", 
+   "column_names": [
+    "url", 
+    "Mile", 
+    "Foot"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Foot\" FROM \"Table_1\"  WHERE  \"Mile\"  LIKE \"%%1 mi%\"", 
+  "query": "SELECT Foot FROM TABLE WHERE Mile LIKE \"1 mi\"", 
+  "dirname": "sayhearfall2018_test/https___www_asknumbers_com_miles-to-feet_aspx_sayanc_4_5_2018@21_13_17", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "5280 ft"
+    ], 
+    [
+     "269280 ft"
+    ], 
+    [
+     "163680 ft"
+    ], 
+    [
+     "427680 ft"
+    ], 
+    [
+     "58080 ft"
+    ], 
+    [
+     "322080 ft"
+    ], 
+    [
+     "216480 ft"
+    ], 
+    [
+     "110880 ft"
+    ], 
+    [
+     "374880 ft"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "46": {
+  "short_a": "19 march 1821, torquay, devon, england", 
+  "long_a": "richard francis burton was born in torquay, devon (england) on 19 march 1821.", 
+  "question": "Where was Capt Sir Richard Francis Burton born", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Key\"  LIKE \"%%Born%\"", 
+   "column_names": [
+    "Key", 
+    "Value"
+   ], 
+   "table_name": "Sir_Richard_Francis_Burton"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Sir_Richard_Francis_Burton\"  WHERE  \"Key\"  LIKE \"%%Born%\"", 
+  "query": "SELECT Value FROM 'Sir Richard Francis Burton' WHERE Key LIKE '%Born%'", 
+  "dirname": "sayhearfall2018_test/https___en_wikipedia_org_wiki_Richard_Francis_Burton_lcallebe_15_5_2018@10_29_14", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "( 1821-03-19 ) 19 march 1821  torquay , devon , england"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "47": {
+  "short_a": "1980 1994", 
+  "long_a": "millennials are generally considered born between 1980 and 1994.", 
+  "question": " What years are millennials considered born in?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Start\", \"End\" FROM Table_1  WHERE  \"Generation_Name\"  LIKE \"%%Millennials%\"", 
+   "column_names": [
+    "url", 
+    "Generation_Name", 
+    "Start", 
+    "End", 
+    "Youngest", 
+    "Oldest"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Start\", \"End\" FROM \"Table_1\"  WHERE  \"Generation_Name\"  LIKE \"%%Millennials%\"", 
+  "query": "SELECT Start, End FROM TABLE WHERE Generation_Name LIKE \"Millennials\"", 
+  "dirname": "sayhearfall2018_test/https:\\\\www.careerplanner.com\\Career-Articles\\Generations.cfm_sayanc_24\\3\\2018@16:38:30", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "1980", 
+     "1994"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "48": {
+  "short_a": "7,699,793,000", 
+  "long_a": "microsoft corporation has 7,699,793,000 outstanding shares.", 
+  "question": "Alexa, how many microsoft shares are outstanding?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Key\"  LIKE \"%%Shares_Outstanding%\"", 
+   "column_names": [
+    "Key", 
+    "Value"
+   ], 
+   "table_name": "Microsoft_Corporation_Stock_Report"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" from \"Microsoft_Corporation_Stock_Report\"  WHERE  \"Key\"  LIKE \"%%Shares_Outstanding%\"", 
+  "query": "SELECT 'Value' from 'Microsoft_Corporation_Stock_Report' WHERE 'Key' LIKE '%Shares_Outstanding%'", 
+  "dirname": "sayhearfall2018_test/https:\\\\www.nasdaq.com\\symbol\\msft\\stock-report_sstritte_29\\3\\2018@13:7:4", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "7,699,793,000"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "49": {
+  "short_a": "6-feb", 
+  "long_a": "the falcon heavy launch os set for feb. 6.", 
+  "question": "When is the Falcon Heavy Launch", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Key\"  LIKE \"%%First Flight%\"", 
+   "column_names": [
+    "url", 
+    "Key", 
+    "New_column"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Table_1\"  WHERE  \"Key\"  LIKE \"%%First Flight%\"", 
+  "query": "SELECT Value FROM TABLE WHERE Key LIKE \"First Flight\"", 
+  "dirname": "sayhearfall2018_test/https___en_wikipedia_org_wiki_Falcon_Heavy_sayanc_4_5_2018@12_46_51", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "Value"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "50": {
+  "short_a": "6:30 p.m. et", 
+  "long_a": "the kickoff for super bowl lii is scheduled for 6:30 p.m. et on sunday, feb. 4.", 
+  "question": "What time does the super bowl start? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Key\"  LIKE \"%%time%\"", 
+   "column_names": [
+    "Key", 
+    "Value"
+   ], 
+   "table_name": "Superbowl_2018"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Superbowl_2018\"  WHERE  \"Key\"  LIKE \"%%time%\"", 
+  "query": "SELECT Value FROM \"Superbowl 2018\" WHERE Key LIKE \"%time%\"", 
+  "dirname": "sayhearfall2018_test/https___www_cbssports_com_nfl_news_what-time-does-super-bowl-2018-start-when-eagles-patriots-kicks-off-tv-channel__sayanc_12_4_2018@0_53_33", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "time: 6:30 p.m. et"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "51": {
+  "short_a": "11", 
+  "long_a": "11 states have a law to enforce the national popular vote bill.", 
+  "question": " How many states have signed onto the 270 compact", 
+  "for_QA_parser": {
+   "query": "SELECT   COUNT ( State ) FROM Table_1  WHERE  \"Outome\" = \"Law\"", 
+   "column_names": [
+    "url", 
+    "State", 
+    "State_link", 
+    "EVs", 
+    "Session", 
+    "Bill", 
+    "Lower_house", 
+    "Upper_house", 
+    "Executive", 
+    "Outcome"
+   ], 
+   "table_name": "National_Popular_Vote_-_Bills_receiving_floor_votes_in_previous_sessions"
+  }, 
+  "preprocessed_query": "SELECT   COUNT ( State ) FROM \"National_Popular_Vote_-_Bills_receiving_floor_votes_in_previous_sessions\"  WHERE  \"Outome\" = \"Law\"", 
+  "query": "SELECT COUNT(State) FROM 'National Popular Vote - Bills receiving floor votes in previous sessions' WHERE Outome = 'Law'  ", 
+  "dirname": "sayhearfall2018_test/https___en_wikipedia_org_wiki_National_Popular_Vote_Interstate_Compact_lcallebe_15_5_2018@11_9_2", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     0
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "52": {
+  "short_a": "6ft 1 \u00bd (187 cm)", 
+  "long_a": "will smith is 6ft 1 \u00bd (187 cm).", 
+  "question": "How tall is will smith? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Height\" FROM Table_1  WHERE  \"Name\"  LIKE \"%%Will Smith%\"", 
+   "column_names": [
+    "url", 
+    "Photo", 
+    "Photo_alt", 
+    "Photo_link", 
+    "Name", 
+    "Name_link", 
+    "Height"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Height\" FROM \"Table_1\"  WHERE  \"Name\"  LIKE \"%%Will Smith%\"", 
+  "query": "SELECT Height FROM TABLE WHERE Name LIKE \"Will Smith\"", 
+  "dirname": "sayhearfall2018_test/https___www_celebheights_com_s_S9_html_sayanc_25_4_2018@2_32_38", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "6ft 1 \u00bd (187 cm)"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "53": {
+  "short_a": "february 26.", 
+  "long_a": "the third season of unreal premieres on lifetime on february 26, 2018.", 
+  "question": "Alexa, when does season 3 of UnReal premiere on Lifetime?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"First_Aired\" FROM Table_1  WHERE  \"Season\"  LIKE \"%%3%\"", 
+   "column_names": [
+    "Season", 
+    "Episodes", 
+    "First Aired", 
+    "Last Aired"
+   ], 
+   "table_name": "UnReal"
+  }, 
+  "preprocessed_query": "SELECT  \"First_Aired\" FROM UnReal  WHERE  \"Season\"  LIKE \"%%3%\"", 
+  "query": "SELECT \"First Aired\" FROM UnReal WHERE Season LIKE \"3\"", 
+  "dirname": "sayhearfall2018_test/https___en_wikipedia_org_wiki_Unreal_(TV_series)_sayanc_9_5_2018@2_11_23", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "First_Aired"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "54": {
+  "short_a": "65 kilograms", 
+  "long_a": "the pounds to kilograms conversion for 145 pounds is 65 kilograms", 
+  "question": " Alexa, what is my weight in kilograms?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Kilograms\" FROM Table_1  WHERE  \"Pounds\" = \"100.00lb\";", 
+   "column_names": [
+    "url", 
+    "Pounds", 
+    "Kilograms"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Kilograms\" FROM \"Table_1\"  WHERE  \"Pounds\" = \"100.00lb\";", 
+  "query": "SELECT Kilograms from Weights where Pounds is '100.00lb';", 
+  "dirname": "sayhearfall2018_test/https___www_metric-conversions_org_weight_pounds-to-kilograms_htm_pavvaru_13_4_2018@0_28_39", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "45.359kg"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "55": {
+  "short_a": "bohemian rhapsody", 
+  "long_a": "the bohemian rhapsody is the top song.", 
+  "question": "What is the best of songs out there?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Song\" FROM Table_1  WHERE  \"Ranking\" = 1", 
+   "column_names": [
+    "Ranking", 
+    "Song"
+   ], 
+   "table_name": "Best_Songs_of_All_Time"
+  }, 
+  "preprocessed_query": "SELECT  \"Song\" FROM \"Best_Songs_of_All_Time\"  WHERE  \"Ranking\" = 1", 
+  "query": "SELECT Song FROM 'Best Songs of All Time' WHERE Ranking = 1", 
+  "dirname": "sayhearfall2018_test/https___www_thetoptens_com_songs__lcallebe_23_5_2018@15_50_41", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "bohemian rhapsody - queen"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "56": {
+  "short_a": "2.54 cm", 
+  "long_a": "1 inch is equal to 2.54 centimeters:", 
+  "question": "how many centimeters in an inch? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Centimeter\" FROM Table_1  WHERE  \"Units\"  LIKE \"%%inch%\"", 
+   "column_names": [
+    "url", 
+    "Units", 
+    "Millimeter", 
+    "Centimeter", 
+    "Meter", 
+    "Kilometer", 
+    "Inch", 
+    "Foot", 
+    "Yard", 
+    "Mile", 
+    "Nautical_Mile"
+   ], 
+   "table_name": "Distance_Convertion"
+  }, 
+  "preprocessed_query": "SELECT  \"Centimeter\" FROM \"Distance_Convertion\"  WHERE  \"Units\"  LIKE \"%%inch%\"", 
+  "query": "SELECT Centimeter FROM 'Distance Conversion' WHERE Units LIKE '%inch%'", 
+  "dirname": "sayhearfall2018_test/http___metricunitconversion_globefeed_com_Length_Conversion_Table_asp_lcallebe_18_4_2018@16_24_27", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "2.54"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "57": {
+  "short_a": "athens, georgia, u.s", 
+  "long_a": "it is located in athens, georgia", 
+  "question": "Alexa, where is the University of Georgia located? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"value\" FROM Table_1  WHERE  \"key\"  LIKE \"%%Location%\";", 
+   "column_names": [
+    "url", 
+    "key", 
+    "value"
+   ], 
+   "table_name": "University_of_Georgia"
+  }, 
+  "preprocessed_query": "SELECT  \"value\" FROM University_of_Georgia  WHERE  \"key\"  LIKE \"%%Location%\";", 
+  "query": "SELECT value FROM University_of_Georgia WHERE key LIKE \"%Location%\";", 
+  "dirname": "sayhearfall2018_test/https___en_wikipedia_org_wiki_University_of_Georgia_shayati_24_4_2018@17_26_52", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "Athens, Georgia, U.S.\n33\u00b057\u203221\u2033N 83\u00b022\u203228\u2033W / 33.9558\u00b0N 83.3745\u00b0W / 33.9558; -83.3745Coordinates: 33\u00b057\u203221\u2033N 83\u00b022\u203228\u2033W / 33.9558\u00b0N 83.3745\u00b0W / 33.9558; -83.3745"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "58": {
+  "short_a": "pork and ham", 
+  "long_a": "spam's basic ingredients are pork and ham.", 
+  "question": "Alexa, what is the main ingredient in spam?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Property\"  LIKE \"%%Main ingredient%\"", 
+   "column_names": [
+    "url", 
+    "Property", 
+    "Value"
+   ], 
+   "table_name": "Spam_Food"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM Spam_Food  WHERE  \"Property\"  LIKE \"%%Main ingredient%\"", 
+  "query": "SELECT Value FROM Spam_Food\nWHERE Property LIKE '%Main ingredient%'", 
+  "dirname": "sayhearfall2018_test/https___en_wikipedia_org_wiki_Spam_(food)_xiyangz_14_5_2018@16_4_25", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "Pork and ham"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "59": {
+  "short_a": "5.8-inch (diagonal)", 
+  "long_a": "super retina hd display\n 5.8-inch (diagonal) all-screen oled multi-touch display\n hdr display", 
+  "question": " Alexa, what's the screen resolution of Iphone X?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"key\"  LIKE \"%%Resolution%\" ;", 
+   "column_names": [
+    "url", 
+    "Key", 
+    "Key_link", 
+    "Value"
+   ], 
+   "table_name": "Table_1"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Table_1\"  WHERE  \"key\"  LIKE \"%%Resolution%\" ;", 
+  "query": "SELECT Value FROM table WHERE key LIKE \"%Resolution%\" ;", 
+  "dirname": "sayhearfall2018_test/https:\\\\www.gsmarena.com\\apple_iphone_x-8858.php_rolivier_23\\3\\2018@11:2:11", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "1125 x 2436 pixels, 19.5:9 ratio (~458 ppi density)"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "60": {
+  "short_a": "corn masa encasing some type of filling", 
+  "long_a": "tamales are a dish made of corn masa encasing some type of filling, usually pork.", 
+  "question": " Alexa, what are tamales?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Definition\" FROM Table_1  WHERE  \"Term\"  LIKE \"%%tamale%\"", 
+   "column_names": [
+    "url", 
+    "Term", 
+    "Definition"
+   ], 
+   "table_name": "Mexican_Food_Glossary"
+  }, 
+  "preprocessed_query": "SELECT  \"Definition\" from \"Mexican_Food_Glossary\"  WHERE  \"Term\"  LIKE \"%%tamale%\"", 
+  "query": "SELECT 'Definition' from 'Mexican_Food_Glossary' WHERE 'Term' LIKE '%tamale%'", 
+  "dirname": "sayhearfall2018_test/http___www_fiestajalapenos_com_glossary_html_sstritte_10_4_2018@17_48_57", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "Corn masa encasing some type of filling, usually pork. Traditionally steamed in corn husks. Don't eat the husks!"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "61": {
+  "short_a": "finding reputable laptop resellers can be tricky. many shady companies promise great deals and never deliver. stick to secure, well-known sites with rating systems or buyer protections, particularly if you don\u2019t feel comfortable evaluating the product yourself. remember to always check for customer reviews or a better business bureau accreditation before buying from any storefront.", 
+  "long_a": "finding reputable laptop resellers can be tricky. many shady companies promise great deals and never deliver. stick to secure, well-known sites with rating systems or buyer protections, particularly if you don\u2019t feel comfortable evaluating the product yourself. remember to always check for customer reviews or a better business bureau accreditation before buying from any storefront.", 
+  "question": "where do I buy a cheap laptop ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Answer\" FROM Table_1  WHERE  \"Question\"  LIKE \"%%where%buy%\"", 
+   "column_names": [
+    "Question", 
+    "Answer"
+   ], 
+   "table_name": "Cheap_Laptops"
+  }, 
+  "preprocessed_query": "SELECT  \"Answer\" FROM \"Cheap_Laptops\"  WHERE  \"Question\"  LIKE \"%%where%buy%\"", 
+  "query": "SELECT Answer FROM \"Cheap Laptops\" WHERE Question LIKE \"%where%buy%\"", 
+  "dirname": "sayhearfall2018_test/https___www_nerdwallet_com_blog_shopping_buy-good-cheap-laptops-screwed__sayanc_26_4_2018@0_59_0", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "finding reputable laptop resellers can be tricky. many shady companies promise great deals and never deliver. stick to secure, well-known sites with rating systems or buyer protections, particularly if you don\u2019t feel comfortable evaluating the product yourself. remember to always check for customer reviews or a better business bureau accreditation before buying from any storefront."
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "62": {
+  "short_a": "9:00 pm", 
+  "long_a": "the best buy located in pittsburgh, pennsylvania closes at 9:00pm.", 
+  "question": "What time does Best Buy close?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Close\" FROM Table_1  WHERE  \"Weekday\"  LIKE \"%%THU%\"", 
+   "column_names": [
+    "Weekday", 
+    "Date", 
+    "Open", 
+    "Close"
+   ], 
+   "table_name": "Store_Hours"
+  }, 
+  "preprocessed_query": "SELECT  \"Close\" from \"Store_Hours\"  WHERE  \"Weekday\"  LIKE \"%%THU%\"", 
+  "query": "SELECT 'Close' from 'Store_Hours' WHERE 'Weekday' LIKE '%THU%'", 
+  "dirname": "sayhearfall2018_test/https:\\\\stores.bestbuy.com\\pa\\pittsburgh\\4801-mcknight-rd-585.html_sstritte_22\\3\\2018@14:11:41", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "9:00 pm"
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }, 
+ "63": {
+  "short_a": "21-jul-69", 
+  "long_a": "the first moon landing was on july 21, 1969.", 
+  "question": "Alexa, when was the moon landing?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Lunar_EVA_dates\" FROM Table_1  WHERE  \"#\"  LIKE \"%%1%\"", 
+   "column_names": [
+    "url", 
+    "#", 
+    "Name", 
+    "Born_(age)", 
+    "Died_(age)", 
+    "Age_at_first_step", 
+    "Mission", 
+    "Lunar_EVA_dates", 
+    "Service", 
+    "Alma_Mater"
+   ], 
+   "table_name": "Appollo_Astronauts_who_walked_on_the_Moon"
+  }, 
+  "preprocessed_query": "SELECT  \"Lunar_EVA_dates\" FROM \"Appollo_Astronauts_who_walked_on_the_Moon\"  WHERE  \"#\"  LIKE \"%%1%\"", 
+  "query": "SELECT 'Lunar EVA dates' FROM 'Appollo Astronauts who walked on the Moon' WHERE '#' LIKE '%1%'", 
+  "dirname": "sayhearfall2018_test/https___en_wikipedia_org_wiki_List_of_Apollo_astronauts_lcallebe_7_5_2018@13_12_13", 
+  "query_execution": {
+   "query": "NA", 
+   "result": [
+    [
+     "July 21, 1969[6]"
+    ], 
+    [
+     ""
+    ], 
+    [
+     "December 11\u201314, 1972"
+    ], 
+    [
+     ""
+    ]
+   ], 
+   "preprocessed_query": true
+  }
+ }
+}

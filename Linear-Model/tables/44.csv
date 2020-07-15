@@ -1,0 +1,361 @@
+Table_1
+url,Airport_ID,Depart_City_/_Airport_ID,Suggested_Time_of_Arrival,Terminal_and_Gate,Fly_By_Check-in,Fly_By_Security,Self_Tagging
+https://www.southwest.com/html/air/airport-information.html,ALB,"Albany, NY - ALB","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Terminal C; Gates C:2,3",yes,No,yes
+https://www.southwest.com/html/air/airport-information.html,ABQ,"Albuquerque, NM - ABQ","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Concourse A; Gates 5,7-11",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,AMA,"Amarillo, TX - AMA","Domestic
+60 Minutes
+International
+90 Minutes; Domestic; 60 Minutes; International; 90 Minutes","Main Terminal; Gates 6,7",No,yes,No
+https://www.southwest.com/html/air/airport-information.html,AUA,"Aruba, AW - AUA",180 Minutes; 180 Minutes,US Departures; Gates change daily,yes,No,No
+https://www.southwest.com/html/air/airport-information.html,ATL,"Atlanta, GA - ATL","Domestic
+120 Minutes
+International
+120 Minutes; Domestic; 120 Minutes; International; 120 Minutes","Concourse C; Gates C: 1-7,9,10,12-17,20-22",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,AUS,"Austin, TX - AUS","Domestic
+120 Minutes
+International
+120 Minutes; Domestic; 120 Minutes; International; 120 Minutes",Main Terminal; Gates 7-12,yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,BWI,"Baltimore/Washington, MD - BWI","Domestic
+120 Minutes
+International
+180 Minutes; Domestic; 120 Minutes; International; 180 Minutes","Terminals A,B,&C; Gates A:1-11 B:2-15 C:9-14",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,BZE,"Belize City, Belize - BZE",180 Minutes; 180 Minutes,Terminal 1; Gate 2,yes,No,No
+https://www.southwest.com/html/air/airport-information.html,BHM,"Birmingham, AL - BHM","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Terminal C; Gates C:1,3,5",No,No,yes
+https://www.southwest.com/html/air/airport-information.html,BOI,"Boise, ID - BOI","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Concourse B; Gates 15,17",No,No,No
+https://www.southwest.com/html/air/airport-information.html,BOS,"Boston Logan, MA - BOS","Domestic
+120 Minutes
+International
+120 Minutes; Domestic; 120 Minutes; International; 120 Minutes",Terminal A; Gates 18-22,yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,BUF,"Buffalo/Niagara, NY - BUF","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Main Terminal; Gates 15,16,18",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,BUR,"Burbank, CA - BUR","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Concourse A; Gates; A:1-4,6",yes,yes,No
+https://www.southwest.com/html/air/airport-information.html,SJD,"Cabo/Los Cabos, Baja California Sur - SJD",120 Minutes; 120 Minutes,Terminal 2; Gates change daily,yes,No,No
+https://www.southwest.com/html/air/airport-information.html,CUN,"Cancun, Quintana Roo - CUN",120 Minutes; 120 Minutes,Terminal 4; Gates change daily,yes,No,No
+https://www.southwest.com/html/air/airport-information.html,CHS,"Charleston, SC - CHS","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes",Main Concourse:; Gate B4,No,No,No
+https://www.southwest.com/html/air/airport-information.html,CLT,"Charlotte, NC - CLT","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Terminal A; Gate A: 6,8",yes,yes,No
+https://www.southwest.com/html/air/airport-information.html,MDW,"Chicago (Midway), IL - MDW","Domestic
+90 Minutes
+International
+120 Minutes; Domestic; 90 Minutes; International; 120 Minutes","Terminals A&B; Gates A:4a,4b, 9,11,12,14-19 B:1-3,5,7-12,14-26",yes,No,yes
+https://www.southwest.com/html/air/airport-information.html,CVG,"Cincinnati, OH - CVG","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Concourse A; Gates 3, 5",yes,yes,No
+https://www.southwest.com/html/air/airport-information.html,CLE,"Cleveland, OH - CLE","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes",Concourse B; Gates 7-11,yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,CMH,"Columbus, OH - CMH","Domestic
+60 Minutes
+International
+90 Minutes; Domestic; 60 Minutes; International; 90 Minutes",Concourse A; Gates A:2-6,yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,CRP,"Corpus Christi, TX - CRP","Domestic
+60 Minutes
+International
+90 Minutes; Domestic; 60 Minutes; International; 90 Minutes",Main Terminal; Gate 2,No,No,No
+https://www.southwest.com/html/air/airport-information.html,DAL,"Dallas (Love Field), TX - DAL","Domestic
+120 Minutes
+International
+120 Minutes; Domestic; 120 Minutes; International; 120 Minutes","Main Terminal; Gates A: 1-10,12,14-20",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,DEN,"Denver, CO - DEN","Domestic
+120 Minutes
+International
+180 Minutes; Domestic; 120 Minutes; International; 180 Minutes","Concourse C; Gates C: 23-37,40-47,49,51",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,DSM,"Des Moines, IA - DSM","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes",Terminal A; Gate A3,yes,No,No
+https://www.southwest.com/html/air/airport-information.html,DTW,"Detroit, MI - DTW","Domestic
+120 Minutes
+International
+120 Minutes; Domestic; 120 Minutes; International; 120 Minutes","North Terminal; Gates D:19-21,23",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,ELP,"El Paso, TX - ELP","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes",Main Terminal; Gates B:3-6,No,yes,No
+https://www.southwest.com/html/air/airport-information.html,FNT,"Flint, MI - FNT","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Main Terminal; Gates 8,9",No,yes,No
+https://www.southwest.com/html/air/airport-information.html,FLL,"Ft. Lauderdale, FL - FLL","Domestic
+60 Minutes
+International
+120 Minutes; Domestic; 60 Minutes; International; 120 Minutes","Terminal 1; Gates A: 2-7,; Gates B: 2,4-9",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,RSW,"Ft. Myers, FL - RSW","Domestic
+120 Minutes
+International
+120 Minutes; Domestic; 120 Minutes; International; 120 Minutes","Terminal B; Gates B:2,4,6,8",yes,yes,No
+https://www.southwest.com/html/air/airport-information.html,GCM,"Grand Cayman Islands, KY - GCM",180 minutes; 180 minutes,Main Terminal; Gate 8,No,No,No
+https://www.southwest.com/html/air/airport-information.html,GRR,"Grand Rapids, MI - GRR","Domestic
+60 Minutes
+International
+90 Minutes; Domestic; 60 Minutes; International; 90 Minutes",Concourse B; Gates B4,yes,No,No
+https://www.southwest.com/html/air/airport-information.html,GSP,"Greenville/Spartanburg, SC - GSP","Domestic
+60 Minutes
+International
+90 Minutes; Domestic; 60 Minutes; International; 90 Minutes",Main Terminal:; Gates A: 4,yes,yes,No
+https://www.southwest.com/html/air/airport-information.html,HRL,"Harlingen, TX - HRL","Domestic
+60 Minutes
+International
+90 Minutes; Domestic; 60 Minutes; International; 90 Minutes","Main Terminal; Gates 5, 6",yes,yes,No
+https://www.southwest.com/html/air/airport-information.html,BDL,"Hartford, CT - BDL","Domestic
+120 Minutes
+International
+120 Minutes; Domestic; 120 Minutes; International; 120 Minutes","Terminal A; Gates A:2,4,6",No,yes,No
+https://www.southwest.com/html/air/airport-information.html,HAV,"Havana, Cuba - HAV",180 Minutes; 180 Minutes,Terminal 2,yes,No,No
+https://www.southwest.com/html/air/airport-information.html,HOU,"Houston (Hobby), TX - HOU","Domestic
+120 Minutes
+International
+180 Minutes; Domestic; 120 Minutes; International; 180 Minutes","Central Concourse; Gates 20-25,27,40-51",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,IND,"Indianapolis, IN - IND","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Terminal B; Gates B:17,20-24",yes,No,No
+https://www.southwest.com/html/air/airport-information.html,JAX,"Jacksonville, FL - JAX","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Concourse C; Gates C: 1,2,4",No,No,No
+https://www.southwest.com/html/air/airport-information.html,MCI,"Kansas City, MO - MCI","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Terminal B; Gates 32,33,37-41,43,45",yes,yes,No
+https://www.southwest.com/html/air/airport-information.html,LAS,"Las Vegas, NV - LAS","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Concourse B&C; Gates B: 9-12,14,15; C:1-5,7-9,11,12,; 14,16,19,21-25",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,LIR,"Liberia, Costa Rica - LIR",120 Minutes; 120 Minutes,Main Terminal; Gates change daily,yes,No,No
+https://www.southwest.com/html/air/airport-information.html,LIT,"Little Rock, AR - LIT","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Main Terminal; Gates 9,10",yes,No,No
+https://www.southwest.com/html/air/airport-information.html,LGB,"Long Beach, CA - LGB","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes",Main Terminal; Gate 1,No,yes,No
+https://www.southwest.com/html/air/airport-information.html,ISP,"Long Island, NY - ISP","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes",East Terminal; Gates A:1-8,No,yes,yes
+https://www.southwest.com/html/air/airport-information.html,LAX,"Los Angeles, CA - LAX","Domestic
+Tues-Thur
+90 Minutes
+Fri-Mon
+120 Minutes
+International
+120 Minutes; Domestic; Tues-Thur; 90 Minutes; Fri-Mon; 120 Minutes; International; 120 Minutes","Terminal 1; Gates 9,10,11A,; 11B,12A,12B,13,14,15,16A,16B,17A,; 17B,18A,18B",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,SDF,"Louisville, KY - SDF","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Terminal 1; Gates B:11,15,17",No,No,No
+https://www.southwest.com/html/air/airport-information.html,LBB,"Lubbock, TX - LBB","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes",Main Terminal; Gates 6-8,No,No,No
+https://www.southwest.com/html/air/airport-information.html,MHT,"Manchester, NH - MHT","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Main Terminal; Gates 11,12,14, 15,15a",No,No,yes
+https://www.southwest.com/html/air/airport-information.html,MEM,"Memphis, TN - MEM","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Terminal A; Gate A: 25,27",No,No,No
+https://www.southwest.com/html/air/airport-information.html,MEX,"Mexico City/D.F., MX - MEX",120 Minutes; 120 Minutes,Terminal 1; Gates change daily,yes,No,No
+https://www.southwest.com/html/air/airport-information.html,MAF,"Midland/Odessa, TX - MAF","Domestic
+60 Minutes
+International
+90 Minutes; Domestic; 60 Minutes; International; 90 Minutes","Main Terminal; Gates 3,4",No,No,No
+https://www.southwest.com/html/air/airport-information.html,MKE,"Milwaukee, WI - MKE","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Terminal C; Gates C:14,15,18-25",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,MSP,"Minneapolis/St. Paul, MN - MSP","Domestic
+120 Minutes
+International
+120 Minutes; Domestic; 120 Minutes; International; 120 Minutes",Terminal 2-Humphrey; Gate H: 7-10,yes,yes,No
+https://www.southwest.com/html/air/airport-information.html,MBJ,"Montego Bay, JM - MBJ",120 Minutes; 120 Minutes,Main Terminal; Gates assigned daily,yes,No,No
+https://www.southwest.com/html/air/airport-information.html,BNA,"Nashville, TN - BNA","Domestic
+120 Minutes
+International
+120 Minutes; Domestic; 120 Minutes; International; 120 Minutes","South Concourse C; Gates C:4,7,9,15-21,23,25",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,NAS,"Nassau/Paradise Island, BS - NAS",180 Minutes; 180 Minutes,US Terminal; C41-C45,yes,No,No
+https://www.southwest.com/html/air/airport-information.html,EWR,"Newark, NJ - EWR","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Terminal A; Gates A:10,14,15",yes,yes,No
+https://www.southwest.com/html/air/airport-information.html,MSY,"New Orleans, LA - MSY","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Concourse B; Gates B: 2,4,5,7-9,15",yes,yes,No
+https://www.southwest.com/html/air/airport-information.html,LGA,"New York (LaGuardia), NY - LGA","Domestic
+120 Minutes
+International
+120 Minutes; Domestic; 120 Minutes; International; 120 Minutes","Central Terminal Building; Gate B: 1,3,4,5,7,8",yes,yes,No
+https://www.southwest.com/html/air/airport-information.html,ORF,"Norfolk, VA - ORF","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Concourse A; Gates 3, 5",No,No,No
+https://www.southwest.com/html/air/airport-information.html,OAK,"Oakland, CA - OAK","Domestic
+90 Minutes
+International
+120 Minutes; Domestic; 90 Minutes; International; 120 Minutes","Terminal 1 & 2; Terminal 1 Gates: 4,6 Terminal 2 Gates: 20-32",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,OKC,"Oklahoma City, OK - OKC","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Main Terminal; Gates 14,16,18",No,No,No
+https://www.southwest.com/html/air/airport-information.html,OMA,"Omaha, NE - OMA","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes",North Satellite; Gates 16-18,No,No,No
+https://www.southwest.com/html/air/airport-information.html,ONT,"Ontario/LA, CA - ONT","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes",Terminal 4; Gates 401-407,yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,SNA,"Orange County, CA - SNA","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes",Terminal C; Gates 14-21,yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,MCO,"Orlando, FL - MCO","Domestic
+120 Minutes
+International
+120 Minutes; Domestic; 120 Minutes; International; 120 Minutes","Terminal A; Gates 101,103,105,107, 109,110,120-129",yes,No,yes
+https://www.southwest.com/html/air/airport-information.html,ECP,"Panama City Beach, FL - ECP","Domestic
+60 Minutes
+International
+90 Minutes; Domestic; 60 Minutes; International; 90 Minutes",Main Terminal; Gate 3,No,No,No
+https://www.southwest.com/html/air/airport-information.html,PNS,"Pensacola, FL - PNS","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Main Terminal; Gates 8,10",yes,No,No
+https://www.southwest.com/html/air/airport-information.html,PHL,"Philadelphia, PA - PHL","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Terminal E; Gates E:9,11-17",yes,yes,No
+https://www.southwest.com/html/air/airport-information.html,PHX,"Phoenix, AZ - PHX","Domestic
+120 Minutes
+International
+120 Minutes; Domestic; 120 Minutes; International; 120 Minutes","Terminal 4; Gates C:1-4, 6-9,11-14,16-19, D:1-8",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,PIT,"Pittsburgh, PA - PIT","Domestic
+120 Minutes
+International
+120 Minutes; Domestic; 120 Minutes; International; 120 Minutes","Terminal A; Gates A:1,3,5,7,9",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,PWM,"Portland, ME - PWM","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes",Main Terminal; Gate 3,yes,yes,No
+https://www.southwest.com/html/air/airport-information.html,PDX,"Portland, OR - PDX","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes",Concourse C; Gates C:12-16,yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,PVD,"Providence, RI - PVD","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","North Concourse; Gates 15,17,19,21",No,yes,yes
+https://www.southwest.com/html/air/airport-information.html,PVR,"Puerto Vallarta, MX - PVR",180 Minutes; 180 Minutes,Terminal B; Gates change daily,yes,No,No
+https://www.southwest.com/html/air/airport-information.html,PUJ,"Punta Cana, DO - PUJ",120 Minutes; 120 Minutes,International Terminal; Gates change daily,yes,yes,No
+https://www.southwest.com/html/air/airport-information.html,RDU,"Raleigh/Durham, NC - RDU","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes",Terminal 1; Gates A:5-8,yes,yes,No
+https://www.southwest.com/html/air/airport-information.html,RNO,"Reno/Tahoe, NV - RNO","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Concourse B; Gates 1,3,5,7",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,RIC,"Richmond, VA - RIC","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Main Terminal; Gates B:7,9",yes,No,No
+https://www.southwest.com/html/air/airport-information.html,ROC,"Rochester, NY - ROC","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Terminal A; Gates A: 2,4",yes,yes,No
+https://www.southwest.com/html/air/airport-information.html,SMF,"Sacramento, CA - SMF","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes",Terminal B; Gates B:14-20,yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,SLC,"Salt Lake City, UT - SLC","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Concourse B; Gates B:15,17, 19-22",yes,yes,No
+https://www.southwest.com/html/air/airport-information.html,SAT,"San Antonio, TX - SAT","Domestic
+90 Minutes
+International
+120 Minutes; Domestic; 90 Minutes; International; 120 Minutes",Terminal A; Gates A:9-14,yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,SAN,"San Diego, CA - SAN","Domestic
+90 Minutes
+International
+120 Minutes; Domestic; 90 Minutes; International; 120 Minutes","Terminal 1; Gates 1,1a, 2-10",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,SFO,"San Francisco, CA - SFO","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes",Terminal 1; Gates 23-28,yes,No,yes
+https://www.southwest.com/html/air/airport-information.html,SJC,"San Jose, CA - SJC","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes",Concourse B; Gates 19-25,yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,SJO,"San Jose, Costa Rica - SJO","International
+120 Minutes; International; 120 Minutes",Main terminal; Gates change daily,yes,No,No
+https://www.southwest.com/html/air/airport-information.html,SJU,"San Juan, PR - SJU",120 Minutes; 120 Minutes,"Concourse C; Gates B: 3,5,7",yes,yes,No
+https://www.southwest.com/html/air/airport-information.html,SEA,"Seattle/Tacoma, WA - SEA","Domestic
+120 Minutes
+International
+120 Minutes; Domestic; 120 Minutes; International; 120 Minutes","Main Terminal; Gates B:6,8, 10,12,14,15",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,GEG,"Spokane, WA - GEG","Domestic
+105 Minutes
+International
+105 Minutes; Domestic; 105 Minutes; International; 105 Minutes","Concourse A; Gates A:11,13",No,No,No
+https://www.southwest.com/html/air/airport-information.html,STL,"St. Louis, MO - STL","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Terminal 2; Gates 4,6,8,10,12; 14,16,18,20,22; 24,29,31,33,34,38",yes,yes,yes
+https://www.southwest.com/html/air/airport-information.html,TPA,"Tampa Bay, FL - TPA","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Airside C; Gates 30-40,42-44",No,No,yes
+https://www.southwest.com/html/air/airport-information.html,TUS,"Tucson, AZ - TUS","Domestic
+90 Minutes
+International
+120 Minutes; Domestic; 90 Minutes; International; 120 Minutes","Concourse A; Gates 2-4,6",yes,No,No
+https://www.southwest.com/html/air/airport-information.html,TUL,"Tulsa, OK - TUL","Domestic
+60 Minutes
+International
+90 Minutes; Domestic; 60 Minutes; International; 90 Minutes","Concourse B; Gates B:3,5",No,No,No
+https://www.southwest.com/html/air/airport-information.html,PLS,"Turks and Caicos, Turks and Caicos - PLS",180 Minutes; 180 Minutes,Main Terminal; Gates 1-9,yes,No,No
+https://www.southwest.com/html/air/airport-information.html,IAD,"Washington (Dulles), DC - IAD","Domestic
+90 Minutes
+International
+120 Minutes; Domestic; 90 Minutes; International; 120 Minutes","Main Terminal; Gates B:50,62,64",No,No,No
+https://www.southwest.com/html/air/airport-information.html,DCA,"Washington (Reagan), DC - DCA","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes","Terminal A; Gates A:2,4,5,6,8,9",yes,No,yes
+https://www.southwest.com/html/air/airport-information.html,PBI,"West Palm Beach, FL - PBI","Domestic
+60 Minutes
+International
+120 Minutes; Domestic; 60 Minutes; International; 120 Minutes","Terminal B; Gates B: 1, 3, 5",yes,yes,No
+https://www.southwest.com/html/air/airport-information.html,ICT,"Wichita, KS - ICT","Domestic
+90 Minutes
+International
+90 Minutes; Domestic; 90 Minutes; International; 90 Minutes",Main Terminal; Gate 4,yes,No,No

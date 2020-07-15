@@ -1,0 +1,6 @@
+Table_1
+url,Time,Time_link,Temperature,Forecast
+https://www.accuweather.com/en/us/pittsburgh-pa/15219/weather-forecast/1310,Current Weather,https://www.accuweather.com/en/us/pittsburgh-pa/15219/current-weather/1310,84°,Thunderstorm
+https://www.accuweather.com/en/us/pittsburgh-pa/15219/weather-forecast/1310,Today,https://www.accuweather.com/en/us/pittsburgh-pa/15219/daily-weather-forecast/1310?day=1,86°,A shower or t-storm in spots
+https://www.accuweather.com/en/us/pittsburgh-pa/15219/weather-forecast/1310,Tonight,https://www.accuweather.com/en/us/pittsburgh-pa/15219/daily-weather-forecast/1310?day=1,66°,"Clouds, a t-storm in spots"
+https://www.accuweather.com/en/us/pittsburgh-pa/15219/weather-forecast/1310,Tomorrow,https://www.accuweather.com/en/us/pittsburgh-pa/15219/daily-weather-forecast/1310?day=2,77°,A shower and t-storm around

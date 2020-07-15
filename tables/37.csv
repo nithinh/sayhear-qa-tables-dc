@@ -1,0 +1,10 @@
+weather_tomorrow
+hour,forecast,temp_C,real_feel_C,wind,rain
+9am,partly cloudy,28°,33°,6 ne,6%
+10am,partly cloudy,29°,35°,6 ne,7%
+11am,partly cloudy,30°,36°,7 ne,7%
+12pm,partly cloudy,30°,37°,9 ne,9%
+1pm,partly cloudy,31°,38°,9 ne,11%
+2pm,partly cloudy,30°,37°,11 ene,11%
+3pm,partly cloudy,30°,34°,11 ene,15%
+4pm,partly cloudy,28°,32°,11 ene,47%

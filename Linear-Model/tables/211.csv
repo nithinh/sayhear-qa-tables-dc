@@ -1,0 +1,17 @@
+Ingleside_Il_Weather
+url,Day,Date,Description,High,Low,Precip,Wind,Humidity
+https://weather.com/weather/tenday/l/60041:4:US,Tonight,APR 12,Thunderstorms Late,--,40°,50%,ENE 11 mph,84%
+https://weather.com/weather/tenday/l/60041:4:US,Fri,APR 13,Thunderstorms,47°,36°,80%,NE 17 mph,86%
+https://weather.com/weather/tenday/l/60041:4:US,Sat,APR 14,Rain/Wind,38°,31°,70%,ENE 26 mph,88%
+https://weather.com/weather/tenday/l/60041:4:US,Sun,APR 15,Rain/Snow,35°,24°,80%,NNE 17 mph,83%
+https://weather.com/weather/tenday/l/60041:4:US,Mon,APR 16,Cloudy,38°,24°,20%,NW 18 mph,62%
+https://weather.com/weather/tenday/l/60041:4:US,Tue,APR 17,Sunny,48°,32°,10%,NW 9 mph,57%
+https://weather.com/weather/tenday/l/60041:4:US,Wed,APR 18,AM Showers,50°,34°,30%,SW 19 mph,63%
+https://weather.com/weather/tenday/l/60041:4:US,Thu,APR 19,Partly Cloudy,50°,33°,10%,NW 15 mph,61%
+https://weather.com/weather/tenday/l/60041:4:US,Fri,APR 20,Partly Cloudy,55°,37°,20%,NNE 8 mph,58%
+https://weather.com/weather/tenday/l/60041:4:US,Sat,APR 21,AM Showers,50°,39°,30%,E 14 mph,71%
+https://weather.com/weather/tenday/l/60041:4:US,Sun,APR 22,AM Showers,49°,36°,50%,NNE 17 mph,71%
+https://weather.com/weather/tenday/l/60041:4:US,Mon,APR 23,Partly Cloudy,55°,40°,10%,NNE 10 mph,61%
+https://weather.com/weather/tenday/l/60041:4:US,Tue,APR 24,AM Showers,57°,39°,30%,ENE 12 mph,61%
+https://weather.com/weather/tenday/l/60041:4:US,Wed,APR 25,Partly Cloudy,55°,38°,20%,NNE 10 mph,56%
+https://weather.com/weather/tenday/l/60041:4:US,Thu,APR 26,Partly Cloudy,56°,39°,20%,NNE 11 mph,63%
