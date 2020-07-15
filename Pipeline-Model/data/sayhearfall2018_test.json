@@ -1,0 +1,1894 @@
+[
+ {
+  "short_a": "21-jul-69", 
+  "long_a": "the first moon landing was on july 21, 1969.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Lunar_EVA_dates\"", 
+   "FROM", 
+   "\"Appollo_Astronauts_who_walked_on_the_Moon\"", 
+   "ORDER_BY", 
+   "'#'", 
+   "DESENDING", 
+   "LIMIT_1"
+  ], 
+  "sql_transpose": "SELECT \"Lunar_EVA_dates\" FROM \"Appollo_Astronauts_who_walked_on_the_Moon\" ORDER_BY '#' DESENDING LIMIT_1", 
+  "directory": "https___en_wikipedia_org_wiki_List_of_Apollo_astronauts_lcallebe_7_5_2018@13_12_13", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "when", 
+   "was", 
+   "the", 
+   "moon", 
+   "landing"
+  ], 
+  "final_sql": "SELECT \"Lunar_EVA_dates\" FROM \"Appollo_Astronauts_who_walked_on_the_Moon\" ORDER_BY \"#\" DESENDING LIMIT_1", 
+  "id": 238
+ }, 
+ {
+  "short_a": "feb. 16, 2018 (friday)", 
+  "long_a": "chinese new years is on friday, february 16, 2018.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Dates\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "ORDER_BY", 
+   "\"Years\"", 
+   "DESCENDING", 
+   "LIMIT_1"
+  ], 
+  "sql_transpose": "SELECT \"Dates\" FROM \"Table_1\" WHERE ORDER_BY \"Years\" DESCENDING LIMIT_1", 
+  "directory": "https:\\\\www.travelchinaguide.com\\essential\\holidays\\new-year\\dates.htm_sstritte_21\\3\\2018@22:26:39", 
+  "question_parsed": [
+   "What", 
+   "day", 
+   "is", 
+   "Chinese", 
+   "New", 
+   "Years"
+  ], 
+  "final_sql": "SELECT \"Dates\" FROM \"Table_1\" ORDER_BY \"Years\" DESCENDING LIMIT_1", 
+  "id": 239
+ }, 
+ {
+  "short_a": "bohemian rhapsody", 
+  "long_a": "the bohemian rhapsody is the top song.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Song\"", 
+   "FROM", 
+   "\"Best_Songs_of_All_Time\"", 
+   "ORDER BY", 
+   "ASCENDING", 
+   "\"Ranking\"", 
+   "LIMIT_1"
+  ], 
+  "sql_transpose": "SELECT \"Song\" FROM \"Best_Songs_of_All_Time\" ORDER BY ASCENDING \"Ranking\" LIMIT_1", 
+  "directory": "https___www_thetoptens_com_songs__lcallebe_23_5_2018@15_50_41", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "best", 
+   "of", 
+   "songs", 
+   "out", 
+   "there"
+  ], 
+  "final_sql": "SELECT \"Song\" FROM \"Best_Songs_of_All_Time\" ORDER BY ASCENDING \"Ranking\" LIMIT_1", 
+  "id": 240
+ }, 
+ {
+  "short_a": "100\u2013400 billion (2.5 \u00d7 1011 \u00b1 1.5 \u00d7 1011)[6][7][8]", 
+  "long_a": "there are 100\u2013400 billion stars in the milky way.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"stars\""
+  ], 
+  "sql_transpose": "SELECT \"Number of stars\" FROM \"\"Table_1\"\"", 
+  "directory": "https___en_wikipedia_org_wiki_Milky_Way_sayanc_26_4_2018@1_57_38", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "many", 
+   "stars", 
+   "are", 
+   "in", 
+   "the", 
+   "Milky", 
+   "Way", 
+   "Galaxy"
+  ], 
+  "final_sql": "SELECT \"Number_of_stars\" FROM \"Table_1\"", 
+  "id": 241
+ }, 
+ {
+  "short_a": "43-39", 
+  "long_a": "washington wizards win-loss record is 43-39.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"W\",", 
+   "\"L\"", 
+   "FROM", 
+   "NBA_Southeast_Standings", 
+   "WHERE", 
+   "\"Team\"", 
+   "~", 
+   "\"washington wizards\""
+  ], 
+  "sql_transpose": "SELECT \"W\", \"L\" FROM NBA_Southeast_Standings WHERE \"Team\" ~ \"washington wizards\"", 
+  "directory": "http___www_espn_com_nba_team___name_wsh_washington-wizards_xiyangz_15_5_2018@13_19_24", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "washington", 
+   "wizards", 
+   "record"
+  ], 
+  "final_sql": "SELECT \"W\", \"L\" FROM NBA_Southeast_Standings WHERE \"Team\" ~ \"washington_wizards\"", 
+  "id": 242
+ }, 
+ {
+  "short_a": "april 17, 2018", 
+  "long_a": "the post dvd release date was april 17, 2018.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Release_Date\"", 
+   "FROM", 
+   "The_Post_Release", 
+   "WHERE", 
+   "\"Format\"", 
+   "~", 
+   "\"DVD\""
+  ], 
+  "sql_transpose": "SELECT \"Release_Date\" FROM The_Post_Release WHERE \"Format\" ~ \"DVD\"", 
+  "directory": "https___www_dvdsreleasedates_com_movies_8544_the-post_xiyangz_1_5_2018@22_34_59", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "when", 
+   "is", 
+   "the", 
+   "movie", 
+   "", 
+   "The", 
+   "Post", 
+   "", 
+   "coming", 
+   "to", 
+   "DVD"
+  ], 
+  "final_sql": "SELECT \"Release_Date\" FROM The_Post_Release WHERE \"Format\" ~ \"DVD\"", 
+  "id": 243
+ }, 
+ {
+  "short_a": "250,776", 
+  "long_a": "the municipality (commune) of bordeaux proper has a population of 250,776 (2016).", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"values\"", 
+   "FROM", 
+   "Bordeaux", 
+   "WHERE", 
+   "\"keys\"", 
+   "LIKE", 
+   "\"population\""
+  ], 
+  "sql_transpose": "SELECT \"Population (2016[2])2\" FROM \"Bordeaux\"", 
+  "directory": "https___en_wikipedia_org_wiki_Bordeaux_shayati_8_4_2018@22_35_38", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "the", 
+   "population", 
+   "of", 
+   "Bordeaux", 
+   "", 
+   "France"
+  ], 
+  "final_sql": "SELECT \"Population_(2016[2])2\" FROM \"Bordeaux\"", 
+  "id": 244
+ }, 
+ {
+  "short_a": "#4cbb17", 
+  "long_a": "the kelly green color is #4cbb17.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Color_Value\"", 
+   "FROM", 
+   "Kelly_Green_Color", 
+   "WHERE", 
+   "\"Color_Model\"", 
+   "LIKE", 
+   "\"hex\""
+  ], 
+  "sql_transpose": "SELECT \"Color_Value\" FROM Kelly_Green_Color WHERE \"Color_Model\" LIKE \"hex\"", 
+  "directory": "http___www_99colors_net_name_kelly-green_xiyangz_13_4_2018@0_52_36", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "kelly", 
+   "green", 
+   "hex", 
+   "code"
+  ], 
+  "final_sql": "SELECT \"Color_Value\" FROM Kelly_Green_Color WHERE \"Color_Model\" LIKE \"hex\"", 
+  "id": 245
+ }, 
+ {
+  "short_a": "4-5 years", 
+  "long_a": "cats live for 4 to 5 years.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "Cat_Info", 
+   "WHERE", 
+   "\"Property\"", 
+   "LIKE", 
+   "\"how long\""
+  ], 
+  "sql_transpose": "SELECT \"Lifespan:\" FROM \"Cat_Info\"", 
+  "directory": "https___www_google_com_search?q=cat+lifespan_xiyangz_15_4_2018@21_48_12", 
+  "question_parsed": [
+   "How", 
+   "long", 
+   "do", 
+   "cats", 
+   "live"
+  ], 
+  "final_sql": "SELECT \"Lifespan:\" FROM \"Cat_Info\"", 
+  "id": 246
+ }, 
+ {
+  "short_a": "october 28 1967", 
+  "long_a": "julia roberts was born on october 28, 1967.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"value\"", 
+   "FROM", 
+   "\"Julia_Roberts\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "LIKE", 
+   "\"born\""
+  ], 
+  "sql_transpose": "SELECT \"born\" FROM \"\"Julia_Roberts\"\"", 
+  "directory": "https___en_wikipedia_org_wiki_Julia_Roberts_lcallebe_16_5_2018@13_21_6", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "year", 
+   "was", 
+   "Julia", 
+   "Roberts", 
+   "born"
+  ], 
+  "final_sql": "SELECT \"born\" FROM \"Julia_Roberts\"", 
+  "id": 247
+ }, 
+ {
+  "short_a": "online advertising", 
+  "long_a": "google adsense is an online adverstising tool.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"KEY\"", 
+   "LIKE", 
+   "\"what is\""
+  ], 
+  "sql_transpose": "SELECT \"Type\" FROM \"\"Table_1\"\"", 
+  "directory": "https___en_wikipedia_org_wiki_AdSense_sayanc_13_4_2018@1_27_14", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "Google", 
+   "Adsense"
+  ], 
+  "final_sql": "SELECT \"Type\" FROM \"Table_1\"", 
+  "id": 248
+ }, 
+ {
+  "short_a": "friendly with people needs a firm leader differences: the alaskan malamute is much larger and stronger than the siberian husky. the malamute never has blue eyes like the siberian husky. the siberian husky has a longer lifespan on average. the siberian husky is a faster runner. the siberian husky needs lots more vigorous exercise (e.g. hiking, jogging). the siberian husky is more intelligent than the malamute. the alaskan malamute is calmer indoors than the siberian husky. the siberian husky is more sociable with other dogs. the siberian husky prefers to live with other dogs.", 
+  "long_a": "the dogs differ in size, eye color,and coat.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Siberian_Husky_vs_Malamute\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "LIKE", 
+   "\"difference\""
+  ], 
+  "sql_transpose": "SELECT \"differences:\" FROM \"\"Siberian_Husky_vs_Malamute\"\"", 
+  "directory": "https___animalso_com_breeds_malamute-vs-husky_#tab-con-2_sayanc_5_5_2018@13_37_58", 
+  "question_parsed": [
+   "What", 
+   "s", 
+   "the", 
+   "difference", 
+   "between", 
+   "a", 
+   "Siberian", 
+   "Husky", 
+   "and", 
+   "a", 
+   "Malamute"
+  ], 
+  "final_sql": "SELECT \"differences:\" FROM \"Siberian_Husky_vs_Malamute\"", 
+  "id": 249
+ }, 
+ {
+  "short_a": "1 cup peanut butter 1 cup white sugar 1 egg", 
+  "long_a": "white sugar, peanut butter, an egg.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Ingredients\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Name\"", 
+   "LIKE", 
+   "\"%%Three%Ingredient%Peanut%Butter%Cookie%\""
+  ], 
+  "sql_transpose": "SELECT \"Ingredients\" FROM \"Table_1\" WHERE \"Name\" LIKE \"%%Three%Ingredient%Peanut%Butter%Cookie%\"", 
+  "directory": "https___www_allrecipes_com_recipe_11352_three-ingredient-peanut-butter-cookies__sayanc_8_5_2018@18_2_38", 
+  "question_parsed": [
+   "how", 
+   "to", 
+   "make", 
+   "3", 
+   "ingredient", 
+   "peanut", 
+   "butter", 
+   "cookies"
+  ], 
+  "final_sql": "SELECT \"Ingredients\" FROM \"Table_1\" WHERE \"Name\" LIKE \"%%Three%Ingredient%Peanut%Butter%Cookie%\"", 
+  "id": 250
+ }, 
+ {
+  "short_a": "internet encyclopedia", 
+  "long_a": "wikipedia is an internet encyclopedia.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"Wikipedia\""
+  ], 
+  "sql_transpose": "SELECT \"Type of site\" FROM \"\"Table_1\"\"", 
+  "directory": "https___simple_wikipedia_org_wiki_Wikipedia_sayanc_12_4_2018@22_54_31", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "Wikipedia"
+  ], 
+  "final_sql": "SELECT \"Type_of_site\" FROM \"Table_1\"", 
+  "id": 251
+ }, 
+ {
+  "short_a": "athens, georgia, u.s", 
+  "long_a": "it is located in athens, georgia", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"value\"", 
+   "FROM", 
+   "University_of_Georgia", 
+   "WHERE", 
+   "\"key\"", 
+   "~", 
+   "\"located\";"
+  ], 
+  "sql_transpose": "SELECT \"Location\" FROM \"University_of_Georgia\"", 
+  "directory": "https___en_wikipedia_org_wiki_University_of_Georgia_shayati_24_4_2018@17_26_52", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "where", 
+   "is", 
+   "the", 
+   "University", 
+   "of", 
+   "Georgia", 
+   "located"
+  ], 
+  "final_sql": "SELECT \"Location\" FROM \"University_of_Georgia\"", 
+  "id": 252
+ }, 
+ {
+  "short_a": "2.54 cm", 
+  "long_a": "1 inch is equal to 2.54 centimeters:", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Centimeter\"", 
+   "FROM", 
+   "\"Distance_Convertion\"", 
+   "WHERE", 
+   "\"Units\"", 
+   "~", 
+   "\"inch\""
+  ], 
+  "sql_transpose": "SELECT \"Centimeter\" FROM \"Distance_Convertion\" WHERE \"Units\" ~ \"inch\"", 
+  "directory": "http___metricunitconversion_globefeed_com_Length_Conversion_Table_asp_lcallebe_18_4_2018@16_24_27", 
+  "question_parsed": [
+   "how", 
+   "many", 
+   "centimeters", 
+   "in", 
+   "an", 
+   "inch"
+  ], 
+  "final_sql": "SELECT \"Centimeter\" FROM \"Distance_Convertion\" WHERE \"Units\" ~ \"inch\"", 
+  "id": 253
+ }, 
+ {
+  "short_a": "pork and ham", 
+  "long_a": "spam's basic ingredients are pork and ham.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "Spam_Food", 
+   "WHERE", 
+   "\"Property\"", 
+   "~", 
+   "\"main ingredient\""
+  ], 
+  "sql_transpose": "SELECT \"Main ingredients\" FROM \"Spam_Food\"", 
+  "directory": "https___en_wikipedia_org_wiki_Spam_(food)_xiyangz_14_5_2018@16_4_25", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "the", 
+   "main", 
+   "ingredient", 
+   "in", 
+   "spam"
+  ], 
+  "final_sql": "SELECT \"Main_ingredients\" FROM \"Spam_Food\"", 
+  "id": 254
+ }, 
+ {
+  "short_a": "normally, swallowing causes a little click or popping sound in the ear. this occurs because a small bubble of air has entered the middle ear, up from the back of the nose.", 
+  "long_a": "ears pop because a bubble of air has entered the middle of the ear and pops, usually when you swallow.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Answers\"", 
+   "FROM", 
+   "\"Ears_and_Altitude\"", 
+   "WHERE", 
+   "\"Questions\"", 
+   "~", 
+   "\"ears popping\""
+  ], 
+  "sql_transpose": "SELECT \"Answers\" FROM \"Ears_and_Altitude\" WHERE \"Questions\" ~ \"ears popping\"", 
+  "directory": "http___www_entnet_org_content_ears-and-altitude_lcallebe_12_4_2018@15_6_37", 
+  "question_parsed": [
+   "Why", 
+   "are", 
+   "my", 
+   "ears", 
+   "always", 
+   "popping"
+  ], 
+  "final_sql": "SELECT \"Answers\" FROM \"Ears_and_Altitude\" WHERE \"Questions\" ~ \"ears_popping\"", 
+  "id": 255
+ }, 
+ {
+  "short_a": "299", 
+  "long_a": "benefits: free voice, unlimited data (3gb high speed data per day, thereafter unlimited at 64kbps), 100sms/day and complimentary subscription to jio apps. validity: 28days", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"price\"", 
+   "FROM", 
+   "jio", 
+   "WHERE", 
+   "\"plan_heading\"", 
+   "~", 
+   "\"3 gb per day\""
+  ], 
+  "sql_transpose": "SELECT \"price\" FROM jio WHERE \"plan_heading\" ~ \"3 gb per day\"", 
+  "directory": "https___www_jio_com_en-in_4g-plans_rolivier_24_4_2018@1_34_39", 
+  "question_parsed": [
+   "Alexa", 
+   "what", 
+   "is", 
+   "the", 
+   "price", 
+   "of", 
+   "jio", 
+   "4G", 
+   "Net", 
+   "pack", 
+   "3Gb", 
+   "per", 
+   "day", 
+   "month", 
+   "Pack"
+  ], 
+  "final_sql": "SELECT \"price\" FROM jio WHERE \"plan_heading\" ~ \"3_gb_per_day\"", 
+  "id": 256
+ }, 
+ {
+  "short_a": "happy supermarket", 
+  "long_a": "happy supermarket on 1299 nw 79th st\nmiami, fl 33147 is the best condom shop in miami.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Name\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Search_Result\"", 
+   "LIKE", 
+   "\"%%1.%\""
+  ], 
+  "sql_transpose": "SELECT \"Name\" FROM \"Table_1\" WHERE \"Search_Result\" LIKE \"%%1.%\"", 
+  "directory": "https___www_yelp_com_search?find_desc=condoms&find_loc=Miami%2C+FL_sayanc_2_5_2018@20_30_8", 
+  "question_parsed": [
+   "Where", 
+   "do", 
+   "I", 
+   "find", 
+   "the", 
+   "best", 
+   "condoms", 
+   "in", 
+   "Miami"
+  ], 
+  "final_sql": "SELECT \"Name\" FROM \"Table_1\" WHERE \"Search_Result\" LIKE \"%%1.%\"", 
+  "id": 257
+ }, 
+ {
+  "short_a": "high blood pressure", 
+  "long_a": "hypertension is another name for high blood pressure.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Definition\"", 
+   "from", 
+   "\"Hypertension_Glossary\"", 
+   "WHERE", 
+   "\"Term\"", 
+   "~", 
+   "\"Hypertension\""
+  ], 
+  "sql_transpose": "SELECT \"Definition\" from \"Hypertension_Glossary\" WHERE \"Term\" ~ \"Hypertension\"", 
+  "directory": "https___my_clevelandclinic_org_health_articles_12273-hypertension-glossary_sstritte_10_4_2018@17_43_20", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "hypertension"
+  ], 
+  "final_sql": "SELECT \"Definition\" from \"Hypertension_Glossary\" WHERE \"Term\" ~ \"Hypertension\"", 
+  "id": 258
+ }, 
+ {
+  "short_a": "no. 24", 
+  "long_a": "the carolina panthers will draft at pick number 24 in the 2018 nfl draft.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Pick\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Team\"", 
+   "~", 
+   "\"Carolina Panthers\""
+  ], 
+  "sql_transpose": "SELECT \"Pick\" FROM \"Table_1\" WHERE \"Team\" ~ \"Carolina Panthers\"", 
+  "directory": "https___pantherswire_usatoday_com_2018_01_08_carolina-panthers-will-pick-no-24-in-the-2018-nfl-draft__sayanc_12_4_2018@2_7_47", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "draft", 
+   "pick", 
+   "will", 
+   "the", 
+   "Carolina", 
+   "Panthers", 
+   "have", 
+   "in", 
+   "the", 
+   "first", 
+   "round", 
+   "of", 
+   "the", 
+   "NFL", 
+   "draft"
+  ], 
+  "final_sql": "SELECT \"Pick\" FROM \"Table_1\" WHERE \"Team\" ~ \"Carolina_Panthers\"", 
+  "id": 259
+ }, 
+ {
+  "short_a": "1119-1314", 
+  "long_a": "the knights templar existed between 1119-1312", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"max(year)\", \"min(year)\"", 
+   "FROM", 
+   "TemplarTimePeriod"
+  ], 
+  "sql_transpose": "SELECT \"max(year)\", \"min(year)\" FROM TemplarTimePeriod", 
+  "directory": "http___www_timeref_com_library_medieval_knights_templar_timeline_htm_pavvaru_16_4_2018@8_3_0", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "year", 
+   "did", 
+   "the", 
+   "knights", 
+   "Templar", 
+   "exist"
+  ], 
+  "final_sql": "SELECT \"max(year)\", \"min(year)\" FROM TemplarTimePeriod", 
+  "id": 260
+ }, 
+ {
+  "short_a": "yes", 
+  "long_a": "punxsutawney phil saw his shadow in 2018.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Result\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Year\"", 
+   "~", 
+   "\"2018\""
+  ], 
+  "sql_transpose": "SELECT \"Result\" FROM \"Table_1\" WHERE \"Year\" ~ \"2018\"", 
+  "directory": "http:\\\\www.stormfax.com\\ghogday.htm_sstritte_25\\3\\2018@21:29:43", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "Did", 
+   "the", 
+   "Groundhog", 
+   "see", 
+   "his", 
+   "shadow", 
+   "in", 
+   "2018"
+  ], 
+  "final_sql": "SELECT \"Result\" FROM \"Table_1\" WHERE \"Year\" ~ \"2018\"", 
+  "id": 261
+ }, 
+ {
+  "short_a": "jan. 26, 1837", 
+  "long_a": "michigan became a state on janunary 26, 1837.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Date\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"State_Name\"", 
+   "~", 
+   "\"Michigan\""
+  ], 
+  "sql_transpose": "SELECT \"Date\" FROM \"Table_1\" WHERE \"State_Name\" ~ \"Michigan\"", 
+  "directory": "https:\\\\www.50states.com\\statehood.htm_sstritte_21\\3\\2018@21:56:29", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "year", 
+   "did", 
+   "Michigan", 
+   "become", 
+   "a", 
+   "state"
+  ], 
+  "final_sql": "SELECT \"Date\" FROM \"Table_1\" WHERE \"State_Name\" ~ \"Michigan\"", 
+  "id": 262
+ }, 
+ {
+  "short_a": "about 4500 years old", 
+  "long_a": "the pyramids were constructed in 2584\u20132561 bc, making them around 4,500 years old.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Date_of_Construction\"", 
+   "from", 
+   "\"Wonders\"", 
+   "WHERE", 
+   "\"Name\"", 
+   "~", 
+   "\"pyramid\""
+  ], 
+  "sql_transpose": "SELECT \"Date_of_Construction\" from \"Wonders\" WHERE \"Name\" ~ \"pyramid\"", 
+  "directory": "https:\\\\en.wikipedia.org\\wiki\\Seven_Wonders_of_the_Ancient_World_sstritte_25\\3\\2018@22:26:2", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "old", 
+   "are", 
+   "the", 
+   "pyramids"
+  ], 
+  "final_sql": "SELECT \"Date_of_Construction\" from \"Wonders\" WHERE \"Name\" ~ \"pyramid\"", 
+  "id": 263
+ }, 
+ {
+  "short_a": "the premier league, the football league", 
+  "long_a": "the premier league and the football league are two soccer leagues in england.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"League\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Country\"", 
+   "~", 
+   "\"england\""
+  ], 
+  "sql_transpose": "SELECT \"League\" FROM \"Table_1\" WHERE \"Country\" ~ \"england\"", 
+  "directory": "https:\\\\en.wikipedia.org\\wiki\\European_Professional_Football_Leagues_sayanc_25\\3\\2018@15:44:39", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "soccer", 
+   "leagues", 
+   "do", 
+   "they", 
+   "have", 
+   "in", 
+   "england"
+  ], 
+  "final_sql": "SELECT \"League\" FROM \"Table_1\" WHERE \"Country\" ~ \"england\"", 
+  "id": 264
+ }, 
+ {
+  "short_a": "peter jones, bicester shopping village, the outnet", 
+  "long_a": "princess kate shops for dresses at shops including peter jones, bicester shopping village, and the outnet.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"values\"", 
+   "FROM", 
+   "Kate_Middleton_Style", 
+   "WHERE", 
+   "\"keys\"", 
+   "~", 
+   "\"dresses\";"
+  ], 
+  "sql_transpose": "SELECT \"STORES:\" FROM \"Kate_Middleton_Style\"", 
+  "directory": "https___katemiddletonstyle_org_category_get-kates-style__shayati_16_4_2018@15_48_2", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "where", 
+   "does", 
+   "Princess", 
+   "Kate", 
+   "get", 
+   "her", 
+   "dresses"
+  ], 
+  "final_sql": "SELECT \"STORES:\" FROM \"Kate_Middleton_Style\"", 
+  "id": 265
+ }, 
+ {
+  "short_a": "apr 17", 
+  "long_a": "taxes are due april 17, 2018.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Date\"", 
+   "FROM", 
+   "US_Tax_Day", 
+   "ORDER_BY", 
+   "\"Year\"", 
+   "DESCENDING", 
+   "LIMIT_1"
+  ], 
+  "sql_transpose": "SELECT \"Date\" FROM US_Tax_Day ORDER_BY \"Year\" DESCENDING LIMIT_1", 
+  "directory": "https___www_timeanddate_com_holidays_us_tax-day_xiyangz_21_4_2018@23_6_17", 
+  "question_parsed": [
+   "When", 
+   "are", 
+   "taxes", 
+   "due"
+  ], 
+  "final_sql": "SELECT \"Date\" FROM US_Tax_Day ORDER_BY \"Year\" DESCENDING LIMIT_1", 
+  "id": 266
+ }, 
+ {
+  "short_a": "legit", 
+  "long_a": "swagbucks is an online reward program that is legitimate.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"value\"", 
+   "FROM", 
+   "Swagbucks", 
+   "WHERE", 
+   "\"key\"", 
+   "LIKE", 
+   "\"%%VERDICT%\";"
+  ], 
+  "sql_transpose": "SELECT \"VERDICT: LEGIT\" FROM \"Swagbucks\"", 
+  "directory": "http___waystoavoidscamsonline_com_is-swagbucks-a-scam-or-worthwhile-opportunity_shayati_17_4_2018@11_0_47", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "does", 
+   "Swagbucks", 
+   "work"
+  ], 
+  "final_sql": "SELECT \"VERDICT:_LEGIT\" FROM \"Swagbucks\"", 
+  "id": 267
+ }, 
+ {
+  "short_a": "laurie metcalf", 
+  "long_a": "laurie metcalf plays mary cooper who is sheldon's mother", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Portrayed_by\"", 
+   "FROM", 
+   "\"Character_Appearances\"", 
+   "WHERE", 
+   "\"Character\"", 
+   "LIKE", 
+   "\"%%Mary Cooper%\";"
+  ], 
+  "sql_transpose": "SELECT \"Portrayed_by\" FROM \"Character_Appearances\" WHERE \"Character\" LIKE \"%%Mary Cooper%\";", 
+  "directory": "https___en_wikipedia_org_wiki_List_of_The_Big_Bang_Theory_characters#Mary_Cooper_shayati_10_4_2018@13_48_44", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "who", 
+   "is", 
+   "the", 
+   "actress", 
+   "that", 
+   "plays", 
+   "Sheldon", 
+   "s", 
+   "mother"
+  ], 
+  "final_sql": "SELECT \"Portrayed_by\" FROM \"Character_Appearances\" WHERE \"Character\" LIKE \"%%Mary Cooper%\";", 
+  "id": 268
+ }, 
+ {
+  "short_a": "9:00 pm", 
+  "long_a": "the best buy located in pittsburgh, pennsylvania closes at 9:00pm.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Close\"", 
+   "from", 
+   "\"Store_Hours\"", 
+   "WHERE", 
+   "\"Weekday\"", 
+   "~", 
+   "\"external('day of week')\""
+  ], 
+  "sql_transpose": "SELECT \"Close\" from \"Store_Hours\" WHERE \"Weekday\" ~ \"external('day of week')\"", 
+  "directory": "https:\\\\stores.bestbuy.com\\pa\\pittsburgh\\4801-mcknight-rd-585.html_sstritte_22\\3\\2018@14:11:41", 
+  "question_parsed": [
+   "What", 
+   "time", 
+   "does", 
+   "Best", 
+   "Buy", 
+   "close"
+  ], 
+  "final_sql": "SELECT \"Close\" from \"Store_Hours\" WHERE \"Weekday\" ~ \"external ( \"day_of_week\" ) \"", 
+  "id": 269
+ }, 
+ {
+  "short_a": "5.8-inch (diagonal)", 
+  "long_a": "super retina hd display\n 5.8-inch (diagonal) all-screen oled multi-touch display\n hdr display", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"key\"", 
+   "~", 
+   "\"screen resolution\""
+  ], 
+  "sql_transpose": "SELECT \"Resolution\" FROM \"\"Table_1\"\"", 
+  "directory": "https:\\\\www.gsmarena.com\\apple_iphone_x-8858.php_rolivier_23\\3\\2018@11:2:11", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "s", 
+   "the", 
+   "screen", 
+   "resolution", 
+   "of", 
+   "Iphone", 
+   "X"
+  ], 
+  "final_sql": "SELECT \"Resolution\" FROM \"Table_1\"", 
+  "id": 270
+ }, 
+ {
+  "short_a": "corn masa encasing some type of filling", 
+  "long_a": "tamales are a dish made of corn masa encasing some type of filling, usually pork.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Definition\"", 
+   "from", 
+   "\"Mexican_Food_Glossary\"", 
+   "WHERE", 
+   "\"Term\"", 
+   "~", 
+   "\"tamales\""
+  ], 
+  "sql_transpose": "SELECT \"Definition\" from \"Mexican_Food_Glossary\" WHERE \"Term\" ~ \"tamales\"", 
+  "directory": "http___www_fiestajalapenos_com_glossary_html_sstritte_10_4_2018@17_48_57", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "are", 
+   "tamales"
+  ], 
+  "final_sql": "SELECT \"Definition\" from \"Mexican_Food_Glossary\" WHERE \"Term\" ~ \"tamales\"", 
+  "id": 271
+ }, 
+ {
+  "short_a": "finding reputable laptop resellers can be tricky. many shady companies promise great deals and never deliver. stick to secure, well-known sites with rating systems or buyer protections, particularly if you don\u2019t feel comfortable evaluating the product yourself. remember to always check for customer reviews or a better business bureau accreditation before buying from any storefront.", 
+  "long_a": "finding reputable laptop resellers can be tricky. many shady companies promise great deals and never deliver. stick to secure, well-known sites with rating systems or buyer protections, particularly if you don\u2019t feel comfortable evaluating the product yourself. remember to always check for customer reviews or a better business bureau accreditation before buying from any storefront.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Answer\"", 
+   "FROM", 
+   "\"Cheap_Laptops\"", 
+   "WHERE", 
+   "\"Question\"", 
+   "~", 
+   "\"where buy\""
+  ], 
+  "sql_transpose": "SELECT \"Answer\" FROM \"Cheap_Laptops\" WHERE \"Question\" ~ \"where buy\"", 
+  "directory": "https___www_nerdwallet_com_blog_shopping_buy-good-cheap-laptops-screwed__sayanc_26_4_2018@0_59_0", 
+  "question_parsed": [
+   "where", 
+   "do", 
+   "I", 
+   "buy", 
+   "a", 
+   "cheap", 
+   "laptop"
+  ], 
+  "final_sql": "SELECT \"Answer\" FROM \"Cheap_Laptops\" WHERE \"Question\" ~ \"where_buy\"", 
+  "id": 272
+ }, 
+ {
+  "short_a": "no", 
+  "long_a": "a period of 90 days without a repayment results in the amount taxed as income, with a potential 10% penalty on top if you\u2019re under 59.5 years old", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"401kloan\"", 
+   "FROM", 
+   "loans", 
+   "WHERE", 
+   "\"info\"", 
+   "~", 
+   "\"taxable income\""
+  ], 
+  "sql_transpose": "SELECT \"401kloan\" FROM loans WHERE \"info\" ~ \"taxable income\"", 
+  "directory": "https___www_finder_com_personal-loan-vs-401k-loan_rolivier_24_4_2018@1_3_54", 
+  "question_parsed": [
+   "Does", 
+   "a", 
+   "loan", 
+   "from", 
+   "my", 
+   "401k", 
+   "count", 
+   "as", 
+   "taxable", 
+   "income"
+  ], 
+  "final_sql": "SELECT \"401kloan\" FROM loans WHERE \"info\" ~ \"taxable_income\"", 
+  "id": 273
+ }, 
+ {
+  "short_a": "barton creek square\n 2901 s capital of texas highway", 
+  "long_a": "the cheesecake factory is located barton creek square 2901 s capital of texas highway", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Cheesecake_Factory_at_Barton_Creek_Mall\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"located\""
+  ], 
+  "sql_transpose": "SELECT \"location\" FROM \"\"Cheesecake_Factory_at_Barton_Creek_Mall\"\"", 
+  "directory": "http___locations_thecheesecakefactory_com_tx_austin-188_html_sayanc_20_4_2018@17_55_18", 
+  "question_parsed": [
+   "Siri", 
+   "", 
+   "where", 
+   "is", 
+   "the", 
+   "Cheesecake", 
+   "Factory", 
+   "located", 
+   "at", 
+   "Barton", 
+   "Creek", 
+   "Mall"
+  ], 
+  "final_sql": "SELECT \"location\" FROM \"Cheesecake_Factory_at_Barton_Creek_Mall\"", 
+  "id": 274
+ }, 
+ {
+  "short_a": "mon - sun 6am - 11pm", 
+  "long_a": "the walmart in pittsburgh, pa closes at 11 pm everyday.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"time\""
+  ], 
+  "sql_transpose": "SELECT \"Store hours\" FROM \"\"Table_1\"\"", 
+  "directory": "https___www_walmart_com_store_5339_pittsburgh-pa_details_sayanc_12_4_2018@14_45_15", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "time", 
+   "does", 
+   "wal", 
+   "mart", 
+   "close"
+  ], 
+  "final_sql": "SELECT \"Store_hours\" FROM \"Table_1\"", 
+  "id": 275
+ }, 
+ {
+  "short_a": "nicholas ii; vladimir lenin", 
+  "long_a": "the leader of russia during world war i were nicholas ii and vladimir lenin.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Leader\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"COUNTRY\"", 
+   "~", 
+   "\"Russia\""
+  ], 
+  "sql_transpose": "SELECT \"Leader\" FROM \"Table_1\" WHERE \"COUNTRY\" ~ \"Russia\"", 
+  "directory": "https___en_wikipedia_org_wiki_Allied_leaders_of_World_War_I#Russian_Empire_sayanc_12_4_2018@2_2_41", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "who", 
+   "was", 
+   "the", 
+   "leader", 
+   "of", 
+   "Russia", 
+   "during", 
+   "World", 
+   "War", 
+   "I"
+  ], 
+  "final_sql": "SELECT \"Leader\" FROM \"Table_1\" WHERE \"COUNTRY\" ~ \"Russia\"", 
+  "id": 276
+ }, 
+ {
+  "short_a": "7 november 2001 (london)\n1 february 2002 (united kingdom)", 
+  "long_a": "gosford park was released in november 2001 in london and in february 2002 in the rest of the uk.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Gosford_Park\"", 
+   "WHERE", 
+   "\"key\"", 
+   "~", 
+   "\"year\""
+  ], 
+  "sql_transpose": "SELECT \" release date \" FROM \"\"Gosford_Park\"\"", 
+  "directory": "https___en_wikipedia_org_wiki_Gosford_Park_lcallebe_3_5_2018@16_48_45", 
+  "question_parsed": [
+   "what", 
+   "year", 
+   "did", 
+   "Gosford", 
+   "Park", 
+   "come", 
+   "out"
+  ], 
+  "final_sql": "SELECT \"_release_date_\" FROM \"Gosford_Park\"", 
+  "id": 277
+ }, 
+ {
+  "short_a": "687,584", 
+  "long_a": "the population of boston in 2018 is 687,584.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"2018_Population\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Name\"", 
+   "~", 
+   "\"Boston\""
+  ], 
+  "sql_transpose": "SELECT \"2018_Population\" FROM \"Table_1\" WHERE \"Name\" ~ \"Boston\"", 
+  "directory": "http:\\\\worldpopulationreview.com\\us-cities\\_sstritte_29\\3\\2018@12:54:56", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "the", 
+   "population", 
+   "of", 
+   "Boston", 
+   "", 
+   "MA"
+  ], 
+  "final_sql": "SELECT \"2018_Population\" FROM \"Table_1\" WHERE \"Name\" ~ \"Boston\"", 
+  "id": 278
+ }, 
+ {
+  "short_a": "corticosteroids, ibuprofen and acetaminophen.", 
+  "long_a": "the treatment for epstein-barr virus is corticosteroids, ibuprofen and acetaminophen.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Questions_and_Answers\"", 
+   "WHERE", 
+   "\"Property\"", 
+   "LIKE", 
+   "\"%%What is the treatment for Epstein-Barr virus?%\""
+  ], 
+  "sql_transpose": "SELECT \"what is the treatment for epstein-barr virus?\" FROM \"\"Questions_and_Answers\"\"", 
+  "directory": "https:\\\\www.reference.com\\health\\treatment-epstein-barr-virus-3083334982f8258f_sayanc_24\\3\\2018@23:13:16", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "treatment", 
+   "for", 
+   "Epstein", 
+   "Barr", 
+   "virus"
+  ], 
+  "final_sql": "SELECT \"what_is_the_treatment_for_epstein-barr_virus?\" FROM \"Questions_and_Answers\"", 
+  "id": 279
+ }, 
+ {
+  "short_a": "europe", 
+  "long_a": "scotland is part of europe.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Geography_of_Scotland\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"continent\""
+  ], 
+  "sql_transpose": "SELECT \"continent\" FROM \"\"Geography_of_Scotland\"\"", 
+  "directory": "https___en_wikipedia_org_wiki_Geography_of_Scotland_lcallebe_14_5_2018@9_59_46", 
+  "question_parsed": [
+   "Siri", 
+   "", 
+   "what", 
+   "continent", 
+   "is", 
+   "scotland", 
+   "a", 
+   "part", 
+   "of"
+  ], 
+  "final_sql": "SELECT \"continent\" FROM \"Geography_of_Scotland\"", 
+  "id": 280
+ }, 
+ {
+  "short_a": "february 2", 
+  "long_a": "groundhog day is february 2.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Date\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Holiday\"", 
+   "~", 
+   "\"Groundhog Day\""
+  ], 
+  "sql_transpose": "SELECT \"Date\" FROM \"Table_1\" WHERE \"Holiday\" ~ \"Groundhog Day\"", 
+  "directory": "https:\\\\www.calendar-365.com\\holidays\\2018.html_sstritte_28\\3\\2018@1:2:58", 
+  "question_parsed": [
+   "When", 
+   "is", 
+   "Groundhog", 
+   "Day"
+  ], 
+  "final_sql": "SELECT \"Date\" FROM \"Table_1\" WHERE \"Holiday\" ~ \"Groundhog_Day\"", 
+  "id": 281
+ }, 
+ {
+  "short_a": "nbc 6:30 pm", 
+  "long_a": "i found the answer to my question about the superbowl.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"How_to_Watch_Super_Bowl_LII\"", 
+   "WHERE", 
+   "\"KEY\"", 
+   "~", 
+   "\"televised\""
+  ], 
+  "sql_transpose": "SELECT \"tv:\" FROM \"\"How_to_Watch_Super_Bowl_LII\"\"", 
+  "directory": "https___www_cbssports_com_nfl_news_super-bowl-2018-kickoff-time-how-to-watch-on-tv-stream-info-halftime-and-more__sayanc_13_4_2018@14_50_21", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "superbowl", 
+   "being", 
+   "televised", 
+   "on", 
+   "channel", 
+   "in", 
+   "new", 
+   "england"
+  ], 
+  "final_sql": "SELECT \"tv:\" FROM \"How_to_Watch_Super_Bowl_LII\"", 
+  "id": 282
+ }, 
+ {
+  "short_a": "anually", 
+  "long_a": "vehicle in new york state must be inspected anually for both safety and emission", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Periodic_safety_inspections\",", 
+   "\"Periodic_emissions_inspections\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"State\"", 
+   "~", 
+   "\"New York\""
+  ], 
+  "sql_transpose": "SELECT \"Periodic_safety_inspections\", \"Periodic_emissions_inspections\" FROM \"Table_1\" WHERE \"State\" ~ \"New York\"", 
+  "directory": "https:\\\\en.wikipedia.org\\wiki\\Vehicle_inspection_in_the_United_States_rolivier_23\\3\\2018@11:7:43", 
+  "question_parsed": [
+   "Siri", 
+   "", 
+   "how", 
+   "often", 
+   "does", 
+   "New", 
+   "York", 
+   "State", 
+   "require", 
+   "cars", 
+   "to", 
+   "be", 
+   "inspected"
+  ], 
+  "final_sql": "SELECT \"Periodic_safety_inspections\", \"Periodic_emissions_inspections\" FROM \"Table_1\" WHERE \"State\" ~ \"New_York\"", 
+  "id": 283
+ }, 
+ {
+  "short_a": "180 days", 
+  "long_a": "under georgia law, residency is established once one has lived in georgia for six months.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Residency\"", 
+   "FROM", 
+   "\"Divorce_Residency_Requirements\"", 
+   "WHERE", 
+   "\"State\"", 
+   "~", 
+   "\"Georgia\""
+  ], 
+  "sql_transpose": "SELECT \"Residency\" FROM \"Divorce_Residency_Requirements\" WHERE \"State\" ~ \"Georgia\"", 
+  "directory": "https___www_divorcewriter_com_divorce-residency-requirements_aspx_lcallebe_13_4_2018@10_12_52", 
+  "question_parsed": [
+   "How", 
+   "do", 
+   "you", 
+   "establish", 
+   "jurisdiction", 
+   "for", 
+   "divorce", 
+   "in", 
+   "Georgia"
+  ], 
+  "final_sql": "SELECT \"Residency\" FROM \"Divorce_Residency_Requirements\" WHERE \"State\" ~ \"Georgia\"", 
+  "id": 284
+ }, 
+ {
+  "short_a": "self-employed people are responsible for paying the same federal income taxes as everyone else.", 
+  "long_a": "self-employed people are responsible for paying the same federal income taxes as everyone else.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "LIKE", 
+   "\"%%Overview%\""
+  ], 
+  "sql_transpose": "SELECT \"OVERVIEW\" FROM \"\"Table_1\"\"", 
+  "directory": "https___turbotax_intuit_com_tax-tips_self-employment-taxes_self-employed-federal-income-taxes_L7fmfVHM3_sayanc_20_4_2018@17_37_30", 
+  "question_parsed": [
+   "Siri", 
+   "", 
+   "does", 
+   "self", 
+   "employment", 
+   "require", 
+   "you", 
+   "to", 
+   "pay", 
+   "taxes"
+  ], 
+  "final_sql": "SELECT \"OVERVIEW\" FROM \"Table_1\"", 
+  "id": 285
+ }, 
+ {
+  "short_a": "u.s. bank stadium, minneapolis, minnesota", 
+  "long_a": "the game will be held at u.s. bank stadium in minneapolis.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Super_Bowl_LII\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "LIKE", 
+   "\"%%Stadium%\""
+  ], 
+  "sql_transpose": "SELECT \"Stadium\" FROM \"\"Super_Bowl_LII\"\"", 
+  "directory": "https___en_wikipedia_org_wiki_Super_Bowl_LII_lcallebe_8_6_2018@16_29_58", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "where", 
+   "is", 
+   "the", 
+   "Super", 
+   "Bowl", 
+   "being", 
+   "played", 
+   "this", 
+   "year"
+  ], 
+  "final_sql": "SELECT \"Stadium\" FROM \"Super_Bowl_LII\"", 
+  "id": 286
+ }, 
+ {
+  "short_a": "22", 
+  "long_a": "there are 22 new science jobs in rochester ny.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "COUNT", 
+   "(", 
+   "Title", 
+   ")", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Location\"", 
+   "~", 
+   "\"Rochester NY\""
+  ], 
+  "sql_transpose": "SELECT COUNT ( Title ) FROM \"Table_1\" WHERE \"Location\" ~ \"Rochester NY\"", 
+  "directory": "https___www_simplyhired_com_search?q=science&l=rochester%2C+ny&job=eN9qPX6REZIAFp0DShF5_0BRrY7v-QBpKTgg1ZScULkFlJDMAUTwbg_sayanc_27_4_2018@13_3_43", 
+  "question_parsed": [
+   "Are", 
+   "there", 
+   "any", 
+   "science", 
+   "jobs", 
+   "in", 
+   "Rochester", 
+   "", 
+   "NY"
+  ], 
+  "final_sql": "SELECT COUNT ( Title ) FROM \"Table_1\" WHERE \"Location\" ~ \"Rochester_NY\"", 
+  "id": 287
+ }, 
+ {
+  "short_a": "anthony fauci", 
+  "long_a": "the director of the national institute of allergy and infectious diseases is dr. anthony fauci.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"value\"", 
+   "FROM", 
+   "National_Institute_of_Allergy_and_Infectious_Diseases", 
+   "WHERE", 
+   "\"key\"", 
+   "~", 
+   "\"director\";"
+  ], 
+  "sql_transpose": "SELECT \"Institute executive\" FROM \"National_Institute_of_Allergy_and_Infectious_Diseases\"", 
+  "directory": "https___en_wikipedia_org_wiki_National_Institute_of_Allergy_and_Infectious_Diseases_shayati_13_4_2018@15_45_18", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "who", 
+   "is", 
+   "the", 
+   "director", 
+   "of", 
+   "the", 
+   "National", 
+   "Institute", 
+   "of", 
+   "Allergy", 
+   "and", 
+   "Infectious", 
+   "Diseases"
+  ], 
+  "final_sql": "SELECT \"Institute_executive\" FROM \"National_Institute_of_Allergy_and_Infectious_Diseases\"", 
+  "id": 288
+ }, 
+ {
+  "short_a": "2.79", 
+  "long_a": "egg mcmuffins cost $2.79.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Price\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Food\"", 
+   "LIKE", 
+   "\"egg mcmuffins\""
+  ], 
+  "sql_transpose": "SELECT \"Price\" FROM \"Table_1\" WHERE \"Food\" LIKE \"egg mcmuffins\"", 
+  "directory": "https___www_fastfoodmenuprices_com_mcdonalds-prices_?redir_sayanc_27_4_2018@13_13_38", 
+  "question_parsed": [
+   "How", 
+   "much", 
+   "are", 
+   "egg", 
+   "mcmuffins"
+  ], 
+  "final_sql": "SELECT \"Price\" FROM \"Table_1\" WHERE \"Food\" LIKE \"egg mcmuffins\"", 
+  "id": 289
+ }, 
+ {
+  "short_a": "9:15 pm", 
+  "long_a": "the squashbusters gym closes at 9:15pm on weekdays and at 6pm on weekends.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Close_Time\"", 
+   "from", 
+   "\"SquashBusters_Hours\"", 
+   "WHERE", 
+   "\"Day\"", 
+   "~", 
+   "\"external('day of week')\""
+  ], 
+  "sql_transpose": "SELECT \"Close_Time\" from \"SquashBusters_Hours\" WHERE \"Day\" ~ \"external('day of week')\"", 
+  "directory": "https:\\\\www.yelp.com\\biz\\squashbusters-roxbury-crossing_sstritte_25\\3\\2018@22:53:2", 
+  "question_parsed": [
+   "When", 
+   "does", 
+   "Squashbusters", 
+   "gym", 
+   "close"
+  ], 
+  "final_sql": "SELECT \"Close_Time\" from \"SquashBusters_Hours\" WHERE \"Day\" ~ \"external ( \"day_of_week\" ) \"", 
+  "id": 290
+ }, 
+ {
+  "short_a": "16-feb-18", 
+  "long_a": "black panther comes out in the movie theaters on february 16, 2018.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Property\"", 
+   "LIKE", 
+   "\"come out\""
+  ], 
+  "sql_transpose": "SELECT \"Release Date:\" FROM \"\"Table_1\"\"", 
+  "directory": "http:\\\\www.imdb.com\\title\\tt1825683\\_sayanc_24\\3\\2018@22:59:0", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "when", 
+   "does", 
+   "Black", 
+   "Panther", 
+   "come", 
+   "out", 
+   "in", 
+   "the", 
+   "theaters"
+  ], 
+  "final_sql": "SELECT \"Release_Date:\" FROM \"Table_1\"", 
+  "id": 291
+ }, 
+ {
+  "short_a": "65 kilograms", 
+  "long_a": "the pounds to kilograms conversion for 145 pounds is 65 kilograms", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Kilograms\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Pounds\"", 
+   "=", 
+   "\"100.00lb\";"
+  ], 
+  "sql_transpose": "SELECT \"Kilograms\" FROM \"Table_1\" WHERE \"Pounds\" = \"100.00lb\";", 
+  "directory": "https___www_metric-conversions_org_weight_pounds-to-kilograms_htm_pavvaru_13_4_2018@0_28_39", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "my", 
+   "weight", 
+   "in", 
+   "kilograms"
+  ], 
+  "final_sql": "SELECT \"Kilograms\" FROM \"Table_1\" WHERE \"Pounds\" = \"100.00lb\";", 
+  "id": 292
+ }, 
+ {
+  "short_a": "february 26.", 
+  "long_a": "the third season of unreal premieres on lifetime on february 26, 2018.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"First_Aired\"", 
+   "FROM", 
+   "UnReal", 
+   "WHERE", 
+   "\"Season\"", 
+   "~", 
+   "\"3\""
+  ], 
+  "sql_transpose": "SELECT \"First_Aired\" FROM UnReal WHERE \"Season\" ~ \"3\"", 
+  "directory": "https___en_wikipedia_org_wiki_Unreal_(TV_series)_sayanc_9_5_2018@2_11_23", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "when", 
+   "does", 
+   "season", 
+   "3", 
+   "of", 
+   "UnReal", 
+   "premiere", 
+   "on", 
+   "Lifetime"
+  ], 
+  "final_sql": "SELECT \"First_Aired\" FROM UnReal WHERE \"Season\" ~ \"3\"", 
+  "id": 293
+ }, 
+ {
+  "short_a": "6ft 1 \u00bd (187 cm)", 
+  "long_a": "will smith is 6ft 1 \u00bd (187 cm).", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Height\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Name\"", 
+   "LIKE", 
+   "\"will smith\""
+  ], 
+  "sql_transpose": "SELECT \"Height\" FROM \"Table_1\" WHERE \"Name\" LIKE \"will smith\"", 
+  "directory": "https___www_celebheights_com_s_S9_html_sayanc_25_4_2018@2_32_38", 
+  "question_parsed": [
+   "How", 
+   "tall", 
+   "is", 
+   "will", 
+   "smith"
+  ], 
+  "final_sql": "SELECT \"Height\" FROM \"Table_1\" WHERE \"Name\" LIKE \"will smith\"", 
+  "id": 294
+ }, 
+ {
+  "short_a": "11", 
+  "long_a": "11 states have a law to enforce the national popular vote bill.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "COUNT", 
+   "(", 
+   "State", 
+   ")", 
+   "FROM", 
+   "\"National_Popular_Vote_-_Bills_receiving_floor_votes_in_previous_sessions\"", 
+   "WHERE", 
+   "\"Outome\"", 
+   "~", 
+   "\"states signed\""
+  ], 
+  "sql_transpose": "SELECT COUNT ( State ) FROM \"National_Popular_Vote_-_Bills_receiving_floor_votes_in_previous_sessions\" WHERE \"Outome\" ~ \"states signed\"", 
+  "directory": "https___en_wikipedia_org_wiki_National_Popular_Vote_Interstate_Compact_lcallebe_15_5_2018@11_9_2", 
+  "question_parsed": [
+   "How", 
+   "many", 
+   "states", 
+   "have", 
+   "signed", 
+   "onto", 
+   "the", 
+   "270", 
+   "compact"
+  ], 
+  "final_sql": "SELECT COUNT ( State ) FROM \"National_Popular_Vote_-_Bills_receiving_floor_votes_in_previous_sessions\" WHERE \"Outome\" ~ \"states_signed\"", 
+  "id": 295
+ }, 
+ {
+  "short_a": "6:30 p.m. et", 
+  "long_a": "the kickoff for super bowl lii is scheduled for 6:30 p.m. et on sunday, feb. 4.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Superbowl_2018\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "LIKE", 
+   "\"%%time%\""
+  ], 
+  "sql_transpose": "SELECT \"time:\" FROM \"\"Superbowl_2018\"\"", 
+  "directory": "https___www_cbssports_com_nfl_news_what-time-does-super-bowl-2018-start-when-eagles-patriots-kicks-off-tv-channel__sayanc_12_4_2018@0_53_33", 
+  "question_parsed": [
+   "What", 
+   "time", 
+   "does", 
+   "the", 
+   "super", 
+   "bowl", 
+   "start"
+  ], 
+  "final_sql": "SELECT \"time:\" FROM \"Superbowl_2018\"", 
+  "id": 296
+ }, 
+ {
+  "short_a": "6-feb", 
+  "long_a": "the falcon heavy launch os set for feb. 6.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"launch\""
+  ], 
+  "sql_transpose": "SELECT \"First flight\" FROM \"\"Table_1\"\"", 
+  "directory": "https___en_wikipedia_org_wiki_Falcon_Heavy_sayanc_4_5_2018@12_46_51", 
+  "question_parsed": [
+   "When", 
+   "is", 
+   "the", 
+   "Falcon", 
+   "Heavy", 
+   "Launch"
+  ], 
+  "final_sql": "SELECT \"First_flight\" FROM \"Table_1\"", 
+  "id": 297
+ }, 
+ {
+  "short_a": "7,699,793,000", 
+  "long_a": "microsoft corporation has 7,699,793,000 outstanding shares.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "from", 
+   "\"Microsoft_Corporation_Stock_Report\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "LIKE", 
+   "\"shares outstanding\""
+  ], 
+  "sql_transpose": "SELECT \"shares outstanding\" FROM \"\"Microsoft_Corporation_Stock_Report\"\"", 
+  "directory": "https:\\\\www.nasdaq.com\\symbol\\msft\\stock-report_sstritte_29\\3\\2018@13:7:4", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "many", 
+   "microsoft", 
+   "shares", 
+   "are", 
+   "outstanding"
+  ], 
+  "final_sql": "SELECT \"shares_outstanding\" FROM \"Microsoft_Corporation_Stock_Report\"", 
+  "id": 298
+ }, 
+ {
+  "short_a": "5280 ft", 
+  "long_a": "there are 5280 feet in a mile.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Foot\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Mile\"", 
+   "~", 
+   "\"a mile\""
+  ], 
+  "sql_transpose": "SELECT \"Foot\" FROM \"Table_1\" WHERE \"Mile\" ~ \"a mile\"", 
+  "directory": "https___www_asknumbers_com_miles-to-feet_aspx_sayanc_4_5_2018@21_13_17", 
+  "question_parsed": [
+   "How", 
+   "many", 
+   "feet", 
+   "are", 
+   "in", 
+   "a", 
+   "mile"
+  ], 
+  "final_sql": "SELECT \"Foot\" FROM \"Table_1\" WHERE \"Mile\" ~ \"a_mile\"", 
+  "id": 299
+ }, 
+ {
+  "short_a": "1980 1994", 
+  "long_a": "millennials are generally considered born between 1980 and 1994.", 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Start\",", 
+   "\"End\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Generation_Name\"", 
+   "~", 
+   "\"millennials\""
+  ], 
+  "sql_transpose": "SELECT \"Start\", \"End\" FROM \"Table_1\" WHERE \"Generation_Name\" ~ \"millennials\"", 
+  "directory": "https:\\\\www.careerplanner.com\\Career-Articles\\Generations.cfm_sayanc_24\\3\\2018@16:38:30", 
+  "question_parsed": [
+   "What", 
+   "years", 
+   "are", 
+   "millennials", 
+   "considered", 
+   "born", 
+   "in"
+  ], 
+  "final_sql": "SELECT \"Start\", \"End\" FROM \"Table_1\" WHERE \"Generation_Name\" ~ \"millennials\"", 
+  "id": 300
+ }, 
+ {
+  "short_a": "19 march 1821, torquay, devon, england", 
+  "long_a": "richard francis burton was born in torquay, devon (england) on 19 march 1821.", 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Sir_Richard_Francis_Burton\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"born\""
+  ], 
+  "sql_transpose": "SELECT \"born\" FROM \"\"Sir_Richard_Francis_Burton\"\"", 
+  "directory": "https___en_wikipedia_org_wiki_Richard_Francis_Burton_lcallebe_15_5_2018@10_29_14", 
+  "question_parsed": [
+   "Where", 
+   "was", 
+   "Capt", 
+   "Sir", 
+   "Richard", 
+   "Francis", 
+   "Burton", 
+   "born"
+  ], 
+  "final_sql": "SELECT \"born\" FROM \"Sir_Richard_Francis_Burton\"", 
+  "id": 301
+ }
+]

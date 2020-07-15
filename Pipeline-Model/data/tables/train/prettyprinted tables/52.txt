@@ -1,0 +1,129 @@
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| url           | Year | Day        | Details       | Details_link  | Type         | Type_link     |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2000 | November 7 | United States | https://en.wi | Presidential | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2000          | iki/United_St |              | iki/United_St |
+| Day_(United_S |      |            |               | ates_election |              | ates_presiden |
+| tates)        |      |            |               | s,_2000       |              | tial_election |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2001 | November 6 | United States | https://en.wi | Off-year     | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2001          | iki/United_St |              | iki/Off-      |
+| Day_(United_S |      |            |               | ates_election |              | year_election |
+| tates)        |      |            |               | s,_2001       |              |               |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2002 | November 5 | United States | https://en.wi | Midterm      | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2002          | iki/United_St |              | iki/United_St |
+| Day_(United_S |      |            |               | ates_election |              | ates_midterm_ |
+| tates)        |      |            |               | s,_2002       |              | election      |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2003 | November 4 | United States | https://en.wi | Off-year     | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2003          | iki/United_St |              | iki/Off-      |
+| Day_(United_S |      |            |               | ates_election |              | year_election |
+| tates)        |      |            |               | s,_2003       |              |               |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2004 | November 2 | United States | https://en.wi | Presidential | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2004          | iki/United_St |              | iki/United_St |
+| Day_(United_S |      |            |               | ates_election |              | ates_presiden |
+| tates)        |      |            |               | s,_2004       |              | tial_election |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2005 | November 8 | United States | https://en.wi | Off-year     | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2005          | iki/United_St |              | iki/Off-      |
+| Day_(United_S |      |            |               | ates_election |              | year_election |
+| tates)        |      |            |               | s,_2005       |              |               |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2006 | November 7 | United States | https://en.wi | Midterm      | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2006          | iki/United_St |              | iki/United_St |
+| Day_(United_S |      |            |               | ates_election |              | ates_midterm_ |
+| tates)        |      |            |               | s,_2006       |              | election      |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2007 | November 6 | United States | https://en.wi | Off-year     | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2007          | iki/United_St |              | iki/Off-      |
+| Day_(United_S |      |            |               | ates_election |              | year_election |
+| tates)        |      |            |               | s,_2007       |              |               |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2008 | November 4 | United States | https://en.wi | Presidential | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2008          | iki/United_St |              | iki/United_St |
+| Day_(United_S |      |            |               | ates_election |              | ates_presiden |
+| tates)        |      |            |               | s,_2008       |              | tial_election |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2009 | November 3 | United States | https://en.wi | Off-year     | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2009          | iki/United_St |              | iki/Off-      |
+| Day_(United_S |      |            |               | ates_election |              | year_election |
+| tates)        |      |            |               | s,_2009       |              |               |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2010 | November 2 | United States | https://en.wi | Midterm      | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2010          | iki/United_St |              | iki/United_St |
+| Day_(United_S |      |            |               | ates_election |              | ates_midterm_ |
+| tates)        |      |            |               | s,_2010       |              | election      |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2011 | November 8 | United States | https://en.wi | Off-year     | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2011          | iki/United_St |              | iki/Off-      |
+| Day_(United_S |      |            |               | ates_election |              | year_election |
+| tates)        |      |            |               | s,_2011       |              |               |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2012 | November 6 | United States | https://en.wi | Presidential | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2012          | iki/United_St |              | iki/United_St |
+| Day_(United_S |      |            |               | ates_election |              | ates_presiden |
+| tates)        |      |            |               | s,_2012       |              | tial_election |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2013 | November 5 | United States | https://en.wi | Off-year     | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2013          | iki/United_St |              | iki/Off-      |
+| Day_(United_S |      |            |               | ates_election |              | year_election |
+| tates)        |      |            |               | s,_2013       |              |               |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2014 | November 4 | United States | https://en.wi | Midterm      | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2014          | iki/United_St |              | iki/United_St |
+| Day_(United_S |      |            |               | ates_election |              | ates_midterm_ |
+| tates)        |      |            |               | s,_2014       |              | election      |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2015 | November 3 | United States | https://en.wi | Off-year     | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2015          | iki/United_St |              | iki/Off-      |
+| Day_(United_S |      |            |               | ates_election |              | year_election |
+| tates)        |      |            |               | s,_2015       |              |               |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2016 | November 8 | United States | https://en.wi | Presidential | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2016          | iki/United_St |              | iki/United_St |
+| Day_(United_S |      |            |               | ates_election |              | ates_presiden |
+| tates)        |      |            |               | s,_2016       |              | tial_election |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2017 | November 7 | United States | https://en.wi | Off-year     | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2017          | iki/United_St |              | iki/Off-      |
+| Day_(United_S |      |            |               | ates_election |              | year_election |
+| tates)        |      |            |               | s,_2017       |              |               |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2018 | November 6 | United States | https://en.wi | Midterm      | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2018          | iki/United_St |              | iki/United_St |
+| Day_(United_S |      |            |               | ates_election |              | ates_midterm_ |
+| tates)        |      |            |               | s,_2018       |              | election      |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2019 | November 5 | United States | https://en.wi | Off-year     | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2019          | iki/United_St |              | iki/Off-      |
+| Day_(United_S |      |            |               | ates_election |              | year_election |
+| tates)        |      |            |               | s,_2019       |              |               |
++---------------+------+------------+---------------+---------------+--------------+---------------+
+| https://en.wi | 2020 | November 3 | United States | https://en.wi | Presidential | https://en.wi |
+| kipedia.org/w |      |            | elections,    | kipedia.org/w |              | kipedia.org/w |
+| iki/Election_ |      |            | 2020          | iki/United_St |              | iki/United_St |
+| Day_(United_S |      |            |               | ates_election |              | ates_presiden |
+| tates)        |      |            |               | s,_2020       |              | tial_election |
++---------------+------+------------+---------------+---------------+--------------+---------------+

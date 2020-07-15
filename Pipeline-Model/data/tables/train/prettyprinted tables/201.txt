@@ -1,0 +1,45 @@
++------------------------------------------------------+------+-----------+------------------------+
+| url                                                  | Rank | Votes     | Season                 |
++------------------------------------------------------+------+-----------+------------------------+
+| https://www.ranker.com/list/best-season-of-family-   | 1    | 801 VOTES | Family Guy - Season 4  |
+| guy/reference                                        |      |           |                        |
++------------------------------------------------------+------+-----------+------------------------+
+| https://www.ranker.com/list/best-season-of-family-   | 2    | 470 VOTES | Family Guy - Season 5  |
+| guy/reference                                        |      |           |                        |
++------------------------------------------------------+------+-----------+------------------------+
+| https://www.ranker.com/list/best-season-of-family-   | 3    | 417 VOTES | Family Guy - Season 10 |
+| guy/reference                                        |      |           |                        |
++------------------------------------------------------+------+-----------+------------------------+
+| https://www.ranker.com/list/best-season-of-family-   | 4    | 444 VOTES | Family Guy - Season 8  |
+| guy/reference                                        |      |           |                        |
++------------------------------------------------------+------+-----------+------------------------+
+| https://www.ranker.com/list/best-season-of-family-   | 5    | 334 VOTES | Family Guy - Season 6  |
+| guy/reference                                        |      |           |                        |
++------------------------------------------------------+------+-----------+------------------------+
+| https://www.ranker.com/list/best-season-of-family-   | 6    | 411 VOTES | Family Guy - Season 3  |
+| guy/reference                                        |      |           |                        |
++------------------------------------------------------+------+-----------+------------------------+
+| https://www.ranker.com/list/best-season-of-family-   | 7    | 320 VOTES | Family Guy - Season 9  |
+| guy/reference                                        |      |           |                        |
++------------------------------------------------------+------+-----------+------------------------+
+| https://www.ranker.com/list/best-season-of-family-   | 8    | 309 VOTES | Family Guy - Season 7  |
+| guy/reference                                        |      |           |                        |
++------------------------------------------------------+------+-----------+------------------------+
+| https://www.ranker.com/list/best-season-of-family-   | 9    | 303 VOTES | Family Guy - Season 11 |
+| guy/reference                                        |      |           |                        |
++------------------------------------------------------+------+-----------+------------------------+
+| https://www.ranker.com/list/best-season-of-family-   | 10   | 364 VOTES | Family Guy - Season 2  |
+| guy/reference                                        |      |           |                        |
++------------------------------------------------------+------+-----------+------------------------+
+| https://www.ranker.com/list/best-season-of-family-   | 11   | 282 VOTES | Family Guy - Season 13 |
+| guy/reference                                        |      |           |                        |
++------------------------------------------------------+------+-----------+------------------------+
+| https://www.ranker.com/list/best-season-of-family-   | 12   | 358 VOTES | Family Guy - Season 1  |
+| guy/reference                                        |      |           |                        |
++------------------------------------------------------+------+-----------+------------------------+
+| https://www.ranker.com/list/best-season-of-family-   | 13   | 173 VOTES | Family Guy - Season 14 |
+| guy/reference                                        |      |           |                        |
++------------------------------------------------------+------+-----------+------------------------+
+| https://www.ranker.com/list/best-season-of-family-   | 14   | 310 VOTES | Family Guy - Season 12 |
+| guy/reference                                        |      |           |                        |
++------------------------------------------------------+------+-----------+------------------------+

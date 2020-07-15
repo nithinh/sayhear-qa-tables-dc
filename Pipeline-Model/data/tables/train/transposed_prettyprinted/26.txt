@@ -1,0 +1,582 @@
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| url          | Presidency   | President    | Prior_Offic | Party       | Term      | Vice_Presid |
+|              |              |              | e           |             |           | ent         |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | April 30,    | George       | Commander-  | Unaffiliate | (1788–89) | John Adams  |
+| ikipedia.org | 1789         | Washington   | in-Chief    | d           |  1        |             |
+| /wiki/List_o |  [e]         |              |  of the     |             |  (1789)   |             |
+| f_Presidents |  –           |              | Continental |             |           |             |
+| _of_the_Unit |  March 4,    |              | Army        |             |           |             |
+| ed_States    | 1797         |              | (1775–1783) |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | April 30,    | George       | Commander-  | Unaffiliate | (1792)    | John Adams  |
+| ikipedia.org | 1789         | Washington   | in-Chief    | d           |  2        |             |
+| /wiki/List_o |  [e]         |              |  of the     |             |  (1793)   |             |
+| f_Presidents |  –           |              | Continental |             |           |             |
+| _of_the_Unit |  March 4,    |              | Army        |             |           |             |
+| ed_States    | 1797         |              | (1775–1783) |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | John Adams   | 1st         | Federalist  | (1796)    | Thomas      |
+| ikipedia.org | 1797         |              |  Vice       |             |  3        | Jefferson   |
+| /wiki/List_o |  –           |              | President   |             |  (1797)   |             |
+| f_Presidents |  March 4,    |              | of the      |             |           |             |
+| _of_the_Unit | 1801         |              | United      |             |           |             |
+| ed_States    |              |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Thomas       | 2nd         | Democratic- | (1800)    | Aaron Burr  |
+| ikipedia.org | 1801         | Jefferson    |  Vice       |  Republican |  4        |             |
+| /wiki/List_o |  –           |              | President   |             |  (1801)   |             |
+| f_Presidents |  March 4,    |              | of the      |             |           |             |
+| _of_the_Unit | 1809         |              | United      |             |           |             |
+| ed_States    |              |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Thomas       | 2nd         | Democratic- | (1804)    | George      |
+| ikipedia.org | 1801         | Jefferson    |  Vice       |  Republican |  5        | Clinton     |
+| /wiki/List_o |  –           |              | President   |             |  (1805)   |             |
+| f_Presidents |  March 4,    |              | of the      |             |           |             |
+| _of_the_Unit | 1809         |              | United      |             |           |             |
+| ed_States    |              |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | James        | 5th         | Democratic- | (1808)    | George      |
+| ikipedia.org | 1809         | Madison      |  United     |  Republican |  6        | Clinton     |
+| /wiki/List_o |  –           |              | States      |             |  (1809)   |             |
+| f_Presidents |  March 4,    |              | Secretary   |             |           |             |
+| _of_the_Unit | 1817         |              | of State    |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | James        | 5th         | Democratic- | (1808)    | Office      |
+| ikipedia.org | 1809         | Madison      |  United     |  Republican |  6        | vacant      |
+| /wiki/List_o |  –           |              | States      |             |  (1809)   |             |
+| f_Presidents |  March 4,    |              | Secretary   |             |           |             |
+| _of_the_Unit | 1817         |              | of State    |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | James        | 5th         | Democratic- | (1812)    | Elbridge    |
+| ikipedia.org | 1809         | Madison      |  United     |  Republican |  7        | Gerry       |
+| /wiki/List_o |  –           |              | States      |             |  (1813)   |             |
+| f_Presidents |  March 4,    |              | Secretary   |             |           |             |
+| _of_the_Unit | 1817         |              | of State    |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | James        | 5th         | Democratic- | (1812)    | Office      |
+| ikipedia.org | 1809         | Madison      |  United     |  Republican |  7        | vacant      |
+| /wiki/List_o |  –           |              | States      |             |  (1813)   |             |
+| f_Presidents |  March 4,    |              | Secretary   |             |           |             |
+| _of_the_Unit | 1817         |              | of State    |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | James Monroe | 7th         | Democratic- | (1816)    | Daniel D.   |
+| ikipedia.org | 1817         |              |  United     |  Republican |  8        | Tompkins    |
+| /wiki/List_o |  –           |              | States      |             |  (1817)   |             |
+| f_Presidents |  March 4,    |              | Secretary   |             |           |             |
+| _of_the_Unit | 1825         |              | of State    |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | James Monroe | 7th         | Democratic- | (1820)    | Daniel D.   |
+| ikipedia.org | 1817         |              |  United     |  Republican |  9        | Tompkins    |
+| /wiki/List_o |  –           |              | States      |             |  (1821)   |             |
+| f_Presidents |  March 4,    |              | Secretary   |             |           |             |
+| _of_the_Unit | 1825         |              | of State    |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | John Quincy  | 8th         | Democratic- | (1824)    | John C.     |
+| ikipedia.org | 1825         | Adams        |  United     |  Republican |  10       | Calhoun     |
+| /wiki/List_o |  –           |              | States      |             |  (1825)   |             |
+| f_Presidents |  March 4,    |              | Secretary   |             |           |             |
+| _of_the_Unit | 1829         |              | of State    |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Andrew       | U.S.        | Democratic  | (1828)    | John C.     |
+| ikipedia.org | 1829         | Jackson      | Senator     |             |  11       | Calhoun     |
+| /wiki/List_o |  –           |              |             |             |  (1829)   |             |
+| f_Presidents |  March 4,    |              |             |             |           |             |
+| _of_the_Unit | 1837         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Andrew       | U.S.        | Democratic  | (1828)    | Office      |
+| ikipedia.org | 1829         | Jackson      | Senator     |             |  11       | vacant      |
+| /wiki/List_o |  –           |              |             |             |  (1829)   |             |
+| f_Presidents |  March 4,    |              |             |             |           |             |
+| _of_the_Unit | 1837         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Andrew       | U.S.        | Democratic  | (1832)    | Martin Van  |
+| ikipedia.org | 1829         | Jackson      | Senator     |             |  12       | Buren       |
+| /wiki/List_o |  –           |              |             |             |  (1833)   |             |
+| f_Presidents |  March 4,    |              |             |             |           |             |
+| _of_the_Unit | 1837         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Martin Van   | 8th         | Democratic  | (1836)    | Richard M.  |
+| ikipedia.org | 1837         | Buren        |  Vice       |             |  13       | Johnson     |
+| /wiki/List_o |  –           |              | President   |             |  (1837)   |             |
+| f_Presidents |  March 4,    |              | of the      |             |           |             |
+| _of_the_Unit | 1841         |              | United      |             |           |             |
+| ed_States    |              |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | William      | United      | Whig        | (1840)    | John Tyler  |
+| ikipedia.org | 1841         | Henry        | States      |             |  14       |             |
+| /wiki/List_o |  –           | Harrison     | Minister to |             |  (1841)   |             |
+| f_Presidents |  April 4,    |              | Colombia    |             |  (1841)   |             |
+| _of_the_Unit | 1841         |              |             |             |  [j]      |             |
+| ed_States    |  (Died in    |              |             |             |           |             |
+|              | office)      |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | April 4,     | John Tyler   | 10th        | Whig        | (1840)    | Office      |
+| ikipedia.org | 1841         |              |  Vice       |             |  14       | vacant      |
+| /wiki/List_o |  [k]         |              | President   |             |  (1841)   |             |
+| f_Presidents |  –           |              | of the      |             |  (1841)   |             |
+| _of_the_Unit |  March 4,    |              | United      |             |  [j]      |             |
+| ed_States    | 1845         |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | April 4,     | John Tyler   | 10th        | Unaffiliate | (1840)    | Office      |
+| ikipedia.org | 1841         |              |  Vice       | d           |  14       | vacant      |
+| /wiki/List_o |  [k]         |              | President   |             |  (1841)   |             |
+| f_Presidents |  –           |              | of the      |             |  (1841)   |             |
+| _of_the_Unit |  March 4,    |              | United      |             |  [j]      |             |
+| ed_States    | 1845         |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | James K.     | 9th         | Democratic  | (1844)    | George M.   |
+| ikipedia.org | 1845         | Polk         |  Governor   |             |  15       | Dallas      |
+| /wiki/List_o |  –           |              | of          |             |  (1845)   |             |
+| f_Presidents |  March 4,    |              | Tennessee   |             |           |             |
+| _of_the_Unit | 1849         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Zachary      | Major       | Whig        | (1848)    | Millard     |
+| ikipedia.org | 1849         | Taylor       | General     |             |  16       | Fillmore    |
+| /wiki/List_o |  –           |              |             |             |  (1849)   |             |
+| f_Presidents |  July 9,     |              |             |             |  (1850)   |             |
+| _of_the_Unit | 1850         |              |             |             |  [j]      |             |
+| ed_States    |  (Died in    |              |             |             |           |             |
+|              | office)      |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | July 9, 1850 | Millard      | 12th        | Whig        | (1848)    | Office      |
+| ikipedia.org |  [m]         | Fillmore     |  Vice       |             |  16       | vacant      |
+| /wiki/List_o |  –           |              | President   |             |  (1849)   |             |
+| f_Presidents |  March 4,    |              | of the      |             |  (1850)   |             |
+| _of_the_Unit | 1853         |              | United      |             |  [j]      |             |
+| ed_States    |              |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Franklin     | Brigadier   | Democratic  | (1852)    | William R.  |
+| ikipedia.org | 1853         | Pierce       | General     |             |  17       | King        |
+| /wiki/List_o |  –           |              |             |             |  (1853)   |             |
+| f_Presidents |  March 4,    |              |             |             |           |             |
+| _of_the_Unit | 1857         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Franklin     | Brigadier   | Democratic  | (1852)    | Office      |
+| ikipedia.org | 1853         | Pierce       | General     |             |  17       | vacant      |
+| /wiki/List_o |  –           |              |             |             |  (1853)   |             |
+| f_Presidents |  March 4,    |              |             |             |           |             |
+| _of_the_Unit | 1857         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | James        | United      | Democratic  | (1856)    | John C. Bre |
+| ikipedia.org | 1857         | Buchanan     | States      |             |  18       | ckinridge   |
+| /wiki/List_o |  –           |              | Minister    |             |  (1857)   |             |
+| f_Presidents |  March 4,    |              |             |             |           |             |
+| _of_the_Unit | 1861         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Abraham      | U.S. Repres | Republican  | (1860)    | Hannibal    |
+| ikipedia.org | 1861         | Lincoln      | entative    |             |  19       | Hamlin      |
+| /wiki/List_o |  –           |              |             |             |  (1861)   |             |
+| f_Presidents |  April 15,   |              |             |             |           |             |
+| _of_the_Unit | 1865         |              |             |             |           |             |
+| ed_States    |  (Died in    |              |             |             |           |             |
+|              | office)      |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Abraham      | U.S. Repres | Republican  | (1864)    | Andrew      |
+| ikipedia.org | 1861         | Lincoln      | entative    |             |  20       | Johnson     |
+| /wiki/List_o |  –           |              |             |             |  (1865)   |             |
+| f_Presidents |  April 15,   |              |             |             |  (1865)   |             |
+| _of_the_Unit | 1865         |              |             |             |  [j]      |             |
+| ed_States    |  (Died in    |              |             |             |           |             |
+|              | office)      |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | April 15,    | Andrew       | 16th        | National    | (1864)    | Office      |
+| ikipedia.org | 1865         | Johnson      |  Vice       | Union       |  20       | vacant      |
+| /wiki/List_o |  –           |              | President   |             |  (1865)   |             |
+| f_Presidents |  March 4,    |              | of the      |             |  (1865)   |             |
+| _of_the_Unit | 1869         |              | United      |             |  [j]      |             |
+| ed_States    |              |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | April 15,    | Andrew       | 16th        | Democratic  | (1864)    | Office      |
+| ikipedia.org | 1865         | Johnson      |  Vice       |             |  20       | vacant      |
+| /wiki/List_o |  –           |              | President   |             |  (1865)   |             |
+| f_Presidents |  March 4,    |              | of the      |             |  (1865)   |             |
+| _of_the_Unit | 1869         |              | United      |             |  [j]      |             |
+| ed_States    |              |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Ulysses S.   | Commanding  | Republican  | (1868)    | Schuyler    |
+| ikipedia.org | 1869         | Grant        | General of  |             |  21       | Colfax      |
+| /wiki/List_o |  –           |              | the U.S.    |             |  (1869)   |             |
+| f_Presidents |  March 4,    |              | Army        |             |           |             |
+| _of_the_Unit | 1877         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Ulysses S.   | Commanding  | Republican  | (1872)    | Henry       |
+| ikipedia.org | 1869         | Grant        | General of  |             |  22       | Wilson      |
+| /wiki/List_o |  –           |              | the U.S.    |             |  (1873)   |             |
+| f_Presidents |  March 4,    |              | Army        |             |           |             |
+| _of_the_Unit | 1877         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Ulysses S.   | Commanding  | Republican  | (1872)    | Office      |
+| ikipedia.org | 1869         | Grant        | General of  |             |  22       | vacant      |
+| /wiki/List_o |  –           |              | the U.S.    |             |  (1873)   |             |
+| f_Presidents |  March 4,    |              | Army        |             |           |             |
+| _of_the_Unit | 1877         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Rutherford   | 29th & 32nd | Republican  | (1876)    | William A.  |
+| ikipedia.org | 1877         | B. Hayes     |  Governor   |             |  23       | Wheeler     |
+| /wiki/List_o |  –           |              | of Ohio     |             |  (1877)   |             |
+| f_Presidents |  March 4,    |              |             |             |           |             |
+| _of_the_Unit | 1881         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | James A.     | U.S. Repres | Republican  | (1880)    | Chester A.  |
+| ikipedia.org | 1881         | Garfield     | entative    |             |  24       | Arthur      |
+| /wiki/List_o |  –           |              |             |             |  (1881)   |             |
+| f_Presidents |  September   |              |             |             |  (1881)   |             |
+| _of_the_Unit | 19, 1881     |              |             |             |  [j]      |             |
+| ed_States    |  (Died in    |              |             |             |           |             |
+|              | office)      |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | September    | Chester A.   | 20th        | Republican  | (1880)    | Office      |
+| ikipedia.org | 19, 1881     | Arthur       |  Vice       |             |  24       | vacant      |
+| /wiki/List_o |  [p]         |              | President   |             |  (1881)   |             |
+| f_Presidents |  –           |              | of the      |             |  (1881)   |             |
+| _of_the_Unit |  March 4,    |              | United      |             |  [j]      |             |
+| ed_States    | 1885         |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Grover       | 28th        | Democratic  | (1884)    | Thomas A.   |
+| ikipedia.org | 1885         | Cleveland    |  Governor   |             |  25       | Hendricks   |
+| /wiki/List_o |  –           |              | of New York |             |  (1885)   |             |
+| f_Presidents |  March 4,    |              |             |             |           |             |
+| _of_the_Unit | 1889         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Grover       | 28th        | Democratic  | (1884)    | Office      |
+| ikipedia.org | 1885         | Cleveland    |  Governor   |             |  25       | vacant      |
+| /wiki/List_o |  –           |              | of New York |             |  (1885)   |             |
+| f_Presidents |  March 4,    |              |             |             |           |             |
+| _of_the_Unit | 1889         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Benjamin     | U.S.        | Republican  | (1888)    | Levi P.     |
+| ikipedia.org | 1889         | Harrison     | Senator     |             |  26       | Morton      |
+| /wiki/List_o |  –           |              |             |             |  (1889)   |             |
+| f_Presidents |  March 4,    |              |             |             |           |             |
+| _of_the_Unit | 1893         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Grover       | 22nd        | Democratic  | (1892)    | Adlai       |
+| ikipedia.org | 1893         | Cleveland    |  President  |             |  27       | Stevenson   |
+| /wiki/List_o |  –           |              | of the      |             |  (1893)   |             |
+| f_Presidents |  March 4,    |              | United      |             |           |             |
+| _of_the_Unit | 1897         |              | States      |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | William      | 39th        | Republican  | (1896)    | Garret      |
+| ikipedia.org | 1897         | McKinley     |  Governor   |             |  28       | Hobart      |
+| /wiki/List_o |  –           |              | of Ohio     |             |  (1897)   |             |
+| f_Presidents |  September   |              |             |             |           |             |
+| _of_the_Unit | 14, 1901     |              |             |             |           |             |
+| ed_States    |  (Died in    |              |             |             |           |             |
+|              | office)      |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | William      | 39th        | Republican  | (1896)    | Office      |
+| ikipedia.org | 1897         | McKinley     |  Governor   |             |  28       | vacant      |
+| /wiki/List_o |  –           |              | of Ohio     |             |  (1897)   |             |
+| f_Presidents |  September   |              |             |             |           |             |
+| _of_the_Unit | 14, 1901     |              |             |             |           |             |
+| ed_States    |  (Died in    |              |             |             |           |             |
+|              | office)      |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | William      | 39th        | Republican  | (1900)    | Theodore    |
+| ikipedia.org | 1897         | McKinley     |  Governor   |             |  29       | Roosevelt   |
+| /wiki/List_o |  –           |              | of Ohio     |             |  (1901)   |             |
+| f_Presidents |  September   |              |             |             |  (1901)   |             |
+| _of_the_Unit | 14, 1901     |              |             |             |  [j]      |             |
+| ed_States    |  (Died in    |              |             |             |           |             |
+|              | office)      |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | September    | Theodore     | 25th        | Republican  | (1900)    | Office      |
+| ikipedia.org | 14, 1901     | Roosevelt    |  Vice       |             |  29       | vacant      |
+| /wiki/List_o |  –           |              | President   |             |  (1901)   |             |
+| f_Presidents |  March 4,    |              | of the      |             |  (1901)   |             |
+| _of_the_Unit | 1909         |              | United      |             |  [j]      |             |
+| ed_States    |              |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | September    | Theodore     | 25th        | Republican  | (1904)    | Charles W.  |
+| ikipedia.org | 14, 1901     | Roosevelt    |  Vice       |             |  30       | Fairbanks   |
+| /wiki/List_o |  –           |              | President   |             |  (1905)   |             |
+| f_Presidents |  March 4,    |              | of the      |             |           |             |
+| _of_the_Unit | 1909         |              | United      |             |           |             |
+| ed_States    |              |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | William      | 42nd        | Republican  | (1908)    | James S.    |
+| ikipedia.org | 1909         | Howard Taft  |  United     |             |  31       | Sherman     |
+| /wiki/List_o |  –           |              | States      |             |  (1909)   |             |
+| f_Presidents |  March 4,    |              | Secretary   |             |           |             |
+| _of_the_Unit | 1913         |              | of War      |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | William      | 42nd        | Republican  | (1908)    | Office      |
+| ikipedia.org | 1909         | Howard Taft  |  United     |             |  31       | vacant      |
+| /wiki/List_o |  –           |              | States      |             |  (1909)   |             |
+| f_Presidents |  March 4,    |              | Secretary   |             |           |             |
+| _of_the_Unit | 1913         |              | of War      |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Woodrow      | 34th        | Democratic  | (1912)    | Thomas R.   |
+| ikipedia.org | 1913         | Wilson       |  Governor   |             |  32       | Marshall    |
+| /wiki/List_o |  –           |              | of New      |             |  (1913)   |             |
+| f_Presidents |  March 4,    |              | Jersey      |             |           |             |
+| _of_the_Unit | 1921         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Woodrow      | 34th        | Democratic  | (1916)    | Thomas R.   |
+| ikipedia.org | 1913         | Wilson       |  Governor   |             |  33       | Marshall    |
+| /wiki/List_o |  –           |              | of New      |             |  (1917)   |             |
+| f_Presidents |  March 4,    |              | Jersey      |             |           |             |
+| _of_the_Unit | 1921         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Warren G.    | U.S.        | Republican  | (1920)    | Calvin      |
+| ikipedia.org | 1921         | Harding      | Senator     |             |  34       | Coolidge    |
+| /wiki/List_o |  –           |              |             |             |  (1921)   |             |
+| f_Presidents |  August 2,   |              |             |             |  (1923)   |             |
+| _of_the_Unit | 1923         |              |             |             |  [j]      |             |
+| ed_States    |  (Died in    |              |             |             |           |             |
+|              | office)      |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | August 2,    | Calvin       | 29th        | Republican  | (1920)    | Office      |
+| ikipedia.org | 1923         | Coolidge     |  Vice       |             |  34       | vacant      |
+| /wiki/List_o |  [q]         |              | President   |             |  (1921)   |             |
+| f_Presidents |  –           |              | of the      |             |  (1923)   |             |
+| _of_the_Unit |  March 4,    |              | United      |             |  [j]      |             |
+| ed_States    | 1929         |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | August 2,    | Calvin       | 29th        | Republican  | (1924)    | Charles G.  |
+| ikipedia.org | 1923         | Coolidge     |  Vice       |             |  35       | Dawes       |
+| /wiki/List_o |  [q]         |              | President   |             |  (1925)   |             |
+| f_Presidents |  –           |              | of the      |             |           |             |
+| _of_the_Unit |  March 4,    |              | United      |             |           |             |
+| ed_States    | 1929         |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Herbert      | 3rd         | Republican  | (1928)    | Charles     |
+| ikipedia.org | 1929         | Hoover       |  United     |             |  36       | Curtis      |
+| /wiki/List_o |  –           |              | States      |             |  (1929)   |             |
+| f_Presidents |  March 4,    |              | Secretary   |             |           |             |
+| _of_the_Unit | 1933         |              | of Commerce |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Franklin D.  | 44th        | Democratic  | (1932)    | John N.     |
+| ikipedia.org | 1933         | Roosevelt    |  Governor   |             |  37       | Garner      |
+| /wiki/List_o |  –           |              | of New York |             |  (1933)   |             |
+| f_Presidents |  April 12,   |              |             |             |           |             |
+| _of_the_Unit | 1945         |              |             |             |           |             |
+| ed_States    |  (Died in    |              |             |             |           |             |
+|              | office)      |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Franklin D.  | 44th        | Democratic  | (1936)    | John N.     |
+| ikipedia.org | 1933         | Roosevelt    |  Governor   |             |  38       | Garner      |
+| /wiki/List_o |  –           |              | of New York |             |  (1937)   |             |
+| f_Presidents |  April 12,   |              |             |             |           |             |
+| _of_the_Unit | 1945         |              |             |             |           |             |
+| ed_States    |  (Died in    |              |             |             |           |             |
+|              | office)      |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Franklin D.  | 44th        | Democratic  | (1940)    | Henry A.    |
+| ikipedia.org | 1933         | Roosevelt    |  Governor   |             |  39       | Wallace     |
+| /wiki/List_o |  –           |              | of New York |             |  (1941)   |             |
+| f_Presidents |  April 12,   |              |             |             |           |             |
+| _of_the_Unit | 1945         |              |             |             |           |             |
+| ed_States    |  (Died in    |              |             |             |           |             |
+|              | office)      |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | March 4,     | Franklin D.  | 44th        | Democratic  | (1944)    | Harry S.    |
+| ikipedia.org | 1933         | Roosevelt    |  Governor   |             |  40       | Truman      |
+| /wiki/List_o |  –           |              | of New York |             |  (1945)   |             |
+| f_Presidents |  April 12,   |              |             |             |  (1945)   |             |
+| _of_the_Unit | 1945         |              |             |             |  [j]      |             |
+| ed_States    |  (Died in    |              |             |             |           |             |
+|              | office)      |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | April 12,    | Harry S.     | 34th        | Democratic  | (1944)    | Office      |
+| ikipedia.org | 1945         | Truman       |  Vice       |             |  40       | vacant      |
+| /wiki/List_o |  –           |              | President   |             |  (1945)   |             |
+| f_Presidents |  January 20, |              | of the      |             |  (1945)   |             |
+| _of_the_Unit | 1953         |              | United      |             |  [j]      |             |
+| ed_States    |              |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | April 12,    | Harry S.     | 34th        | Democratic  | (1948)    | Alben W.    |
+| ikipedia.org | 1945         | Truman       |  Vice       |             |  41       | Barkley     |
+| /wiki/List_o |  –           |              | President   |             |  (1949)   |             |
+| f_Presidents |  January 20, |              | of the      |             |           |             |
+| _of_the_Unit | 1953         |              | United      |             |           |             |
+| ed_States    |              |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | January 20,  | Dwight D.    | Supreme     | Republican  | (1952)    | Richard     |
+| ikipedia.org | 1953         | Eisenhower   | Allied      |             |  42       | Nixon       |
+| /wiki/List_o |  –           |              | Commander   |             |  (1953)   |             |
+| f_Presidents |  January 20, |              | Europe      |             |           |             |
+| _of_the_Unit | 1961         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | January 20,  | Dwight D.    | Supreme     | Republican  | (1956)    | Richard     |
+| ikipedia.org | 1953         | Eisenhower   | Allied      |             |  43       | Nixon       |
+| /wiki/List_o |  –           |              | Commander   |             |  (1957)   |             |
+| f_Presidents |  January 20, |              | Europe      |             |           |             |
+| _of_the_Unit | 1961         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | January 20,  | John F.      | U.S.        | Democratic  | (1960)    | Lyndon B.   |
+| ikipedia.org | 1961         | Kennedy      | Senator     |             |  44       | Johnson     |
+| /wiki/List_o |  –           |              |             |             |  (1961)   |             |
+| f_Presidents |  November    |              |             |             |  (1963)   |             |
+| _of_the_Unit | 22, 1963     |              |             |             |  [j]      |             |
+| ed_States    |  (Died in    |              |             |             |           |             |
+|              | office)      |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | November 22, | Lyndon B.    | 37th        | Democratic  | (1960)    | Office      |
+| ikipedia.org | 1963         | Johnson      |  Vice       |             |  44       | vacant      |
+| /wiki/List_o |  –           |              | President   |             |  (1961)   |             |
+| f_Presidents |  January 20, |              | of the      |             |  (1963)   |             |
+| _of_the_Unit | 1969         |              | United      |             |  [j]      |             |
+| ed_States    |              |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | November 22, | Lyndon B.    | 37th        | Democratic  | (1964)    | Hubert      |
+| ikipedia.org | 1963         | Johnson      |  Vice       |             |  45       | Humphrey    |
+| /wiki/List_o |  –           |              | President   |             |  (1965)   |             |
+| f_Presidents |  January 20, |              | of the      |             |           |             |
+| _of_the_Unit | 1969         |              | United      |             |           |             |
+| ed_States    |              |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | January 20,  | Richard      | 36th        | Republican  | (1968)    | Spiro Agnew |
+| ikipedia.org | 1969         | Nixon        |  Vice       |             |  46       |             |
+| /wiki/List_o |  –           |              | President   |             |  (1969)   |             |
+| f_Presidents |  August 9,   |              | of the      |             |           |             |
+| _of_the_Unit | 1974         |              | United      |             |           |             |
+| ed_States    |  (Resigned   |              | States      |             |           |             |
+|              | from office) |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | January 20,  | Richard      | 36th        | Republican  | (1972)    | Spiro Agnew |
+| ikipedia.org | 1969         | Nixon        |  Vice       |             |  47       |             |
+| /wiki/List_o |  –           |              | President   |             |  (1973)   |             |
+| f_Presidents |  August 9,   |              | of the      |             |  (1974)   |             |
+| _of_the_Unit | 1974         |              | United      |             |  [j]      |             |
+| ed_States    |  (Resigned   |              | States      |             |           |             |
+|              | from office) |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | January 20,  | Richard      | 36th        | Republican  | (1972)    | Office      |
+| ikipedia.org | 1969         | Nixon        |  Vice       |             |  47       | vacant      |
+| /wiki/List_o |  –           |              | President   |             |  (1973)   |             |
+| f_Presidents |  August 9,   |              | of the      |             |  (1974)   |             |
+| _of_the_Unit | 1974         |              | United      |             |  [j]      |             |
+| ed_States    |  (Resigned   |              | States      |             |           |             |
+|              | from office) |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | January 20,  | Richard      | 36th        | Republican  | (1972)    | Gerald Ford |
+| ikipedia.org | 1969         | Nixon        |  Vice       |             |  47       |             |
+| /wiki/List_o |  –           |              | President   |             |  (1973)   |             |
+| f_Presidents |  August 9,   |              | of the      |             |  (1974)   |             |
+| _of_the_Unit | 1974         |              | United      |             |  [j]      |             |
+| ed_States    |  (Resigned   |              | States      |             |           |             |
+|              | from office) |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | August 9,    | Gerald Ford  | 40th        | Republican  | (1972)    | Office      |
+| ikipedia.org | 1974         |              |  Vice       |             |  47       | vacant      |
+| /wiki/List_o |  –           |              | President   |             |  (1973)   |             |
+| f_Presidents |  January 20, |              | of the      |             |  (1974)   |             |
+| _of_the_Unit | 1977         |              | United      |             |  [j]      |             |
+| ed_States    |              |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | August 9,    | Gerald Ford  | 40th        | Republican  | (1972)    | Nelson      |
+| ikipedia.org | 1974         |              |  Vice       |             |  47       | Rockefeller |
+| /wiki/List_o |  –           |              | President   |             |  (1973)   |             |
+| f_Presidents |  January 20, |              | of the      |             |  (1974)   |             |
+| _of_the_Unit | 1977         |              | United      |             |  [j]      |             |
+| ed_States    |              |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | January 20,  | Jimmy Carter | 76th        | Democratic  | (1976)    | Walter      |
+| ikipedia.org | 1977         |              |  Governor   |             |  48       | Mondale     |
+| /wiki/List_o |  –           |              | of Georgia  |             |  (1977)   |             |
+| f_Presidents |  January 20, |              |             |             |           |             |
+| _of_the_Unit | 1981         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | January 20,  | Ronald       | 33rd        | Republican  | (1980)    | George H.   |
+| ikipedia.org | 1981         | Reagan       |  Governor   |             |  49       | W. Bush     |
+| /wiki/List_o |  –           |              | of          |             |  (1981)   |             |
+| f_Presidents |  January 20, |              | California  |             |           |             |
+| _of_the_Unit | 1989         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | January 20,  | Ronald       | 33rd        | Republican  | (1984)    | George H.   |
+| ikipedia.org | 1981         | Reagan       |  Governor   |             |  50       | W. Bush     |
+| /wiki/List_o |  –           |              | of          |             |  (1985)   |             |
+| f_Presidents |  January 20, |              | California  |             |           |             |
+| _of_the_Unit | 1989         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | January 20,  | George H. W. | 43rd        | Republican  | (1988)    | Dan Quayle  |
+| ikipedia.org | 1989         | Bush         |  Vice       |             |  51       |             |
+| /wiki/List_o |  –           |              | President   |             |  (1989)   |             |
+| f_Presidents |  January 20, |              | of the      |             |           |             |
+| _of_the_Unit | 1993         |              | United      |             |           |             |
+| ed_States    |              |              | States      |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | January 20,  | Bill Clinton | 40th & 42nd | Democratic  | (1992)    | Al Gore     |
+| ikipedia.org | 1993         |              |  Governor   |             |  52       |             |
+| /wiki/List_o |  –           |              | of Arkansas |             |  (1993)   |             |
+| f_Presidents |  January 20, |              |             |             |           |             |
+| _of_the_Unit | 2001         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | January 20,  | Bill Clinton | 40th & 42nd | Democratic  | (1996)    | Al Gore     |
+| ikipedia.org | 1993         |              |  Governor   |             |  53       |             |
+| /wiki/List_o |  –           |              | of Arkansas |             |  (1997)   |             |
+| f_Presidents |  January 20, |              |             |             |           |             |
+| _of_the_Unit | 2001         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | January 20,  | George W.    | 46th        | Republican  | (2000)    | Dick Cheney |
+| ikipedia.org | 2001         | Bush         |  Governor   |             |  54       |             |
+| /wiki/List_o |  –           |              | of Texas    |             |  (2001)   |             |
+| f_Presidents |  January 20, |              |             |             |           |             |
+| _of_the_Unit | 2009         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | January 20,  | George W.    | 46th        | Republican  | (2004)    | Dick Cheney |
+| ikipedia.org | 2001         | Bush         |  Governor   |             |  55       |             |
+| /wiki/List_o |  –           |              | of Texas    |             |  (2005)   |             |
+| f_Presidents |  January 20, |              |             |             |           |             |
+| _of_the_Unit | 2009         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | January 20,  | Barack Obama | U.S.        | Democratic  | (2008)    | Joe Biden   |
+| ikipedia.org | 2009         |              | Senator     |             |  56       |             |
+| /wiki/List_o |  –           |              |             |             |  (2009)   |             |
+| f_Presidents |  January 20, |              |             |             |           |             |
+| _of_the_Unit | 2017         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | January 20,  | Barack Obama | U.S.        | Democratic  | (2012)    | Joe Biden   |
+| ikipedia.org | 2009         |              | Senator     |             |  57       |             |
+| /wiki/List_o |  –           |              |             |             |  (2013)   |             |
+| f_Presidents |  January 20, |              |             |             |           |             |
+| _of_the_Unit | 2017         |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+
+| https://en.w | January 20,  | Donald Trump | The Trump O | Republican  | (2016)    | Mike Pence  |
+| ikipedia.org | 2017         |              | rganization |             |  58       |             |
+| /wiki/List_o |  –           |              |             |             |  (2017)   |             |
+| f_Presidents |  Incumbent   |              |             |             |           |             |
+| _of_the_Unit |              |              |             |             |           |             |
+| ed_States    |              |              |             |             |           |             |
++--------------+--------------+--------------+-------------+-------------+-----------+-------------+

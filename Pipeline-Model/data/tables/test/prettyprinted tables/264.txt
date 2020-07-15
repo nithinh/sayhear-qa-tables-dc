@@ -1,0 +1,198 @@
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| url             | Country     | Country_link    | League         | Affiliation  | Competitions   |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Austria     | https://en.wiki | Österreichisch | 2005         | Bundesliga     |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | e Fußball      |              |  Erste Liga    |
+| European_Profes |             | Austria         | Bundesliga     |              |                |
+| sional_Football |             |                 |                |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Azerbaijan  | https://en.wiki | Azerbaijan     | 2013         | Premier League |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Professional   |              |  I Division    |
+| European_Profes |             | Azerbaijan      | Football       |              |  Cup           |
+| sional_Football |             |                 | League         |              |  Super Cup     |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Belgium     | https://en.wiki | Pro League     | 2005         | Pro League     |
+| pedia.org/wiki/ |             | pedia.org/wiki/ |                |              |  Super Cup     |
+| European_Profes |             | Belgium         |                |              |                |
+| sional_Football |             |                 |                |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Denmark     | https://en.wiki | Divionsforenin | 2005         | Superliga      |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | gen            |              |  1. division   |
+| European_Profes |             | Denmark         |                |              |  2. division   |
+| sional_Football |             |                 |                |              | (Øst / Vest)   |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | England     | https://en.wiki | The Premier    | 2005         | Premier League |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | League         |              |                |
+| European_Profes |             | England         |                |              |                |
+| sional_Football |             |                 |                |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Finland     | https://en.wiki | The Finnish    | 2005         | Veikkausliiga  |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Football       |              |  Liigacup      |
+| European_Profes |             | Finland         | League         |              |                |
+| sional_Football |             |                 | Association    |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | France      | https://en.wiki | Ligue de       | 2005         | Ligue 1        |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Football       |              |  Ligue 2       |
+| European_Profes |             | France          | Professionnel  |              |  Coupe de la   |
+| sional_Football |             |                 |                |              | Ligue          |
+| _Leagues        |             |                 |                |              |  Trophée des   |
+|                 |             |                 |                |              | Champions      |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Germany     | https://en.wiki | DFL Deutsche   | 2005         | Bundesliga     |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Fußball Liga   |              |  2. Bundesliga |
+| European_Profes |             | Germany         | GmbH           |              |                |
+| sional_Football |             |                 |                |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Greece      | https://en.wiki | Super League   | 2005         | Super League   |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Greece         |              |                |
+| European_Profes |             | Greece          |                |              |                |
+| sional_Football |             |                 |                |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Israel      | https://en.wiki | Israeli        | 2014         | Premier League |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Professional   |              |  Liga Leumit   |
+| European_Profes |             | Israel          | Football       |              |                |
+| sional_Football |             |                 | Leagues        |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Italy       | https://en.wiki | Lega Nazionale | 2005[note 1] | Serie A        |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Professionisti |              |  Coppa         |
+| European_Profes |             | Italy           | Serie A        |              |  Supercoppa    |
+| sional_Football |             |                 |                |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Kazakhstan  | https://en.wiki | Professional   | 2015         | Premier League |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Football       |              |  First League  |
+| European_Profes |             | Kazakhstan      | League of      |              |  Cup           |
+| sional_Football |             |                 | Kazakhstan     |              |  Super Cup     |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Norway      | https://en.wiki | Norsk          | 2007         | Eliteserien    |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Toppfotball    |              |  1. divisjon   |
+| European_Profes |             | Norway          |                |              |                |
+| sional_Football |             |                 |                |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Netherlands | https://en.wiki | Eredivisie CV  | 2005         | Eredivisie     |
+| pedia.org/wiki/ |             | pedia.org/wiki/ |                |              |                |
+| European_Profes |             | Netherlands     |                |              |                |
+| sional_Football |             |                 |                |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Poland      | https://en.wiki | Polish         | 2007         | Ekstraklasa    |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Professional   |              |  Super Cup     |
+| European_Profes |             | Poland          | Football       |              |                |
+| sional_Football |             |                 | League         |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Portugal    | https://en.wiki | Liga           | 2005         | Primeira Liga  |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Portuguesa de  |              |  Segunda Liga  |
+| European_Profes |             | Portugal        | Futebol        |              |  Taça da Liga  |
+| sional_Football |             |                 | Profissional   |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Romania     | https://en.wiki | Liga           | (2009–2011)  | Liga 1         |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Profesionistă  |  2014        |  Cupa Ligii    |
+| European_Profes |             | Romania         | de Fotbal      |              |                |
+| sional_Football |             |                 |                |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Russia      | https://en.wiki | Russian        | 2007         | Championship   |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Football       |              |  Super Cup     |
+| European_Profes |             | Russia          | Premier League |              |                |
+| sional_Football |             |                 |                |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Scotland    | https://en.wiki | Scottish       | 2005         | Premiership    |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Professional   |              |  Championship  |
+| European_Profes |             | Scotland        | Football       |              |  League 1      |
+| sional_Football |             |                 | League[note 2] |              |  League 2      |
+| _Leagues        |             |                 |                |              |  League Cup    |
+|                 |             |                 |                |              |  Challenge Cup |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Serbia      | https://en.wiki | Serbian        | 2010         | Super Liga     |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Superliga      |              |                |
+| European_Profes |             | Serbia          |                |              |                |
+| sional_Football |             |                 |                |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Spain       | https://en.wiki | Liga Nacional  | 2005         | La Liga        |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | de Fútbol      |              |  Segunda       |
+| European_Profes |             | Spain           | Profesional    |              | División       |
+| sional_Football |             |                 |                |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Sweden      | https://en.wiki | Föreningen     | 2005         | Allsvenskan    |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Svensk         |              |  Superettan    |
+| European_Profes |             | Sweden          | Elitfotboll    |              |                |
+| sional_Football |             |                 |                |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Switzerland | https://en.wiki | Swiss Football | 2005         | Super League   |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | League         |              |  Challenge     |
+| European_Profes |             | Switzerland     |                |              | League         |
+| sional_Football |             |                 |                |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Ukraine     | https://en.wiki | Ukrainian      | 2009         | Championship   |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Premier League |              |  Super Cup     |
+| European_Profes |             | Ukraine         |                |              |                |
+| sional_Football |             |                 |                |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | England     | https://en.wiki | The Football   | 2006         | Championship   |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | League; The    |              |  One           |
+| European_Profes |             | England         | Football       |              |  Two           |
+| sional_Football |             |                 | League         |              |  League Cup    |
+| _Leagues        |             |                 |                |              |  League Trophy |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | France      | https://en.wiki | Union des      | 2008         | –              |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Clubs          |              |                |
+| European_Profes |             | France          | Professionnels |              |                |
+| sional_Football |             |                 | de Football    |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Italy       | https://en.wiki | Lega Nazionale | 2011         | Serie B        |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Professionisti |              |                |
+| European_Profes |             | Italy           | Serie B        |              |                |
+| sional_Football |             |                 |                |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Italy       | https://en.wiki | Lega Italiana  | 2008         | Campionato     |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Calcio Profess |              |  Coppa         |
+| European_Profes |             | Italy           | ionistico      |              |  Supercoppa    |
+| sional_Football |             |                 |                |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Netherlands | https://en.wiki | Federatie      | 2008         | –              |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Betaald        |              |                |
+| European_Profes |             | Netherlands     | Voetbal        |              |                |
+| sional_Football |             |                 | Organisaties   |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Russia      | https://en.wiki | Football       | 2011         | First Division |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | National       |              |  Cup           |
+| European_Profes |             | Russia          | League         |              |                |
+| sional_Football |             |                 |                |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Russia      | https://en.wiki | Association    | 2007         | Second         |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | Professional   |              | Division (West |
+| European_Profes |             | Russia          | Football       |              | / Centre       |
+| sional_Football |             |                 | League         |              |  / South /     |
+| _Leagues        |             |                 |                |              | Ural-Povolzhe  |
+|                 |             |                 |                |              | / East)        |
++-----------------+-------------+-----------------+----------------+--------------+----------------+
+| https://en.wiki | Turkey      | https://en.wiki | Turkish Union  | 2010         | –              |
+| pedia.org/wiki/ |             | pedia.org/wiki/ | of Clubs       |              |                |
+| European_Profes |             | Turkey          |                |              |                |
+| sional_Football |             |                 |                |              |                |
+| _Leagues        |             |                 |                |              |                |
++-----------------+-------------+-----------------+----------------+--------------+----------------+

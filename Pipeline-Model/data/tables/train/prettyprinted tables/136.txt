@@ -1,0 +1,83 @@
++--------------------------------+------+-------------------------+--------------------------------+
+| url                            | Rank | Cause_of_Death          | Cause_of_Death_link            |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 1    | Coronary Heart Disease  | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-coronary-   |
+| expectancy                     |      |                         | heart-disease                  |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 2    | Alzheimers/Dementia     | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-alzheimers- |
+| expectancy                     |      |                         | dementia                       |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 3    | Lung Cancers            | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-lung-       |
+| expectancy                     |      |                         | cancers                        |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 4    | Lung Disease            | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-lung-       |
+| expectancy                     |      |                         | disease                        |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 5    | Stroke                  | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-stroke      |
+| expectancy                     |      |                         |                                |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 6    | Breast Cancer           | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-breast-     |
+| expectancy                     |      |                         | cancer                         |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 7    | Prostate Cancer         | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-prostate-   |
+| expectancy                     |      |                         | cancer                         |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 8    | Diabetes Mellitus       | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-diabetes-   |
+| expectancy                     |      |                         | mellitus                       |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 9    | Hypertension            | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-            |
+| expectancy                     |      |                         | hypertension                   |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 10   | Colon-Rectum Cancers    | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-colon-      |
+| expectancy                     |      |                         | rectum-cancers                 |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 11   | Suicide                 | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-suicide     |
+| expectancy                     |      |                         |                                |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 12   | Kidney Disease          | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-kidney-     |
+| expectancy                     |      |                         | disease                        |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 13   | Influenza and Pneumonia | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-influenza-  |
+| expectancy                     |      |                         | pneumonia                      |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 14   | Road Traffic Accidents  | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-road-       |
+| expectancy                     |      |                         | traffic-accidents              |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 15   | Liver Disease           | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-liver-      |
+| expectancy                     |      |                         | disease                        |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 16   | Pancreas Cancer         | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-pancreas-   |
+| expectancy                     |      |                         | cancer                         |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 17   | Endocrine Disorders     | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-endocrine-  |
+| expectancy                     |      |                         | disorders                      |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 18   | Lymphomas               | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-lymphomas   |
+| expectancy                     |      |                         |                                |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 19   | Drug Use                | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-drug-use    |
+| expectancy                     |      |                         |                                |
++--------------------------------+------+-------------------------+--------------------------------+
+| http://www.worldlifeexpectancy | 20   | Inflammatory/Heart      | http://www.worldlifeexpectancy |
+| .com/united-states-life-       |      |                         | .com/united-states-            |
+| expectancy                     |      |                         | inflammatory-heart             |
++--------------------------------+------+-------------------------+--------------------------------+

@@ -1,0 +1,926 @@
+{
+ "0": {
+  "short_a": "596424", 
+  "long_a": "the 2012 census placed the population of las vegas at 596424", 
+  "question": " Alexa, how many people live in Las Vegas?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"2012\" FROM Table_1  WHERE  \"City\", \"State\"  LIKE \"%%Las Vegas%\"", 
+   "column_names": [
+    "url", 
+    "Rank", 
+    "City_State", 
+    "2010", 
+    "2012", 
+    "Growth"
+   ], 
+   "table_name": "Cities_ranked_1_to_100"
+  }, 
+  "preprocessed_query": "SELECT  \"2012\" from \"Cities_ranked_1_to_100\"  WHERE  \"City\", \"State\"  LIKE \"%%Las Vegas%\"", 
+  "query": "SELECT '2012' from \"Cities ranked 1 to 100\" WHERE City State LIKE \"Las Vegas%\"", 
+  "dirname": "output/http___www_citymayors_com_gratis_uscities_100_html_bkarki_17_9_2018@16_42_44", 
+  "query_execution": {
+   "query": false, 
+   "preprocessed_query": false
+  }
+ }, 
+ "1": {
+  "short_a": "326,766,748", 
+  "long_a": "approximately 327 million people live in the united states.", 
+  "question": " Alexa, how many people live in the United States?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Population\" FROM Table_1  WHERE  \"Country_Or\"  LIKE \"%%U.S.%\"", 
+   "column_names": [
+    "url", 
+    "Column_1", 
+    "Country_Or", 
+    "Country_Or_link", 
+    "Population", 
+    "Yearly_Change", 
+    "Net_Change", 
+    "Density_Pk_M", 
+    "Land_Areakm", 
+    "Migrants_Net", 
+    "Fert_Rate", 
+    "Med_Age", 
+    "Urban_Pop", 
+    "World_Share"
+   ], 
+   "table_name": "Countries_in_the_world_by_population_(2018)"
+  }, 
+  "preprocessed_query": "SELECT  \"Population\" FROM \"Countries_in_the_world_by_population_(2018)\"  WHERE  \"Country_Or\"  LIKE \"%%U.S.%\"", 
+  "query": "SELECT \"Population\" FROM \"Countries in the world by population (2018)\" WHERE \"Country Or\" LIKE \"U.S.\"\n", 
+  "dirname": "output/http___www_worldometers_info_world-population_population-by-country__nithinh_19_12_2018@13_35_40", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "2": {
+  "short_a": "james harden", 
+  "long_a": "james harden is the current leading scorer in the nba.", 
+  "question": " Alexa, who is the current NBA leading scorer?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Player\" FROM Table_1  WHERE  \"RANK\" = \"1\"", 
+   "column_names": [
+    "Rank", 
+    "Player", 
+    "Team", 
+    "Game Play", 
+    "Points"
+   ], 
+   "table_name": "NBA_Points_Leader"
+  }, 
+  "preprocessed_query": "SELECT  \"Player\" FROM \"NBA_Points_Leader\"  WHERE  \"RANK\" = \"1\"", 
+  "query": "SELECT \"Player\" FROM \"NBA Points Leader\" WHERE \"RANK\" = \"1\"", 
+  "dirname": "output/http___www_espn_com_nba_statistics_player___stat_scoring-per-game_sort_avgPoints_year_2019_seasontype_2_zihual_21_2_2019@0_35_20", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "3": {
+  "short_a": "7,237 km", 
+  "long_a": "the distance from antarctica to australia is 7,237 kilometers.", 
+  "question": " Alexa, what is the distance between Antartica and Australia?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Distance\" FROM Table_1  WHERE  \"Country\"  LIKE \"%%Australia%\"", 
+   "column_names": [
+    "url", 
+    "Country", 
+    "Country_link", 
+    "Distance", 
+    "Mileage"
+   ], 
+   "table_name": "Distance_from_Antartica_to_Other_Countries"
+  }, 
+  "preprocessed_query": "SELECT  \"Distance\" FROM \"Distance_from_Antartica_to_Other_Countries\"  WHERE  \"Country\"  LIKE \"%%Australia%\"", 
+  "query": "SELECT \"Distance\" FROM \"Distance from Antartica to Other Countries\" WHERE \"Country\" LIKE \"%Australia%\"", 
+  "dirname": "output/https___www_distancefromto_net_distance-from-antarctica-country_nithinh_18_9_2018@10_29_30", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "4": {
+  "short_a": "release date: 20.04.2018", 
+  "long_a": "god of war releases on 20th april 2018 exclusively for ps4", 
+  "question": " Alexa, when is god of war releasing?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Values\" FROM Table_1  WHERE  \"Keys\"  LIKE \"%%releasing%\"", 
+   "column_names": [
+    "Keys", 
+    "Values"
+   ], 
+   "table_name": "God_of_War"
+  }, 
+  "preprocessed_query": "SELECT  \"Values\" FROM \"God_of_War\"  WHERE  \"Keys\"  LIKE \"%%releasing%\"", 
+  "query": "SELECT \"Values\" FROM \"God of War\" WHERE \"Keys\" LIKE \"releasing\"", 
+  "dirname": "output/https___en_wikipedia_org_wiki_God_of_War_(2018_video_game)_zihual_3_2_2019@23_9_34", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": null
+  }
+ }, 
+ "5": {
+  "short_a": "matthew whitaker", 
+  "long_a": "the current attorney general is jeff sessions.", 
+  "question": " who is the attorney general?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Name\" FROM Table_1  ORDER BY  \"Took_office\" DESC LIMIT 1", 
+   "column_names": [
+    "url", 
+    "Column_1", 
+    "Name", 
+    "State_of_Residence", 
+    "Took_office", 
+    "Left_office", 
+    "President(s)", 
+    "President(s)_link"
+   ], 
+   "table_name": "List_of_Attorneys_General"
+  }, 
+  "preprocessed_query": "SELECT  \"Name\" FROM \"List_of_Attorneys_General\"  ORDER BY  \"Took_office\" DESC LIMIT 1", 
+  "query": "SELECT Name FROM \"List of Attorneys General\"  ORDER BY \"Took office\" DESC LIMIT 1", 
+  "dirname": "output/https___en_wikipedia_org_wiki_United_States_Attorney_General_nithinh_18_12_2018@20_36_40", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "6": {
+  "short_a": "nick foles (3) / carson wentz (11)", 
+  "long_a": "the eagles quarterback is nick foles.", 
+  "question": " Alexa, who is the eagles quarterback?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Quarterback(s)\" FROM Table_1  ORDER BY  \"Season(s)\" DESC LIMIT 1", 
+   "column_names": [
+    "url", 
+    "Season(s)", 
+    "Quarterback(s)"
+   ], 
+   "table_name": "List_of_Philadelphia_Eagles_starting_quarterbacks"
+  }, 
+  "preprocessed_query": "SELECT  \"Quarterback(s)\" FROM List_of_Philadelphia_Eagles_starting_quarterbacks  ORDER BY  \"Season(s)\" DESC LIMIT 1", 
+  "query": "SELECT \"Quarterback(s)\"  FROM List_of_Philadelphia_Eagles_starting_quarterbacks ORDER BY \"Season(s)\" DESC LIMIT 1", 
+  "dirname": "output/https___en_wikipedia_org_wiki_List_of_Philadelphia_Eagles_starting_quarterbacks_nithinh_18_12_2018@20_47_22", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "7": {
+  "short_a": "7.34 x 10^22 kg", 
+  "long_a": "the moon has a mass equal to 7.34 x 10^22 kilograms.", 
+  "question": " What is the Moon's mass in kilograms?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Moon\" FROM Table_1  WHERE  \"Col\"=\"mass\"", 
+   "column_names": [
+    "url", 
+    "Col", 
+    "Moon", 
+    "Earth", 
+    "Approximate"
+   ], 
+   "table_name": "Properties"
+  }, 
+  "preprocessed_query": "SELECT  \"Moon\" From Properties  WHERE  \"Col\"=\"mass\"", 
+  "query": "Select Moon\nFrom Properties\nWhere 'Col'='mass'", 
+  "dirname": "output/https___www_britannica_com_place_Moon_sbarot_24_1_2019@13_38_47", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "8": {
+  "short_a": "16", 
+  "long_a": "there are sixteen cups in one gallon of liquid.", 
+  "question": "How many cups are in a gallon? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Cups\" FROM Table_1 To Cup  WHERE  \"Gallon\"=\"1\"", 
+   "column_names": [
+    "url", 
+    "Gallon", 
+    "Cups"
+   ], 
+   "table_name": "Gallon_To_Cup"
+  }, 
+  "preprocessed_query": "SELECT  \"Cups\" FROM \"Gallon_To_Cup\" To Cup  WHERE  \"Gallon\"=\"1\"", 
+  "query": "select Cups\nFrom Gallon To Cup\nWhere 'Gallon'='1'", 
+  "dirname": "output/https___www_thecalculatorsite_com_forum_topics_gallons-and-cups_php_sbarot_24_1_2019@11_20_48", 
+  "query_execution": {
+   "query": false, 
+   "preprocessed_query": false
+  }
+ }, 
+ "9": {
+  "short_a": "september 23-28, 1990", 
+  "long_a": "ken burns documentary the civil war come out in september 23-28, 1990", 
+  "question": " Alexa, when did the Ken Burns documentary The Civil War come out?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Key\"  LIKE \"%%come out%\"", 
+   "column_names": [
+    "Key", 
+    "Value"
+   ], 
+   "table_name": "The_Civil_War"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"The_Civil_War\"  WHERE  \"Key\"  LIKE \"%%come out%\"", 
+  "query": "SELECT \"Value\" FROM \"The Civil War\" WHERE \"Key\" LIKE \"come out\"", 
+  "dirname": "output/https___en_wikipedia_org_wiki_The_Civil_War_(miniseries)_zihual_24_1_2019@0_10_49", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": null
+  }
+ }, 
+ "10": {
+  "short_a": "karl jobst", 
+  "long_a": "karl jobst currently holds the world record for a speed run in goldeneye.", 
+  "question": " Alexa, who holds the world record for the fastest speed run in the Nintendo 64 game Goldeneye?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Player\" FROM Table_1  ORDER BY  \"RANK\" LIMIT 1", 
+   "column_names": [
+    "Rank", 
+    "Player", 
+    "Agent", 
+    "Secret Agent", 
+    "00 Agent", 
+    "Total"
+   ], 
+   "table_name": "The_GoldenEye_World_Record_Leaders"
+  }, 
+  "preprocessed_query": "SELECT  \"Player\" FROM \"The_GoldenEye_World_Record_Leaders\"  ORDER BY  \"RANK\" LIMIT 1", 
+  "query": "SELECT \"Player\" FROM \"The GoldenEye World Record Leaders\" ORDER BY \"RANK\" LIMIT 1", 
+  "dirname": "output/https___rankings_the-elite_net_goldeneye_leaders_zihual_24_1_2019@0_16_33", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "11": {
+  "short_a": "jessica lowndes", 
+  "long_a": "jessica lowndes,julianna guill,ryan donowho,landon liboiron,jake weary, and mike dopud all starred in altitude 2010.", 
+  "question": " Who starred in Altitude 2010?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Values\" FROM Table_1  WHERE  \"Keys\"  LIKE \"%%Starred%\"", 
+   "column_names": [
+    "Keys", 
+    "Values"
+   ], 
+   "table_name": "Altitude_2010"
+  }, 
+  "preprocessed_query": "SELECT  \"Values\" FROM \"Altitude_2010\"  WHERE  \"Keys\"  LIKE \"%%Starred%\"", 
+  "query": "SELECT \"Values\" FROM \"Altitude 2010\" WHERE \"Keys\" Like \"Starred\"", 
+  "dirname": "output/https___en_wikipedia_org_wiki_Altitude_(2010_film)_zihual_21_2_2019@0_40_36", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": null
+  }
+ }, 
+ "12": {
+  "short_a": "in 2018 year valentine's day falls on\n second wednesday of february", 
+  "long_a": "valentine's day is on a wednesday in 2018.", 
+  "question": "What day of the week is Valentine's Day 2018? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Day\" FROM Table_1  WHERE  \"Year\"=\"2018\"", 
+   "column_names": [
+    "url", 
+    "Year", 
+    "Day"
+   ], 
+   "table_name": "Valentines"
+  }, 
+  "preprocessed_query": "SELECT  \"Day\" From Valentines  WHERE  \"Year\"=\"2018\"", 
+  "query": "Select Day\nFrom Valentines\nWhere 'Year'='2018'", 
+  "dirname": "output/https___docs_google_com_spreadsheets_d_1kDFecULUftsBSNPctMnP3kApiHUkPb_DJmbrSpbegBk_edit#gid=844111661_sbarot_24_1_2019@13_45_16", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "13": {
+  "short_a": "des moines", 
+  "long_a": "des moines is the capital city of the state of iowa.", 
+  "question": " Hey Google, what is the capital of Iowa?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Key\"  LIKE \"%%Location%\"", 
+   "column_names": [
+    "Key", 
+    "Value"
+   ], 
+   "table_name": "Iowa_State_Capitol"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Iowa_State_Capitol\"  WHERE  \"Key\"  LIKE \"%%Location%\"", 
+  "query": "SELECT \"Value\" FROM \"Iowa State Capitol\" WHERE \"Key\" LIKE \"Location\"", 
+  "dirname": "output/https___en_wikipedia_org_wiki_Iowa_State_Capitol_zihual_17_12_2018@23_9_54", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "14": {
+  "short_a": "thirty five", 
+  "long_a": "in the united states, presidents must be at least 35 years of age.", 
+  "question": " Hey Alexa, how old do you have to be to be the president of the United States?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"President\" FROM Table_1  WHERE  \"Country\" = \"United States\"", 
+   "column_names": [
+    "url", 
+    "Country", 
+    "Country_link", 
+    "President", 
+    "Vice", 
+    "Prime", 
+    "Upper_House", 
+    "Lower_House", 
+    "References", 
+    "References_link"
+   ], 
+   "table_name": "Ages"
+  }, 
+  "preprocessed_query": "SELECT  \"President\" From Ages  WHERE  \"Country\" = \"United States\"", 
+  "query": "Select President \nFrom Ages\nWhere 'Country' = 'United States'", 
+  "dirname": "output/https___en_wikipedia_org_wiki_Age_of_candidacy_sbarot_24_1_2019@13_19_26", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "15": {
+  "short_a": "1949", 
+  "long_a": "lego was invented in 1949", 
+  "question": " Alexa, when was the Lego invented?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Key\"  LIKE \"%%Availability%\"", 
+   "column_names": [
+    "Key", 
+    "Value"
+   ], 
+   "table_name": "Lego"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Lego\"  WHERE  \"Key\"  LIKE \"%%Availability%\"", 
+  "query": "SELECT \"Value\" FROM \"Lego\" WHERE \"Key\" LIKE \"Availability\"", 
+  "dirname": "output/https___en_wikipedia_org_wiki_Lego_zihual_24_1_2019@0_3_37", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "16": {
+  "short_a": "bismarck", 
+  "long_a": "the capital of north dakota is bismarck", 
+  "question": " What is the capital of north dakota?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Key\"  LIKE \"%%Capital City%\"", 
+   "column_names": [
+    "Key", 
+    "Value"
+   ], 
+   "table_name": "North_Dakota_Facts"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" from \"North_Dakota_Facts\"  WHERE  \"Key\"  LIKE \"%%Capital City%\"", 
+  "query": "SELECT Value from \"North Dakota Facts\" where Key LIKE \"Capital City\"", 
+  "dirname": "output/https___www_50states_com_ndakota_htm_bkarki_17_9_2018@16_15_46", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "17": {
+  "short_a": "$8,985", 
+  "long_a": "1 bitcoin is equal to $8985.", 
+  "question": " Alexa, what is the rate of bitcoin in USD?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Values\" FROM Table_1  WHERE  \"Keys\"  LIKE \"%%rate%\"", 
+   "column_names": [
+    "Keys", 
+    "Values"
+   ], 
+   "table_name": "Bitcoin_USD"
+  }, 
+  "preprocessed_query": "SELECT  \"Values\" FROM \"Bitcoin_USD\"  WHERE  \"Keys\"  LIKE \"%%rate%\"", 
+  "query": "SELECT \"Values\" FROM \"Bitcoin USD\" WHERE \"Keys\" LIKE \"rate\"", 
+  "dirname": "output/https___finance_yahoo_com_quote_BTC-USD?p=BTC-USD_zihual_3_2_2019@23_21_48", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": null
+  }
+ }, 
+ "18": {
+  "short_a": "the smiths", 
+  "long_a": "the smiths recorded the album the smiths in 1984.", 
+  "question": " Alexa, what album did The Smiths record in 1984?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Title\" FROM Table_1  WHERE  \"Album_details\"  LIKE \"%%1984%\"", 
+   "column_names": [
+    "Title", 
+    "Album details"
+   ], 
+   "table_name": "Studio_albums"
+  }, 
+  "preprocessed_query": "SELECT  \"Title\" FROM \"Studio_albums\"  WHERE  \"Album_details\"  LIKE \"%%1984%\"", 
+  "query": "SELECT \"Title\" FROM \"Studio albums\" WHERE \"Album details\" LIKE \"1984\"", 
+  "dirname": "output/https___en_wikipedia_org_wiki_The_Smiths_discography_zihual_23_1_2019@23_40_55", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": null
+  }
+ }, 
+ "19": {
+  "short_a": "16 oz", 
+  "long_a": "there are 16 ounces in one pound.", 
+  "question": "How many ounces in a pound?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Ounces_(oz)\" FROM Table_1  WHERE  \"Pounds_(lb)\"  LIKE \"%%1 lb%\"", 
+   "column_names": [
+    "url", 
+    "Pounds_(lb)", 
+    "Ounces_(oz)"
+   ], 
+   "table_name": "Pounds_to_Ounces_conversion_table"
+  }, 
+  "preprocessed_query": "SELECT  \"Ounces_(oz)\" FROM \"Pounds_to_Ounces_conversion_table\"  WHERE  \"Pounds_(lb)\"  LIKE \"%%1 lb%\"", 
+  "query": "SELECT \"Ounces (oz)\" FROM \"Pounds to Ounces conversion table\" WHERE \"Pounds (lb)\" LIKE \"1 lb\"", 
+  "dirname": "output/https___www_rapidtables_com_convert_weight_how-many-ounces-in-pound_html_lcallebe_18_9_2018@10_5_32", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "20": {
+  "short_a": "80", 
+  "long_a": "she was born december 21, 1937 in new york city.", 
+  "question": " How old is Jane Fonda?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Values\" FROM Table_1  WHERE  \"Keys\"  LIKE \"%%Born%\"", 
+   "column_names": [
+    "Keys", 
+    "Values"
+   ], 
+   "table_name": "Jane_Fonda"
+  }, 
+  "preprocessed_query": "SELECT  \"Values\" FROM \"Jane_Fonda\"  WHERE  \"Keys\"  LIKE \"%%Born%\"", 
+  "query": "SELECT \"Values\" FROM \"Jane Fonda\" WHERE \"Keys\" LIKE \"Born\"", 
+  "dirname": "output/https___en_wikipedia_org_wiki_Jane_Fonda_zihual_21_2_2019@0_16_1", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "21": {
+  "short_a": "chris stapleton", 
+  "long_a": "chris stapleton won the best country album at the grammy's this year", 
+  "question": " Alexa, who won best country album at the grammys this year?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Performing_1\" FROM Table_1 ORDER_BY \"Year\" DESCENDING LIMIT 1", 
+   "column_names": [
+    "url", 
+    "Year", 
+    "Year_link", 
+    "Performing_1", 
+    "Work_1", 
+    "Nominees_1", 
+    "Ref", 
+    "Ref_link"
+   ], 
+   "table_name": "Recepients"
+  }, 
+  "preprocessed_query": "SELECT  \"Performing_1\" FROM \"Recepients\" ORDER_BY \"Year\" DESCENDING LIMIT 1", 
+  "query": "SELECT \"Performing 1\" FROM \"Recepients\" ORDER_BY \"Year\" DESCENDING LIMIT 1", 
+  "dirname": "output/https___en_wikipedia_org_wiki_Grammy_Award_for_Best_Country_Album_sbarot_14_9_2018@15_48_52", 
+  "query_execution": {
+   "query": false, 
+   "preprocessed_query": false
+  }
+ }, 
+ "22": {
+  "short_a": "in theaters february 9th", 
+  "long_a": "the peter rabbit movie premiers in theaters february 9, 2018", 
+  "question": " When does the new Peter Rabbit Movie come out?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Release\", \"Date\" FROM Table_1 Info  WHERE  \"Country\"=\"USA\"", 
+   "column_names": [
+    "url", 
+    "Country", 
+    "Country_link", 
+    "Release_Date", 
+    "Column_1"
+   ], 
+   "table_name": "Release_Info"
+  }, 
+  "preprocessed_query": "SELECT  \"Release\", \"Date\" FROM \"Release_Info\" Info  WHERE  \"Country\"=\"USA\"", 
+  "query": "Select Release Date\nFrom Release Info\nWhere 'Country'='USA'", 
+  "dirname": "output/https___www_imdb_com_title_tt5117670_releaseinfo_sbarot_24_1_2019@13_59_48", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "23": {
+  "short_a": "january 30, 2019", 
+  "long_a": "the last episode of viking aired on january 30, 2019", 
+  "question": " When is the last episode of Vikings?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Last_aired\" FROM Table_1  ORDER BY  \"Season\" DESC LIMIT 1", 
+   "column_names": [
+    "Season", 
+    "Episodes", 
+    "First aired", 
+    "Last aired"
+   ], 
+   "table_name": "List_of_Vikings_episodes"
+  }, 
+  "preprocessed_query": "SELECT  \"Last_aired\" FROM \"List_of_Vikings_episodes\"  ORDER BY  \"Season\" DESC LIMIT 1", 
+  "query": "SELECT \"Last aired\" FROM \"List of Vikings episodes\" ORDER BY \"Season\" DESC LIMIT 1", 
+  "dirname": "output/https___en_wikipedia_org_wiki_List_of_Vikings_episodes_zihual_23_1_2019@23_51_17", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "24": {
+  "short_a": "64", 
+  "long_a": "oprah winfrey is 64 years old.", 
+  "question": " How old is Oprah?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Values\" FROM Table_1  WHERE  \"Keys\"  LIKE \"%%Born%\"", 
+   "column_names": [
+    "Keys", 
+    "Values"
+   ], 
+   "table_name": "Oprah_Winfrey"
+  }, 
+  "preprocessed_query": "SELECT  \"Values\" FROM \"Oprah_Winfrey\"  WHERE  \"Keys\"  LIKE \"%%Born%\"", 
+  "query": "SELECT \"Values\" FROM \"Oprah Winfrey\" WHERE \"Keys\" LIKE \"Born\"", 
+  "dirname": "output/https___en_wikipedia_org_wiki_Oprah_Winfrey_zihual_21_2_2019@1_7_51", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "25": {
+  "short_a": "christopher a. wray", 
+  "long_a": "christopher a. wray, the current director of the fbi, was appointed by the president and confirmed by the senate.", 
+  "question": "Alexa, who is the current director of the FBI? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Name\" FROM Table_1 ORDER_BY \"Term_Begin\" DESCENDING LIMIT 1", 
+   "column_names": [
+    "url", 
+    "Number", 
+    "Image", 
+    "Image_alt", 
+    "Image_link", 
+    "Name", 
+    "Name_link", 
+    "Term_Begin", 
+    "Term_End", 
+    "Length", 
+    "Notes", 
+    "Presidents"
+   ], 
+   "table_name": "Federal_Bureau_of_Investigation_directors_(1935-present)"
+  }, 
+  "preprocessed_query": "SELECT  \"Name\" FROM \"Federal_Bureau_of_Investigation_directors_(1935-present)\" ORDER_BY \"Term_Begin\" DESCENDING LIMIT 1", 
+  "query": "SELECT \"Name\" FROM \"Federal Bureau of Investigation directors (1935-present)\" ORDER_BY \"Term Begin\" DESCENDING LIMIT 1", 
+  "dirname": "output/https___en_wikipedia_org_wiki_Director_of_the_Federal_Bureau_of_Investigation_mgrabmair_14_9_2018@12_15_3", 
+  "query_execution": {
+   "query": false, 
+   "preprocessed_query": false
+  }
+ }, 
+ "26": {
+  "short_a": "1988500 * 10^24 kg", 
+  "long_a": "the sun has a mass equal to 1.99 x 10^30 kilograms.", 
+  "question": " What is the Sun's mass in kilograms?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Sun\" FROM Table_1  WHERE  \"Bulk_parameters\"  LIKE \"%%Mass%\"", 
+   "column_names": [
+    "url", 
+    "Bulk_parameters", 
+    "Sun", 
+    "Earth", 
+    "Ratio(Sun/Earth)"
+   ], 
+   "table_name": "Sun/Earth_Comparison"
+  }, 
+  "preprocessed_query": "SELECT  \"Sun\" from \"Sun/Earth_Comparison\"  WHERE  \"Bulk_parameters\"  LIKE \"%%Mass%\"", 
+  "query": "SELECT Sun from \"Sun/Earth Comparison\" WHERE \"Bulk parameters\" LIKE \"Mass\"", 
+  "dirname": "output/https___nssdc_gsfc_nasa_gov_planetary_factsheet_sunfact_html_nithinh_18_12_2018@19_48_18", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "27": {
+  "short_a": "5.97 x 10^24 kg", 
+  "long_a": "the earth has a mass equal to 5.97 x 10^24 kilograms.", 
+  "question": "What is the Earth's mass in kilograms? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"EARTH\" FROM Table_1  WHERE  \"Parameters\"  LIKE \"%%Mass%\"", 
+   "column_names": [
+    "url", 
+    "Parameters", 
+    "MERCURY", 
+    "VENUS", 
+    "EARTH", 
+    "MOON", 
+    "MARS", 
+    "JUPITER", 
+    "SATURN", 
+    "URANUS", 
+    "NEPTUNE", 
+    "PLUTO"
+   ], 
+   "table_name": "Planetary_Fact_Sheet_-_Metric"
+  }, 
+  "preprocessed_query": "SELECT  \"EARTH\" FROM \"Planetary_Fact_Sheet_-_Metric\"  WHERE  \"Parameters\"  LIKE \"%%Mass%\"", 
+  "query": "SELECT EARTH FROM \"Planetary Fact Sheet - Metric\" WHERE \"Parameters\" LIKE \"Mass\"", 
+  "dirname": "output/https___nssdc_gsfc_nasa_gov_planetary_factsheet__nithinh_18_12_2018@20_8_0", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "28": {
+  "short_a": "mark david chapman", 
+  "long_a": "mark david chapman killed john lennon on december 8, 1980.", 
+  "question": " Alexa, who killed John Lennon?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"Key\"  LIKE \"%%Perpetrator%\"", 
+   "column_names": [
+    "Key", 
+    "Value"
+   ], 
+   "table_name": "Murder_of_John_Lennon"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Murder_of_John_Lennon\"  WHERE  \"Key\"  LIKE \"%%Perpetrator%\"", 
+  "query": "SELECT \"Value\" FROM \"Murder of John Lennon\" WHERE \"Key\" LIKE \"Perpetrator\"", 
+  "dirname": "output/https___en_wikipedia_org_wiki_Murder_of_John_Lennon_zihual_17_12_2018@23_3_34", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "29": {
+  "short_a": "15-jun-18", 
+  "long_a": "the incredibles 2 releases on june 15, 2018.", 
+  "question": "Alexa, when does The Incredibles 2 release?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Release_Date\" FROM Table_1  WHERE  \"Movie_Name\"  LIKE \"%%Incredibles 2%\"", 
+   "column_names": [
+    "url", 
+    "Movie_Name", 
+    "Rating", 
+    "Release_Date"
+   ], 
+   "table_name": "Movie_released_in_2018"
+  }, 
+  "preprocessed_query": "SELECT  \"Release_Date\" FROM \"Movie_released_in_2018\"  WHERE  \"Movie_Name\"  LIKE \"%%Incredibles 2%\"", 
+  "query": "SELECT \"Release Date\" FROM \"Movie released in 2018\" WHERE \"Movie Name\" LIKE \"%Incredibles 2%\"", 
+  "dirname": "output/https___www_moviefone_com_movies__fanh_17_9_2018@14_20_11", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "30": {
+  "short_a": "about four hours depending on the halftime show", 
+  "long_a": "the superbowl lasts about four hours, depending on how long the half time show is each year.", 
+  "question": " How long is the superbowl?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Time\", \"Zone\", \"Start\", \"Time\", \"End\", \"Time\" FROM Table_1 Bowl Times  WHERE  \"Time_Zone\" = \"Eastern\"", 
+   "column_names": [
+    "url", 
+    "1", 
+    "2", 
+    "3"
+   ], 
+   "table_name": "Super_Bowl_Times"
+  }, 
+  "preprocessed_query": "SELECT  \"Time\", \"Zone\", \"Start\", \"Time\", \"End\", \"Time\" FROM \"Super_Bowl_Times\" Bowl Times  WHERE  \"Time_Zone\" = \"Eastern\"", 
+  "query": "Select Time Zone, Start Time, End Time\nFrom Super Bowl Times\nWhere 'Time Zone' = 'Eastern'", 
+  "dirname": "output/https___www_printyourbrackets_com_how-long-does-the-super-bowl-last_html_sbarot_24_1_2019@10_53_4", 
+  "query_execution": {
+   "query": false, 
+   "preprocessed_query": false
+  }
+ }, 
+ "31": {
+  "short_a": "carnegie mellon university's ranking in the 2018 edition of best colleges is national universities, 25.", 
+  "long_a": "image result for what is carnegie mellon ranked?\n it has a total undergraduate enrollment of 6,673, its setting is urban, and the campus size is 149 acres. it utilizes a semester-based academic calendar. carnegie mellon university's ranking in the 2018 edition of best colleges is national universities, 25.", 
+  "question": " What is Carnegie Mellon ranked?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"RANK\" FROM Table_1  WHERE  \"University\"  LIKE \"%%Carnegie Mellon%\"", 
+   "column_names": [
+    "Rank", 
+    "University", 
+    "Location"
+   ], 
+   "table_name": "QS_World_University_Rankings"
+  }, 
+  "preprocessed_query": "SELECT  \"RANK\" FROM \"QS_World_University_Rankings\"  WHERE  \"University\"  LIKE \"%%Carnegie Mellon%\"", 
+  "query": "SELECT \"RANK\" FROM \"QS World University Rankings\" WHERE \"University\" LIKE \"Carnegie Mellon\"", 
+  "dirname": "output/https___www_topuniversities_com_university-rankings_world-university-rankings_2019_zihual_21_2_2019@0_52_3", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "32": {
+  "short_a": "new year's day", 
+  "long_a": "the next bank holiday is new year's day", 
+  "question": " When is the next bank holiday?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Holiday\" FROM Table_1 LIMIT 1", 
+   "column_names": [
+    "Holiday", 
+    "Date", 
+    "Day"
+   ], 
+   "table_name": "Federal_Holidays"
+  }, 
+  "preprocessed_query": "SELECT  \"Holiday\" FROM \"Federal_Holidays\" LIMIT 1", 
+  "query": "SELECT \"Holiday\" FROM \"Federal Holidays\" LIMIT 1", 
+  "dirname": "output/https___www_redcort_com_us-federal-bank-holidays__zihual_23_1_2019@23_56_36", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "33": {
+  "short_a": "105 calories, 1 medium", 
+  "long_a": "there are 105 calories in 1 medium banana.", 
+  "question": "How many calories in a banana?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Calories_per_100_grams\" FROM Table_1  WHERE  \"Fruit\"  LIKE \"%%Banana%\"", 
+   "column_names": [
+    "url", 
+    "Fruit", 
+    "Fruit_link", 
+    "Calories_per_100_grams"
+   ], 
+   "table_name": "Calories_in_fresh_fruit"
+  }, 
+  "preprocessed_query": "SELECT  \"Calories_per_100_grams\" FROM \"Calories_in_fresh_fruit\"  WHERE  \"Fruit\"  LIKE \"%%Banana%\"", 
+  "query": "SELECT \"Calories per 100 grams\" FROM \"Calories in fresh fruit\" WHERE  Fruit LIKE \"%Banana%\"", 
+  "dirname": "output/https___www_lose-weight-with-us_com_calories-in-fruit_html_nithinh_18_9_2018@15_47_7", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "34": {
+  "short_a": "5280", 
+  "long_a": "there are 5280 feet in a mile", 
+  "question": " how many feet are in a mile", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Feet\" FROM Table_1  WHERE  \"Miles\" = 1", 
+   "column_names": [
+    "Miles", 
+    "Feet"
+   ], 
+   "table_name": "Converting_miles_to_feet"
+  }, 
+  "preprocessed_query": "SELECT  \"Feet\" FROM \"Converting_miles_to_feet\"  WHERE  \"Miles\" = 1", 
+  "query": "SELECT Feet FROM \"Converting miles to feet\" WHERE Miles = 1", 
+  "dirname": "output/https___www_thecalculatorsite_com_articles_units_how-many-feet-in-a-mile_php_zihual_19_9_2018@0_4_59", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": true
+  }
+ }, 
+ "35": {
+  "short_a": "willie nelson", 
+  "long_a": "willie nelson wrote the song, crazy, that patsy cline popularized.", 
+  "question": "who wrote the song, Crazy?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Values\" FROM Table_1  WHERE  \"Keys\"  LIKE ~%%\"Songwriter ( s ) %\"", 
+   "column_names": [
+    "Keys", 
+    "Values"
+   ], 
+   "table_name": "Crazy_(Willie_Nelson_song)"
+  }, 
+  "preprocessed_query": "SELECT  \"Values\" FROM \"Crazy_(Willie_Nelson_song)\"  WHERE  \"Keys\"  LIKE ~%%\"Songwriter ( s ) %\"", 
+  "query": "SELECT Values FROM \"Crazy (Willie Nelson song)\" WHERE Keys LIKE ~\"Songwriter(s)\"", 
+  "dirname": "output/https___en_wikipedia_org_wiki_Crazy_(Willie_Nelson_song)_zihual_19_9_2018@0_14_43", 
+  "query_execution": {
+   "query": false, 
+   "preprocessed_query": false
+  }
+ }, 
+ "36": {
+  "short_a": "thomas jefferson", 
+  "long_a": "the third president of the united states was thomas jefferson.", 
+  "question": "Alexa, who was the United States third president? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Name\" FROM Table_1  WHERE  \"Number\"=\"3\"", 
+   "column_names": [
+    "url", 
+    "Number", 
+    "Number_link", 
+    "Date_1", 
+    "Reference_1", 
+    "Reference_1_link", 
+    "3", 
+    "Date_2", 
+    "Image", 
+    "Image_alt", 
+    "Image_link", 
+    "Name", 
+    "Name_link", 
+    "8", 
+    "10", 
+    "Reference_2", 
+    "Reference_2_link", 
+    "13", 
+    "14", 
+    "14_link", 
+    "15", 
+    "15_link", 
+    "16", 
+    "17", 
+    "17_link", 
+    "18", 
+    "19", 
+    "20", 
+    "20_link", 
+    "21", 
+    "22", 
+    "22_link"
+   ], 
+   "table_name": "Presidents"
+  }, 
+  "preprocessed_query": "SELECT  \"Name\" From Presidents  WHERE  \"Number\"=\"3\"", 
+  "query": "select Name \nFrom Presidents\nWhere 'Number'='3'", 
+  "dirname": "output/https___en_wikipedia_org_wiki_List_of_Presidents_of_the_United_States_sbarot_24_1_2019@12_51_59", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": null
+  }
+ }, 
+ "37": {
+  "short_a": "brazil", 
+  "long_a": "brazil is the number one coffee exporter in the world.", 
+  "question": " Which country is the number one coffee exporting?", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Country\" FROM Table_1 ORDER_BY Pounds DESCENDING LIMIT 1", 
+   "column_names": [
+    "url", 
+    "Country", 
+    "Country_link", 
+    "60kilogram", 
+    "Metric_Tons", 
+    "Pounds"
+   ], 
+   "table_name": "Main_exports_by_country_in_2017/18"
+  }, 
+  "preprocessed_query": "SELECT  \"Country\" FROM \"Main_exports_by_country_in_2017/18\" ORDER_BY Pounds DESCENDING LIMIT 1", 
+  "query": "SELECT Country FROM \"Main exports by country in 2017/18\" ORDER_BY Pounds DESCENDING LIMIT 1", 
+  "dirname": "output/https___en_wikipedia_org_wiki_List_of_countries_by_coffee_production_zihual_17_9_2018@14_16_26", 
+  "query_execution": {
+   "query": false, 
+   "preprocessed_query": false
+  }
+ }, 
+ "38": {
+  "short_a": "1889", 
+  "long_a": "the eiffel tower was built in 1889.", 
+  "question": "Alexa, what year was the Eiffel Tower built? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"Value\" FROM Table_1  WHERE  \"VALUE\"  LIKE \"%%Completed%\"", 
+   "column_names": [
+    "Key", 
+    "Value"
+   ], 
+   "table_name": "Eiffel_Tower"
+  }, 
+  "preprocessed_query": "SELECT  \"Value\" FROM \"Eiffel_Tower\"  WHERE  \"VALUE\"  LIKE \"%%Completed%\"", 
+  "query": "SELECT \"Value\" FROM \"Eiffel Tower\" WHERE \"VALUE\" LIKE \"Completed\"", 
+  "dirname": "output/https___en_wikipedia_org_wiki_Eiffel_Tower_zihual_17_12_2018@22_54_4", 
+  "query_execution": {
+   "query": "NA", 
+   "preprocessed_query": null
+  }
+ }, 
+ "39": {
+  "short_a": "the world's population has reached 7.5 billion.", 
+  "long_a": "the world's population is 7.5 billion.", 
+  "question": "Alexa, how many people are on Earth? ", 
+  "for_QA_parser": {
+   "query": "SELECT  \"World\" FROM Table_1  WHERE  \"Date_Time\"=\"Jul, \"1\", \"2019\"\"", 
+   "column_names": [
+    "url", 
+    "Date_Time", 
+    "World"
+   ], 
+   "table_name": "Population"
+  }, 
+  "preprocessed_query": "SELECT  \"World\" From Population  WHERE  \"Date_Time\"=\"Jul, \"1\", \"2019\"\"", 
+  "query": "Select World\nFrom Population\nWhere \"Date Time\"=\"Jul 1, 2019\"", 
+  "dirname": "output/http___www_worldometers_info_world-population__sbarot_24_1_2019@0_29_35", 
+  "query_execution": {
+   "query": null, 
+   "preprocessed_query": false
+  }
+ }
+}

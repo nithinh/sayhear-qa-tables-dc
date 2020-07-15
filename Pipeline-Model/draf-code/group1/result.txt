@@ -1,0 +1,740 @@
+../../data/train_question.txt
+Question  0 :  When does the new Fifty Shades of Grey come out
+Answer:  Fifty Shades Freed
+ by E. L. James
+Column selected:  Value
+Question  1 :  What is a synonym for develop
+Answer:  
+Column selected:  
+Question  10 :  What temperature is chicken done
+Answer:  vitamin a
+Column selected:  Nutriment
+Question  100 :  Alexa  what does Immer vorw  rts translated
+Answer:  Water & Dust
+Resistant
+Column selected:  Feature
+Question  101 :  Alexa  how far is the moon
+Answer:  3 st
+Column selected:  Stone
+Question  102 :  What is a 144hz  1440p  gsync monitor
+Answer:  8. File and pay on time
+Column selected:  Steps_to_lower_taxes
+Question  103 :  Alexa  what is the best ergonomic mouse
+Answer:  Alexandrea Martin
+Column selected:  value
+Question  104 :  Alexa  what s the value of a Ditting KFA903
+Answer:  Distance from Los Angeles to San Jose
+Column selected:  Distance_from_Los_Angeles
+Question  105 :  Alexa  what is Jack White s real name
+Answer:  f0 9e a1 9a
+Column selected:  UTF-8_encoding_(hex)
+Question  106 :  how often to wash sweater
+Answer:  powertransmitter
+Column selected:  Value
+Question  107 :  How many vitamins do you need a day
+Answer:  $25 (talk and text only)
+Column selected:  1GB_or_less
+Question  108 :  Alexa  what is the current Bitcoin price
+Answer:  Germany, Austria
+Column selected:  Country
+Question  109 :  how much does an average golden retriever weigh
+Answer:  4 servings
+Column selected:  Value
+Question  11 :  Google what is the weather like for tomorrow
+Answer:  Bitcoin Cash
+Column selected:  Currency
+Question  110 :  Alexa  who plays Pennywise on the 1990 version
+Answer:  3. super bowl xlix: patriots beat seahawks 28-24
+Column selected:  superbowl
+Question  111 :  what does gop stand for
+Answer:  Carlos Valdes
+Column selected:  Actor
+Question  112 :  Google  who shot John Lennon
+Answer:  Bluepoint/Sony Japan Studio
+Column selected:  Value
+Question  113 :  Who will be in the 2018 super bowl
+Answer:  United States of America
+Column selected:  Value
+Question  114 :  Alexa  when is Easter this year
+Answer:  Clearance above
+Column selected:  key
+Question  115 :  How big is a queen sized quilt  what are the dimensions
+Answer:  Available. Released 2017, September
+Column selected:  Value
+Question  116 :  Who is the 34thpresident of the United states of America
+Answer:  minority leader
+Column selected:  Leadership
+Question  117 :  Siri  where is Coomera
+Answer:  headquarters
+Column selected:  Key
+Question  118 :  How deep is the Mariana trench
+Answer:  Edwin T. Meredith
+Column selected:  values
+Question  119 :  Alexa  what is the current price of Bitcoin
+Answer:  LaFace
+ 
+Arista
+ 
+Jive
+ 
+RCA
+ 
+Legacy
+Column selected:  Value
+Question  12 :  Alexa  how many apple shares are outstanding
+Answer:  2 years
+Column selected:  Age
+Question  120 :  Alexa  how much is an HP Stream laptop
+Answer:  utc -8 and utc -7(dst)
+Column selected:  Value
+Question  121 :  which is the current president of United States
+Answer:  opening hours
+Column selected:  Key
+Question  122 :  Where is the Willimantic Waste paper company
+Answer:  the art of war at wikisource
+Column selected:  Value
+Question  123 :  Who s the actor from the Matrix
+Answer:  Southern Min
+Column selected:  Language
+Question  124 :  Alexa  where is Meek Mill from
+Answer:  national
+Column selected:  Location
+Question  125 :  What should I buy my wife for our 5th anniversary
+Answer:  Platform(s); Platform(s)
+Column selected:  Key
+Question  126 :  Alexa  where is the Mall of America located
+Answer:  Raising Cane's River Center
+Column selected:  Location
+Question  127 :  Alexa  what time is The Four on
+Answer:  Red Hot Chili Peppers
+Column selected:  Band
+Question  128 :  Siri  what was the best video game of 2017
+Answer:  Kingdom of the Netherlands
+Column selected:  State
+Question  129 :  Is Jefe a Jewish name
+Answer:  Coordinates
+Column selected:  keys
+Question  13 :  Alexa  what is the name of the last Harry Potter movie
+Answer:  A shower and t-storm around
+Column selected:  Forecast
+Question  130 :  Alexa  what is a good vitamin for the eye
+Answer:  flash storage
+Column selected:  1
+Question  131 :  Hey google  whats the weather like in the morning tomorrow
+Answer:  
+Column selected:  
+Question  132 :  What is the meaning of  the fool  card in Rider Waite tarot
+Answer:  Currently running at the Winter Garden Theatre
+Column selected:  Comment
+Question  133 :  Alexa  when is the next season of The Handmaid s Tale to start
+Answer:  RZA (also exec.), Ol' Dirty Bastard, Method Man
+Column selected:  Value
+Question  134 :  When does season 6 of Arrow start
+Answer:  celebrations
+Column selected:  Key
+Question  135 :  How do I get a refund for Social Security Tax erroneously withheld
+Answer:  4 wallets on a 4x6 print | 99¢ each
+Column selected:  Price
+Question  136 :  Alexa  what year did the first ever Spiderman movie come out
+Answer:  Road Traffic Accidents
+Column selected:  Cause_of_Death
+Question  137 :  Alexa  what is the tallest building in the world
+Answer:  cloth. pearl (string) thong
+Column selected:  English
+Question  138 :  Okay Google  What terminal does Southwest fly out of at Reagan Airport
+Answer:  Office vacant
+ (Balance of Clinton's term)
+Column selected:  Vice_President
+Question  139 :  Alexa  who is the Patriots head coach
+Answer:  Thomas Rhett
+Column selected:  Name
+Question  14 :  What are the AR points for The Last Kids on Earth and the Zombie Parade
+Answer:  richard  thomas as bill denbrough
+Column selected:  played
+Question  140 :  Alexa  when does season 2 of Jessica Jones come out on Netflix
+Answer:  1 3/4 cups, diced; about 35 pieces
+Column selected:  Amount
+Question  141 :  Siri  when are you able to file federal taxes for 2018
+Answer:  Rich The Kid Featuring Kendrick Lamar
+Column selected:  Artist
+Question  142 :  Alexa  what was the name of Mike Farrell s character on M A S H
+Answer:  wharton school of the university of pennsylvania (1966–1968) ,  more
+Column selected:  Value
+Question  143 :  how many yards in a meter
+Answer:  naska pruwinsya, peru
+Column selected:  Location
+Question  144 :  Alexa  who was the designer for Vetements
+Answer:  Plenty of sun
+Column selected:  Description
+Question  145 :  Alexa  when was Donald Trump elected
+Answer:  Arrowhead Stadium
+Column selected:  Building
+Question  146 :  What is a c section
+Answer:  can the masters qualification be revoked?
+Column selected:  Question
+Question  147 :  Alexa  is there a Jewish holiday on January 31st
+Answer:  8 tablespoons
+Column selected:  Tablespoons
+Question  148 :  Who plays stars in The Notebook
+Answer:  Max Size ~1"
+Column selected:  Info
+Question  149 :  Where is ticonderoga
+Answer:  Producer(s)
+Column selected:  key
+Question  15 :  When does final fantasy 15 come out for pc
+Answer:  
+Column selected:  
+Question  150 :  What is Bitcoin
+Answer:  Feathercoin
+Column selected:  Currency
+Question  151 :  What does   mean in math
+Answer:  101 N Main St
+Column selected:  Address_1
+Question  152 :  When is E3 2018
+Answer:  2018
+Column selected:  Year
+Question  153 :  Who is Valerie Plame
+Answer:  Captive Breeding
+Column selected:  Title
+Question  154 :  when paul walker dead
+Answer:  Georgia; Georgia
+Column selected:  Value
+Question  155 :  what are the feature of nokia 8
+Answer:  Winter term classes begin
+Column selected:  Event
+Question  156 :  What is the weather in Bloomsburg  PA
+Answer:  sel 1.5l
+Column selected:  Configuration
+Question  157 :  Siri  how old is Tony Hawk
+Answer:  Indianapolis Colts
+Column selected:  Team
+Question  158 :  Alexa  who was the third president of the United States
+Answer:  Severely Obese
+Column selected:  Classification
+Question  159 :  What is the currency exchange rate from US dollars to Japanese Yen
+Answer:  Sana'a (de jure)
+ Aden (de facto, seat of government)
+Column selected:  Capital_City
+Question  16 :  Alexa  what day is easter on this year
+Answer:  mark david chapman
+Column selected:  Value
+Question  160 :  Alexa  when is spring equinox 2018
+Answer:  Atlanta, Georgia, USA
+Column selected:  Value
+Question  161 :  Alexa  what is the address for Darby Dental Supply in New York
+Answer:  Partly sunny and warm
+Column selected:  Forecast
+Question  162 :  Does Diet Coke have caffeine
+Answer:  Japanese, Korean, Barbeque
+Column selected:  Category_List_Text
+Question  163 :  Alexa  how long to get an id card
+Answer:  announcers:
+Column selected:  Key
+Question  164 :  Who is the governor of California
+Answer:  first known use of shiplap
+Column selected:  Key
+Question  165 :  What is the hex color code for yellow
+Answer:  UFC® 100:Lesnar vs. Mir II
+Column selected:  Event_Name_1
+Question  166 :  Alexa  how is the stock exchange for Bitcoin
+Answer:  Not airing in the next 14 days
+Column selected:  Airing
+Question  167 :  What are the AR points for The Last Kids on Earth and the Nightmare Kings
+Answer:  
+Column selected:  
+Question  168 :  Alexa  what is the top speed of a Maserati Ghibli
+Answer:  
+Column selected:  
+Question  169 :  What is a major accomplishment of Darius I
+Answer:  Jeff Cardoni; Jeff Cardoni
+Column selected:  Value
+Question  17 :  How much water should I drink every day
+Answer:  Tampa Bay Buccaneers
+Column selected:  Team_one
+Question  170 :  Alexa who is singing the National anthem at the superbowl this year
+Answer:  Northern Mariana Islands
+Column selected:  State
+Question  171 :  what is antares pharma stock worth
+Answer:  http://harvardharrispoll.com/
+Column selected:  Poll_link
+Question  172 :  Alexa  What did the dow jones close at today
+Answer:  Years active; Years active
+Column selected:  Key
+Question  173 :  When will battle for azeroth be released
+Answer:  Yengisogat Karakoram
+Column selected:  Range
+Question  174 :  What are the AR points for The Last Kids on Earth
+Answer:  september 22, 9:54 p.m.  edt
+Column selected:  Value
+Question  175 :  What is the capital of New Jersey
+Answer:  19 weeks, 2 days
+Column selected:  Duration
+Question  176 :  Who is Gail Sheehy
+Answer:  Art Galleries
+Column selected:  Category_List_1
+Question  177 :  How long do dogs live
+Answer:  founded by
+Column selected:  Key
+Question  178 :  How many square feet are in an acre
+Answer:  united states air force
+Column selected:  Value
+Question  179 :  Alexa  What year did the Civil War start
+Answer:  supposedly predicts the arrival of spring
+Column selected:  Value
+Question  18 :  Alexa  what is the distance between England and the US
+Answer:  Feast of the Immaculate Conception
+Column selected:  Holiday_Name
+Question  180 :  Alexa  how many ounces are in a gallon
+Answer:  1993; 25 years ago (1993)
+Column selected:  Value
+Question  181 :  Alexa  what is the best ergonomic keyboard
+Answer:  Original release
+Column selected:  Key
+Question  182 :  Alexa  how many feet are in a meter
+Answer:  09:00 am – 8:00 pm
+Column selected:  Hours
+Question  183 :  What is a block chain
+Answer:  Place of origin
+Column selected:  keys
+Question  184 :  Alexa  is there a passively cooled GTX 1060
+Answer:  gas cost
+Column selected:  Key
+Question  185 :  Alexa  when was Groundhog Day released
+Answer:  0.0003
+Column selected:  Years
+Question  186 :  Siri  when is I prevail playing next in Texas 2018
+Answer:  Smoothie King Center
+Column selected:  Location
+Question  187 :  Astma and oatmeal
+Answer:  Surface area
+Column selected:  Property
+Question  188 :  Alexa  what does USB stand for
+Answer:  
+Column selected:  
+Question  189 :  Alexa  how much does an iPhone X cost
+Answer:  Sao Tome & Principe
+Column selected:  Country
+Question  19 :  Alexa  how many pounds are in a stone
+Answer:  Calif. King
+Column selected:  Bed_Type
+Question  190 :  Alexa  what IRA contributions will lower my taxes
+Answer:  2018 Ford Fusion Energi
+Column selected:  Car
+Question  191 :  How old is Whoopi Goldberg
+Answer:  distance from sun
+Column selected:  Key
+Question  192 :  Alexa  how many miles is it to drive from Los Angeles to San Francisco
+Answer:  Mini Nuke Bomb - Storage box - Regular | Fallout inspired
+Column selected:  Product
+Question  193 :  Is there a unicode character for the fi ligature
+Answer:  gains in retirement accounts
+Column selected:  Category
+Question  194 :  How does the power transmitter in the game Subnautica work
+Answer:  practical info
+Column selected:  Key
+Question  195 :  How much does Straight Talk cell phone service cost
+Answer:  musée du louvre , paris
+Column selected:  Value
+Question  196 :  how much does amazon prime cost
+Answer:  2017 Tax Amendment
+Column selected:  Type_of_Income_Tax_Return
+Question  197 :  How long do you cook steak for
+Answer:  Loudspeaker
+Column selected:  Key
+Question  198 :  What Super Bowl did Tom Brady perform the best in
+Answer:  : 64GB for $999, or 256GB for $1,149
+Column selected:  Prices
+Question  199 :  Who played Flash in The Flash
+Answer:  Gems and Metals:
+Column selected:  Key
+Question  2 :  Alexa  when does the new Shadow of the Colossus come out
+Answer:  Cook until flesh is pearly and opaque.
+Column selected:  temperature
+Question  20 :  Who was Ernest Borgnine s spouse
+Answer:  Thomas Jefferson
+ [h]
+Column selected:  Vice_President
+Question  200 :  Siri  when was the Verrazano Narrows bridge built
+Answer:  - Saturday, Mar 17
+Column selected:  Date
+Question  201 :  what are the feature of Samsung Galaxy Note 8  Midnight Black
+Answer:  Family Guy - Season 10
+Column selected:  Season
+Question  202 :  Alexa  president of the senate
+Answer:  birth sign
+Column selected:  Key
+Question  203 :  Who is the founder of Google
+Answer:  Psychology, sociology
+Column selected:  Value
+Question  204 :  Alexa  what is the Meredith Corporation
+Answer:  birth date
+Column selected:  Key
+Question  205 :  how old is pink the singer
+Answer:  military budget
+Column selected:  Key
+Question  206 :  Siri  what is the capital of California
+Answer:  
+Column selected:  
+Question  207 :  Alexa  where is the shoe station located in Pensacola
+Answer:  3. what is the range of moorish idols?
+Column selected:  Question
+Question  208 :  Alexa  who wrote the book Art of War
+Answer:   r&b  pop  soul  gospel 
+Column selected:  Value
+Question  209 :  which is the most common language in the world
+Answer:  Excess Baggage
+Column selected:  Baggage_Type
+Question  21 :  What is the population of Silt  CO
+Answer:  state electorate(s)
+Column selected:  Key
+Question  210 :  When does Red Dead Redemption 2 release
+Answer:  The Peace Garden State
+Column selected:  Nickname
+Question  211 :  Alexa  when does Disney on Ice perform in San Antonio
+Answer:  Rain/Snow
+Column selected:  Description
+Question  212 :  Alexa  who is the lead singer of Rush
+Answer:  
+Column selected:  
+Question  213 :  OK Google  Who is the queen of england
+Answer:  Jive
+ 
+Zomba
+ 
+RCA
+ 
+Tennman
+Column selected:  Value
+Question  214 :  Alexa  what year did Jimi Hendrix die
+Answer:  Over 10 years
+Column selected:  Age
+Question  215 :  alexa what are the best laptops
+Answer:  United States
+Column selected:  Value
+Question  216 :  Alexa  how can I access my flashlight on my Samsung S8
+Answer:  24 high
+Column selected:  Key
+Question  217 :  What s the longest running Broadway show
+Answer:  Halftime show; Halftime show
+Column selected:  Key
+Question  218 :  Alexa  When did Wu Tang s album Enter the Wu Tang release
+Answer:  canadian dollar ($) ( cad )
+Column selected:  Value
+Question  219 :  What is Pioneer Day
+Answer:  0.6214 mi
+Column selected:  Miles
+Question  22 :  cvs passport photo charge
+Answer:  did you know
+Column selected:  Key
+Question  220 :  What is the leading cause of death in the U S
+Answer:  first known use of socioeconomic
+Column selected:  Key
+Question  221 :  Alexa  what does Schritt um Schritt translate to
+Answer:  Lifetime risk of maternal death
+Column selected:  Key
+Question  222 :  Alexa  who became president after John Kennedy
+Answer:  Michael De Luca
+ Jennifer Todd
+Column selected:  Value
+Question  223 :  Alexa  who is the top musician of today
+Answer:  South African Rand
+Column selected:  Currency
+Question  224 :  How many calories in a banana
+Answer:  Calories: 283 kcal
+Column selected:  Value
+Question  225 :  Who sings the song him and I
+Answer:  street address:
+Column selected:  Property
+Question  226 :  When is Donal Trumps birthday
+Answer:  BenDeLaCreme
+Column selected:  Contestant
+Question  227 :  What are nazca lines
+Answer:  Years active
+Column selected:  Property
+Question  228 :  What is the weather in Philadelphia  PA
+Answer:  Television
+ 
+film
+ 
+radio
+Column selected:  Value
+Question  229 :  Alexa  when is taylor swift coming to dallas
+Answer:  The Jerry Springer Show
+Column selected:  show
+Question  23 :  when can i get masters on amazon turk
+Answer:  market cap
+Column selected:  Key
+Question  230 :  How many ounces in 1 cup
+Answer:  infamous records
+Column selected:  Value
+Question  231 :  How big do horned nerite snails get
+Answer:  november 7 ( details )
+Column selected:  Value
+Question  232 :  Alexa  when is the premier of the Black Panther movie
+Answer:  The Shape of Water (4)
+Column selected:  values
+Question  233 :  Alexa  what is a bitcoin
+Answer:  lowest price:
+Column selected:  Key
+Question  234 :  Alexa  what are the vegan pizza spots in St  Charles
+Answer:  Doctor of Religious Sciences
+Column selected:  Degree
+Question  235 :  Alexa did the groundhog see its shadow today
+Answer:  james franco  anne hathaway [1]
+Column selected:  Value
+Question  236 :  Alexa  how do manatees mate
+Answer:  Phillips Curve
+Column selected:  Value
+Question  237 :  where is kennesaw georgia
+Answer:  leesburg
+Column selected:  City
+Question  24 :  When does Dartmouth s spring quarter begin
+Answer:  shares outstanding
+Column selected:  Key
+Question  25 :  Alexa  how much does a 2016 ford fusion SE cost
+Answer:  64MB Intel HD Graphics
+Column selected:  Value
+Question  26 :  Alexa  where are the Steeler on the NFL Power Rankings
+Answer:  1st
+ Vice President of the United States
+Column selected:  Prior_Office
+Question  27 :  Alexa  what is morbid obesity
+Answer:  map & directions
+Column selected:  Description
+Question  28 :  What is the capital of Portugal
+Answer:  Agent Smith; Agent Smith
+Column selected:  Character
+Question  29 :  When does Ant Man 2 come to theaters
+Answer:  Years active
+Column selected:  Property
+Question  3 :  what is the weather in waycross ga
+Answer:  to tilt forwards
+Column selected:  English
+Question  30 :  What are the best places to eat in Vegas
+Answer:  Fruit & Flowers, or Linen & Silk
+Column selected:  Gift
+Question  31 :  Alexa  what time does the Super Bowl start
+Answer:  Ala Moana Center
+Column selected:  Mall_Name
+Question  32 :  Siri  what is shiplap
+Answer:  
+Column selected:  
+Question  33 :  Alexa  what year was Brock Lesnar s last UFC fight
+Answer:  What Remains of Edith Finch
+Column selected:  Game
+Question  34 :  Alexa  what is the most popular tv show that people are watching
+Answer:  
+Column selected:  
+Question  35 :  How do I delete my facebook account
+Answer:  Harry Potter and the Half-Blood Prince
+Column selected:  Motion_picture
+Question  36 :  What is a synonym for empty
+Answer:  Vitamin C
+Column selected:  Vitamin
+Question  37 :  What is AP BIo about
+Answer:  partly cloudy
+Column selected:  forecast
+Question  38 :  Where is the 217 area code
+Answer:  meaning
+Column selected:  Key
+Question  39 :  Alexa  show me president Trump s approval rating
+Answer:  The Handmaid's Tale Season 2 Trailer
+Column selected:  title
+Question  4 :  Alexa  when did Sean price die
+Answer:  Mean orbit velocity:
+Column selected:  Property
+Question  40 :  Alexa  how high is Mount Everest
+Answer:  October 8, 2014
+Column selected:  First_Aired
+Question  41 :  Alex  when does spring start this year
+Answer:  Derechos del Contribuyente
+Column selected:  Title
+Question  42 :  Alexa  when does Diablo 3 season 12 end
+Answer:  Release date
+Column selected:  Property
+Question  43 :  local antiques stores
+Answer:  Chicago, United States
+Column selected:  Location
+Question  44 :  Alexa  where is the Ultra Music Festival held
+Answer:  Main Terminal; Gates assigned daily
+Column selected:  Terminal_and_Gate
+Question  45 :  Alexa  where is Area 51
+Answer:  Los Angeles Rams
+Column selected:  Team
+Question  46 :  What does the groundhog predict again
+Answer:  last kids on earth;
+Column selected:  Value
+Question  47 :  Alexa  who created Marvel Studios
+Answer:  Millicent Shelton
+Column selected:  Directed_by
+Question  48 :  When is Bob s Burgers going to be om
+Answer:  February 9, 2018
+Column selected:  2018_Deadline
+Question  49 :  Alexa  is Hobby Lobby open on Sundays
+Answer:  David Ogden Stiers
+Column selected:  Actor
+Question  5 :  Alexa  what are the key ingredients in Hummus
+Answer:  Acer Predator Z301C
+Column selected:  Display_Model
+Question  50 :  Google  How far is Yuma AZ
+Answer:  51 m
+Column selected:  Meter
+Question  51 :  Alexa  how many seconds are there in a year
+Answer:  Clothing, shoes, accessories
+Column selected:  value
+Question  52 :  Alexa  when is Maroon 5 coming to San Antonio for a concert
+Answer:  United States elections, 2002
+Column selected:  Details
+Question  53 :  How old is the sun
+Answer:  learn more about cesarean section
+Column selected:  key
+Question  54 :  What did Cloverfield get on IMDB
+Answer:  33rd day of counting the Omer
+Column selected:  Description
+Question  55 :  alexa  how big is the population of china
+Answer:  Jan Sardi (adaptation)
+Column selected:  Value
+Question  56 :  Alexa  what is the best mid size sedan on the market
+Answer:  eastern (est) ( utc-5 )
+Column selected:  Value
+Question  57 :  Alexa  how old is the earth
+Answer:  Hajime Tabata
+Column selected:  Value
+Question  58 :  Alexa  where can I but Fallout
+Answer:  4 bit + 1 coin
+Column selected:  Value
+Question  59 :  what is the tax rate on short term capital gains for 2017
+Answer:  greater than or equal to
+Column selected:  Meaning_/_Definition
+Question  6 :  Alexa  are platypus poisonous
+Answer:  Also great
+Column selected:  keys
+Question  60 :  Alexa  Who painted the Mona Lisa
+Answer:  location(s)
+Column selected:  Key
+Question  61 :  what day are taxes due in 2018
+Answer:  United States
+Column selected:  value
+Question  62 :  what are the feature of iphone 7plus
+Answer:  village christian school
+Column selected:  Value
+Question  63 :  what is the price of the iphone SE
+Answer:  Battery life
+Column selected:  Key
+Question  64 :  What colors are associate with the goddess Brighid
+Answer:  Cloudy with a shower
+Column selected:  Description
+Question  65 :  When is Easter 2018
+Answer:  49 years old
+Column selected:  Value
+Question  66 :  Alexa  what is the funniest Family Guy season
+Answer:  Martin Van Buren
+Column selected:  Vice_President
+Question  67 :  How old is Donald Trump
+Answer:  Hong Kong Dollar
+Column selected:  Currency
+Question  68 :  Alexa  who wrote  Tipping Point
+Answer:  Easter Sunday
+Column selected:  Name
+Question  69 :  where was Rihanna born
+Answer:  2215 days ago
+Column selected:  Days_Ago
+Question  7 :  Alexa  who is the commander in chief of the military
+Answer:  providence, rhode island, united states
+Column selected:  Value
+Question  70 :  What is a labor camp
+Answer:  Chandler, AZ
+Column selected:  City
+Question  71 :  Where can I snorkel with moorish idol
+Answer:  12 oz coffee: 140mg or more
+Column selected:  Caffeine_Content
+Question  72 :  Alexa  When did Whitney Houston die
+Answer:  How long does it take to get an ID?
+Column selected:  Question
+Question  73 :  What is the transatlantic luggage allowance with Aer Lingus
+Answer:  Hawaii Senate, Hawaii House
+Column selected:  Prior_public_experience
+Question  74 :  What is the capital of Louisiana
+Answer:  maroon
+Column selected:  Color_Name
+Question  75 :  What is the weather in Ingleside  Il
+Answer:  52 week range
+Column selected:  Key
+Question  76 :  How do you eat freeze dried food
+Answer:  word count:
+Column selected:  Key
+Question  77 :  How old is Justin Timberlake
+Answer:  Ghibli Diesel
+Column selected:  Model
+Question  78 :  What is a normal heart rate
+Answer:  title / office
+Column selected:  key
+Question  79 :  Alexa  when does E3 start this year
+Answer:  1–3 years children
+Column selected:  Age/Gender
+Question  8 :  How much is a bitcoin worth
+Answer:  the third man
+Column selected:  Value
+Question  80 :  What day is the Superbowl
+Answer:  The Colgate Thirteen
+Column selected:  Performer
+Question  81 :  Alexa  what is the capital of Canada
+Answer:  Market Cap
+Column selected:  Key
+Question  82 :  Alexa  what s the kilometer to mile conversion
+Answer:  average daily volume (3 months)
+Column selected:  Key
+Question  83 :  Alexa  what does socioeconomic mean
+Answer:  blizzard entertainment
+Column selected:  Value
+Question  84 :  What is the fertility rate in iran
+Answer:  fiction/nonfiction
+Column selected:  Key
+Question  85 :  what happened during the recent oscars 2018
+Answer:  Portland is the state's largest city.
+Column selected:  Notes
+Question  86 :  What is the exchange rate for 879 Euros in US Dollars
+Answer:  University of Vermont, Columbia University
+Column selected:  value
+Question  87 :  How long to bake chicken
+Answer:  Boa Constrictor
+Column selected:  Animal
+Question  88 :  What is the street address of the Beltsville Agricultural Research Center
+Answer:  1/640th of a square mile
+Column selected:  Acre
+Question  89 :  Alexa  who won the last episode of RuPaul s Drag Race All Stars
+Answer:  result
+Column selected:  Key
+Question  9 :  Alexa  how old is Jane Fonda
+Answer:  once a season,
+Column selected:  Duration
+Question  90 :  Alexa  how old is Jimmy Kimmel
+Answer:  Distance from Mali to United States
+Column selected:  Country
+Question  91 :  What time is The Flash on
+Answer:  51
+Column selected:  Gallon
+Question  92 :  Alexa  who produced the album Albert Einstein by Prodigy
+Answer:  Bluetooth for Mac; Bluetooth for Windows
+Column selected:  short_explanation
+Question  93 :  When is the next presidential election
+Answer:  9 ft, 10.11 in
+Column selected:  Feet_and_Inches
+Question  94 :  Alexa  when is Oscars 2018
+Answer:  
+Column selected:  
+Question  95 :  How much is a GTX 1080
+Answer:  GTX 690
+Column selected:  NVIDIA
+Question  96 :  What is the abbreviation for a law degree
+Answer:  3 September 1993
+Column selected:  Release_date
+Question  97 :  Alexa  What movie won best picture in 2011
+Answer:  Heavy Montreal
+Column selected:  Venue
+Question  98 :  What is the NAIRU
+Answer:  Oats Are Incredibly Good for You
+Column selected:  benefits
+Question  99 :  What is the address for the orlando office of sng labs
+Answer:  File Transfer Protocol
+Column selected:  Full_Name

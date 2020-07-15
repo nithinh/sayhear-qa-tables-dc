@@ -1,0 +1,14 @@
++------------+------------+------------+------------+------------+-----------+-----------+---------+
+| Date       | Location   | Coordinate | Cause      | Burial     | Inquest   | Coroner   | Verdict |
+|            |            | s          |            |            |           |           |         |
++------------+------------+------------+------------+------------+-----------+-----------+---------+
+| September  | Samarkand  | Coordinate | Asphyxia   | October 1, | September | Gavin     | Open    |
+| 18, 1970;  | Hotel, 22  | s:         | due to     | 1970, at   | 28, 1970, | Thurston  |         |
+| 47 years   | Lansdowne  | 51°30′45″N | aspiration | Greenwood  | in        |           |         |
+| ago (1970- | Crescent,  | 0°12′25″W  | of vomit,  | Cemetery,  | London,   |           |         |
+| 09-18)     | Notting    | /          | contribute | Renton, Wa | England   |           |         |
+|            | Hill,      | 51.5125°N  | d to by    | shington,  |           |           |         |
+|            | London,    | 0.207°W /  | drug intox | US         |           |           |         |
+|            | United     | 51.5125;   | ication    |            |           |           |         |
+|            | Kingdom    | -0.207     |            |            |           |           |         |
++------------+------------+------------+------------+------------+-----------+-----------+---------+

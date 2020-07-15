@@ -1,0 +1,1327 @@
++----------------------+---------------------+---------------------+---------------+---------------+
+| url                  | Country             | Country_link        | Distance_(km) | Distance_(mi) |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,842 km      | 4,873 miles   |
+| fromto.net/distance- | Andorra to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-andorra-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 12,569 km     | 7,810 miles   |
+| fromto.net/distance- | United Arab         | efromto.net/distanc |               |               |
+| from-united-states-  | Emirates to United  | e-from-united-arab- |               |               |
+| country              | States              | emirates-to-united- |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 11,933 km     | 7,415 miles   |
+| fromto.net/distance- | Afghanistan to      | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-afghanistan- |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 3,995 km      | 2,482 miles   |
+| fromto.net/distance- | Antigua and Barbuda | efromto.net/distanc |               |               |
+| from-united-states-  | to United States    | e-from-antigua-and- |               |               |
+| country              |                     | barbuda-to-united-  |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 3,809 km      | 2,367 miles   |
+| fromto.net/distance- | Anguilla to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-anguilla-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 9,147 km      | 5,684 miles   |
+| fromto.net/distance- | Albania to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-albania-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 10,547 km     | 6,554 miles   |
+| fromto.net/distance- | Armenia to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-armenia-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 12,841 km     | 7,979 miles   |
+| fromto.net/distance- | Angola to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-angola-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 13,504 km     | 8,391 miles   |
+| fromto.net/distance- | Antarctica to       | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-antarctica-  |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 9,018 km      | 5,604 miles   |
+| fromto.net/distance- | Argentina to United | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-argentina-   |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 9,681 km      | 6,015 miles   |
+| fromto.net/distance- | American Samoa to   | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-american-    |               |               |
+| country              |                     | samoa-to-united-    |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,344 km      | 5,185 miles   |
+| fromto.net/distance- | Austria to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-austria-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 15,184 km     | 9,435 miles   |
+| fromto.net/distance- | Australia to United | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-australia-   |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Aruba | https://www.distanc | 3,745 km      | 2,327 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-aruba-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Aland | https://www.distanc | 7,718 km      | 4,796 miles   |
+| fromto.net/distance- | Islands to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-aland-       |               |               |
+| country              |                     | islands-to-united-  |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 10,646 km     | 6,615 miles   |
+| fromto.net/distance- | Azerbaijan to       | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-azerbaijan-  |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,789 km      | 5,461 miles   |
+| fromto.net/distance- | Bosnia and          | efromto.net/distanc |               |               |
+| from-united-states-  | Herzegovina to      | e-from-bosnia-and-  |               |               |
+| country              | United States       | herzegovina-to-     |               |               |
+|                      |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 4,462 km      | 2,773 miles   |
+| fromto.net/distance- | Barbados to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-barbados-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 13,227 km     | 8,219 miles   |
+| fromto.net/distance- | Bangladesh to       | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-bangladesh-  |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,554 km      | 4,694 miles   |
+| fromto.net/distance- | Belgium to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-belgium-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 9,552 km      | 5,935 miles   |
+| fromto.net/distance- | Burkina Faso to     | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-burkina-     |               |               |
+| country              |                     | faso-to-united-     |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 9,333 km      | 5,799 miles   |
+| fromto.net/distance- | Bulgaria to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-bulgaria-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 12,156 km     | 7,553 miles   |
+| fromto.net/distance- | Bahrain to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-bahrain-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 13,339 km     | 8,288 miles   |
+| fromto.net/distance- | Burundi to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-burundi-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Benin | https://www.distanc | 10,087 km     | 6,268 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-benin-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Saint | https://www.distanc | 3,851 km      | 2,393 miles   |
+| fromto.net/distance- | Barthelemy to       | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-saint-       |               |               |
+| country              |                     | barthelemy-to-      |               |               |
+|                      |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 2,867 km      | 1,781 miles   |
+| fromto.net/distance- | Bermuda to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-bermuda-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 14,415 km     | 8,957 miles   |
+| fromto.net/distance- | Brunei to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-brunei-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 6,823 km      | 4,240 miles   |
+| fromto.net/distance- | Bolivia to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-bolivia-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 3,893 km      | 2,419 miles   |
+| fromto.net/distance- | Bonaire, Saint      | efromto.net/distanc |               |               |
+| from-united-states-  | Eustatius and Saba  | e-from-bonaire-     |               |               |
+| country              | to United States    | saint-eustatius-    |               |               |
+|                      |                     | and-saba-to-united- |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,317 km      | 4,547 miles   |
+| fromto.net/distance- | Brazil to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-brazil-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 2,193 km      | 1,363 miles   |
+| fromto.net/distance- | Bahamas to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-bahamas-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 12,803 km     | 7,955 miles   |
+| fromto.net/distance- | Bhutan to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-bhutan-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 13,826 km     | 8,591 miles   |
+| fromto.net/distance- | Bouvet Island to    | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-bouvet-      |               |               |
+| country              |                     | island-to-united-   |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 14,127 km     | 8,778 miles   |
+| fromto.net/distance- | Botswana to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-botswana-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,566 km      | 5,323 miles   |
+| fromto.net/distance- | Belarus to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-belarus-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 2,262 km      | 1,406 miles   |
+| fromto.net/distance- | Canada to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-canada-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Cocos | https://www.distanc | 16,974 km     | 10,547 miles  |
+| fromto.net/distance- | Islands to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-cocos-       |               |               |
+| country              |                     | islands-to-united-  |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 12,696 km     | 7,889 miles   |
+| fromto.net/distance- | Democratic Republic | efromto.net/distanc |               |               |
+| from-united-states-  | of the Congo to     | e-from-democratic-  |               |               |
+| country              | United States       | republic-of-the-    |               |               |
+|                      |                     | congo-to-united-    |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 11,856 km     | 7,367 miles   |
+| fromto.net/distance- | Central African     | efromto.net/distanc |               |               |
+| from-united-states-  | Republic to United  | e-from-central-     |               |               |
+| country              | States              | african-republic-   |               |               |
+|                      |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 11,917 km     | 7,405 miles   |
+| fromto.net/distance- | Republic of the     | efromto.net/distanc |               |               |
+| from-united-states-  | Congo to United     | e-from-republic-of- |               |               |
+| country              | States              | the-congo-to-       |               |               |
+|                      |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,011 km      | 4,978 miles   |
+| fromto.net/distance- | Switzerland to      | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-switzerland- |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Ivory | https://www.distanc | 9,517 km      | 5,914 miles   |
+| fromto.net/distance- | Coast to United     | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-ivory-coast- |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Cook  | https://www.distanc | 9,326 km      | 5,795 miles   |
+| fromto.net/distance- | Islands to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-cook-        |               |               |
+| country              |                     | islands-to-united-  |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Chile | https://www.distanc | 8,467 km      | 5,261 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-chile-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 11,083 km     | 6,887 miles   |
+| fromto.net/distance- | Cameroon to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-cameroon-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from China | https://www.distanc | 11,647 km     | 7,237 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-china-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 4,222 km      | 2,623 miles   |
+| fromto.net/distance- | Colombia to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-colombia-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Costa | https://www.distanc | 3,269 km      | 2,031 miles   |
+| fromto.net/distance- | Rica to United      | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-costa-rica-  |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Cuba  | https://www.distanc | 2,445 km      | 1,519 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-cuba-to-     |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Cape  | https://www.distanc | 7,428 km      | 4,616 miles   |
+| fromto.net/distance- | Verde to United     | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-cape-verde-  |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 3,842 km      | 2,387 miles   |
+| fromto.net/distance- | Curacao to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-curacao-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 16,358 km     | 10,164 miles  |
+| fromto.net/distance- | Christmas Island to | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-christmas-   |               |               |
+| country              |                     | island-to-united-   |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 10,421 km     | 6,475 miles   |
+| fromto.net/distance- | Cyprus to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-cyprus-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Czech | https://www.distanc | 8,234 km      | 5,116 miles   |
+| fromto.net/distance- | Republic to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-czech-       |               |               |
+| country              |                     | republic-to-united- |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,861 km      | 4,885 miles   |
+| fromto.net/distance- | Germany to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-germany-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,488 km      | 4,653 miles   |
+| fromto.net/distance- | Denmark to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-denmark-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 4,150 km      | 2,579 miles   |
+| fromto.net/distance- | Dominica to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-dominica-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 3,216 km      | 1,998 miles   |
+| fromto.net/distance- | Dominican Republic  | efromto.net/distanc |               |               |
+| from-united-states-  | to United States    | e-from-dominican-   |               |               |
+| country              |                     | republic-to-united- |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,770 km      | 5,449 miles   |
+| fromto.net/distance- | Algeria to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-algeria-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 4,691 km      | 2,915 miles   |
+| fromto.net/distance- | Ecuador to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-ecuador-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,051 km      | 5,003 miles   |
+| fromto.net/distance- | Estonia to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-estonia-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Egypt | https://www.distanc | 10,976 km     | 6,820 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-egypt-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,810 km      | 4,853 miles   |
+| fromto.net/distance- | Western Sahara to   | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-western-     |               |               |
+| country              |                     | sahara-to-united-   |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 12,568 km     | 7,809 miles   |
+| fromto.net/distance- | Eritrea to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-eritrea-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Spain | https://www.distanc | 7,595 km      | 4,719 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-spain-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 13,144 km     | 8,167 miles   |
+| fromto.net/distance- | Ethiopia to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-ethiopia-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,823 km      | 4,861 miles   |
+| fromto.net/distance- | Finland to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-finland-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Fiji  | https://www.distanc | 10,860 km     | 6,748 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-fiji-to-     |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 10,491 km     | 6,519 miles   |
+| fromto.net/distance- | Falkland Islands to | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-falkland-    |               |               |
+| country              |                     | islands-to-united-  |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 10,947 km     | 6,802 miles   |
+| fromto.net/distance- | Micronesia to       | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-micronesia-  |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Faroe | https://www.distanc | 6,375 km      | 3,961 miles   |
+| fromto.net/distance- | Islands to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-faroe-       |               |               |
+| country              |                     | islands-to-united-  |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,666 km      | 4,763 miles   |
+| fromto.net/distance- | France to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-france-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Gabon | https://www.distanc | 11,591 km     | 7,202 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-gabon-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 6,830 km      | 4,244 miles   |
+| fromto.net/distance- | United Kingdom to   | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-united-      |               |               |
+| country              |                     | kingdom-to-united-  |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 4,379 km      | 2,721 miles   |
+| fromto.net/distance- | Grenada to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-grenada-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 5,688 km      | 3,534 miles   |
+| fromto.net/distance- | French Guiana to    | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-french-      |               |               |
+| country              |                     | guiana-to-united-   |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,175 km      | 4,458 miles   |
+| fromto.net/distance- | Guernsey to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-guernsey-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Ghana | https://www.distanc | 9,888 km      | 6,144 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-ghana-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,718 km      | 4,796 miles   |
+| fromto.net/distance- | Gibraltar to United | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-gibraltar-   |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 4,860 km      | 3,020 miles   |
+| fromto.net/distance- | Greenland to United | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-greenland-   |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,269 km      | 5,138 miles   |
+| fromto.net/distance- | Gambia to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-gambia-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,992 km      | 5,587 miles   |
+| fromto.net/distance- | Guinea to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-guinea-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 11,304 km     | 7,024 miles   |
+| fromto.net/distance- | Equatorial Guinea   | efromto.net/distanc |               |               |
+| from-united-states-  | to United States    | e-from-equatorial-  |               |               |
+| country              |                     | guinea-to-united-   |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 9,409 km      | 5,846 miles   |
+| fromto.net/distance- | Greece to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-greece-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from South | https://www.distanc | 11,633 km     | 7,228 miles   |
+| fromto.net/distance- | Georgia and the     | efromto.net/distanc |               |               |
+| from-united-states-  | South Sandwich      | e-from-south-       |               |               |
+| country              | Islands to United   | georgia-and-the-    |               |               |
+|                      | States              | south-sandwich-     |               |               |
+|                      |                     | islands-to-united-  |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Guam  | https://www.distanc | 11,563 km     | 7,185 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-guam-to-     |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,386 km      | 5,211 miles   |
+| fromto.net/distance- | Guinea-Bissau to    | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-guinea-      |               |               |
+| country              |                     | bissau-to-united-   |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 5,177 km      | 3,217 miles   |
+| fromto.net/distance- | Guyana to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-guyana-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Hong  | https://www.distanc | 12,699 km     | 7,891 miles   |
+| fromto.net/distance- | Kong to United      | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-hong-kong-   |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Heard | https://www.distanc | 18,051 km     | 11,216 miles  |
+| fromto.net/distance- | Island and McDonald | efromto.net/distanc |               |               |
+| from-united-states-  | Islands to United   | e-from-heard-       |               |               |
+| country              | States              | island-and-         |               |               |
+|                      |                     | mcdonald-islands-   |               |               |
+|                      |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 2,608 km      | 1,621 miles   |
+| fromto.net/distance- | Honduras to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-honduras-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,554 km      | 5,315 miles   |
+| fromto.net/distance- | Croatia to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-croatia-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Haiti | https://www.distanc | 3,041 km      | 1,890 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-haiti-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,652 km      | 5,376 miles   |
+| fromto.net/distance- | Hungary to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-hungary-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 14,962 km     | 9,297 miles   |
+| fromto.net/distance- | Indonesia to United | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-indonesia-   |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 6,633 km      | 4,122 miles   |
+| fromto.net/distance- | Ireland to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-ireland-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 10,860 km     | 6,748 miles   |
+| fromto.net/distance- | Israel to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-israel-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Isle  | https://www.distanc | 6,819 km      | 4,237 miles   |
+| fromto.net/distance- | of Man to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-isle-of-man- |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from India | https://www.distanc | 13,577 km     | 8,436 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-india-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 16,496 km     | 10,250 miles  |
+| fromto.net/distance- | British Indian      | efromto.net/distanc |               |               |
+| from-united-states-  | Ocean Territory to  | e-from-british-     |               |               |
+| country              | United States       | indian-ocean-       |               |               |
+|                      |                     | territory-to-       |               |               |
+|                      |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Iraq  | https://www.distanc | 11,136 km     | 6,920 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-iraq-to-     |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Iran  | https://www.distanc | 11,658 km     | 7,244 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-iran-to-     |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 5,714 km      | 3,551 miles   |
+| fromto.net/distance- | Iceland to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-iceland-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Italy | https://www.distanc | 8,619 km      | 5,356 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-italy-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,217 km      | 4,484 miles   |
+| fromto.net/distance- | Jersey to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-jersey-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 2,772 km      | 1,722 miles   |
+| fromto.net/distance- | Jamaica to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-jamaica-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 10,981 km     | 6,823 miles   |
+| fromto.net/distance- | Jordan to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-jordan-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Japan | https://www.distanc | 10,150 km     | 6,307 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-japan-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Kenya | https://www.distanc | 13,722 km     | 8,526 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-kenya-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 11,255 km     | 6,994 miles   |
+| fromto.net/distance- | Kyrgyzstan to       | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-kyrgyzstan-  |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 14,084 km     | 8,751 miles   |
+| fromto.net/distance- | Cambodia to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-cambodia-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,398 km      | 4,597 miles   |
+| fromto.net/distance- | Kiribati to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-kiribati-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 15,054 km     | 9,354 miles   |
+| fromto.net/distance- | Comoros to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-comoros-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Saint | https://www.distanc | 3,894 km      | 2,420 miles   |
+| fromto.net/distance- | Kitts and Nevis to  | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-saint-kitts- |               |               |
+| country              |                     | and-nevis-to-       |               |               |
+|                      |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from North | https://www.distanc | 10,343 km     | 6,427 miles   |
+| fromto.net/distance- | Korea to United     | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-north-korea- |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from South | https://www.distanc | 10,743 km     | 6,675 miles   |
+| fromto.net/distance- | Korea to United     | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-south-korea- |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 9,079 km      | 5,641 miles   |
+| fromto.net/distance- | Kosovo to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-kosovo-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 11,694 km     | 7,266 miles   |
+| fromto.net/distance- | Kuwait to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-kuwait-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 2,425 km      | 1,507 miles   |
+| fromto.net/distance- | Cayman Islands to   | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-cayman-      |               |               |
+| country              |                     | islands-to-united-  |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 10,396 km     | 6,460 miles   |
+| fromto.net/distance- | Kazakhstan to       | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-kazakhstan-  |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Laos  | https://www.distanc | 13,401 km     | 8,327 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-laos-to-     |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 10,669 km     | 6,629 miles   |
+| fromto.net/distance- | Lebanon to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-lebanon-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,070 km      | 5,014 miles   |
+| fromto.net/distance- | Liechtenstein to    | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-             |               |               |
+| country              |                     | liechtenstein-to-   |               |               |
+|                      |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Sri   | https://www.distanc | 15,002 km     | 9,322 miles   |
+| fromto.net/distance- | Lanka to United     | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-sri-lanka-   |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 9,248 km      | 5,746 miles   |
+| fromto.net/distance- | Liberia to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-liberia-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 14,817 km     | 9,207 miles   |
+| fromto.net/distance- | Lesotho to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-lesotho-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,266 km      | 5,136 miles   |
+| fromto.net/distance- | Lithuania to United | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-lithuania-   |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,166 km      | 5,074 miles   |
+| fromto.net/distance- | Latvia to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-latvia-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Libya | https://www.distanc | 10,078 km     | 6,262 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-libya-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,838 km      | 4,870 miles   |
+| fromto.net/distance- | Morocco to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-morocco-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,160 km      | 5,070 miles   |
+| fromto.net/distance- | Monaco to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-monaco-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 9,103 km      | 5,656 miles   |
+| fromto.net/distance- | Moldova to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-moldova-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,980 km      | 5,580 miles   |
+| fromto.net/distance- | Montenegro to       | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-montenegro-  |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Saint | https://www.distanc | 3,820 km      | 2,374 miles   |
+| fromto.net/distance- | Martin to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-saint-       |               |               |
+| country              |                     | martin-to-united-   |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 15,851 km     | 9,849 miles   |
+| fromto.net/distance- | Madagascar to       | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-madagascar-  |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 10,011 km     | 6,221 miles   |
+| fromto.net/distance- | Marshall Islands to | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-marshall-    |               |               |
+| country              |                     | islands-to-united-  |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 9,206 km      | 5,720 miles   |
+| fromto.net/distance- | Macedonia to United | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-macedonia-   |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Mali  | https://www.distanc | 8,988 km      | 5,585 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-mali-to-     |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 13,341 km     | 8,290 miles   |
+| fromto.net/distance- | Myanmar to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-myanmar-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 10,479 km     | 6,511 miles   |
+| fromto.net/distance- | Mongolia to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-mongolia-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Macao | https://www.distanc | 12,744 km     | 7,919 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-macao-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 11,367 km     | 7,063 miles   |
+| fromto.net/distance- | Northern Mariana    | efromto.net/distanc |               |               |
+| from-united-states-  | Islands to United   | e-from-northern-    |               |               |
+| country              | States              | mariana-islands-to- |               |               |
+|                      |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,173 km      | 5,078 miles   |
+| fromto.net/distance- | Mauritania to       | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-mauritania-  |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 3,987 km      | 2,477 miles   |
+| fromto.net/distance- | Montserrat to       | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-montserrat-  |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Malta | https://www.distanc | 9,163 km      | 5,694 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-malta-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 16,831 km     | 10,458 miles  |
+| fromto.net/distance- | Mauritius to United | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-mauritius-   |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 15,531 km     | 9,651 miles   |
+| fromto.net/distance- | Maldives to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-maldives-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 14,412 km     | 8,955 miles   |
+| fromto.net/distance- | Malawi to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-malawi-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 15,070 km     | 9,364 miles   |
+| fromto.net/distance- | Malaysia to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-malaysia-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 14,870 km     | 9,240 miles   |
+| fromto.net/distance- | Mozambique to       | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-mozambique-  |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 13,614 km     | 8,459 miles   |
+| fromto.net/distance- | Namibia to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-namibia-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from New   | https://www.distanc | 12,133 km     | 7,539 miles   |
+| fromto.net/distance- | Caledonia to United | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-new-         |               |               |
+| country              |                     | caledonia-to-       |               |               |
+|                      |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 12,420 km     | 7,717 miles   |
+| fromto.net/distance- | Norfolk Island to   | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-norfolk-     |               |               |
+| country              |                     | island-to-united-   |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 10,649 km     | 6,617 miles   |
+| fromto.net/distance- | Nigeria to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-nigeria-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 2,889 km      | 1,795 miles   |
+| fromto.net/distance- | Nicaragua to United | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-nicaragua-   |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,506 km      | 4,664 miles   |
+| fromto.net/distance- | Netherlands to      | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-netherlands- |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,187 km      | 4,466 miles   |
+| fromto.net/distance- | Norway to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-norway-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Nepal | https://www.distanc | 12,733 km     | 7,912 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-nepal-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Nauru | https://www.distanc | 10,695 km     | 6,646 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-nauru-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Niue  | https://www.distanc | 9,950 km      | 6,183 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-niue-to-     |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from New   | https://www.distanc | 12,550 km     | 7,798 miles   |
+| fromto.net/distance- | Zealand to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-new-zealand- |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Oman  | https://www.distanc | 12,853 km     | 7,986 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-oman-to-     |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Peru  | https://www.distanc | 5,580 km      | 3,467 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-peru-to-     |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,287 km      | 5,149 miles   |
+| fromto.net/distance- | French Polynesia to | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-french-      |               |               |
+| country              |                     | polynesia-to-       |               |               |
+|                      |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Papua | https://www.distanc | 13,101 km     | 8,141 miles   |
+| fromto.net/distance- | New Guinea to       | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-papua-new-   |               |               |
+| country              |                     | guinea-to-united-   |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 13,216 km     | 8,212 miles   |
+| fromto.net/distance- | Philippines to      | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-philippines- |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 12,354 km     | 7,676 miles   |
+| fromto.net/distance- | Pakistan to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-pakistan-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,280 km      | 5,145 miles   |
+| fromto.net/distance- | Poland to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-poland-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Saint | https://www.distanc | 3,393 km      | 2,108 miles   |
+| fromto.net/distance- | Pierre and Miquelon | efromto.net/distanc |               |               |
+| from-united-states-  | to United States    | e-from-saint-       |               |               |
+| country              |                     | pierre-and-         |               |               |
+|                      |                     | miquelon-to-united- |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,640 km      | 4,747 miles   |
+| fromto.net/distance- | Pitcairn to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-pitcairn-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 3,529 km      | 2,193 miles   |
+| fromto.net/distance- | Puerto Rico to      | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-puerto-rico- |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 10,807 km     | 6,715 miles   |
+| fromto.net/distance- | Palestinian         | efromto.net/distanc |               |               |
+| from-united-states-  | Territory to United | e-from-palestinian- |               |               |
+| country              | States              | territory-to-       |               |               |
+|                      |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,317 km      | 4,547 miles   |
+| fromto.net/distance- | Portugal to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-portugal-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Palau | https://www.distanc | 12,814 km     | 7,962 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-palau-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,781 km      | 4,835 miles   |
+| fromto.net/distance- | Paraguay to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-paraguay-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Qatar | https://www.distanc | 12,256 km     | 7,616 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-qatar-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 9,046 km      | 5,621 miles   |
+| fromto.net/distance- | Romania to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-romania-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,976 km      | 5,577 miles   |
+| fromto.net/distance- | Serbia to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-serbia-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,886 km      | 5,522 miles   |
+| fromto.net/distance- | Russia to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-russia-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 13,229 km     | 8,220 miles   |
+| fromto.net/distance- | Rwanda to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-rwanda-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Saudi | https://www.distanc | 12,089 km     | 7,512 miles   |
+| fromto.net/distance- | Arabia to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-saudi-       |               |               |
+| country              |                     | arabia-to-united-   |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 11,902 km     | 7,396 miles   |
+| fromto.net/distance- | Solomon Islands to  | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-solomon-     |               |               |
+| country              |                     | islands-to-united-  |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 15,371 km     | 9,551 miles   |
+| fromto.net/distance- | Seychelles to       | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-seychelles-  |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Sudan | https://www.distanc | 12,097 km     | 7,517 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-sudan-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from South | https://www.distanc | 12,661 km     | 7,867 miles   |
+| fromto.net/distance- | Sudan to United     | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-south-sudan- |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,667 km      | 4,764 miles   |
+| fromto.net/distance- | Sweden to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-sweden-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 15,290 km     | 9,501 miles   |
+| fromto.net/distance- | Singapore to United | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-singapore-   |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,467 km      | 5,261 miles   |
+| fromto.net/distance- | Slovenia to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-slovenia-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 6,638 km      | 4,125 miles   |
+| fromto.net/distance- | Svalbard and Jan    | efromto.net/distanc |               |               |
+| from-united-states-  | Mayen to United     | e-from-svalbard-    |               |               |
+| country              | States              | and-jan-mayen-to-   |               |               |
+|                      |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,550 km      | 5,313 miles   |
+| fromto.net/distance- | Slovakia to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-slovakia-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,905 km      | 5,533 miles   |
+| fromto.net/distance- | Sierra Leone to     | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-sierra-      |               |               |
+| country              |                     | leone-to-united-    |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,277 km      | 5,143 miles   |
+| fromto.net/distance- | Senegal to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-senegal-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 13,880 km     | 8,625 miles   |
+| fromto.net/distance- | Somalia to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-somalia-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 5,469 km      | 3,398 miles   |
+| fromto.net/distance- | Suriname to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-suriname-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Sao   | https://www.distanc | 11,085 km     | 6,888 miles   |
+| fromto.net/distance- | Tome and Principe   | efromto.net/distanc |               |               |
+| from-united-states-  | to United States    | e-from-sao-tome-    |               |               |
+| country              |                     | and-principe-to-    |               |               |
+|                      |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from El    | https://www.distanc | 2,677 km      | 1,663 miles   |
+| fromto.net/distance- | Salvador to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-el-salvador- |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Sint  | https://www.distanc | 3,823 km      | 2,376 miles   |
+| fromto.net/distance- | Maarten to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-sint-        |               |               |
+| country              |                     | maarten-to-united-  |               |               |
+|                      |                     | states              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Syria | https://www.distanc | 10,752 km     | 6,681 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-syria-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 14,953 km     | 9,291 miles   |
+| fromto.net/distance- | Swaziland to United | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-swaziland-   |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Turks | https://www.distanc | 2,866 km      | 1,781 miles   |
+| fromto.net/distance- | and Caicos Islands  | efromto.net/distanc |               |               |
+| from-united-states-  | to United States    | e-from-turks-and-   |               |               |
+| country              |                     | caicos-islands-to-  |               |               |
+|                      |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Chad  | https://www.distanc | 11,015 km     | 6,844 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-chad-to-     |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 18,204 km     | 11,311 miles  |
+| fromto.net/distance- | French Southern     | efromto.net/distanc |               |               |
+| from-united-states-  | Territories to      | e-from-french-      |               |               |
+| country              | United States       | southern-           |               |               |
+|                      |                     | territories-to-     |               |               |
+|                      |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Togo  | https://www.distanc | 10,004 km     | 6,216 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-togo-to-     |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 13,871 km     | 8,619 miles   |
+| fromto.net/distance- | Thailand to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-thailand-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 11,465 km     | 7,124 miles   |
+| fromto.net/distance- | Tajikistan to       | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-tajikistan-  |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 9,419 km      | 5,853 miles   |
+| fromto.net/distance- | Tokelau to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-tokelau-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from East  | https://www.distanc | 14,805 km     | 9,199 miles   |
+| fromto.net/distance- | Timor to United     | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-east-timor-  |               |               |
+| country              |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 11,187 km     | 6,951 miles   |
+| fromto.net/distance- | Turkmenistan to     | efromto.net/distanc |               |               |
+| from-united-states-  | United States       | e-from-             |               |               |
+| country              |                     | turkmenistan-to-    |               |               |
+|                      |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,970 km      | 5,574 miles   |
+| fromto.net/distance- | Tunisia to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-tunisia-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from Tonga | https://www.distanc | 10,531 km     | 6,544 miles   |
+| fromto.net/distance- | to United States    | efromto.net/distanc |               |               |
+| from-united-states-  |                     | e-from-tonga-to-    |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 10,182 km     | 6,327 miles   |
+| fromto.net/distance- | Turkey to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-turkey-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 4,528 km      | 2,814 miles   |
+| fromto.net/distance- | Trinidad and Tobago | efromto.net/distanc |               |               |
+| from-united-states-  | to United States    | e-from-trinidad-    |               |               |
+| country              |                     | and-tobago-to-      |               |               |
+|                      |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 10,122 km     | 6,290 miles   |
+| fromto.net/distance- | Tuvalu to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-tuvalu-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 13,972 km     | 8,682 miles   |
+| fromto.net/distance- | Tanzania to United  | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-tanzania-to- |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 9,158 km      | 5,691 miles   |
+| fromto.net/distance- | Ukraine to United   | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-ukraine-to-  |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 13,172 km     | 8,185 miles   |
+| fromto.net/distance- | Uganda to United    | efromto.net/distanc |               |               |
+| from-united-states-  | States              | e-from-uganda-to-   |               |               |
+| country              |                     | united-states       |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 9,375 km      | 5,825 miles   |
+| fromto.net/distance- | United States Minor | efromto.net/distanc |               |               |
+| from-united-states-  | Outlying Islands to | e-from-united-      |               |               |
+| country              | United States       | states-minor-       |               |               |
+|                      |                     | outlying-islands-   |               |               |
+|                      |                     | to-united-states    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,781 km      | 5,456 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Uruguay             | e-from-united-      |               |               |
+| country              |                     | states-to-uruguay   |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 11,063 km     | 6,874 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Uzbekistan          | e-from-united-      |               |               |
+| country              |                     | states-to-          |               |               |
+|                      |                     | uzbekistan          |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,610 km      | 5,350 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Vatican             | e-from-united-      |               |               |
+| country              |                     | states-to-vatican   |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 4,328 km      | 2,689 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Saint Vincent and   | e-from-united-      |               |               |
+| country              | the Grenadines      | states-to-saint-    |               |               |
+|                      |                     | vincent-and-the-    |               |               |
+|                      |                     | grenadines          |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 4,508 km      | 2,801 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Venezuela           | e-from-united-      |               |               |
+| country              |                     | states-to-venezuela |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 3,668 km      | 2,279 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | British Virgin      | e-from-united-      |               |               |
+| country              | Islands             | states-to-british-  |               |               |
+|                      |                     | virgin-islands      |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 3,654 km      | 2,270 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | U.S. Virgin Islands | e-from-united-      |               |               |
+| country              |                     | states-to-u-s-      |               |               |
+|                      |                     | virgin-islands      |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 13,798 km     | 8,574 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Vietnam             | e-from-united-      |               |               |
+| country              |                     | states-to-vietnam   |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 11,670 km     | 7,251 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Vanuatu             | e-from-united-      |               |               |
+| country              |                     | states-to-vanuatu   |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 10,305 km     | 6,403 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Wallis and Futuna   | e-from-united-      |               |               |
+| country              |                     | states-to-wallis-   |               |               |
+|                      |                     | and-futuna          |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 9,760 km      | 6,065 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Samoa               | e-from-united-      |               |               |
+| country              |                     | states-to-samoa     |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 13,066 km     | 8,119 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Yemen               | e-from-united-      |               |               |
+| country              |                     | states-to-yemen     |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 15,290 km     | 9,501 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Mayotte             | e-from-united-      |               |               |
+| country              |                     | states-to-mayotte   |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 14,399 km     | 8,947 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | South Africa        | e-from-united-      |               |               |
+| country              |                     | states-to-south-    |               |               |
+|                      |                     | africa              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 13,844 km     | 8,602 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Zambia              | e-from-united-      |               |               |
+| country              |                     | states-to-zambia    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 14,330 km     | 8,904 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Zimbabwe            | e-from-united-      |               |               |
+| country              |                     | states-to-zimbabwe  |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 3,890 km      | 2,417 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Netherlands         | e-from-united-      |               |               |
+| country              | Antilles            | states-to-          |               |               |
+|                      |                     | netherlands-        |               |               |
+|                      |                     | antilles            |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 2,323 km      | 1,443 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Belize              | e-from-united-      |               |               |
+| country              |                     | states-to-belize    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 13,048 km     | 8,108 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Djibouti            | e-from-united-      |               |               |
+| country              |                     | states-to-djibouti  |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 10,260 km     | 6,375 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Georgia             | e-from-united-      |               |               |
+| country              |                     | states-to-georgia   |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 4,073 km      | 2,531 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Guadeloupe          | e-from-united-      |               |               |
+| country              |                     | states-to-          |               |               |
+|                      |                     | guadeloupe          |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 2,430 km      | 1,510 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Guatemala           | e-from-united-      |               |               |
+| country              |                     | states-to-guatemala |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 4,294 km      | 2,668 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Saint Lucia         | e-from-united-      |               |               |
+| country              |                     | states-to-saint-    |               |               |
+|                      |                     | lucia               |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 7,695 km      | 4,781 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Luxembourg          | e-from-united-      |               |               |
+| country              |                     | states-to-          |               |               |
+|                      |                     | luxembourg          |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 4,235 km      | 2,632 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Martinique          | e-from-united-      |               |               |
+| country              |                     | states-to-          |               |               |
+|                      |                     | martinique          |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 1,633 km      | 1,015 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Mexico              | e-from-united-      |               |               |
+| country              |                     | states-to-mexico    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 10,000 km     | 6,214 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Niger               | e-from-united-      |               |               |
+| country              |                     | states-to-niger     |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 3,513 km      | 2,183 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Panama              | e-from-united-      |               |               |
+| country              |                     | states-to-panama    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 16,726 km     | 10,393 miles  |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Reunion             | e-from-united-      |               |               |
+| country              |                     | states-to-reunion   |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 11,069 km     | 6,878 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Saint Helena        | e-from-united-      |               |               |
+| country              |                     | states-to-saint-    |               |               |
+|                      |                     | helena              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 8,468 km      | 5,262 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | San Marino          | e-from-united-      |               |               |
+| country              |                     | states-to-san-      |               |               |
+|                      |                     | marino              |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+
+| https://www.distance | Distance from       | https://www.distanc | 12,241 km     | 7,606 miles   |
+| fromto.net/distance- | United States to    | efromto.net/distanc |               |               |
+| from-united-states-  | Taiwan              | e-from-united-      |               |               |
+| country              |                     | states-to-taiwan    |               |               |
++----------------------+---------------------+---------------------+---------------+---------------+

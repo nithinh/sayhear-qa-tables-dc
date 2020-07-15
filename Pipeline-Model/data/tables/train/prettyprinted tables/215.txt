@@ -1,0 +1,30 @@
++--------------------------------------------+----------------+------------------------------------+
+| url                                        | Property       | Value                              |
++--------------------------------------------+----------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Electronic_E | Genre          | Video games                        |
+| ntertainment_Expo_2018                     |                |                                    |
++--------------------------------------------+----------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Electronic_E | Begins         | June 12, 2018                      |
+| ntertainment_Expo_2018                     |                |                                    |
++--------------------------------------------+----------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Electronic_E | Ends           | June 14, 2018                      |
+| ntertainment_Expo_2018                     |                |                                    |
++--------------------------------------------+----------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Electronic_E | Venue          | Los Angeles Convention Center      |
+| ntertainment_Expo_2018                     |                |                                    |
++--------------------------------------------+----------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Electronic_E | Location(s)    | Los Angeles, California            |
+| ntertainment_Expo_2018                     |                |                                    |
++--------------------------------------------+----------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Electronic_E | Country        | United States                      |
+| ntertainment_Expo_2018                     |                |                                    |
++--------------------------------------------+----------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Electronic_E | Previous event | Electronic Entertainment Expo 2017 |
+| ntertainment_Expo_2018                     |                |                                    |
++--------------------------------------------+----------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Electronic_E | Organized by   | Entertainment Software Association |
+| ntertainment_Expo_2018                     |                |                                    |
++--------------------------------------------+----------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Electronic_E | Filing status  | Non-profit                         |
+| ntertainment_Expo_2018                     |                |                                    |
++--------------------------------------------+----------------+------------------------------------+

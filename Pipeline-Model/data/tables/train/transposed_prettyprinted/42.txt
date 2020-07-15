@@ -1,0 +1,43 @@
++------+------+------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+| Dire | Prod | Scre | Bas | Sta | Mus | Cin | Edi | Pro | Dis | Rel | Run | Cou | Lan | Bud | Box |
+| cted | uced | enpl | ed  | rri | ic  | ema | ted | duc | tri | eas | nin | ntr | gua | get | off |
+| by   | by   | ay   | on  | ng  | by  | tog | by  | tio | but | e d | g t | y   | ge  |     | ice |
+|      |      | by   |     |     |     | rap |     | n   | ed  | ate | ime |     |     |     |     |
+|      |      |      |     |     |     | hy  |     |  co | by  |     |     |     |     |     |     |
+|      |      |      |     |     |     |     |     | mpa |     |     |     |     |     |     |     |
+|      |      |      |     |     |     |     |     | ny  |     |     |     |     |     |     |     |
++------+------+------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+| Sam  | Laur | Davi | Spi | Tob | Dan | Don | Bob | Mar | Col | Apr | 121 | Uni | Eng | $13 | $82 |
+| Raim | a Zi | d Ko | der | ey  | ny  | Bur | Mur | vel | umb | il  | min | ted | lis | 9 m | 1.7 |
+| i    | skin | epp  | -   | Mag | Elf | ges | aws | Ent | ia  | 29, | ute | Sta | h   | ill | mil |
+|      |      |      | Man | uir | man | s   | ki  | erp | Pic | 200 | s[1 | tes |     | ion | lio |
+|      | Ian  |      |  by | e   |     |     |     | ris | tur | 2 ( | ]   |     |     | [2] | n[2 |
+|      | Bryc |      |     |     |     |     | Art | es  | es  | 200 |     |     |     |     | ]   |
+|      | e    |      |     | Wil |     |     | hur |     |     | 2-0 |     |     |     |     |     |
+|      |      |      | Sta | lem |     |     | Cob | Lau |     | 4-2 |     |     |     |     |     |
+|      |      |      | n   | Daf |     |     | urn | ra  |     | 9)  |     |     |     |     |     |
+|      |      |      | Lee | oe  |     |     |     | Zis |     | (Ma |     |     |     |     |     |
+|      |      |      |     |     |     |     |     | kin |     | nn  |     |     |     |     |     |
+|      |      |      | Ste | Kir |     |     |     | Pro |     | Vil |     |     |     |     |     |
+|      |      |      | ve  | ste |     |     |     | duc |     | lag |     |     |     |     |     |
+|      |      |      | Dit | n D |     |     |     | tio |     | e T |     |     |     |     |     |
+|      |      |      | ko  | uns |     |     |     | ns  |     | hea |     |     |     |     |     |
+|      |      |      |     | t   |     |     |     |     |     | ter |     |     |     |     |     |
+|      |      |      |     |     |     |     |     |     |     | )   |     |     |     |     |     |
+|      |      |      |     | Jam |     |     |     |     |     |     |     |     |     |     |     |
+|      |      |      |     | es  |     |     |     |     |     | May |     |     |     |     |     |
+|      |      |      |     | Fra |     |     |     |     |     | 3,  |     |     |     |     |     |
+|      |      |      |     | nco |     |     |     |     |     | 200 |     |     |     |     |     |
+|      |      |      |     |     |     |     |     |     |     | 2 ( |     |     |     |     |     |
+|      |      |      |     | Cli |     |     |     |     |     | 200 |     |     |     |     |     |
+|      |      |      |     | ff  |     |     |     |     |     | 2-0 |     |     |     |     |     |
+|      |      |      |     | Rob |     |     |     |     |     | 5-0 |     |     |     |     |     |
+|      |      |      |     | ert |     |     |     |     |     | 3)  |     |     |     |     |     |
+|      |      |      |     | son |     |     |     |     |     | (Un |     |     |     |     |     |
+|      |      |      |     |     |     |     |     |     |     | ite |     |     |     |     |     |
+|      |      |      |     | Ros |     |     |     |     |     | d S |     |     |     |     |     |
+|      |      |      |     | ema |     |     |     |     |     | tat |     |     |     |     |     |
+|      |      |      |     | ry  |     |     |     |     |     | es) |     |     |     |     |     |
+|      |      |      |     | Har |     |     |     |     |     |     |     |     |     |     |     |
+|      |      |      |     | ris |     |     |     |     |     |     |     |     |     |     |     |
++------+------+------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+

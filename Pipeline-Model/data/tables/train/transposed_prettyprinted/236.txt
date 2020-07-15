@@ -1,0 +1,34 @@
++--------------------------+--------------------------+-------------------------+------------------+
+| What is NAIRU?           | History of NAIRU         | Different concepts of   | RELATED CONCEPTS |
+|                          |                          | NAIRU                   |                  |
++--------------------------+--------------------------+-------------------------+------------------+
+| Non-Accelerating         | During the severe        | The simplest            | Phillips Curve   |
+| Inflation Rate of        | recession of 1974-75     | theoretical framework   |                  |
+| Unemployment (NAIRU) is  | both the inflation rate  | incorporating the NAIRU |                  |
+| the unemployment rate    | and the unemployment     | concept in a            |                  |
+| consistent with          | rate reached some of the | transparent fashion is  |                  |
+| maintaining stable       | highest levels in        | the expectations-       |                  |
+| inflation. According to  | postwar U.S. history.    | augmented Phillips      |                  |
+| the standard             | This experience shook    | curve, which is also    |                  |
+| macroeconomic theory,    | public faith in          | consistent with a       |                  |
+| inflation will tend to   | Keynesianism and played  | variety of alternative  |                  |
+| rise if the unemployment | a key role in shaping    | structural models. The  |                  |
+| rate falls below the     | the subsequent debate    | Phillips curve also has |                  |
+| natural rate.            | about inflation. The     | a long empirical        |                  |
+| Conversely, when the     | warnings of Milton       | tradition of being used |                  |
+| unemployment rate rises  | Friedman and other       | as a means of           |                  |
+| above the natural rate,  | monetarists that         | estimating NAIRU        |                  |
+| inflation tends to fall. | attempts to “ride the    | indicators. Refinements |                  |
+| Thus, the natural rate   | Phillips curve” might    | of the empirical        |                  |
+| and the NAIRU are often  | lead to accelerating     | specification led       |                  |
+| viewed as two names for  | inflation began to be    | Gordon (1997) to        |                  |
+| the same thing,          | heeded by more and more  | summarize it in terms   |                  |
+| providing an important   | people, both inside and  | of the so-called        |                  |
+| benchmark for gauging    | outside the ranks of     | “triangle model” with   |                  |
+| the state of the         | professional economists. | inflation being         |                  |
+| business cycle, the      | The credibility of the   | determined by three     |                  |
+| outlook for future       | monetarist alternative   | factors: built-in       |                  |
+| inflation, and the       | to Keynesian theory was  | inflation, demand-pull  |                  |
+| appropriate stance of    | greatly strengthened.    | inflation, and cost-    |                  |
+| monetary policy.         |                          | push inflation.         |                  |
++--------------------------+--------------------------+-------------------------+------------------+

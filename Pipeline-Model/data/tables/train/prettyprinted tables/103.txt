@@ -1,0 +1,35 @@
++--------------------------------------+--------------------+--------------------------------------+
+| url                                  | Personalattributes | value                                |
++--------------------------------------+--------------------+--------------------------------------+
+| https://en.wikipedia.org/wiki/Whoopi | Birth name         | Caryn Elaine Johnson                 |
+| _Goldberg                            |                    |                                      |
++--------------------------------------+--------------------+--------------------------------------+
+| https://en.wikipedia.org/wiki/Whoopi | Born               | (1955-11-13) November 13, 1955 (age  |
+| _Goldberg                            |                    | 62)                                  |
+|                                      |                    |  Manhattan, New York, U.S.           |
++--------------------------------------+--------------------+--------------------------------------+
+| https://en.wikipedia.org/wiki/Whoopi | Medium             | Stand-up, film, television, theatre, |
+| _Goldberg                            |                    | books                                |
++--------------------------------------+--------------------+--------------------------------------+
+| https://en.wikipedia.org/wiki/Whoopi | Years active       | 1982–present                         |
+| _Goldberg                            |                    |                                      |
++--------------------------------------+--------------------+--------------------------------------+
+| https://en.wikipedia.org/wiki/Whoopi | Genres             | Observational comedy, black comedy,  |
+| _Goldberg                            |                    | insult comedy, surreal humor,        |
+|                                      |                    | character comedy, satire             |
++--------------------------------------+--------------------+--------------------------------------+
+| https://en.wikipedia.org/wiki/Whoopi | Subject(s)         | African-American culture, American   |
+| _Goldberg                            |                    | politics, race relations, racism,    |
+|                                      |                    | marriage, sex, everyday life, pop    |
+|                                      |                    | culture, current events              |
++--------------------------------------+--------------------+--------------------------------------+
+| https://en.wikipedia.org/wiki/Whoopi | Spouse             | Alvin Martin                         |
+| _Goldberg                            |                    |  (m. 1973; div. 1979)                |
+|                                      |                    |  David Claessen                      |
+|                                      |                    |  (m. 1986; div. 1988)                |
+|                                      |                    |  Lyle Trachtenberg                   |
+|                                      |                    |  (m. 1994; div. 1995)                |
++--------------------------------------+--------------------+--------------------------------------+
+| https://en.wikipedia.org/wiki/Whoopi | Children           | Alexandrea Martin                    |
+| _Goldberg                            |                    |                                      |
++--------------------------------------+--------------------+--------------------------------------+

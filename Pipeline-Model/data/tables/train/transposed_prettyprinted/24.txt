@@ -1,0 +1,45 @@
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| issue sub  | 52 week    | dividend   | p/e ratio | exchange  | 52 week   | annual    | shares ou |
+| type       | high   "52 | yield      | "p/e      | "exchange | low   "52 | dividend  | tstanding |
+|            | week high" | "dividend  | ratio" is | " is a ma | week low" |           |           |
+|            | is the     | yield" is  | the       | rketplace | is the    |           |           |
+|            | highest    | the        | current   | in which  | lowest    |           |           |
+|            | sales      | indicated  | stock     | shares,   | sales     |           |           |
+|            | price the  | yield      | price     | options   | price the |           |           |
+|            | stock has  | represents | divided   | and       | stock has |           |           |
+|            | achieved   | annual     | by        | futures   | fallen to |           |           |
+|            | during the | dividends  | trailing  | on        | during    |           |           |
+|            | regular    | divided by | annual    | stocks,   | the       |           |           |
+|            | trading    | current    | earnings  | bonds, co | regular   |           |           |
+|            | hours      | stock      | per share | mmodities | trading   |           |           |
+|            | during the | price.     | or        | , and     | hours     |           |           |
+|            | most       |            | expected  | indexes   | during    |           |           |
+|            | recent 52  |            | annual    | are       | the most  |           |           |
+|            | week       |            | earnings  | traded.   | recent 52 |           |           |
+|            | period.    |            | per       | principal | week      |           |           |
+|            |            |            | share.    | u.s.      | period.   |           |           |
+|            |            |            |           | stock     |           |           |           |
+|            |            |            |           | exchanges |           |           |           |
+|            |            |            |           | are: new  |           |           |           |
+|            |            |            |           | york      |           |           |           |
+|            |            |            |           | stock     |           |           |           |
+|            |            |            |           | exchange  |           |           |           |
+|            |            |            |           | (nyse),   |           |           |           |
+|            |            |            |           | american  |           |           |           |
+|            |            |            |           | stock     |           |           |           |
+|            |            |            |           | exchange  |           |           |           |
+|            |            |            |           | (amex),   |           |           |           |
+|            |            |            |           | and       |           |           |           |
+|            |            |            |           | national  |           |           |           |
+|            |            |            |           | associati |           |           |           |
+|            |            |            |           | on of sec |           |           |           |
+|            |            |            |           | urities   |           |           |           |
+|            |            |            |           | dealers   |           |           |           |
+|            |            |            |           | automatic |           |           |           |
+|            |            |            |           | quotation |           |           |           |
+|            |            |            |           | system    |           |           |           |
+|            |            |            |           | (nasdaq). |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| common     | 183.500    | 1.51 %     | 17.470    | nasdaq-gs | 140.060   | $ 2.52    | 5,074,013 |
+| stock      |            |            |           |           |           |           | ,000      |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+

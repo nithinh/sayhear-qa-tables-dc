@@ -1,0 +1,51 @@
++-------------------------------------------------------+-----------+----------+---------+---------+
+| url                                                   | Age       | Smallest | Largest | Average |
++-------------------------------------------------------+-----------+----------+---------+---------+
+| https://pethelpful.com/dogs/-Golden-Retriever-Growth- | 7 weeks   | 5 lb     | 17 lb   | 9 lb    |
+| Sequence-in-the-1st-Year                              |           |          |         |         |
++-------------------------------------------------------+-----------+----------+---------+---------+
+| https://pethelpful.com/dogs/-Golden-Retriever-Growth- | 8 weeks   | 5 lb     | 17 lb   | 10 lb   |
+| Sequence-in-the-1st-Year                              |           |          |         |         |
++-------------------------------------------------------+-----------+----------+---------+---------+
+| https://pethelpful.com/dogs/-Golden-Retriever-Growth- | 9 weeks   | 8 lb     | 17 lb   | 12 lb   |
+| Sequence-in-the-1st-Year                              |           |          |         |         |
++-------------------------------------------------------+-----------+----------+---------+---------+
+| https://pethelpful.com/dogs/-Golden-Retriever-Growth- | 10 weeks  | 13 lb    | 22 lb   | 15 lb   |
+| Sequence-in-the-1st-Year                              |           |          |         |         |
++-------------------------------------------------------+-----------+----------+---------+---------+
+| https://pethelpful.com/dogs/-Golden-Retriever-Growth- | 11 weeks  | 12 lb    | 22 lb   | 17 lb   |
+| Sequence-in-the-1st-Year                              |           |          |         |         |
++-------------------------------------------------------+-----------+----------+---------+---------+
+| https://pethelpful.com/dogs/-Golden-Retriever-Growth- | 3 months  | 16 lb    | 43 lb   | 22 lb   |
+| Sequence-in-the-1st-Year                              |           |          |         |         |
++-------------------------------------------------------+-----------+----------+---------+---------+
+| https://pethelpful.com/dogs/-Golden-Retriever-Growth- | 4 months  | 25 lb    | 44 lb   | 30 lb   |
+| Sequence-in-the-1st-Year                              |           |          |         |         |
++-------------------------------------------------------+-----------+----------+---------+---------+
+| https://pethelpful.com/dogs/-Golden-Retriever-Growth- | 5 months  | 25 lb    | 57 lb   | 40 lb   |
+| Sequence-in-the-1st-Year                              |           |          |         |         |
++-------------------------------------------------------+-----------+----------+---------+---------+
+| https://pethelpful.com/dogs/-Golden-Retriever-Growth- | 6 months  | 27 lb    | 72 lb   | 44 lb   |
+| Sequence-in-the-1st-Year                              |           |          |         |         |
++-------------------------------------------------------+-----------+----------+---------+---------+
+| https://pethelpful.com/dogs/-Golden-Retriever-Growth- | 7 months  | 27 lb    | 67 lb   | 45 lb   |
+| Sequence-in-the-1st-Year                              |           |          |         |         |
++-------------------------------------------------------+-----------+----------+---------+---------+
+| https://pethelpful.com/dogs/-Golden-Retriever-Growth- | 8 months  | 40 lb    | 67 lb   | 52 lb   |
+| Sequence-in-the-1st-Year                              |           |          |         |         |
++-------------------------------------------------------+-----------+----------+---------+---------+
+| https://pethelpful.com/dogs/-Golden-Retriever-Growth- | 9 months  | 44 lb    | 68 lb   | 52 lb   |
+| Sequence-in-the-1st-Year                              |           |          |         |         |
++-------------------------------------------------------+-----------+----------+---------+---------+
+| https://pethelpful.com/dogs/-Golden-Retriever-Growth- | 10 months | 50 lb    | 68 lb   | 60 lb   |
+| Sequence-in-the-1st-Year                              |           |          |         |         |
++-------------------------------------------------------+-----------+----------+---------+---------+
+| https://pethelpful.com/dogs/-Golden-Retriever-Growth- | 11 months | 52 lb    | 80 lb   | 65 lb   |
+| Sequence-in-the-1st-Year                              |           |          |         |         |
++-------------------------------------------------------+-----------+----------+---------+---------+
+| https://pethelpful.com/dogs/-Golden-Retriever-Growth- | 1 year    | 55 lb    | 90 lb   | 70 lb   |
+| Sequence-in-the-1st-Year                              |           |          |         |         |
++-------------------------------------------------------+-----------+----------+---------+---------+
+| https://pethelpful.com/dogs/-Golden-Retriever-Growth- | 2 years   | 55 lb    | 90 lb   | 70 lb   |
+| Sequence-in-the-1st-Year                              |           |          |         |         |
++-------------------------------------------------------+-----------+----------+---------+---------+

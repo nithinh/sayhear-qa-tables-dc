@@ -1,0 +1,52 @@
++-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+----+----+----+
+| bor | die | cau | res | edu | occ | spo | chi | par | rel | gen | ins | yea | lab | as | we | si |
+| n   | d   | se  | tin | cat | upa | use | ldr | ent | ati | res | tru | rs  | els | so | bs | gn |
+|     |     | of  | g p | ion | tio | (s) | en  | (s) | ves |     | men | act |     | ci | it | at |
+|     |     | dea | lac |     | n   |     |     |     |     |     | ts  | ive |     | at | e  | ur |
+|     |     | th  | e   |     |     |     |     |     |     |     |     |     |     | ed |    | e  |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     | ac |    |    |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     | ts |    |    |
++-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+----+----+----+
+| whi | feb | dro | fai | mou |  si | bob | bob | joh | gar | r&b |  vo | 197 |  ar |  j | wh |    |
+| tne | rua | wni | rvi | nt  | nge | by  | bi  | n r | y g | pop | cal | 7–2 | ist | er | it |    |
+| y e | ry  | ng  | ew  | sai | r   | bro | kri | uss | arl | sou | s   | 012 | a   | ma | ne |    |
+| liz | 11, | due | cem | nt  | act | wn  | sti | ell | and | l   | pia |     | rca | in | yh |    |
+| abe | 201 | to  | ete | dom | res | (   | na  | hou | (ha | gos | no  |     |     | e  | ou |    |
+| th  | 2 ( | car | ry  | ini | s   | m.  | bro | sto | lf- | pel |     |     |     | ja | st |    |
+| hou | 201 | dio | wes | c a | fil | 199 | wn  | n,  | bro |     |     |     |     | ck | on |    |
+| sto | 2-0 | vas | tfi | cad | m p | 2;  |     | jr. | the |     |     |     |     | so | .c |    |
+| n   | 2-1 | cul | eld | emy | rod | div |     | cis | r)  |     |     |     |     | n  | om |    |
+| ( 1 | 1)  | ar  | ,   |     | uce | . 2 |     | sy  |     |     |     |     |     | ar |    |    |
+| 963 | (ag | dis | new |     | r   | 007 |     | hou |     |     |     |     |     | et |    |    |
+| -08 | ed  | eas | jer |     | rec | )   |     | sto |     |     |     |     |     | ha |    |    |
+| -09 | 48) | e   | sey |     | ord |     |     | n   |     |     |     |     |     | fr |    |    |
+| ) a | bev | and | , u |     | pro |     |     |     |     |     |     |     |     | an |    |    |
+| ugu | erl | coc | .s. |     | duc |     |     |     |     |     |     |     |     | kl |    |    |
+| st  | y h | ain |     |     | er  |     |     |     |     |     |     |     |     | in |    |    |
+| 9,  | ill | e   |     |     | mod |     |     |     |     |     |     |     |     | ma |    |    |
+| 196 | s,  | int |     |     | el  |     |     |     |     |     |     |     |     | ri |    |    |
+| 3   | cal | oxi |     |     |     |     |     |     |     |     |     |     |     | ah |    |    |
+| new | ifo | cat |     |     |     |     |     |     |     |     |     |     |     | ca |    |    |
+| ark | rni | ion |     |     |     |     |     |     |     |     |     |     |     | re |    |    |
+| ,   | a , |     |     |     |     |     |     |     |     |     |     |     |     | y  |    |    |
+| new | u.s |     |     |     |     |     |     |     |     |     |     |     |     | ge |    |    |
+| jer | .   |     |     |     |     |     |     |     |     |     |     |     |     | or |    |    |
+| sey |     |     |     |     |     |     |     |     |     |     |     |     |     | ge |    |    |
+| , u |     |     |     |     |     |     |     |     |     |     |     |     |     | mi |    |    |
+| .s. |     |     |     |     |     |     |     |     |     |     |     |     |     | ch |    |    |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     | ae |    |    |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     | l  |    |    |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     | br |    |    |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     | an |    |    |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     | dy |    |    |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     | no |    |    |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     | rw |    |    |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     | oo |    |    |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     | d  |    |    |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     | bo |    |    |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     | bb |    |    |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     | y  |    |    |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     | br |    |    |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     | ow |    |    |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |     | n  |    |    |
++-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+----+----+----+

@@ -1,0 +1,77 @@
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| url        | keys       | keyboards  | short_exp | short_exp | descripti | price     | price_lin |
+|            |            |            | lanation  | lanation_ | on        |           | k         |
+|            |            |            |           | link      |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://th | Our pick   | Microsoft  | Affordabl | https://w | An inexpe | $58       | https://w |
+| ewirecutte |            | Sculpt     | e and com | clink.co/ | nsive     |           | clink.co/ |
+| r.com/revi |            | Ergonomic  | fortable  | link/350/ | ergonomic |           | link/350/ |
+| ews/comfor |            | Keyboard   |           | 939/4/366 | keyboard  |           | 939/4/366 |
+| table-     |            |            |           | 37        | that puts |           | 37        |
+| ergo-      |            |            |           |           | your      |           |           |
+| keyboard/  |            |            |           |           | wrists in |           |           |
+|            |            |            |           |           | the ideal |           |           |
+|            |            |            |           |           | typing    |           |           |
+|            |            |            |           |           | position  |           |           |
+|            |            |            |           |           | for       |           |           |
+|            |            |            |           |           | pleasant  |           |           |
+|            |            |            |           |           | typing    |           |           |
+|            |            |            |           |           | over long |           |           |
+|            |            |            |           |           | periods.  |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://th | Upgrade    | Matias     | A mechani | https://w | A fully   | $195      | https://w |
+| ewirecutte | pick       | Ergo Pro   | cal step  | clink.co/ | split mec |           | clink.co/ |
+| r.com/revi |            |            | up        | link/7419 | hanical   |           | link/7419 |
+| ews/comfor |            |            |           | /105524/4 | keyboard  |           | /105524/4 |
+| table-     |            |            |           | /36638    | that can  |           | /36638    |
+| ergo-      |            |            |           |           | accommoda |           |           |
+| keyboard/  |            |            |           |           | te a wide |           |           |
+|            |            |            |           |           | range of  |           |           |
+|            |            |            |           |           | body      |           |           |
+|            |            |            |           |           | types and |           |           |
+|            |            |            |           |           | ergonomic |           |           |
+|            |            |            |           |           | needs; it |           |           |
+|            |            |            |           |           | has both  |           |           |
+|            |            |            |           |           | Mac and   |           |           |
+|            |            |            |           |           | PC layout |           |           |
+|            |            |            |           |           | options.  |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://th | Also great | Kinesis    | Bluetooth | https://w | A         | $100;     | https://w |
+| ewirecutte |            | Freestyle2 | for Mac;  | clink.co/ | wireless, | $100      | clink.co/ |
+| r.com/revi |            | Blue       | Bluetooth | link/1428 | split     |           | link/1428 |
+| ews/comfor |            | (Mac);     | for       | 2/48461/4 | keyboard  |           | 2/48461/4 |
+| table-     |            | Kinesis    | Windows   | /36639; h | that      |           | /36639; h |
+| ergo-      |            | Freestyle2 |           | ttps://wc | works     |           | ttps://wc |
+| keyboard/  |            | Blue (PC)  |           | link.co/l | with both |           | link.co/l |
+|            |            |            |           | ink/14279 | macOS and |           | ink/14279 |
+|            |            |            |           | /48464/4/ | iOS and   |           | /48464/4/ |
+|            |            |            |           | 36640     | won't     |           | 36640     |
+|            |            |            |           |           | leave     |           |           |
+|            |            |            |           |           | your      |           |           |
+|            |            |            |           |           | shoulders |           |           |
+|            |            |            |           |           | sore.; A  |           |           |
+|            |            |            |           |           | wireless, |           |           |
+|            |            |            |           |           | split     |           |           |
+|            |            |            |           |           | keyboard  |           |           |
+|            |            |            |           |           | that      |           |           |
+|            |            |            |           |           | works     |           |           |
+|            |            |            |           |           | with      |           |           |
+|            |            |            |           |           | Windows,  |           |           |
+|            |            |            |           |           | Android,  |           |           |
+|            |            |            |           |           | and Linux |           |           |
+|            |            |            |           |           | and won't |           |           |
+|            |            |            |           |           | leave     |           |           |
+|            |            |            |           |           | your      |           |           |
+|            |            |            |           |           | shoulders |           |           |
+|            |            |            |           |           | sore.     |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://th | Also great | Kinesis    | Must-have | https://w | A must-   | $36       | https://w |
+| ewirecutte |            | Freestyle2 | for the F | clink.co/ | have      |           | clink.co/ |
+| r.com/revi |            | VIP3       | reestyle2 | link/2914 | accessory |           | link/2914 |
+| ews/comfor |            | Accessory  | Blue      | /7931/4/3 | for       |           | /7931/4/3 |
+| table-     |            |            |           | 6641      | maximum e |           | 6641      |
+| ergo-      |            |            |           |           | rgonomics |           |           |
+| keyboard/  |            |            |           |           | with the  |           |           |
+|            |            |            |           |           | Freestyle |           |           |
+|            |            |            |           |           | 2.        |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+

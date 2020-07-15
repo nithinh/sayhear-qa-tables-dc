@@ -1,0 +1,444 @@
++---------+------+---------+---------+-------+--------+--------+--------+--------+--------+--------+
+| url     | Rank | Name    | Review_ | Price | Catego | Neighb | Addres | Addres | Phone_ | Snippe |
+|         |      |         | Count   |       | ry_Lis | orhood | s_1    | s_2    | Number | t      |
+|         |      |         |         |       | t_Text |        |        |        |        |        |
++---------+------+---------+---------+-------+--------+--------+--------+--------+--------+--------+
+| https:/ | Ad   | Tucanos | 313     | $$    | Buffet | St Cha | 1520 S | St. Ch | (636)  | I was  |
+| /www.ye |      | Brazili | reviews |       | s, Bra | rles   | 5th St | arles, | 724-44 | very h |
+| lp.com/ |      | an      |         |       | zilian |        |        | MO     | 99     | esitan |
+| search? |      | Grill   |         |       |        |        |        | 63303  |        | t to   |
+| find_de |      |         |         |       |        |        |        |        |        | go     |
+| sc=Vega |      |         |         |       |        |        |        |        |        | here   |
+| n+Resta |      |         |         |       |        |        |        |        |        | so     |
+| urants& |      |         |         |       |        |        |        |        |        | soon   |
+| find_lo |      |         |         |       |        |        |        |        |        | after  |
+| c=St+Ch |      |         |         |       |        |        |        |        |        | they   |
+| arles%2 |      |         |         |       |        |        |        |        |        | opened |
+| C+Saint |      |         |         |       |        |        |        |        |        | after  |
+| +Louis% |      |         |         |       |        |        |        |        |        | readin |
+| 2C+MO   |      |         |         |       |        |        |        |        |        | g all  |
+|         |      |         |         |       |        |        |        |        |        | the re |
+|         |      |         |         |       |        |        |        |        |        | views  |
+|         |      |         |         |       |        |        |        |        |        | but de |
+|         |      |         |         |       |        |        |        |        |        | cided  |
+|         |      |         |         |       |        |        |        |        |        | to     |
+|         |      |         |         |       |        |        |        |        |        | take a |
+|         |      |         |         |       |        |        |        |        |        | chance |
+|         |      |         |         |       |        |        |        |        |        | last F |
+|         |      |         |         |       |        |        |        |        |        | riday. |
+|         |      |         |         |       |        |        |        |        |        | We did |
+|         |      |         |         |       |        |        |        |        |        | not    |
+|         |      |         |         |       |        |        |        |        |        | have r |
+|         |      |         |         |       |        |        |        |        |        | eserva |
+|         |      |         |         |       |        |        |        |        |        | tions  |
+|         |      |         |         |       |        |        |        |        |        | and    |
+|         |      |         |         |       |        |        |        |        |        | were   |
+|         |      |         |         |       |        |        |        |        |        | told   |
+|         |      |         |         |       |        |        |        |        |        | it     |
+|         |      |         |         |       |        |        |        |        |        | would… |
+|         |      |         |         |       |        |        |        |        |        | read   |
+|         |      |         |         |       |        |        |        |        |        | more   |
++---------+------+---------+---------+-------+--------+--------+--------+--------+--------+--------+
+| https:/ | Ad   | Lion’s  | 11      | $     | Sandwi | St Cha | 3140   | St. Ch | (636)  | This   |
+| /www.ye |      | Choice  | reviews |       | ches,  | rles   | Elm    | arles, | 947-76 | place  |
+| lp.com/ |      |         |         |       | Fast   |        | Point  | MO     | 38     | puts   |
+| search? |      |         |         |       | Food,  |        | Indust | 63301  |        | Arby's |
+| find_de |      |         |         |       | Americ |        | rial   |        |        | to     |
+| sc=Vega |      |         |         |       | an (Tr |        | Dr     |        |        | shame. |
+| n+Resta |      |         |         |       | aditio |        |        |        |        | DELICI |
+| urants& |      |         |         |       | nal)   |        |        |        |        | OUS    |
+| find_lo |      |         |         |       |        |        |        |        |        | roast  |
+| c=St+Ch |      |         |         |       |        |        |        |        |        | beef,  |
+| arles%2 |      |         |         |       |        |        |        |        |        | that a |
+| C+Saint |      |         |         |       |        |        |        |        |        | ctuall |
+| +Louis% |      |         |         |       |        |        |        |        |        | y      |
+| 2C+MO   |      |         |         |       |        |        |        |        |        | looks  |
+|         |      |         |         |       |        |        |        |        |        | and    |
+|         |      |         |         |       |        |        |        |        |        | tastes |
+|         |      |         |         |       |        |        |        |        |        | like   |
+|         |      |         |         |       |        |        |        |        |        | roast  |
+|         |      |         |         |       |        |        |        |        |        | beef.  |
+|         |      |         |         |       |        |        |        |        |        | The    |
+|         |      |         |         |       |        |        |        |        |        | fries  |
+|         |      |         |         |       |        |        |        |        |        | were d |
+|         |      |         |         |       |        |        |        |        |        | ecent, |
+|         |      |         |         |       |        |        |        |        |        | midpac |
+|         |      |         |         |       |        |        |        |        |        | k at   |
+|         |      |         |         |       |        |        |        |        |        | best.  |
+|         |      |         |         |       |        |        |        |        |        | I was  |
+|         |      |         |         |       |        |        |        |        |        | actual |
+|         |      |         |         |       |        |        |        |        |        | ly     |
+|         |      |         |         |       |        |        |        |        |        | very d |
+|         |      |         |         |       |        |        |        |        |        | isappo |
+|         |      |         |         |       |        |        |        |        |        | inted  |
+|         |      |         |         |       |        |        |        |        |        | with…  |
+|         |      |         |         |       |        |        |        |        |        | read   |
+|         |      |         |         |       |        |        |        |        |        | more   |
++---------+------+---------+---------+-------+--------+--------+--------+--------+--------+--------+
+| https:/ | 1    | Bike    | 139     | $     | Vegeta | St Cha | 701 S  | St Cha | (636)  | Love   |
+| /www.ye |      | Stop    | reviews |       | rian,  | rles   | Rivers | rles,  | 724-99 | this   |
+| lp.com/ |      | Cafe    |         |       | Breakf |        | ide Dr | MO     | 00     | place! |
+| search? |      |         |         |       | ast &  |        |        | 63301  |        | My dau |
+| find_de |      |         |         |       | Brunch |        |        |        |        | ghter  |
+| sc=Vega |      |         |         |       | ,      |        |        |        |        | has an |
+| n+Resta |      |         |         |       | Vegan  |        |        |        |        | egg al |
+| urants& |      |         |         |       |        |        |        |        |        | lergy  |
+| find_lo |      |         |         |       |        |        |        |        |        | and we |
+| c=St+Ch |      |         |         |       |        |        |        |        |        | love g |
+| arles%2 |      |         |         |       |        |        |        |        |        | etting |
+| C+Saint |      |         |         |       |        |        |        |        |        | their  |
+| +Louis% |      |         |         |       |        |        |        |        |        | Vegan  |
+| 2C+MO   |      |         |         |       |        |        |        |        |        | Zucchi |
+|         |      |         |         |       |        |        |        |        |        | ni muf |
+|         |      |         |         |       |        |        |        |        |        | fins.  |
+|         |      |         |         |       |        |        |        |        |        | They   |
+|         |      |         |         |       |        |        |        |        |        | are so |
+|         |      |         |         |       |        |        |        |        |        | yummy  |
+|         |      |         |         |       |        |        |        |        |        | and    |
+|         |      |         |         |       |        |        |        |        |        | sweet! |
+|         |      |         |         |       |        |        |        |        |        | The    |
+|         |      |         |         |       |        |        |        |        |        | menu   |
+|         |      |         |         |       |        |        |        |        |        | is cle |
+|         |      |         |         |       |        |        |        |        |        | arly   |
+|         |      |         |         |       |        |        |        |        |        | marked |
+|         |      |         |         |       |        |        |        |        |        | for    |
+|         |      |         |         |       |        |        |        |        |        | vegan  |
+|         |      |         |         |       |        |        |        |        |        | and ve |
+|         |      |         |         |       |        |        |        |        |        | getari |
+|         |      |         |         |       |        |        |        |        |        | an…    |
+|         |      |         |         |       |        |        |        |        |        | read   |
+|         |      |         |         |       |        |        |        |        |        | more   |
++---------+------+---------+---------+-------+--------+--------+--------+--------+--------+--------+
+| https:/ | 2    | Symbowl | 13      | $$    | Specia | St Cha | 1456   | Saint  | (636)  | I LOVE |
+| /www.ye |      |         | reviews |       | lty    | rles   | Bass   | Charle | 493-11 | THIS   |
+| lp.com/ |      |         |         |       | Food,  |        | Pro    | s, MO  | 38     | PLACE! |
+| search? |      |         |         |       | Juice  |        | Shop   | 63301  |        | As a v |
+| find_de |      |         |         |       | Bars & |        | Dr     |        |        | egetar |
+| sc=Vega |      |         |         |       | Smooth |        |        |        |        | ian, o |
+| n+Resta |      |         |         |       | ies    |        |        |        |        | ptions |
+| urants& |      |         |         |       |        |        |        |        |        | in St. |
+| find_lo |      |         |         |       |        |        |        |        |        | Charle |
+| c=St+Ch |      |         |         |       |        |        |        |        |        | s are  |
+| arles%2 |      |         |         |       |        |        |        |        |        | limite |
+| C+Saint |      |         |         |       |        |        |        |        |        | d, and |
+| +Louis% |      |         |         |       |        |        |        |        |        | this   |
+| 2C+MO   |      |         |         |       |        |        |        |        |        | place  |
+|         |      |         |         |       |        |        |        |        |        | is by  |
+|         |      |         |         |       |        |        |        |        |        | far    |
+|         |      |         |         |       |        |        |        |        |        | the fr |
+|         |      |         |         |       |        |        |        |        |        | eshest |
+|         |      |         |         |       |        |        |        |        |        | and he |
+|         |      |         |         |       |        |        |        |        |        | althie |
+|         |      |         |         |       |        |        |        |        |        | st of  |
+|         |      |         |         |       |        |        |        |        |        | choice |
+|         |      |         |         |       |        |        |        |        |        | s for  |
+|         |      |         |         |       |        |        |        |        |        | a      |
+|         |      |         |         |       |        |        |        |        |        | quick  |
+|         |      |         |         |       |        |        |        |        |        | lunch. |
+|         |      |         |         |       |        |        |        |        |        | The    |
+|         |      |         |         |       |        |        |        |        |        | vegan/ |
+|         |      |         |         |       |        |        |        |        |        | gluten |
+|         |      |         |         |       |        |        |        |        |        | -      |
+|         |      |         |         |       |        |        |        |        |        | free/… |
+|         |      |         |         |       |        |        |        |        |        | read   |
+|         |      |         |         |       |        |        |        |        |        | more   |
++---------+------+---------+---------+-------+--------+--------+--------+--------+--------+--------+
+| https:/ | 3    | Prasino | 557     | $$    | Americ | St Cha | 1520 S | St. Ch | (636)  | This   |
+| /www.ye |      |         | reviews |       | an     | rles   | 5th St | arles, | 277-02 | place  |
+| lp.com/ |      |         |         |       | (New), |        |        | MO     | 02     | is ama |
+| search? |      |         |         |       | Bars   |        |        | 63303  |        | zing!! |
+| find_de |      |         |         |       |        |        |        |        |        | ! I've |
+| sc=Vega |      |         |         |       |        |        |        |        |        | loved  |
+| n+Resta |      |         |         |       |        |        |        |        |        | EVERY  |
+| urants& |      |         |         |       |        |        |        |        |        | single |
+| find_lo |      |         |         |       |        |        |        |        |        | dish   |
+| c=St+Ch |      |         |         |       |        |        |        |        |        | and    |
+| arles%2 |      |         |         |       |        |        |        |        |        | drink  |
+| C+Saint |      |         |         |       |        |        |        |        |        | I've   |
+| +Louis% |      |         |         |       |        |        |        |        |        | had    |
+| 2C+MO   |      |         |         |       |        |        |        |        |        | here!  |
+|         |      |         |         |       |        |        |        |        |        | Have I |
+|         |      |         |         |       |        |        |        |        |        | mentio |
+|         |      |         |         |       |        |        |        |        |        | ned    |
+|         |      |         |         |       |        |        |        |        |        | their  |
+|         |      |         |         |       |        |        |        |        |        | desser |
+|         |      |         |         |       |        |        |        |        |        | ts are |
+|         |      |         |         |       |        |        |        |        |        | to die |
+|         |      |         |         |       |        |        |        |        |        | for ?  |
+|         |      |         |         |       |        |        |        |        |        | Plus   |
+|         |      |         |         |       |        |        |        |        |        | they   |
+|         |      |         |         |       |        |        |        |        |        | are    |
+|         |      |         |         |       |        |        |        |        |        | VEGAN  |
+|         |      |         |         |       |        |        |        |        |        | read   |
+|         |      |         |         |       |        |        |        |        |        | more   |
++---------+------+---------+---------+-------+--------+--------+--------+--------+--------+--------+
+| https:/ | 4    | Fred    | 25      | $     | Vegan, |        | 64     | Maryla | (314)  | Wow! O |
+| /www.ye |      | and     | reviews |       | Vegeta |        | Weldon | nd Hei | 942-89 | rganic |
+| lp.com/ |      | Ricky’s |         |       | rian,  |        | Pkwy   | ghts,  | 00     | vegan  |
+| search? |      | Plant D |         |       | Americ |        |        | MO     |        | whole  |
+| find_de |      | eliciou |         |       | an (Tr |        |        | 63043  |        | food   |
+| sc=Vega |      | s Foods |         |       | aditio |        |        |        |        | by mai |
+| n+Resta |      |         |         |       | nal)   |        |        |        |        | l?!?   |
+| urants& |      |         |         |       |        |        |        |        |        | Yes, p |
+| find_lo |      |         |         |       |        |        |        |        |        | lease! |
+| c=St+Ch |      |         |         |       |        |        |        |        |        | I will |
+| arles%2 |      |         |         |       |        |        |        |        |        | be pla |
+| C+Saint |      |         |         |       |        |        |        |        |        | cing   |
+| +Louis% |      |         |         |       |        |        |        |        |        | my     |
+| 2C+MO   |      |         |         |       |        |        |        |        |        | first  |
+|         |      |         |         |       |        |        |        |        |        | order  |
+|         |      |         |         |       |        |        |        |        |        | this   |
+|         |      |         |         |       |        |        |        |        |        | week   |
+|         |      |         |         |       |        |        |        |        |        | and am |
+|         |      |         |         |       |        |        |        |        |        | excite |
+|         |      |         |         |       |        |        |        |        |        | d to   |
+|         |      |         |         |       |        |        |        |        |        | try    |
+|         |      |         |         |       |        |        |        |        |        | this a |
+|         |      |         |         |       |        |        |        |        |        | wesome |
+|         |      |         |         |       |        |        |        |        |        | lookin |
+|         |      |         |         |       |        |        |        |        |        | g      |
+|         |      |         |         |       |        |        |        |        |        | food!  |
+|         |      |         |         |       |        |        |        |        |        | read   |
+|         |      |         |         |       |        |        |        |        |        | more   |
++---------+------+---------+---------+-------+--------+--------+--------+--------+--------+--------+
+| https:/ | 5    | Fred    | 22      | $$    | Americ |        | 11252  | Creve  | (314)  | St.    |
+| /www.ye |      | and     | reviews |       | an (Tr |        | Olive  | Coeur, | 942-31 | Louis  |
+| lp.com/ |      | Ricky’s |         |       | aditio |        | Blvd   | MO     | 00     | is so  |
+| search? |      | Plant D |         |       | nal),  |        |        | 63141  |        | lucky  |
+| find_de |      | eliciou |         |       | Vegan, |        |        |        |        | to     |
+| sc=Vega |      | s Foods |         |       | Vegeta |        |        |        |        | have   |
+| n+Resta |      |         |         |       | rian   |        |        |        |        | such   |
+| urants& |      |         |         |       |        |        |        |        |        | an inc |
+| find_lo |      |         |         |       |        |        |        |        |        | redibl |
+| c=St+Ch |      |         |         |       |        |        |        |        |        | e busi |
+| arles%2 |      |         |         |       |        |        |        |        |        | ness o |
+| C+Saint |      |         |         |       |        |        |        |        |        | perati |
+| +Louis% |      |         |         |       |        |        |        |        |        | ng     |
+| 2C+MO   |      |         |         |       |        |        |        |        |        | here.  |
+|         |      |         |         |       |        |        |        |        |        | It emb |
+|         |      |         |         |       |        |        |        |        |        | odies  |
+|         |      |         |         |       |        |        |        |        |        | everyt |
+|         |      |         |         |       |        |        |        |        |        | hing   |
+|         |      |         |         |       |        |        |        |        |        | that   |
+|         |      |         |         |       |        |        |        |        |        | is on  |
+|         |      |         |         |       |        |        |        |        |        | the cu |
+|         |      |         |         |       |        |        |        |        |        | tting  |
+|         |      |         |         |       |        |        |        |        |        | edge   |
+|         |      |         |         |       |        |        |        |        |        | of     |
+|         |      |         |         |       |        |        |        |        |        | vegan  |
+|         |      |         |         |       |        |        |        |        |        | cuisin |
+|         |      |         |         |       |        |        |        |        |        | e.     |
+|         |      |         |         |       |        |        |        |        |        | Being  |
+|         |      |         |         |       |        |        |        |        |        | SOS    |
+|         |      |         |         |       |        |        |        |        |        | free,  |
+|         |      |         |         |       |        |        |        |        |        | meanin |
+|         |      |         |         |       |        |        |        |        |        | g no   |
+|         |      |         |         |       |        |        |        |        |        | salt   |
+|         |      |         |         |       |        |        |        |        |        | no…    |
+|         |      |         |         |       |        |        |        |        |        | read   |
+|         |      |         |         |       |        |        |        |        |        | more   |
++---------+------+---------+---------+-------+--------+--------+--------+--------+--------+--------+
+| https:/ | 6    | Mario’s | 106     | $     | Cafes, | St Cha | 2786   | St Cha | (636)  | My hus |
+| /www.ye |      | Donuts  | reviews |       | Donuts | rles   | Muegge | rles,  | 447-45 | band   |
+| lp.com/ |      | & Cafe  |         |       | , Brea |        | Rd     | MO     | 15     | and I  |
+| search? |      |         |         |       | kfast  |        |        | 63303  |        | go     |
+| find_de |      |         |         |       | &      |        |        |        |        | here   |
+| sc=Vega |      |         |         |       | Brunch |        |        |        |        | often, |
+| n+Resta |      |         |         |       |        |        |        |        |        | the    |
+| urants& |      |         |         |       |        |        |        |        |        | food   |
+| find_lo |      |         |         |       |        |        |        |        |        | is del |
+| c=St+Ch |      |         |         |       |        |        |        |        |        | icious |
+| arles%2 |      |         |         |       |        |        |        |        |        | and at |
+| C+Saint |      |         |         |       |        |        |        |        |        | a      |
+| +Louis% |      |         |         |       |        |        |        |        |        | great  |
+| 2C+MO   |      |         |         |       |        |        |        |        |        | price! |
+|         |      |         |         |       |        |        |        |        |        | The em |
+|         |      |         |         |       |        |        |        |        |        | ployee |
+|         |      |         |         |       |        |        |        |        |        | s are  |
+|         |      |         |         |       |        |        |        |        |        | polite |
+|         |      |         |         |       |        |        |        |        |        | and    |
+|         |      |         |         |       |        |        |        |        |        | keep   |
+|         |      |         |         |       |        |        |        |        |        | the re |
+|         |      |         |         |       |        |        |        |        |        | staura |
+|         |      |         |         |       |        |        |        |        |        | nt     |
+|         |      |         |         |       |        |        |        |        |        | clean  |
+|         |      |         |         |       |        |        |        |        |        | . I re |
+|         |      |         |         |       |        |        |        |        |        | commen |
+|         |      |         |         |       |        |        |        |        |        | d the  |
+|         |      |         |         |       |        |        |        |        |        | falafe |
+|         |      |         |         |       |        |        |        |        |        | ls,    |
+|         |      |         |         |       |        |        |        |        |        | and    |
+|         |      |         |         |       |        |        |        |        |        | the    |
+|         |      |         |         |       |        |        |        |        |        | Greek  |
+|         |      |         |         |       |        |        |        |        |        | grape… |
+|         |      |         |         |       |        |        |        |        |        | read   |
+|         |      |         |         |       |        |        |        |        |        | more   |
++---------+------+---------+---------+-------+--------+--------+--------+--------+--------+--------+
+| https:/ | 7    | Bombay  | 76      | $$    | Indian | St Ann | 3578   | Saint  | (573)  | What a |
+| /www.ye |      | Food    | reviews |       | ,      |        | Adie   | Louis, | 578-65 | pleasu |
+| lp.com/ |      | Junkies |         |       | Vegan, |        | Rd     | MO     | 83     | re to  |
+| search? |      |         |         |       | Vegeta |        |        | 63074  |        | dine   |
+| find_de |      |         |         |       | rian   |        |        |        |        | at     |
+| sc=Vega |      |         |         |       |        |        |        |        |        | Bombay |
+| n+Resta |      |         |         |       |        |        |        |        |        | Food J |
+| urants& |      |         |         |       |        |        |        |        |        | unkies |
+| find_lo |      |         |         |       |        |        |        |        |        | ! This |
+| c=St+Ch |      |         |         |       |        |        |        |        |        | restau |
+| arles%2 |      |         |         |       |        |        |        |        |        | rant   |
+| C+Saint |      |         |         |       |        |        |        |        |        | is a   |
+| +Louis% |      |         |         |       |        |        |        |        |        | gem!   |
+| 2C+MO   |      |         |         |       |        |        |        |        |        | Krupa, |
+|         |      |         |         |       |        |        |        |        |        | owner  |
+|         |      |         |         |       |        |        |        |        |        | and    |
+|         |      |         |         |       |        |        |        |        |        | chef,  |
+|         |      |         |         |       |        |        |        |        |        | will   |
+|         |      |         |         |       |        |        |        |        |        | make   |
+|         |      |         |         |       |        |        |        |        |        | you    |
+|         |      |         |         |       |        |        |        |        |        | feel   |
+|         |      |         |         |       |        |        |        |        |        | right  |
+|         |      |         |         |       |        |        |        |        |        | at     |
+|         |      |         |         |       |        |        |        |        |        | home   |
+|         |      |         |         |       |        |        |        |        |        | the    |
+|         |      |         |         |       |        |        |        |        |        | second |
+|         |      |         |         |       |        |        |        |        |        | you    |
+|         |      |         |         |       |        |        |        |        |        | walk   |
+|         |      |         |         |       |        |        |        |        |        | in the |
+|         |      |         |         |       |        |        |        |        |        | door.  |
+|         |      |         |         |       |        |        |        |        |        | She cr |
+|         |      |         |         |       |        |        |        |        |        | eates  |
+|         |      |         |         |       |        |        |        |        |        | the…   |
+|         |      |         |         |       |        |        |        |        |        | read   |
+|         |      |         |         |       |        |        |        |        |        | more   |
++---------+------+---------+---------+-------+--------+--------+--------+--------+--------+--------+
+| https:/ | 8    | Frida’s | 170     | $$    | Vegeta |        | 622 N  | Univer | (314)  | Went   |
+| /www.ye |      |         | reviews |       | rian   |        | And S  | sity   | 727-65 | to Fri |
+| lp.com/ |      |         |         |       |        |        | Rd     | City,  | 00     | da's   |
+| search? |      |         |         |       |        |        |        | MO     |        | today  |
+| find_de |      |         |         |       |        |        |        | 63130  |        | with   |
+| sc=Vega |      |         |         |       |        |        |        |        |        | my     |
+| n+Resta |      |         |         |       |        |        |        |        |        | vegan  |
+| urants& |      |         |         |       |        |        |        |        |        | daught |
+| find_lo |      |         |         |       |        |        |        |        |        | er.    |
+| c=St+Ch |      |         |         |       |        |        |        |        |        | She or |
+| arles%2 |      |         |         |       |        |        |        |        |        | dered  |
+| C+Saint |      |         |         |       |        |        |        |        |        | the    |
+| +Louis% |      |         |         |       |        |        |        |        |        | gluten |
+| 2C+MO   |      |         |         |       |        |        |        |        |        | free   |
+|         |      |         |         |       |        |        |        |        |        | vegan  |
+|         |      |         |         |       |        |        |        |        |        | pizza  |
+|         |      |         |         |       |        |        |        |        |        | and ch |
+|         |      |         |         |       |        |        |        |        |        | ocolat |
+|         |      |         |         |       |        |        |        |        |        | e gana |
+|         |      |         |         |       |        |        |        |        |        | che.   |
+|         |      |         |         |       |        |        |        |        |        | She    |
+|         |      |         |         |       |        |        |        |        |        | said   |
+|         |      |         |         |       |        |        |        |        |        | the    |
+|         |      |         |         |       |        |        |        |        |        | pizza  |
+|         |      |         |         |       |        |        |        |        |        | was    |
+|         |      |         |         |       |        |        |        |        |        | the    |
+|         |      |         |         |       |        |        |        |        |        | best   |
+|         |      |         |         |       |        |        |        |        |        | she'd  |
+|         |      |         |         |       |        |        |        |        |        | ever   |
+|         |      |         |         |       |        |        |        |        |        | had.   |
+|         |      |         |         |       |        |        |        |        |        | The ga |
+|         |      |         |         |       |        |        |        |        |        | nache  |
+|         |      |         |         |       |        |        |        |        |        | was    |
+|         |      |         |         |       |        |        |        |        |        | rich   |
+|         |      |         |         |       |        |        |        |        |        | and…   |
+|         |      |         |         |       |        |        |        |        |        | read   |
+|         |      |         |         |       |        |        |        |        |        | more   |
++---------+------+---------+---------+-------+--------+--------+--------+--------+--------+--------+
+| https:/ | 9    | Picasso | 170     | $$    | Cafes, | St Cha | 101 N  | Saint  | (636)  | The    |
+| /www.ye |      | ’s      | reviews |       | Breakf | rles   | Main   | Charle | 925-29 | only   |
+| lp.com/ |      | Coffee  |         |       | ast &  |        | St     | s, MO  | 11     | good   |
+| search? |      | House   |         |       | Brunch |        |        | 63301  |        | part   |
+| find_de |      |         |         |       | , Sand |        |        |        |        | of St. |
+| sc=Vega |      |         |         |       | wiches |        |        |        |        | Charle |
+| n+Resta |      |         |         |       |        |        |        |        |        | s is d |
+| urants& |      |         |         |       |        |        |        |        |        | owntow |
+| find_lo |      |         |         |       |        |        |        |        |        | n, and |
+| c=St+Ch |      |         |         |       |        |        |        |        |        | the    |
+| arles%2 |      |         |         |       |        |        |        |        |        | best   |
+| C+Saint |      |         |         |       |        |        |        |        |        | part   |
+| +Louis% |      |         |         |       |        |        |        |        |        | of dow |
+| 2C+MO   |      |         |         |       |        |        |        |        |        | ntown  |
+|         |      |         |         |       |        |        |        |        |        | is Pic |
+|         |      |         |         |       |        |        |        |        |        | asso's |
+|         |      |         |         |       |        |        |        |        |        | . They |
+|         |      |         |         |       |        |        |        |        |        | need   |
+|         |      |         |         |       |        |        |        |        |        | more   |
+|         |      |         |         |       |        |        |        |        |        | vegan  |
+|         |      |         |         |       |        |        |        |        |        | select |
+|         |      |         |         |       |        |        |        |        |        | ions   |
+|         |      |         |         |       |        |        |        |        |        | (hence |
+|         |      |         |         |       |        |        |        |        |        | only 4 |
+|         |      |         |         |       |        |        |        |        |        | stars) |
+|         |      |         |         |       |        |        |        |        |        | , but  |
+|         |      |         |         |       |        |        |        |        |        | the po |
+|         |      |         |         |       |        |        |        |        |        | rtobel |
+|         |      |         |         |       |        |        |        |        |        | lo     |
+|         |      |         |         |       |        |        |        |        |        | panini |
+|         |      |         |         |       |        |        |        |        |        | is pre |
+|         |      |         |         |       |        |        |        |        |        | tty…   |
+|         |      |         |         |       |        |        |        |        |        | read   |
+|         |      |         |         |       |        |        |        |        |        | more   |
++---------+------+---------+---------+-------+--------+--------+--------+--------+--------+--------+
+| https:/ | 10   | Pangea  | 22      | $$$   | Desser |        | 3245   | Saint  | (636)  | Holy d |
+| /www.ye |      |         | reviews |       | ts,    |        | Rue    | Charle | 442-40 | elicio |
+| lp.com/ |      |         |         |       | Bars,  |        | Royale | s, MO  | 44     | us!    |
+| search? |      |         |         |       | Americ |        |        | 63301  |        | Also   |
+| find_de |      |         |         |       | an     |        |        |        |        | the    |
+| sc=Vega |      |         |         |       | (New)  |        |        |        |        | Chef   |
+| n+Resta |      |         |         |       |        |        |        |        |        | is     |
+| urants& |      |         |         |       |        |        |        |        |        | more   |
+| find_lo |      |         |         |       |        |        |        |        |        | than w |
+| c=St+Ch |      |         |         |       |        |        |        |        |        | illing |
+| arles%2 |      |         |         |       |        |        |        |        |        | to acc |
+| C+Saint |      |         |         |       |        |        |        |        |        | ommoda |
+| +Louis% |      |         |         |       |        |        |        |        |        | te     |
+| 2C+MO   |      |         |         |       |        |        |        |        |        | food a |
+|         |      |         |         |       |        |        |        |        |        | llergi |
+|         |      |         |         |       |        |        |        |        |        | es and |
+|         |      |         |         |       |        |        |        |        |        | my     |
+|         |      |         |         |       |        |        |        |        |        | vegan  |
+|         |      |         |         |       |        |        |        |        |        | Wife   |
+|         |      |         |         |       |        |        |        |        |        | read   |
+|         |      |         |         |       |        |        |        |        |        | more   |
++---------+------+---------+---------+-------+--------+--------+--------+--------+--------+--------+
+| https:/ | Ad   | Balaban | 71      | $$    | Americ |        | 1772 C | Cheste | (636)  | We     |
+| /www.ye |      | ’s      | reviews |       | an (Tr |        | larkso | rfield | 449-67 | made   |
+| lp.com/ |      |         |         |       | aditio |        | n Rd   | , MO   | 00     | the    |
+| search? |      |         |         |       | nal),  |        |        | 63017  |        | trip   |
+| find_de |      |         |         |       | Breakf |        |        |        |        | to St. |
+| sc=Vega |      |         |         |       | ast &  |        |        |        |        | Louis  |
+| n+Resta |      |         |         |       | Brunch |        |        |        |        | from P |
+| urants& |      |         |         |       | , Wine |        |        |        |        | aragou |
+| find_lo |      |         |         |       | Bars   |        |        |        |        | ld Ark |
+| c=St+Ch |      |         |         |       |        |        |        |        |        | ansas. |
+| arles%2 |      |         |         |       |        |        |        |        |        | After  |
+| C+Saint |      |         |         |       |        |        |        |        |        | a long |
+| +Louis% |      |         |         |       |        |        |        |        |        | week   |
+| 2C+MO   |      |         |         |       |        |        |        |        |        | at     |
+|         |      |         |         |       |        |        |        |        |        | work   |
+|         |      |         |         |       |        |        |        |        |        | we dec |
+|         |      |         |         |       |        |        |        |        |        | ided   |
+|         |      |         |         |       |        |        |        |        |        | to     |
+|         |      |         |         |       |        |        |        |        |        | take   |
+|         |      |         |         |       |        |        |        |        |        | off    |
+|         |      |         |         |       |        |        |        |        |        | and    |
+|         |      |         |         |       |        |        |        |        |        | enjoy  |
+|         |      |         |         |       |        |        |        |        |        | mom    |
+|         |      |         |         |       |        |        |        |        |        | and    |
+|         |      |         |         |       |        |        |        |        |        | dad    |
+|         |      |         |         |       |        |        |        |        |        | time w |
+|         |      |         |         |       |        |        |        |        |        | ithout |
+|         |      |         |         |       |        |        |        |        |        | kids.  |
+|         |      |         |         |       |        |        |        |        |        | We goo |
+|         |      |         |         |       |        |        |        |        |        | gled   |
+|         |      |         |         |       |        |        |        |        |        | places |
+|         |      |         |         |       |        |        |        |        |        | to eat |
+|         |      |         |         |       |        |        |        |        |        | in St. |
+|         |      |         |         |       |        |        |        |        |        | Louis… |
+|         |      |         |         |       |        |        |        |        |        | read   |
+|         |      |         |         |       |        |        |        |        |        | more   |
++---------+------+---------+---------+-------+--------+--------+--------+--------+--------+--------+

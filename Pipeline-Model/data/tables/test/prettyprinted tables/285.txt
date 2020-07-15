@@ -1,0 +1,75 @@
++--------------------------------+--------------------------------+--------------------------------+
+| url                            | Key                            | Value                          |
++--------------------------------+--------------------------------+--------------------------------+
+| https://turbotax.intuit.com/ta | OVERVIEW                       | Self-employed people are       |
+| x-tips/self-employment-        |                                | responsible for paying the     |
+| taxes/self-employed-federal-   |                                | same federal income taxes as   |
+| income-taxes/L7fmfVHM3         |                                | everyone else.                 |
++--------------------------------+--------------------------------+--------------------------------+
+| https://turbotax.intuit.com/ta | Calculating self-employment    | When you work for someone      |
+| x-tips/self-employment-        | income                         | else, you get a W-2 form from  |
+| taxes/self-employed-federal-   |                                | your employer at the end of    |
+| income-taxes/L7fmfVHM3         |                                | the year telling you exactly   |
+|                                |                                | how much money you made. When  |
+|                                |                                | you're self-employed, you have |
+|                                |                                | to figure that out yourself.   |
+|                                |                                | That means you must keep       |
+|                                |                                | accurate records of how much   |
+|                                |                                | money you earn for the work    |
+|                                |                                | you do and how much you spend  |
+|                                |                                | to operate your business.      |
++--------------------------------+--------------------------------+--------------------------------+
+| https://turbotax.intuit.com/ta | Self-employment taxes          | In addition to income taxes,   |
+| x-tips/self-employment-        |                                | everyone must pay Social       |
+| taxes/self-employed-federal-   |                                | Security and Medicare taxes.   |
+| income-taxes/L7fmfVHM3         |                                | If you are self-employed you   |
+|                                |                                | need to make these tax         |
+|                                |                                | payments yourself since you    |
+|                                |                                | don’t have an employer to send |
+|                                |                                | it in for you. For 2017,       |
+|                                |                                | employees pay 7.65 percent of  |
+|                                |                                | their income in Social         |
+|                                |                                | Security and Medicare taxes    |
+|                                |                                | with their employers making an |
+|                                |                                | additional payment of 7.65     |
+|                                |                                | percent. The Social Security   |
+|                                |                                | portion of the tax is paid on  |
+|                                |                                | the first $127,200 of          |
+|                                |                                | employment income in 2017.     |
++--------------------------------+--------------------------------+--------------------------------+
+| https://turbotax.intuit.com/ta | Estimating your income tax     | When you're an employee, your  |
+| x-tips/self-employment-        |                                | employer withholds money for   |
+| taxes/self-employed-federal-   |                                | federal taxes out of your      |
+| income-taxes/L7fmfVHM3         |                                | paychecks and sends the money  |
+|                                |                                | to the IRS, so that by the end |
+|                                |                                | of the year, your anticipated  |
+|                                |                                | tax bill should already be     |
+|                                |                                | substantially paid. If you're  |
+|                                |                                | self-employed, however, this   |
+|                                |                                | is another task you have to    |
+|                                |                                | take care of yourself.         |
++--------------------------------+--------------------------------+--------------------------------+
+| https://turbotax.intuit.com/ta | Alternatives to estimated tax  | If you have a "regular job" in |
+| x-tips/self-employment-        | payments                       | addition to your self-         |
+| taxes/self-employed-federal-   |                                | employment, you may be able to |
+| income-taxes/L7fmfVHM3         |                                | increase your federal tax      |
+|                                |                                | withholding at that job to     |
+|                                |                                | cover the taxes on your self-  |
+|                                |                                | employment income. If you can  |
+|                                |                                | do so, you won't have to pay   |
+|                                |                                | estimated taxes. However, if   |
+|                                |                                | you still owe at least $1,000  |
+|                                |                                | even after increasing your     |
+|                                |                                | withholding, then you must     |
+|                                |                                | make some estimated tax        |
+|                                |                                | payments. By year's end, your  |
+|                                |                                | estimated payments (including  |
+|                                |                                | employer withholding) must     |
+|                                |                                | equal at least 90 percent of   |
+|                                |                                | your tax liability for the     |
+|                                |                                | current year or 100 percent of |
+|                                |                                | your tax liability from last   |
+|                                |                                | year. If it doesn’t, you may   |
+|                                |                                | be subject to an estimated tax |
+|                                |                                | penalty.                       |
++--------------------------------+--------------------------------+--------------------------------+

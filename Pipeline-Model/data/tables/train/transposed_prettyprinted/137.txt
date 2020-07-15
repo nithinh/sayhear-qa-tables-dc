@@ -1,0 +1,168 @@
++---------------------------+---------------------------+--------------+---------------------------+
+| url                       | English                   | English_link | German                    |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | gradually {adv}           |              | Schritt um Schritt        |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | step by step {adv}        |              | Schritt um Schritt        |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | gradatim {adv}            |              | Schritt für Schritt       |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | gradually {adv}           |              | Schritt für Schritt       |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | by degrees {adv}          |              | Schritt für Schritt       |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | step by step {adv}        |              | Schritt für Schritt       |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | idiom to do sth. retail   |              | etw. Schritt für Schritt  |
+| hritt+um+Schritt          | [Am.]                     |              | machen                    |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | one step at a time {adv}  |              | Schritt für Schritt [bei  |
+| hritt+um+Schritt          |                           |              | Treppen und fig.]         |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | to walk sb. through (the  |              | etw. mit jdm. Schritt für |
+| hritt+um+Schritt          | process of) sth.          |              | Schritt durchgehen        |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | proverb Grain by grain    |              | Schritt für Schritt kommt |
+| hritt+um+Schritt          | and the hen fills her     |              | auch ans Ziel.            |
+|                           | belly.                    |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | step-by-step {adj}        |              | Schritt für Schritt       |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | footmeal {adv} [obs.]     |              | Schritt für Schritt [auch |
+| hritt+um+Schritt          | [also fig.] [step by      |              | fig.]                     |
+|                           | step]                     |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | comp. games walkthrough   |              | Schritt-für-Schritt-      |
+| hritt+um+Schritt          |                           |              | Lösung {f}                |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | step-by-step instruction  |              | Schritt-für-Schritt-      |
+| hritt+um+Schritt          |                           |              | Anleitung {f}             |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | buoyant {adj} [step]      |              | elastisch [Schritt]       |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | lively {adj} {adv} [pace] |              | flott [Schritt, Tempo]    |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | brisk {adj} [walk, pace]  |              | flott [Schritt]           |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | to step back              |              | zurücktreten [Schritt     |
+| hritt+um+Schritt          |                           |              | zurück]                   |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | initial step              |              | Anfangsschritt {m}        |
+| hritt+um+Schritt          |                           |              | [erster Schritt]          |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | stepping {adj} {pres-p}   |              | tretend [schreitend,      |
+| hritt+um+Schritt          |                           |              | einen Schritt machend]    |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | tech. horizontal          |              | horizontales Versetzen    |
+| hritt+um+Schritt          | displacement [step]       |              | {n} [Schritt]             |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | run                       |              | Lauf {m} [schneller       |
+| hritt+um+Schritt          |                           |              | Schritt, Durchgang,       |
+|                           |                           |              | Comp., Musik]             |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | step                      |              | Tritt {m} [Schritt, Gang, |
+| hritt+um+Schritt          |                           |              | Stufe, Trittbrett etc.]   |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | bold {adj} [courageous]   |              | mutig [kühn (Person,      |
+| hritt+um+Schritt          |                           |              | Entscheidung, Schritt     |
+|                           |                           |              | etc.)]                    |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | to tramp                  |              | stapfen [mit schwerem     |
+| hritt+um+Schritt          |                           |              | Schritt oder unbeholfen   |
+|                           |                           |              | gehen]                    |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | cloth. crotch [of tights] |              | Zwickel {m} [im Schritt   |
+| hritt+um+Schritt          |                           |              | einer Strumpfhose]        |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | sports goalie guard       |              | Eierbecher {m} [ugs.]     |
+| hritt+um+Schritt          | [coll.]                   |              | [Protektor für den        |
+|                           |                           |              | Schritt]                  |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | cloth. pearl thong        |              | Perlen-Tanga {m} [Tanga   |
+| hritt+um+Schritt          |                           |              | mit Perlenschnur im       |
+|                           |                           |              | Schritt]                  |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | cloth. pearl (string)     |              | Perlen-Stringtanga {m}    |
+| hritt+um+Schritt          | thong                     |              | [Tanga mit Perlenschnur   |
+|                           |                           |              | im Schritt]               |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | to curb sth. [slow (one's |              | etw. verhalten [geh.]     |
+| hritt+um+Schritt          | pace)]                    |              | [(den Schritt)            |
+|                           |                           |              | verlangsamen]             |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | stamper [sb. with a heavy |              | Trampler {m} [ugs.] [jd.  |
+| hritt+um+Schritt          | gait]                     |              | / etw. mit schwerem       |
+|                           |                           |              | Schritt]                  |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | to keep up (with) [move   |              | nachkommen [Schritt       |
+| hritt+um+Schritt          | or progress at the same   |              | halten können]            |
+|                           | rate]                     |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | to keep up with sb./sth.  |              | mit jdm./etw. mitkommen   |
+| hritt+um+Schritt          | [stay close while         |              | [Schritt halten] [ugs.]   |
+|                           | following]                |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | stepping {adj}            |              | Schritt-                  |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | cloth. crotch             |              | Schritt {m}               |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | footstep                  |              | Schritt {m}               |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | stride                    |              | Schritt {m}               |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | tread                     |              | Schritt {m}               |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | equest. walk              |              | Schritt {m}               |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | cloth. pearl (string)     |              | Perlen-String-Tanga {m}   |
+| hritt+um+Schritt          | thong                     |              | [Tanga mit Perlenschnur   |
+|                           |                           |              | im Schritt]               |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | move                      |              | Schritt {m} [fig.]        |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | cloth. hist. open drawers |              | Stehbrunzer {f} [südd.]   |
+| hritt+um+Schritt          | {pl} [legged undergarment |              | [im Schritt offene        |
+|                           | with an open crotch]      |              | Unterhose für Frauen, ca. |
+|                           |                           |              | knielang]                 |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | gamble                    |              | riskanter Schritt {m}     |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | sb. strode                |              | jd. schritt               |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | sb. trod                  |              | jd. schritt               |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | increment of movement     |              | Schritt {m}               |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | initial step              |              | erster Schritt {m}        |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | swinging step             |              | federnder Schritt {m}     |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | smart pace                |              | flotter Schritt {m}       |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+
+| https://www.dict.cc/?s=Sc | brisk pace                |              | forscher Schritt {m}      |
+| hritt+um+Schritt          |                           |              |                           |
++---------------------------+---------------------------+--------------+---------------------------+

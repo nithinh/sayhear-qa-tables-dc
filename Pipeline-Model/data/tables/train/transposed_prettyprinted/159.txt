@@ -1,0 +1,1412 @@
++------------------------+------------------------+------------------------+-----------------------+
+| url                    | Capital_City           | Country                | Notes                 |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Abu Dhabi              | United Arab Emirates   |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Abuja                  | Nigeria                | Lagos was the capital |
+| rg/wiki/List_of_nation |                        |                        | from 1914 to 1991     |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Accra                  | Ghana                  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Adamstown              | Pitcairn               | British Overseas      |
+| rg/wiki/List_of_nation |                        |                        | Territory             |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Addis Ababa            | Ethiopia               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Algiers                | Algeria                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Alofi                  | Niue                   | Self-governing in     |
+| rg/wiki/List_of_nation |                        |                        | free association with |
+| al_capitals_in_alphabe |                        |                        | New Zealand           |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Amman                  | Jordan                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Amsterdam              | Netherlands            | The Dutch             |
+| rg/wiki/List_of_nation |                        |                        | constitution refers   |
+| al_capitals_in_alphabe |                        |                        | to Amsterdam as the   |
+| tical_order            |                        |                        | "capital". The Dutch  |
+|                        |                        |                        | government is located |
+|                        |                        |                        | in the Hague, which   |
+|                        |                        |                        | also hosts the        |
+|                        |                        |                        | monarch, government   |
+|                        |                        |                        | ministries, judiciary |
+|                        |                        |                        | and diplomatic        |
+|                        |                        |                        | missions. See Capital |
+|                        |                        |                        | of the Netherlands.   |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Andorra la Vella       | Andorra                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Ankara                 | Turkey                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Antananarivo           | Madagascar             |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Apia                   | Samoa                  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Ashgabat               | Turkmenistan           |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Asmara                 | Eritrea                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Astana                 | Kazakhstan             |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Asunción               | Paraguay               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Athens                 | Greece                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Avarua                 | Cook Islands           | Self-governing in     |
+| rg/wiki/List_of_nation |                        |                        | free association with |
+| al_capitals_in_alphabe |                        |                        | New Zealand.          |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Baghdad                | Iraq                   |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Baku                   | Azerbaijan             |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Bamako                 | Mali                   |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Bandar Seri Begawan    | Brunei                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Bangkok                | Thailand               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Bangui                 | Central African        |                       |
+| rg/wiki/List_of_nation |                        | Republic               |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Banjul                 | Gambia                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Basseterre             | Saint Kitts and Nevis  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Beijing                | China                  | See also: List of     |
+| rg/wiki/List_of_nation |                        |                        | historical capitals   |
+| al_capitals_in_alphabe |                        |                        | of China              |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Beirut                 | Lebanon                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Belgrade               | Serbia                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Belmopan               | Belize                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Berlin                 | Germany                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Bern                   | Switzerland            | De facto capital      |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Bishkek                | Kyrgyzstan             |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Bissau                 | Guinea-Bissau          |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Bogotá                 | Colombia               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Brasília               | Brazil                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Bratislava             | Slovakia               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Brazzaville            | Republic of the Congo  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Bridgetown             | Barbados               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Brussels               | Belgium                | Also the de facto     |
+| rg/wiki/List_of_nation |                        |                        | capital of the        |
+| al_capitals_in_alphabe |                        |                        | European Union        |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Bucharest              | Romania                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Budapest               | Hungary                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Buenos Aires           | Argentina              |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Bujumbura              | Burundi                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Cairo                  | Egypt                  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Canberra               | Australia              |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Caracas                | Venezuela              |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Castries               | Saint Lucia            |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Charlotte Amalie       | United States Virgin   | Territory of the U.S. |
+| rg/wiki/List_of_nation |                        | Islands                |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Chișinău               | Moldova                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Cockburn Town          | Turks and Caicos       | British Overseas      |
+| rg/wiki/List_of_nation |                        | Islands                | Territory             |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Conakry                | Guinea                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Copenhagen             | Denmark                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Dakar                  | Senegal                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Damascus               | Syria                  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Dhaka                  | Bangladesh             |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Dili                   | East Timor             |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Djibouti               | Djibouti               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Dodoma (official,      | Tanzania               | Dar es Salaam, the    |
+| rg/wiki/List_of_nation | legislative)           |                        | former capital and    |
+| al_capitals_in_alphabe |                        |                        | largest city          |
+| tical_order            |                        |                        | continues to serve as |
+|                        |                        |                        | the de facto seat of  |
+|                        |                        |                        | government hosting    |
+|                        |                        |                        | the presidency,       |
+|                        |                        |                        | government            |
+|                        |                        |                        | ministries, judiciary |
+|                        |                        |                        | and diplomatic        |
+|                        |                        |                        | missions.             |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Doha                   | Qatar                  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Douglas                | Isle of Man            | British Crown         |
+| rg/wiki/List_of_nation |                        |                        | Dependency            |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Dublin                 | Ireland                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Dushanbe               | Tajikistan             |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Edinburgh of the Seven | Tristan da Cunha       | Part of the British   |
+| rg/wiki/List_of_nation | Seas                   |                        | Overseas Territory of |
+| al_capitals_in_alphabe |                        |                        | Saint Helena,         |
+| tical_order            |                        |                        | Ascension and Tristan |
+|                        |                        |                        | da Cunha              |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | El Aioun (declared)    | Sahrawi Arab           | The Sahrawi Republic, |
+| rg/wiki/List_of_nation |  Tifariti (de facto)   | Democratic Republic    | recognised by 82      |
+| al_capitals_in_alphabe |                        |                        | states, claims the    |
+| tical_order            |                        |                        | mostly Moroccan       |
+|                        |                        |                        | controlled Western    |
+|                        |                        |                        | Sahara. Moroccan      |
+|                        |                        |                        | controlled territory  |
+|                        |                        |                        | includes El Aaiún,    |
+|                        |                        |                        | and Morocco claims    |
+|                        |                        |                        | all Sahrawi           |
+|                        |                        |                        | controlled territory. |
+|                        |                        |                        | Tifariti is now the   |
+|                        |                        |                        | temporary capital     |
+|                        |                        |                        | (instead of Bir       |
+|                        |                        |                        | Lehlou earlier) of    |
+|                        |                        |                        | the SADR. Some        |
+|                        |                        |                        | government and        |
+|                        |                        |                        | military structures   |
+|                        |                        |                        | reside in exile in    |
+|                        |                        |                        | Tindouf, Algeria.[1]  |
+|                        |                        |                        | See Politics of the   |
+|                        |                        |                        | Sahrawi Arab          |
+|                        |                        |                        | Democratic Republic.  |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Episkopi Cantonment    | Akrotiri and Dhekelia  | British Overseas      |
+| rg/wiki/List_of_nation |                        |                        | Territory             |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Flying Fish Cove       | Christmas Island       | External territory of |
+| rg/wiki/List_of_nation |                        |                        | Australia             |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Freetown               | Sierra Leone           |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Funafuti               | Tuvalu                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Gaborone               | Botswana               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | George Town            | Cayman Islands         | British Overseas      |
+| rg/wiki/List_of_nation |                        |                        | Territory             |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Georgetown             | Ascension Island       | Part of the British   |
+| rg/wiki/List_of_nation |                        |                        | Overseas Territory of |
+| al_capitals_in_alphabe |                        |                        | Saint Helena,         |
+| tical_order            |                        |                        | Ascension and Tristan |
+|                        |                        |                        | da Cunha              |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Georgetown             | Guyana                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Gibraltar              | Gibraltar              | British Overseas      |
+| rg/wiki/List_of_nation |                        |                        | Territory             |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Guatemala City         | Guatemala              |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Gustavia               | Saint Barthélemy       | Overseas collectivity |
+| rg/wiki/List_of_nation |                        |                        | of France             |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Hagåtña                | Guam                   | Territory of the      |
+| rg/wiki/List_of_nation |                        |                        | United States         |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Hamilton               | Bermuda                | British Overseas      |
+| rg/wiki/List_of_nation |                        |                        | Territory             |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Hanga Roa              | Easter Island          | Special territory of  |
+| rg/wiki/List_of_nation |                        |                        | Chile                 |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Hanoi                  | Vietnam                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Harare                 | Zimbabwe               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Hargeisa               | Somaliland             | De facto independent  |
+| rg/wiki/List_of_nation |                        |                        | state not             |
+| al_capitals_in_alphabe |                        |                        | diplomatically        |
+| tical_order            |                        |                        | recognized by any     |
+|                        |                        |                        | other state, claimed  |
+|                        |                        |                        | in whole by the       |
+|                        |                        |                        | Somali Republic.[2]   |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Havana                 | Cuba                   |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Helsinki               | Finland                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Hong Kong              | Hong Kong              | Special               |
+| rg/wiki/List_of_nation |                        |                        | administrative region |
+| al_capitals_in_alphabe |                        |                        | of the People's       |
+| tical_order            |                        |                        | Republic of China     |
+|                        |                        |                        | functioning as a      |
+|                        |                        |                        | City-state,[3] former |
+|                        |                        |                        | British dependent     |
+|                        |                        |                        | territory.            |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Honiara                | Solomon Islands        |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Islamabad              | Pakistan               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Jakarta                | Indonesia              |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Jamestown              | Saint Helena           | Part of the British   |
+| rg/wiki/List_of_nation |                        |                        | Overseas Territory of |
+| al_capitals_in_alphabe |                        |                        | Saint Helena,         |
+| tical_order            |                        |                        | Ascension and Tristan |
+|                        |                        |                        | da Cunha              |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Jerusalem              | Israel                 | Jerusalem Law states  |
+| rg/wiki/List_of_nation |                        |                        | that "Jerusalem,      |
+| al_capitals_in_alphabe |                        |                        | complete and united,  |
+| tical_order            |                        |                        | is the capital of     |
+|                        |                        |                        | Israel", and the city |
+|                        |                        |                        | serves as the seat of |
+|                        |                        |                        | the government, home  |
+|                        |                        |                        | to the president's    |
+|                        |                        |                        | residence, government |
+|                        |                        |                        | offices, supreme      |
+|                        |                        |                        | court, and            |
+|                        |                        |                        | parliament. United    |
+|                        |                        |                        | Nations Security      |
+|                        |                        |                        | Council Resolution    |
+|                        |                        |                        | 478 declared the      |
+|                        |                        |                        | Jerusalem Law "null   |
+|                        |                        |                        | and void" and called  |
+|                        |                        |                        | on member states to   |
+|                        |                        |                        | withdraw their        |
+|                        |                        |                        | diplomatic missions   |
+|                        |                        |                        | from Jerusalem. The   |
+|                        |                        |                        | United Nations and    |
+|                        |                        |                        | all member states     |
+|                        |                        |                        | currently maintain    |
+|                        |                        |                        | their embassies in    |
+|                        |                        |                        | other cities such as  |
+|                        |                        |                        | Tel Aviv, Ramat Gan,  |
+|                        |                        |                        | and Herzliya. The     |
+|                        |                        |                        | United States         |
+|                        |                        |                        | recognized Jerusalem  |
+|                        |                        |                        | as the capital and    |
+|                        |                        |                        | announced plans to    |
+|                        |                        |                        | move its embassy to   |
+|                        |                        |                        | Jerusalem in December |
+|                        |                        |                        | 2017. [4] Many        |
+|                        |                        |                        | countries officially  |
+|                        |                        |                        | adhere to the         |
+|                        |                        |                        | proposal that         |
+|                        |                        |                        | Jerusalem have        |
+|                        |                        |                        | international status, |
+|                        |                        |                        | as called for in the  |
+|                        |                        |                        | Partition Plan of     |
+|                        |                        |                        | 1947.[5] The          |
+|                        |                        |                        | Palestinian National  |
+|                        |                        |                        | Authority claims East |
+|                        |                        |                        | Jerusalem as the      |
+|                        |                        |                        | capital of a future   |
+|                        |                        |                        | Palestinian state.    |
+|                        |                        |                        | See Positions on      |
+|                        |                        |                        | Jerusalem.            |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Juba                   | South Sudan            |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Kabul                  | Afghanistan            |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Kampala                | Uganda                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Kathmandu              | Nepal                  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Khartoum               | Sudan                  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Kiev                   | Ukraine                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Kigali                 | Rwanda                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | King Edward Point      | South Georgia and the  | British Overseas      |
+| rg/wiki/List_of_nation |                        | South Sandwich Islands | Territory             |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Kingston               | Jamaica                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Kingston               | Norfolk Island         | External territory of |
+| rg/wiki/List_of_nation |                        |                        | Australia             |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Kingstown              | Saint Vincent and the  |                       |
+| rg/wiki/List_of_nation |                        | Grenadines             |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Kinshasa               | Democratic Republic of |                       |
+| rg/wiki/List_of_nation |                        | the Congo              |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Kuala Lumpur           | Malaysia               |                       |
+| rg/wiki/List_of_nation | (official, legislative |                        |                       |
+| al_capitals_in_alphabe | and royal)             |                        |                       |
+| tical_order            |  Putrajaya             |                        |                       |
+|                        | (administrative and    |                        |                       |
+|                        | judicial)              |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Kuwait City            | Kuwait                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Libreville             | Gabon                  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Lilongwe               | Malawi                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Lima                   | Peru                   | Cusco is declared as  |
+| rg/wiki/List_of_nation |                        |                        | the "Historical       |
+| al_capitals_in_alphabe |                        |                        | Capital" (Spanish:    |
+| tical_order            |                        |                        | Capital Historica), a |
+|                        |                        |                        | merely symbolic       |
+|                        |                        |                        | statement, by Article |
+|                        |                        |                        | 49 of the Peruvian    |
+|                        |                        |                        | Constitution.         |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Lisbon                 | Portugal               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Ljubljana              | Slovenia               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Lomé                   | Togo                   |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | London                 | United Kingdom         | Prior to the Acts of  |
+| rg/wiki/List_of_nation |                        |                        | Union in 1707, London |
+| al_capitals_in_alphabe |                        |                        | was the capital of    |
+| tical_order            |                        |                        | England only.         |
+|                        |                        |                        | Edinburgh was the     |
+|                        |                        |                        | capital of the        |
+|                        |                        |                        | Kingdom of Scotland   |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Luanda                 | Angola                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Lusaka                 | Zambia                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Luxembourg             | Luxembourg             |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Madrid                 | Spain                  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Majuro                 | Marshall Islands       | Self-governing in     |
+| rg/wiki/List_of_nation |                        |                        | free association with |
+| al_capitals_in_alphabe |                        |                        | United States.        |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Malabo                 | Equatorial Guinea      |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Malé                   | Maldives               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Managua                | Nicaragua              |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Manama                 | Bahrain                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Manila                 | Philippines            |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Maputo                 | Mozambique             |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Marigot                | Saint Martin           | Overseas collectivity |
+| rg/wiki/List_of_nation |                        |                        | of France             |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Maseru                 | Lesotho                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Mata-Utu               | Wallis and Futuna      | Overseas collectivity |
+| rg/wiki/List_of_nation |                        |                        | of France             |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Mbabane                | Swaziland              |                       |
+| rg/wiki/List_of_nation | (administrative)       |                        |                       |
+| al_capitals_in_alphabe |  Lobamba (royal and    |                        |                       |
+| tical_order            | legislative)           |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Mexico City            | Mexico                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Minsk                  | Belarus                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Mogadishu              | Somalia                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Monaco                 | Monaco                 | City-state            |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Monrovia               | Liberia                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Montevideo             | Uruguay                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Moroni                 | Comoros                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Moscow                 | Russia                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Muscat                 | Oman                   |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Nairobi                | Kenya                  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Nassau                 | Bahamas                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Naypyidaw              | Myanmar                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | N'Djamena              | Chad                   |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | New Delhi              | India                  | Kolkata was the       |
+| rg/wiki/List_of_nation |                        |                        | capital of India      |
+| al_capitals_in_alphabe |                        |                        | until 1911 during the |
+| tical_order            |                        |                        | British Raj           |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Ngerulmud              | Palau                  | Self-governing in     |
+| rg/wiki/List_of_nation |                        |                        | free association with |
+| al_capitals_in_alphabe |                        |                        | United States.        |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Niamey                 | Niger                  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Nicosia                | Cyprus                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Nicosia                | Northern Cyprus        | De facto independent  |
+| rg/wiki/List_of_nation |                        |                        | state that is         |
+| al_capitals_in_alphabe |                        |                        | recognised only by    |
+| tical_order            |                        |                        | Turkey. Northern      |
+|                        |                        |                        | Cyprus is claimed in  |
+|                        |                        |                        | whole by the Republic |
+|                        |                        |                        | of Cyprus.[6]         |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Nouakchott             | Mauritania             |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Nouméa                 | New Caledonia          | Sui generis           |
+| rg/wiki/List_of_nation |                        |                        | collectivity of       |
+| al_capitals_in_alphabe |                        |                        | France                |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Nukuʻalofa             | Tonga                  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Nuuk                   | Greenland              | Self-governing        |
+| rg/wiki/List_of_nation |                        |                        | country within the    |
+| al_capitals_in_alphabe |                        |                        | Kingdom of Denmark    |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Oranjestad             | Aruba                  | Self-governing        |
+| rg/wiki/List_of_nation |                        |                        | country within the    |
+| al_capitals_in_alphabe |                        |                        | Kingdom of the        |
+| tical_order            |                        |                        | Netherlands           |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Oslo                   | Norway                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Ottawa                 | Canada                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Ouagadougou            | Burkina Faso           |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Pago Pago              | American Samoa         | Territory of the      |
+| rg/wiki/List_of_nation |                        |                        | United States         |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Palikir                | Federated States of    | Self-governing in     |
+| rg/wiki/List_of_nation |                        | Micronesia             | free association with |
+| al_capitals_in_alphabe |                        |                        | United States.        |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Panama City            | Panama                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Papeete                | French Polynesia       | Overseas collectivity |
+| rg/wiki/List_of_nation |                        |                        | of France             |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Paramaribo             | Suriname               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Paris                  | France                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Philipsburg            | Sint Maarten           | Self-governing        |
+| rg/wiki/List_of_nation |                        |                        | country within the    |
+| al_capitals_in_alphabe |                        |                        | Kingdom of the        |
+| tical_order            |                        |                        | Netherlands           |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Phnom Penh             | Cambodia               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Plymouth (official)    | Montserrat             | British Overseas      |
+| rg/wiki/List_of_nation |  Brades Estate (de     |                        | Territory. Plymouth   |
+| al_capitals_in_alphabe | facto)                 |                        | was abandoned after   |
+| tical_order            |                        |                        | the eruption of the   |
+|                        |                        |                        | Soufriere Hills       |
+|                        |                        |                        | volcano in 1997.      |
+|                        |                        |                        | Government offices    |
+|                        |                        |                        | since then have been  |
+|                        |                        |                        | moved to Brades       |
+|                        |                        |                        | Estate, which is in   |
+|                        |                        |                        | the northwestern part |
+|                        |                        |                        | of Montserrat.        |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Podgorica (official)   | Montenegro             |                       |
+| rg/wiki/List_of_nation |  Cetinje (Old Royal    |                        |                       |
+| al_capitals_in_alphabe | Capital, present seat  |                        |                       |
+| tical_order            | of the President)      |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Port Louis             | Mauritius              |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Port Moresby           | Papua New Guinea       |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Port Vila              | Vanuatu                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Port-au-Prince         | Haiti                  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Port of Spain          | Trinidad and Tobago    |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Porto-Novo (official)  | Benin                  |                       |
+| rg/wiki/List_of_nation |  Cotonou (de facto)    |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Prague                 | Czech Republic         |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Praia                  | Cape Verde             |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Pretoria (executive)   | South Africa           |                       |
+| rg/wiki/List_of_nation |  Bloemfontein          |                        |                       |
+| al_capitals_in_alphabe | (judicial)             |                        |                       |
+| tical_order            |  Cape Town             |                        |                       |
+|                        | (legislative)          |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Pristina               | Kosovo                 | De facto independent  |
+| rg/wiki/List_of_nation |                        |                        | state that is         |
+| al_capitals_in_alphabe |                        |                        | recognised by 113 UN  |
+| tical_order            |                        |                        | member states and by  |
+|                        |                        |                        | Taiwan. Claimed in    |
+|                        |                        |                        | whole by the Republic |
+|                        |                        |                        | of Serbia as part of  |
+|                        |                        |                        | its Autonomous        |
+|                        |                        |                        | Province of Kosovo    |
+|                        |                        |                        | and Metohija.         |
+|                        |                        |                        | Republic of Kosovo    |
+|                        |                        |                        | has de facto control  |
+|                        |                        |                        | over most of the      |
+|                        |                        |                        | territory, with       |
+|                        |                        |                        | limited control in    |
+|                        |                        |                        | North Kosovo.         |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Pyongyang              | North Korea            |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Quito                  | Ecuador                | Highest official      |
+| rg/wiki/List_of_nation |                        |                        | capital (2,850 m).[7] |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Rabat                  | Morocco                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Reykjavík              | Iceland                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Riga                   | Latvia                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Riyadh                 | Saudi Arabia           |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Road Town              | British Virgin Islands | British Overseas      |
+| rg/wiki/List_of_nation |                        |                        | Territory             |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Rome                   | Italy                  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Roseau                 | Dominica               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Saipan                 | Northern Mariana       | Territory of the      |
+| rg/wiki/List_of_nation |                        | Islands                | United States         |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | San José               | Costa Rica             |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | San Juan               | Puerto Rico            | Territory of the      |
+| rg/wiki/List_of_nation |                        |                        | United States         |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | San Marino             | San Marino             |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | San Salvador           | El Salvador            |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Sana'a (de jure)       | Yemen                  | Sana'a has been       |
+| rg/wiki/List_of_nation |  Aden (de facto, seat  |                        | occupied by Houthis   |
+| al_capitals_in_alphabe | of government)         |                        | rebels since February |
+| tical_order            |                        |                        | 2015. See also:       |
+|                        |                        |                        | Yemeni Civil War      |
+|                        |                        |                        | (2015–present).       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Santiago               | Chile                  | The National Congress |
+| rg/wiki/List_of_nation |                        |                        | of Chile is located   |
+| al_capitals_in_alphabe |                        |                        | in Valparaíso         |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Santo Domingo          | Dominican Republic     |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | São Tomé               | São Tomé and Príncipe  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Sarajevo               | Bosnia and Herzegovina |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Seoul                  | South Korea            |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Singapore              | Singapore              | City-state            |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Skopje                 | Republic of Macedonia  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Sofia                  | Bulgaria               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Sri Jayawardenepura    | Sri Lanka              | Also known as         |
+| rg/wiki/List_of_nation | Kotte (official)       |                        | "Kotte". Until the    |
+| al_capitals_in_alphabe |  Colombo (former       |                        | 1980s, the capital    |
+| tical_order            | capital; has some      |                        | was Colombo, where    |
+|                        | government offices)    |                        | many important        |
+|                        |                        |                        | governmental          |
+|                        |                        |                        | institutions still    |
+|                        |                        |                        | remain and which is   |
+|                        |                        |                        | still designated as   |
+|                        |                        |                        | the commercial        |
+|                        |                        |                        | capital of Sri Lanka. |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | St. George's           | Grenada                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | St. Helier             | Jersey                 | British Crown         |
+| rg/wiki/List_of_nation |                        |                        | Dependency            |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | St. John's             | Antigua and Barbuda    |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | St. Peter Port         | Guernsey               | British Crown         |
+| rg/wiki/List_of_nation |                        |                        | Dependency            |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | St. Pierre             | Saint Pierre and       | Overseas collectivity |
+| rg/wiki/List_of_nation |                        | Miquelon               | of France             |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Stanley                | Falkland Islands       | British Overseas      |
+| rg/wiki/List_of_nation |                        |                        | Territory             |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Stepanakert            | Artsakh                | The self-declared     |
+| rg/wiki/List_of_nation |                        |                        | country remains       |
+| al_capitals_in_alphabe |                        |                        | diplomatically        |
+| tical_order            |                        |                        | unrecognised by UN-   |
+|                        |                        |                        | member states,        |
+|                        |                        |                        | including Armenia.    |
+|                        |                        |                        | Transnistria, South   |
+|                        |                        |                        | Ossetia, and          |
+|                        |                        |                        | Abkhazia, all UN non- |
+|                        |                        |                        | member states,        |
+|                        |                        |                        | recognise the state.  |
+|                        |                        |                        | Claimed in whole by   |
+|                        |                        |                        | Azerbaijan.           |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Stockholm              | Sweden                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Sucre (constitutional) | Bolivia                | La Paz is the highest |
+| rg/wiki/List_of_nation |  La Paz                |                        | administrative        |
+| al_capitals_in_alphabe | (administrative)       |                        | capital (3,650 m),    |
+| tical_order            |                        |                        | higher than Quito.[7] |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Sukhumi                | Abkhazia               | De facto independent  |
+| rg/wiki/List_of_nation |                        |                        | state recognised by   |
+| al_capitals_in_alphabe |                        |                        | Russia, Nauru,        |
+| tical_order            |                        |                        | Nicaragua, Venezuela, |
+|                        |                        |                        | South Ossetia and     |
+|                        |                        |                        | Transnistria. Claimed |
+|                        |                        |                        | in whole by Republic  |
+|                        |                        |                        | of Georgia as the     |
+|                        |                        |                        | Autonomous Republic   |
+|                        |                        |                        | of Abkhazia.          |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Suva                   | Fiji                   |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Taipei                 | Taiwan                 | Officially the        |
+| rg/wiki/List_of_nation |                        |                        | Republic of China     |
+| al_capitals_in_alphabe |                        |                        | (ROC), it has been    |
+| tical_order            |                        |                        | competing for         |
+|                        |                        |                        | recognition with the  |
+|                        |                        |                        | People's Republic of  |
+|                        |                        |                        | China (PRC) as the    |
+|                        |                        |                        | sole Chinese          |
+|                        |                        |                        | government since      |
+|                        |                        |                        | 1949. Taiwan controls |
+|                        |                        |                        | the island of Taiwan  |
+|                        |                        |                        | and its associated    |
+|                        |                        |                        | islands, Quemoy,      |
+|                        |                        |                        | Matsu, the Pratas,    |
+|                        |                        |                        | and part of the       |
+|                        |                        |                        | Spratly Islands[Note  |
+|                        |                        |                        | 1] The territory of   |
+|                        |                        |                        | Taiwan is claimed in  |
+|                        |                        |                        | whole by the People's |
+|                        |                        |                        | Republic of           |
+|                        |                        |                        | China.[Note 2] The    |
+|                        |                        |                        | Republic of China     |
+|                        |                        |                        | participates in the   |
+|                        |                        |                        | World Health          |
+|                        |                        |                        | Organization and a    |
+|                        |                        |                        | number of non-UN      |
+|                        |                        |                        | international         |
+|                        |                        |                        | organizations such as |
+|                        |                        |                        | the World Trade       |
+|                        |                        |                        | Organization,         |
+|                        |                        |                        | International Olympic |
+|                        |                        |                        | Committee and others  |
+|                        |                        |                        | under a variety of    |
+|                        |                        |                        | pseudonyms, most      |
+|                        |                        |                        | commonly Chinese      |
+|                        |                        |                        | Taipei.               |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Tallinn                | Estonia                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Tarawa                 | Kiribati               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Tashkent               | Uzbekistan             |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Tbilisi (official)     | Georgia                |                       |
+| rg/wiki/List_of_nation |  Kutaisi (legislative) |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Tegucigalpa            | Honduras               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Tehran                 | Iran                   |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Thimphu                | Bhutan                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Tirana                 | Albania                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Tiraspol               | Transnistria           | De facto independent  |
+| rg/wiki/List_of_nation |                        |                        | state, not recognized |
+| al_capitals_in_alphabe |                        |                        | by any UN-member, but |
+| tical_order            |                        |                        | by Abkhazia and South |
+|                        |                        |                        | Ossetia. Claimed in   |
+|                        |                        |                        | whole by the Republic |
+|                        |                        |                        | of Moldova as the     |
+|                        |                        |                        | Territorial Unit of   |
+|                        |                        |                        | Transnistria.         |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Tokyo                  | Japan                  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Tórshavn               | Faroe Islands          | Self-governing        |
+| rg/wiki/List_of_nation |                        |                        | country within the    |
+| al_capitals_in_alphabe |                        |                        | Kingdom of Denmark    |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Tripoli                | Libya                  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Tskhinvali             | South Ossetia          | De facto independent  |
+| rg/wiki/List_of_nation |                        |                        | state recognised by   |
+| al_capitals_in_alphabe |                        |                        | Russia, Nicaragua,    |
+| tical_order            |                        |                        | Nauru, Venezuela,     |
+|                        |                        |                        | Abkhazia and          |
+|                        |                        |                        | Transnistria. Claimed |
+|                        |                        |                        | in whole by the       |
+|                        |                        |                        | Republic of Georgia   |
+|                        |                        |                        | as the Provisional    |
+|                        |                        |                        | Administrative Entity |
+|                        |                        |                        | of South Ossetia.     |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Tunis                  | Tunisia                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Ulaanbaatar            | Mongolia               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Vaduz                  | Liechtenstein          |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Valletta               | Malta                  |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | The Valley             | Anguilla               | British Overseas      |
+| rg/wiki/List_of_nation |                        |                        | Territory             |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Vatican City           | Vatican City           | City-state            |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Victoria               | Seychelles             |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Vienna                 | Austria                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Vientiane              | Laos                   |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Vilnius                | Lithuania              |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Warsaw                 | Poland                 |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Washington, D.C.       | United States          |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Wellington             | New Zealand            | See also: Capital of  |
+| rg/wiki/List_of_nation |                        |                        | New Zealand           |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | West Island            | Cocos (Keeling)        | External territory of |
+| rg/wiki/List_of_nation |                        | Islands                | Australia             |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Willemstad             | Curaçao                | Self-governing        |
+| rg/wiki/List_of_nation |                        |                        | country within the    |
+| al_capitals_in_alphabe |                        |                        | Kingdom of the        |
+| tical_order            |                        |                        | Netherlands           |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Windhoek               | Namibia                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Yamoussoukro           | Ivory Coast            |                       |
+| rg/wiki/List_of_nation | (official)             |                        |                       |
+| al_capitals_in_alphabe |  Abidjan (former       |                        |                       |
+| tical_order            | capital; still has     |                        |                       |
+|                        | many government        |                        |                       |
+|                        | offices)               |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Yaoundé                | Cameroon               |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Yaren (de facto)       | Nauru                  | Country does not have |
+| rg/wiki/List_of_nation |                        |                        | an official capital;  |
+| al_capitals_in_alphabe |                        |                        | however, the          |
+| tical_order            |                        |                        | government offices    |
+|                        |                        |                        | are in Yaren.         |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Yerevan                | Armenia                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Zagreb                 | Croatia                |                       |
+| rg/wiki/List_of_nation |                        |                        |                       |
+| al_capitals_in_alphabe |                        |                        |                       |
+| tical_order            |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+

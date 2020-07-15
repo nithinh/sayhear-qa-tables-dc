@@ -1,0 +1,4 @@
+nltk >= 3.3
+numpy
+html2text >= 2018.1.9
+scipy    >= 1.1.0

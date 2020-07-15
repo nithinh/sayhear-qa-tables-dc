@@ -1,0 +1,38 @@
++-------------------------+--------------------+-------------------------+-------------------------+
+| url                     | Actor              | Actor_link              | Character               |
++-------------------------+--------------------+-------------------------+-------------------------+
+| https://en.wikipedia.or | Grant Gustin       | https://en.wikipedia.or | Barry Allen / The Flash |
+| g/wiki/The_Flash_(2014_ |                    | g/wiki/Grant_Gustin     |                         |
+| TV_series)#Cast_and_cha |                    |                         |                         |
+| racters                 |                    |                         |                         |
++-------------------------+--------------------+-------------------------+-------------------------+
+| https://en.wikipedia.or | Candice Patton     | https://en.wikipedia.or | Iris West               |
+| g/wiki/The_Flash_(2014_ |                    | g/wiki/Candice_Patton   |                         |
+| TV_series)#Cast_and_cha |                    |                         |                         |
+| racters                 |                    |                         |                         |
++-------------------------+--------------------+-------------------------+-------------------------+
+| https://en.wikipedia.or | Danielle Panabaker | https://en.wikipedia.or | Caitlin Snow / Killer   |
+| g/wiki/The_Flash_(2014_ |                    | g/wiki/Danielle_Panabak | Frost                   |
+| TV_series)#Cast_and_cha |                    | er                      |                         |
+| racters                 |                    |                         |                         |
++-------------------------+--------------------+-------------------------+-------------------------+
+| https://en.wikipedia.or | Carlos Valdes      | https://en.wikipedia.or | Cisco Ramon / Vibe      |
+| g/wiki/The_Flash_(2014_ |                    | g/wiki/Carlos_Valdes_(a |                         |
+| TV_series)#Cast_and_cha |                    | ctor)                   |                         |
+| racters                 |                    |                         |                         |
++-------------------------+--------------------+-------------------------+-------------------------+
+| https://en.wikipedia.or | Tom Cavanagh       | https://en.wikipedia.or | Harrison Wells          |
+| g/wiki/The_Flash_(2014_ |                    | g/wiki/Tom_Cavanagh     |                         |
+| TV_series)#Cast_and_cha |                    |                         |                         |
+| racters                 |                    |                         |                         |
++-------------------------+--------------------+-------------------------+-------------------------+
+| https://en.wikipedia.or | Keiynan Lonsdale   | https://en.wikipedia.or | Wally West / Kid Flash  |
+| g/wiki/The_Flash_(2014_ |                    | g/wiki/Keiynan_Lonsdale |                         |
+| TV_series)#Cast_and_cha |                    |                         |                         |
+| racters                 |                    |                         |                         |
++-------------------------+--------------------+-------------------------+-------------------------+
+| https://en.wikipedia.or | Neil Sandilands    | https://en.wikipedia.or | Clifford DeVoe / The    |
+| g/wiki/The_Flash_(2014_ |                    | g/wiki/Neil_Sandilands  | Thinker                 |
+| TV_series)#Cast_and_cha |                    |                         |                         |
+| racters                 |                    |                         |                         |
++-------------------------+--------------------+-------------------------+-------------------------+

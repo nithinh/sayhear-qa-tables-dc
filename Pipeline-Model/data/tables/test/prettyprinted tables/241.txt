@@ -1,0 +1,57 @@
++------------------------+------------------------+------------------------+-----------------------+
+| url                    | Key                    | Key_link               | Value                 |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Type                   | https://en.wikipedia.o | Sb, Sbc, or           |
+| rg/wiki/Milky_Way      |                        | rg/wiki/Galaxy_morphol | SB(rs)bc[1][2]        |
+|                        |                        | ogical_classification  | (barred spiral        |
+|                        |                        |                        | galaxy)               |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Diameter               | https://en.wikipedia.o | 100–180 kly (31–55    |
+| rg/wiki/Milky_Way      |                        | rg/wiki/Diameter       | kpc)[3]               |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Thickness of thin      |                        | ≈2 kly (0.6           |
+| rg/wiki/Milky_Way      | stellar disk           |                        | kpc)[4][5]            |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Number of stars        |                        | 100–400 billion (2.5  |
+| rg/wiki/Milky_Way      |                        |                        | × 1011 ± 1.5 ×        |
+|                        |                        |                        | 1011)[6][7][8]        |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Oldest known star;     | ; https://en.wikipedia | ≥13.7 Gyr[9]          |
+| rg/wiki/Milky_Way      | Oldest known star      | .org/wiki/HD_140283    |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Mass                   |                        | 0.8–1.5×1012          |
+| rg/wiki/Milky_Way      |                        |                        | M☉[10][11][12][13]    |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Angular momentum       |                        | ≈7067100000000000000♠ |
+| rg/wiki/Milky_Way      |                        |                        | 1×1067 J s[14]        |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Sun's distance to      | ; https://en.wikipedia | 26.4 ± 1.0 kly (8.09  |
+| rg/wiki/Milky_Way      | Galactic Center;       | .org/wiki/Galactic_Cen | ± 0.31                |
+|                        | Galactic Center        | ter                    | kpc)[15][16][17]      |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Sun's Galactic         | ; https://en.wikipedia | 240 Myr[18]           |
+| rg/wiki/Milky_Way      | rotation period;       | .org/wiki/Galactic_Yea |                       |
+|                        | Galactic rotation      | r                      |                       |
+|                        | period                 |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Spiral pattern         | ; https://en.wikipedia | 220–360 Myr[19]       |
+| rg/wiki/Milky_Way      | rotation period;       | .org/wiki/Density_wave |                       |
+|                        | Spiral pattern         | _theory                |                       |
+|                        | rotation period        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Bar pattern rotation   | ; https://en.wikipedia | 100–120 Myr[19]       |
+| rg/wiki/Milky_Way      | period; Bar pattern    | .org/wiki/Barred_spira |                       |
+|                        |                        | l_galaxy               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Speed relative to CMB  | ; https://en.wikipedia | 631 ± 20 km/s[20]     |
+| rg/wiki/Milky_Way      | rest frame; CMB        | .org/wiki/Cosmic_micro |                       |
+|                        |                        | wave_background        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Escape velocity at     |                        | 550 km/s[13]          |
+| rg/wiki/Milky_Way      | Sun's position         |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Dark matter density at |                        | 0.0088+0.0024         |
+| rg/wiki/Milky_Way      | Sun's position         |                        |  −0.0018 M☉pc-3 or    |
+|                        |                        |                        | 0.35+0.08             |
+|                        |                        |                        |  −0.07 GeV cm-3[13]   |
++------------------------+------------------------+------------------------+-----------------------+

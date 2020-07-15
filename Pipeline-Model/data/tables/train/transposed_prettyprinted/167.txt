@@ -1,0 +1,26 @@
++--------------------------------+--------------------------------+--------------------------------+
+| url                            | How_to                         | Steps                          |
++--------------------------------+--------------------------------+--------------------------------+
+| http://www.trustedreviews.com/ | How to deactivate Facebook     | 1. Click the account menu down |
+| news/how-to-delete-facebook-   | account                        | arrow at the top right of any  |
+| account-2950145                |                                | Facebook page in your web      |
+|                                |                                | browser                        |
+|                                |                                |  2. Select ‘Settings’          |
+|                                |                                |  3. Choose ‘General’ in the    |
+|                                |                                | left column                    |
+|                                |                                |  4. Click ‘Manage your         |
+|                                |                                | account’                       |
+|                                |                                |  5. Press ‘Deactivate your     |
+|                                |                                | account’, and then follow the  |
+|                                |                                | steps to confirm your decision |
++--------------------------------+--------------------------------+--------------------------------+
+| http://www.trustedreviews.com/ | How to delete Facebook account | 1. Click the account menu down |
+| news/how-to-delete-facebook-   |                                | arrow at the top right of any  |
+| account-2950145                |                                | Facebook page in your web      |
+|                                |                                | browser                        |
+|                                |                                |  2. Click ‘Download a copy of  |
+|                                |                                | your Facebook data’ at the     |
+|                                |                                | bottom of your General Account |
+|                                |                                | Settings                       |
+|                                |                                |  3. Choose ‘Start My Archive’  |
++--------------------------------+--------------------------------+--------------------------------+

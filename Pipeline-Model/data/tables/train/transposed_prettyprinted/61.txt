@@ -1,0 +1,18 @@
++------------+------------+------------+------------+-----------+-----------+-----------+----------+
+| Born       | Occupation | Nationalit | Alma mater | Genre     | Notable   | Spouse    | Children |
+|            |            | y          |            |           | works     |           |          |
++------------+------------+------------+------------+-----------+-----------+-----------+----------+
+| Valerie    | Writer,;   | United     | Pennsylvan | Autobiogr | Fair      | Todd      | 2        |
+| Elise      | Spy        | States     | ia State U | aphy; ,;  | Game: My  | Sesler (; |          |
+| Plame;     | Novelist;  |            | niversity; | memoir;   | Life as a | m.; 1987; |          |
+| August 13, | ,; CIA;    |            | (B.A., Adv | ,;        | Spy, My   | divorce 1 |          |
+| 1963; (age | officer; ( |            | ertising,  | political | Betrayal  | 989);     |          |
+| 54);       | 1985–2006) |            | 1985);     | criticism | by the    | Joseph C. |          |
+| Anchorage, |            |            | College of |           | White     | Wilson;   |          |
+| Alaska; ,  |            |            | Europe;    |           | House     | (; m.;    |          |
+| U.S.       |            |            | (M.A.);    |           |           | 1998)     |          |
+|            |            |            | London     |           |           |           |          |
+|            |            |            | School of  |           |           |           |          |
+|            |            |            | Economics; |           |           |           |          |
+|            |            |            | (M.A.)     |           |           |           |          |
++------------+------------+------------+------------+-----------+-----------+-----------+----------+

@@ -1,0 +1,15 @@
++-------------------------------------------+------------------+-----------------------------------+
+| url                                       | Drink            | Caffeine_Content                  |
++-------------------------------------------+------------------+-----------------------------------+
+| https://www.coca-colaproductfacts.com/en/ | 12 oz Coca-Cola: | 12 oz Coca-Cola: 34mg of caffeine |
+| faq/caffeine/caffeine-in-coke-and-diet-   |                  |                                   |
+| coke/                                     |                  |                                   |
++-------------------------------------------+------------------+-----------------------------------+
+| https://www.coca-colaproductfacts.com/en/ | 12 oz Diet Coke: | 12 oz Diet Coke: 46mg             |
+| faq/caffeine/caffeine-in-coke-and-diet-   |                  |                                   |
+| coke/                                     |                  |                                   |
++-------------------------------------------+------------------+-----------------------------------+
+| https://www.coca-colaproductfacts.com/en/ | 12 oz coffee:    | 12 oz coffee: 140mg or more       |
+| faq/caffeine/caffeine-in-coke-and-diet-   |                  |                                   |
+| coke/                                     |                  |                                   |
++-------------------------------------------+------------------+-----------------------------------+

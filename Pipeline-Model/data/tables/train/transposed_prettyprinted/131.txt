@@ -1,0 +1,13 @@
++-------------------+-------------------+-------------------+-------------------+------------------+
+| url               | Question          | Step_1            | Step_2            | Step_3           |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| http://www.samsun | Turn On Torch     | 1. Drag down from | 2. Drag down from | 3. Tap Torch     |
+| g.com/hk_en/suppo | (Android 7.0)     | top of screen     | bottom edge of    |                  |
+| rt/skp/faq/105816 |                   |                   | notification      |                  |
+| 2                 |                   |                   | board             |                  |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| http://www.samsun | Change Position   | 1. Tap "More"     | 2. Tap "Button    | 3. Drag Torch    |
+| g.com/hk_en/suppo | of Torch Icon     | icon              | order"            | icon to desired  |
+| rt/skp/faq/105816 |                   |                   |                   | position, and    |
+| 2                 |                   |                   |                   | tap "DONE"       |
++-------------------+-------------------+-------------------+-------------------+------------------+

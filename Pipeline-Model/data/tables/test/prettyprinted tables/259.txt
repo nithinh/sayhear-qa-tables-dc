@@ -1,0 +1,75 @@
++-----------------------------------------------------------+------+----------------------+--------+
+| url                                                       | Pick | Team                 | Record |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 1    | Browns               | 0-16   |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 2    | Giants               | 3-13   |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 3    | Colts                | 4-12   |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 4    | Browns (from Texans) | 0-16   |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 5    | Broncos              | 5-11   |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 6    | Jets                 | 5-11   |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 7    | Buccaneers           | 5-11   |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 8    | Bears                | 5-11   |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 9    | Raiders*             | 6-10   |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 10   | 49ers*               | 6-10   |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 11   | Dolphins             | 6-10   |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 12   | Bengals              | 7-9    |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 13   | Packers*             | 7-9    |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 14   | Redskins*            | 7-9    |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 15   | Cardinals            | 8-8    |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 16   | Ravens               | 9-7    |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 17   | Chargers             | 9-7    |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 18   | Seahawks             | 9-7    |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 19   | Cowboys              | 9-7    |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 20   | Lions                | 9-7    |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 21   | Bills                | 9-7    |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 22   | Bills (from Chiefs)  | 9-7    |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 23   | Rams                 | 11-5   |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+
+| https://pantherswire.usatoday.com/2018/01/08/carolina-    | 24   | Panthers             | 11-5   |
+| panthers-will-pick-no-24-in-the-2018-nfl-draft/           |      |                      |        |
++-----------------------------------------------------------+------+----------------------+--------+

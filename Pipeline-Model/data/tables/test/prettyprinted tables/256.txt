@@ -1,0 +1,47 @@
++-------------------+-------------------+-------------------+-------------------+------------------+
+| url               | Plan_Heading      | price             | data              | validity         |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://www.jio.c | CRICKET PACK      | 251               | 102GB DATA        | Validity: 51     |
+| om/en-in/4g-plans |                   |                   |                   | days             |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://www.jio.c | SACHETS PACKS     | 19; 52            | 0.15GB DATA;      | Validity: 1      |
+| om/en-in/4g-plans |                   |                   | 1.05GB DATA       | days; Validity:  |
+|                   |                   |                   |                   | 7 days           |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://www.jio.c | MOST AFFORDABLE   | 98                | 2GB DATA          | Validity: 28     |
+| om/en-in/4g-plans | PLANS             |                   |                   | days             |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://www.jio.c | 1 GB/DAY          |                   | 42GB DATA; 105GB  | Validity: 28     |
+| om/en-in/4g-plans |  1.5 GB/DAY PACKS |                   | DATA; 126GB DATA; | days; Validity:  |
+|                   |                   |                   | 136GB DATA        | 70 days;         |
+|                   |                   |                   |                   | Validity: 84     |
+|                   |                   |                   |                   | days; Validity:  |
+|                   |                   |                   |                   | 91 days          |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://www.jio.c | 1.5 GB/DAY        | 198; 398; 448;    | 56GB DATA; 140GB  | Validity: 28     |
+| om/en-in/4g-plans |  2 GB/DAY PACKS   | 498               | DATA; 168GB DATA; | days; Validity:  |
+|                   |                   |                   | 182GB DATA        | 70 days;         |
+|                   |                   |                   |                   | Validity: 84     |
+|                   |                   |                   |                   | days; Validity:  |
+|                   |                   |                   |                   | 91 days          |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://www.jio.c | 2 GB/DAY          | 299               | 84GB DATA         | Validity: 28     |
+| om/en-in/4g-plans |  3 GB/DAY PACKS   |                   |                   | days             |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://www.jio.c | 3 GB/DAY          | 509               | 112GB DATA        | Validity: 28     |
+| om/en-in/4g-plans |  4 GB/DAY PACKS   |                   |                   | days             |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://www.jio.c | 5 GB/DAY PACKS    | 799               | 140GB DATA        | Validity: 28     |
+| om/en-in/4g-plans |                   |                   |                   | days             |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://www.jio.c | LONG TERM PACKS   | 999; 1999; 4999;  | 60GB DATA; 125GB  | Validity: 90     |
+| om/en-in/4g-plans |                   | 9999              | DATA; 350GB DATA; | days; Validity:  |
+|                   |                   |                   | 750GB DATA        | 180 days;        |
+|                   |                   |                   |                   | Validity: 360    |
+|                   |                   |                   |                   | days; Validity:  |
+|                   |                   |                   |                   | 360 days         |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://www.jio.c | JioPhone Plan     | 49; 153           | 1GB DATA; 42GB    | Validity: 28     |
+| om/en-in/4g-plans |                   |                   | DATA              | days; Validity:  |
+|                   |                   |                   |                   | 28 days          |
++-------------------+-------------------+-------------------+-------------------+------------------+

@@ -1,0 +1,72 @@
++--------+--------+--------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Type   | Traded | Indust | Found | Found | Headq | Key p | Produ | Reven | Numbe | Divis | Websi |
+|        | as     | ry     | ed    | er    | uarte | eople | cts   | ue    | r of  | ions  | te    |
+|        |        |        |       |       | rs    |       |       |       | emplo |       |       |
+|        |        |        |       |       |       |       |       |       | yees  |       |       |
++--------+--------+--------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| https: | https: |        |       |       |       |       |       |       |       |       |       |
+| //en.w | //en.w |        |       |       |       |       |       |       |       |       |       |
+| ikiped | ikiped |        |       |       |       |       |       |       |       |       |       |
+| ia.org | ia.org |        |       |       |       |       |       |       |       |       |       |
+| /wiki/ | /wiki/ |        |       |       |       |       |       |       |       |       |       |
+| List_o | Ticker |        |       |       |       |       |       |       |       |       |       |
+| f_busi | _symbo |        |       |       |       |       |       |       |       |       |       |
+| ness_e | l      |        |       |       |       |       |       |       |       |       |       |
+| ntitie |        |        |       |       |       |       |       |       |       |       |       |
+| s      |        |        |       |       |       |       |       |       |       |       |       |
++--------+--------+--------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Public | NYSE;  | Media  | 1902  | Edwin | Des M | Steve | Newsp | US$1. | 3,600 | Natio | mered |
+|        | MDP;   |        |       | T. Me | oines | Lacy; | apers | 6 bil | (2016 | nal M | ith.c |
+|        | S&P    |        |       | redit | ,     | Tom   | ; Mag | lion  | )     | edia; | om    |
+|        | 400 Co |        |       | h     | Iowa  | Harty | azine | (2016 |       | Local |       |
+|        | mponen |        |       |       |       |       | s; Te | )[1]  |       | Media |       |
+|        | t      |        |       |       |       |       | levis |       |       |       |       |
+|        |        |        |       |       |       |       | ion;  |       |       |       |       |
+|        |        |        |       |       |       |       | Educa |       |       |       |       |
+|        |        |        |       |       |       |       | tiona |       |       |       |       |
+|        |        |        |       |       |       |       | l Ser |       |       |       |       |
+|        |        |        |       |       |       |       | vices |       |       |       |       |
+|        |        |        |       |       |       |       | ; Web |       |       |       |       |
+|        |        |        |       |       |       |       | sites |       |       |       |       |
++--------+--------+--------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| https: | https: | https: |       | https | https | https | https |       |       | https | http: |
+| //en.w | //en.w | //en.w |       | ://en | ://en | ://en | ://en |       |       | ://en | //mer |
+| ikiped | ikiped | ikiped |       | .wiki | .wiki | .wiki | .wiki |       |       | .wiki | edith |
+| ia.org | ia.org | ia.org |       | pedia | pedia | pedia | pedia |       |       | pedia | .com/ |
+| /wiki/ | /wiki/ | /wiki/ |       | .org/ | .org/ | .org/ | .org/ |       |       | .org/ |       |
+| Public | New_Yo | Mass_m |       | wiki/ | wiki/ | wiki/ | wiki/ |       |       | wiki/ |       |
+| _compa | rk_Sto | edia   |       | Edwin | Des_M | Steve | Newsp |       |       | Mered |       |
+| ny     | ck_Exc |        |       | _T._M | oines | _Lacy | aper; |       |       | ith_C |       |
+|        | hange; |        |       | eredi | ,_Iow | _(bus | https |       |       | orpor |       |
+|        | https: |        |       | th    | a     | iness | ://en |       |       | ation |       |
+|        | //www. |        |       |       |       | man); | .wiki |       |       | #Nati |       |
+|        | nyse.c |        |       |       |       |       | pedia |       |       | onal_ |       |
+|        | om/quo |        |       |       |       |       | .org/ |       |       | media |       |
+|        | te/XNY |        |       |       |       |       | wiki/ |       |       | ; htt |       |
+|        | S:MDP; |        |       |       |       |       | Magaz |       |       | ps:// |       |
+|        | https: |        |       |       |       |       | ine;  |       |       | en.wi |       |
+|        | //en.w |        |       |       |       |       | https |       |       | kiped |       |
+|        | ikiped |        |       |       |       |       | ://en |       |       | ia.or |       |
+|        | ia.org |        |       |       |       |       | .wiki |       |       | g/wik |       |
+|        | /wiki/ |        |       |       |       |       | pedia |       |       | i/Mer |       |
+|        | S%26P_ |        |       |       |       |       | .org/ |       |       | edith |       |
+|        | 400    |        |       |       |       |       | wiki/ |       |       | _Corp |       |
+|        |        |        |       |       |       |       | Telev |       |       | orati |       |
+|        |        |        |       |       |       |       | ision |       |       | on#Lo |       |
+|        |        |        |       |       |       |       | ; htt |       |       | cal_m |       |
+|        |        |        |       |       |       |       | ps:// |       |       | edia  |       |
+|        |        |        |       |       |       |       | en.wi |       |       |       |       |
+|        |        |        |       |       |       |       | kiped |       |       |       |       |
+|        |        |        |       |       |       |       | ia.or |       |       |       |       |
+|        |        |        |       |       |       |       | g/wik |       |       |       |       |
+|        |        |        |       |       |       |       | i/Edu |       |       |       |       |
+|        |        |        |       |       |       |       | catio |       |       |       |       |
+|        |        |        |       |       |       |       | n; ht |       |       |       |       |
+|        |        |        |       |       |       |       | tps:/ |       |       |       |       |
+|        |        |        |       |       |       |       | /en.w |       |       |       |       |
+|        |        |        |       |       |       |       | ikipe |       |       |       |       |
+|        |        |        |       |       |       |       | dia.o |       |       |       |       |
+|        |        |        |       |       |       |       | rg/wi |       |       |       |       |
+|        |        |        |       |       |       |       | ki/We |       |       |       |       |
+|        |        |        |       |       |       |       | bsite |       |       |       |       |
++--------+--------+--------+-------+-------+-------+-------+-------+-------+-------+-------+-------+

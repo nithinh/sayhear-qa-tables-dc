@@ -1,0 +1,23 @@
++-----------------------------------------------+-----------------+----------------------------+
+| url                                           | key             | value                      |
++-----------------------------------------------+-----------------+----------------------------+
+| https://www.britannica.com/biography/Darius-I | Also known as   | Darius the Great           |
+|                                               |                 | Darayavaush                |
++-----------------------------------------------+-----------------+----------------------------+
+| https://www.britannica.com/biography/Darius-I | born            | 550 BCE                    |
++-----------------------------------------------+-----------------+----------------------------+
+| https://www.britannica.com/biography/Darius-I | died            | 486 BCE                    |
++-----------------------------------------------+-----------------+----------------------------+
+| https://www.britannica.com/biography/Darius-I | title / office  | king, Egypt (522BC-486BC)  |
+|                                               |                 | king, Persia (522BC-486BC) |
++-----------------------------------------------+-----------------+----------------------------+
+| https://www.britannica.com/biography/Darius-I | role in         | Greco-Persian Wars         |
++-----------------------------------------------+-----------------+----------------------------+
+| https://www.britannica.com/biography/Darius-I | founder of      | Persepolis                 |
++-----------------------------------------------+-----------------+----------------------------+
+| https://www.britannica.com/biography/Darius-I | house / dynasty | Achaemenian dynasty        |
+|                                               |                 | Achaemenid dynasty         |
++-----------------------------------------------+-----------------+----------------------------+
+| https://www.britannica.com/biography/Darius-I | family          | father Hystaspes           |
+|                                               |                 | son Xerxes I               |
++-----------------------------------------------+-----------------+----------------------------+

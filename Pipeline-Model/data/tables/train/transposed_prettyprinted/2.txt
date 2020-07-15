@@ -1,0 +1,81 @@
++--------------------+--------------------+--------------------+--------------------+--------------+
+| url                | Category           | food               | temperature        | resting_time |
++--------------------+--------------------+--------------------+--------------------+--------------+
+| https://www.foodsa | Ground Meat & Meat | Beef, Pork, Veal,  | 160                | None         |
+| fety.gov/keep/char | Mixtures           | Lamb               |                    |              |
+| ts/mintemp.html    |                    |                    |                    |              |
++--------------------+--------------------+--------------------+--------------------+--------------+
+| https://www.foodsa | Ground Meat & Meat | Turkey, Chicken    | 165                | None         |
+| fety.gov/keep/char | Mixtures           |                    |                    |              |
+| ts/mintemp.html    |                    |                    |                    |              |
++--------------------+--------------------+--------------------+--------------------+--------------+
+| https://www.foodsa | Fresh Beef, Veal,  | Steaks, roasts,    | 145                | 3 minutes    |
+| fety.gov/keep/char | Lamb               | chops              |                    |              |
+| ts/mintemp.html    |                    |                    |                    |              |
++--------------------+--------------------+--------------------+--------------------+--------------+
+| https://www.foodsa | Poultry            | Chicken & Turkey,  | 165                | None         |
+| fety.gov/keep/char |                    | whole              |                    |              |
+| ts/mintemp.html    |                    |                    |                    |              |
++--------------------+--------------------+--------------------+--------------------+--------------+
+| https://www.foodsa | Poultry            | Poultry breasts,   | 165                | None         |
+| fety.gov/keep/char |                    | roasts             |                    |              |
+| ts/mintemp.html    |                    |                    |                    |              |
++--------------------+--------------------+--------------------+--------------------+--------------+
+| https://www.foodsa | Poultry            | Poultry thighs,    | 165                | None         |
+| fety.gov/keep/char |                    | legs, wings        |                    |              |
+| ts/mintemp.html    |                    |                    |                    |              |
++--------------------+--------------------+--------------------+--------------------+--------------+
+| https://www.foodsa | Poultry            | Duck & Goose       | 165                | None         |
+| fety.gov/keep/char |                    |                    |                    |              |
+| ts/mintemp.html    |                    |                    |                    |              |
++--------------------+--------------------+--------------------+--------------------+--------------+
+| https://www.foodsa | Poultry            | Stuffing (cooked   | 165                | None         |
+| fety.gov/keep/char |                    | alone or in bird)  |                    |              |
+| ts/mintemp.html    |                    |                    |                    |              |
++--------------------+--------------------+--------------------+--------------------+--------------+
+| https://www.foodsa | Pork and Ham       | Fresh pork         | 145                | 3 minutes    |
+| fety.gov/keep/char |                    |                    |                    |              |
+| ts/mintemp.html    |                    |                    |                    |              |
++--------------------+--------------------+--------------------+--------------------+--------------+
+| https://www.foodsa | Pork and Ham       | Fresh ham (raw)    | 145                | 3 minutes    |
+| fety.gov/keep/char |                    |                    |                    |              |
+| ts/mintemp.html    |                    |                    |                    |              |
++--------------------+--------------------+--------------------+--------------------+--------------+
+| https://www.foodsa | Pork and Ham       | Precooked ham (to  | 140                | None         |
+| fety.gov/keep/char |                    | reheat)            |                    |              |
+| ts/mintemp.html    |                    |                    |                    |              |
++--------------------+--------------------+--------------------+--------------------+--------------+
+| https://www.foodsa | Eggs & Egg Dishes  | Eggs               | Cook until yolk    | None         |
+| fety.gov/keep/char |                    |                    | and white are firm |              |
+| ts/mintemp.html    |                    |                    |                    |              |
++--------------------+--------------------+--------------------+--------------------+--------------+
+| https://www.foodsa | Eggs & Egg Dishes  | Egg dishes         | 160                | None         |
+| fety.gov/keep/char |                    |                    |                    |              |
+| ts/mintemp.html    |                    |                    |                    |              |
++--------------------+--------------------+--------------------+--------------------+--------------+
+| https://www.foodsa | Leftovers &        | Leftovers          | 165                | None         |
+| fety.gov/keep/char | Casseroles         |                    |                    |              |
+| ts/mintemp.html    |                    |                    |                    |              |
++--------------------+--------------------+--------------------+--------------------+--------------+
+| https://www.foodsa | Leftovers &        | Casseroles         | 165                | None         |
+| fety.gov/keep/char | Casseroles         |                    |                    |              |
+| ts/mintemp.html    |                    |                    |                    |              |
++--------------------+--------------------+--------------------+--------------------+--------------+
+| https://www.foodsa | Seafood            | Fin Fish           | 145 or cook until  | None         |
+| fety.gov/keep/char |                    |                    | flesh is opaque    |              |
+| ts/mintemp.html    |                    |                    | and separates      |              |
+|                    |                    |                    | easily with a      |              |
+|                    |                    |                    | fork.              |              |
++--------------------+--------------------+--------------------+--------------------+--------------+
+| https://www.foodsa | Seafood            | Shrimp, lobster,   | Cook until flesh   | None         |
+| fety.gov/keep/char |                    | and crabs          | is pearly and      |              |
+| ts/mintemp.html    |                    |                    | opaque.            |              |
++--------------------+--------------------+--------------------+--------------------+--------------+
+| https://www.foodsa | Seafood            | Clams, oysters,    | Cook until shells  | None         |
+| fety.gov/keep/char |                    | and mussels        | open during        |              |
+| ts/mintemp.html    |                    |                    | cooking.           |              |
++--------------------+--------------------+--------------------+--------------------+--------------+
+| https://www.foodsa | Seafood            | Scallops           | Cook until flesh   | None         |
+| fety.gov/keep/char |                    |                    | is milky white or  |              |
+| ts/mintemp.html    |                    |                    | opaque and firm.   |              |
++--------------------+--------------------+--------------------+--------------------+--------------+

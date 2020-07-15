@@ -1,0 +1,75 @@
++-------------------+-------------------+-------------------+-------------------+------------------+
+| url               | keys              | keys_link         | values            | values_link      |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://en.wikipe | Type              | https://en.wikipe | Public            | https://en.wikip |
+| dia.org/wiki/Mere |                   | dia.org/wiki/List |                   | edia.org/wiki/Pu |
+| dith_Corporation  |                   | _of_business_enti |                   | blic_company     |
+|                   |                   | ties              |                   |                  |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://en.wikipe | Traded as         | https://en.wikipe | NYSE; MDP; S&P    | https://en.wikip |
+| dia.org/wiki/Mere |                   | dia.org/wiki/Tick | 400 Component     | edia.org/wiki/Ne |
+| dith_Corporation  |                   | er_symbol         |                   | w_York_Stock_Exc |
+|                   |                   |                   |                   | hange; https://w |
+|                   |                   |                   |                   | ww.nyse.com/quot |
+|                   |                   |                   |                   | e/XNYS:MDP; http |
+|                   |                   |                   |                   | s://en.wikipedia |
+|                   |                   |                   |                   | .org/wiki/S%26P_ |
+|                   |                   |                   |                   | 400              |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://en.wikipe | Industry          |                   | Media             | https://en.wikip |
+| dia.org/wiki/Mere |                   |                   |                   | edia.org/wiki/Ma |
+| dith_Corporation  |                   |                   |                   | ss_media         |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://en.wikipe | Founded           |                   | 1902              |                  |
+| dia.org/wiki/Mere |                   |                   |                   |                  |
+| dith_Corporation  |                   |                   |                   |                  |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://en.wikipe | Founder           |                   | Edwin T. Meredith | https://en.wikip |
+| dia.org/wiki/Mere |                   |                   |                   | edia.org/wiki/Ed |
+| dith_Corporation  |                   |                   |                   | win_T._Meredith  |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://en.wikipe | Headquarters      |                   | Des Moines, Iowa  | https://en.wikip |
+| dia.org/wiki/Mere |                   |                   |                   | edia.org/wiki/De |
+| dith_Corporation  |                   |                   |                   | s_Moines,_Iowa   |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://en.wikipe | Key people        |                   | Steve Lacy; Tom   | https://en.wikip |
+| dia.org/wiki/Mere |                   |                   | Harty             | edia.org/wiki/St |
+| dith_Corporation  |                   |                   |                   | eve_Lacy_(busine |
+|                   |                   |                   |                   | ssman);          |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://en.wikipe | Products          |                   | Newspapers;       | https://en.wikip |
+| dia.org/wiki/Mere |                   |                   | Magazines;        | edia.org/wiki/Ne |
+| dith_Corporation  |                   |                   | Television;       | wspaper; https:/ |
+|                   |                   |                   | Educational       | /en.wikipedia.or |
+|                   |                   |                   | Services;         | g/wiki/Magazine; |
+|                   |                   |                   | Websites          | https://en.wikip |
+|                   |                   |                   |                   | edia.org/wiki/Te |
+|                   |                   |                   |                   | levision; https: |
+|                   |                   |                   |                   | //en.wikipedia.o |
+|                   |                   |                   |                   | rg/wiki/Educatio |
+|                   |                   |                   |                   | n; https://en.wi |
+|                   |                   |                   |                   | kipedia.org/wiki |
+|                   |                   |                   |                   | /Website         |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://en.wikipe | Revenue           |                   | US$1.6 billion    |                  |
+| dia.org/wiki/Mere |                   |                   | (2016)[1]         |                  |
+| dith_Corporation  |                   |                   |                   |                  |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://en.wikipe | Number of         |                   | 3,600 (2016)      |                  |
+| dia.org/wiki/Mere | employees         |                   |                   |                  |
+| dith_Corporation  |                   |                   |                   |                  |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://en.wikipe | Divisions         |                   | National Media;   | https://en.wikip |
+| dia.org/wiki/Mere |                   |                   | Local Media       | edia.org/wiki/Me |
+| dith_Corporation  |                   |                   |                   | redith_Corporati |
+|                   |                   |                   |                   | on#National_medi |
+|                   |                   |                   |                   | a; https://en.wi |
+|                   |                   |                   |                   | kipedia.org/wiki |
+|                   |                   |                   |                   | /Meredith_Corpor |
+|                   |                   |                   |                   | ation#Local_medi |
+|                   |                   |                   |                   | a                |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://en.wikipe | Website           |                   | meredith.com      | http://meredith. |
+| dia.org/wiki/Mere |                   |                   |                   | com/             |
+| dith_Corporation  |                   |                   |                   |                  |
++-------------------+-------------------+-------------------+-------------------+------------------+

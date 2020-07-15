@@ -1,0 +1,136 @@
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| url          | Date   | Date_link    | Venue        | Venue_link   | Location     | Location_lin |
+|              |        |              |              |              |              | k            |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| http://iprev | May 11 | https://www. | Anthem at    | https://www. | Sioux City,  | https://www. |
+| ailband.com/ |        | bandsintown. | Hard Rock    | bandsintown. | IA           | bandsintown. |
+| tour         |        | com/e/221081 | Hotel &      | com/e/221081 |              | com/e/221081 |
+|              |        | 25?app_id=js | Casino       | 25?app_id=js |              | 25?app_id=js |
+|              |        | _iprevailban |              | _iprevailban |              | _iprevailban |
+|              |        | d.com&came_f |              | d.com&came_f |              | d.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_ip |              | l_code=js_ip |              | l_code=js_ip |
+|              |        | revailband.c |              | revailband.c |              | revailband.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| http://iprev | May 12 | https://www. | Somerset     | https://www. | Somerset, WI | https://www. |
+| ailband.com/ |        | bandsintown. | Amphitheater | bandsintown. |              | bandsintown. |
+| tour         |        | com/e/208533 |              | com/e/208533 |              | com/e/208533 |
+|              |        | 45?app_id=js |              | 45?app_id=js |              | 45?app_id=js |
+|              |        | _iprevailban |              | _iprevailban |              | _iprevailban |
+|              |        | d.com&came_f |              | d.com&came_f |              | d.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_ip |              | l_code=js_ip |              | l_code=js_ip |
+|              |        | revailband.c |              | revailband.c |              | revailband.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| http://iprev | May 18 | https://www. | WIXO Spring  | https://www. | Peoria, IL   | https://www. |
+| ailband.com/ |        | bandsintown. | Fling        | bandsintown. |              | bandsintown. |
+| tour         |        | com/e/208095 |              | com/e/208095 |              | com/e/208095 |
+|              |        | 45?app_id=js |              | 45?app_id=js |              | 45?app_id=js |
+|              |        | _iprevailban |              | _iprevailban |              | _iprevailban |
+|              |        | d.com&came_f |              | d.com&came_f |              | d.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_ip |              | l_code=js_ip |              | l_code=js_ip |
+|              |        | revailband.c |              | revailband.c |              | revailband.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| http://iprev | May 19 | https://www. | Lafeyette    | https://www. | Lafayette,   | https://www. |
+| ailband.com/ |        | bandsintown. | Theater      | bandsintown. | IN           | bandsintown. |
+| tour         |        | com/e/221081 |              | com/e/221081 |              | com/e/221081 |
+|              |        | 29?app_id=js |              | 29?app_id=js |              | 29?app_id=js |
+|              |        | _iprevailban |              | _iprevailban |              | _iprevailban |
+|              |        | d.com&came_f |              | d.com&came_f |              | d.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_ip |              | l_code=js_ip |              | l_code=js_ip |
+|              |        | revailband.c |              | revailband.c |              | revailband.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| http://iprev | May 20 | https://www. | Mapfre       | https://www. | Columbus, OH | https://www. |
+| ailband.com/ |        | bandsintown. | Stadium      | bandsintown. |              | bandsintown. |
+| tour         |        | com/e/214716 |              | com/e/214716 |              | com/e/214716 |
+|              |        | 93?app_id=js |              | 93?app_id=js |              | 93?app_id=js |
+|              |        | _iprevailban |              | _iprevailban |              | _iprevailban |
+|              |        | d.com&came_f |              | d.com&came_f |              | d.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_ip |              | l_code=js_ip |              | l_code=js_ip |
+|              |        | revailband.c |              | revailband.c |              | revailband.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| http://iprev | May 25 | https://www. | Rocklahoma   | https://www. | Pryor, OK    | https://www. |
+| ailband.com/ |        | bandsintown. |              | bandsintown. |              | bandsintown. |
+| tour         |        | com/e/216573 |              | com/e/216573 |              | com/e/216573 |
+|              |        | 24?app_id=js |              | 24?app_id=js |              | 24?app_id=js |
+|              |        | _iprevailban |              | _iprevailban |              | _iprevailban |
+|              |        | d.com&came_f |              | d.com&came_f |              | d.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_ip |              | l_code=js_ip |              | l_code=js_ip |
+|              |        | revailband.c |              | revailband.c |              | revailband.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| http://iprev | May 26 | https://www. | Starplex     | https://www. | Dallas, TX   | https://www. |
+| ailband.com/ |        | bandsintown. | Pavillion    | bandsintown. |              | bandsintown. |
+| tour         |        | com/e/213504 |              | com/e/213504 |              | com/e/213504 |
+|              |        | 54?app_id=js |              | 54?app_id=js |              | 54?app_id=js |
+|              |        | _iprevailban |              | _iprevailban |              | _iprevailban |
+|              |        | d.com&came_f |              | d.com&came_f |              | d.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_ip |              | l_code=js_ip |              | l_code=js_ip |
+|              |        | revailband.c |              | revailband.c |              | revailband.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| http://iprev | Jun 01 | https://www. | The Apollo   | https://www. | Genoa, IL    | https://www. |
+| ailband.com/ |        | bandsintown. | Theatre      | bandsintown. |              | bandsintown. |
+| tour         |        | com/e/221081 |              | com/e/221081 |              | com/e/221081 |
+|              |        | 30?app_id=js |              | 30?app_id=js |              | 30?app_id=js |
+|              |        | _iprevailban |              | _iprevailban |              | _iprevailban |
+|              |        | d.com&came_f |              | d.com&came_f |              | d.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_ip |              | l_code=js_ip |              | l_code=js_ip |
+|              |        | revailband.c |              | revailband.c |              | revailband.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| http://iprev | Jun 02 | https://www. | Rockfest     | https://www. | Kansas City, | https://www. |
+| ailband.com/ |        | bandsintown. |              | bandsintown. | KS           | bandsintown. |
+| tour         |        | com/e/218459 |              | com/e/218459 |              | com/e/218459 |
+|              |        | 67?app_id=js |              | 67?app_id=js |              | 67?app_id=js |
+|              |        | _iprevailban |              | _iprevailban |              | _iprevailban |
+|              |        | d.com&came_f |              | d.com&came_f |              | d.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_ip |              | l_code=js_ip |              | l_code=js_ip |
+|              |        | revailband.c |              | revailband.c |              | revailband.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| http://iprev | Jun 03 | https://www. | Pop's        | https://www. | Sauget, IL   | https://www. |
+| ailband.com/ |        | bandsintown. |              | bandsintown. |              | bandsintown. |
+| tour         |        | com/e/221081 |              | com/e/221081 |              | com/e/221081 |
+|              |        | 24?app_id=js |              | 24?app_id=js |              | 24?app_id=js |
+|              |        | _iprevailban |              | _iprevailban |              | _iprevailban |
+|              |        | d.com&came_f |              | d.com&came_f |              | d.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_ip |              | l_code=js_ip |              | l_code=js_ip |
+|              |        | revailband.c |              | revailband.c |              | revailband.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| http://iprev | Jul 28 | https://www. | Heavy        | https://www. | Montreal,    | https://www. |
+| ailband.com/ |        | bandsintown. | Montreal     | bandsintown. | Canada       | bandsintown. |
+| tour         |        | com/e/216585 |              | com/e/216585 |              | com/e/216585 |
+|              |        | 58?app_id=js |              | 58?app_id=js |              | 58?app_id=js |
+|              |        | _iprevailban |              | _iprevailban |              | _iprevailban |
+|              |        | d.com&came_f |              | d.com&came_f |              | d.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_ip |              | l_code=js_ip |              | l_code=js_ip |
+|              |        | revailband.c |              | revailband.c |              | revailband.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| http://iprev | Jul 29 | https://www. | Heavy        | https://www. | Montreal,    | https://www. |
+| ailband.com/ |        | bandsintown. | Montreal     | bandsintown. | Canada       | bandsintown. |
+| tour         |        | com/e/216585 |              | com/e/216585 |              | com/e/216585 |
+|              |        | 71?app_id=js |              | 71?app_id=js |              | 71?app_id=js |
+|              |        | _iprevailban |              | _iprevailban |              | _iprevailban |
+|              |        | d.com&came_f |              | d.com&came_f |              | d.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_ip |              | l_code=js_ip |              | l_code=js_ip |
+|              |        | revailband.c |              | revailband.c |              | revailband.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+

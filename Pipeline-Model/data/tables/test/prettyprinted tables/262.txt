@@ -1,0 +1,236 @@
++-----------------------+----------------+----------------+----------------+-----------------------+
+| url                   | State_Name     | Date           | Order          | Pre-Statehood_Notes   |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Alabama        | Dec. 14, 1819  | 22 nd          | Territory by Act of   |
+| com/statehood.htm     |                |                |                | March 3, 1817,        |
+|                       |                |                |                | effective Aug. 15,    |
+|                       |                |                |                | 1817.                 |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Alaska         | Jan. 3, 1959   | 49 th          | A district from Oct.  |
+| com/statehood.htm     |                |                |                | 18, 1867, until it    |
+|                       |                |                |                | became an organized   |
+|                       |                |                |                | territory Aug. 24,    |
+|                       |                |                |                | 1912.                 |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Arizona        | Feb. 14, 1912  | 48 th          | This region was       |
+| com/statehood.htm     |                |                |                | sometimes called      |
+|                       |                |                |                | Arizona before 1863,  |
+|                       |                |                |                | although it was still |
+|                       |                |                |                | in the Territory of   |
+|                       |                |                |                | New Mexico.           |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Arkansas       | June 15, 1836  | 25 th          | The territory was     |
+| com/statehood.htm     |                |                |                | larger than the       |
+|                       |                |                |                | state. After          |
+|                       |                |                |                | statehood the         |
+|                       |                |                |                | leftover area to the  |
+|                       |                |                |                | west had post offices |
+|                       |                |                |                | that continued for    |
+|                       |                |                |                | some years to use an  |
+|                       |                |                |                | Arkansas abbreviation |
+|                       |                |                |                | in the postmarks,     |
+|                       |                |                |                | although they were    |
+|                       |                |                |                | really in the "Indian |
+|                       |                |                |                | Country."             |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | California     | Sept. 9, 1850  | 31 st          | Ceded by Mexico by    |
+| com/statehood.htm     |                |                |                | the Treaty of         |
+|                       |                |                |                | Guadalupe-Hidalgo,    |
+|                       |                |                |                | concluded Feb. 2,     |
+|                       |                |                |                | 1848, and proclaimed  |
+|                       |                |                |                | July 4, 1848. From    |
+|                       |                |                |                | then until statehood, |
+|                       |                |                |                | California had a      |
+|                       |                |                |                | military government   |
+|                       |                |                |                | until Dec. 20, 1849,  |
+|                       |                |                |                | and then a local      |
+|                       |                |                |                | civil government. It  |
+|                       |                |                |                | never had a           |
+|                       |                |                |                | territorial form of   |
+|                       |                |                |                | government.           |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Colorado       | Aug. 1, 1876   | 38 th          | .                     |
+| com/statehood.htm     |                |                |                |                       |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Connecticut    | Jan. 9, 1788   | 5 th           | The fifth of the      |
+| com/statehood.htm     |                |                |                | original 13 colonies. |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Delaware       | Dec. 7, 1787   | 1 st           | The first of the      |
+| com/statehood.htm     |                |                |                | original 13 colonies. |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Florida        | March 3, 1845  | 27 th          | .                     |
+| com/statehood.htm     |                |                |                |                       |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Georgia        | Jan. 2, 1788   | 4 th           | The fourth of the     |
+| com/statehood.htm     |                |                |                | original 13 colonies  |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Hawaii         | Aug. 21, 1959  | 50 th          | The territorial date  |
+| com/statehood.htm     |                |                |                | Aug. 12, 1898 is that |
+|                       |                |                |                | of the formal         |
+|                       |                |                |                | transfer to the       |
+|                       |                |                |                | United States, with   |
+|                       |                |                |                | Sanford B. Dole as    |
+|                       |                |                |                | first Governor.       |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Idaho          | July 3, 1890   | 43 rd          | .                     |
+| com/statehood.htm     |                |                |                |                       |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Illinois       | Dec. 3, 1818   | 21 st          | .                     |
+| com/statehood.htm     |                |                |                |                       |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Indiana        | Dec. 11, 1816  | 19 th          | There was a residue   |
+| com/statehood.htm     |                |                |                | of Indiana Territory  |
+|                       |                |                |                | that continued to     |
+|                       |                |                |                | exist under that name |
+|                       |                |                |                | until Dec. 3, 1818,   |
+|                       |                |                |                | when it was attached  |
+|                       |                |                |                | to Michigan           |
+|                       |                |                |                | Territory.            |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Iowa           | Dec. 28, 1846  | 29 th          | .                     |
+| com/statehood.htm     |                |                |                |                       |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Kansas         | Jan. 29, 1861  | 34 th          | .                     |
+| com/statehood.htm     |                |                |                |                       |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Kentucky       | June 1, 1792   | 15 th          | Never a territory, it |
+| com/statehood.htm     |                |                |                | was part of Virginia  |
+|                       |                |                |                | until statehood.      |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Louisiana      | April 30, 1812 | 18 th          | With certain boundary |
+| com/statehood.htm     |                |                |                | changes, had been the |
+|                       |                |                |                | Territory of Orleans. |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Maine          | March 15, 1820 | 23 rd          | What is now the state |
+| com/statehood.htm     |                |                |                | of Maine was, before  |
+|                       |                |                |                | statehood, called the |
+|                       |                |                |                | District of Maine and |
+|                       |                |                |                | belonged to           |
+|                       |                |                |                | Massachusetts.        |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Maryland       | April 28, 1788 | 7 th           | The seventh of the    |
+| com/statehood.htm     |                |                |                | original 13 colonies. |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Massachusetts  | Feb. 6, 1788   | 6 th           | The sixth of the      |
+| com/statehood.htm     |                |                |                | original 13 colonies  |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Michigan       | Jan. 26, 1837  | 26 th          | .                     |
+| com/statehood.htm     |                |                |                |                       |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Minnesota      | May 11, 1858   | 32 nd          | .                     |
+| com/statehood.htm     |                |                |                |                       |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Mississippi    | Dec. 10, 1817  | 20 th          | Territory by Act of   |
+| com/statehood.htm     |                |                |                | April 7, 1798,        |
+|                       |                |                |                | effective May 7,      |
+|                       |                |                |                | 1798.                 |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Missouri       | Aug. 10, 1821  | 24 th          | The state was much    |
+| com/statehood.htm     |                |                |                | smaller than the      |
+|                       |                |                |                | territory. The area   |
+|                       |                |                |                | to the west and       |
+|                       |                |                |                | northwest of the      |
+|                       |                |                |                | state, which had been |
+|                       |                |                |                | in the territory, was |
+|                       |                |                |                | commonly known as the |
+|                       |                |                |                | "Missouri Country"    |
+|                       |                |                |                | until May 30, 1854,   |
+|                       |                |                |                | and certain of the    |
+|                       |                |                |                | post offices in this  |
+|                       |                |                |                | area show a Missouri  |
+|                       |                |                |                | abbreviation in the   |
+|                       |                |                |                | postmark.             |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Montana        | Nov. 8, 1889   | 41 st          | .                     |
+| com/statehood.htm     |                |                |                |                       |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Nebraska       | March 1, 1867  | 37 th          | .                     |
+| com/statehood.htm     |                |                |                |                       |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Nevada         | Oct. 31, 1864  | 36 th          | .                     |
+| com/statehood.htm     |                |                |                |                       |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | New Hampshire  | June 21, 1788  | 9 th           | The ninth of the      |
+| com/statehood.htm     |                |                |                | original 13 colonies  |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | New Jersey     | Dec. 18, 1787  | 3 rd           | The third of the      |
+| com/statehood.htm     |                |                |                | original 13 colonies. |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | New Mexico     | Jan. 6, 1912   | 47th           | .                     |
+| com/statehood.htm     |                |                |                |                       |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | New York       | July 26, 1788  | 11 th          | The 11th of the       |
+| com/statehood.htm     |                |                |                | original 13 colonies. |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | North Carolina | Nov. 21, 1789  | 12 th          | The 12th of the       |
+| com/statehood.htm     |                |                |                | original 13 colonies. |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | North Dakota   | Nov. 2, 1889   | 39 th or 40 th | Was part of Dakota    |
+| com/statehood.htm     |                |                |                | Territory before      |
+|                       |                |                |                | statehood. Admitted   |
+|                       |                |                |                | on same day as South  |
+|                       |                |                |                | Dakota                |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Ohio           | March 1, 1803  | 17 th          | Was part of the       |
+| com/statehood.htm     |                |                |                | Northwest Territory   |
+|                       |                |                |                | until statehood.      |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Oklahoma       | Nov. 16, 1907  | 46 th          | The state was formed  |
+| com/statehood.htm     |                |                |                | from Oklahoma         |
+|                       |                |                |                | Territory and Indian  |
+|                       |                |                |                | Territory.            |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Oregon         | Feb. 14, 1859  | 33 rd          | .                     |
+| com/statehood.htm     |                |                |                |                       |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Pennsylvania   | Dec. 12, 1787  | 2 nd           | The second of the     |
+| com/statehood.htm     |                |                |                | original 13 colonies. |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Rhode Island   | May 29, 1790   | 13 th          | The 13th of the       |
+| com/statehood.htm     |                |                |                | original 13 colonies. |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | South Carolina | May 23, 1788   | 8 th           | The eighth of the     |
+| com/statehood.htm     |                |                |                | original 13 colonies. |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | South Dakota   | Nov. 2, 1889   | 39 th or 40 th | Was part of Dakota    |
+| com/statehood.htm     |                |                |                | Territory before      |
+|                       |                |                |                | statehood. Admitted   |
+|                       |                |                |                | on same day as North  |
+|                       |                |                |                | Dakota                |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Tennessee      | June 1, 1796   | 16 th          | Was Southwest         |
+| com/statehood.htm     |                |                |                | Territory before      |
+|                       |                |                |                | statehood.            |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Texas          | Dec. 29, 1845  | 28 th          | Was an independent    |
+| com/statehood.htm     |                |                |                | republic before       |
+|                       |                |                |                | statehood.            |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Utah           | Jan. 4, 1896   | 45 th          | .                     |
+| com/statehood.htm     |                |                |                |                       |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Vermont        | March 4, 1791  | 14 th          | Until statehood, had  |
+| com/statehood.htm     |                |                |                | been a region claimed |
+|                       |                |                |                | by both New York and  |
+|                       |                |                |                | New Hampshire         |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Virginia       | June 25, 1788  | 10 th          | The 10th of the       |
+| com/statehood.htm     |                |                |                | original 13 colonies. |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Washington     | Nov. 11, 1889  | 42 nd          | .                     |
+| com/statehood.htm     |                |                |                |                       |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | West Virginia  | June 20, 1863  | 35 th          | Was part of Virginia  |
+| com/statehood.htm     |                |                |                | until statehood.      |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Wisconsin      | May 29, 1848   | 30 th          | The state is smaller  |
+| com/statehood.htm     |                |                |                | than the territory    |
+|                       |                |                |                | and the leftover area |
+|                       |                |                |                | continued to be       |
+|                       |                |                |                | called the Territory  |
+|                       |                |                |                | of Wisconsin until    |
+|                       |                |                |                | March 3, 1849.        |
++-----------------------+----------------+----------------+----------------+-----------------------+
+| https://www.50states. | Wyoming        | July 10, 1890  | 44 th          | .                     |
+| com/statehood.htm     |                |                |                |                       |
++-----------------------+----------------+----------------+----------------+-----------------------+

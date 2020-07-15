@@ -1,0 +1,735 @@
+[
+    {
+        "directory": "http___www_citymayors_com_gratis_uscities_100_html_bkarki_17_9_2018@16_42_44",
+        "final_sql": "unknown",
+        "id": 302,
+        "long_a": "the 2012 census placed the population of las vegas at 596424",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Alexa",
+            "how",
+            "many",
+            "people",
+            "live",
+            "in",
+            "Las",
+            "Vegas"
+        ],
+        "short_a": "596424",
+        "table_type": 1
+    },
+    {
+        "directory": "http___www_worldometers_info_world-population_population-by-country__nithinh_19_12_2018@13_35_40",
+        "final_sql": "unknown",
+        "id": 303,
+        "long_a": "approximately 327 million people live in the united states.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Alexa",
+            "how",
+            "many",
+            "people",
+            "live",
+            "in",
+            "the",
+            "United",
+            "States"
+        ],
+        "short_a": "326,766,748",
+        "table_type": 1
+    },
+    {
+        "directory": "http___www_espn_com_nba_statistics_player___stat_scoring-per-game_sort_avgPoints_year_2019_seasontype_2_zihual_21_2_2019@0_35_20",
+        "final_sql": "unknown",
+        "id": 304,
+        "long_a": "james harden is the current leading scorer in the nba.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Alexa",
+            "who",
+            "is",
+            "the",
+            "current",
+            "NBA",
+            "leading",
+            "scorer"
+        ],
+        "short_a": "james harden",
+        "table_type": 1
+    },
+    {
+        "directory": "https___www_distancefromto_net_distance-from-antarctica-country_nithinh_18_9_2018@10_29_30",
+        "final_sql": "unknown",
+        "id": 305,
+        "long_a": "the distance from antarctica to australia is 7,237 kilometers.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Alexa",
+            "what",
+            "is",
+            "the",
+            "distance",
+            "between",
+            "Antartica",
+            "and",
+            "Australia"
+        ],
+        "short_a": "7,237 km",
+        "table_type": 1
+    },
+    {
+        "directory": "https___en_wikipedia_org_wiki_God_of_War_(2018_video_game)_zihual_3_2_2019@23_9_34",
+        "final_sql": "unknown",
+        "id": 306,
+        "long_a": "god of war releases on 20th april 2018 exclusively for ps4",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Alexa",
+            "when",
+            "is",
+            "god",
+            "of",
+            "war",
+            "releasing"
+        ],
+        "short_a": "release date: 20.04.2018",
+        "table_type": 2
+    },
+    {
+        "directory": "https___en_wikipedia_org_wiki_United_States_Attorney_General_nithinh_18_12_2018@20_36_40",
+        "final_sql": "unknown",
+        "id": 307,
+        "long_a": "the current attorney general is jeff sessions.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "who",
+            "is",
+            "the",
+            "attorney",
+            "general"
+        ],
+        "short_a": "matthew whitaker",
+        "table_type": 1
+    },
+    {
+        "directory": "https___en_wikipedia_org_wiki_List_of_Philadelphia_Eagles_starting_quarterbacks_nithinh_18_12_2018@20_47_22",
+        "final_sql": "unknown",
+        "id": 308,
+        "long_a": "the eagles quarterback is nick foles.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Alexa",
+            "who",
+            "is",
+            "the",
+            "eagles",
+            "quarterback"
+        ],
+        "short_a": "nick foles (3) / carson wentz (11)",
+        "table_type": 1
+    },
+    {
+        "directory": "https___www_britannica_com_place_Moon_sbarot_24_1_2019@13_38_47",
+        "final_sql": "unknown",
+        "id": 309,
+        "long_a": "the moon has a mass equal to 7.34 x 10^22 kilograms.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "What",
+            "is",
+            "the",
+            "Moon",
+            "s",
+            "mass",
+            "in",
+            "kilograms"
+        ],
+        "short_a": "7.34 x 10^22 kg",
+        "table_type": 1
+    },
+    {
+        "directory": "https___www_thecalculatorsite_com_forum_topics_gallons-and-cups_php_sbarot_24_1_2019@11_20_48",
+        "final_sql": "unknown",
+        "id": 310,
+        "long_a": "there are sixteen cups in one gallon of liquid.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "How",
+            "many",
+            "cups",
+            "are",
+            "in",
+            "a",
+            "gallon"
+        ],
+        "short_a": "16",
+        "table_type": 1
+    },
+    {
+        "directory": "https___en_wikipedia_org_wiki_The_Civil_War_(miniseries)_zihual_24_1_2019@0_10_49",
+        "final_sql": "unknown",
+        "id": 311,
+        "long_a": "ken burns documentary the civil war come out in september 23-28, 1990",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Alexa",
+            "when",
+            "did",
+            "the",
+            "Ken",
+            "Burns",
+            "documentary",
+            "The",
+            "Civil",
+            "War",
+            "come",
+            "out"
+        ],
+        "short_a": "september 23-28, 1990",
+        "table_type": 2
+    },
+    {
+        "directory": "https___rankings_the-elite_net_goldeneye_leaders_zihual_24_1_2019@0_16_33",
+        "final_sql": "unknown",
+        "id": 312,
+        "long_a": "karl jobst currently holds the world record for a speed run in goldeneye.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Alexa",
+            "who",
+            "holds",
+            "the",
+            "world",
+            "record",
+            "for",
+            "the",
+            "fastest",
+            "speed",
+            "run",
+            "in",
+            "the",
+            "Nintendo",
+            "64",
+            "game",
+            "Goldeneye"
+        ],
+        "short_a": "karl jobst",
+        "table_type": 1
+    },
+    {
+        "directory": "https___en_wikipedia_org_wiki_Altitude_(2010_film)_zihual_21_2_2019@0_40_36",
+        "final_sql": "unknown",
+        "id": 313,
+        "long_a": "jessica lowndes,julianna guill,ryan donowho,landon liboiron,jake weary, and mike dopud all starred in altitude 2010.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Who",
+            "starred",
+            "in",
+            "Altitude",
+            "2010"
+        ],
+        "short_a": "jessica lowndes",
+        "table_type": 2
+    },
+    {
+        "directory": "https___docs_google_com_spreadsheets_d_1kDFecULUftsBSNPctMnP3kApiHUkPb_DJmbrSpbegBk_edit#gid=844111661_sbarot_24_1_2019@13_45_16",
+        "final_sql": "unknown",
+        "id": 314,
+        "long_a": "valentine's day is on a wednesday in 2018.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "What",
+            "day",
+            "of",
+            "the",
+            "week",
+            "is",
+            "Valentine",
+            "s",
+            "Day",
+            "2018"
+        ],
+        "short_a": "in 2018 year valentine's day falls on\n second wednesday of february",
+        "table_type": 1
+    },
+    {
+        "directory": "https___en_wikipedia_org_wiki_Iowa_State_Capitol_zihual_17_12_2018@23_9_54",
+        "final_sql": "unknown",
+        "id": 315,
+        "long_a": "des moines is the capital city of the state of iowa.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Hey",
+            "Google",
+            "what",
+            "is",
+            "the",
+            "capital",
+            "of",
+            "Iowa"
+        ],
+        "short_a": "des moines",
+        "table_type": 2
+    },
+    {
+        "directory": "https___en_wikipedia_org_wiki_Age_of_candidacy_sbarot_24_1_2019@13_19_26",
+        "final_sql": "unknown",
+        "id": 316,
+        "long_a": "in the united states, presidents must be at least 35 years of age.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Hey",
+            "Alexa",
+            "how",
+            "old",
+            "do",
+            "you",
+            "have",
+            "to",
+            "be",
+            "to",
+            "be",
+            "the",
+            "president",
+            "of",
+            "the",
+            "United",
+            "States"
+        ],
+        "short_a": "thirty five",
+        "table_type": 1
+    },
+    {
+        "directory": "https___en_wikipedia_org_wiki_Lego_zihual_24_1_2019@0_3_37",
+        "final_sql": "unknown",
+        "id": 317,
+        "long_a": "lego was invented in 1949",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Alexa",
+            "when",
+            "was",
+            "the",
+            "Lego",
+            "invented"
+        ],
+        "short_a": "1949",
+        "table_type": 2
+    },
+    {
+        "directory": "https___www_50states_com_ndakota_htm_bkarki_17_9_2018@16_15_46",
+        "final_sql": "unknown",
+        "id": 318,
+        "long_a": "the capital of north dakota is bismarck",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "What",
+            "is",
+            "the",
+            "capital",
+            "of",
+            "north",
+            "dakota"
+        ],
+        "short_a": "bismarck",
+        "table_type": 2
+    },
+    {
+        "directory": "https___finance_yahoo_com_quote_BTC-USD?p=BTC-USD_zihual_3_2_2019@23_21_48",
+        "final_sql": "unknown",
+        "id": 319,
+        "long_a": "1 bitcoin is equal to $8985.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Alexa",
+            "what",
+            "is",
+            "the",
+            "rate",
+            "of",
+            "bitcoin",
+            "in",
+            "USD"
+        ],
+        "short_a": "$8,985",
+        "table_type": 2
+    },
+    {
+        "directory": "https___en_wikipedia_org_wiki_The_Smiths_discography_zihual_23_1_2019@23_40_55",
+        "final_sql": "unknown",
+        "id": 320,
+        "long_a": "the smiths recorded the album the smiths in 1984.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Alexa",
+            "what",
+            "album",
+            "did",
+            "The",
+            "Smiths",
+            "record",
+            "in",
+            "1984"
+        ],
+        "short_a": "the smiths",
+        "table_type": 1
+    },
+    {
+        "directory": "https___www_rapidtables_com_convert_weight_how-many-ounces-in-pound_html_lcallebe_18_9_2018@10_5_32",
+        "final_sql": "unknown",
+        "id": 321,
+        "long_a": "there are 16 ounces in one pound.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "How",
+            "many",
+            "ounces",
+            "in",
+            "a",
+            "pound"
+        ],
+        "short_a": "16 oz",
+        "table_type": 1
+    },
+    {
+        "directory": "https___en_wikipedia_org_wiki_Jane_Fonda_zihual_21_2_2019@0_16_1",
+        "final_sql": "unknown",
+        "id": 322,
+        "long_a": "she was born december 21, 1937 in new york city.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "How",
+            "old",
+            "is",
+            "Jane",
+            "Fonda"
+        ],
+        "short_a": "80",
+        "table_type": 2
+    },
+    {
+        "directory": "https___en_wikipedia_org_wiki_Grammy_Award_for_Best_Country_Album_sbarot_14_9_2018@15_48_52",
+        "final_sql": "unknown",
+        "id": 323,
+        "long_a": "chris stapleton won the best country album at the grammy's this year",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Alexa",
+            "who",
+            "won",
+            "best",
+            "country",
+            "album",
+            "at",
+            "the",
+            "grammys",
+            "this",
+            "year"
+        ],
+        "short_a": "chris stapleton",
+        "table_type": 1
+    },
+    {
+        "directory": "https___www_imdb_com_title_tt5117670_releaseinfo_sbarot_24_1_2019@13_59_48",
+        "final_sql": "unknown",
+        "id": 324,
+        "long_a": "the peter rabbit movie premiers in theaters february 9, 2018",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "When",
+            "does",
+            "the",
+            "new",
+            "Peter",
+            "Rabbit",
+            "Movie",
+            "come",
+            "out"
+        ],
+        "short_a": "in theaters february 9th",
+        "table_type": 1
+    },
+    {
+        "directory": "https___en_wikipedia_org_wiki_List_of_Vikings_episodes_zihual_23_1_2019@23_51_17",
+        "final_sql": "unknown",
+        "id": 325,
+        "long_a": "the last episode of viking aired on january 30, 2019",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "When",
+            "is",
+            "the",
+            "last",
+            "episode",
+            "of",
+            "Vikings"
+        ],
+        "short_a": "january 30, 2019",
+        "table_type": 1
+    },
+    {
+        "directory": "https___en_wikipedia_org_wiki_Oprah_Winfrey_zihual_21_2_2019@1_7_51",
+        "final_sql": "unknown",
+        "id": 326,
+        "long_a": "oprah winfrey is 64 years old.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "How",
+            "old",
+            "is",
+            "Oprah"
+        ],
+        "short_a": "64",
+        "table_type": 2
+    },
+    {
+        "directory": "https___en_wikipedia_org_wiki_Director_of_the_Federal_Bureau_of_Investigation_mgrabmair_14_9_2018@12_15_3",
+        "final_sql": "unknown",
+        "id": 327,
+        "long_a": "christopher a. wray, the current director of the fbi, was appointed by the president and confirmed by the senate.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Alexa",
+            "who",
+            "is",
+            "the",
+            "current",
+            "director",
+            "of",
+            "the",
+            "FBI"
+        ],
+        "short_a": "christopher a. wray",
+        "table_type": 1
+    },
+    {
+        "directory": "https___nssdc_gsfc_nasa_gov_planetary_factsheet_sunfact_html_nithinh_18_12_2018@19_48_18",
+        "final_sql": "unknown",
+        "id": 328,
+        "long_a": "the sun has a mass equal to 1.99 x 10^30 kilograms.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "What",
+            "is",
+            "the",
+            "Sun",
+            "s",
+            "mass",
+            "in",
+            "kilograms"
+        ],
+        "short_a": "1988500 * 10^24 kg",
+        "table_type": 1
+    },
+    {
+        "directory": "https___nssdc_gsfc_nasa_gov_planetary_factsheet__nithinh_18_12_2018@20_8_0",
+        "final_sql": "unknown",
+        "id": 329,
+        "long_a": "the earth has a mass equal to 5.97 x 10^24 kilograms.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "What",
+            "is",
+            "the",
+            "Earth",
+            "s",
+            "mass",
+            "in",
+            "kilograms"
+        ],
+        "short_a": "5.97 x 10^24 kg",
+        "table_type": 1
+    },
+    {
+        "directory": "https___en_wikipedia_org_wiki_Murder_of_John_Lennon_zihual_17_12_2018@23_3_34",
+        "final_sql": "unknown",
+        "id": 330,
+        "long_a": "mark david chapman killed john lennon on december 8, 1980.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Alexa",
+            "who",
+            "killed",
+            "John",
+            "Lennon"
+        ],
+        "short_a": "mark david chapman",
+        "table_type": 2
+    },
+    {
+        "directory": "https___www_moviefone_com_movies__fanh_17_9_2018@14_20_11",
+        "final_sql": "unknown",
+        "id": 331,
+        "long_a": "the incredibles 2 releases on june 15, 2018.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Alexa",
+            "when",
+            "does",
+            "The",
+            "Incredibles",
+            "2",
+            "release"
+        ],
+        "short_a": "15-jun-18",
+        "table_type": 1
+    },
+    {
+        "directory": "https___www_printyourbrackets_com_how-long-does-the-super-bowl-last_html_sbarot_24_1_2019@10_53_4",
+        "final_sql": "unknown",
+        "id": 332,
+        "long_a": "the superbowl lasts about four hours, depending on how long the half time show is each year.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "How",
+            "long",
+            "is",
+            "the",
+            "superbowl"
+        ],
+        "short_a": "about four hours depending on the halftime show",
+        "table_type": 1
+    },
+    {
+        "directory": "https___www_topuniversities_com_university-rankings_world-university-rankings_2019_zihual_21_2_2019@0_52_3",
+        "final_sql": "unknown",
+        "id": 333,
+        "long_a": "image result for what is carnegie mellon ranked?\n it has a total undergraduate enrollment of 6,673, its setting is urban, and the campus size is 149 acres. it utilizes a semester-based academic calendar. carnegie mellon university's ranking in the 2018 edition of best colleges is national universities, 25.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "What",
+            "is",
+            "Carnegie",
+            "Mellon",
+            "ranked"
+        ],
+        "short_a": "carnegie mellon university's ranking in the 2018 edition of best colleges is national universities, 25.",
+        "table_type": 1
+    },
+    {
+        "directory": "https___www_redcort_com_us-federal-bank-holidays__zihual_23_1_2019@23_56_36",
+        "final_sql": "unknown",
+        "id": 334,
+        "long_a": "the next bank holiday is new year's day",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "When",
+            "is",
+            "the",
+            "next",
+            "bank",
+            "holiday"
+        ],
+        "short_a": "new year's day",
+        "table_type": 1
+    },
+    {
+        "directory": "https___www_lose-weight-with-us_com_calories-in-fruit_html_nithinh_18_9_2018@15_47_7",
+        "final_sql": "unknown",
+        "id": 335,
+        "long_a": "there are 105 calories in 1 medium banana.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "How",
+            "many",
+            "calories",
+            "in",
+            "a",
+            "banana"
+        ],
+        "short_a": "105 calories, 1 medium",
+        "table_type": 1
+    },
+    {
+        "directory": "https___www_thecalculatorsite_com_articles_units_how-many-feet-in-a-mile_php_zihual_19_9_2018@0_4_59",
+        "final_sql": "unknown",
+        "id": 336,
+        "long_a": "there are 5280 feet in a mile",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "how",
+            "many",
+            "feet",
+            "are",
+            "in",
+            "a",
+            "mile"
+        ],
+        "short_a": "5280",
+        "table_type": 1
+    },
+    {
+        "directory": "https___en_wikipedia_org_wiki_Crazy_(Willie_Nelson_song)_zihual_19_9_2018@0_14_43",
+        "final_sql": "unknown",
+        "id": 337,
+        "long_a": "willie nelson wrote the song, crazy, that patsy cline popularized.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "who",
+            "wrote",
+            "the",
+            "song",
+            "Crazy"
+        ],
+        "short_a": "willie nelson",
+        "table_type": 2
+    },
+    {
+        "directory": "https___en_wikipedia_org_wiki_List_of_Presidents_of_the_United_States_sbarot_24_1_2019@12_51_59",
+        "final_sql": "unknown",
+        "id": 338,
+        "long_a": "the third president of the united states was thomas jefferson.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Alexa",
+            "who",
+            "was",
+            "the",
+            "United",
+            "States",
+            "third",
+            "president"
+        ],
+        "short_a": "thomas jefferson",
+        "table_type": 1
+    },
+    {
+        "directory": "https___en_wikipedia_org_wiki_List_of_countries_by_coffee_production_zihual_17_9_2018@14_16_26",
+        "final_sql": "unknown",
+        "id": 339,
+        "long_a": "brazil is the number one coffee exporter in the world.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Which",
+            "country",
+            "is",
+            "the",
+            "number",
+            "one",
+            "coffee",
+            "exporting"
+        ],
+        "short_a": "brazil",
+        "table_type": 1
+    },
+    {
+        "directory": "https___en_wikipedia_org_wiki_Eiffel_Tower_zihual_17_12_2018@22_54_4",
+        "final_sql": "unknown",
+        "id": 340,
+        "long_a": "the eiffel tower was built in 1889.",
+        "new_sql": "unknown",
+        "question_parsed": [
+            "Alexa",
+            "what",
+            "year",
+            "was",
+            "the",
+            "Eiffel",
+            "Tower",
+            "built"
+        ],
+        "short_a": "1889",
+        "table_type": 2
+    }
+]

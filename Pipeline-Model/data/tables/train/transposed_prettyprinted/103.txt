@@ -1,0 +1,23 @@
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| Birth name | Born       | Medium     | Years     | Genres    | Subject(s | Spouse    | Children  |
+|            |            |            | active    |           | )         |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| Caryn      | (1955-11-1 | Stand-up,  | 1982–pres | Observati | African-  | Alvin     | Alexandre |
+| Elaine     | 3)         | film, tele | ent       | onal      | American  | Martin    | a Martin  |
+| Johnson    | November   | vision,    |           | comedy,   | culture,  |  (m.      |           |
+|            | 13, 1955   | theatre,   |           | black     | American  | 1973;     |           |
+|            | (age 62)   | books      |           | comedy,   | politics, | div.      |           |
+|            | Manhattan, |            |           | insult    | race rela | 1979)     |           |
+|            | New York,  |            |           | comedy,   | tions,    |  David    |           |
+|            | U.S.       |            |           | surreal   | racism,   | Claessen  |           |
+|            |            |            |           | humor,    | marriage, |  (m.      |           |
+|            |            |            |           | character | sex,      | 1986;     |           |
+|            |            |            |           | comedy,   | everyday  | div.      |           |
+|            |            |            |           | satire    | life, pop | 1988)     |           |
+|            |            |            |           |           | culture,  |  Lyle Tra |           |
+|            |            |            |           |           | current   | chtenberg |           |
+|            |            |            |           |           | events    |  (m.      |           |
+|            |            |            |           |           |           | 1994;     |           |
+|            |            |            |           |           |           | div.      |           |
+|            |            |            |           |           |           | 1995)     |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+

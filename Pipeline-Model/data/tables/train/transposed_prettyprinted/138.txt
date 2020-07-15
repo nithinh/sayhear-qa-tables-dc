@@ -1,0 +1,1765 @@
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| url  | Numb | Pres | Pres | Pres | Pres | Date | Live | Prio | Par | Par | Beg | Ter | End | Vic |
+|      | er   | iden | iden | iden | iden | s_bi | d    | r_of | ty  | ty_ | in_ | m_n | _te | e_P |
+|      |      | cy_- | cy_- | t    | t_li | rth_ |      | fice |     | lin | ter | umb | rm  | res |
+|      |      | _beg | _end |      | nk   | and_ |      |      |     | k   | m   | er  |     | ide |
+|      |      | in   |      |      |      | deat |      |      |     |     |     |     |     | nt  |
+|      |      |      |      |      |      | h    |      |      |     |     |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 1    | Apri | Marc | Geor | http | 1732 | (Liv | Comm |     |     | (17 | 1   | (17 | Joh |
+| s:// |      | l    | h 4, | ge W | s:// | –179 | ed:  | ande |     |     | 88– |     | 89) | n A |
+| en.w |      | 30,  | 1797 | ashi | en.w | 9    | 67 y | r-   |     |     | 89) |     |     | dam |
+| ikip |      | 1789 |      | ngto | ikip |      | ears | in-C |     |     |     |     |     | s   |
+| edia |      |      |      | n    | edia |      | )    | hief |     |     |     |     |     |  [f |
+| .org |      |      |      |      | .org |      |      |  of  |     |     |     |     |     | ][g |
+| /wik |      |      |      |      | /wik |      |      | the  |     |     |     |     |     | ]   |
+| i/Li |      |      |      |      | i/Ge |      |      |  Con |     |     |     |     |     |     |
+| st_o |      |      |      |      | orge |      |      | tine |     |     |     |     |     |     |
+| f_Pr |      |      |      |      | _Was |      |      | ntal |     |     |     |     |     |     |
+| esid |      |      |      |      | hing |      |      | Army |     |     |     |     |     |     |
+| ents |      |      |      |      | ton  |      |      |  (17 |     |     |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      | 75–1 |     |     |     |     |     |     |
+| the_ |      |      |      |      |      |      |      | 783) |     |     |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     |     |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     |     |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     |     |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     |     |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 1    | Apri | Marc | Geor | http | 1732 | (Liv | Comm |     |     | (17 | 2   | (17 | Joh |
+| s:// |      | l    | h 4, | ge W | s:// | –179 | ed:  | ande |     |     | 92) |     | 93) | n A |
+| en.w |      | 30,  | 1797 | ashi | en.w | 9    | 67 y | r-   |     |     |     |     |     | dam |
+| ikip |      | 1789 |      | ngto | ikip |      | ears | in-C |     |     |     |     |     | s   |
+| edia |      |      |      | n    | edia |      | )    | hief |     |     |     |     |     |  [f |
+| .org |      |      |      |      | .org |      |      |  of  |     |     |     |     |     | ][g |
+| /wik |      |      |      |      | /wik |      |      | the  |     |     |     |     |     | ]   |
+| i/Li |      |      |      |      | i/Ge |      |      |  Con |     |     |     |     |     |     |
+| st_o |      |      |      |      | orge |      |      | tine |     |     |     |     |     |     |
+| f_Pr |      |      |      |      | _Was |      |      | ntal |     |     |     |     |     |     |
+| esid |      |      |      |      | hing |      |      | Army |     |     |     |     |     |     |
+| ents |      |      |      |      | ton  |      |      |  (17 |     |     |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      | 75–1 |     |     |     |     |     |     |
+| the_ |      |      |      |      |      |      |      | 783) |     |     |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     |     |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     |     |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     |     |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     |     |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 2    | Marc | Marc | John | http | 1735 | (Liv | 1st  | Fed | htt | (17 | 3   | (17 | Tho |
+| s:// |      | h 4, | h 4, | Adam | s:// | –182 | ed:  | Vice | era | ps: | 96) |     | 97) | mas |
+| en.w |      | 1797 | 1801 | s    | en.w | 6    | 90 y | Pres | lis | //e |     |     |     | Jef |
+| ikip |      |      |      |      | ikip |      | ears | iden | t   | n.w |     |     |     | fer |
+| edia |      |      |      |      | edia |      | )    | t of |     | iki |     |     |     | son |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     | [h] |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Jo |      |      | ed S |     | org |     |     |     |     |
+| st_o |      |      |      |      | hn_A |      |      | tate |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | dams |      |      | s    |     | ki/ |     |     |     |     |
+| esid |      |      |      |      |      |      |      |      |     | Fed |     |     |     |     |
+| ents |      |      |      |      |      |      |      |      |     | era |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | lis |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | t_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y   |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     |     |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     |     |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 3    | Marc | Marc | Thom | http | 1743 | (Liv | 2nd  | Dem | htt | (18 | 4   | (18 | Aar |
+| s:// |      | h 4, | h 4, | as J | s:// | –182 | ed:  | Vice | ocr | ps: | 00) |     | 01) | on  |
+| en.w |      | 1801 | 1809 | effe | en.w | 6    | 83 y | Pres | ati | //e |     |     |     | Bur |
+| ikip |      |      |      | rson | ikip |      | ears | iden | c-  | n.w |     |     |     | r   |
+| edia |      |      |      |      | edia |      | )    | t of |  Re | iki |     |     |     |  Ma |
+| .org |      |      |      |      | .org |      |      | the  | pub | ped |     |     |     | rch |
+| /wik |      |      |      |      | /wik |      |      | Unit | lic | ia. |     |     |     | 4,  |
+| i/Li |      |      |      |      | i/Th |      |      | ed S | an  | org |     |     |     | 180 |
+| st_o |      |      |      |      | omas |      |      | tate |     | /wi |     |     |     | 1 – |
+| f_Pr |      |      |      |      | _Jef |      |      | s    |     | ki/ |     |     |     | Mar |
+| esid |      |      |      |      | fers |      |      |      |     | Dem |     |     |     | ch  |
+| ents |      |      |      |      | on   |      |      |      |     | ocr |     |     |     | 4,  |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     | 180 |
+| the_ |      |      |      |      |      |      |      |      |     | c-R |     |     |     | 5   |
+| Unit |      |      |      |      |      |      |      |      |     | epu |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | bli |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | can |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | _Pa |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | rty |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 3    | Marc | Marc | Thom | http | 1743 | (Liv | 2nd  | Dem | htt | (18 | 5   | (18 | Geo |
+| s:// |      | h 4, | h 4, | as J | s:// | –182 | ed:  | Vice | ocr | ps: | 04) |     | 05) | rge |
+| en.w |      | 1801 | 1809 | effe | en.w | 6    | 83 y | Pres | ati | //e |     |     |     | Cli |
+| ikip |      |      |      | rson | ikip |      | ears | iden | c-  | n.w |     |     |     | nto |
+| edia |      |      |      |      | edia |      | )    | t of |  Re | iki |     |     |     | n   |
+| .org |      |      |      |      | .org |      |      | the  | pub | ped |     |     |     |  Ma |
+| /wik |      |      |      |      | /wik |      |      | Unit | lic | ia. |     |     |     | rch |
+| i/Li |      |      |      |      | i/Th |      |      | ed S | an  | org |     |     |     | 4,  |
+| st_o |      |      |      |      | omas |      |      | tate |     | /wi |     |     |     | 180 |
+| f_Pr |      |      |      |      | _Jef |      |      | s    |     | ki/ |     |     |     | 5 – |
+| esid |      |      |      |      | fers |      |      |      |     | Dem |     |     |     | Mar |
+| ents |      |      |      |      | on   |      |      |      |     | ocr |     |     |     | ch  |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     | 4,  |
+| the_ |      |      |      |      |      |      |      |      |     | c-R |     |     |     | 180 |
+| Unit |      |      |      |      |      |      |      |      |     | epu |     |     |     | 9   |
+| ed_S |      |      |      |      |      |      |      |      |     | bli |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | can |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | _Pa |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | rty |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 4    | Marc | Marc | Jame | http | 1751 | (Liv | 5th  | Dem | htt | (18 | 6   | (18 | Geo |
+| s:// |      | h 4, | h 4, | s Ma | s:// | –183 | ed:  |  Uni | ocr | ps: | 08) |     | 09) | rge |
+| en.w |      | 1809 | 1817 | diso | en.w | 6    | 85 y | ted  | ati | //e |     |     |     | Cli |
+| ikip |      |      |      | n    | ikip |      | ears | Stat | c-  | n.w |     |     |     | nto |
+| edia |      |      |      |      | edia |      | )    | es S |  Re | iki |     |     |     | n   |
+| .org |      |      |      |      | .org |      |      | ecre | pub | ped |     |     |     |  Ma |
+| /wik |      |      |      |      | /wik |      |      | tary | lic | ia. |     |     |     | rch |
+| i/Li |      |      |      |      | i/Ja |      |      | of S | an  | org |     |     |     | 4,  |
+| st_o |      |      |      |      | mes_ |      |      | tate |     | /wi |     |     |     | 180 |
+| f_Pr |      |      |      |      | Madi |      |      |  (18 |     | ki/ |     |     |     | 9 – |
+| esid |      |      |      |      | son  |      |      | 01–1 |     | Dem |     |     |     | Apr |
+| ents |      |      |      |      |      |      |      | 809) |     | ocr |     |     |     | il  |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     | 20, |
+| the_ |      |      |      |      |      |      |      |      |     | c-R |     |     |     | 181 |
+| Unit |      |      |      |      |      |      |      |      |     | epu |     |     |     | 2   |
+| ed_S |      |      |      |      |      |      |      |      |     | bli |     |     |     |  (D |
+| tate |      |      |      |      |      |      |      |      |     | can |     |     |     | ied |
+| s    |      |      |      |      |      |      |      |      |     | _Pa |     |     |     | in  |
+|      |      |      |      |      |      |      |      |      |     | rty |     |     |     | off |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | ice |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | )   |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 4    | Marc | Marc | Jame | http | 1751 | (Liv | 5th  | Dem | htt | (18 | 6   | (18 | Off |
+| s:// |      | h 4, | h 4, | s Ma | s:// | –183 | ed:  |  Uni | ocr | ps: | 08) |     | 09) | ice |
+| en.w |      | 1809 | 1817 | diso | en.w | 6    | 85 y | ted  | ati | //e |     |     |     | vac |
+| ikip |      |      |      | n    | ikip |      | ears | Stat | c-  | n.w |     |     |     | ant |
+| edia |      |      |      |      | edia |      | )    | es S |  Re | iki |     |     |     |  (B |
+| .org |      |      |      |      | .org |      |      | ecre | pub | ped |     |     |     | ala |
+| /wik |      |      |      |      | /wik |      |      | tary | lic | ia. |     |     |     | nce |
+| i/Li |      |      |      |      | i/Ja |      |      | of S | an  | org |     |     |     | of  |
+| st_o |      |      |      |      | mes_ |      |      | tate |     | /wi |     |     |     | Cli |
+| f_Pr |      |      |      |      | Madi |      |      |  (18 |     | ki/ |     |     |     | nto |
+| esid |      |      |      |      | son  |      |      | 01–1 |     | Dem |     |     |     | n's |
+| ents |      |      |      |      |      |      |      | 809) |     | ocr |     |     |     | ter |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     | m)  |
+| the_ |      |      |      |      |      |      |      |      |     | c-R |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | epu |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | bli |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | can |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | _Pa |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | rty |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 4    | Marc | Marc | Jame | http | 1751 | (Liv | 5th  | Dem | htt | (18 | 7   | (18 | Elb |
+| s:// |      | h 4, | h 4, | s Ma | s:// | –183 | ed:  |  Uni | ocr | ps: | 12) |     | 13) | rid |
+| en.w |      | 1809 | 1817 | diso | en.w | 6    | 85 y | ted  | ati | //e |     |     |     | ge  |
+| ikip |      |      |      | n    | ikip |      | ears | Stat | c-  | n.w |     |     |     | Ger |
+| edia |      |      |      |      | edia |      | )    | es S |  Re | iki |     |     |     | ry  |
+| .org |      |      |      |      | .org |      |      | ecre | pub | ped |     |     |     |  Ma |
+| /wik |      |      |      |      | /wik |      |      | tary | lic | ia. |     |     |     | rch |
+| i/Li |      |      |      |      | i/Ja |      |      | of S | an  | org |     |     |     | 4,  |
+| st_o |      |      |      |      | mes_ |      |      | tate |     | /wi |     |     |     | 181 |
+| f_Pr |      |      |      |      | Madi |      |      |  (18 |     | ki/ |     |     |     | 3 – |
+| esid |      |      |      |      | son  |      |      | 01–1 |     | Dem |     |     |     | Nov |
+| ents |      |      |      |      |      |      |      | 809) |     | ocr |     |     |     | emb |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     | er  |
+| the_ |      |      |      |      |      |      |      |      |     | c-R |     |     |     | 23, |
+| Unit |      |      |      |      |      |      |      |      |     | epu |     |     |     | 181 |
+| ed_S |      |      |      |      |      |      |      |      |     | bli |     |     |     | 4   |
+| tate |      |      |      |      |      |      |      |      |     | can |     |     |     |  (D |
+| s    |      |      |      |      |      |      |      |      |     | _Pa |     |     |     | ied |
+|      |      |      |      |      |      |      |      |      |     | rty |     |     |     | in  |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | off |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | ice |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | )   |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 4    | Marc | Marc | Jame | http | 1751 | (Liv | 5th  | Dem | htt | (18 | 7   | (18 | Off |
+| s:// |      | h 4, | h 4, | s Ma | s:// | –183 | ed:  |  Uni | ocr | ps: | 12) |     | 13) | ice |
+| en.w |      | 1809 | 1817 | diso | en.w | 6    | 85 y | ted  | ati | //e |     |     |     | vac |
+| ikip |      |      |      | n    | ikip |      | ears | Stat | c-  | n.w |     |     |     | ant |
+| edia |      |      |      |      | edia |      | )    | es S |  Re | iki |     |     |     |  (B |
+| .org |      |      |      |      | .org |      |      | ecre | pub | ped |     |     |     | ala |
+| /wik |      |      |      |      | /wik |      |      | tary | lic | ia. |     |     |     | nce |
+| i/Li |      |      |      |      | i/Ja |      |      | of S | an  | org |     |     |     | of  |
+| st_o |      |      |      |      | mes_ |      |      | tate |     | /wi |     |     |     | Ger |
+| f_Pr |      |      |      |      | Madi |      |      |  (18 |     | ki/ |     |     |     | ry' |
+| esid |      |      |      |      | son  |      |      | 01–1 |     | Dem |     |     |     | s t |
+| ents |      |      |      |      |      |      |      | 809) |     | ocr |     |     |     | erm |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     | )   |
+| the_ |      |      |      |      |      |      |      |      |     | c-R |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | epu |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | bli |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | can |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | _Pa |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | rty |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 5    | Marc | Marc | Jame | http | 1758 | (Liv | 7th  | Dem | htt | (18 | 8   | (18 | Dan |
+| s:// |      | h 4, | h 4, | s Mo | s:// | –183 | ed:  |  Uni | ocr | ps: | 16) |     | 17) | iel |
+| en.w |      | 1817 | 1825 | nroe | en.w | 1    | 73 y | ted  | ati | //e |     |     |     | D.  |
+| ikip |      |      |      |      | ikip |      | ears | Stat | c-  | n.w |     |     |     | Tom |
+| edia |      |      |      |      | edia |      | )    | es S |  Re | iki |     |     |     | pki |
+| .org |      |      |      |      | .org |      |      | ecre | pub | ped |     |     |     | ns  |
+| /wik |      |      |      |      | /wik |      |      | tary | lic | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Ja |      |      | of S | an  | org |     |     |     |     |
+| st_o |      |      |      |      | mes_ |      |      | tate |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | Monr |      |      |  (18 |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | oe   |      |      | 11–1 |     | Dem |     |     |     |     |
+| ents |      |      |      |      |      |      |      | 817) |     | ocr |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | c-R |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | epu |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | bli |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | can |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | _Pa |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | rty |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 5    | Marc | Marc | Jame | http | 1758 | (Liv | 7th  | Dem | htt | (18 | 9   | (18 | Dan |
+| s:// |      | h 4, | h 4, | s Mo | s:// | –183 | ed:  |  Uni | ocr | ps: | 20) |     | 21) | iel |
+| en.w |      | 1817 | 1825 | nroe | en.w | 1    | 73 y | ted  | ati | //e |     |     |     | D.  |
+| ikip |      |      |      |      | ikip |      | ears | Stat | c-  | n.w |     |     |     | Tom |
+| edia |      |      |      |      | edia |      | )    | es S |  Re | iki |     |     |     | pki |
+| .org |      |      |      |      | .org |      |      | ecre | pub | ped |     |     |     | ns  |
+| /wik |      |      |      |      | /wik |      |      | tary | lic | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Ja |      |      | of S | an  | org |     |     |     |     |
+| st_o |      |      |      |      | mes_ |      |      | tate |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | Monr |      |      |  (18 |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | oe   |      |      | 11–1 |     | Dem |     |     |     |     |
+| ents |      |      |      |      |      |      |      | 817) |     | ocr |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | c-R |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | epu |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | bli |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | can |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | _Pa |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | rty |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 6    | Marc | Marc | John | http | 1767 | (Liv | 8th  | Dem | htt | (18 | 10  | (18 | Joh |
+| s:// |      | h 4, | h 4, | Quin | s:// | –184 | ed:  |  Uni | ocr | ps: | 24) |     | 25) | n   |
+| en.w |      | 1825 | 1829 | cy A | en.w | 8    | 80 y | ted  | ati | //e |     |     |     | C.  |
+| ikip |      |      |      | dams | ikip |      | ears | Stat | c-  | n.w |     |     |     | Cal |
+| edia |      |      |      |      | edia |      | )    | es S |  Re | iki |     |     |     | hou |
+| .org |      |      |      |      | .org |      |      | ecre | pub | ped |     |     |     | n   |
+| /wik |      |      |      |      | /wik |      |      | tary | lic | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Jo |      |      | of S | an  | org |     |     |     |     |
+| st_o |      |      |      |      | hn_Q |      |      | tate |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | uinc |      |      |  (18 |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | y_Ad |      |      | 17–1 |     | Dem |     |     |     |     |
+| ents |      |      |      |      | ams  |      |      | 825) |     | ocr |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | c-R |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | epu |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | bli |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | can |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | _Pa |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | rty |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 7    | Marc | Marc | Andr | http | 1767 | (Liv | U.S. | Dem | htt | (18 | 11  | (18 | Joh |
+| s:// |      | h 4, | h 4, | ew J | s:// | –184 | ed:  | Sena | ocr | ps: | 28) |     | 29) | n   |
+| en.w |      | 1829 | 1837 | acks | en.w | 5    | 78 y | tor  | ati | //e |     |     |     | C.  |
+| ikip |      |      |      | on   | ikip |      | ears | (Cla | c   | n.w |     |     |     | Cal |
+| edia |      |      |      |      | edia |      | )    | ss   |     | iki |     |     |     | hou |
+| .org |      |      |      |      | .org |      |      | 2)   |     | ped |     |     |     | n   |
+| /wik |      |      |      |      | /wik |      |      | from |     | ia. |     |     |     | [i] |
+| i/Li |      |      |      |      | i/An |      |      | Tenn |     | org |     |     |     |  Ma |
+| st_o |      |      |      |      | drew |      |      | esse |     | /wi |     |     |     | rch |
+| f_Pr |      |      |      |      | _Jac |      |      | e    |     | ki/ |     |     |     | 4,  |
+| esid |      |      |      |      | kson |      |      |  (17 |     | Dem |     |     |     | 182 |
+| ents |      |      |      |      |      |      |      | 97–1 |     | ocr |     |     |     | 9 – |
+| _of_ |      |      |      |      |      |      |      | 798  |     | ati |     |     |     | Dec |
+| the_ |      |      |      |      |      |      |      | & 18 |     | c_P |     |     |     | emb |
+| Unit |      |      |      |      |      |      |      | 23–1 |     | art |     |     |     | er  |
+| ed_S |      |      |      |      |      |      |      | 825) |     | y_( |     |     |     | 28, |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     | 183 |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     | 2   |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |  (R |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     | esi |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     | gne |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | d f |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | rom |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | off |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | ice |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | )   |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 7    | Marc | Marc | Andr | http | 1767 | (Liv | U.S. | Dem | htt | (18 | 11  | (18 | Off |
+| s:// |      | h 4, | h 4, | ew J | s:// | –184 | ed:  | Sena | ocr | ps: | 28) |     | 29) | ice |
+| en.w |      | 1829 | 1837 | acks | en.w | 5    | 78 y | tor  | ati | //e |     |     |     | vac |
+| ikip |      |      |      | on   | ikip |      | ears | (Cla | c   | n.w |     |     |     | ant |
+| edia |      |      |      |      | edia |      | )    | ss   |     | iki |     |     |     |  (B |
+| .org |      |      |      |      | .org |      |      | 2)   |     | ped |     |     |     | ala |
+| /wik |      |      |      |      | /wik |      |      | from |     | ia. |     |     |     | nce |
+| i/Li |      |      |      |      | i/An |      |      | Tenn |     | org |     |     |     | of  |
+| st_o |      |      |      |      | drew |      |      | esse |     | /wi |     |     |     | Cal |
+| f_Pr |      |      |      |      | _Jac |      |      | e    |     | ki/ |     |     |     | hou |
+| esid |      |      |      |      | kson |      |      |  (17 |     | Dem |     |     |     | n's |
+| ents |      |      |      |      |      |      |      | 97–1 |     | ocr |     |     |     | ter |
+| _of_ |      |      |      |      |      |      |      | 798  |     | ati |     |     |     | m)  |
+| the_ |      |      |      |      |      |      |      | & 18 |     | c_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      | 23–1 |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      | 825) |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 7    | Marc | Marc | Andr | http | 1767 | (Liv | U.S. | Dem | htt | (18 | 12  | (18 | Mar |
+| s:// |      | h 4, | h 4, | ew J | s:// | –184 | ed:  | Sena | ocr | ps: | 32) |     | 33) | tin |
+| en.w |      | 1829 | 1837 | acks | en.w | 5    | 78 y | tor  | ati | //e |     |     |     | Van |
+| ikip |      |      |      | on   | ikip |      | ears | (Cla | c   | n.w |     |     |     | Bur |
+| edia |      |      |      |      | edia |      | )    | ss   |     | iki |     |     |     | en  |
+| .org |      |      |      |      | .org |      |      | 2)   |     | ped |     |     |     |  Ma |
+| /wik |      |      |      |      | /wik |      |      | from |     | ia. |     |     |     | rch |
+| i/Li |      |      |      |      | i/An |      |      | Tenn |     | org |     |     |     | 4,  |
+| st_o |      |      |      |      | drew |      |      | esse |     | /wi |     |     |     | 183 |
+| f_Pr |      |      |      |      | _Jac |      |      | e    |     | ki/ |     |     |     | 3 – |
+| esid |      |      |      |      | kson |      |      |  (17 |     | Dem |     |     |     | Mar |
+| ents |      |      |      |      |      |      |      | 97–1 |     | ocr |     |     |     | ch  |
+| _of_ |      |      |      |      |      |      |      | 798  |     | ati |     |     |     | 4,  |
+| the_ |      |      |      |      |      |      |      | & 18 |     | c_P |     |     |     | 183 |
+| Unit |      |      |      |      |      |      |      | 23–1 |     | art |     |     |     | 7   |
+| ed_S |      |      |      |      |      |      |      | 825) |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 8    | Marc | Marc | Mart | http | 1782 | (Liv | 8th  | Dem | htt | (18 | 13  | (18 | Ric |
+| s:// |      | h 4, | h 4, | in   | s:// | –186 | ed:  | Vice | ocr | ps: | 36) |     | 37) | har |
+| en.w |      | 1837 | 1841 | Van  | en.w | 2    | 79 y | Pres | ati | //e |     |     |     | d   |
+| ikip |      |      |      | Bure | ikip |      | ears | iden | c   | n.w |     |     |     | M.  |
+| edia |      |      |      | n    | edia |      | )    | t of |     | iki |     |     |     | Joh |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     | nso |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     | n   |
+| i/Li |      |      |      |      | i/Ma |      |      | ed S |     | org |     |     |     |     |
+| st_o |      |      |      |      | rtin |      |      | tate |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | _Van |      |      | s    |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | _Bur |      |      |      |     | Dem |     |     |     |     |
+| ents |      |      |      |      | en   |      |      |      |     | ocr |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | c_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 9    | Marc | Apri | Will | http | 1773 | (Liv | Unit | Whi | htt | (18 | 14  | (18 | Joh |
+| s:// |      | h 4, | l 4, | iam  | s:// | –184 | ed:  | ed S | g   | ps: | 40) |     | 41) | n T |
+| en.w |      | 1841 | 1841 | Henr | en.w | 1    | 68 y | tate |     | //e |     |     |  (1 | yle |
+| ikip |      |      |      | y Ha | ikip |      | ears | s Mi |     | n.w |     |     | 841 | r   |
+| edia |      |      |      | rris | edia |      | )    | nist |     | iki |     |     | )   |  (S |
+| .org |      |      |      | on   | .org |      |      | er   |     | ped |     |     |     | ucc |
+| /wik |      |      |      |      | /wik |      |      | to C |     | ia. |     |     |     | eed |
+| i/Li |      |      |      |      | i/Wi |      |      | olom |     | org |     |     |     | ed  |
+| st_o |      |      |      |      | llia |      |      | bia  |     | /wi |     |     |     | to  |
+| f_Pr |      |      |      |      | m_He |      |      |  (18 |     | ki/ |     |     |     | pre |
+| esid |      |      |      |      | nry_ |      |      | 28–1 |     | Whi |     |     |     | sid |
+| ents |      |      |      |      | Harr |      |      | 829) |     | g_P |     |     |     | enc |
+| _of_ |      |      |      |      | ison |      |      |      |     | art |     |     |     | y)  |
+| the_ |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 10   | Apri | Marc | John | http | 1790 | (Liv | 10th | Whi | htt | (18 | 14  | (18 | Off |
+| s:// |      | l 4, | h 4, | Tyle | s:// | –186 | ed:  | Vice | g   | ps: | 40) |     | 41) | ice |
+| en.w |      | 1841 | 1845 | r    | en.w | 2    | 71 y | Pres |     | //e |     |     |  (1 | vac |
+| ikip |      |  [k] |      |      | ikip |      | ears | iden |     | n.w |     |     | 841 | ant |
+| edia |      |      |      |      | edia |      | )    | t of |     | iki |     |     | )   |     |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Jo |      |      | ed S |     | org |     |     |     |     |
+| st_o |      |      |      |      | hn_T |      |      | tate |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | yler |      |      | s    |     | ki/ |     |     |     |     |
+| esid |      |      |      |      |      |      |      |      |     | Whi |     |     |     |     |
+| ents |      |      |      |      |      |      |      |      |     | g_P |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 10   | Apri | Marc | John | http | 1790 | (Liv | 10th |     |     | (18 | 14  | (18 | Off |
+| s:// |      | l 4, | h 4, | Tyle | s:// | –186 | ed:  | Vice |     |     | 40) |     | 41) | ice |
+| en.w |      | 1841 | 1845 | r    | en.w | 2    | 71 y | Pres |     |     |     |     |  (1 | vac |
+| ikip |      |  [k] |      |      | ikip |      | ears | iden |     |     |     |     | 841 | ant |
+| edia |      |      |      |      | edia |      | )    | t of |     |     |     |     | )   |     |
+| .org |      |      |      |      | .org |      |      | the  |     |     |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      | Unit |     |     |     |     |     |     |
+| i/Li |      |      |      |      | i/Jo |      |      | ed S |     |     |     |     |     |     |
+| st_o |      |      |      |      | hn_T |      |      | tate |     |     |     |     |     |     |
+| f_Pr |      |      |      |      | yler |      |      | s    |     |     |     |     |     |     |
+| esid |      |      |      |      |      |      |      |      |     |     |     |     |     |     |
+| ents |      |      |      |      |      |      |      |      |     |     |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     |     |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     |     |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     |     |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     |     |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     |     |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     |     |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 11   | Marc | Marc | Jame | http | 1795 | (Liv | 9th  | Dem | htt | (18 | 15  | (18 | Geo |
+| s:// |      | h 4, | h 4, | s K. | s:// | –184 | ed:  |  Gov | ocr | ps: | 44) |     | 45) | rge |
+| en.w |      | 1845 | 1849 | Polk | en.w | 9    | 53 y | erno | ati | //e |     |     |     | M.  |
+| ikip |      |      |      |      | ikip |      | ears | r of | c   | n.w |     |     |     | Dal |
+| edia |      |      |      |      | edia |      | )    | Tenn |     | iki |     |     |     | las |
+| .org |      |      |      |      | .org |      |      | esse |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      | e    |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Ja |      |      |  (18 |     | org |     |     |     |     |
+| st_o |      |      |      |      | mes_ |      |      | 39–1 |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | K._P |      |      | 841) |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | olk  |      |      |      |     | Dem |     |     |     |     |
+| ents |      |      |      |      |      |      |      |      |     | ocr |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | c_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 12   | Marc | July | Zach | http | 1784 | (Liv | Majo | Whi | htt | (18 | 16  | (18 | Mil |
+| s:// |      | h 4, | 9,   | ary  | s:// | –185 | ed:  | r Ge | g   | ps: | 48) |     | 49) | lar |
+| en.w |      | 1849 | 1850 | Tayl | en.w | 0    | 65 y | nera |     | //e |     |     |  (1 | d F |
+| ikip |      |      |      | or   | ikip |      | ears | l of |     | n.w |     |     | 850 | ill |
+| edia |      |      |      |      | edia |      | )    | the  |     | iki |     |     | )   | mor |
+| .org |      |      |      |      | .org |      |      | 1st  |     | ped |     |     |     | e   |
+| /wik |      |      |      |      | /wik |      |      | Infa |     | ia. |     |     |     |  (S |
+| i/Li |      |      |      |      | i/Za |      |      | ntry |     | org |     |     |     | ucc |
+| st_o |      |      |      |      | char |      |      | Regi |     | /wi |     |     |     | eed |
+| f_Pr |      |      |      |      | y_Ta |      |      | ment |     | ki/ |     |     |     | ed  |
+| esid |      |      |      |      | ylor |      |      |  Uni |     | Whi |     |     |     | to  |
+| ents |      |      |      |      |      |      |      | ted  |     | g_P |     |     |     | pre |
+| _of_ |      |      |      |      |      |      |      | Stat |     | art |     |     |     | sid |
+| the_ |      |      |      |      |      |      |      | es   |     | y_( |     |     |     | enc |
+| Unit |      |      |      |      |      |      |      | Army |     | Uni |     |     |     | y)  |
+| ed_S |      |      |      |      |      |      |      |  (18 |     | ted |     |     |     |     |
+| tate |      |      |      |      |      |      |      | 46–1 |     | _St |     |     |     |     |
+| s    |      |      |      |      |      |      |      | 849) |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |  (No |     | s)  |     |     |     |     |
+|      |      |      |      |      |      |      |      | prio |     |     |     |     |     |     |
+|      |      |      |      |      |      |      |      | r el |     |     |     |     |     |     |
+|      |      |      |      |      |      |      |      | ecte |     |     |     |     |     |     |
+|      |      |      |      |      |      |      |      | d of |     |     |     |     |     |     |
+|      |      |      |      |      |      |      |      | fice |     |     |     |     |     |     |
+|      |      |      |      |      |      |      |      | )    |     |     |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 13   | July | Marc | Mill | http | 1800 | (Liv | 12th | Whi | htt | (18 | 16  | (18 | Off |
+| s:// |      | 9,   | h 4, | ard  | s:// | –187 | ed:  | Vice | g   | ps: | 48) |     | 49) | ice |
+| en.w |      | 1850 | 1853 | Fill | en.w | 4    | 74 y | Pres |     | //e |     |     |  (1 | vac |
+| ikip |      |  [m] |      | more | ikip |      | ears | iden |     | n.w |     |     | 850 | ant |
+| edia |      |      |      |      | edia |      | )    | t of |     | iki |     |     | )   |     |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Mi |      |      | ed S |     | org |     |     |     |     |
+| st_o |      |      |      |      | llar |      |      | tate |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | d_Fi |      |      | s    |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | llmo |      |      |      |     | Whi |     |     |     |     |
+| ents |      |      |      |      | re   |      |      |      |     | g_P |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 14   | Marc | Marc | Fran | http | 1804 | (Liv | Brig | Dem | htt | (18 | 17  | (18 | Wil |
+| s:// |      | h 4, | h 4, | klin | s:// | –186 | ed:  | adie | ocr | ps: | 52) |     | 53) | lia |
+| en.w |      | 1853 | 1857 | Pier | en.w | 9    | 64 y | r Ge | ati | //e |     |     |     | m   |
+| ikip |      |      |      | ce   | ikip |      | ears | nera | c   | n.w |     |     |     | R.  |
+| edia |      |      |      |      | edia |      | )    | l of |     | iki |     |     |     | Kin |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     | g   |
+| /wik |      |      |      |      | /wik |      |      | 9th  |     | ia. |     |     |     |  Ma |
+| i/Li |      |      |      |      | i/Fr |      |      | Infa |     | org |     |     |     | rch |
+| st_o |      |      |      |      | ankl |      |      | ntry |     | /wi |     |     |     | 4 – |
+| f_Pr |      |      |      |      | in_P |      |      |  Uni |     | ki/ |     |     |     | Apr |
+| esid |      |      |      |      | ierc |      |      | ted  |     | Dem |     |     |     | il  |
+| ents |      |      |      |      | e    |      |      | Stat |     | ocr |     |     |     | 18, |
+| _of_ |      |      |      |      |      |      |      | es   |     | ati |     |     |     | 185 |
+| the_ |      |      |      |      |      |      |      | Army |     | c_P |     |     |     | 3   |
+| Unit |      |      |      |      |      |      |      |  (18 |     | art |     |     |     |  (D |
+| ed_S |      |      |      |      |      |      |      | 47–1 |     | y_( |     |     |     | ied |
+| tate |      |      |      |      |      |      |      | 848) |     | Uni |     |     |     | in  |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     | off |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     | ice |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     | )   |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 14   | Marc | Marc | Fran | http | 1804 | (Liv | Brig | Dem | htt | (18 | 17  | (18 | Off |
+| s:// |      | h 4, | h 4, | klin | s:// | –186 | ed:  | adie | ocr | ps: | 52) |     | 53) | ice |
+| en.w |      | 1853 | 1857 | Pier | en.w | 9    | 64 y | r Ge | ati | //e |     |     |     | vac |
+| ikip |      |      |      | ce   | ikip |      | ears | nera | c   | n.w |     |     |     | ant |
+| edia |      |      |      |      | edia |      | )    | l of |     | iki |     |     |     |  (B |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     | ala |
+| /wik |      |      |      |      | /wik |      |      | 9th  |     | ia. |     |     |     | nce |
+| i/Li |      |      |      |      | i/Fr |      |      | Infa |     | org |     |     |     | of  |
+| st_o |      |      |      |      | ankl |      |      | ntry |     | /wi |     |     |     | Kin |
+| f_Pr |      |      |      |      | in_P |      |      |  Uni |     | ki/ |     |     |     | g's |
+| esid |      |      |      |      | ierc |      |      | ted  |     | Dem |     |     |     | ter |
+| ents |      |      |      |      | e    |      |      | Stat |     | ocr |     |     |     | m)  |
+| _of_ |      |      |      |      |      |      |      | es   |     | ati |     |     |     |     |
+| the_ |      |      |      |      |      |      |      | Army |     | c_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |  (18 |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      | 47–1 |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      | 848) |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 15   | Marc | Marc | Jame | http | 1791 | (Liv | Unit | Dem | htt | (18 | 18  | (18 | Joh |
+| s:// |      | h 4, | h 4, | s Bu | s:// | –186 | ed:  | ed S | ocr | ps: | 56) |     | 57) | n   |
+| en.w |      | 1857 | 1861 | chan | en.w | 8    | 77 y | tate | ati | //e |     |     |     | C.  |
+| ikip |      |      |      | an   | ikip |      | ears | s Mi | c   | n.w |     |     |     | Bre |
+| edia |      |      |      |      | edia |      | )    | nist |     | iki |     |     |     | cki |
+| .org |      |      |      |      | .org |      |      | er   |     | ped |     |     |     | nri |
+| /wik |      |      |      |      | /wik |      |      | to   |     | ia. |     |     |     | dge |
+| i/Li |      |      |      |      | i/Ja |      |      | the  |     | org |     |     |     |     |
+| st_o |      |      |      |      | mes_ |      |      |  Cou |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | Buch |      |      | rt   |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | anan |      |      | of   |     | Dem |     |     |     |     |
+| ents |      |      |      |      |      |      |      | St J |     | ocr |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      | ames |     | ati |     |     |     |     |
+| the_ |      |      |      |      |      |      |      | 's   |     | c_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |  (18 |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      | 53–1 |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      | 856) |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 16   | Marc | Apri | Abra | http | 1809 | (Liv | U.S. | Rep | htt | (18 | 19  | (18 | Han |
+| s:// |      | h 4, | l    | ham  | s:// | –186 | ed:  | Repr | ubl | ps: | 60) |     | 61) | nib |
+| en.w |      | 1861 | 15,  | Linc | en.w | 5    | 56 y | esen | ica | //e |     |     |     | al  |
+| ikip |      |      | 1865 | oln  | ikip |      | ears | tati | n   | n.w |     |     |     | Ham |
+| edia |      |      |      |      | edia |      | )    | ve   |     | iki |     |     |     | lin |
+| .org |      |      |      |      | .org |      |      | for  |     | ped |     |     |     |  Ma |
+| /wik |      |      |      |      | /wik |      |      | Illi |     | ia. |     |     |     | rch |
+| i/Li |      |      |      |      | i/Ab |      |      | nois |     | org |     |     |     | 4,  |
+| st_o |      |      |      |      | raha |      |      | 's   |     | /wi |     |     |     | 186 |
+| f_Pr |      |      |      |      | m_Li |      |      | 7th  |     | ki/ |     |     |     | 1 – |
+| esid |      |      |      |      | ncol |      |      | Dist |     | Rep |     |     |     | Mar |
+| ents |      |      |      |      | n    |      |      | rict |     | ubl |     |     |     | ch  |
+| _of_ |      |      |      |      |      |      |      |  (18 |     | ica |     |     |     | 4,  |
+| the_ |      |      |      |      |      |      |      | 47–1 |     | n_P |     |     |     | 186 |
+| Unit |      |      |      |      |      |      |      | 849) |     | art |     |     |     | 5   |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 16   | Marc | Apri | Abra | http | 1809 | (Liv | U.S. | Rep | htt | (18 | 20  | (18 | And |
+| s:// |      | h 4, | l    | ham  | s:// | –186 | ed:  | Repr | ubl | ps: | 64) |     | 65) | rew |
+| en.w |      | 1861 | 15,  | Linc | en.w | 5    | 56 y | esen | ica | //e |     |     |  (1 | Joh |
+| ikip |      |      | 1865 | oln  | ikip |      | ears | tati | n   | n.w |     |     | 865 | nso |
+| edia |      |      |      |      | edia |      | )    | ve   |     | iki |     |     | )   | n   |
+| .org |      |      |      |      | .org |      |      | for  |     | ped |     |     |     |  Ma |
+| /wik |      |      |      |      | /wik |      |      | Illi |     | ia. |     |     |     | rch |
+| i/Li |      |      |      |      | i/Ab |      |      | nois |     | org |     |     |     | 4 – |
+| st_o |      |      |      |      | raha |      |      | 's   |     | /wi |     |     |     | Apr |
+| f_Pr |      |      |      |      | m_Li |      |      | 7th  |     | ki/ |     |     |     | il  |
+| esid |      |      |      |      | ncol |      |      | Dist |     | Rep |     |     |     | 15, |
+| ents |      |      |      |      | n    |      |      | rict |     | ubl |     |     |     | 186 |
+| _of_ |      |      |      |      |      |      |      |  (18 |     | ica |     |     |     | 5   |
+| the_ |      |      |      |      |      |      |      | 47–1 |     | n_P |     |     |     |  (S |
+| Unit |      |      |      |      |      |      |      | 849) |     | art |     |     |     | ucc |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     | eed |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     | ed  |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     | to  |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     | pre |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     | sid |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     | enc |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | y)  |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 17   | Apri | Marc | Andr | http | 1808 | (Liv | 16th | Nat | htt | (18 | 20  | (18 | Off |
+| s:// |      | l    | h 4, | ew J | s:// | –187 | ed:  | Vice | ion | ps: | 64) |     | 65) | ice |
+| en.w |      | 15,  | 1869 | ohns | en.w | 5    | 66 y | Pres | al  | //e |     |     |  (1 | vac |
+| ikip |      | 1865 |      | on   | ikip |      | ears | iden | Uni | n.w |     |     | 865 | ant |
+| edia |      |      |      |      | edia |      | )    | t of | on  | iki |     |     | )   |     |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/An |      |      | ed S |     | org |     |     |     |     |
+| st_o |      |      |      |      | drew |      |      | tate |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | _Joh |      |      | s    |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | nson |      |      |      |     | Nat |     |     |     |     |
+| ents |      |      |      |      |      |      |      |      |     | ion |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | al_ |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | on_ |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | Par |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | ty_ |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | (Un |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ite |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | d_S |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | tat |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | es) |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 17   | Apri | Marc | Andr | http | 1808 | (Liv | 16th | Dem | htt | (18 | 20  | (18 | Off |
+| s:// |      | l    | h 4, | ew J | s:// | –187 | ed:  | Vice | ocr | ps: | 64) |     | 65) | ice |
+| en.w |      | 15,  | 1869 | ohns | en.w | 5    | 66 y | Pres | ati | //e |     |     |  (1 | vac |
+| ikip |      | 1865 |      | on   | ikip |      | ears | iden | c   | n.w |     |     | 865 | ant |
+| edia |      |      |      |      | edia |      | )    | t of |     | iki |     |     | )   |     |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/An |      |      | ed S |     | org |     |     |     |     |
+| st_o |      |      |      |      | drew |      |      | tate |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | _Joh |      |      | s    |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | nson |      |      |      |     | Dem |     |     |     |     |
+| ents |      |      |      |      |      |      |      |      |     | ocr |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | c_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 18   | Marc | Marc | Ulys | http | 1822 | (Liv | Comm | Rep | htt | (18 | 21  | (18 | Sch |
+| s:// |      | h 4, | h 4, | ses  | s:// | –188 | ed:  | andi | ubl | ps: | 68) |     | 69) | uyl |
+| en.w |      | 1869 | 1877 | S. G | en.w | 5    | 63 y | ng G | ica | //e |     |     |     | er  |
+| ikip |      |      |      | rant | ikip |      | ears | ener | n   | n.w |     |     |     | Col |
+| edia |      |      |      |      | edia |      | )    | al   |     | iki |     |     |     | fax |
+| .org |      |      |      |      | .org |      |      | of   |     | ped |     |     |     |  Ma |
+| /wik |      |      |      |      | /wik |      |      | the  |     | ia. |     |     |     | rch |
+| i/Li |      |      |      |      | i/Ul |      |      | U.S. |     | org |     |     |     | 4,  |
+| st_o |      |      |      |      | ysse |      |      | Army |     | /wi |     |     |     | 186 |
+| f_Pr |      |      |      |      | s_S. |      |      |  (18 |     | ki/ |     |     |     | 9 – |
+| esid |      |      |      |      | _Gra |      |      | 64–1 |     | Rep |     |     |     | Mar |
+| ents |      |      |      |      | nt   |      |      | 869) |     | ubl |     |     |     | ch  |
+| _of_ |      |      |      |      |      |      |      |  (No |     | ica |     |     |     | 4,  |
+| the_ |      |      |      |      |      |      |      | prio |     | n_P |     |     |     | 187 |
+| Unit |      |      |      |      |      |      |      | r el |     | art |     |     |     | 3   |
+| ed_S |      |      |      |      |      |      |      | ecte |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      | d of |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      | fice |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      | )    |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 18   | Marc | Marc | Ulys | http | 1822 | (Liv | Comm | Rep | htt | (18 | 22  | (18 | Hen |
+| s:// |      | h 4, | h 4, | ses  | s:// | –188 | ed:  | andi | ubl | ps: | 72) |     | 73) | ry  |
+| en.w |      | 1869 | 1877 | S. G | en.w | 5    | 63 y | ng G | ica | //e |     |     |     | Wil |
+| ikip |      |      |      | rant | ikip |      | ears | ener | n   | n.w |     |     |     | son |
+| edia |      |      |      |      | edia |      | )    | al   |     | iki |     |     |     |  Ma |
+| .org |      |      |      |      | .org |      |      | of   |     | ped |     |     |     | rch |
+| /wik |      |      |      |      | /wik |      |      | the  |     | ia. |     |     |     | 4,  |
+| i/Li |      |      |      |      | i/Ul |      |      | U.S. |     | org |     |     |     | 187 |
+| st_o |      |      |      |      | ysse |      |      | Army |     | /wi |     |     |     | 3 – |
+| f_Pr |      |      |      |      | s_S. |      |      |  (18 |     | ki/ |     |     |     | Nov |
+| esid |      |      |      |      | _Gra |      |      | 64–1 |     | Rep |     |     |     | emb |
+| ents |      |      |      |      | nt   |      |      | 869) |     | ubl |     |     |     | er  |
+| _of_ |      |      |      |      |      |      |      |  (No |     | ica |     |     |     | 22, |
+| the_ |      |      |      |      |      |      |      | prio |     | n_P |     |     |     | 187 |
+| Unit |      |      |      |      |      |      |      | r el |     | art |     |     |     | 5   |
+| ed_S |      |      |      |      |      |      |      | ecte |     | y_( |     |     |     |  (D |
+| tate |      |      |      |      |      |      |      | d of |     | Uni |     |     |     | ied |
+| s    |      |      |      |      |      |      |      | fice |     | ted |     |     |     | in  |
+|      |      |      |      |      |      |      |      | )    |     | _St |     |     |     | off |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     | ice |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     | )   |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 18   | Marc | Marc | Ulys | http | 1822 | (Liv | Comm | Rep | htt | (18 | 22  | (18 | Off |
+| s:// |      | h 4, | h 4, | ses  | s:// | –188 | ed:  | andi | ubl | ps: | 72) |     | 73) | ice |
+| en.w |      | 1869 | 1877 | S. G | en.w | 5    | 63 y | ng G | ica | //e |     |     |     | vac |
+| ikip |      |      |      | rant | ikip |      | ears | ener | n   | n.w |     |     |     | ant |
+| edia |      |      |      |      | edia |      | )    | al   |     | iki |     |     |     |  (B |
+| .org |      |      |      |      | .org |      |      | of   |     | ped |     |     |     | ala |
+| /wik |      |      |      |      | /wik |      |      | the  |     | ia. |     |     |     | nce |
+| i/Li |      |      |      |      | i/Ul |      |      | U.S. |     | org |     |     |     | of  |
+| st_o |      |      |      |      | ysse |      |      | Army |     | /wi |     |     |     | Wil |
+| f_Pr |      |      |      |      | s_S. |      |      |  (18 |     | ki/ |     |     |     | son |
+| esid |      |      |      |      | _Gra |      |      | 64–1 |     | Rep |     |     |     | 's  |
+| ents |      |      |      |      | nt   |      |      | 869) |     | ubl |     |     |     | ter |
+| _of_ |      |      |      |      |      |      |      |  (No |     | ica |     |     |     | m)  |
+| the_ |      |      |      |      |      |      |      | prio |     | n_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      | r el |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      | ecte |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      | d of |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      | fice |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      | )    |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 19   | Marc | Marc | Ruth | http | 1822 | (Liv | 29th | Rep | htt | (18 | 23  | (18 | Wil |
+| s:// |      | h 4, | h 4, | erfo | s:// | –189 | ed:  | &    | ubl | ps: | 76) |     | 77) | lia |
+| en.w |      | 1877 | 1881 | rd   | en.w | 3    | 70 y | 32nd | ica | //e |     |     |     | m   |
+| ikip |      |      |      | B. H | ikip |      | ears |  Gov | n   | n.w |     |     |     | A.  |
+| edia |      |      |      | ayes | edia |      | )    | erno |     | iki |     |     |     | Whe |
+| .org |      |      |      |      | .org |      |      | r of |     | ped |     |     |     | ele |
+| /wik |      |      |      |      | /wik |      |      | Ohio |     | ia. |     |     |     | r   |
+| i/Li |      |      |      |      | i/Ru |      |      |  (18 |     | org |     |     |     |     |
+| st_o |      |      |      |      | ther |      |      | 68–1 |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | ford |      |      | 872  |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | _B._ |      |      | & 18 |     | Rep |     |     |     |     |
+| ents |      |      |      |      | Haye |      |      | 76–1 |     | ubl |     |     |     |     |
+| _of_ |      |      |      |      | s    |      |      | 877) |     | ica |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 20   | Marc | Sept | Jame | http | 1831 | (Liv | U.S. | Rep | htt | (18 | 24  | (18 | Che |
+| s:// |      | h 4, | embe | s A. | s:// | –188 | ed:  | Repr | ubl | ps: | 80) |     | 81) | ste |
+| en.w |      | 1881 | r    | Garf | en.w | 1    | 49 y | esen | ica | //e |     |     |  (1 | r   |
+| ikip |      |      | 19,  | ield | ikip |      | ears | tati | n   | n.w |     |     | 881 | A.  |
+| edia |      |      | 1881 |      | edia |      | )    | ve   |     | iki |     |     | )   | Art |
+| .org |      |      |      |      | .org |      |      | for  |     | ped |     |     |     | hur |
+| /wik |      |      |      |      | /wik |      |      | Ohio |     | ia. |     |     |     |  (S |
+| i/Li |      |      |      |      | i/Ja |      |      | 's   |     | org |     |     |     | ucc |
+| st_o |      |      |      |      | mes_ |      |      | 19th |     | /wi |     |     |     | eed |
+| f_Pr |      |      |      |      | A._G |      |      | Dist |     | ki/ |     |     |     | ed  |
+| esid |      |      |      |      | arfi |      |      | rict |     | Rep |     |     |     | to  |
+| ents |      |      |      |      | eld  |      |      |  (18 |     | ubl |     |     |     | pre |
+| _of_ |      |      |      |      |      |      |      | 63–1 |     | ica |     |     |     | sid |
+| the_ |      |      |      |      |      |      |      | 881) |     | n_P |     |     |     | enc |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | y)  |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 21   | Sept | Marc | Ches | http | 1829 | (Liv | 20th | Rep | htt | (18 | 24  | (18 | Off |
+| s:// |      | embe | h 4, | ter  | s:// | –188 | ed:  | Vice | ubl | ps: | 80) |     | 81) | ice |
+| en.w |      | r    | 1885 | A. A | en.w | 6    | 57 y | Pres | ica | //e |     |     |  (1 | vac |
+| ikip |      | 19,  |      | rthu | ikip |      | ears | iden | n   | n.w |     |     | 881 | ant |
+| edia |      | 1881 |      | r    | edia |      | )    | t of |     | iki |     |     | )   |     |
+| .org |      |  [p] |      |      | .org |      |      | the  |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Ch |      |      | ed S |     | org |     |     |     |     |
+| st_o |      |      |      |      | este |      |      | tate |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | r_A. |      |      | s    |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | _Art |      |      |      |     | Rep |     |     |     |     |
+| ents |      |      |      |      | hur  |      |      |      |     | ubl |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | ica |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 22   | Marc | Marc | Grov | http | 1837 | (Liv | 28th | Dem | htt | (18 | 25  | (18 | Tho |
+| s:// |      | h 4, | h 4, | er C | s:// | –190 | ed:  |  Gov | ocr | ps: | 84) |     | 85) | mas |
+| en.w |      | 1885 | 1889 | leve | en.w | 8    | 71 y | erno | ati | //e |     |     |     | A.  |
+| ikip |      |      |      | land | ikip |      | ears | r of | c   | n.w |     |     |     | Hen |
+| edia |      |      |      |      | edia |      | )    | New  |     | iki |     |     |     | dri |
+| .org |      |      |      |      | .org |      |      | York |     | ped |     |     |     | cks |
+| /wik |      |      |      |      | /wik |      |      |  (18 |     | ia. |     |     |     |  Ma |
+| i/Li |      |      |      |      | i/Gr |      |      | 83–1 |     | org |     |     |     | rch |
+| st_o |      |      |      |      | over |      |      | 885) |     | /wi |     |     |     | 4 – |
+| f_Pr |      |      |      |      | _Cle |      |      |      |     | ki/ |     |     |     | Nov |
+| esid |      |      |      |      | vela |      |      |      |     | Dem |     |     |     | emb |
+| ents |      |      |      |      | nd   |      |      |      |     | ocr |     |     |     | er  |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     | 25, |
+| the_ |      |      |      |      |      |      |      |      |     | c_P |     |     |     | 188 |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | 5   |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |  (D |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     | ied |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     | in  |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     | off |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     | ice |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     | )   |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 22   | Marc | Marc | Grov | http | 1837 | (Liv | 28th | Dem | htt | (18 | 25  | (18 | Off |
+| s:// |      | h 4, | h 4, | er C | s:// | –190 | ed:  |  Gov | ocr | ps: | 84) |     | 85) | ice |
+| en.w |      | 1885 | 1889 | leve | en.w | 8    | 71 y | erno | ati | //e |     |     |     | vac |
+| ikip |      |      |      | land | ikip |      | ears | r of | c   | n.w |     |     |     | ant |
+| edia |      |      |      |      | edia |      | )    | New  |     | iki |     |     |     |  (B |
+| .org |      |      |      |      | .org |      |      | York |     | ped |     |     |     | ala |
+| /wik |      |      |      |      | /wik |      |      |  (18 |     | ia. |     |     |     | nce |
+| i/Li |      |      |      |      | i/Gr |      |      | 83–1 |     | org |     |     |     | of  |
+| st_o |      |      |      |      | over |      |      | 885) |     | /wi |     |     |     | Hen |
+| f_Pr |      |      |      |      | _Cle |      |      |      |     | ki/ |     |     |     | dri |
+| esid |      |      |      |      | vela |      |      |      |     | Dem |     |     |     | cks |
+| ents |      |      |      |      | nd   |      |      |      |     | ocr |     |     |     | 's  |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     | ter |
+| the_ |      |      |      |      |      |      |      |      |     | c_P |     |     |     | m)  |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 23   | Marc | Marc | Benj | http | 1833 | (Liv | U.S. | Rep | htt | (18 | 26  | (18 | Lev |
+| s:// |      | h 4, | h 4, | amin | s:// | –190 | ed:  | Sena | ubl | ps: | 88) |     | 89) | i   |
+| en.w |      | 1889 | 1893 | Harr | en.w | 1    | 67 y | tor  | ica | //e |     |     |     | P.  |
+| ikip |      |      |      | ison | ikip |      | ears | (Cla | n   | n.w |     |     |     | Mor |
+| edia |      |      |      |      | edia |      | )    | ss   |     | iki |     |     |     | ton |
+| .org |      |      |      |      | .org |      |      | 1)   |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      | from |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Be |      |      | Indi |     | org |     |     |     |     |
+| st_o |      |      |      |      | njam |      |      | ana  |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | in_H |      |      |  (18 |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | arri |      |      | 81–1 |     | Rep |     |     |     |     |
+| ents |      |      |      |      | son  |      |      | 887) |     | ubl |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | ica |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 24   | Marc | Marc | Grov | http | 1837 | (Liv | 22nd | Dem | htt | (18 | 27  | (18 | Adl |
+| s:// |      | h 4, | h 4, | er C | s:// | –190 | ed:  |  Pre | ocr | ps: | 92) |     | 93) | ai  |
+| en.w |      | 1893 | 1897 | leve | en.w | 8    | 71 y | side | ati | //e |     |     |     | Ste |
+| ikip |      |      |      | land | ikip |      | ears | nt   | c   | n.w |     |     |     | ven |
+| edia |      |      |      |      | edia |      | )    | of   |     | iki |     |     |     | son |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Gr |      |      | ed S |     | org |     |     |     |     |
+| st_o |      |      |      |      | over |      |      | tate |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | _Cle |      |      | s    |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | vela |      |      |  (18 |     | Dem |     |     |     |     |
+| ents |      |      |      |      | nd   |      |      | 85–1 |     | ocr |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      | 889) |     | ati |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | c_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 25   | Marc | Sept | Will | http | 1843 | (Liv | 39th | Rep | htt | (18 | 28  | (18 | Gar |
+| s:// |      | h 4, | embe | iam  | s:// | –190 | ed:  |  Gov | ubl | ps: | 96) |     | 97) | ret |
+| en.w |      | 1897 | r    | McKi | en.w | 1    | 58 y | erno | ica | //e |     |     |     | Hob |
+| ikip |      |      | 14,  | nley | ikip |      | ears | r of | n   | n.w |     |     |     | art |
+| edia |      |      | 1901 |      | edia |      | )    | Ohio |     | iki |     |     |     |  Ma |
+| .org |      |      |      |      | .org |      |      |  (18 |     | ped |     |     |     | rch |
+| /wik |      |      |      |      | /wik |      |      | 92–1 |     | ia. |     |     |     | 4,  |
+| i/Li |      |      |      |      | i/Wi |      |      | 896) |     | org |     |     |     | 189 |
+| st_o |      |      |      |      | llia |      |      |      |     | /wi |     |     |     | 7 – |
+| f_Pr |      |      |      |      | m_Mc |      |      |      |     | ki/ |     |     |     | Nov |
+| esid |      |      |      |      | Kinl |      |      |      |     | Rep |     |     |     | emb |
+| ents |      |      |      |      | ey   |      |      |      |     | ubl |     |     |     | er  |
+| _of_ |      |      |      |      |      |      |      |      |     | ica |     |     |     | 21, |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     | 189 |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | 9   |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |  (D |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     | ied |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     | in  |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     | off |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     | ice |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     | )   |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 25   | Marc | Sept | Will | http | 1843 | (Liv | 39th | Rep | htt | (18 | 28  | (18 | Off |
+| s:// |      | h 4, | embe | iam  | s:// | –190 | ed:  |  Gov | ubl | ps: | 96) |     | 97) | ice |
+| en.w |      | 1897 | r    | McKi | en.w | 1    | 58 y | erno | ica | //e |     |     |     | vac |
+| ikip |      |      | 14,  | nley | ikip |      | ears | r of | n   | n.w |     |     |     | ant |
+| edia |      |      | 1901 |      | edia |      | )    | Ohio |     | iki |     |     |     |  (B |
+| .org |      |      |      |      | .org |      |      |  (18 |     | ped |     |     |     | ala |
+| /wik |      |      |      |      | /wik |      |      | 92–1 |     | ia. |     |     |     | nce |
+| i/Li |      |      |      |      | i/Wi |      |      | 896) |     | org |     |     |     | of  |
+| st_o |      |      |      |      | llia |      |      |      |     | /wi |     |     |     | Hob |
+| f_Pr |      |      |      |      | m_Mc |      |      |      |     | ki/ |     |     |     | art |
+| esid |      |      |      |      | Kinl |      |      |      |     | Rep |     |     |     | 's  |
+| ents |      |      |      |      | ey   |      |      |      |     | ubl |     |     |     | ter |
+| _of_ |      |      |      |      |      |      |      |      |     | ica |     |     |     | m)  |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 25   | Marc | Sept | Will | http | 1843 | (Liv | 39th | Rep | htt | (19 | 29  | (19 | The |
+| s:// |      | h 4, | embe | iam  | s:// | –190 | ed:  |  Gov | ubl | ps: | 00) |     | 01) | odo |
+| en.w |      | 1897 | r    | McKi | en.w | 1    | 58 y | erno | ica | //e |     |     |  (1 | re  |
+| ikip |      |      | 14,  | nley | ikip |      | ears | r of | n   | n.w |     |     | 901 | Roo |
+| edia |      |      | 1901 |      | edia |      | )    | Ohio |     | iki |     |     | )   | sev |
+| .org |      |      |      |      | .org |      |      |  (18 |     | ped |     |     |     | elt |
+| /wik |      |      |      |      | /wik |      |      | 92–1 |     | ia. |     |     |     |  Ma |
+| i/Li |      |      |      |      | i/Wi |      |      | 896) |     | org |     |     |     | rch |
+| st_o |      |      |      |      | llia |      |      |      |     | /wi |     |     |     | 4 – |
+| f_Pr |      |      |      |      | m_Mc |      |      |      |     | ki/ |     |     |     | Sep |
+| esid |      |      |      |      | Kinl |      |      |      |     | Rep |     |     |     | tem |
+| ents |      |      |      |      | ey   |      |      |      |     | ubl |     |     |     | ber |
+| _of_ |      |      |      |      |      |      |      |      |     | ica |     |     |     | 14, |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     | 190 |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | 1   |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |  (S |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     | ucc |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     | eed |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     | ed  |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     | to  |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     | pre |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | sid |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | enc |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | y)  |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 26   | Sept | Marc | Theo | http | 1858 | (Liv | 25th | Rep | htt | (19 | 29  | (19 | Off |
+| s:// |      | embe | h 4, | dore | s:// | –191 | ed:  | Vice | ubl | ps: | 00) |     | 01) | ice |
+| en.w |      | r    | 1909 | Roos | en.w | 9    | 60 y | Pres | ica | //e |     |     |  (1 | vac |
+| ikip |      | 14,  |      | evel | ikip |      | ears | iden | n   | n.w |     |     | 901 | ant |
+| edia |      | 1901 |      | t    | edia |      | )    | t of |     | iki |     |     | )   |  Se |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     | pte |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     | mbe |
+| i/Li |      |      |      |      | i/Th |      |      | ed S |     | org |     |     |     | r   |
+| st_o |      |      |      |      | eodo |      |      | tate |     | /wi |     |     |     | 14, |
+| f_Pr |      |      |      |      | re_R |      |      | s    |     | ki/ |     |     |     | 190 |
+| esid |      |      |      |      | oose |      |      |      |     | Rep |     |     |     | 1 – |
+| ents |      |      |      |      | velt |      |      |      |     | ubl |     |     |     | Mar |
+| _of_ |      |      |      |      |      |      |      |      |     | ica |     |     |     | ch  |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     | 4,  |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | 190 |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     | 5   |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 26   | Sept | Marc | Theo | http | 1858 | (Liv | 25th | Rep | htt | (19 | 30  | (19 | Cha |
+| s:// |      | embe | h 4, | dore | s:// | –191 | ed:  | Vice | ubl | ps: | 04) |     | 05) | rle |
+| en.w |      | r    | 1909 | Roos | en.w | 9    | 60 y | Pres | ica | //e |     |     |     | s   |
+| ikip |      | 14,  |      | evel | ikip |      | ears | iden | n   | n.w |     |     |     | W.  |
+| edia |      | 1901 |      | t    | edia |      | )    | t of |     | iki |     |     |     | Fai |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     | rba |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     | nks |
+| i/Li |      |      |      |      | i/Th |      |      | ed S |     | org |     |     |     |  Ma |
+| st_o |      |      |      |      | eodo |      |      | tate |     | /wi |     |     |     | rch |
+| f_Pr |      |      |      |      | re_R |      |      | s    |     | ki/ |     |     |     | 4,  |
+| esid |      |      |      |      | oose |      |      |      |     | Rep |     |     |     | 190 |
+| ents |      |      |      |      | velt |      |      |      |     | ubl |     |     |     | 5 – |
+| _of_ |      |      |      |      |      |      |      |      |     | ica |     |     |     | Mar |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     | ch  |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | 4,  |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     | 190 |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     | 9   |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 27   | Marc | Marc | Will | http | 1857 | (Liv | 42nd | Rep | htt | (19 | 31  | (19 | Jam |
+| s:// |      | h 4, | h 4, | iam  | s:// | –193 | ed:  |  Uni | ubl | ps: | 08) |     | 09) | es  |
+| en.w |      | 1909 | 1913 | Howa | en.w | 0    | 72 y | ted  | ica | //e |     |     |     | S.  |
+| ikip |      |      |      | rd   | ikip |      | ears | Stat | n   | n.w |     |     |     | She |
+| edia |      |      |      | Taft | edia |      | )    | es S |     | iki |     |     |     | rma |
+| .org |      |      |      |      | .org |      |      | ecre |     | ped |     |     |     | n   |
+| /wik |      |      |      |      | /wik |      |      | tary |     | ia. |     |     |     |  Ma |
+| i/Li |      |      |      |      | i/Wi |      |      | of   |     | org |     |     |     | rch |
+| st_o |      |      |      |      | llia |      |      | War  |     | /wi |     |     |     | 4,  |
+| f_Pr |      |      |      |      | m_Ho |      |      |  (19 |     | ki/ |     |     |     | 190 |
+| esid |      |      |      |      | ward |      |      | 04–1 |     | Rep |     |     |     | 9 – |
+| ents |      |      |      |      | _Taf |      |      | 908) |     | ubl |     |     |     | Oct |
+| _of_ |      |      |      |      | t    |      |      |      |     | ica |     |     |     | obe |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     | r   |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | 30, |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     | 191 |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     | 2   |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |  (D |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     | ied |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     | in  |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     | off |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | ice |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | )   |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 27   | Marc | Marc | Will | http | 1857 | (Liv | 42nd | Rep | htt | (19 | 31  | (19 | Off |
+| s:// |      | h 4, | h 4, | iam  | s:// | –193 | ed:  |  Uni | ubl | ps: | 08) |     | 09) | ice |
+| en.w |      | 1909 | 1913 | Howa | en.w | 0    | 72 y | ted  | ica | //e |     |     |     | vac |
+| ikip |      |      |      | rd   | ikip |      | ears | Stat | n   | n.w |     |     |     | ant |
+| edia |      |      |      | Taft | edia |      | )    | es S |     | iki |     |     |     |  (B |
+| .org |      |      |      |      | .org |      |      | ecre |     | ped |     |     |     | ala |
+| /wik |      |      |      |      | /wik |      |      | tary |     | ia. |     |     |     | nce |
+| i/Li |      |      |      |      | i/Wi |      |      | of   |     | org |     |     |     | of  |
+| st_o |      |      |      |      | llia |      |      | War  |     | /wi |     |     |     | She |
+| f_Pr |      |      |      |      | m_Ho |      |      |  (19 |     | ki/ |     |     |     | rma |
+| esid |      |      |      |      | ward |      |      | 04–1 |     | Rep |     |     |     | n's |
+| ents |      |      |      |      | _Taf |      |      | 908) |     | ubl |     |     |     | ter |
+| _of_ |      |      |      |      | t    |      |      |      |     | ica |     |     |     | m)  |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 28   | Marc | Marc | Wood | http | 1856 | (Liv | 34th | Dem | htt | (19 | 32  | (19 | Tho |
+| s:// |      | h 4, | h 4, | row  | s:// | –192 | ed:  |  Gov | ocr | ps: | 12) |     | 13) | mas |
+| en.w |      | 1913 | 1921 | Wils | en.w | 4    | 67 y | erno | ati | //e |     |     |     | R.  |
+| ikip |      |      |      | on   | ikip |      | ears | r of | c   | n.w |     |     |     | Mar |
+| edia |      |      |      |      | edia |      | )    | New  |     | iki |     |     |     | sha |
+| .org |      |      |      |      | .org |      |      | Jers |     | ped |     |     |     | ll  |
+| /wik |      |      |      |      | /wik |      |      | ey   |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Wo |      |      |  (19 |     | org |     |     |     |     |
+| st_o |      |      |      |      | odro |      |      | 11–1 |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | w_Wi |      |      | 913) |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | lson |      |      |      |     | Dem |     |     |     |     |
+| ents |      |      |      |      |      |      |      |      |     | ocr |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | c_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 28   | Marc | Marc | Wood | http | 1856 | (Liv | 34th | Dem | htt | (19 | 33  | (19 | Tho |
+| s:// |      | h 4, | h 4, | row  | s:// | –192 | ed:  |  Gov | ocr | ps: | 16) |     | 17) | mas |
+| en.w |      | 1913 | 1921 | Wils | en.w | 4    | 67 y | erno | ati | //e |     |     |     | R.  |
+| ikip |      |      |      | on   | ikip |      | ears | r of | c   | n.w |     |     |     | Mar |
+| edia |      |      |      |      | edia |      | )    | New  |     | iki |     |     |     | sha |
+| .org |      |      |      |      | .org |      |      | Jers |     | ped |     |     |     | ll  |
+| /wik |      |      |      |      | /wik |      |      | ey   |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Wo |      |      |  (19 |     | org |     |     |     |     |
+| st_o |      |      |      |      | odro |      |      | 11–1 |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | w_Wi |      |      | 913) |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | lson |      |      |      |     | Dem |     |     |     |     |
+| ents |      |      |      |      |      |      |      |      |     | ocr |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | c_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 29   | Marc | Augu | Warr | http | 1865 | (Liv | U.S. | Rep | htt | (19 | 34  | (19 | Cal |
+| s:// |      | h 4, | st   | en   | s:// | –192 | ed:  | Sena | ubl | ps: | 20) |     | 21) | vin |
+| en.w |      | 1921 | 2,   | G. H | en.w | 3    | 57 y | tor  | ica | //e |     |     |  (1 | Coo |
+| ikip |      |      | 1923 | ardi | ikip |      | ears | (Cla | n   | n.w |     |     | 923 | lid |
+| edia |      |      |      | ng   | edia |      | )    | ss   |     | iki |     |     | )   | ge  |
+| .org |      |      |      |      | .org |      |      | 3)   |     | ped |     |     |     |  (S |
+| /wik |      |      |      |      | /wik |      |      | from |     | ia. |     |     |     | ucc |
+| i/Li |      |      |      |      | i/Wa |      |      | Ohio |     | org |     |     |     | eed |
+| st_o |      |      |      |      | rren |      |      |  (19 |     | /wi |     |     |     | ed  |
+| f_Pr |      |      |      |      | _G._ |      |      | 15–1 |     | ki/ |     |     |     | to  |
+| esid |      |      |      |      | Hard |      |      | 921) |     | Rep |     |     |     | pre |
+| ents |      |      |      |      | ing  |      |      |      |     | ubl |     |     |     | sid |
+| _of_ |      |      |      |      |      |      |      |      |     | ica |     |     |     | enc |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     | y)  |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 30   | Augu | Marc | Calv | http | 1872 | (Liv | 29th | Rep | htt | (19 | 34  | (19 | Off |
+| s:// |      | st   | h 4, | in C | s:// | –193 | ed:  | Vice | ubl | ps: | 20) |     | 21) | ice |
+| en.w |      | 2,   | 1929 | ooli | en.w | 3    | 60 y | Pres | ica | //e |     |     |  (1 | vac |
+| ikip |      | 1923 |      | dge  | ikip |      | ears | iden | n   | n.w |     |     | 923 | ant |
+| edia |      |  [q] |      |      | edia |      | )    | t of |     | iki |     |     | )   |  Au |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     | gus |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     | t   |
+| i/Li |      |      |      |      | i/Ca |      |      | ed S |     | org |     |     |     | 2,  |
+| st_o |      |      |      |      | lvin |      |      | tate |     | /wi |     |     |     | 192 |
+| f_Pr |      |      |      |      | _Coo |      |      | s    |     | ki/ |     |     |     | 3 – |
+| esid |      |      |      |      | lidg |      |      |      |     | Rep |     |     |     | Mar |
+| ents |      |      |      |      | e    |      |      |      |     | ubl |     |     |     | ch  |
+| _of_ |      |      |      |      |      |      |      |      |     | ica |     |     |     | 4,  |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     | 192 |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | 5   |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 30   | Augu | Marc | Calv | http | 1872 | (Liv | 29th | Rep | htt | (19 | 35  | (19 | Cha |
+| s:// |      | st   | h 4, | in C | s:// | –193 | ed:  | Vice | ubl | ps: | 24) |     | 25) | rle |
+| en.w |      | 2,   | 1929 | ooli | en.w | 3    | 60 y | Pres | ica | //e |     |     |     | s   |
+| ikip |      | 1923 |      | dge  | ikip |      | ears | iden | n   | n.w |     |     |     | G.  |
+| edia |      |  [q] |      |      | edia |      | )    | t of |     | iki |     |     |     | Daw |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     | es  |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     |  Ma |
+| i/Li |      |      |      |      | i/Ca |      |      | ed S |     | org |     |     |     | rch |
+| st_o |      |      |      |      | lvin |      |      | tate |     | /wi |     |     |     | 4,  |
+| f_Pr |      |      |      |      | _Coo |      |      | s    |     | ki/ |     |     |     | 192 |
+| esid |      |      |      |      | lidg |      |      |      |     | Rep |     |     |     | 5 – |
+| ents |      |      |      |      | e    |      |      |      |     | ubl |     |     |     | Mar |
+| _of_ |      |      |      |      |      |      |      |      |     | ica |     |     |     | ch  |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     | 4,  |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | 192 |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     | 9   |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 31   | Marc | Marc | Herb | http | 1874 | (Liv | 3rd  | Rep | htt | (19 | 36  | (19 | Cha |
+| s:// |      | h 4, | h 4, | ert  | s:// | –196 | ed:  |  Uni | ubl | ps: | 28) |     | 29) | rle |
+| en.w |      | 1929 | 1933 | Hoov | en.w | 4    | 90 y | ted  | ica | //e |     |     |     | s C |
+| ikip |      |      |      | er   | ikip |      | ears | Stat | n   | n.w |     |     |     | urt |
+| edia |      |      |      |      | edia |      | )    | es S |     | iki |     |     |     | is  |
+| .org |      |      |      |      | .org |      |      | ecre |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      | tary |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/He |      |      | of C |     | org |     |     |     |     |
+| st_o |      |      |      |      | rber |      |      | omme |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | t_Ho |      |      | rce  |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | over |      |      |  (19 |     | Rep |     |     |     |     |
+| ents |      |      |      |      |      |      |      | 21–1 |     | ubl |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      | 928) |     | ica |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |  (No |     | n_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      | prio |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      | r el |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      | ecte |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      | d of |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      | fice |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      | )    |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 32   |      |      | Fran | http | 1882 | (Liv | 44th | Dem | htt | (19 | 37  | (19 | Joh |
+| s:// |      |      |      | klin | s:// | –194 | ed:  |  Gov | ocr | ps: | 32) |     | 33) | n   |
+| en.w |      |      |      | D. R | en.w | 5    | 63 y | erno | ati | //e |     |     |     | N.  |
+| ikip |      |      |      | oose | ikip |      | ears | r of | c   | n.w |     |     |     | Gar |
+| edia |      |      |      | velt | edia |      | )    | New  |     | iki |     |     |     | ner |
+| .org |      |      |      |      | .org |      |      | York |     | ped |     |     |     |  Ma |
+| /wik |      |      |      |      | /wik |      |      |  (19 |     | ia. |     |     |     | rch |
+| i/Li |      |      |      |      | i/Fr |      |      | 29–1 |     | org |     |     |     | 4,  |
+| st_o |      |      |      |      | ankl |      |      | 932) |     | /wi |     |     |     | 193 |
+| f_Pr |      |      |      |      | in_D |      |      |      |     | ki/ |     |     |     | 3 – |
+| esid |      |      |      |      | ._Ro |      |      |      |     | Dem |     |     |     | Jan |
+| ents |      |      |      |      | osev |      |      |      |     | ocr |     |     |     | uar |
+| _of_ |      |      |      |      | elt  |      |      |      |     | ati |     |     |     | y   |
+| the_ |      |      |      |      |      |      |      |      |     | c_P |     |     |     | 20, |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | 194 |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     | 1   |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     | [r] |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 32   |      |      | Fran | http | 1882 | (Liv | 44th | Dem | htt | (19 | 38  | (19 | Joh |
+| s:// |      |      |      | klin | s:// | –194 | ed:  |  Gov | ocr | ps: | 36) |     | 37) | n   |
+| en.w |      |      |      | D. R | en.w | 5    | 63 y | erno | ati | //e |     |     |     | N.  |
+| ikip |      |      |      | oose | ikip |      | ears | r of | c   | n.w |     |     |     | Gar |
+| edia |      |      |      | velt | edia |      | )    | New  |     | iki |     |     |     | ner |
+| .org |      |      |      |      | .org |      |      | York |     | ped |     |     |     |  Ma |
+| /wik |      |      |      |      | /wik |      |      |  (19 |     | ia. |     |     |     | rch |
+| i/Li |      |      |      |      | i/Fr |      |      | 29–1 |     | org |     |     |     | 4,  |
+| st_o |      |      |      |      | ankl |      |      | 932) |     | /wi |     |     |     | 193 |
+| f_Pr |      |      |      |      | in_D |      |      |      |     | ki/ |     |     |     | 3 – |
+| esid |      |      |      |      | ._Ro |      |      |      |     | Dem |     |     |     | Jan |
+| ents |      |      |      |      | osev |      |      |      |     | ocr |     |     |     | uar |
+| _of_ |      |      |      |      | elt  |      |      |      |     | ati |     |     |     | y   |
+| the_ |      |      |      |      |      |      |      |      |     | c_P |     |     |     | 20, |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | 194 |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     | 1   |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     | [r] |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 32   |      |      | Fran | http | 1882 | (Liv | 44th | Dem | htt | (19 | 39  | (19 | Hen |
+| s:// |      |      |      | klin | s:// | –194 | ed:  |  Gov | ocr | ps: | 40) |     | 41) | ry  |
+| en.w |      |      |      | D. R | en.w | 5    | 63 y | erno | ati | //e |     |     |     | A.  |
+| ikip |      |      |      | oose | ikip |      | ears | r of | c   | n.w |     |     |     | Wal |
+| edia |      |      |      | velt | edia |      | )    | New  |     | iki |     |     |     | lac |
+| .org |      |      |      |      | .org |      |      | York |     | ped |     |     |     | e   |
+| /wik |      |      |      |      | /wik |      |      |  (19 |     | ia. |     |     |     |  Ja |
+| i/Li |      |      |      |      | i/Fr |      |      | 29–1 |     | org |     |     |     | nua |
+| st_o |      |      |      |      | ankl |      |      | 932) |     | /wi |     |     |     | ry  |
+| f_Pr |      |      |      |      | in_D |      |      |      |     | ki/ |     |     |     | 20, |
+| esid |      |      |      |      | ._Ro |      |      |      |     | Dem |     |     |     | 194 |
+| ents |      |      |      |      | osev |      |      |      |     | ocr |     |     |     | 1 – |
+| _of_ |      |      |      |      | elt  |      |      |      |     | ati |     |     |     | Jan |
+| the_ |      |      |      |      |      |      |      |      |     | c_P |     |     |     | uar |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | y   |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     | 20, |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     | 194 |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     | 5   |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 32   |      |      | Fran | http | 1882 | (Liv | 44th | Dem | htt | (19 | 40  | (19 | Har |
+| s:// |      |      |      | klin | s:// | –194 | ed:  |  Gov | ocr | ps: | 44) |     | 45) | ry  |
+| en.w |      |      |      | D. R | en.w | 5    | 63 y | erno | ati | //e |     |     |  (1 | S.  |
+| ikip |      |      |      | oose | ikip |      | ears | r of | c   | n.w |     |     | 945 | Tru |
+| edia |      |      |      | velt | edia |      | )    | New  |     | iki |     |     | )   | man |
+| .org |      |      |      |      | .org |      |      | York |     | ped |     |     |     |  Ja |
+| /wik |      |      |      |      | /wik |      |      |  (19 |     | ia. |     |     |     | nua |
+| i/Li |      |      |      |      | i/Fr |      |      | 29–1 |     | org |     |     |     | ry  |
+| st_o |      |      |      |      | ankl |      |      | 932) |     | /wi |     |     |     | 20  |
+| f_Pr |      |      |      |      | in_D |      |      |      |     | ki/ |     |     |     | – A |
+| esid |      |      |      |      | ._Ro |      |      |      |     | Dem |     |     |     | pri |
+| ents |      |      |      |      | osev |      |      |      |     | ocr |     |     |     | l   |
+| _of_ |      |      |      |      | elt  |      |      |      |     | ati |     |     |     | 12, |
+| the_ |      |      |      |      |      |      |      |      |     | c_P |     |     |     | 194 |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | 5   |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |  (S |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     | ucc |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     | eed |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     | ed  |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     | to  |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     | pre |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | sid |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | enc |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | y)  |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 33   | Apri | Janu | Harr | http | 1884 | (Liv | 34th | Dem | htt | (19 | 40  | (19 | Off |
+| s:// |      | l    | ary  | y S. | s:// | –197 | ed:  | Vice | ocr | ps: | 44) |     | 45) | ice |
+| en.w |      | 12,  | 20,  | Trum | en.w | 2    | 88 y | Pres | ati | //e |     |     |  (1 | vac |
+| ikip |      | 1945 | 1953 | an   | ikip |      | ears | iden | c   | n.w |     |     | 945 | ant |
+| edia |      |      |      |      | edia |      | )    | t of |     | iki |     |     | )   |  Ap |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     | ril |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     | 12, |
+| i/Li |      |      |      |      | i/Ha |      |      | ed S |     | org |     |     |     | 194 |
+| st_o |      |      |      |      | rry_ |      |      | tate |     | /wi |     |     |     | 5 – |
+| f_Pr |      |      |      |      | S._T |      |      | s    |     | ki/ |     |     |     | Jan |
+| esid |      |      |      |      | ruma |      |      |      |     | Dem |     |     |     | uar |
+| ents |      |      |      |      | n    |      |      |      |     | ocr |     |     |     | y   |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     | 20, |
+| the_ |      |      |      |      |      |      |      |      |     | c_P |     |     |     | 194 |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | 9   |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 33   | Apri | Janu | Harr | http | 1884 | (Liv | 34th | Dem | htt | (19 | 41  | (19 | Alb |
+| s:// |      | l    | ary  | y S. | s:// | –197 | ed:  | Vice | ocr | ps: | 48) |     | 49) | en  |
+| en.w |      | 12,  | 20,  | Trum | en.w | 2    | 88 y | Pres | ati | //e |     |     |     | W.  |
+| ikip |      | 1945 | 1953 | an   | ikip |      | ears | iden | c   | n.w |     |     |     | Bar |
+| edia |      |      |      |      | edia |      | )    | t of |     | iki |     |     |     | kle |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     | y   |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     |  Ja |
+| i/Li |      |      |      |      | i/Ha |      |      | ed S |     | org |     |     |     | nua |
+| st_o |      |      |      |      | rry_ |      |      | tate |     | /wi |     |     |     | ry  |
+| f_Pr |      |      |      |      | S._T |      |      | s    |     | ki/ |     |     |     | 20, |
+| esid |      |      |      |      | ruma |      |      |      |     | Dem |     |     |     | 194 |
+| ents |      |      |      |      | n    |      |      |      |     | ocr |     |     |     | 9 – |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     | Jan |
+| the_ |      |      |      |      |      |      |      |      |     | c_P |     |     |     | uar |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | y   |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     | 20, |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     | 195 |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     | 3   |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 34   | Janu | Janu | Dwig | http | 1890 | (Liv | Supr | Rep | htt | (19 | 42  | (19 | Ric |
+| s:// |      | ary  | ary  | ht   | s:// | –196 | ed:  | eme  | ubl | ps: | 52) |     | 53) | har |
+| en.w |      | 20,  | 20,  | D. E | en.w | 9    | 78 y | Alli | ica | //e |     |     |     | d N |
+| ikip |      | 1953 | 1961 | isen | ikip |      | ears | ed C | n   | n.w |     |     |     | ixo |
+| edia |      |      |      | howe | edia |      | )    | omma |     | iki |     |     |     | n   |
+| .org |      |      |      | r    | .org |      |      | nder |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      | Euro |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Dw |      |      | pe   |     | org |     |     |     |     |
+| st_o |      |      |      |      | ight |      |      |  (19 |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | _D._ |      |      | 49–1 |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | Eise |      |      | 952) |     | Rep |     |     |     |     |
+| ents |      |      |      |      | nhow |      |      |  (No |     | ubl |     |     |     |     |
+| _of_ |      |      |      |      | er   |      |      | prio |     | ica |     |     |     |     |
+| the_ |      |      |      |      |      |      |      | r el |     | n_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      | ecte |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      | d of |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      | fice |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      | )    |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 34   | Janu | Janu | Dwig | http | 1890 | (Liv | Supr | Rep | htt | (19 | 43  | (19 | Ric |
+| s:// |      | ary  | ary  | ht   | s:// | –196 | ed:  | eme  | ubl | ps: | 56) |     | 57) | har |
+| en.w |      | 20,  | 20,  | D. E | en.w | 9    | 78 y | Alli | ica | //e |     |     |     | d N |
+| ikip |      | 1953 | 1961 | isen | ikip |      | ears | ed C | n   | n.w |     |     |     | ixo |
+| edia |      |      |      | howe | edia |      | )    | omma |     | iki |     |     |     | n   |
+| .org |      |      |      | r    | .org |      |      | nder |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      | Euro |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Dw |      |      | pe   |     | org |     |     |     |     |
+| st_o |      |      |      |      | ight |      |      |  (19 |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | _D._ |      |      | 49–1 |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | Eise |      |      | 952) |     | Rep |     |     |     |     |
+| ents |      |      |      |      | nhow |      |      |  (No |     | ubl |     |     |     |     |
+| _of_ |      |      |      |      | er   |      |      | prio |     | ica |     |     |     |     |
+| the_ |      |      |      |      |      |      |      | r el |     | n_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      | ecte |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      | d of |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      | fice |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      | )    |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 35   | Janu | Nove | John | http | 1917 | (Liv | U.S. | Dem | htt | (19 | 44  | (19 | Lyn |
+| s:// |      | ary  | mber | F. K | s:// | –196 | ed:  | Sena | ocr | ps: | 60) |     | 61) | don |
+| en.w |      | 20,  | 22,  | enne | en.w | 3    | 46 y | tor  | ati | //e |     |     |  (1 | B.  |
+| ikip |      | 1961 | 1963 | dy   | ikip |      | ears | (Cla | c   | n.w |     |     | 963 | Joh |
+| edia |      |      |      |      | edia |      | )    | ss   |     | iki |     |     | )   | nso |
+| .org |      |      |      |      | .org |      |      | 1)   |     | ped |     |     |     | n   |
+| /wik |      |      |      |      | /wik |      |      | from |     | ia. |     |     |     |  (S |
+| i/Li |      |      |      |      | i/Jo |      |      | Mass |     | org |     |     |     | ucc |
+| st_o |      |      |      |      | hn_F |      |      | achu |     | /wi |     |     |     | eed |
+| f_Pr |      |      |      |      | ._Ke |      |      | sett |     | ki/ |     |     |     | ed  |
+| esid |      |      |      |      | nned |      |      | s    |     | Dem |     |     |     | to  |
+| ents |      |      |      |      | y    |      |      |  (19 |     | ocr |     |     |     | pre |
+| _of_ |      |      |      |      |      |      |      | 53–1 |     | ati |     |     |     | sid |
+| the_ |      |      |      |      |      |      |      | 960) |     | c_P |     |     |     | enc |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | y)  |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 36   | Nove | Janu | Lynd | http | 1908 | (Liv | 37th | Dem | htt | (19 | 44  | (19 | Off |
+| s:// |      | mber | ary  | on   | s:// | –197 | ed:  | Vice | ocr | ps: | 60) |     | 61) | ice |
+| en.w |      | 22,  | 20,  | B. J | en.w | 3    | 64 y | Pres | ati | //e |     |     |  (1 | vac |
+| ikip |      | 1963 | 1969 | ohns | ikip |      | ears | iden | c   | n.w |     |     | 963 | ant |
+| edia |      |      |      | on   | edia |      | )    | t of |     | iki |     |     | )   |  No |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     | vem |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     | ber |
+| i/Li |      |      |      |      | i/Ly |      |      | ed S |     | org |     |     |     | 22, |
+| st_o |      |      |      |      | ndon |      |      | tate |     | /wi |     |     |     | 196 |
+| f_Pr |      |      |      |      | _B._ |      |      | s    |     | ki/ |     |     |     | 3 – |
+| esid |      |      |      |      | John |      |      |      |     | Dem |     |     |     | Jan |
+| ents |      |      |      |      | son  |      |      |      |     | ocr |     |     |     | uar |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     | y   |
+| the_ |      |      |      |      |      |      |      |      |     | c_P |     |     |     | 20, |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | 196 |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     | 5   |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 36   | Nove | Janu | Lynd | http | 1908 | (Liv | 37th | Dem | htt | (19 | 45  | (19 | Hub |
+| s:// |      | mber | ary  | on   | s:// | –197 | ed:  | Vice | ocr | ps: | 64) |     | 65) | ert |
+| en.w |      | 22,  | 20,  | B. J | en.w | 3    | 64 y | Pres | ati | //e |     |     |     | Hum |
+| ikip |      | 1963 | 1969 | ohns | ikip |      | ears | iden | c   | n.w |     |     |     | phr |
+| edia |      |      |      | on   | edia |      | )    | t of |     | iki |     |     |     | ey  |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     |  Ja |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     | nua |
+| i/Li |      |      |      |      | i/Ly |      |      | ed S |     | org |     |     |     | ry  |
+| st_o |      |      |      |      | ndon |      |      | tate |     | /wi |     |     |     | 20, |
+| f_Pr |      |      |      |      | _B._ |      |      | s    |     | ki/ |     |     |     | 196 |
+| esid |      |      |      |      | John |      |      |      |     | Dem |     |     |     | 5 – |
+| ents |      |      |      |      | son  |      |      |      |     | ocr |     |     |     | Jan |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     | uar |
+| the_ |      |      |      |      |      |      |      |      |     | c_P |     |     |     | y   |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | 20, |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     | 196 |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     | 9   |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 37   | Janu | Augu | Rich | http | 1913 | (Liv | 36th | Rep | htt | (19 | 46  | (19 | Spi |
+| s:// |      | ary  | st   | ard  | s:// | –    | ed:  | Vice | ubl | ps: | 68) |     | 69) | ro  |
+| en.w |      | 20,  | 9,   | Nixo | en.w |      | 81 y | Pres | ica | //e |     |     |     | Agn |
+| ikip |      | 1969 | 1974 | n    | ikip |      | ears | iden | n   | n.w |     |     |     | ew  |
+| edia |      |      |      |      | edia |      | )    | t of |     | iki |     |     |     |  Ja |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     | nua |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     | ry  |
+| i/Li |      |      |      |      | i/Ri |      |      | ed S |     | org |     |     |     | 20, |
+| st_o |      |      |      |      | char |      |      | tate |     | /wi |     |     |     | 196 |
+| f_Pr |      |      |      |      | d_Ni |      |      | s    |     | ki/ |     |     |     | 9 – |
+| esid |      |      |      |      | xon  |      |      |  (19 |     | Rep |     |     |     | Oct |
+| ents |      |      |      |      |      |      |      | 53–1 |     | ubl |     |     |     | obe |
+| _of_ |      |      |      |      |      |      |      | 961) |     | ica |     |     |     | r   |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     | 10, |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | 197 |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     | 3   |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |  (R |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     | esi |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     | gne |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     | d f |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     | rom |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | off |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | ice |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | )   |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 37   | Janu | Augu | Rich | http | 1913 | (Liv | 36th | Rep | htt | (19 | 47  | (19 | Spi |
+| s:// |      | ary  | st   | ard  | s:// | –    | ed:  | Vice | ubl | ps: | 72) |     | 73) | ro  |
+| en.w |      | 20,  | 9,   | Nixo | en.w |      | 81 y | Pres | ica | //e |     |     |  (1 | Agn |
+| ikip |      | 1969 | 1974 | n    | ikip |      | ears | iden | n   | n.w |     |     | 974 | ew  |
+| edia |      |      |      |      | edia |      | )    | t of |     | iki |     |     | )   |  Ja |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     | nua |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     | ry  |
+| i/Li |      |      |      |      | i/Ri |      |      | ed S |     | org |     |     |     | 20, |
+| st_o |      |      |      |      | char |      |      | tate |     | /wi |     |     |     | 196 |
+| f_Pr |      |      |      |      | d_Ni |      |      | s    |     | ki/ |     |     |     | 9 – |
+| esid |      |      |      |      | xon  |      |      |  (19 |     | Rep |     |     |     | Oct |
+| ents |      |      |      |      |      |      |      | 53–1 |     | ubl |     |     |     | obe |
+| _of_ |      |      |      |      |      |      |      | 961) |     | ica |     |     |     | r   |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     | 10, |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | 197 |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     | 3   |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |  (R |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     | esi |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     | gne |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     | d f |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     | rom |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | off |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | ice |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | )   |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 37   | Janu | Augu | Rich | http | 1913 | (Liv | 36th | Rep | htt | (19 | 47  | (19 | Off |
+| s:// |      | ary  | st   | ard  | s:// | –    | ed:  | Vice | ubl | ps: | 72) |     | 73) | ice |
+| en.w |      | 20,  | 9,   | Nixo | en.w |      | 81 y | Pres | ica | //e |     |     |  (1 | vac |
+| ikip |      | 1969 | 1974 | n    | ikip |      | ears | iden | n   | n.w |     |     | 974 | ant |
+| edia |      |      |      |      | edia |      | )    | t of |     | iki |     |     | )   |  Oc |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     | tob |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     | er  |
+| i/Li |      |      |      |      | i/Ri |      |      | ed S |     | org |     |     |     | 10  |
+| st_o |      |      |      |      | char |      |      | tate |     | /wi |     |     |     | – D |
+| f_Pr |      |      |      |      | d_Ni |      |      | s    |     | ki/ |     |     |     | ece |
+| esid |      |      |      |      | xon  |      |      |  (19 |     | Rep |     |     |     | mbe |
+| ents |      |      |      |      |      |      |      | 53–1 |     | ubl |     |     |     | r   |
+| _of_ |      |      |      |      |      |      |      | 961) |     | ica |     |     |     | 6,  |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     | 197 |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | 3   |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 37   | Janu | Augu | Rich | http | 1913 | (Liv | 36th | Rep | htt | (19 | 47  | (19 | Ger |
+| s:// |      | ary  | st   | ard  | s:// | –    | ed:  | Vice | ubl | ps: | 72) |     | 73) | ald |
+| en.w |      | 20,  | 9,   | Nixo | en.w |      | 81 y | Pres | ica | //e |     |     |  (1 | For |
+| ikip |      | 1969 | 1974 | n    | ikip |      | ears | iden | n   | n.w |     |     | 974 | d   |
+| edia |      |      |      |      | edia |      | )    | t of |     | iki |     |     | )   |  De |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     | cem |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     | ber |
+| i/Li |      |      |      |      | i/Ri |      |      | ed S |     | org |     |     |     | 6,  |
+| st_o |      |      |      |      | char |      |      | tate |     | /wi |     |     |     | 197 |
+| f_Pr |      |      |      |      | d_Ni |      |      | s    |     | ki/ |     |     |     | 3 – |
+| esid |      |      |      |      | xon  |      |      |  (19 |     | Rep |     |     |     | Aug |
+| ents |      |      |      |      |      |      |      | 53–1 |     | ubl |     |     |     | ust |
+| _of_ |      |      |      |      |      |      |      | 961) |     | ica |     |     |     | 9,  |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     | 197 |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     | 4   |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |  (S |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     | ucc |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     | eed |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     | ed  |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     | to  |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     | pre |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | sid |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | enc |
+|      |      |      |      |      |      |      |      |      |     |     |     |     |     | y)  |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 38   | Augu | Janu | Gera | http | 1913 | (Liv | 40th | Rep | htt | (19 | 47  | (19 | Off |
+| s:// |      | st   | ary  | ld   | s:// | –    | ed:  | Vice | ubl | ps: | 72) |     | 73) | ice |
+| en.w |      | 9,   | 20,  | Ford | en.w |      | 93 y | Pres | ica | //e |     |     |  (1 | vac |
+| ikip |      | 1974 | 1977 |      | ikip |      | ears | iden | n   | n.w |     |     | 974 | ant |
+| edia |      |      |      |      | edia |      | )    | t of |     | iki |     |     | )   |  Au |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     | gus |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     | t 9 |
+| i/Li |      |      |      |      | i/Ge |      |      | ed S |     | org |     |     |     | – D |
+| st_o |      |      |      |      | rald |      |      | tate |     | /wi |     |     |     | ece |
+| f_Pr |      |      |      |      | _For |      |      | s    |     | ki/ |     |     |     | mbe |
+| esid |      |      |      |      | d    |      |      |      |     | Rep |     |     |     | r   |
+| ents |      |      |      |      |      |      |      |      |     | ubl |     |     |     | 19, |
+| _of_ |      |      |      |      |      |      |      |      |     | ica |     |     |     | 197 |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     | 4   |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 38   | Augu | Janu | Gera | http | 1913 | (Liv | 40th | Rep | htt | Dec |     | (19 | (19 |
+| s:// |      | st   | ary  | ld   | s:// | –    | ed:  | Vice | ubl | ps: | emb |     | 73) | 72) |
+| en.w |      | 9,   | 20,  | Ford | en.w |      | 93 y | Pres | ica | //e | er  |     |  (1 |  47 |
+| ikip |      | 1974 | 1977 |      | ikip |      | ears | iden | n   | n.w | 19, |     | 974 |  (1 |
+| edia |      |      |      |      | edia |      | )    | t of |     | iki | 197 |     | )   | 973 |
+| .org |      |      |      |      | .org |      |      | the  |     | ped | 4 – |     |     | )   |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. | Jan |     |     |  (1 |
+| i/Li |      |      |      |      | i/Ge |      |      | ed S |     | org | uar |     |     | 974 |
+| st_o |      |      |      |      | rald |      |      | tate |     | /wi | y   |     |     | )   |
+| f_Pr |      |      |      |      | _For |      |      | s    |     | ki/ | 20, |     |     | [j] |
+| esid |      |      |      |      | d    |      |      |      |     | Rep | 197 |     |     |     |
+| ents |      |      |      |      |      |      |      |      |     | ubl | 7   |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | ica |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 39   | Janu | Janu | Jimm | http | Born | (93  | 76th | Dem | htt | (19 | 48  | (19 | Wal |
+| s:// |      | ary  | ary  | y Ca | s:// | 1924 | year |  Gov | ocr | ps: | 76) |     | 77) | ter |
+| en.w |      | 20,  | 20,  | rter | en.w |      | s    | erno | ati | //e |     |     |     | Mon |
+| ikip |      | 1977 | 1981 |      | ikip |      | old) | r of | c   | n.w |     |     |     | dal |
+| edia |      |      |      |      | edia |      |      | Geor |     | iki |     |     |     | e   |
+| .org |      |      |      |      | .org |      |      | gia  |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      |  (19 |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Ji |      |      | 71–1 |     | org |     |     |     |     |
+| st_o |      |      |      |      | mmy_ |      |      | 975) |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | Cart |      |      |      |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | er   |      |      |      |     | Dem |     |     |     |     |
+| ents |      |      |      |      |      |      |      |      |     | ocr |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | c_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 40   | Janu | Janu | Rona | http | 1911 | (Liv | 33rd | Rep | htt | (19 | 49  | (19 | Geo |
+| s:// |      | ary  | ary  | ld R | s:// | –    | ed:  |  Gov | ubl | ps: | 80) |     | 81) | rge |
+| en.w |      | 20,  | 20,  | eaga | en.w |      | 93 y | erno | ica | //e |     |     |     | H.  |
+| ikip |      | 1981 | 1989 | n    | ikip |      | ears | r of | n   | n.w |     |     |     | W.  |
+| edia |      |      |      |      | edia |      | )    | Cali |     | iki |     |     |     | Bus |
+| .org |      |      |      |      | .org |      |      | forn |     | ped |     |     |     | h   |
+| /wik |      |      |      |      | /wik |      |      | ia   |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Ro |      |      |  (19 |     | org |     |     |     |     |
+| st_o |      |      |      |      | nald |      |      | 67–1 |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | _Rea |      |      | 975) |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | gan  |      |      |      |     | Rep |     |     |     |     |
+| ents |      |      |      |      |      |      |      |      |     | ubl |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | ica |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 40   | Janu | Janu | Rona | http | 1911 | (Liv | 33rd | Rep | htt | (19 | 50  | (19 | Geo |
+| s:// |      | ary  | ary  | ld R | s:// | –    | ed:  |  Gov | ubl | ps: | 84) |     | 85) | rge |
+| en.w |      | 20,  | 20,  | eaga | en.w |      | 93 y | erno | ica | //e |     |     |     | H.  |
+| ikip |      | 1981 | 1989 | n    | ikip |      | ears | r of | n   | n.w |     |     |     | W.  |
+| edia |      |      |      |      | edia |      | )    | Cali |     | iki |     |     |     | Bus |
+| .org |      |      |      |      | .org |      |      | forn |     | ped |     |     |     | h   |
+| /wik |      |      |      |      | /wik |      |      | ia   |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Ro |      |      |  (19 |     | org |     |     |     |     |
+| st_o |      |      |      |      | nald |      |      | 67–1 |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | _Rea |      |      | 975) |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | gan  |      |      |      |     | Rep |     |     |     |     |
+| ents |      |      |      |      |      |      |      |      |     | ubl |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | ica |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 41   | Janu | Janu | Geor | http | Born | (93  | 43rd | Rep | htt | (19 | 51  | (19 | Dan |
+| s:// |      | ary  | ary  | ge   | s:// | 1924 | year | Vice | ubl | ps: | 88) |     | 89) | Qua |
+| en.w |      | 20,  | 20,  | H.   | en.w |      | s    | Pres | ica | //e |     |     |     | yle |
+| ikip |      | 1989 | 1993 | W.   | ikip |      | old) | iden | n   | n.w |     |     |     |     |
+| edia |      |      |      | Bush | edia |      |      | t of |     | iki |     |     |     |     |
+| .org |      |      |      |      | .org |      |      | the  |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      | Unit |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Ge |      |      | ed S |     | org |     |     |     |     |
+| st_o |      |      |      |      | orge |      |      | tate |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | _H._ |      |      | s    |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | W._B |      |      |      |     | Rep |     |     |     |     |
+| ents |      |      |      |      | ush  |      |      |      |     | ubl |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | ica |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 42   | Janu | Janu | Bill | http | Born | (71  | 40th | Dem | htt | (19 | 52  | (19 | Al  |
+| s:// |      | ary  | ary  | Clin | s:// | 1946 | year | &    | ocr | ps: | 92) |     | 93) | Gor |
+| en.w |      | 20,  | 20,  | ton  | en.w |      | s    | 42nd | ati | //e |     |     |     | e   |
+| ikip |      | 1993 | 2001 |      | ikip |      | old) |  Gov | c   | n.w |     |     |     |     |
+| edia |      |      |      |      | edia |      |      | erno |     | iki |     |     |     |     |
+| .org |      |      |      |      | .org |      |      | r of |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      | Arka |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Bi |      |      | nsas |     | org |     |     |     |     |
+| st_o |      |      |      |      | ll_C |      |      |  (19 |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | lint |      |      | 79–1 |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | on   |      |      | 981  |     | Dem |     |     |     |     |
+| ents |      |      |      |      |      |      |      | & 19 |     | ocr |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      | 83–1 |     | ati |     |     |     |     |
+| the_ |      |      |      |      |      |      |      | 992) |     | c_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 42   | Janu | Janu | Bill | http | Born | (71  | 40th | Dem | htt | (19 | 53  | (19 | Al  |
+| s:// |      | ary  | ary  | Clin | s:// | 1946 | year | &    | ocr | ps: | 96) |     | 97) | Gor |
+| en.w |      | 20,  | 20,  | ton  | en.w |      | s    | 42nd | ati | //e |     |     |     | e   |
+| ikip |      | 1993 | 2001 |      | ikip |      | old) |  Gov | c   | n.w |     |     |     |     |
+| edia |      |      |      |      | edia |      |      | erno |     | iki |     |     |     |     |
+| .org |      |      |      |      | .org |      |      | r of |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      | Arka |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Bi |      |      | nsas |     | org |     |     |     |     |
+| st_o |      |      |      |      | ll_C |      |      |  (19 |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | lint |      |      | 79–1 |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | on   |      |      | 981  |     | Dem |     |     |     |     |
+| ents |      |      |      |      |      |      |      | & 19 |     | ocr |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      | 83–1 |     | ati |     |     |     |     |
+| the_ |      |      |      |      |      |      |      | 992) |     | c_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 43   | Janu | Janu | Geor | http | Born | (71  | 46th | Rep | htt | (20 | 54  | (20 | Dic |
+| s:// |      | ary  | ary  | ge   | s:// | 1946 | year |  Gov | ubl | ps: | 00) |     | 01) | k C |
+| en.w |      | 20,  | 20,  | W.   | en.w |      | s    | erno | ica | //e |     |     |     | hen |
+| ikip |      | 2001 | 2009 | Bush | ikip |      | old) | r of | n   | n.w |     |     |     | ey  |
+| edia |      |      |      |      | edia |      |      | Texa |     | iki |     |     |     |     |
+| .org |      |      |      |      | .org |      |      | s    |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      |  (19 |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Ge |      |      | 95–2 |     | org |     |     |     |     |
+| st_o |      |      |      |      | orge |      |      | 000) |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | _W._ |      |      |      |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | Bush |      |      |      |     | Rep |     |     |     |     |
+| ents |      |      |      |      |      |      |      |      |     | ubl |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | ica |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 43   | Janu | Janu | Geor | http | Born | (71  | 46th | Rep | htt | (20 | 55  | (20 | Dic |
+| s:// |      | ary  | ary  | ge   | s:// | 1946 | year |  Gov | ubl | ps: | 04) |     | 05) | k C |
+| en.w |      | 20,  | 20,  | W.   | en.w |      | s    | erno | ica | //e |     |     |     | hen |
+| ikip |      | 2001 | 2009 | Bush | ikip |      | old) | r of | n   | n.w |     |     |     | ey  |
+| edia |      |      |      |      | edia |      |      | Texa |     | iki |     |     |     |     |
+| .org |      |      |      |      | .org |      |      | s    |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      |  (19 |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Ge |      |      | 95–2 |     | org |     |     |     |     |
+| st_o |      |      |      |      | orge |      |      | 000) |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | _W._ |      |      |      |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | Bush |      |      |      |     | Rep |     |     |     |     |
+| ents |      |      |      |      |      |      |      |      |     | ubl |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | ica |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | n_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 44   | Janu | Janu | Bara | http | Born | (56  | U.S. | Dem | htt | (20 | 56  | (20 | Joe |
+| s:// |      | ary  | ary  | ck O | s:// | 1961 | year | Sena | ocr | ps: | 08) |     | 09) | Bid |
+| en.w |      | 20,  | 20,  | bama | en.w |      | s    | tor  | ati | //e |     |     |     | en  |
+| ikip |      | 2009 | 2017 |      | ikip |      | old) | (Cla | c   | n.w |     |     |     |     |
+| edia |      |      |      |      | edia |      |      | ss   |     | iki |     |     |     |     |
+| .org |      |      |      |      | .org |      |      | 3)   |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      | from |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Ba |      |      | Illi |     | org |     |     |     |     |
+| st_o |      |      |      |      | rack |      |      | nois |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | _Oba |      |      |  (20 |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | ma   |      |      | 05–2 |     | Dem |     |     |     |     |
+| ents |      |      |      |      |      |      |      | 008) |     | ocr |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | c_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 44   | Janu | Janu | Bara | http | Born | (56  | U.S. | Dem | htt | (20 | 57  | (20 | Joe |
+| s:// |      | ary  | ary  | ck O | s:// | 1961 | year | Sena | ocr | ps: | 12) |     | 13) | Bid |
+| en.w |      | 20,  | 20,  | bama | en.w |      | s    | tor  | ati | //e |     |     |     | en  |
+| ikip |      | 2009 | 2017 |      | ikip |      | old) | (Cla | c   | n.w |     |     |     |     |
+| edia |      |      |      |      | edia |      |      | ss   |     | iki |     |     |     |     |
+| .org |      |      |      |      | .org |      |      | 3)   |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      | from |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Ba |      |      | Illi |     | org |     |     |     |     |
+| st_o |      |      |      |      | rack |      |      | nois |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | _Oba |      |      |  (20 |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | ma   |      |      | 05–2 |     | Dem |     |     |     |     |
+| ents |      |      |      |      |      |      |      | 008) |     | ocr |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |      |     | ati |     |     |     |     |
+| the_ |      |      |      |      |      |      |      |      |     | c_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      |      |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      |      |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      |      |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      |      |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+
+| http | 45   | Janu |      | Dona | http | Born | (71  | Chai | Rep | htt | (20 | 58  | (20 | Mik |
+| s:// |      | ary  |      | ld T | s:// | 1946 | year | rman | ubl | ps: | 16) |     | 17) | e P |
+| en.w |      | 20,  |      | rump | en.w |      | s    | of   | ica | //e |     |     |     | enc |
+| ikip |      | 2017 |      |      | ikip |      | old) |  The | n   | n.w |     |     |     | e   |
+| edia |      |      |      |      | edia |      |      | Trum |     | iki |     |     |     |     |
+| .org |      |      |      |      | .org |      |      | p Or |     | ped |     |     |     |     |
+| /wik |      |      |      |      | /wik |      |      | gani |     | ia. |     |     |     |     |
+| i/Li |      |      |      |      | i/Do |      |      | zati |     | org |     |     |     |     |
+| st_o |      |      |      |      | nald |      |      | on   |     | /wi |     |     |     |     |
+| f_Pr |      |      |      |      | _Tru |      |      |  (19 |     | ki/ |     |     |     |     |
+| esid |      |      |      |      | mp   |      |      | 71–2 |     | Rep |     |     |     |     |
+| ents |      |      |      |      |      |      |      | 017) |     | ubl |     |     |     |     |
+| _of_ |      |      |      |      |      |      |      |  (No |     | ica |     |     |     |     |
+| the_ |      |      |      |      |      |      |      | prio |     | n_P |     |     |     |     |
+| Unit |      |      |      |      |      |      |      | r el |     | art |     |     |     |     |
+| ed_S |      |      |      |      |      |      |      | ecte |     | y_( |     |     |     |     |
+| tate |      |      |      |      |      |      |      | d of |     | Uni |     |     |     |     |
+| s    |      |      |      |      |      |      |      | fice |     | ted |     |     |     |     |
+|      |      |      |      |      |      |      |      | )    |     | _St |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | ate |     |     |     |     |
+|      |      |      |      |      |      |      |      |      |     | s)  |     |     |     |     |
++------+------+------+------+------+------+------+------+------+-----+-----+-----+-----+-----+-----+

@@ -1,0 +1,511 @@
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| url          | Date   | Date_link    | Location     | Location_lin | City         | City_link    |
+|              |        |              |              | k            |              |              |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | May 12 | https://www. | Estadio      | https://www. | Guadalajara, | https://www. |
+| illbluestour |        | bandsintown. | Akron        | bandsintown. | Mexico       | bandsintown. |
+| .maroon5.com |        | com/e/219461 |              | com/e/219461 |              | com/e/219461 |
+| /            |        | 92?app_id=js |              | 92?app_id=js |              | 92?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | May 30 | https://www. | Tacoma Dome  | https://www. | Tacoma, WA   | https://www. |
+| illbluestour |        | bandsintown. |              | bandsintown. |              | bandsintown. |
+| .maroon5.com |        | com/e/202440 |              | com/e/202440 |              | com/e/202440 |
+| /            |        | 47?app_id=js |              | 47?app_id=js |              | 47?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Jun 01 | https://www. | Oracle Arena | https://www. | Oakland, CA  | https://www. |
+| illbluestour |        | bandsintown. |              | bandsintown. |              | bandsintown. |
+| .maroon5.com |        | com/e/202440 |              | com/e/202440 |              | com/e/202440 |
+| /            |        | 49?app_id=js |              | 49?app_id=js |              | 49?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Jun 02 | https://www. | Golden 1     | https://www. | Sacramento,  | https://www. |
+| illbluestour |        | bandsintown. | Center       | bandsintown. | CA           | bandsintown. |
+| .maroon5.com |        | com/e/202440 |              | com/e/202440 |              | com/e/202440 |
+| /            |        | 50?app_id=js |              | 50?app_id=js |              | 50?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Jun 04 | https://www. | The Forum    | https://www. | Inglewood,   | https://www. |
+| illbluestour |        | bandsintown. |              | bandsintown. | CA           | bandsintown. |
+| .maroon5.com |        | com/e/202440 |              | com/e/202440 |              | com/e/202440 |
+| /            |        | 51?app_id=js |              | 51?app_id=js |              | 51?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Jun 05 | https://www. | The Forum    | https://www. | Inglewood,   | https://www. |
+| illbluestour |        | bandsintown. |              | bandsintown. | CA           | bandsintown. |
+| .maroon5.com |        | com/e/203608 |              | com/e/203608 |              | com/e/203608 |
+| /            |        | 31?app_id=js |              | 31?app_id=js |              | 31?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Jun 07 | https://www. | Talking      | https://www. | Phoenix, AZ  | https://www. |
+| illbluestour |        | bandsintown. | Stick Resort | bandsintown. |              | bandsintown. |
+| .maroon5.com |        | com/e/202440 | Arena        | com/e/202440 |              | com/e/202440 |
+| /            |        | 52?app_id=js |              | 52?app_id=js |              | 52?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Jun 09 | https://www. | American     | https://www. | Dallas, TX   | https://www. |
+| illbluestour |        | bandsintown. | Airlines     | bandsintown. |              | bandsintown. |
+| .maroon5.com |        | com/e/202433 | Arena        | com/e/202433 |              | com/e/202433 |
+| /            |        | 07?app_id=js |              | 07?app_id=js |              | 07?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Jun 10 | https://www. | Toyota       | https://www. | Houston, TX  | https://www. |
+| illbluestour |        | bandsintown. | Center       | bandsintown. |              | bandsintown. |
+| .maroon5.com |        | com/e/202433 |              | com/e/202433 |              | com/e/202433 |
+| /            |        | 02?app_id=js |              | 02?app_id=js |              | 02?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Jun 12 | https://www. | AT&T Center  | https://www. | San Antonio, | https://www. |
+| illbluestour |        | bandsintown. |              | bandsintown. | TX           | bandsintown. |
+| .maroon5.com |        | com/e/202432 |              | com/e/202432 |              | com/e/202432 |
+| /            |        | 99?app_id=js |              | 99?app_id=js |              | 99?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Jun 14 | https://www. | Smoothie     | https://www. | New Orleans, | https://www. |
+| illbluestour |        | bandsintown. | King Center  | bandsintown. | LA           | bandsintown. |
+| .maroon5.com |        | com/e/202433 |              | com/e/202433 |              | com/e/202433 |
+| /            |        | 00?app_id=js |              | 00?app_id=js |              | 00?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Jun 16 | https://www. | Amalie Arena | https://www. | Tampa, FL    | https://www. |
+| illbluestour |        | bandsintown. |              | bandsintown. |              | bandsintown. |
+| .maroon5.com |        | com/e/202428 |              | com/e/202428 |              | com/e/202428 |
+| /            |        | 06?app_id=js |              | 06?app_id=js |              | 06?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Jun 17 | https://www. | BB&T Center  | https://www. | Sunrise, FL  | https://www. |
+| illbluestour |        | bandsintown. |              | bandsintown. |              | bandsintown. |
+| .maroon5.com |        | com/e/202428 |              | com/e/202428 |              | com/e/202428 |
+| /            |        | 04?app_id=js |              | 04?app_id=js |              | 04?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Aug 03 | https://www. | Newbo Evolve | https://www. | Cedar        | https://www. |
+| illbluestour |        | bandsintown. | Festival     | bandsintown. | Rapids, IA   | bandsintown. |
+| .maroon5.com |        | com/e/213500 |              | com/e/213500 |              | com/e/213500 |
+| /            |        | 59?app_id=js |              | 59?app_id=js |              | 59?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Aug 04 | https://www. | Newbo Evolve | https://www. | Cedar        | https://www. |
+| illbluestour |        | bandsintown. | Festival     | bandsintown. | Rapids, IA   | bandsintown. |
+| .maroon5.com |        | com/e/213500 |              | com/e/213500 |              | com/e/213500 |
+| /            |        | 63?app_id=js |              | 63?app_id=js |              | 63?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Aug 05 | https://www. | Tom Benson   | https://www. | Canton, OH   | https://www. |
+| illbluestour |        | bandsintown. | Hall of Fame | bandsintown. |              | bandsintown. |
+| .maroon5.com |        | com/e/213500 | Stadium      | com/e/213500 |              | com/e/213500 |
+| /            |        | 68?app_id=js |              | 68?app_id=js |              | 68?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Aug 25 | https://www. | Parque       | https://www. | Monterrey,   | https://www. |
+| illbluestour |        | bandsintown. | Fundidora    | bandsintown. | Mexico       | bandsintown. |
+| .maroon5.com |        | com/e/223124 |              | com/e/223124 |              | com/e/223124 |
+| /            |        | 28?app_id=js |              | 28?app_id=js |              | 28?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Sep 07 | https://www. | Vivint Smart | https://www. | Salt Lake    | https://www. |
+| illbluestour |        | bandsintown. | Home Arena   | bandsintown. | City, UT     | bandsintown. |
+| .maroon5.com |        | com/e/202439 |              | com/e/202439 |              | com/e/202439 |
+| /            |        | 13?app_id=js |              | 13?app_id=js |              | 13?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Sep 09 | https://www. | Pepsi Center | https://www. | Denver, CO   | https://www. |
+| illbluestour |        | bandsintown. | Arena        | bandsintown. |              | bandsintown. |
+| .maroon5.com |        | com/e/202439 |              | com/e/202439 |              | com/e/202439 |
+| /            |        | 11?app_id=js |              | 11?app_id=js |              | 11?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Sep 11 | https://www. | Sprint       | https://www. | Kansas City, | https://www. |
+| illbluestour |        | bandsintown. | Center       | bandsintown. | MO           | bandsintown. |
+| .maroon5.com |        | com/e/202433 |              | com/e/202433 |              | com/e/202433 |
+| /            |        | 04?app_id=js |              | 04?app_id=js |              | 04?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Sep 13 | https://www. | Scottrade    | https://www. | St Louis, MO | https://www. |
+| illbluestour |        | bandsintown. | Center       | bandsintown. |              | bandsintown. |
+| .maroon5.com |        | com/e/202433 |              | com/e/202433 |              | com/e/202433 |
+| /            |        | 01?app_id=js |              | 01?app_id=js |              | 01?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Sep 14 | https://www. | United       | https://www. | Chicago, IL  | https://www. |
+| illbluestour |        | bandsintown. | Center       | bandsintown. |              | bandsintown. |
+| .maroon5.com |        | com/e/202433 |              | com/e/202433 |              | com/e/202433 |
+| /            |        | 05?app_id=js |              | 05?app_id=js |              | 05?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Sep 16 | https://www. | Wisconsin En | https://www. | Milwaukee,   | https://www. |
+| illbluestour |        | bandsintown. | tertainment  | bandsintown. | WI           | bandsintown. |
+| .maroon5.com |        | com/e/202439 | and Sports   | com/e/202439 |              | com/e/202439 |
+| /            |        | 12?app_id=js | Center       | 12?app_id=js |              | 12?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Sep 18 | https://www. | Xcel Energy  | https://www. | Saint Paul,  | https://www. |
+| illbluestour |        | bandsintown. | Center       | bandsintown. | MN           | bandsintown. |
+| .maroon5.com |        | com/e/202433 |              | com/e/202433 |              | com/e/202433 |
+| /            |        | 03?app_id=js |              | 03?app_id=js |              | 03?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Sep 20 | https://www. | Banker's     | https://www. | Indianapolis | https://www. |
+| illbluestour |        | bandsintown. | Life         | bandsintown. | , IN         | bandsintown. |
+| .maroon5.com |        | com/e/202428 | Fieldhouse   | com/e/202428 |              | com/e/202428 |
+| /            |        | 03?app_id=js | Arena        | 03?app_id=js |              | 03?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Sep 22 | https://www. | KFC Yum!     | https://www. | Louisville,  | https://www. |
+| illbluestour |        | bandsintown. | Center       | bandsintown. | KY           | bandsintown. |
+| .maroon5.com |        | com/e/202428 |              | com/e/202428 |              | com/e/202428 |
+| /            |        | 17?app_id=js |              | 17?app_id=js |              | 17?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Sep 23 | https://www. | Bridgestone  | https://www. | Nashville,   | https://www. |
+| illbluestour |        | bandsintown. | Arena        | bandsintown. | TN           | bandsintown. |
+| .maroon5.com |        | com/e/202433 |              | com/e/202433 |              | com/e/202433 |
+| /            |        | 06?app_id=js |              | 06?app_id=js |              | 06?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Sep 25 | https://www. | Nationwide   | https://www. | Columbus, OH | https://www. |
+| illbluestour |        | bandsintown. | Arena        | bandsintown. |              | bandsintown. |
+| .maroon5.com |        | com/e/202428 |              | com/e/202428 |              | com/e/202428 |
+| /            |        | 16?app_id=js |              | 16?app_id=js |              | 16?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Sep 27 | https://www. | Air Canada   | https://www. | Toronto,     | https://www. |
+| illbluestour |        | bandsintown. | Centre       | bandsintown. | Canada       | bandsintown. |
+| .maroon5.com |        | com/e/202428 |              | com/e/202428 |              | com/e/202428 |
+| /            |        | 11?app_id=js |              | 11?app_id=js |              | 11?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Sep 29 | https://www. | PPG Paints   | https://www. | Pittsburgh,  | https://www. |
+| illbluestour |        | bandsintown. | Arena        | bandsintown. | PA           | bandsintown. |
+| .maroon5.com |        | com/e/202428 |              | com/e/202428 |              | com/e/202428 |
+| /            |        | 05?app_id=js |              | 05?app_id=js |              | 05?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Sep 30 | https://www. | Little       | https://www. | Detroit, MI  | https://www. |
+| illbluestour |        | bandsintown. | Caesar's     | bandsintown. |              | bandsintown. |
+| .maroon5.com |        | com/e/202428 | Arena        | com/e/202428 |              | com/e/202428 |
+| /            |        | 08?app_id=js |              | 08?app_id=js |              | 08?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Oct 02 | https://www. | Capital One  | https://www. | Washington,  | https://www. |
+| illbluestour |        | bandsintown. | Arena        | bandsintown. | DC           | bandsintown. |
+| .maroon5.com |        | com/e/202428 |              | com/e/202428 |              | com/e/202428 |
+| /            |        | 09?app_id=js |              | 09?app_id=js |              | 09?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Oct 04 | https://www. | Spectrum     | https://www. | Charlotte,   | https://www. |
+| illbluestour |        | bandsintown. | Center       | bandsintown. | NC           | bandsintown. |
+| .maroon5.com |        | com/e/202428 |              | com/e/202428 |              | com/e/202428 |
+| /            |        | 14?app_id=js |              | 14?app_id=js |              | 14?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Oct 06 | https://www. | Prudential   | https://www. | Newark, NJ   | https://www. |
+| illbluestour |        | bandsintown. | Center       | bandsintown. |              | bandsintown. |
+| .maroon5.com |        | com/e/202428 |              | com/e/202428 |              | com/e/202428 |
+| /            |        | 12?app_id=js |              | 12?app_id=js |              | 12?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Oct 07 | https://www. | TD Garden    | https://www. | Boston, MA   | https://www. |
+| illbluestour |        | bandsintown. |              | bandsintown. |              | bandsintown. |
+| .maroon5.com |        | com/e/202428 |              | com/e/202428 |              | com/e/202428 |
+| /            |        | 10?app_id=js |              | 10?app_id=js |              | 10?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Oct 10 | https://www. | XL Center    | https://www. | Hartford, CT | https://www. |
+| illbluestour |        | bandsintown. |              | bandsintown. |              | bandsintown. |
+| .maroon5.com |        | com/e/202428 |              | com/e/202428 |              | com/e/202428 |
+| /            |        | 18?app_id=js |              | 18?app_id=js |              | 18?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Oct 12 | https://www. | Wells Fargo  | https://www. | Philadelphia | https://www. |
+| illbluestour |        | bandsintown. | Center       | bandsintown. | , PA         | bandsintown. |
+| .maroon5.com |        | com/e/202428 |              | com/e/202428 |              | com/e/202428 |
+| /            |        | 15?app_id=js |              | 15?app_id=js |              | 15?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Oct 14 | https://www. | Madison      | https://www. | New York, NY | https://www. |
+| illbluestour |        | bandsintown. | Square       | bandsintown. |              | bandsintown. |
+| .maroon5.com |        | com/e/202428 | Garden       | com/e/202428 |              | com/e/202428 |
+| /            |        | 13?app_id=js |              | 13?app_id=js |              | 13?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+
+| https://redp | Oct 15 | https://www. | Madison      | https://www. | New York, NY | https://www. |
+| illbluestour |        | bandsintown. | Square       | bandsintown. |              | bandsintown. |
+| .maroon5.com |        | com/e/202428 | Garden       | com/e/202428 |              | com/e/202428 |
+| /            |        | 07?app_id=js |              | 07?app_id=js |              | 07?app_id=js |
+|              |        | _redpillblue |              | _redpillblue |              | _redpillblue |
+|              |        | stour.maroon |              | stour.maroon |              | stour.maroon |
+|              |        | 5.com&came_f |              | 5.com&came_f |              | 5.com&came_f |
+|              |        | rom=242&affi |              | rom=242&affi |              | rom=242&affi |
+|              |        | l_code=js_re |              | l_code=js_re |              | l_code=js_re |
+|              |        | dpillbluesto |              | dpillbluesto |              | dpillbluesto |
+|              |        | ur.maroon5.c |              | ur.maroon5.c |              | ur.maroon5.c |
+|              |        | om           |              | om           |              | om           |
++--------------+--------+--------------+--------------+--------------+--------------+--------------+

@@ -1,0 +1,275 @@
++-------------------+------+-------------------+-------------------+------------------+------------+
+| url               | Rank | Game              | Game_link         | Publisher        | Meta_Score |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 1    | Persona 5         | http://www.metacr | Atlus            | 93         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/person |                  |            |
+| of-2017           |      |                   | a-5               |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 2    | Undertale         | http://www.metacr | 8-4 + Fangamer   | 92         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/undert |                  |            |
+| of-2017           |      |                   | ale               |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 3    | Final Fantasy     | http://www.metacr | Square Enix      | 89         |
+| itic.com/feature/ |      | XIV: Stormblood   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/final- |                  |            |
+| of-2017           |      |                   | fantasy-xiv-      |                  |            |
+|                   |      |                   | stormblood        |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 4    | Horizon Zero Dawn | http://www.metacr | Sony             | 89         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/horizo |                  |            |
+| of-2017           |      |                   | n-zero-dawn       |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 5    | What Remains of   | http://www.metacr | Annapurna Inter. | 88         |
+| itic.com/feature/ |      | Edith Finch       | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/what-  |                  |            |
+| of-2017           |      |                   | remains-of-edith- |                  |            |
+|                   |      |                   | finch             |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 6    | NieR: Automata    | http://www.metacr | Square Enix      | 88         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/nier-  |                  |            |
+| of-2017           |      |                   | automata          |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 7    | Okami HD          | http://www.metacr | Capcom           | 88         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/okami- |                  |            |
+| of-2017           |      |                   | hd                |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 8    | Nex Machina:      | http://www.metacr | Sony             | 88         |
+| itic.com/feature/ |      | Death Machine     | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/nex-   |                  |            |
+| of-2017           |      |                   | machina-death-    |                  |            |
+|                   |      |                   | machine           |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 9    | Nioh              | http://www.metacr | Sony             | 88         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/nioh   |                  |            |
+| of-2017           |      |                   |                   |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 10   | Injustice 2       | http://www.metacr | Warner Bros.     | 87         |
+| itic.com/feature/ |      |                   | itic.com/game/pla | Inter.           |            |
+| best-video-games- |      |                   | ystation-4/injust |                  |            |
+| of-2017           |      |                   | ice-2             |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 11   | Night in the      | http://www.metacr | Infinite Fall    | 87         |
+| itic.com/feature/ |      | Woods             | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/night- |                  |            |
+| of-2017           |      |                   | in-the-woods      |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 12   | Wolfenstein II:   | http://www.metacr | Bethesda         | 87         |
+| itic.com/feature/ |      | The New Colossus  | itic.com/game/pla | Softworks        |            |
+| best-video-games- |      |                   | ystation-4/wolfen |                  |            |
+| of-2017           |      |                   | stein-ii-the-new- |                  |            |
+|                   |      |                   | colossus          |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 13   | Zero Escape: The  | http://www.metacr | Aksys Games      | 87         |
+| itic.com/feature/ |      | Nonary Games      | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/zero-  |                  |            |
+| of-2017           |      |                   | escape-the-       |                  |            |
+|                   |      |                   | nonary-games      |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 14   | F1 2017           | http://www.metacr | Deep Silver      | 86         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/f1-201 |                  |            |
+| of-2017           |      |                   | 7                 |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 15   | Thimbleweed Park  | http://www.metacr | Terrible Toybox  | 86         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/thimbl |                  |            |
+| of-2017           |      |                   | eweed-park        |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 16   | Final Fantasy     | http://www.metacr | Square Enix      | 86         |
+| itic.com/feature/ |      | XII: The Zodiac   | itic.com/game/pla |                  |            |
+| best-video-games- |      | Age               | ystation-4/final- |                  |            |
+| of-2017           |      |                   | fantasy-xii-the-  |                  |            |
+|                   |      |                   | zodiac-age        |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 17   | Sonic Mania       | http://www.metacr | Sega             | 86         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/sonic- |                  |            |
+| of-2017           |      |                   | mania             |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 18   | Resident Evil 7:  | http://www.metacr | Capcom           | 86         |
+| itic.com/feature/ |      | biohazard         | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/reside |                  |            |
+| of-2017           |      |                   | nt-               |                  |            |
+|                   |      |                   | evil-7-biohazard  |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 19   | Guilty Gear Xrd:  | http://www.metacr | Aksys Games      | 86         |
+| itic.com/feature/ |      | Rev 2             | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/guilty |                  |            |
+| of-2017           |      |                   | -gear-xrd-rev-2   |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 20   | Pillars of        | http://www.metacr | Paradox Inter.   | 85         |
+| itic.com/feature/ |      | Eternity:         | itic.com/game/pla |                  |            |
+| best-video-games- |      | Complete Edition  | ystation-4/pillar |                  |            |
+| of-2017           |      |                   | s-of-eternity-    |                  |            |
+|                   |      |                   | complete-edition  |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 21   | Destiny 2         | http://www.metacr | Activision       | 85         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/destin |                  |            |
+| of-2017           |      |                   | y-2               |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 22   | Nioh: Bloodshed's | http://www.metacr | Sony             | 85         |
+| itic.com/feature/ |      | End               | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/nioh-  |                  |            |
+| of-2017           |      |                   | bloodsheds-end    |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 23   | Final Fantasy IX  | http://www.metacr | Square Enix      | 85         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/final- |                  |            |
+| of-2017           |      |                   | fantasy-ix        |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 24   | Ys VIII:          | http://www.metacr | NIS America      | 85         |
+| itic.com/feature/ |      | Lacrimosa of DANA | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/ys-    |                  |            |
+| of-2017           |      |                   | viii-lacrimosa-   |                  |            |
+|                   |      |                   | of-dana           |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 25   | Yakuza 0          | http://www.metacr | Sega             | 85         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/yakuza |                  |            |
+| of-2017           |      |                   | -0                |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 26   | MLB The Show 17   | http://www.metacr | Sony             | 85         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/mlb-   |                  |            |
+| of-2017           |      |                   | the-show-17       |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 27   | Wipeout: Omega    | http://www.metacr | Sony             | 85         |
+| itic.com/feature/ |      | Collection        | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/wipeou |                  |            |
+| of-2017           |      |                   | t-omega-          |                  |            |
+|                   |      |                   | collection        |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 28   | Shadow Tactics:   | http://www.metacr | Daedalic Ent.    | 85         |
+| itic.com/feature/ |      | Blades of the     | itic.com/game/pla |                  |            |
+| best-video-games- |      | Shogun            | ystation-4/shadow |                  |            |
+| of-2017           |      |                   | -tactics-blades-  |                  |            |
+|                   |      |                   | of-the-shogun     |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 29   | Pyre              | http://www.metacr | Supergiant Games | 85         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/pyre   |                  |            |
+| of-2017           |      |                   |                   |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 30   | Statik            | http://www.metacr | Tarsier Studios  | 84         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/statik |                  |            |
+| of-2017           |      |                   |                   |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 31   | Kingdom Hearts HD | http://www.metacr | Square Enix      | 84         |
+| itic.com/feature/ |      | I.5 + II.5 Remix  | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/kingdo |                  |            |
+| of-2017           |      |                   | m-hearts-         |                  |            |
+|                   |      |                   | hd-i5-+-ii5-remix |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 32   | DiRT 4            | http://www.metacr | Deep Silver      | 84         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/dirt-4 |                  |            |
+| of-2017           |      |                   |                   |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 33   | Detention         | http://www.metacr | Red Candle Game  | 84         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/detent |                  |            |
+| of-2017           |      |                   | ion               |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 34   | Polybius          | http://www.metacr | Llamasoft        | 84         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/polybi |                  |            |
+| of-2017           |      |                   | us                |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 35   | Uncharted: The    | http://www.metacr | Sony             | 84         |
+| itic.com/feature/ |      | Lost Legacy       | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/unchar |                  |            |
+| of-2017           |      |                   | ted-the-lost-     |                  |            |
+|                   |      |                   | legacy            |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 36   | Hatsune Miku:     | http://www.metacr | Sega             | 84         |
+| itic.com/feature/ |      | Project Diva      | itic.com/game/pla |                  |            |
+| best-video-games- |      | Future Tone -     | ystation-4/hatsun |                  |            |
+| of-2017           |      | Colorful Tone     | e-miku-project-   |                  |            |
+|                   |      |                   | diva-future-tone  |                  |            |
+|                   |      |                   | ---colorful-tone  |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 37   | Hatsune Miku:     | http://www.metacr | Sega             | 84         |
+| itic.com/feature/ |      | Project Diva      | itic.com/game/pla |                  |            |
+| best-video-games- |      | Future Tone -     | ystation-4/hatsun |                  |            |
+| of-2017           |      | Future Sound      | e-miku-project-   |                  |            |
+|                   |      |                   | diva-future-tone  |                  |            |
+|                   |      |                   | ---future-sound   |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 38   | FIFA 18           | http://www.metacr | Electronic Arts  | 84         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/fifa-1 |                  |            |
+| of-2017           |      |                   | 8                 |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 39   | Pro Evolution     | http://www.metacr | Konami           | 83         |
+| itic.com/feature/ |      | Soccer 2018       | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/pro-   |                  |            |
+| of-2017           |      |                   | evolution-        |                  |            |
+|                   |      |                   | soccer-2018       |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 40   | Puyo Puyo Tetris  | http://www.metacr | Sega             | 83         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/puyo-  |                  |            |
+| of-2017           |      |                   | puyo-tetris       |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 41   | Horizon Zero      | http://www.metacr | Sony             | 83         |
+| itic.com/feature/ |      | Dawn: The Frozen  | itic.com/game/pla |                  |            |
+| best-video-games- |      | Wilds             | ystation-4/horizo |                  |            |
+| of-2017           |      |                   | n-zero-dawn-the-  |                  |            |
+|                   |      |                   | frozen-wilds      |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 42   | Danganronpa 1-2   | http://www.metacr | NIS America      | 83         |
+| itic.com/feature/ |      | Reload            | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/dangan |                  |            |
+| of-2017           |      |                   | ronpa-1-2-reload  |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 43   | SUPERHOT          | http://www.metacr | SUPERHOT         | 83         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/superh |                  |            |
+| of-2017           |      |                   | ot                |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 44   | Hand of Fate 2    | http://www.metacr | Defiant          | 82         |
+| itic.com/feature/ |      |                   | itic.com/game/pla | Development      |            |
+| best-video-games- |      |                   | ystation-4/hand-  |                  |            |
+| of-2017           |      |                   | of-fate-2         |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 45   | Project CARS 2    | http://www.metacr | Bandai Namco     | 82         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/projec |                  |            |
+| of-2017           |      |                   | t-cars-2          |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 46   | Madden NFL 18     | http://www.metacr | Electronic Arts  | 82         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/madden |                  |            |
+| of-2017           |      |                   | -nfl-18           |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 47   | Dark Souls III:   | http://www.metacr | Bandai Namco     | 82         |
+| itic.com/feature/ |      | The Ringed City   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/dark-  |                  |            |
+| of-2017           |      |                   | souls-iii-the-    |                  |            |
+|                   |      |                   | ringed-city       |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 48   | Dishonored: Death | http://www.metacr | Bethesda         | 82         |
+| itic.com/feature/ |      | of the Outsider   | itic.com/game/pla | Softworks        |            |
+| best-video-games- |      |                   | ystation-4/dishon |                  |            |
+| of-2017           |      |                   | ored-death-of-    |                  |            |
+|                   |      |                   | the-outsider      |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 49   | Tekken 7          | http://www.metacr | Bandai Namco     | 82         |
+| itic.com/feature/ |      |                   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/tekken |                  |            |
+| of-2017           |      |                   | -7                |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+
+| http://www.metacr | 50   | Danganronpa V3:   | http://www.metacr | NIS America      | 81         |
+| itic.com/feature/ |      | Killing Harmony   | itic.com/game/pla |                  |            |
+| best-video-games- |      |                   | ystation-4/dangan |                  |            |
+| of-2017           |      |                   | ronpa-v3-killing- |                  |            |
+|                   |      |                   | harmony           |                  |            |
++-------------------+------+-------------------+-------------------+------------------+------------+

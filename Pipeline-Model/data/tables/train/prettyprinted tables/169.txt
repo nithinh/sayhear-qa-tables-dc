@@ -1,0 +1,103 @@
++---------------------------------------+-----------------------+----------------------------------+
+| url                                   | Key                   | Value                            |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi | Genre                 | Comedy; Comedy                   |
+| o                                     |                       |                                  |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi | Created by            | Mike O'Brien; Mike O'Brien       |
+| o                                     |                       |                                  |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi | Starring              | Glenn Howerton                   |
+| o                                     |                       |                                  |
+|                                       |                       | Patton Oswalt                    |
+|                                       |                       |                                  |
+|                                       |                       | Lyric Lewis                      |
+|                                       |                       |                                  |
+|                                       |                       | Mary Sohn                        |
+|                                       |                       |                                  |
+|                                       |                       | Jean Villepique                  |
+|                                       |                       |                                  |
+|                                       |                       | Tom Bennett                      |
+|                                       |                       |                                  |
+|                                       |                       | Jacob McCarthy                   |
+|                                       |                       |                                  |
+|                                       |                       | Aparna Brielle                   |
+|                                       |                       |                                  |
+|                                       |                       | Nick Peine; Glenn Howerton       |
+|                                       |                       |                                  |
+|                                       |                       | Patton Oswalt                    |
+|                                       |                       |                                  |
+|                                       |                       | Lyric Lewis                      |
+|                                       |                       |                                  |
+|                                       |                       | Mary Sohn                        |
+|                                       |                       |                                  |
+|                                       |                       | Jean Villepique                  |
+|                                       |                       |                                  |
+|                                       |                       | Tom Bennett                      |
+|                                       |                       |                                  |
+|                                       |                       | Jacob McCarthy                   |
+|                                       |                       |                                  |
+|                                       |                       | Aparna Brielle                   |
+|                                       |                       |                                  |
+|                                       |                       | Nick Peine                       |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi | Opening theme         | "Listen to My Heart" by Ramones  |
+| o                                     |                       |                                  |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi | Composer(s)           | Jeff Cardoni; Jeff Cardoni       |
+| o                                     |                       |                                  |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi | Country of origin     | United States                    |
+| o                                     |                       |                                  |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi | Original language(s)  | English                          |
+| o                                     |                       |                                  |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi | No. of seasons        | 1                                |
+| o                                     |                       |                                  |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi | No. of episodes       | 10 (list of episodes)            |
+| o                                     |                       |                                  |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi | Executive producer(s) | Seth Meyers                      |
+| o                                     |                       |  Mike O'Brien                    |
+|                                       |                       |  Lorne Michaels                  |
+|                                       |                       |  Andrew Singer                   |
+|                                       |                       |  Michael Shoemaker; Seth Meyers  |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi | Producer(s)           | Hilary Marx                      |
+| o                                     |                       |  Katy Jenson                     |
+|                                       |                       |  Shelly Grossman                 |
+|                                       |                       |  Glenn Howerton                  |
+|                                       |                       |  Barbara Stoll                   |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi | Cinematography        | Blake McClure                    |
+| o                                     |                       |                                  |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi | Editor(s)             | Adam Lichtenstein                |
+| o                                     |                       |  Dane McMaster                   |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi | Camera setup          | Single-camera; Single-camera     |
+| o                                     |                       |                                  |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi | Running time          | 22 minutes                       |
+| o                                     |                       |                                  |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi | Production company(s) | Broadway Video                   |
+| o                                     |                       |                                  |
+|                                       |                       | Sethmaker Shoemeyers Productions |
+|                                       |                       |                                  |
+|                                       |                       | Universal Television             |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi | Original network      | NBC; NBC                         |
+| o                                     |                       |                                  |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi | Original release      | February 1, 2018 – present       |
+| o                                     |                       |                                  |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi |                       | Harvard                          |
+| o                                     |                       |                                  |
++---------------------------------------+-----------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/A.P._Bi |                       | New York                         |
+| o                                     |                       |                                  |
++---------------------------------------+-----------------------+----------------------------------+

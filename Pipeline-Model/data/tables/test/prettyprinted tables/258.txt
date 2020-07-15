@@ -1,0 +1,321 @@
++--------------------------------+--------------------------------+--------------------------------+
+| url                            | Term                           | Definition                     |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Angiotensin converting enzyme  | : One kind of medicine used to |
+| /health/articles/12273-hyperte | (ACE) inhibitors               | treat hypertension (high blood |
+| nsion-glossary                 |                                | pressure) by preventing the    |
+|                                |                                | body from making the hormone   |
+|                                |                                | angiotensin II. This hormone   |
+|                                |                                | causes blood vessels to        |
+|                                |                                | narrow, which can raise blood  |
+|                                |                                | pressure. ACE inhibitors allow |
+|                                |                                | the vessels to expand (widen)  |
+|                                |                                | and allow more blood to flow   |
+|                                |                                | to the heart, which lowers     |
+|                                |                                | blood pressure. These          |
+|                                |                                | medicines are also used to     |
+|                                |                                | treat congestive heart         |
+|                                |                                | failure, to protect the        |
+|                                |                                | kidneys in people with         |
+|                                |                                | diabetes, and to treat people  |
+|                                |                                | who have had a heart attack.   |
+|                                |                                | They might also be used to     |
+|                                |                                | help prevent heart attacks and |
+|                                |                                | strokes in high-risk           |
+|                                |                                | individuals.                   |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Atherosclerosis                | : The build-up of fatty        |
+| /health/articles/12273-hyperte |                                | deposits within the arteries,  |
+| nsion-glossary                 |                                | eventually causing a blockage  |
+|                                |                                | of blood flow or stiffening of |
+|                                |                                | the artery walls.              |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Balloon angioplasty            | : A procedure in which a small |
+| /health/articles/12273-hyperte |                                | balloon at the tip of the      |
+| nsion-glossary                 |                                | catheter (see cardiac          |
+|                                |                                | catheterization) is inflated   |
+|                                |                                | inside a narrowed artery to    |
+|                                |                                | stretch it open and increase   |
+|                                |                                | blood flow.                    |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Beta blockers                  | : One kind of medicine used to |
+| /health/articles/12273-hyperte |                                | treat hypertension, chest      |
+| nsion-glossary                 |                                | pain, and irregular heartbeat, |
+|                                |                                | and to help prevent future     |
+|                                |                                | heart attacks. Beta blockers   |
+|                                |                                | work by blocking the effects   |
+|                                |                                | of adrenaline in various parts |
+|                                |                                | of the body. They lower the    |
+|                                |                                | heart rate and relieve stress  |
+|                                |                                | to the heart so that it        |
+|                                |                                | requires less blood and        |
+|                                |                                | oxygen. The heart doesn’t have |
+|                                |                                | to work as hard, which lowers  |
+|                                |                                | blood pressure. Beta blockers  |
+|                                |                                | also work on blood vessels to  |
+|                                |                                | relax the vessel walls and     |
+|                                |                                | lower blood pressure.          |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Calcium channel blockers       | : One kind of hypertension     |
+| /health/articles/12273-hyperte |                                | medicine that slows the        |
+| nsion-glossary                 |                                | movement of calcium into the   |
+|                                |                                | cells of the heart and the     |
+|                                |                                | walls of the arteries (blood   |
+|                                |                                | vessels that carry blood from  |
+|                                |                                | the heart to the tissues).     |
+|                                |                                | This relaxes the arteries and  |
+|                                |                                | reduces the pressure in the    |
+|                                |                                | blood vessels. Some calcium    |
+|                                |                                | channel blockers also lower    |
+|                                |                                | the heart rate.                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Cardiac catheterization        | : A procedure in which a       |
+| /health/articles/12273-hyperte |                                | catheter (a small flexible     |
+| nsion-glossary                 |                                | tube) is inserted into an      |
+|                                |                                | artery and guided to the       |
+|                                |                                | arteries in the heart to look  |
+|                                |                                | for blockages and determine    |
+|                                |                                | pressure and blood flow in the |
+|                                |                                | heart.                         |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Carotid artery                 | : An artery on the neck that   |
+| /health/articles/12273-hyperte |                                | supplies blood to the brain.   |
+| nsion-glossary                 |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Carotid endarterectomy         | : Surgery to remove plaque in  |
+| /health/articles/12273-hyperte |                                | the carotid artery.            |
+| nsion-glossary                 |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Computed tomography (CT) scan  | : A test during which an X-ray |
+| /health/articles/12273-hyperte |                                | beam rotates around the        |
+| nsion-glossary                 |                                | patient, and detectors measure |
+|                                |                                | the amount of X-rays that go   |
+|                                |                                | through the patient. A         |
+|                                |                                | computer constructs a cross-   |
+|                                |                                | sectional image of the data.   |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Congestive heart failure       | : The inability of the heart   |
+| /health/articles/12273-hyperte |                                | to adequately pump blood. This |
+| nsion-glossary                 |                                | can be caused by a number of   |
+|                                |                                | factors, including untreated   |
+|                                |                                | hypertension and heart         |
+|                                |                                | attacks.                       |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Corticosteroids                | : Natural hormones, or a group |
+| /health/articles/12273-hyperte |                                | of drugs that are similar to   |
+| nsion-glossary                 |                                | the natural hormones produced  |
+|                                |                                | by the adrenal glands. There   |
+|                                |                                | are 2 main types of            |
+|                                |                                | corticosteroids:               |
+|                                |                                | glucocorticoids, which have    |
+|                                |                                | anti-inflammatory effects      |
+|                                |                                | (help reduce swelling), and    |
+|                                |                                | mineralocorticoids, which are  |
+|                                |                                | necessary for salt and water   |
+|                                |                                | balance.                       |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Cyclosporine                   | : A drug that organ transplant |
+| /health/articles/12273-hyperte |                                | patients take to suppress the  |
+| nsion-glossary                 |                                | immune system in order to keep |
+|                                |                                | their bodies from rejecting    |
+|                                |                                | the transplant.                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | DASH diet                      | : The Dietary Approaches to    |
+| /health/articles/12273-hyperte |                                | Stop Hypertension (DASH) diet. |
+| nsion-glossary                 |                                | The DASH diet calls for a      |
+|                                |                                | certain number of servings     |
+|                                |                                | daily from various food        |
+|                                |                                | groups, including more daily   |
+|                                |                                | servings of fruits,            |
+|                                |                                | vegetables, and whole grain    |
+|                                |                                | foods.                         |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Diastolic blood pressure       | : The lowest pressure of blood |
+| /health/articles/12273-hyperte |                                | against the walls of the       |
+| nsion-glossary                 |                                | arteries when the heart        |
+|                                |                                | relaxes between beats.         |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Diuretics                      | : One kind of medicine used to |
+| /health/articles/12273-hyperte |                                | treat hypertension. Diuretics  |
+| nsion-glossary                 |                                | act on the kidneys to remove   |
+|                                |                                | excess salt from the blood.    |
+|                                |                                | This increases the flow of     |
+|                                |                                | urine and the need to urinate. |
+|                                |                                | This, in turn, reduces the     |
+|                                |                                | amount of water in the body,   |
+|                                |                                | which helps lower blood        |
+|                                |                                | pressure.                      |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Echocardiogram                 | : A test that uses a device to |
+| /health/articles/12273-hyperte |                                | bounce sound waves off the     |
+| nsion-glossary                 |                                | heart to create an image. The  |
+|                                |                                | image shows the blood flow in  |
+|                                |                                | the heart’s chambers.          |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Electrocardiogram (EKG or ECG) | : A diagnostic test that       |
+| /health/articles/12273-hyperte |                                | measures the electrical        |
+| nsion-glossary                 |                                | activity, rate, and rhythm of  |
+|                                |                                | the heartbeat via electrodes   |
+|                                |                                | that are attached to the       |
+|                                |                                | patient’s arms, legs, and      |
+|                                |                                | chest.                         |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Essential hypertension         | : High blood pressure that     |
+| /health/articles/12273-hyperte |                                | does not have an apparent      |
+| nsion-glossary                 |                                | cause. The vast majority (95%) |
+|                                |                                | of high blood pressure is      |
+|                                |                                | essential hypertension.        |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Exercise stress test           | : A test in which              |
+| /health/articles/12273-hyperte |                                | electrocardiogram readings are |
+| nsion-glossary                 |                                | taken while the patient        |
+|                                |                                | exercises on a treadmill or    |
+|                                |                                | stationary bicycle to increase |
+|                                |                                | the heart rate to a            |
+|                                |                                | predetermined point.           |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Erythropoietin                 | : A hormone that stimulates    |
+| /health/articles/12273-hyperte |                                | production of red blood cells. |
+| nsion-glossary                 |                                | It is used to treat anemia     |
+|                                |                                | caused by chronic (long-term)  |
+|                                |                                | diseases.                      |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Heart attack                   | : Damage to the heart muscle   |
+| /health/articles/12273-hyperte |                                | caused by loss of blood flow   |
+| nsion-glossary                 |                                | to the heart.                  |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Hypertension                   | : High blood pressure.         |
+| /health/articles/12273-hyperte |                                |                                |
+| nsion-glossary                 |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Hypertensive emergency         | : A severe elevation (rise) in |
+| /health/articles/12273-hyperte |                                | blood pressure that can lead   |
+| nsion-glossary                 |                                | to organ damage, including     |
+|                                |                                | encephalopathy (brain damage), |
+|                                |                                | heart attack, heart failure,   |
+|                                |                                | hemorrhagic stroke (bleeding   |
+|                                |                                | into the brain), eclampsia (a  |
+|                                |                                | condition in which pregnant    |
+|                                |                                | women retain water and have    |
+|                                |                                | hypertension, protein in the   |
+|                                |                                | urine, and seizures), and      |
+|                                |                                | arterial bleeding.             |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Hypertensive retinopathy       | : Damage, caused by            |
+| /health/articles/12273-hyperte |                                | hypertension, to the blood     |
+| nsion-glossary                 |                                | vessels in the retina (the     |
+|                                |                                | area at the back of the eye    |
+|                                |                                | that contains the cells that   |
+|                                |                                | are sensitive to light).       |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Hypertensive urgency           | : A form of hypertensive       |
+| /health/articles/12273-hyperte |                                | crisis. Hypertensive urgency   |
+| nsion-glossary                 |                                | is a range of situations that  |
+|                                |                                | includes high blood pressure   |
+|                                |                                | and organ damage (already      |
+|                                |                                | present, or getting worse)     |
+|                                |                                | caused by high blood pressure. |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Hypertrophic cardiomyopathy    | : A condition in which the     |
+| /health/articles/12273-hyperte |                                | heart muscle becomes enlarged  |
+| nsion-glossary                 |                                | and too thick to function as   |
+|                                |                                | it should. This thickening     |
+|                                |                                | might reduce the size of the   |
+|                                |                                | heart chambers, keep the heart |
+|                                |                                | valves from working properly,  |
+|                                |                                | or block the flow of blood out |
+|                                |                                | of the heart.                  |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Ischemic heart disease         | : A condition caused by a      |
+| /health/articles/12273-hyperte |                                | decrease in blood flow to the  |
+| nsion-glossary                 |                                | heart. This decrease is        |
+|                                |                                | usually the result of narrowed |
+|                                |                                | coronary arteries, which slows |
+|                                |                                | down the blood flow.           |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Kidney failure (end stage      | : A condition in which the     |
+| /health/articles/12273-hyperte | renal disease)                 | kidney cannot filter and       |
+| nsion-glossary                 |                                | excrete (get rid of) waste     |
+|                                |                                | products.                      |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Magnetic resonance imaging     | : A medical test that uses     |
+| /health/articles/12273-hyperte | (MRI)                          | magnets to study images of the |
+| nsion-glossary                 |                                | body. As in a CT scan, a       |
+|                                |                                | computer constructs an image   |
+|                                |                                | of the body from the magnetic  |
+|                                |                                | information. This test is      |
+|                                |                                | particularly useful for        |
+|                                |                                | studying soft tissues (such as |
+|                                |                                | organs in the body).           |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Magnetic resonance             | : A type of MRI test that      |
+| /health/articles/12273-hyperte | arteriography (MRA)            | provides detailed pictures of  |
+| nsion-glossary                 |                                | blood vessels, and can reveal  |
+|                                |                                | where arteries might be        |
+|                                |                                | narrowed or where blood flow   |
+|                                |                                | is blocked.                    |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Potassium                      | : An electrolyte that is used  |
+| /health/articles/12273-hyperte |                                | to make energy for all         |
+| nsion-glossary                 |                                | muscles, including heart       |
+|                                |                                | muscles.                       |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Proteinuria                    | : The presence of protein in   |
+| /health/articles/12273-hyperte |                                | the urine. This might indicate |
+| nsion-glossary                 |                                | kidney disease or damage.      |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Secondary hypertension         | : High blood pressure that is  |
+| /health/articles/12273-hyperte |                                | caused by conditions such as   |
+| nsion-glossary                 |                                | alcohol or drug abuse,         |
+|                                |                                | pregnancy, kidney disorders,   |
+|                                |                                | or taking certain medicines.   |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Sphygmomanometer               | : A device that is used to     |
+| /health/articles/12273-hyperte |                                | measure blood pressure. The    |
+| nsion-glossary                 |                                | sphygmomanometer consists of   |
+|                                |                                | an arm cuff, dial, pump, and   |
+|                                |                                | valve.                         |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Stent                          | : A metal device that is used  |
+| /health/articles/12273-hyperte |                                | to hold tissue in place. A     |
+| nsion-glossary                 |                                | stent can keep blood vessels   |
+|                                |                                | open after a surgical          |
+|                                |                                | procedure or heart             |
+|                                |                                | catheterization.               |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Stroke                         | : An interruption of the blood |
+| /health/articles/12273-hyperte |                                | supply in the brain that       |
+| nsion-glossary                 |                                | results in damaged brain       |
+|                                |                                | tissue. An interruption can be |
+|                                |                                | caused by clots that block     |
+|                                |                                | blood flow, or by bleeding in  |
+|                                |                                | the brain from a ruptured      |
+|                                |                                | blood vessel or a significant  |
+|                                |                                | injury.                        |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Systolic blood pressure        | : The highest force of blood   |
+| /health/articles/12273-hyperte |                                | against the walls of the       |
+| nsion-glossary                 |                                | artery when the heart          |
+|                                |                                | contracts or squeezes blood    |
+|                                |                                | into the blood vessels.        |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | TIA (transient ischemic        | : A "mini-stroke," or a        |
+| /health/articles/12273-hyperte | attack)                        | warning of a potential stroke. |
+| nsion-glossary                 |                                | A TIA takes place when blood   |
+|                                |                                | flow to part of the brain is   |
+|                                |                                | briefly interrupted.           |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | TPA                            | : A thrombolytic agent, or     |
+| /health/articles/12273-hyperte |                                | “clot buster” medicine. TPA    |
+| nsion-glossary                 |                                | might be used as a treatment   |
+|                                |                                | for acute ischemic stroke (a   |
+|                                |                                | stroke that happens suddenly   |
+|                                |                                | and is caused by a clot that   |
+|                                |                                | is blocking blood flow to part |
+|                                |                                | of the brain).                 |
++--------------------------------+--------------------------------+--------------------------------+
+| https://my.clevelandclinic.org | Ultrasound                     | : A test that uses high-       |
+| /health/articles/12273-hyperte |                                | frequency sound waves to       |
+| nsion-glossary                 |                                | create images of body organs   |
+|                                |                                | and systems.                   |
++--------------------------------+--------------------------------+--------------------------------+

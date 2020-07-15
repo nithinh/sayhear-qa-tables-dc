@@ -1,0 +1,12 @@
++----------------+----------+----------------+---------------+------------+-----------+------------+
+| observed by    | type     | significance   | celebrations  | date       | frequency | related to |
++----------------+----------+----------------+---------------+------------+-----------+------------+
+| united states  | cultural | supposedly     | announcing    | february 2 | annual    | candlemas  |
+| canada         |          | predicts the   | whether a     |            |           |            |
+|                |          | arrival of     | groundhog     |            |           |            |
+|                |          | spring         | sees its      |            |           |            |
+|                |          |                | shadow after  |            |           |            |
+|                |          |                | it emerges    |            |           |            |
+|                |          |                | from its      |            |           |            |
+|                |          |                | burrow        |            |           |            |
++----------------+----------+----------------+---------------+------------+-----------+------------+

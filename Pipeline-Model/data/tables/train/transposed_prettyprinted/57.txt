@@ -1,0 +1,31 @@
++-------+------+------+------+------+------+------+------+------+------+------+------+------+------+
+| Devel | Publ | Dire | Prod | Desi | Arti | Writ | Comp | Seri | Engi | Plat | Rele | Genr | Mode |
+| oper( | ishe | ctor | ucer | gner | st(s | er(s | oser | es   | ne;  | form | ase  | e(s) | (s)  |
+| s); D | r(s) | (s)  | (s); | (s); | ); A | ); W | (s); |      | Engi | (s); |      | ; Ge |      |
+| evelo | ; Pu |      | Prod | Desi | rtis | rite | Comp |      | ne   | Plat |      | nre( |      |
+| per(s | blis |      | ucer | gner | t(s) | r(s) | oser |      |      | form |      | s)   |      |
+| )     | her( |      | (s)  | (s)  |      |      | (s)  |      |      | (s)  |      |      |      |
+|       | s)   |      |      |      |      |      |      |      |      |      |      |      |      |
++-------+------+------+------+------+------+------+------+------+------+------+------+------+------+
+| Squar | Squa | Haji | Shin | Taka | Tomo | Kazu | Yoko | Fina | Lumi | Play | Play | Acti | Sing |
+| e     | re   | me T | ji H | tsug | hiro | shig | Shim | l Fa | nous | Stat | Stat | on r | le-p |
+| Enix  | Enix | abat | ashi | u Na | Hase | e No | omur | ntas | Stud | ion  | ion  | ole- | laye |
+| Busin |      | a    | moto | kaza | gawa | jima | a    | y (m | io   | 4    | 4,   | play | r    |
+| ess D |      |      |      | wa   |      |      |      | ain) |      |      | Xbox | ing  |      |
+| ivisi |      |      |      |      | Yusu | Saor |      |      |      | Xbox | One  |      |      |
+| on    |      |      |      |      | ke N | i It |      | Fabu |      | One  |      |      |      |
+| 2[a]  |      |      |      |      | aora | amur |      | la   |      |      | Nove |      |      |
+|       |      |      |      |      |      | o    |      | Nova |      | Micr | mber |      |      |
+|       |      |      |      |      | Isam |      |      | Crys |      | osof | 29,  |      |      |
+|       |      |      |      |      | u Ka | Akik |      | tall |      | t Wi | 2016 |      |      |
+|       |      |      |      |      | miko | o Is |      | is F |      | ndow |      |      |      |
+|       |      |      |      |      | kury | hiba |      | inal |      | s    | Micr |      |      |
+|       |      |      |      |      | o    | shi  |      | Fant |      |      | osof |      |      |
+|       |      |      |      |      |      |      |      | asy  |      |      | t Wi |      |      |
+|       |      |      |      |      |      | Taku |      | (sub |      |      | ndow |      |      |
+|       |      |      |      |      |      | mi N |      | -ser |      |      | s    |      |      |
+|       |      |      |      |      |      | ishi |      | ies) |      |      |      |      |      |
+|       |      |      |      |      |      | da   |      |      |      |      | Marc |      |      |
+|       |      |      |      |      |      |      |      |      |      |      | h 6, |      |      |
+|       |      |      |      |      |      |      |      |      |      |      | 2018 |      |      |
++-------+------+------+------+------+------+------+------+------+------+------+------+------+------+

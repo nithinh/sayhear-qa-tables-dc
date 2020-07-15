@@ -1,0 +1,46 @@
++----------------------------------------+-----------------+---------------------------------------+
+| url                                    | Key             | Value                                 |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Marvel_S | Formerly called | Marvel Films (1993–1996)              |
+| tudios                                 |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Marvel_S | Type            | Subsidiary                            |
+| tudios                                 |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Marvel_S | Industry        | Film                                  |
+| tudios                                 |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Marvel_S | Genre           | Superhero fiction                     |
+| tudios                                 |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Marvel_S | Predecessor     | Marvel Productions                    |
+| tudios                                 |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Marvel_S | Founded         | 1993; 25 years ago (1993)             |
+| tudios                                 |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Marvel_S | Founder         | Avi Arad; ToyBiz; Marvel              |
+| tudios                                 |                 | Entertainment Group                   |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Marvel_S | Headquarters    | 500 S. Buena Vista Street,            |
+| tudios                                 |                 |  Burbank, California[1]               |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Marvel_S | Area served     | Worldwide                             |
+| tudios                                 |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Marvel_S | Key people      | Kevin Feige                           |
+| tudios                                 |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Marvel_S | Products        | Motion pictures                       |
+| tudios                                 |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Marvel_S | Parent          | Walt Disney Studios                   |
+| tudios                                 |                 |  (The Walt Disney Company); Walt      |
+|                                        |                 | Disney Studios                        |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Marvel_S | Subsidiaries    | Marvel Music; MVL Productions LLC     |
+| tudios                                 |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Marvel_S | Website         | marvel.com/movies/                    |
+| tudios                                 |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+

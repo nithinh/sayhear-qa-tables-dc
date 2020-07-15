@@ -1,0 +1,77 @@
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| url     | Result  | Fighter | Fighter | Fighter | Fighter | Event_N | Event_N | Event_N | Date   |
+|         |         | _1      | _2      | _3      | _3_link | ame_1   | ame_2   | ame_2_l |        |
+|         |         |         |         |         |         |         |         | ink     |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| http:// | NO      | Brock   | Mark    | Mark    | http:// | UFC 200 | UFC 200 | http:// | Jul 9, |
+| www.ufc | CONTEST | Lesnar  | Hunt    | Hunt    | www.ufc | Tate vs | Tate vs | www.ufc | 2016   |
+| .com/fi |         |         |         |         | .com/fi | Nunes:L | Nunes:L | .com/ev |        |
+| ghter/B |         |         |         |         | ghter/m | ive on  | ive on  | ent/UFC |        |
+| rock-   |         |         |         |         | ark-    | Pay-    | Pay-    | -200    |        |
+| Lesnar  |         |         |         |         | hunt    | Per-    | Per-    |         |        |
+|         |         |         |         |         |         | View    | View    |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| http:// | Loss    | Brock   | Alistai | Alistai | http:// | UFC®    | UFC®    | http:// | Dec    |
+| www.ufc |         | Lesnar  | r       | r       | www.ufc | 141     | 141     | www.ufc | 30,    |
+| .com/fi |         |         | Overeem | Overeem | .com/fi | Live on | Live on | .com/ev | 2011   |
+| ghter/B |         |         |         |         | ghter/A | Pay-    | Pay-    | ent/UFC |        |
+| rock-   |         |         |         |         | listair | Per-Vie | Per-Vie | 141     |        |
+| Lesnar  |         |         |         |         | -       | w:Lesna | w:Lesna |         |        |
+|         |         |         |         |         | Overeem | r vs.   | r vs.   |         |        |
+|         |         |         |         |         |         | Overeem | Overeem |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| http:// |         | Brock   | Cain Ve | Cain Ve | http:// | UFC® 12 | UFC® 12 | http:// | Oct    |
+| www.ufc |         | Lesnar  | lasquez | lasquez | www.ufc | 1:LESNA | 1:LESNA | www.ufc | 23,    |
+| .com/fi |         |         |         |         | .com/fi | R vs VE | R vs VE | .com/ev | 2010   |
+| ghter/B |         |         |         |         | ghter/C | LASQUEZ | LASQUEZ | ent/UFC |        |
+| rock-   |         |         |         |         | ain-Vel |         |         | 121     |        |
+| Lesnar  |         |         |         |         | asquez  |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| http:// |         | Brock   | Shane   | Shane   | http:// | UFC® 11 | UFC® 11 | http:// | Jul 3, |
+| www.ufc |         | Lesnar  | Carwin  | Carwin  | www.ufc | 6:LESNA | 6:LESNA | www.ufc | 2010   |
+| .com/fi |         |         |         |         | .com/fi | R vs    | R vs    | .com/ev |        |
+| ghter/B |         |         |         |         | ghter/S | CARWIN  | CARWIN  | ent/UFC |        |
+| rock-   |         |         |         |         | hane-   |         |         | -116-LE |        |
+| Lesnar  |         |         |         |         | Carwin  |         |         | SNAR-   |        |
+|         |         |         |         |         |         |         |         | vs-     |        |
+|         |         |         |         |         |         |         |         | CARWIN  |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| http:// |         | Brock   | Frank   | Frank   | http:// | UFC® 10 | UFC® 10 | http:// | Jul    |
+| www.ufc |         | Lesnar  | Mir     | Mir     | www.ufc | 0:Lesna | 0:Lesna | www.ufc | 11,    |
+| .com/fi |         |         |         |         | .com/fi | r vs.   | r vs.   | .com/ev | 2009   |
+| ghter/B |         |         |         |         | ghter/F | Mir II  | Mir II  | ent/UFC |        |
+| rock-   |         |         |         |         | rank-   |         |         | -100    |        |
+| Lesnar  |         |         |         |         | Mir     |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| http:// |         | Brock   | Randy   | Randy   | http:// | UFC® 91 | UFC® 91 | http:// | Nov    |
+| www.ufc |         | Lesnar  | Couture | Couture | www.ufc | :COUTUR | :COUTUR | www.ufc | 15,    |
+| .com/fi |         |         |         |         | .com/fi | E vs    | E vs    | .com/ev | 2008   |
+| ghter/B |         |         |         |         | ghter/R | LESNAR  | LESNAR  | ent/UFC |        |
+| rock-   |         |         |         |         | andy-   |         |         | -91-COU |        |
+| Lesnar  |         |         |         |         | Couture |         |         | TURE-   |        |
+|         |         |         |         |         |         |         |         | vs-     |        |
+|         |         |         |         |         |         |         |         | LESNAR  |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| http:// | Win     | Brock   | Heath   | Heath   | http:// | UFC®    | UFC®    | http:// | Aug 9, |
+| www.ufc |         | Lesnar  | Herring | Herring | www.ufc | 87:SEEK | 87:SEEK | www.ufc | 2008   |
+| .com/fi |         |         |         |         | .com/fi | AND     | AND     | .com/ev |        |
+| ghter/B |         |         |         |         | ghter/H | DESTROY | DESTROY | ent/UFC |        |
+| rock-   |         |         |         |         | eath-   |         |         | -87-SEE |        |
+| Lesnar  |         |         |         |         | Herring |         |         | K-AND-  |        |
+|         |         |         |         |         |         |         |         | DESTROY |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| http:// | Loss    | Frank   | Brock   |         |         | UFC® 81 | UFC® 81 | http:// | Feb 2, |
+| www.ufc |         | Mir     | Lesnar  |         |         | :BREAKI | :BREAKI | www.ufc | 2008   |
+| .com/fi |         |         |         |         |         | NG      | NG      | .com/ev |        |
+| ghter/B |         |         |         |         |         | POINT   | POINT   | ent/UFC |        |
+| rock-   |         |         |         |         |         |         |         | -81-BRE |        |
+| Lesnar  |         |         |         |         |         |         |         | AKING-  |        |
+|         |         |         |         |         |         |         |         | POINT   |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| http:// | Win     | Brock   | Min Soo |         |         | K-1 Dyn |         |         | Jun 2, |
+| www.ufc |         | Lesnar  | Kim     |         |         | amite!! |         |         | 2007   |
+| .com/fi |         |         |         |         |         | USA     |         |         |        |
+| ghter/B |         |         |         |         |         |         |         |         |        |
+| rock-   |         |         |         |         |         |         |         |         |        |
+| Lesnar  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+

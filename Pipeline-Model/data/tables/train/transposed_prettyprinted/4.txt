@@ -1,0 +1,11 @@
++-------------------+-------------------+-------------------+-------------------+------------------+
+| Average distance  | Perigee (closest  | Apogee (farthest  | Orbit             | Mean orbit       |
+| from Earth        | approach to       | distance from     | circumference:    | velocity:        |
+|                   | Earth)            | Earth)            |                   |                  |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| Average distance  | Perigee (closest  | Apogee (farthest  | Orbit             | Mean orbit       |
+| from Earth:       | approach to       | distance from     | circumference:    | velocity: 2,287  |
+| 238,855 miles     | Earth): 225,700   | Earth): 252,000   | 1,499,618.58      | mph (3,680.5     |
+| (384,400 km)      | miles (363,300    | miles (405,500    | miles (2,413,402  | km/h)            |
+|                   | km)               | km)               | km)               |                  |
++-------------------+-------------------+-------------------+-------------------+------------------+

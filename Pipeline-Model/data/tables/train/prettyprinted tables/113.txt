@@ -1,0 +1,51 @@
++------------------------------------------+------------------+------------------------------------+
+| url                                      | Key              | Value                              |
++------------------------------------------+------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Ernest_Bor | Born             | Ermes Effron Borgnino              |
+| gnine                                    |                  |  (1917-01-24)January 24, 1917      |
+|                                          |                  |  Hamden, Connecticut, U.S.         |
++------------------------------------------+------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Ernest_Bor | Died             | July 8, 2012(2012-07-08) (aged 95) |
+| gnine                                    |                  |  Los Angeles, California, U.S.     |
++------------------------------------------+------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Ernest_Bor | Cause of death   | Kidney failure                     |
+| gnine                                    |                  |                                    |
++------------------------------------------+------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Ernest_Bor | Occupation       | Actor                              |
+| gnine                                    |                  |                                    |
++------------------------------------------+------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Ernest_Bor | Years active     | 1947–2012                          |
+| gnine                                    |                  |                                    |
++------------------------------------------+------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Ernest_Bor | Spouse(s)        | Rhoda Kemins                       |
+| gnine                                    |                  |  (m. 1949; div. 1958)              |
+|                                          |                  |  Katy Jurado                       |
+|                                          |                  |  (m. 1959; div. 1963)              |
+|                                          |                  |  Ethel Merman                      |
+|                                          |                  |  (m. 1964; div. 1965)              |
+|                                          |                  |  Donna Rancourt                    |
+|                                          |                  |  (m. 1965; div. 1972)              |
+|                                          |                  |  Tova Traesnaes                    |
+|                                          |                  |  (m. 1973)                         |
++------------------------------------------+------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Ernest_Bor | Children         | 4                                  |
+| gnine                                    |                  |                                    |
++------------------------------------------+------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Ernest_Bor |                  | Military career                    |
+| gnine                                    |                  |                                    |
++------------------------------------------+------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Ernest_Bor | Allegiance       | United States of America           |
+| gnine                                    |                  |                                    |
++------------------------------------------+------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Ernest_Bor | Service/branch   | United States Navy                 |
+| gnine                                    |                  |                                    |
++------------------------------------------+------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Ernest_Bor | Years of service | 1935–1941, 1942–1945               |
+| gnine                                    |                  |                                    |
++------------------------------------------+------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Ernest_Bor | Rank             | Gunner's mate, 1st class           |
+| gnine                                    |                  |  Honorary Chief Petty Officer      |
++------------------------------------------+------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Ernest_Bor | Battles/wars     | World War II                       |
+| gnine                                    |                  |                                    |
++------------------------------------------+------------------+------------------------------------+

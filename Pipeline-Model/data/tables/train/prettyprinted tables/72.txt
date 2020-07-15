@@ -1,0 +1,59 @@
++---------------------------+---------------------------+---------------+--------------------------+
+| url                       | Question                  | Question_link | Answer                   |
++---------------------------+---------------------------+---------------+--------------------------+
+| https://michiganlegalhelp | Where can I get my ID?    |               | You can get your         |
+| .org/self-help-           |                           |               | standard Michigan ID     |
+| tools/crime-traffic-and-  |                           |               | card at your local       |
+| id/getting-michigan-id    |                           |               | Secretary of State       |
+|                           |                           |               | office. Use the          |
+|                           |                           |               | Secretary of State’s     |
+|                           |                           |               | Branch Office Locator to |
+|                           |                           |               | find an office near      |
+|                           |                           |               | you.; You can get your   |
+|                           |                           |               | standard Michigan ID     |
+|                           |                           |               | card at your local       |
+|                           |                           |               | Secretary of State       |
+|                           |                           |               | office. Use the          |
+|                           |                           |               | Secretary of State’s     |
++---------------------------+---------------------------+---------------+--------------------------+
+| https://michiganlegalhelp | How much does it cost to  |               | It costs $10.00 to get a |
+| .org/self-help-           | get an ID?                |               | standard Michigan ID     |
+| tools/crime-traffic-and-  |                           |               | card, unless you are 65  |
+| id/getting-michigan-id    |                           |               | years old or older or    |
+|                           |                           |               | you are legally blind—   |
+|                           |                           |               | then it’s free.; If you  |
+|                           |                           |               | do not meet those        |
+|                           |                           |               | requirements you could   |
+|                           |                           |               | still get a fee waiver   |
+|                           |                           |               | for “good cause.” The    |
+|                           |                           |               | SOS says anyone who      |
+|                           |                           |               | receives State           |
+|                           |                           |               | Disability Assistance or |
+|                           |                           |               | Family Independence      |
+|                           |                           |               | Program benefits has     |
+|                           |                           |               | good cause.; To learn    |
+|                           |                           |               | more about the good      |
+|                           |                           |               | cause fee waiver read    |
+|                           |                           |               | Common Problems with     |
+|                           |                           |               | Getting a Michigan ID    |
+|                           |                           |               | Card.; To learn more     |
+|                           |                           |               | about the good cause fee |
+|                           |                           |               | waiver read              |
++---------------------------+---------------------------+---------------+--------------------------+
+| https://michiganlegalhelp | How long does it take to  |               | After you have paid your |
+| .org/self-help-           | get an ID?                |               | fee, you will be issued  |
+| tools/crime-traffic-and-  |                           |               | a temporary, paper ID    |
+| id/getting-michigan-id    |                           |               | while you wait for your  |
+|                           |                           |               | card. It takes between   |
+|                           |                           |               | two and three weeks for  |
+|                           |                           |               | your ID card to arrive   |
+|                           |                           |               | in the mail.; After you  |
+|                           |                           |               | have paid your fee, you  |
+|                           |                           |               | will be issued a         |
+|                           |                           |               | temporary, paper ID      |
+|                           |                           |               | while you wait for your  |
+|                           |                           |               | card. It takes between   |
+|                           |                           |               | two and three weeks for  |
+|                           |                           |               | your ID card to arrive   |
+|                           |                           |               | in the mail.             |
++---------------------------+---------------------------+---------------+--------------------------+

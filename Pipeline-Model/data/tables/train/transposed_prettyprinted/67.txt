@@ -1,0 +1,216 @@
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| url             | Currency        | 1.00_USD  | 1.00_USD_link   | Inv._1.00_USD | Inv._1.00_USD_ |
+|                 |                 |           |                 |               | link           |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Argentine Peso  | 20.224    | http://x-rates. | 0.049         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=ARS     |               | om=ARS&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Australian      | 1.296     | http://x-rates. | 0.772         | http://x-rates |
+| com/table/?from | Dollar          |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=AUD     |               | om=AUD&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Bahraini Dinar  | 0.376     | http://x-rates. | 2.660         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=BHD     |               | om=BHD&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Botswana Pula   | 9.551     | http://x-rates. | 0.105         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=BWP     |               | om=BWP&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Brazilian Real  | 3.300     | http://x-rates. | 0.303         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=BRL     |               | om=BRL&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | British Pound   | 0.709     | http://x-rates. | 1.411         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=GBP     |               | om=GBP&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Bruneian Dollar | 1.316     | http://x-rates. | 0.760         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=BND     |               | om=BND&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Bulgarian Lev   | 1.590     | http://x-rates. | 0.629         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=BGN     |               | om=BGN&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Canadian Dollar | 1.290     | http://x-rates. | 0.775         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=CAD     |               | om=CAD&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Chilean Peso    | 608.129   | http://x-rates. | 0.002         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=CLP     |               | om=CLP&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Chinese Yuan    | 6.334     | http://x-rates. | 0.158         | http://x-rates |
+| com/table/?from | Renminbi        |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=CNY     |               | om=CNY&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Colombian Peso  | 2856.954  | http://x-rates. | 0.000         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=COP     |               | om=COP&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Croatian Kuna   | 6.052     | http://x-rates. | 0.165         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=HRK     |               | om=HRK&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Czech Koruna    | 20.648    | http://x-rates. | 0.048         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=CZK     |               | om=CZK&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Danish Krone    | 6.054     | http://x-rates. | 0.165         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=DKK     |               | om=DKK&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Emirati Dirham  | 3.672     | http://x-rates. | 0.272         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=AED     |               | om=AED&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Euro            | 0.813     | http://x-rates. | 1.230         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=EUR     |               | om=EUR&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Hong Kong       | 7.848     | http://x-rates. | 0.127         | http://x-rates |
+| com/table/?from | Dollar          |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=HKD     |               | om=HKD&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Hungarian       | 253.770   | http://x-rates. | 0.004         | http://x-rates |
+| com/table/?from | Forint          |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=HUF     |               | om=HUF&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Icelandic Krona | 99.414    | http://x-rates. | 0.010         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=ISK     |               | om=ISK&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Indian Rupee    | 65.132    | http://x-rates. | 0.015         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=INR     |               | om=INR&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Indonesian      | 13758.196 | http://x-rates. | 0.000         | http://x-rates |
+| com/table/?from | Rupiah          |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=IDR     |               | om=IDR&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Iranian Rial    | 37714.798 | http://x-rates. | 0.000         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=IRR     |               | om=IRR&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Israeli Shekel  | 3.480     | http://x-rates. | 0.287         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=ILS     |               | om=ILS&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Japanese Yen    | 105.775   | http://x-rates. | 0.009         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=JPY     |               | om=JPY&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Kazakhstani     | 320.665   | http://x-rates. | 0.003         | http://x-rates |
+| com/table/?from | Tenge           |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=KZT     |               | om=KZT&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Kuwaiti Dinar   | 0.300     | http://x-rates. | 3.330         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=KWD     |               | om=KWD&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Libyan Dinar    | 1.328     | http://x-rates. | 0.753         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=LYD     |               | om=LYD&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Malaysian       | 3.914     | http://x-rates. | 0.255         | http://x-rates |
+| com/table/?from | Ringgit         |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=MYR     |               | om=MYR&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Mauritian Rupee | 33.303    | http://x-rates. | 0.030         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=MUR     |               | om=MUR&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Mexican Peso    | 18.501    | http://x-rates. | 0.054         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=MXN     |               | om=MXN&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Nepalese Rupee  | 104.700   | http://x-rates. | 0.010         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=NPR     |               | om=NPR&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | New Zealand     | 1.384     | http://x-rates. | 0.722         | http://x-rates |
+| com/table/?from | Dollar          |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=NZD     |               | om=NZD&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Norwegian Krone | 7.742     | http://x-rates. | 0.129         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=NOK     |               | om=NOK&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Omani Rial      | 0.385     | http://x-rates. | 2.601         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=OMR     |               | om=OMR&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Pakistani Rupee | 115.291   | http://x-rates. | 0.009         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=PKR     |               | om=PKR&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Philippine Peso | 52.400    | http://x-rates. | 0.019         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=PHP     |               | om=PHP&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Polish Zloty    | 3.429     | http://x-rates. | 0.292         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=PLN     |               | om=PLN&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Qatari Riyal    | 3.640     | http://x-rates. | 0.275         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=QAR     |               | om=QAR&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Romanian New    | 3.795     | http://x-rates. | 0.264         | http://x-rates |
+| com/table/?from | Leu             |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=RON     |               | om=RON&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Russian Ruble   | 57.089    | http://x-rates. | 0.018         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=RUB     |               | om=RUB&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Saudi Arabian   | 3.750     | http://x-rates. | 0.267         | http://x-rates |
+| com/table/?from | Riyal           |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=SAR     |               | om=SAR&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Singapore       | 1.316     | http://x-rates. | 0.760         | http://x-rates |
+| com/table/?from | Dollar          |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=SGD     |               | om=SGD&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | South African   | 11.790    | http://x-rates. | 0.085         | http://x-rates |
+| com/table/?from | Rand            |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=ZAR     |               | om=ZAR&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | South Korean    | 1077.802  | http://x-rates. | 0.001         | http://x-rates |
+| com/table/?from | Won             |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=KRW     |               | om=KRW&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Sri Lankan      | 156.134   | http://x-rates. | 0.006         | http://x-rates |
+| com/table/?from | Rupee           |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=LKR     |               | om=LKR&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Swedish Krona   | 8.250     | http://x-rates. | 0.121         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=SEK     |               | om=SEK&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Swiss Franc     | 0.951     | http://x-rates. | 1.051         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=CHF     |               | om=CHF&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Taiwan New      | 29.150    | http://x-rates. | 0.034         | http://x-rates |
+| com/table/?from | Dollar          |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=TWD     |               | om=TWD&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Thai Baht       | 31.280    | http://x-rates. | 0.032         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=THB     |               | om=THB&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Trinidadian     | 6.654     | http://x-rates. | 0.150         | http://x-rates |
+| com/table/?from | Dollar          |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=TTD     |               | om=TTD&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Turkish Lira    | 3.931     | http://x-rates. | 0.254         | http://x-rates |
+| com/table/?from |                 |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=TRY     |               | om=TRY&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+
+| http://x-rates. | Venezuelan      | 9.988     | http://x-rates. | 0.100         | http://x-rates |
+| com/table/?from | Bolivar         |           | com/graph/?from |               | .com/graph/?fr |
+| =USD&amount=1   |                 |           | =USD&to=VEF     |               | om=VEF&to=USD  |
++-----------------+-----------------+-----------+-----------------+---------------+----------------+

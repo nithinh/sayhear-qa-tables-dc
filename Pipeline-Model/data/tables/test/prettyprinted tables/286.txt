@@ -1,0 +1,79 @@
++---------------------------------+------------------------------+---------------------------------+
+| url                             | Key                          | Value                           |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/S | Date                         | February 4, 2018                |
+| uper_Bowl_LII                   |                              |                                 |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/S | Stadium                      | U.S. Bank Stadium, Minneapolis, |
+| uper_Bowl_LII                   |                              | Minnesota                       |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/S | MVP                          | Nick Foles, Quarterback         |
+| uper_Bowl_LII                   |                              |                                 |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/S | Favorite                     | Patriots by 5.5[1]              |
+| uper_Bowl_LII                   |                              |                                 |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/S | Referee                      | Gene Steratore[2]               |
+| uper_Bowl_LII                   |                              |                                 |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/S | Attendance                   | 67,612[3][4]                    |
+| uper_Bowl_LII                   |                              |                                 |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/S | National anthem              | Pink[5]                         |
+| uper_Bowl_LII                   |                              |                                 |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/S | Coin toss                    | Hershel W. Williams,            |
+| uper_Bowl_LII                   |                              | representing Medal of Honor     |
+|                                 |                              | recipients[6]                   |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/S | Halftime show                | Justin Timberlake[7]            |
+| uper_Bowl_LII                   |                              |                                 |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/S | Network                      | NBC                             |
+| uper_Bowl_LII                   |                              |  Universo (Spanish language)    |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/S | Announcers                   | Al Michaels (play-by-play)      |
+| uper_Bowl_LII                   |                              |  Cris Collinsworth (analyst)    |
+|                                 |                              |  Michele Tafoya (sideline       |
+|                                 |                              | reporter)                       |
+|                                 |                              |  Edgar López (play-by-play-     |
+|                                 |                              | Universo)                       |
+|                                 |                              |  René Giraldo and Rolando Cantú |
+|                                 |                              | (analysts- Universo)            |
+|                                 |                              |  Verónica Contreras (sidelines- |
+|                                 |                              | Universo)                       |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/S | Nielsen ratings              | 43.1 (national)                 |
+| uper_Bowl_LII                   |                              |  56.2 (Philadelphia)            |
+|                                 |                              |  55.9 (Boston)                  |
+|                                 |                              |  U.S. viewership: 103.4 million |
+|                                 |                              | est. avg.[8]                    |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/S | Market share                 | 68 (national)                   |
+| uper_Bowl_LII                   |                              |                                 |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/S | Cost of 30-second commercial | $5 million[9]                   |
+| uper_Bowl_LII                   |                              |                                 |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/S | Network; Network             | Westwood One                    |
+| uper_Bowl_LII                   |                              |  ESPN Deportes Radio (Spanish   |
+|                                 |                              | language)                       |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/S | Announcers                   | Kevin Harlan (play-by-play)     |
+| uper_Bowl_LII                   |                              |  Boomer Esiason and Mike        |
+|                                 |                              | Holmgren (analysts)             |
+|                                 |                              |  Ed Werder and Tony Boselli     |
+|                                 |                              | (sideline reporters)            |
+|                                 |                              |  Álvaro Martín (play-by-play-   |
+|                                 |                              | ESPN Deportes Radio)            |
+|                                 |                              |  Raúl Allegre (analyst- ESPN    |
+|                                 |                              | Deportes Radio)                 |
+|                                 |                              |  John Sutcliffe (sideline- ESPN |
+|                                 |                              | Deportes Radio)                 |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/S |                              | ← LI                            |
+| uper_Bowl_LII                   |                              |                                 |
+|                                 |                              | Super Bowl                      |
+|                                 |                              |                                 |
+|                                 |                              | LIII →                          |
++---------------------------------+------------------------------+---------------------------------+

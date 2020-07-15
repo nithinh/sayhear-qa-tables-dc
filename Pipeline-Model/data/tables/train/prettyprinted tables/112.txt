@@ -1,0 +1,27 @@
++----------------------------------------------------+---------------+-----------------------------+
+| url                                                | Key           | Value                       |
++----------------------------------------------------+---------------+-----------------------------+
+| https://www.usgamer.net/articles/30-01-2018-shadow | Release Date: | February 6, 2018            |
+| -of-the-colossus-remake-release-date-              |               |                             |
+| ps4-bluepoint-improved-graphics-everything-we-know |               |                             |
++----------------------------------------------------+---------------+-----------------------------+
+| https://www.usgamer.net/articles/30-01-2018-shadow | Price:        | TBC                         |
+| -of-the-colossus-remake-release-date-              |               |                             |
+| ps4-bluepoint-improved-graphics-everything-we-know |               |                             |
++----------------------------------------------------+---------------+-----------------------------+
+| https://www.usgamer.net/articles/30-01-2018-shadow | Developer:    | Bluepoint/Sony Japan Studio |
+| -of-the-colossus-remake-release-date-              |               |                             |
+| ps4-bluepoint-improved-graphics-everything-we-know |               |                             |
++----------------------------------------------------+---------------+-----------------------------+
+| https://www.usgamer.net/articles/30-01-2018-shadow | Publisher:    | Sony                        |
+| -of-the-colossus-remake-release-date-              |               |                             |
+| ps4-bluepoint-improved-graphics-everything-we-know |               |                             |
++----------------------------------------------------+---------------+-----------------------------+
+| https://www.usgamer.net/articles/30-01-2018-shadow | Platforms:    | PS4                         |
+| -of-the-colossus-remake-release-date-              |               |                             |
+| ps4-bluepoint-improved-graphics-everything-we-know |               |                             |
++----------------------------------------------------+---------------+-----------------------------+
+| https://www.usgamer.net/articles/30-01-2018-shadow | Genre:        | Wonderful Adventure         |
+| -of-the-colossus-remake-release-date-              |               |                             |
+| ps4-bluepoint-improved-graphics-everything-we-know |               |                             |
++----------------------------------------------------+---------------+-----------------------------+

@@ -1,0 +1,118 @@
++--------------------------------+--------------------------------+--------------------------------+
+| url                            | Steps_to_lower_taxes           | Description                    |
++--------------------------------+--------------------------------+--------------------------------+
+| https://turbotax.intuit.com/ta | 1. Contribute to retirement    | If you haven’t already funded  |
+| x-tips/tax-planning-and-       | accounts                       | your retirement account for    |
+| checklists/tax-tips-after-     |                                | 2017, do so by April 17, 2018. |
+| january-1st/L8fY6OyFl          |                                | That’s the deadline for        |
+|                                |                                | contributions to a traditional |
+|                                |                                | IRA, deductible or not, and to |
+|                                |                                | a Roth IRA.                    |
++--------------------------------+--------------------------------+--------------------------------+
+| https://turbotax.intuit.com/ta | 2. Make a last-minute          | If you didn’t pay enough to    |
+| x-tips/tax-planning-and-       | estimated tax payment          | the IRS during the year, you   |
+| checklists/tax-tips-after-     |                                | may have a big tax bill        |
+| january-1st/L8fY6OyFl          |                                | staring you in the face. Plus, |
+|                                |                                | you might owe significant      |
+|                                |                                | interest and penalties, too.   |
++--------------------------------+--------------------------------+--------------------------------+
+| https://turbotax.intuit.com/ta | 3. Organize your records for   | Good organization may not cut  |
+| x-tips/tax-planning-and-       | tax time                       | your taxes. But there are      |
+| checklists/tax-tips-after-     |                                | other rewards, and some of     |
+| january-1st/L8fY6OyFl          |                                | them are financial. For many,  |
+|                                |                                | the biggest hassle at tax time |
+|                                |                                | is getting all of the          |
+|                                |                                | documentation together. This   |
+|                                |                                | includes last year’s tax       |
+|                                |                                | return, this year’s W-2s and   |
+|                                |                                | 1099s, receipts and so on.     |
++--------------------------------+--------------------------------+--------------------------------+
+| https://turbotax.intuit.com/ta | 4. Find the right tax forms    | You won’t find all of them at  |
+| x-tips/tax-planning-and-       |                                | the post office and library.   |
+| checklists/tax-tips-after-     |                                | Instead, you can go right to   |
+| january-1st/L8fY6OyFl          |                                | the source online. View and    |
+|                                |                                | download a large catalog of    |
+|                                |                                | forms and publications at the  |
+|                                |                                | Internal Revenue Service Web   |
+|                                |                                | site or have them sent to you  |
+|                                |                                | by mail. You can search for    |
+|                                |                                | documents as far back as 1980  |
+|                                |                                | by number or by date.          |
++--------------------------------+--------------------------------+--------------------------------+
+| https://turbotax.intuit.com/ta | 5. Itemize your tax deductions | It’s easier to take the        |
+| x-tips/tax-planning-and-       |                                | standard deduction, but you    |
+| checklists/tax-tips-after-     |                                | may save a bundle if you       |
+| january-1st/L8fY6OyFl          |                                | itemize, especially if you are |
+|                                |                                | self-employed, own a home or   |
+|                                |                                | live in a high-tax area.       |
++--------------------------------+--------------------------------+--------------------------------+
+| https://turbotax.intuit.com/ta | 6. Don't shy away from a home  | The eligibility rules for      |
+| x-tips/tax-planning-and-       | office tax deduction           | claiming a home office         |
+| checklists/tax-tips-after-     |                                | deduction have been loosened   |
+| january-1st/L8fY6OyFl          |                                | to allow more filers to claim  |
+|                                |                                | this break. People who have no |
+|                                |                                | fixed location for their       |
+|                                |                                | businesses can claim a home    |
+|                                |                                | office deduction if they use   |
+|                                |                                | the space for administrative   |
+|                                |                                | or management activities, even |
+|                                |                                | if they don’t meet clients     |
+|                                |                                | there. Doctors, for example,   |
+|                                |                                | who consult at various         |
+|                                |                                | hospitals, or plumbers who     |
+|                                |                                | make house calls, can now      |
+|                                |                                | qualify. As always, you must   |
+|                                |                                | use the space exclusively for  |
+|                                |                                | business.                      |
++--------------------------------+--------------------------------+--------------------------------+
+| https://turbotax.intuit.com/ta | 7. Provide dependent taxpayer  | Be sure to plug in Taxpayer    |
+| x-tips/tax-planning-and-       | IDs on your tax return         | Identification Numbers         |
+| checklists/tax-tips-after-     |                                | (usually Social Security       |
+| january-1st/L8fY6OyFl          |                                | Numbers) for your children and |
+|                                |                                | other dependents on your       |
+|                                |                                | return. Otherwise, the IRS     |
+|                                |                                | will deny the personal         |
+|                                |                                | exemption of $4,050 in 2017    |
+|                                |                                | for each dependent and the     |
+|                                |                                | $1,000 child tax credit for    |
+|                                |                                | each child under age 17.       |
++--------------------------------+--------------------------------+--------------------------------+
+| https://turbotax.intuit.com/ta | 8. File and pay on time        | If you can’t finish your       |
+| x-tips/tax-planning-and-       |                                | return on time, make sure you  |
+| checklists/tax-tips-after-     |                                | file Form 4868 by April 17,    |
+| january-1st/L8fY6OyFl          |                                | 2018. Form 4868 gives you a    |
+|                                |                                | six-month extension of the     |
+|                                |                                | filing deadline until October  |
+|                                |                                | 15, 2018. On the form, you     |
+|                                |                                | need to make a reasonable      |
+|                                |                                | estimate of your tax liability |
+|                                |                                | for 2017 and pay any balance   |
+|                                |                                | due with your request.         |
++--------------------------------+--------------------------------+--------------------------------+
+| https://turbotax.intuit.com/ta | 9. File electronically         | Electronic filing works best   |
+| x-tips/tax-planning-and-       |                                | if you expect a tax refund.    |
+| checklists/tax-tips-after-     |                                | Because the IRS processes      |
+| january-1st/L8fY6OyFl          |                                | electronic returns faster than |
+|                                |                                | paper ones, you can expect to  |
+|                                |                                | get your refund three to six   |
+|                                |                                | weeks earlier. If you have all |
+|                                |                                | your documents in order, go    |
+|                                |                                | ahead and file electronically  |
+|                                |                                | in January using software like |
+|                                |                                | one of the TurboTax programs.  |
+|                                |                                | If you have your refund        |
+|                                |                                | deposited directly into your   |
+|                                |                                | bank account or IRA, the       |
+|                                |                                | waiting time is even less.     |
++--------------------------------+--------------------------------+--------------------------------+
+| https://turbotax.intuit.com/ta | 10. Decide if you need help    | TurboTax can handle the most   |
+| x-tips/tax-planning-and-       |                                | complex returns with ease (and |
+| checklists/tax-tips-after-     |                                | allow you to file your taxes   |
+| january-1st/L8fY6OyFl          |                                | electronically for a faster    |
+|                                |                                | refund). You just need to      |
+|                                |                                | answer simple questions, such  |
+|                                |                                | as whether you've had a baby,  |
+|                                |                                | bought a home or had some      |
+|                                |                                | other life-changing event in   |
+|                                |                                | the past year.                 |
++--------------------------------+--------------------------------+--------------------------------+

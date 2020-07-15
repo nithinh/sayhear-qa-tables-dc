@@ -1,0 +1,386 @@
++-------------------------------------+----------------------+-------------------------------------+
+| url                                 | State                | Residency                           |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Alabama              | State: No in-state minimum if both  |
+| ce-residency-requirements.aspx      |                      | spouses live in state. 180 days if  |
+|                                     |                      | only one spouse lives in state.     |
+|                                     |                      | County: No in-county minimum. If    |
+|                                     |                      | the Defendant lives in Alabama,     |
+|                                     |                      | file either in Defendant's county   |
+|                                     |                      | or the county where the parties     |
+|                                     |                      | lived together when the separation  |
+|                                     |                      | occurred. If the Defendant is not   |
+|                                     |                      | an Alabama resident, file in        |
+|                                     |                      | Plaintiff's county.                 |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Alaska               | State: No in-state minimum          |
+| ce-residency-requirements.aspx      |                      | residency requirement.              |
+|                                     |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Arizona              | State: 90 days                      |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Arkansas             | State: 60 days                      |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | in Plaintiff's county. If Plaintiff |
+|                                     |                      | lives out of state, file in non-    |
+|                                     |                      | filing Defendant's county.          |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | California           | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County: 90 days                     |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Colorado             | State: 91 days                      |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Connecticut          | State: 365 days                     |
+| ce-residency-requirements.aspx      |                      | County/City: No in-county minimum.  |
+|                                     |                      | File in the county/city where the   |
+|                                     |                      | Defendant lives. If the Defendant   |
+|                                     |                      | does not live in Connecticut, file  |
+|                                     |                      | in the county/city where the        |
+|                                     |                      | Plaintiff lives.                    |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Delaware             | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | District of Columbia | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County:                             |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Florida              | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | either in the county where the      |
+|                                     |                      | parties last lived together or the  |
+|                                     |                      | county where the Respondent         |
+|                                     |                      | resides. If neither applies, file   |
+|                                     |                      | in Petitioner's county.             |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Georgia              | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. You   |
+|                                     |                      | can always file in Respondent's     |
+|                                     |                      | county. If Respondent doesn't live  |
+|                                     |                      | in-state, file in Petitioner's      |
+|                                     |                      | county. If both spouses agree on    |
+|                                     |                      | any other county, DivorceWriter     |
+|                                     |                      | provides a form for the Respondent  |
+|                                     |                      | to sign consenting to the           |
+|                                     |                      | jurisdiction of the court in the    |
+|                                     |                      | agreed upon county.                 |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Hawaii               | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | Island: 30 days on the island       |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Idaho                | State: 45 days                      |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Illinois             | State: 90 days                      |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Indiana              | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County: 90 days                     |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Iowa                 | State: 365 days                     |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Kansas               | State: 60 days                      |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Kentucky             | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Louisiana            | State: 365 days                     |
+| ce-residency-requirements.aspx      |                      | Parish: No in-parish minimum. File  |
+|                                     |                      | in the parish where either spouse   |
+|                                     |                      | resides or where the spouses last   |
+|                                     |                      | lived together.                     |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Maine                | State: No in-state minimum if       |
+| ce-residency-requirements.aspx      |                      | either: (1) the spouses married in  |
+|                                     |                      | state or (2) the breakdown of the   |
+|                                     |                      | marriage occurred in state. 180     |
+|                                     |                      | days if neither of those apply.     |
+|                                     |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Maryland             | State: None if the breakdown of the |
+| ce-residency-requirements.aspx      |                      | marriage happened in state; 365     |
+|                                     |                      | days if the marriage broke down out |
+|                                     |                      | of state                            |
+|                                     |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Massachusetts        | State: None if the breakdown of     |
+| ce-residency-requirements.aspx      |                      | marriage happened in state; 365     |
+|                                     |                      | days if the marriage broke down out |
+|                                     |                      | of state                            |
+|                                     |                      | County: No in-county minimum. If    |
+|                                     |                      | either spouse lives in the county   |
+|                                     |                      | where they last lived together as a |
+|                                     |                      | married couple, file in that        |
+|                                     |                      | county. If neither spouse does,     |
+|                                     |                      | file in the county where either     |
+|                                     |                      | spouse resides.                     |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Michigan             | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County: 10 days                     |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Minnesota            | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum        |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Mississippi          | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Missouri             | State: 90 days                      |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Montana              | State: 90 days                      |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Nebraska             | State: None if you were married in  |
+| ce-residency-requirements.aspx      |                      | Nebraska and at least one spouse    |
+|                                     |                      | still lives there. 365 days if      |
+|                                     |                      | married in another state            |
+|                                     |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Nevada               | State: 45 days                      |
+| ce-residency-requirements.aspx      |                      | Spouse filing for divorce must plan |
+|                                     |                      | to live in state indefinitely.      |
+|                                     |                      |                                     |
+|                                     |                      | Must file sworn affidavit from a    |
+|                                     |                      | Nevada resident having personal     |
+|                                     |                      | knowledge of the filing spouse      |
+|                                     |                      | meeting the minimum residency       |
+|                                     |                      | requirement.                        |
+|                                     |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where the Petitioner  |
+|                                     |                      | resides. Carson City filers will    |
+|                                     |                      | file at the Carson City District    |
+|                                     |                      | Court Clerk's office.               |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | New Hampshire        | State: None if both spouses live in |
+| ce-residency-requirements.aspx      |                      | state; 365 days if only one spouse  |
+|                                     |                      | lives in state                      |
+|                                     |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | New Jersey           | State: 365 days                     |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum        |
+|                                     |                      | File the county where Plaintiff was |
+|                                     |                      | living at the end of the six-month  |
+|                                     |                      | period of irreconcilable            |
+|                                     |                      | differences.                        |
+|                                     |                      |                                     |
+|                                     |                      | If Plaintiff did not live in New    |
+|                                     |                      | Jersey at the end of the six-month  |
+|                                     |                      | period of irreconcilable            |
+|                                     |                      | differences, file in the county     |
+|                                     |                      | where Defendant lived at the end of |
+|                                     |                      | the six-month period.               |
+|                                     |                      |                                     |
+|                                     |                      | If neither spouse lived in New      |
+|                                     |                      | Jersey at the end of the six-month  |
+|                                     |                      | period, file in the county where    |
+|                                     |                      | Plaintiff currently lives.          |
+|                                     |                      |                                     |
+|                                     |                      | If Plaintiff does not currently     |
+|                                     |                      | live in New Jersey, file in the     |
+|                                     |                      | county where Defendant lived when   |
+|                                     |                      | service of process was made.        |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | New Mexico           | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | New York             | State: None, if both spouses live   |
+| ce-residency-requirements.aspx      |                      | in New York and the cause of the    |
+|                                     |                      | divorce happened in state.          |
+|                                     |                      | 365 days if:                        |
+|                                     |                      |                                     |
+|                                     |                      | The cause of the divorce happened   |
+|                                     |                      | in state, but only one spouse lives |
+|                                     |                      | there;                              |
+|                                     |                      |                                     |
+|                                     |                      | You were married in state, but now  |
+|                                     |                      | only one spouse lives there; or     |
+|                                     |                      |                                     |
+|                                     |                      | The spouses lived in NY while       |
+|                                     |                      | married at some point, but now only |
+|                                     |                      | one spouse lives in state.          |
+|                                     |                      |                                     |
+|                                     |                      | 730 days if:                        |
+|                                     |                      |                                     |
+|                                     |                      | Only one spouse lives in state and  |
+|                                     |                      | none of the factors above apply.    |
+|                                     |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | North Carolina       | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | North Dakota         | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | in Defendant's county if Defendant  |
+|                                     |                      | lives in state. Otherwise,          |
+|                                     |                      | Plaintiff may file in any county.   |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Ohio                 | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County: 90 days                     |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Oklahoma             | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum if     |
+|                                     |                      | filed in Respondent's county or 30  |
+|                                     |                      | days if filed in Petitioner's       |
+|                                     |                      | county.                             |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Oregon               | State: None if you were married in  |
+| ce-residency-requirements.aspx      |                      | state. 180 days if you were married |
+|                                     |                      | in another state.                   |
+|                                     |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Pennsylvania         | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides or in any Pennsylvania      |
+|                                     |                      | county if the spouses have agreed   |
+|                                     |                      | in a writing attached to the        |
+|                                     |                      | Complaint or by participating in    |
+|                                     |                      | the proceeding.                     |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Rhode Island         | State: 365 days                     |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | in Plaintiff's county as long as    |
+|                                     |                      | Plaintiff meets the 365-day in-     |
+|                                     |                      | state residency requirement. If     |
+|                                     |                      | not, file in Defendant's county     |
+|                                     |                      | provided Defendant meets the        |
+|                                     |                      | 365-day in-state residency          |
+|                                     |                      | requirement.                        |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | South Carolina       | State: 90 days if both spouses live |
+| ce-residency-requirements.aspx      |                      | in state; 365 days if only one      |
+|                                     |                      | spouse lives in state.              |
+|                                     |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where (1) the         |
+|                                     |                      | Defendant resides at the time the   |
+|                                     |                      | divorce is filed, (2) the Plaintiff |
+|                                     |                      | resides if the Defendant is a non-  |
+|                                     |                      | resident and cannot be located, or  |
+|                                     |                      | (3) where the parties last resided  |
+|                                     |                      | together as husband and wife unless |
+|                                     |                      | the Plaintiff is not a resident of  |
+|                                     |                      | South Carolina in which case you    |
+|                                     |                      | should file in the county where     |
+|                                     |                      | Defendant resides.                  |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | South Dakota         | State: No minimum residency         |
+| ce-residency-requirements.aspx      |                      | requirement.                        |
+|                                     |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Tennessee            | State: None if grounds for divorce  |
+| ce-residency-requirements.aspx      |                      | happened in state. 180 days if the  |
+|                                     |                      | grounds for divorce happened in     |
+|                                     |                      | another state.                      |
+|                                     |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where the parties     |
+|                                     |                      | resided together at the time of     |
+|                                     |                      | their separation or in the county   |
+|                                     |                      | where the Defendant resides. If the |
+|                                     |                      | Defendant is not a resident of      |
+|                                     |                      | Tennessee or is incarcerated, file  |
+|                                     |                      | in the county where the Plaintiff   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Texas                | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County: 90 days                     |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Utah                 | State: 90 days                      |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Vermont              | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Virginia             | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County/City: No in-county minimum.  |
+|                                     |                      | File in the county or city where    |
+|                                     |                      | (1) the spouses last resided        |
+|                                     |                      | together, (2) the Defendant         |
+|                                     |                      | resides, if the Defendant is a      |
+|                                     |                      | resident of Virginia, and (3) the   |
+|                                     |                      | Plaintiff resides, if the Defendant |
+|                                     |                      | is a nonresident of Virginia.       |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Washington           | State: No minimum in-state          |
+| ce-residency-requirements.aspx      |                      | residency requirement.              |
+|                                     |                      | County: No in-county minimum and    |
+|                                     |                      | you may file in any county,         |
+|                                     |                      | regardless of where you and your    |
+|                                     |                      | spouse live in WA.                  |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | West Virginia        | State: 365 days                     |
+| ce-residency-requirements.aspx      |                      | County: No in-county minimum.       |
+|                                     |                      | If the non-filing spouse is a       |
+|                                     |                      | resident of West Virginia, the      |
+|                                     |                      | divorce may be filed in the county  |
+|                                     |                      | where the non-filing spouse lives.  |
+|                                     |                      |                                     |
+|                                     |                      | If the non-filing spouse does not   |
+|                                     |                      | reside in West Virginia, the        |
+|                                     |                      | divorce may be filed in the county  |
+|                                     |                      | where the filing spouse lives.      |
+|                                     |                      |                                     |
+|                                     |                      | The divorce can always be filed in  |
+|                                     |                      | the county where the spouses last   |
+|                                     |                      | lived together as husband and wife. |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Wisconsin            | State: 180 days                     |
+| ce-residency-requirements.aspx      |                      | County: 90 days                     |
++-------------------------------------+----------------------+-------------------------------------+
+| https://www.divorcewriter.com/divor | Wyoming              | State: None if the marriage         |
+| ce-residency-requirements.aspx      |                      | occurred in the state and the       |
+|                                     |                      | filing spouse has lived in Wyoming  |
+|                                     |                      | since the marriage date. Otherwise, |
+|                                     |                      | 60 days.                            |
+|                                     |                      | County: No in-county minimum. File  |
+|                                     |                      | in the county where either spouse   |
+|                                     |                      | resides.                            |
++-------------------------------------+----------------------+-------------------------------------+

@@ -1,0 +1,313 @@
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| url     | Analyti | Analyti | Analyti | Search_ | Biz_Nam | Biz_Nam | Off_Scr | Off_Scr | Review |
+|         | cs_Imag | cs_Imag | cs_Imag | Result  | e_Click | e_Click | een     | een_alt | _Count |
+|         | e       | e_alt   | e_link  |         |         | _link   |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Mattres | https:/ | Ad      | Mattres | https:/ | https:/ | 5.0     | 5 revi |
+| /www.ye | /s3-med | s Liqui | /www.ye |         | s Liqui | /www.ye | /s3-med | star    | ews    |
+| lp.com/ | ia4.fl. | dators  | lp.com/ |         | dators  | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn |         | adredir |         |         | adredir | yelpcdn |         |        |
+| find_de | .com/bp |         | ?ad_bus |         |         | ?ad_bus | .com/as |         |        |
+| sc=Anti | hoto/ZZ |         | iness_i |         |         | iness_i | sets/sr |         |        |
+| que+Sto | 0vofDS7 |         | d=d8tJ_ |         |         | d=d8tJ_ | v0/yelp |         |        |
+| res&fin | pnF4BMX |         | 7DA75ra |         |         | 7DA75ra | _design |         |        |
+| d_loc=R | ktkKUQ/ |         | 0I_C64q |         |         | 0I_C64q | _web/9b |         |        |
+| ichmond | 90s.jpg |         | w7g&cam |         |         | w7g&cam | 34e39cc |         |        |
+| %2C+VA  |         |         | paign_i |         |         | paign_i | beb/ass |         |        |
+|         |         |         | d=K8AMC |         |         | d=K8AMC | ets/img |         |        |
+|         |         |         | D9B2lX6 |         |         | D9B2lX6 | /stars/ |         |        |
+|         |         |         | pJ7P8PB |         |         | pJ7P8PB | stars.p |         |        |
+|         |         |         | e5Q&cli |         |         | e5Q&cli | ng      |         |        |
+|         |         |         | ck_orig |         |         | ck_orig |         |         |        |
+|         |         |         | in=sear |         |         | in=sear |         |         |        |
+|         |         |         | ch_resu |         |         | ch_resu |         |         |        |
+|         |         |         | lts&pla |         |         | lts&pla |         |         |        |
+|         |         |         | cement= |         |         | cement= |         |         |        |
+|         |         |         | above_s |         |         | above_s |         |         |        |
+|         |         |         | earch&r |         |         | earch&r |         |         |        |
+|         |         |         | edirect |         |         | edirect |         |         |        |
+|         |         |         | _url=ht |         |         | _url=ht |         |         |        |
+|         |         |         | tps%3A% |         |         | tps%3A% |         |         |        |
+|         |         |         | 2F%2Fww |         |         | 2F%2Fww |         |         |        |
+|         |         |         | w.yelp. |         |         | w.yelp. |         |         |        |
+|         |         |         | com%2Fb |         |         | com%2Fb |         |         |        |
+|         |         |         | iz%2Fma |         |         | iz%2Fma |         |         |        |
+|         |         |         | ttress- |         |         | ttress- |         |         |        |
+|         |         |         | liquida |         |         | liquida |         |         |        |
+|         |         |         | tors-ri |         |         | tors-ri |         |         |        |
+|         |         |         | chmond- |         |         | chmond- |         |         |        |
+|         |         |         | 2&reque |         |         | 2&reque |         |         |        |
+|         |         |         | st_id=9 |         |         | st_id=9 |         |         |        |
+|         |         |         | b41ec08 |         |         | b41ec08 |         |         |        |
+|         |         |         | 42f9b01 |         |         | 42f9b01 |         |         |        |
+|         |         |         | 4&signa |         |         | 4&signa |         |         |        |
+|         |         |         | ture=8a |         |         | ture=8a |         |         |        |
+|         |         |         | 4c2271d |         |         | 4c2271d |         |         |        |
+|         |         |         | 64211fb |         |         | 64211fb |         |         |        |
+|         |         |         | 2baa652 |         |         | 2baa652 |         |         |        |
+|         |         |         | 58dfc2c |         |         | 58dfc2c |         |         |        |
+|         |         |         | 7d09530 |         |         | 7d09530 |         |         |        |
+|         |         |         | b2a1dcc |         |         | b2a1dcc |         |         |        |
+|         |         |         | eff1b4a |         |         | eff1b4a |         |         |        |
+|         |         |         | 9e09739 |         |         | 9e09739 |         |         |        |
+|         |         |         | 7a92e9& |         |         | 7a92e9& |         |         |        |
+|         |         |         | slot=0  |         |         | slot=0  |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Sofa Cr | https:/ | Ad      | Sofa Cr | https:/ | https:/ | 3.5     | 11 rev |
+| /www.ye | /s3-med | eations | /www.ye |         | eations | /www.ye | /s3-med | star    | iews   |
+| lp.com/ | ia1.fl. |         | lp.com/ |         |         | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn |         | adredir |         |         | adredir | yelpcdn |         |        |
+| find_de | .com/bp |         | ?ad_bus |         |         | ?ad_bus | .com/as |         |        |
+| sc=Anti | hoto/Zr |         | iness_i |         |         | iness_i | sets/sr |         |        |
+| que+Sto | 4gQ1kv7 |         | d=ZMrwu |         |         | d=ZMrwu | v0/yelp |         |        |
+| res&fin | RHzAn6S |         | bTB3m1G |         |         | bTB3m1G | _design |         |        |
+| d_loc=R | VDjdNQ/ |         | R4QlX_l |         |         | R4QlX_l | _web/9b |         |        |
+| ichmond | 90s.jpg |         | 2BQ&cam |         |         | 2BQ&cam | 34e39cc |         |        |
+| %2C+VA  |         |         | paign_i |         |         | paign_i | beb/ass |         |        |
+|         |         |         | d=8V7IN |         |         | d=8V7IN | ets/img |         |        |
+|         |         |         | XseCCRq |         |         | XseCCRq | /stars/ |         |        |
+|         |         |         | j6mNH7g |         |         | j6mNH7g | stars.p |         |        |
+|         |         |         | eXA&cli |         |         | eXA&cli | ng      |         |        |
+|         |         |         | ck_orig |         |         | ck_orig |         |         |        |
+|         |         |         | in=sear |         |         | in=sear |         |         |        |
+|         |         |         | ch_resu |         |         | ch_resu |         |         |        |
+|         |         |         | lts&pla |         |         | lts&pla |         |         |        |
+|         |         |         | cement= |         |         | cement= |         |         |        |
+|         |         |         | above_s |         |         | above_s |         |         |        |
+|         |         |         | earch&r |         |         | earch&r |         |         |        |
+|         |         |         | edirect |         |         | edirect |         |         |        |
+|         |         |         | _url=ht |         |         | _url=ht |         |         |        |
+|         |         |         | tps%3A% |         |         | tps%3A% |         |         |        |
+|         |         |         | 2F%2Fww |         |         | 2F%2Fww |         |         |        |
+|         |         |         | w.yelp. |         |         | w.yelp. |         |         |        |
+|         |         |         | com%2Fb |         |         | com%2Fb |         |         |        |
+|         |         |         | iz%2Fso |         |         | iz%2Fso |         |         |        |
+|         |         |         | fa-crea |         |         | fa-crea |         |         |        |
+|         |         |         | tions-r |         |         | tions-r |         |         |        |
+|         |         |         | ichmond |         |         | ichmond |         |         |        |
+|         |         |         | &reques |         |         | &reques |         |         |        |
+|         |         |         | t_id=9b |         |         | t_id=9b |         |         |        |
+|         |         |         | 41ec084 |         |         | 41ec084 |         |         |        |
+|         |         |         | 2f9b014 |         |         | 2f9b014 |         |         |        |
+|         |         |         | &signat |         |         | &signat |         |         |        |
+|         |         |         | ure=678 |         |         | ure=678 |         |         |        |
+|         |         |         | b35c004 |         |         | b35c004 |         |         |        |
+|         |         |         | 998f8ea |         |         | 998f8ea |         |         |        |
+|         |         |         | 7281a32 |         |         | 7281a32 |         |         |        |
+|         |         |         | e6260d3 |         |         | e6260d3 |         |         |        |
+|         |         |         | 6c20e50 |         |         | 6c20e50 |         |         |        |
+|         |         |         | 157872e |         |         | 157872e |         |         |        |
+|         |         |         | d4c8ffb |         |         | d4c8ffb |         |         |        |
+|         |         |         | 4c2efea |         |         | 4c2efea |         |         |        |
+|         |         |         | 089f2&s |         |         | 089f2&s |         |         |        |
+|         |         |         | lot=1   |         |         | lot=1   |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | West    | https:/ | 1       | West    | https:/ | https:/ | 4.0     | 41 rev |
+| /www.ye | /s3-med | End Ant | /www.ye |         | End Ant | /www.ye | /s3-med | star    | iews   |
+| lp.com/ | ia2.fl. | iques   | lp.com/ |         | iques   | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn | Mall    | biz/wes |         | Mall    | biz/wes | yelpcdn |         |        |
+| find_de | .com/bp |         | t-end-a |         |         | t-end-a | .com/as |         |        |
+| sc=Anti | hoto/mn |         | ntiques |         |         | ntiques | sets/sr |         |        |
+| que+Sto | sdQT1Hh |         | -mall-r |         |         | -mall-r | v0/yelp |         |        |
+| res&fin | wgQJyf7 |         | ichmond |         |         | ichmond | _design |         |        |
+| d_loc=R | PlxD5Q/ |         | ?osq=An |         |         | ?osq=An | _web/9b |         |        |
+| ichmond | 90s.jpg |         | tique+S |         |         | tique+S | 34e39cc |         |        |
+| %2C+VA  |         |         | tores   |         |         | tores   | beb/ass |         |        |
+|         |         |         |         |         |         |         | ets/img |         |        |
+|         |         |         |         |         |         |         | /stars/ |         |        |
+|         |         |         |         |         |         |         | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Vintage | https:/ | 2       | Vintage | https:/ | https:/ | 4.5     | 6 revi |
+| /www.ye | /s3-med | Class   | /www.ye |         | Class   | /www.ye | /s3-med | star    | ews    |
+| lp.com/ | ia1.fl. | And     | lp.com/ |         | And     | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn | Trash   | biz/vin |         | Trash   | biz/vin | yelpcdn |         |        |
+| find_de | .com/bp |         | tage-   |         |         | tage-   | .com/as |         |        |
+| sc=Anti | hoto/G6 |         | class-  |         |         | class-  | sets/sr |         |        |
+| que+Sto | Oaw_v61 |         | and-    |         |         | and-    | v0/yelp |         |        |
+| res&fin | 3VuDnuK |         | trash-r |         |         | trash-r | _design |         |        |
+| d_loc=R | wQJczQ/ |         | ichmond |         |         | ichmond | _web/9b |         |        |
+| ichmond | 90s.jpg |         | ?osq=An |         |         | ?osq=An | 34e39cc |         |        |
+| %2C+VA  |         |         | tique+S |         |         | tique+S | beb/ass |         |        |
+|         |         |         | tores   |         |         | tores   | ets/img |         |        |
+|         |         |         |         |         |         |         | /stars/ |         |        |
+|         |         |         |         |         |         |         | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Nest An | https:/ | 3       | Nest An | https:/ | https:/ | 5.0     | 10 rev |
+| /www.ye | /s3-med | tiques  | /www.ye |         | tiques  | /www.ye | /s3-med | star    | iews   |
+| lp.com/ | ia1.fl. | Art &   | lp.com/ |         | Art &   | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn | Gifts   | biz/nes |         | Gifts   | biz/nes | yelpcdn |         |        |
+| find_de | .com/bp |         | t-antiq |         |         | t-antiq | .com/as |         |        |
+| sc=Anti | hoto/Ab |         | ues-    |         |         | ues-    | sets/sr |         |        |
+| que+Sto | DjPzXa_ |         | art-    |         |         | art-    | v0/yelp |         |        |
+| res&fin | FM-ho_M |         | and-    |         |         | and-    | _design |         |        |
+| d_loc=R | 6p-ccQ/ |         | gifts-r |         |         | gifts-r | _web/9b |         |        |
+| ichmond | 90s.jpg |         | ichmond |         |         | ichmond | 34e39cc |         |        |
+| %2C+VA  |         |         | -2?osq= |         |         | -2?osq= | beb/ass |         |        |
+|         |         |         | Antique |         |         | Antique | ets/img |         |        |
+|         |         |         | +Stores |         |         | +Stores | /stars/ |         |        |
+|         |         |         |         |         |         |         | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Sheppar | https:/ | 4       | Sheppar | https:/ | https:/ | 5.0     | 4 revi |
+| /www.ye | /s3-med | d       | /www.ye |         | d       | /www.ye | /s3-med | star    | ews    |
+| lp.com/ | ia1.fl. | Street  | lp.com/ |         | Street  | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn | Antique | biz/she |         | Antique | biz/she | yelpcdn |         |        |
+| find_de | .com/bp | s       | ppard-  |         | s       | ppard-  | .com/as |         |        |
+| sc=Anti | hoto/gH |         | street- |         |         | street- | sets/sr |         |        |
+| que+Sto | EeY8_aG |         | antique |         |         | antique | v0/yelp |         |        |
+| res&fin | f3sjcQm |         | s-richm |         |         | s-richm | _design |         |        |
+| d_loc=R | E64rNQ/ |         | ond?osq |         |         | ond?osq | _web/9b |         |        |
+| ichmond | 90s.jpg |         | =Antiqu |         |         | =Antiqu | 34e39cc |         |        |
+| %2C+VA  |         |         | e+Store |         |         | e+Store | beb/ass |         |        |
+|         |         |         | s       |         |         | s       | ets/img |         |        |
+|         |         |         |         |         |         |         | /stars/ |         |        |
+|         |         |         |         |         |         |         | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | RVA Ant | https:/ | 5       | RVA Ant | https:/ | https:/ | 4.5     | 10 rev |
+| /www.ye | /s3-med | iques   | /www.ye |         | iques   | /www.ye | /s3-med | star    | iews   |
+| lp.com/ | ia3.fl. |         | lp.com/ |         |         | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn |         | biz/rva |         |         | biz/rva | yelpcdn |         |        |
+| find_de | .com/bp |         | -antiqu |         |         | -antiqu | .com/as |         |        |
+| sc=Anti | hoto/iF |         | es-rich |         |         | es-rich | sets/sr |         |        |
+| que+Sto | w25oqUi |         | mond?os |         |         | mond?os | v0/yelp |         |        |
+| res&fin | g8Wh_rW |         | q=Antiq |         |         | q=Antiq | _design |         |        |
+| d_loc=R | Ozq1QA/ |         | ue+Stor |         |         | ue+Stor | _web/9b |         |        |
+| ichmond | 90s.jpg |         | es      |         |         | es      | 34e39cc |         |        |
+| %2C+VA  |         |         |         |         |         |         | beb/ass |         |        |
+|         |         |         |         |         |         |         | ets/img |         |        |
+|         |         |         |         |         |         |         | /stars/ |         |        |
+|         |         |         |         |         |         |         | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | The Chi | https:/ | 6       | The Chi | https:/ | https:/ | 5.0     | 1      |
+| /www.ye | /s3-med | ffarobe | /www.ye |         | ffarobe | /www.ye | /s3-med | star    | review |
+| lp.com/ | ia4.fl. | Antique | lp.com/ |         | Antique | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn | s and   | biz/the |         | s and   | biz/the | yelpcdn |         |        |
+| find_de | .com/bp | Gifts   | -chiffa |         | Gifts   | -chiffa | .com/as |         |        |
+| sc=Anti | hoto/te |         | robe-an |         |         | robe-an | sets/sr |         |        |
+| que+Sto | F12QDxu |         | tiques- |         |         | tiques- | v0/yelp |         |        |
+| res&fin | jXyr0rp |         | and-    |         |         | and-    | _design |         |        |
+| d_loc=R | z5oFmw/ |         | gifts-r |         |         | gifts-r | _web/9b |         |        |
+| ichmond | 90s.jpg |         | ichmond |         |         | ichmond | 34e39cc |         |        |
+| %2C+VA  |         |         | ?osq=An |         |         | ?osq=An | beb/ass |         |        |
+|         |         |         | tique+S |         |         | tique+S | ets/img |         |        |
+|         |         |         | tores   |         |         | tores   | /stars/ |         |        |
+|         |         |         |         |         |         |         | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Oddball | https:/ | 7       | Oddball | https:/ | https:/ | 3.5     | 6 revi |
+| /www.ye | /s3-med | s Antiq | /www.ye |         | s Antiq | /www.ye | /s3-med | star    | ews    |
+| lp.com/ | ia2.fl. | ues &   | lp.com/ |         | ues &   | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn | More    | biz/odd |         | More    | biz/odd | yelpcdn |         |        |
+| find_de | .com/bp |         | balls-a |         |         | balls-a | .com/as |         |        |
+| sc=Anti | hoto/w7 |         | ntiques |         |         | ntiques | sets/sr |         |        |
+| que+Sto | 3jkxoDd |         | -and-   |         |         | -and-   | v0/yelp |         |        |
+| res&fin | 4xStHSy |         | more-ri |         |         | more-ri | _design |         |        |
+| d_loc=R | PK7YiQ/ |         | chmond? |         |         | chmond? | _web/9b |         |        |
+| ichmond | 90s.jpg |         | osq=Ant |         |         | osq=Ant | 34e39cc |         |        |
+| %2C+VA  |         |         | ique+St |         |         | ique+St | beb/ass |         |        |
+|         |         |         | ores    |         |         | ores    | ets/img |         |        |
+|         |         |         |         |         |         |         | /stars/ |         |        |
+|         |         |         |         |         |         |         | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | RVA Ant | https:/ | 8       | RVA Ant | https:/ | https:/ | 4.0     | 1      |
+| /www.ye | /s3-med | iques   | /www.ye |         | iques   | /www.ye | /s3-med | star    | review |
+| lp.com/ | ia3.fl. | On The  | lp.com/ |         | On The  | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn | Avenue  | biz/rva |         | Avenue  | biz/rva | yelpcdn |         |        |
+| find_de | .com/bp |         | -antiqu |         |         | -antiqu | .com/as |         |        |
+| sc=Anti | hoto/pO |         | es-on-  |         |         | es-on-  | sets/sr |         |        |
+| que+Sto | yZw2rUS |         | the-    |         |         | the-    | v0/yelp |         |        |
+| res&fin | cqrlRxw |         | avenue- |         |         | avenue- | _design |         |        |
+| d_loc=R | TWlOqg/ |         | richmon |         |         | richmon | _web/9b |         |        |
+| ichmond | 90s.jpg |         | d?osq=A |         |         | d?osq=A | 34e39cc |         |        |
+| %2C+VA  |         |         | ntique+ |         |         | ntique+ | beb/ass |         |        |
+|         |         |         | Stores  |         |         | Stores  | ets/img |         |        |
+|         |         |         |         |         |         |         | /stars/ |         |        |
+|         |         |         |         |         |         |         | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Paul's  | https:/ | 9       | Paul’s  | https:/ | https:/ | 4.0     | 11 rev |
+| /www.ye | /s3-med | Place   | /www.ye |         | Place   | /www.ye | /s3-med | star    | iews   |
+| lp.com/ | ia4.fl. |         | lp.com/ |         |         | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn |         | biz/pau |         |         | biz/pau | yelpcdn |         |        |
+| find_de | .com/bp |         | ls-     |         |         | ls-     | .com/as |         |        |
+| sc=Anti | hoto/zP |         | place-r |         |         | place-r | sets/sr |         |        |
+| que+Sto | H9Xb-js |         | ichmond |         |         | ichmond | v0/yelp |         |        |
+| res&fin | My72gK7 |         | ?osq=An |         |         | ?osq=An | _design |         |        |
+| d_loc=R | RmZ5QA/ |         | tique+S |         |         | tique+S | _web/9b |         |        |
+| ichmond | 90s.jpg |         | tores   |         |         | tores   | 34e39cc |         |        |
+| %2C+VA  |         |         |         |         |         |         | beb/ass |         |        |
+|         |         |         |         |         |         |         | ets/img |         |        |
+|         |         |         |         |         |         |         | /stars/ |         |        |
+|         |         |         |         |         |         |         | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Antique | https:/ | 10      | Antique | https:/ | https:/ | 5.0     | 3 revi |
+| /www.ye | /s3-med | Boutiqu | /www.ye |         | Boutiqu | /www.ye | /s3-med | star    | ews    |
+| lp.com/ | ia1.fl. | e & Del | lp.com/ |         | e & Del | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn | ectable | biz/ant |         | ectable | biz/ant | yelpcdn |         |        |
+| find_de | .com/bp | Collect | ique-bo |         | Collect | ique-bo | .com/as |         |        |
+| sc=Anti | hoto/np | ables   | utique- |         | ables   | utique- | sets/sr |         |        |
+| que+Sto | 9JLTD7c |         | and-del |         |         | and-del | v0/yelp |         |        |
+| res&fin | XTdvjVF |         | ectable |         |         | ectable | _design |         |        |
+| d_loc=R | w0tEZg/ |         | -collec |         |         | -collec | _web/9b |         |        |
+| ichmond | 90s.jpg |         | tables- |         |         | tables- | 34e39cc |         |        |
+| %2C+VA  |         |         | richmon |         |         | richmon | beb/ass |         |        |
+|         |         |         | d?osq=A |         |         | d?osq=A | ets/img |         |        |
+|         |         |         | ntique+ |         |         | ntique+ | /stars/ |         |        |
+|         |         |         | Stores  |         |         | Stores  | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Mattres | https:/ | Ad      | Mattres | https:/ | https:/ | 5.0     | 3 revi |
+| /www.ye | /s3-med | s Savvy | /www.ye |         | s Savvy | /www.ye | /s3-med | star    | ews    |
+| lp.com/ | ia3.fl. |         | lp.com/ |         |         | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn |         | adredir |         |         | adredir | yelpcdn |         |        |
+| find_de | .com/bp |         | ?ad_bus |         |         | ?ad_bus | .com/as |         |        |
+| sc=Anti | hoto/MM |         | iness_i |         |         | iness_i | sets/sr |         |        |
+| que+Sto | qfaksFL |         | d=egIlp |         |         | d=egIlp | v0/yelp |         |        |
+| res&fin | 6WwIiQn |         | cgoOjjJ |         |         | cgoOjjJ | _design |         |        |
+| d_loc=R | 9UiPug/ |         | zWyTCXY |         |         | zWyTCXY | _web/9b |         |        |
+| ichmond | 90s.jpg |         | Z1g&cam |         |         | Z1g&cam | 34e39cc |         |        |
+| %2C+VA  |         |         | paign_i |         |         | paign_i | beb/ass |         |        |
+|         |         |         | d=31RGp |         |         | d=31RGp | ets/img |         |        |
+|         |         |         | W-M6ei7 |         |         | W-M6ei7 | /stars/ |         |        |
+|         |         |         | hcLZCSN |         |         | hcLZCSN | stars.p |         |        |
+|         |         |         | pYw&cli |         |         | pYw&cli | ng      |         |        |
+|         |         |         | ck_orig |         |         | ck_orig |         |         |        |
+|         |         |         | in=sear |         |         | in=sear |         |         |        |
+|         |         |         | ch_resu |         |         | ch_resu |         |         |        |
+|         |         |         | lts&pla |         |         | lts&pla |         |         |        |
+|         |         |         | cement= |         |         | cement= |         |         |        |
+|         |         |         | below_s |         |         | below_s |         |         |        |
+|         |         |         | earch&r |         |         | earch&r |         |         |        |
+|         |         |         | edirect |         |         | edirect |         |         |        |
+|         |         |         | _url=ht |         |         | _url=ht |         |         |        |
+|         |         |         | tps%3A% |         |         | tps%3A% |         |         |        |
+|         |         |         | 2F%2Fww |         |         | 2F%2Fww |         |         |        |
+|         |         |         | w.yelp. |         |         | w.yelp. |         |         |        |
+|         |         |         | com%2Fb |         |         | com%2Fb |         |         |        |
+|         |         |         | iz%2Fma |         |         | iz%2Fma |         |         |        |
+|         |         |         | ttress- |         |         | ttress- |         |         |        |
+|         |         |         | savvy-m |         |         | savvy-m |         |         |        |
+|         |         |         | idlothi |         |         | idlothi |         |         |        |
+|         |         |         | an&requ |         |         | an&requ |         |         |        |
+|         |         |         | est_id= |         |         | est_id= |         |         |        |
+|         |         |         | 9b41ec0 |         |         | 9b41ec0 |         |         |        |
+|         |         |         | 842f9b0 |         |         | 842f9b0 |         |         |        |
+|         |         |         | 14&sign |         |         | 14&sign |         |         |        |
+|         |         |         | ature=2 |         |         | ature=2 |         |         |        |
+|         |         |         | 471afe4 |         |         | 471afe4 |         |         |        |
+|         |         |         | d1e2590 |         |         | d1e2590 |         |         |        |
+|         |         |         | c872863 |         |         | c872863 |         |         |        |
+|         |         |         | bd8c472 |         |         | bd8c472 |         |         |        |
+|         |         |         | f0d4359 |         |         | f0d4359 |         |         |        |
+|         |         |         | 521a583 |         |         | 521a583 |         |         |        |
+|         |         |         | cba0b62 |         |         | cba0b62 |         |         |        |
+|         |         |         | e3514dd |         |         | e3514dd |         |         |        |
+|         |         |         | e41ab4e |         |         | e41ab4e |         |         |        |
+|         |         |         | &slot=0 |         |         | &slot=0 |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+

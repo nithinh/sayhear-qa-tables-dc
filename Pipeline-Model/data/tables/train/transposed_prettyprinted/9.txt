@@ -1,0 +1,108 @@
++--------------------------+-----------------------+--------------------+--------------------------+
+| url                      | Type                  | Duration           | Long_Answer              |
++--------------------------+-----------------------+--------------------+--------------------------+
+| https://www.gq.com/story | Your Workout Clothes  | every wear,        | Your Workout Clothes     |
+| /how-often-you-should-   |                       |                    |  Cotton T-shirts,        |
+| wash-your-clothes        |                       |                    | shorts, socks, and       |
+|                          |                       |                    | anything else that gets  |
+|                          |                       |                    | soaked in sweat should   |
+|                          |                       |                    | get washed after every   |
+|                          |                       |                    | wear, but if your sport  |
+|                          |                       |                    | of choice is more low    |
+|                          |                       |                    | impact (sup, yogis) or   |
+|                          |                       |                    | if the garment is made   |
+|                          |                       |                    | from a performance       |
+|                          |                       |                    | fabric like water-       |
+|                          |                       |                    | resistant nylon, you can |
+|                          |                       |                    | stretch it to every few  |
+|                          |                       |                    | wears. Don’t forget to   |
+|                          |                       |                    | wash your gym bag once a |
+|                          |                       |                    | month as well—it’ll      |
+|                          |                       |                    | surely need it.          |
++--------------------------+-----------------------+--------------------+--------------------------+
+| https://www.gq.com/story | Your Office Clothes   | four to five wears | Your Office Clothes      |
+| /how-often-you-should-   |                       |                    |  Your suit can last for  |
+| wash-your-clothes        |                       |                    | about four to five wears |
+|                          |                       |                    | before it needs to go to |
+|                          |                       |                    | the dry cleaner. Always  |
+|                          |                       |                    | drop off all             |
+|                          |                       |                    | coordinating pieces so   |
+|                          |                       |                    | everything wears at the  |
+|                          |                       |                    | same speed. Your button- |
+|                          |                       |                    | down shirts can last for |
+|                          |                       |                    | three to four wears,     |
+|                          |                       |                    | especially if you’re an  |
+|                          |                       |                    | undershirt guy. Shirts   |
+|                          |                       |                    | don’t always need to go  |
+|                          |                       |                    | to the dry cleaner, but  |
+|                          |                       |                    | if line-drying and hand- |
+|                          |                       |                    | ironing them is too      |
+|                          |                       |                    | daunting a task, we      |
+|                          |                       |                    | sympathize. Just ask     |
+|                          |                       |                    | your dry cleaner to skip |
+|                          |                       |                    | the starch so they last  |
+|                          |                       |                    | longer.                  |
++--------------------------+-----------------------+--------------------+--------------------------+
+| https://www.gq.com/story | Your Off-Duty Clothes | five wears         | Your Off-Duty Clothes    |
+| /how-often-you-should-   |                       |                    |  Pants and sweaters are  |
+| wash-your-clothes        |                       |                    | the workhorses of your   |
+|                          |                       |                    | wardrobe—they can stand  |
+|                          |                       |                    | about five wears before  |
+|                          |                       |                    | they need to go in the   |
+|                          |                       |                    | wash. T-shirts and       |
+|                          |                       |                    | Henleys are good for one |
+|                          |                       |                    | to two wears, depending  |
+|                          |                       |                    | on how much you sweat.   |
+|                          |                       |                    | Jeans can go a whole     |
+|                          |                       |                    | season without needing a |
+|                          |                       |                    | wash—but do wash them    |
+|                          |                       |                    | occasionally. Stinky     |
+|                          |                       |                    | jeans are not good for   |
+|                          |                       |                    | business.                |
++--------------------------+-----------------------+--------------------+--------------------------+
+| https://www.gq.com/story | Your Winter Gear      | once a season,     | Your Winter Gear         |
+| /how-often-you-should-   |                       |                    |  Most jackets and coats  |
+| wash-your-clothes        |                       |                    | should be laundered once |
+|                          |                       |                    | a season, but if you     |
+|                          |                       |                    | live in a city, spend a  |
+|                          |                       |                    | lot of time outdoors, or |
+|                          |                       |                    | are wearing it every     |
+|                          |                       |                    | day, a mid-season rinse  |
+|                          |                       |                    | might be in order. Down, |
+|                          |                       |                    | wool, and canvas coats   |
+|                          |                       |                    | don’t always need to be  |
+|                          |                       |                    | professionally           |
+|                          |                       |                    | laundered, but leather   |
+|                          |                       |                    | and suede should be      |
+|                          |                       |                    | handled by a pro. Don’t  |
+|                          |                       |                    | forget to wash winter    |
+|                          |                       |                    | hats, scarves, and       |
+|                          |                       |                    | gloves about once a      |
+|                          |                       |                    | month during the cold    |
+|                          |                       |                    | season. Just think of    |
+|                          |                       |                    | how many places they’ve  |
+|                          |                       |                    | been, and you’ll         |
+|                          |                       |                    | understand the need.     |
++--------------------------+-----------------------+--------------------+--------------------------+
+| https://www.gq.com/story | Your Private Stuff    | every wear         | Your Private Stuff       |
+| /how-often-you-should-   |                       |                    |  We know we don’t need   |
+| wash-your-clothes        |                       |                    | to tell you to wash your |
+|                          |                       |                    | underwear, socks, and    |
+|                          |                       |                    | undershirt after every   |
+|                          |                       |                    | wear—this is non-        |
+|                          |                       |                    | negotiable stuff.        |
+|                          |                       |                    | Pajamas can withstand up |
+|                          |                       |                    | to four wears, and robes |
+|                          |                       |                    | are about the same, as   |
+|                          |                       |                    | they should be treated   |
+|                          |                       |                    | like towels and switched |
+|                          |                       |                    | out every week at least. |
+|                          |                       |                    | Oh, and while we have    |
+|                          |                       |                    | you, wash your sheets on |
+|                          |                       |                    | a weekly basis as well.  |
+|                          |                       |                    | There’s no point in      |
+|                          |                       |                    | diligently washing your  |
+|                          |                       |                    | clothes if you’re        |
+|                          |                       |                    | sleeping in dirty sheets |
+|                          |                       |                    | at the end of the day.   |
++--------------------------+-----------------------+--------------------+--------------------------+

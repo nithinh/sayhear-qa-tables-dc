@@ -1,0 +1,11 @@
++-------------+---------+---------+------------+------------+------------+------------+------------+
+| Also known  | born    | died    | title /    | role in    | founder of | house /    | family     |
+| as          |         |         | office     |            |            | dynasty    |            |
++-------------+---------+---------+------------+------------+------------+------------+------------+
+| Darius the  | 550 BCE | 486 BCE | king,      | Greco-     | Persepolis | Achaemenia | father     |
+| Great       |         |         | Egypt (522 | Persian    |            | n dynasty  | Hystaspes  |
+| Darayavaush |         |         | BC-486BC)  | Wars       |            | Achaemenid | son Xerxes |
+|             |         |         | king,      |            |            | dynasty    | I          |
+|             |         |         | Persia (52 |            |            |            |            |
+|             |         |         | 2BC-486BC) |            |            |            |            |
++-------------+---------+---------+------------+------------+------------+------------+------------+

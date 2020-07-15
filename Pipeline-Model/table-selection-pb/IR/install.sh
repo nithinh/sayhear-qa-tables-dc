@@ -1,0 +1,1 @@
+pip3 install -r  dev_req.txt --user

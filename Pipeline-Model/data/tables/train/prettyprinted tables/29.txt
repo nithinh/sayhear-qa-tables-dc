@@ -1,0 +1,50 @@
++-----------------------------------------+-----------------+-----------------------------------+
+| url                                     | Property        | Value                             |
++-----------------------------------------+-----------------+-----------------------------------+
+| https://en.wikipedia.org/wiki/Meek_Mill | Birth name      | Robert Rihmeek Williams           |
++-----------------------------------------+-----------------+-----------------------------------+
+| https://en.wikipedia.org/wiki/Meek_Mill | Also known as   | Meek Millz                        |
++-----------------------------------------+-----------------+-----------------------------------+
+| https://en.wikipedia.org/wiki/Meek_Mill | Born            | (1987-05-06) May 6, 1987 (age 30) |
+|                                         |                 |  Philadelphia, Pennsylvania, U.S. |
++-----------------------------------------+-----------------+-----------------------------------+
+| https://en.wikipedia.org/wiki/Meek_Mill | Genres          | Hip hop                           |
++-----------------------------------------+-----------------+-----------------------------------+
+| https://en.wikipedia.org/wiki/Meek_Mill | Occupation(s)   | Rapper                            |
+|                                         |                 |                                   |
+|                                         |                 | songwriter                        |
++-----------------------------------------+-----------------+-----------------------------------+
+| https://en.wikipedia.org/wiki/Meek_Mill | Years active    | 2003–present                      |
++-----------------------------------------+-----------------+-----------------------------------+
+| https://en.wikipedia.org/wiki/Meek_Mill | Labels          | Atlantic                          |
+|                                         |                 |                                   |
+|                                         |                 | Dreamchasers                      |
+|                                         |                 |                                   |
+|                                         |                 | Maybach Music                     |
+|                                         |                 |                                   |
+|                                         |                 | Roc Nation (current)              |
+|                                         |                 |                                   |
+|                                         |                 | 215 Aphillyated                   |
+|                                         |                 |                                   |
+|                                         |                 | Grand Hustle                      |
+|                                         |                 |                                   |
+|                                         |                 | Warner Bros. (former)[1]          |
++-----------------------------------------+-----------------+-----------------------------------+
+| https://en.wikipedia.org/wiki/Meek_Mill | Associated acts | DJ Drama                          |
+|                                         |                 |                                   |
+|                                         |                 | Nicki Minaj                       |
+|                                         |                 |                                   |
+|                                         |                 | Rick Ross                         |
+|                                         |                 |                                   |
+|                                         |                 | Wale                              |
+|                                         |                 |                                   |
+|                                         |                 | Omelly                            |
+|                                         |                 |                                   |
+|                                         |                 | Tracy T                           |
+|                                         |                 |                                   |
+|                                         |                 | Tory Lanez                        |
+|                                         |                 |                                   |
+|                                         |                 | Lil Snupe                         |
++-----------------------------------------+-----------------+-----------------------------------+
+| https://en.wikipedia.org/wiki/Meek_Mill | Website         | www.meekmilldreamteam.com         |
++-----------------------------------------+-----------------+-----------------------------------+

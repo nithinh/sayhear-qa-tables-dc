@@ -1,0 +1,8118 @@
+[
+ {
+  "short_a": "february 6, 2018 (2018-02-06) (paris) february 9, 2018 (2018-02-09) (united states)", 
+  "long_a": "fifty shades freed comes out on february 9th 2018.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"table\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"come out\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Fifty_Shades_Freed_(film)_sayanc_3_5_2018@22_29_38", 
+  "question_parsed": [
+   "When", 
+   "does", 
+   "the", 
+   "new", 
+   "Fifty", 
+   "Shades", 
+   "of", 
+   "Grey", 
+   "come", 
+   "out"
+  ], 
+  "final_sql": "SELECT \"Release_date\" FROM \"Table_1\"", 
+  "id": 0, 
+  "sql_res": [
+   [
+    "February 6, 2018 (2018-02-06) (Paris)\n \nFebruary 9, 2018 (2018-02-09) (United States)"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "evolve", 
+  "long_a": "the synonym for develop is evolve", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Synonym\"", 
+   "FROM", 
+   "Dictionary", 
+   "WHERE", 
+   "\"Word\"", 
+   "~", 
+   "\"develop\""
+  ], 
+  "directory": "http:\\\\www.synonym.com\\synonyms\\develop_sayanc_24\\3\\2018@22:6:9", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "a", 
+   "synonym", 
+   "for", 
+   "develop"
+  ], 
+  "final_sql": "SELECT \"Synonym\" FROM Dictionary WHERE \"Word\" ~ \"develop\"", 
+  "id": 1, 
+  "sql_res": [
+   [
+    "evolve"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "165 degrees fahrenheit", 
+  "long_a": "if you're cooking a whole bird, it should be inserted into the thickest part of the thigh but not touching bone. 165 degrees fahrenheit is the safe internal temperature for both the white meat and dark meat.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"temperature\"", 
+   "FROM", 
+   "food_safety", 
+   "WHERE", 
+   "\"food\"", 
+   "~", 
+   "\"chicken\"", 
+   ";"
+  ], 
+  "directory": "https___www_foodsafety_gov_keep_charts_mintemp_html_rolivier_24_4_2018@0_13_31", 
+  "question_parsed": [
+   "What", 
+   "temperature", 
+   "is", 
+   "chicken", 
+   "done"
+  ], 
+  "final_sql": "SELECT \"temperature\" FROM food_safety WHERE \"food\" ~ \"chicken\" ;", 
+  "id": 2, 
+  "sql_res": [
+   [
+    "165"
+   ], 
+   [
+    "165"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "onwards and upwards! [also: onward and upward!] [encouragement]", 
+  "long_a": "immer vorw\u00e3\u00a4rts translates to onwards and upwards in english.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"English\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"German\"", 
+   "~", 
+   "\"immer vorw\u00e4rts\""
+  ], 
+  "directory": "https___de-en_dict_cc_?s=Immer%20vorw%C3%A4rts_sayanc_20_4_2018@16_56_42", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "does", 
+   "Immer", 
+   "vorw", 
+   "", 
+   "rts", 
+   "translated"
+  ], 
+  "final_sql": "SELECT \"English\" FROM \"Table_1\" WHERE \"German\" ~ \"immer_vorw\u00e4rts\"", 
+  "id": 3, 
+  "sql_res": [
+   [
+    "Onwards and upwards! [also: Onward and upward!] [encouragement]"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "238,855 miles, 252,000 miles", 
+  "long_a": "the average distance is 238,855 miles (384,400 km) and the farthest distance is 252,000 miles (405,500 km)", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Property\"", 
+   "~", 
+   "\"far\""
+  ], 
+  "directory": "https:\\\\www.space.com\\55-earths-moon-formation-composition-and-orbit.html_sayanc_24\\3\\2018@15:51:59", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "far", 
+   "is", 
+   "the", 
+   "moon"
+  ], 
+  "final_sql": "SELECT \"Average_distance_from_Earth\" FROM \"Table_1\"", 
+  "id": 4, 
+  "sql_res": [
+   [
+    "Average distance from Earth: 238,855 miles (384,400 km)"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "acer predator xb270hu, asus rog pg278q, dell s2716dg", 
+  "long_a": "acer predator xb270hu, asus rog pg278q, and dell s2716dg are some 144hz, 1440p, g-sync monitors.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Display_Model\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Resolution\"", 
+   "~", 
+   "\"1440p\"", 
+   "AND", 
+   "\"Refresh_Rate\"", 
+   "~", 
+   "\"144hz\""
+  ], 
+  "directory": "https___www_blurbusters_com_gsync_list-of-gsync-monitors__sayanc_3_5_2018@21_51_18", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "a", 
+   "144hz", 
+   "", 
+   "1440p", 
+   "", 
+   "gsync", 
+   "monitor"
+  ], 
+  "final_sql": "SELECT \"Display_Model\" FROM \"Table_1\" WHERE \"Resolution\" ~ \"1440p\" AND \"Refresh_Rate\" ~ \"144hz\"", 
+  "id": 5, 
+  "sql_res": [
+   [
+    "Acer Predator XB270HU"
+   ], 
+   [
+    "ASUS ROG PG278Q"
+   ], 
+   [
+    "Dell S2716DG"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "logitech marathon mouse m705", 
+  "long_a": "logitech marathon mouse m705 is the best ergonomic mouse", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "Is expected to select from \"our pick\" column but best maps to \"Also great\"", 
+  "newsql": [
+   "SELECT", 
+   "\"mouses\"", 
+   "FROM", 
+   "Best_Ergonomic_Mouse", 
+   "WHERE", 
+   "\"keys\"", 
+   "~", 
+   "\"best\""
+  ], 
+  "directory": "https___thewirecutter_com_reviews_best-wireless-mouse__shayati_10_4_2018@10_39_41", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "the", 
+   "best", 
+   "ergonomic", 
+   "mouse"
+  ], 
+  "final_sql": "SELECT \"mouses\" FROM Best_Ergonomic_Mouse WHERE \"keys\" ~ \"best\"", 
+  "id": 6
+ }, 
+ {
+  "short_a": "$600", 
+  "long_a": "there's one for sale on ebay for $600.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Ditting_KFA903\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"value\""
+  ], 
+  "directory": "https___www_ebay_com_itm_Ditting-Model-KFA903-Swiss-Made-Commercial-Coffee-Grinder-Retail-Grinder-_192497115279_sayanc_25_4_2018@0_57_38", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "s", 
+   "the", 
+   "value", 
+   "of", 
+   "a", 
+   "Ditting", 
+   "KFA903"
+  ], 
+  "final_sql": "SELECT \"winning_bid:\" FROM \"Ditting_KFA903\"", 
+  "id": 7, 
+  "sql_res": [
+   [
+    "us $600.00"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "john anthony gillis", 
+  "long_a": "the musician jack white's birth name is john anthony gillis.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Jack_White\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"real name\""
+  ], 
+  "directory": "https___www_imdb_com_name_nm1226421_bio_sayanc_26_4_2018@1_45_28", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "Jack", 
+   "White", 
+   "s", 
+   "real", 
+   "name"
+  ], 
+  "final_sql": "SELECT \"birth_name\" FROM \"jack_white\"", 
+  "id": 8, 
+  "sql_res": [
+   [
+    "john anthony gillis"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "5 wears", 
+  "long_a": "pants and sweaters are the workhorses of your wardrobe\u00e2\u20ac\u201dthey can stand about five wears before they need to go in the wash", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "Bad mapping. Ideal solution is to look for sweater in the table and focus on that row.", 
+  "newsql": [
+   "SELECT", 
+   "\"Duration\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Type\"", 
+   "~", 
+   "\"wash\""
+  ], 
+  "directory": "https___www_gq_com_story_how-often-you-should-wash-your-clothes_sayanc_4_5_2018@21_23_50", 
+  "question_parsed": [
+   "how", 
+   "often", 
+   "to", 
+   "wash", 
+   "sweater"
+  ], 
+  "final_sql": "SELECT \"Duration\" FROM \"Table_1\" WHERE \"Type\" ~ \"sweater\"", 
+  "id": 9
+ }, 
+ {
+  "short_a": "vitamin a, 900 \u03bcg/day of retinol equivalents; vitamin b6, 1.3 mg/day; vitamin b12, 2.4 \u03bcg/day; vitamin c, 45 mg/day", 
+  "long_a": "the advised daily quantity of vitamin is 900 \u03bcg/day for vitamin a, 1.3 mg/day for vitamin b6, 2.4 \u03bcg/day for vitamin b12 and 45 mg/day for vitamin c.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Nutriment\",", 
+   "\"Daily_requirements\"", 
+   "FROM", 
+   "\"Daily_nutriment_requirements_calculator\"", 
+   "WHERE", 
+   "\"Nutriment\"", 
+   "~", 
+   "\"Vitamin\""
+  ], 
+  "directory": "https___www_eatforhealth_gov_au_page_eat-health-calculators_calculated_1467294092_lcallebe_16_5_2018@13_45_42", 
+  "question_parsed": [
+   "How", 
+   "many", 
+   "vitamins", 
+   "do", 
+   "you", 
+   "need", 
+   "a", 
+   "day"
+  ], 
+  "final_sql": "SELECT \"Nutriment\", \"Daily_requirements\" FROM \"Daily_nutriment_requirements_calculator\" WHERE \"Nutriment\" ~ \"Vitamin\"", 
+  "id": 10, 
+  "sql_res": [
+   [
+    "vitamin a", 
+    "900 \u03bcg/day of retinol equivalents"
+   ], 
+   [
+    "vitamin b6", 
+    "1.3 mg/day *"
+   ], 
+   [
+    "vitamin b12", 
+    "2.4 \u03bcg/day *"
+   ], 
+   [
+    "vitamin c", 
+    "45 mg/day *"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "$8,773.08", 
+  "long_a": "the current price of 1 bitcoin is $8,773.08.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Price\"", 
+   "FROM", 
+   "Cryptocurrency_Price", 
+   "WHERE", 
+   "\"Currency\"", 
+   "~", 
+   "\"Bitcoin\""
+  ], 
+  "directory": "https___www_coindesk_com_price__xiyangz_14_5_2018@15_17_1", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "the", 
+   "current", 
+   "Bitcoin", 
+   "price"
+  ], 
+  "final_sql": "SELECT \"Price\" FROM Cryptocurrency_Price WHERE \"Currency\" ~ \"Bitcoin\"", 
+  "id": 11, 
+  "sql_res": [
+   [
+    "$8,773.08"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "70 lbs", 
+  "long_a": "the average golden retriever weights about 70 lbs when it is 1 year old.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "The query returns the good result but obviously by luck.", 
+  "newsql": [
+   "SELECT", 
+   "Average", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Age\"", 
+   "~", 
+   "\"average\""
+  ], 
+  "directory": "https___pethelpful_com_dogs_-Golden-Retriever-Growth-Sequence-in-the-1st-Year_sayanc_18_4_2018@14_6_56", 
+  "question_parsed": [
+   "how", 
+   "much", 
+   "does", 
+   "an", 
+   "average", 
+   "golden", 
+   "retriever", 
+   "weigh"
+  ], 
+  "final_sql": "SELECT Average FROM \"Table_1\" WHERE \"Age\" ~ \"average\"", 
+  "id": 12
+ }, 
+ {
+  "short_a": "77\u00b0, a shower and t-storm around", 
+  "long_a": "it will 77\u00b0 f with a shower and t-storm tomorrow.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Temperature\",", 
+   "\"Forecast\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Time\"", 
+   "~", 
+   "\"tomorrow\""
+  ], 
+  "directory": "https___www_accuweather_com_en_us_pittsburgh-pa_15219_weather-forecast_1310_sayanc_3_5_2018@17_28_25", 
+  "question_parsed": [
+   "Google", 
+   "what", 
+   "is", 
+   "the", 
+   "weather", 
+   "like", 
+   "for", 
+   "tomorrow"
+  ], 
+  "final_sql": "SELECT \"Temperature\", \"Forecast\" FROM \"Table_1\" WHERE \"Time\" ~ \"tomorrow\"", 
+  "id": 13, 
+  "sql_res": [
+   [
+    "77\u00b0", 
+    "A shower and t-storm around"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "tim curry.", 
+  "long_a": "tim curry plays pennywise on the original 1990 series.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Actor\"", 
+   "FROM", 
+   "\"Cast_It_movie\"", 
+   "WHERE", 
+   "\"played\"", 
+   "~", 
+   "\"Pennywise\""
+  ], 
+  "directory": "https___www_moviefone_com_movie_it_GQZFthsyPRfN8hxrd8wVK5_credits__lcallebe_9_5_2018@14_0_3", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "who", 
+   "plays", 
+   "Pennywise", 
+   "on", 
+   "the", 
+   "1990", 
+   "version"
+  ], 
+  "final_sql": "SELECT \"Actor\" FROM \"Cast_It_movie\" WHERE \"played\" ~ \"Pennywise\"", 
+  "id": 14, 
+  "sql_res": [
+   [
+    "tim  curry"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "the grand old party", 
+  "long_a": "the gop is an acronym for grand old party also known as the republican party. the logo is an elephant.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "GOP", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"stand for\"", 
+   ";"
+  ], 
+  "directory": "https:\\\\en.oxforddictionaries.com\\definition\\gop_rolivier_23\\3\\2018@11:16:51", 
+  "question_parsed": [
+   "what", 
+   "does", 
+   "gop", 
+   "stand", 
+   "for"
+  ], 
+  "final_sql": "SELECT \"abbreviation\" FROM \"gop\"", 
+  "id": 15, 
+  "sql_res": [
+   [
+    "grand old party (the republican party in the us)."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "mark david chapman", 
+  "long_a": "mark david chapman shot john lennon", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Murder_of_John_Lennon\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "LIKE", 
+   "\"Perpetrator\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Murder_of_John_Lennon_lcallebe_17_4_2018@14_37_21", 
+  "question_parsed": [
+   "Google", 
+   "", 
+   "who", 
+   "shot", 
+   "John", 
+   "Lennon"
+  ], 
+  "final_sql": "SELECT \"perpetrator\" FROM \"murder_of_john_lennon\"", 
+  "id": 16, 
+  "sql_res": [
+   [
+    "mark david chapman"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "new england patriots, philadelphia eagles", 
+  "long_a": "new england patriots and philadelphia eagles will play in the super bowl 2018", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "The order by column has text (roman numbers) so it cannot work unless we do further preprocessing.", 
+  "newsql": [
+   "SELECT", 
+   "\"Team_one\",", 
+   "\"Team_two\"", 
+   "FROM", 
+   "Super_Bowl", 
+   "ORDER_BY", 
+   "\"Season\"", 
+   "DESCENDING", 
+   "LIMIT_1;"
+  ], 
+  "directory": "https___www_seccountry_com_sec_super-bowl-2018-date-time-location-tv-location-new-england-patriots-philadelphia-eagles-1-22_shayati_13_4_2018@0_33_56", 
+  "question_parsed": [
+   "Who", 
+   "will", 
+   "be", 
+   "in", 
+   "the", 
+   "2018", 
+   "super", 
+   "bowl"
+  ], 
+  "final_sql": "SELECT \"Team_one\", \"Team_two\" FROM Super_Bowl ORDER_BY \"Season\" DESCENDING LIMIT_1;", 
+  "id": 17
+ }, 
+ {
+  "short_a": "Easter Sunday, Sunday, Apr 1; Easter Monday, Monday, Apr 2; Orthodox Easter, Sunday, Apr 8, Orthodox Easter Monday, Monday, Apr 9", 
+  "long_a": "easter 2018 is on sunday, april 1.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Date\",", 
+   "\"Weekday\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Holiday_Name\"", 
+   "~", 
+   "\"Easter\""
+  ], 
+  "directory": "https:\\\\www.timeanddate.com\\holidays\\us\\_sstritte_29\\3\\2018@16:57:11", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "when", 
+   "is", 
+   "Easter", 
+   "this", 
+   "year"
+  ], 
+  "final_sql": "SELECT \"Holiday_Name\", \"Date\", \"Weekday\" FROM \"Table_1\" WHERE \"Holiday_Name\" ~ \"Easter\"", 
+  "id": 18, 
+  "sql_res": [
+   [
+    "Easter Sunday", 
+    "Apr 1", 
+    "Sunday"
+   ], 
+   [
+    "Easter Monday", 
+    "Apr 2", 
+    "Monday"
+   ], 
+   [
+    "Orthodox Easter", 
+    "Apr 8", 
+    "Sunday"
+   ], 
+   [
+    "Orthodox Easter Monday", 
+    "Apr 9", 
+    "Monday"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "102\" x 101\"", 
+  "long_a": "the dimensions of a queen sized quilt are 102\" x 101\".", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Bedspread\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Bed_Type\"", 
+   "~", 
+   "\"Queen\""
+  ], 
+  "directory": "https___www_inspired2quilt_com_standard-quilt-sizes_htm_sayanc_19_4_2018@19_47_27", 
+  "question_parsed": [
+   "How", 
+   "big", 
+   "is", 
+   "a", 
+   "queen", 
+   "sized", 
+   "quilt", 
+   "", 
+   "what", 
+   "are", 
+   "the", 
+   "dimensions"
+  ], 
+  "final_sql": "SELECT \"Bedspread\" FROM \"Table_1\" WHERE \"Bed_Type\" ~ \"Queen\"", 
+  "id": 19, 
+  "sql_res": [
+   [
+    "102 x 101"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "dwight d. eisenhower", 
+  "long_a": "dwight d. eisenhower was the 34th president of the united states of america", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Name\"", 
+   "FROM", 
+   "US_President", 
+   "WHERE", 
+   "\"Number\"", 
+   "~", 
+   "\"34th\";"
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_List_of_Presidents_of_the_United_States#Presidents_shayati_31_5_2018@13_25_41", 
+  "question_parsed": [
+   "Who", 
+   "is", 
+   "the", 
+   "34thpresident", 
+   "of", 
+   "the", 
+   "United", 
+   "states", 
+   "of", 
+   "America"
+  ], 
+  "final_sql": "SELECT \"Name\" FROM US_President WHERE \"Number\" ~ \"34th\";", 
+  "id": 20, 
+  "sql_res": [
+   [
+    "Dwight D. Eisenhower\n 1890\u20131969\n (Lived: 78 years)\n [98][99][100]"
+   ], 
+   [
+    "Dwight D. Eisenhower\n 1890\u20131969\n (Lived: 78 years)\n [98][99][100]"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "gold coast city, 54 km (34 mi) from brisbane", 
+  "long_a": "coomera is in gold coast city, 54 km (34 mi) from brisbane.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "Coomera", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"where is\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Coomera,_Queensland_sayanc_1_5_2018@16_15_14", 
+  "question_parsed": [
+   "Siri", 
+   "", 
+   "where", 
+   "is", 
+   "Coomera"
+  ], 
+  "final_sql": "SELECT \"lga(s)\", \"location\" FROM \"coomera\"", 
+  "id": 21, 
+  "sql_res": [
+   [
+    "gold coast city", 
+    "54\u00a0km (34\u00a0mi) from brisbane"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "-36,069.6\u2032", 
+  "long_a": "the mariana trench is 36,201 feet deep", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Marina_Trench\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"deep\""
+  ], 
+  "directory": "https___www_google_com_search?q=mariana+trench&rlz=1C5CHFA_enUS760US760&oq=Mariana+Trench&aqs=chrome_0_0j69i60j0l4_700j0j4&sourceid=chrome&ie=UTF-8_lcallebe_15_5_2018@11_22_8", 
+  "question_parsed": [
+   "How", 
+   "deep", 
+   "is", 
+   "the", 
+   "Mariana", 
+   "trench"
+  ], 
+  "final_sql": "SELECT \"elevation\" FROM \"marina_trench\"", 
+  "id": 22, 
+  "sql_res": [
+   [
+    "-36,069.6\u2032"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "$7,509.08", 
+  "long_a": "the current price of bitcoin is $7,509.08", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "from", 
+   "\"Bitcoin\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"current price\""
+  ], 
+  "directory": "https:\\\\www.worldcoinindex.com\\coin\\bitcoin_sstritte_29\\3\\2018@12:51:55", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "the", 
+   "current", 
+   "price", 
+   "of", 
+   "Bitcoin"
+  ], 
+  "final_sql": "SELECT \"last_price\" FROM \"bitcoin\"", 
+  "id": 23, 
+  "sql_res": [
+   [
+    "$  7,509.08"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "5,074,013,000", 
+  "long_a": "apple incorporated has 5,074,013,000 outstanding shares.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "from", 
+   "\"Apple_Inc._Stock_Report\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"outstanding\""
+  ], 
+  "directory": "https:\\\\www.nasdaq.com\\symbol\\aapl\\stock-report_sstritte_29\\3\\2018@13:16:27", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "many", 
+   "apple", 
+   "shares", 
+   "are", 
+   "outstanding"
+  ], 
+  "final_sql": "SELECT \"shares_outstanding\" FROM \"apple_inc._stock_report\"", 
+  "id": 24, 
+  "sql_res": [
+   [
+    "5,074,013,000"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "$199, \u00a3179, au$299", 
+  "long_a": "the hp stream is $199, \u00a3179, or au$299.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "HP_Stream_Info", 
+   "WHERE", 
+   "\"Property\"", 
+   "~", 
+   "\"how much\""
+  ], 
+  "directory": "https___www_cnet_com_products_hp-stream-11-6-review__xiyangz_25_4_2018@0_30_30", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "much", 
+   "is", 
+   "an", 
+   "HP", 
+   "Stream", 
+   "laptop"
+  ], 
+  "final_sql": "SELECT \"Price_as_reviewed\" FROM \"hp_stream_info\"", 
+  "id": 25, 
+  "sql_res": [
+   [
+    "$199, \u00a3179, AU$299"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "donald trump", 
+  "long_a": "donald trump is the current president of united states.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "I have no idea why the closest word2vec to \"current president\" is \"Ulysses S. Grant\". It does not work with just \"president\" either.", 
+  "newsql": [
+   "SELECT", 
+   "\"President\"", 
+   "FROM", 
+   "US_Presidents", 
+   "WHERE", 
+   "\"Presidency\"", 
+   "~", 
+   "\"current president\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_List_of_Presidents_of_the_United_States_xiyangz_12_4_2018@22_21_0", 
+  "question_parsed": [
+   "which", 
+   "is", 
+   "the", 
+   "current", 
+   "president", 
+   "of", 
+   "United", 
+   "States"
+  ], 
+  "final_sql": "SELECT \"President\" FROM US_Presidents WHERE \"President\" ~ \"current president\"", 
+  "id": 26
+ }, 
+ {
+  "short_a": "1590 west main street willimantic, ct 06226", 
+  "long_a": "the willimantic waste paper company is on 1590 west main street willimantic, ct 06226.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Address\",", 
+   "\"City\"", 
+   "FROM", 
+   "\"WilliWaste\"", 
+   "WHERE", 
+   "\"Name\"", 
+   "~", 
+   "\"Willimantic Waste\""
+  ], 
+  "directory": "http___williwaste_com_Plugs_facility-locations_aspx_sayanc_11_4_2018@1_49_9", 
+  "question_parsed": [
+   "Where", 
+   "is", 
+   "the", 
+   "Willimantic", 
+   "Waste", 
+   "paper", 
+   "company"
+  ], 
+  "final_sql": "SELECT \"Address\", \"City\" FROM \"WilliWaste\" WHERE \"Name\" ~ \"Willimantic Waste\" AND \"Description\" ~ \"waste\"", 
+  "id": 27, 
+  "sql_res": [
+   [
+    "1590 west main street", 
+    "willimantic, ct 06226"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "hugo weaving", 
+  "long_a": "hugo weaving played agent smith", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "Query returns the expected answer but just does not make sense.", 
+  "directory": "https___www_imdb_com_title_tt0133093_fullcredits_sayanc_9_5_2018@2_4_36", 
+  "newsql": [
+   "SELECT", 
+   "\"Actor\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Character\"", 
+   "LIKE", 
+   "\"%%Agent Smith%\""
+  ], 
+  "question_parsed": [
+   "Who", 
+   "s", 
+   "the", 
+   "actor", 
+   "from", 
+   "the", 
+   "Matrix"
+  ], 
+  "final_sql": "SELECT \"Actor\" FROM \"Table_1\" WHERE \"Character\" LIKE \"%%Agent Smith%\"", 
+  "id": 28, 
+  "sql_res": [
+   [
+    "Hugo Weaving"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "philadelphia, pennsylvania, u.s.", 
+  "long_a": "meek mill was born on may 6, 1987 in philadelphia, pennsylvania, u.s.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "Meek_Mill_Info", 
+   "WHERE", 
+   "\"Property\"", 
+   "~", 
+   "\"where from\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Meek_Mill_xiyangz_1_5_2018@22_18_16", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "where", 
+   "is", 
+   "Meek", 
+   "Mill", 
+   "from"
+  ], 
+  "final_sql": "SELECT \"Born\" FROM \"meek_mill_info\"", 
+  "id": 29, 
+  "sql_res": [
+   [
+    "(1987-05-06) May 6, 1987 (age 30)\n Philadelphia, Pennsylvania, U.S."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "wood", 
+  "long_a": "traditionally, a gift made of wood is given for the 5th wedding anniversary.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Gift\"", 
+   "from", 
+   "\"Anniversary_Gifts_By_Year\"", 
+   "WHERE", 
+   "\"Year\"", 
+   "~", 
+   "\"5th\""
+  ], 
+  "directory": "https___apracticalwedding_com_traditional-modern-anniversary-gift-ideas__sstritte_5_4_2018@17_50_42", 
+  "question_parsed": [
+   "What", 
+   "should", 
+   "I", 
+   "buy", 
+   "my", 
+   "wife", 
+   "for", 
+   "our", 
+   "5th", 
+   "anniversary"
+  ], 
+  "final_sql": "SELECT \"Gift\" from \"Anniversary_Gifts_By_Year\" WHERE \"Year\" ~ \"5th\"", 
+  "id": 30, 
+  "sql_res": [
+   [
+    "Wood"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "bloomington, minnesota", 
+  "long_a": "the mall of america is in bloomington, minnesota.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Location\"", 
+   "from", 
+   "\"Largest_Shopping_Malls_in_America\"", 
+   "WHERE", 
+   "\"Mall_Name\"", 
+   "~", 
+   "\"Mall of America\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_List_of_largest_shopping_malls_in_the_United_States_sstritte_10_4_2018@17_56_10", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "where", 
+   "is", 
+   "the", 
+   "Mall", 
+   "of", 
+   "America", 
+   "located"
+  ], 
+  "final_sql": "SELECT \"Location\" from \"Largest_Shopping_Malls_in_America\" WHERE \"Mall_Name\" ~ \"Mall_of_America\"", 
+  "id": 31, 
+  "sql_res": [
+   [
+    "Bloomington, Minnesota"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "thursday 8:00 pm", 
+  "long_a": "the four is on thursdays at 8:00 pm et.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Timeslot_(ET)\"", 
+   "from", 
+   "\"The_Four_Ratings\"", 
+   "ORDER BY", 
+   "\"Season\"", 
+   "DESCENDING", 
+   "LIMIT_1"
+  ], 
+  "directory": "https:\\\\en.wikipedia.org\\wiki\\The_Four:_Battle_For_Stardom_sstritte_29\\3\\2018@12:19:5", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "time", 
+   "is", 
+   "The", 
+   "Four", 
+   "on"
+  ], 
+  "final_sql": "SELECT \"Timeslot_(ET)\" from \"The_Four_Ratings\" ORDER BY \"Season\" DESCENDING LIMIT_1", 
+  "id": 32, 
+  "sql_res": [
+   [
+    "thursday 8:00 pm"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "persona 5", 
+  "long_a": "the best video game of 2017 was persona 5.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Game\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Rank\"", 
+   "=", 
+   "1"
+  ], 
+  "directory": "http___www_metacritic_com_feature_best-video-games-of-2017_sayanc_1_5_2018@15_54_25", 
+  "question_parsed": [
+   "Siri", 
+   "", 
+   "what", 
+   "was", 
+   "the", 
+   "best", 
+   "video", 
+   "game", 
+   "of", 
+   "2017"
+  ], 
+  "final_sql": "SELECT \"Game\" FROM \"Table_1\" WHERE \"Rank\" = 1", 
+  "id": 33, 
+  "sql_res": [
+   [
+    "Persona 5"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "no", 
+  "long_a": "jefe has spansih origin.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "requires further reasonning to obtain short answer from table...", 
+  "newsql": [
+   "SELECT", 
+   "\"Origin\"", 
+   "from", 
+   "\"Definition_of_Jefe\"", 
+   "WHERE", 
+   "\"Word\"", 
+   "~", 
+   "\"Jefe\""
+  ], 
+  "directory": "https___en_oxforddictionaries_com_definition_jefe_sstritte_10_4_2018@22_20_28", 
+  "question_parsed": [
+   "Is", 
+   "Jefe", 
+   "a", 
+   "Jewish", 
+   "name"
+  ], 
+  "final_sql": "SELECT \"Origin\" from \"Definition_of_Jefe\" WHERE \"Word\" ~ \"Jefe\"", 
+  "id": 34
+ }, 
+ {
+  "short_a": "harry potter and the deathly hallows part 2", 
+  "long_a": "the last harry potter movie is called harry potter and the deathly hallows part 2.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "Requires preprocessing of CSV table to produce accurate SQL table with dates (for the ORDER BY) instead of simple text --> First, would need to recognize column as containing dates.", 
+  "newsql": [
+   "SELECT", 
+   "\"Motion_picture\"", 
+   "FROM", 
+   "Harry_Potter_Movies", 
+   "ORDER_BY", 
+   "\"Release_date\"", 
+   "DESCENDING", 
+   "LIMIT_1"
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Harry_Potter_(film_series)#Films_shayati_25_4_2018@1_8_32", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "the", 
+   "name", 
+   "of", 
+   "the", 
+   "last", 
+   "Harry", 
+   "Potter", 
+   "movie"
+  ], 
+  "final_sql": "SELECT \"Motion_picture\" FROM Harry_Potter_Movies ORDER_BY \"Release_date\" DESCENDING LIMIT_1", 
+  "id": 35
+ }, 
+ {
+  "short_a": "vitamin a", 
+  "long_a": "vitamin a is a good vitamin for the eye", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Vitamin\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Why_You_Need_It\"", 
+   "~", 
+   "\"eye\""
+  ], 
+  "directory": "http:\\\\www.promaxnutrition.com\\different-types-of-vitamins-and-their-functions\\_sayanc_25\\3\\2018@15:56:46", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "a", 
+   "good", 
+   "vitamin", 
+   "for", 
+   "the", 
+   "eye"
+  ], 
+  "final_sql": "SELECT \"Vitamin\" FROM \"Table_1\" WHERE \"Why_You_Need_It\" ~ \"eye\"", 
+  "id": 36, 
+  "sql_res": [
+   [
+    "Vitamin A"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "partly cloudy, 28 degrees C", 
+  "long_a": "The weather tomorrow will be partly cloudy, with 28 degrees C.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "*", 
+   "FROM", 
+   "weather_tomorrow", 
+   "WHERE", 
+   "\"hour\"", 
+   "~", 
+   "\"morning\";"
+  ], 
+  "directory": "https___www_accuweather_com_en_bz_more-tomorrow_1162494_hourly-weather-forecast_1162494?hour=33_rolivier_17_5_2018@10_50_11", 
+  "question_parsed": [
+   "Hey", 
+   "google", 
+   "", 
+   "whats", 
+   "the", 
+   "weather", 
+   "like", 
+   "in", 
+   "the", 
+   "morning", 
+   "tomorrow"
+  ], 
+  "final_sql": "SELECT \"forecast\", \"temp_C\" FROM weather_tomorrow WHERE \"hour\" ~ \"morning\";", 
+  "id": 37, 
+  "sql_res": [
+   [
+    "partly cloudy", 
+    "28\u00b0"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "there is an opportunity for new beginnings, you may feel a strong desire to take a leap of faith and do something completely different in your life. trust in your heart, go with the flow and allow the universe to support you.", 
+  "long_a": "the meaning of \"the fool\" card in rider waite tarot is trust in your heart and allow the universe to support you?", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"The_Fool\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"Meaning\""
+  ], 
+  "directory": "http___learntarotonline_com_tarotmeanings_riderwaitefool_html_sayanc_19_4_2018@19_54_58", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "meaning", 
+   "of", 
+   "", 
+   "the", 
+   "fool", 
+   "", 
+   "card", 
+   "in", 
+   "Rider", 
+   "Waite", 
+   "tarot"
+  ], 
+  "final_sql": "SELECT \"meaning\" FROM \"the_fool\"", 
+  "id": 38, 
+  "sql_res": [
+   [
+    "there is an opportunity for new beginnings, you may feel a  strong desire to take a leap of faith and do something completely different in  your life. trust in your heart, go with the flow and allow the universe to  support you."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "hulu will once again release the show in small batches, rather than in one big binge. the first two episodes of the handmaid's tale season 2 arrived on april 25.", 
+  "long_a": "the first two episodes of the handmaid's tale season 2 arrived on april 25.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"content\"", 
+   "FROM", 
+   "\"Handmaids_Tale_Season_2\"", 
+   "WHERE", 
+   "\"title\"", 
+   "~", 
+   "\"start\";"
+  ], 
+  "directory": "http___www_denofgeek_com_us_tv_the-handmaids-tale_264418_the-handmaids-tale-season-2-episode-7-promo-details-more-info_shayati_31_5_2018@11_55_22", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "when", 
+   "is", 
+   "the", 
+   "next", 
+   "season", 
+   "of", 
+   "The", 
+   "Handmaid", 
+   "s", 
+   "Tale", 
+   "to", 
+   "start"
+  ], 
+  "final_sql": "SELECT \"content\" FROM \"Handmaids_Tale_Season_2\" WHERE \"title\" ~ \"start\";", 
+  "id": 39, 
+  "sql_res": [
+   [
+    "Hulu will once again release the show in small batches, rather than in one big binge. The first two episodes of; The Handmaid's Tale; Season 2 arrived on April 25."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "october 12th 2017", 
+  "long_a": "season 6 of arrow starts on october 12th, 2017", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"First_Aired\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Season\"", 
+   "~", 
+   "6"
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Arrow_(TV_series)_sayanc_27_4_2018@2_45_54", 
+  "question_parsed": [
+   "When", 
+   "does", 
+   "season", 
+   "6", 
+   "of", 
+   "Arrow", 
+   "start"
+  ], 
+  "final_sql": "SELECT \"First_Aired\" FROM \"Table_1\" WHERE \"Season\" ~ 6", 
+  "id": 40, 
+  "sql_res": [
+   [
+    "October\u00a012,\u00a02017"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "form 843", 
+  "long_a": "you need to file form form 843.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "I am not even sure how the labeler knew which one to select. I don't see any simple way to make the query work.", 
+  "newsql": [
+   "SELECT", 
+   "\"Product_Number\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Title\"", 
+   "~", 
+   "\"refund\""
+  ], 
+  "directory": "https___apps_irs_gov_app_picklist_list_formsPublications_html?indexOfFirstRow=0&sortColumn=sortOrder&value=&criteria=&resultsPerPage=200&isDescending=false_sayanc_12_4_2018@15_5_5", 
+  "question_parsed": [
+   "How", 
+   "do", 
+   "I", 
+   "get", 
+   "a", 
+   "refund", 
+   "for", 
+   "Social", 
+   "Security", 
+   "Tax", 
+   "erroneously", 
+   "withheld"
+  ], 
+  "final_sql": "SELECT \"Product_Number\" FROM \"Table_1\" WHERE \"Title\" ~ \"refund\"", 
+  "id": 41
+ }, 
+ {
+  "short_a": "2002", 
+  "long_a": "spiderman premiered on april 29, 2002 in mann village theater and on may 3, 2002 in united states.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "Spiderman_Movie", 
+   "WHERE", 
+   "\"Property\"", 
+   "~", 
+   "\"first ever\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Spider-Man_(2002_film)_xiyangz_14_5_2018@15_46_52", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "year", 
+   "did", 
+   "the", 
+   "first", 
+   "ever", 
+   "Spiderman", 
+   "movie", 
+   "come", 
+   "out"
+  ], 
+  "final_sql": "SELECT \"Release_date\" FROM \"spiderman_movie\"", 
+  "id": 42, 
+  "sql_res": [
+   [
+    "April 29, 2002 (2002-04-29) (Mann Village Theater)\n \nMay 3, 2002 (2002-05-03) (United States)"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "burj khalifa", 
+  "long_a": "the tallest building in the world is the burj khalifa", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Building\"", 
+   "FROM", 
+   "\"The_Tallest_Buildings_in_the_World\"", 
+   "ORDER_BY", 
+   "\"Rank\"", 
+   "ASCENDING", 
+   "LIMIT_1"
+  ], 
+  "directory": "https___www_worldatlas_com_articles_10-tallest-buildings-in-the-world_html_lcallebe_7_5_2018@13_19_53", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "the", 
+   "tallest", 
+   "building", 
+   "in", 
+   "the", 
+   "world"
+  ], 
+  "final_sql": "SELECT \"Building\" FROM \"The_Tallest_Buildings_in_the_World\" ORDER_BY \"Rank\" ASCENDING LIMIT_1", 
+  "id": 43, 
+  "sql_res": [
+   [
+    "Burj Khalifa"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "a terminal", 
+  "long_a": "southwest airlines flys in and out of the a terminal at reagan airport.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Terminal_and_Gate\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Depart_City_/_Airport_ID\"", 
+   "~", 
+   "\"Reagan\""
+  ], 
+  "directory": "https___www_southwest_com_html_air_airport-information_html_sayanc_13_4_2018@21_13_10", 
+  "question_parsed": [
+   "Okay", 
+   "Google", 
+   "", 
+   "What", 
+   "terminal", 
+   "does", 
+   "Southwest", 
+   "fly", 
+   "out", 
+   "of", 
+   "at", 
+   "Reagan", 
+   "Airport"
+  ], 
+  "final_sql": "SELECT \"Terminal_and_Gate\" FROM \"Table_1\" WHERE \"Depart_City_/_Airport_ID\" ~ \"Reagan\"", 
+  "id": 44, 
+  "sql_res": [
+   [
+    "Terminal A; Gates A:2,4,5,6,8,9"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "bill belichick", 
+  "long_a": "the current head coach of the patriots is bill belichick.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Coach\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Team\"", 
+   "~", 
+   "\"Patriots\""
+  ], 
+  "directory": "https:\\\\en.wikipedia.org\\wiki\\List_of_current_National_Football_League_head_coaches_sstritte_29\\3\\2018@16:48:19", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "who", 
+   "is", 
+   "the", 
+   "Patriots", 
+   "head", 
+   "coach"
+  ], 
+  "final_sql": "SELECT \"Coach\" FROM \"Table_1\" WHERE \"Team\" ~ \"Patriots\"", 
+  "id": 45, 
+  "sql_res": [
+   [
+    "Bill Belichick"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "4", 
+  "long_a": "the last kids on earth and the zombie parade is worth 4 accelerated reader points.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"The_Last_Kids_on_Earth_and_the_Zombie_Parade\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"AR Points\""
+  ], 
+  "directory": "http___www_arbookfind_com_bookdetail_aspx?q=184554&l=EN&slid=133654698_Andrew ID Here_25_4_2018@1_33_33", 
+  "question_parsed": [
+   "What", 
+   "are", 
+   "the", 
+   "AR", 
+   "points", 
+   "for", 
+   "The", 
+   "Last", 
+   "Kids", 
+   "on", 
+   "Earth", 
+   "and", 
+   "the", 
+   "Zombie", 
+   "Parade"
+  ], 
+  "final_sql": "SELECT \"ar_points:\" FROM \"the_last_kids_on_earth_and_the_zombie_parade\"", 
+  "id": 46, 
+  "sql_res": [
+   [
+    "4.0"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "8-mar-18", 
+  "long_a": "season 2 of jessica jones will appear on netflix on march 8, 2018.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Original_release_date\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "ORDER_BY", 
+   "\"No._in_season\"", 
+   "ASCENDING", 
+   "LIMIT_1"
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Jessica_Jones_(season_2)_sayanc_18_4_2018@13_57_2", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "when", 
+   "does", 
+   "season", 
+   "2", 
+   "of", 
+   "Jessica", 
+   "Jones", 
+   "come", 
+   "out", 
+   "on", 
+   "Netflix"
+  ], 
+  "final_sql": "SELECT \"Original_release_date\" FROM \"Table_1\" ORDER_BY \"No._in_season\" ASCENDING LIMIT_1", 
+  "id": 47, 
+  "sql_res": [
+   [
+    "March\u00a08,\u00a02018"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "29-jan", 
+  "long_a": "the irs will officially start accepting tax returns for the 2017 tax year on january 29.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "Can't see how to make this one work. Requires world knowledge.", 
+  "newsql": [
+   "SELECT", 
+   "\"2018_Deadline\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Activity\"", 
+   "~", 
+   "\"file\""
+  ], 
+  "directory": "http___www_savingtoinvest_com_when-can-i-file-my-taxes-and-other-key-tax-filing-extension-and-refund-dates__sayanc_20_4_2018@17_45_27", 
+  "question_parsed": [
+   "Siri", 
+   "", 
+   "when", 
+   "are", 
+   "you", 
+   "able", 
+   "to", 
+   "file", 
+   "federal", 
+   "taxes", 
+   "for", 
+   "2018"
+  ], 
+  "final_sql": "SELECT \"2018_Deadline\" FROM \"Table_1\" WHERE \"Activity\" ~ \"file\"", 
+  "id": 48
+ }, 
+ {
+  "short_a": "b.j. hunnicutt", 
+  "long_a": "mike farrell played b.j. hunnicutt on the television series m*a*s*h.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Character\"", 
+   "FROM", 
+   "MikeFarrellTable", 
+   "WHERE", 
+   "\"Actor\"", 
+   "~", 
+   "\"Mike Farrell\""
+  ], 
+  "directory": "https:\\\\en.wikipedia.org\\wiki\\M*A*S*H_(TV_series)#Main_cast_zexuano_13\\4\\2018@9:13:51", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "was", 
+   "the", 
+   "name", 
+   "of", 
+   "Mike", 
+   "Farrell", 
+   "s", 
+   "character", 
+   "on", 
+   "M", 
+   "A", 
+   "S", 
+   "H"
+  ], 
+  "final_sql": "SELECT \"Character\" FROM MikeFarrellTable WHERE \"Actor\" ~ \"Mike_Farrell\"", 
+  "id": 49, 
+  "sql_res": [
+   [
+    "B. J. Hunnicutt\n (replaced Trapper;\n seasons 4\u201311); B. J. Hunnicutt; (replaced Trapper;; seasons 4\u201311)"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "1.09 yd", 
+  "long_a": "there are 1.09 yards in a meter", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"yard\"", 
+   "FROM", 
+   "Meters_to_Yard", 
+   "WHERE", 
+   "\"meter\"", 
+   "~", 
+   "\"1\";"
+  ], 
+  "directory": "https___www_asknumbers_com_meters-to-yards_aspx_shayati_31_5_2018@12_18_43", 
+  "question_parsed": [
+   "how", 
+   "many", 
+   "yards", 
+   "in", 
+   "a", 
+   "meter"
+  ], 
+  "final_sql": "SELECT \"yard\" FROM Meters_to_Yard WHERE \"meter\" ~ \"1\";", 
+  "id": 50, 
+  "sql_res": [
+   [
+    "1.09 yd"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "demna gvasalia", 
+  "long_a": "demna gvasalia is the founder and fashion designer for vetements.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"value\"", 
+   "from", 
+   "Vetements", 
+   "WHERE", 
+   "\"key\"", 
+   "~", 
+   "\"designer\";"
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Vetements_shayati_23_4_2018@15_15_3", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "who", 
+   "was", 
+   "the", 
+   "designer", 
+   "for", 
+   "Vetements"
+  ], 
+  "final_sql": "SELECT \"Founder\" FROM \"vetements\"", 
+  "id": 51, 
+  "sql_res": [
+   [
+    "Demna Gvasalia"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "november 8", 
+  "long_a": "donald trump was elected on november 8, 2016.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Day\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Year\"", 
+   "LIKE", 
+   "\"%%2016%\"", 
+   "AND", 
+   "\"Type\"", 
+   "LIKE", 
+   "\"%%Presidential%\""
+  ], 
+  "directory": "https:\\\\www.270towin.com\\2016-election-calendar\\_sstritte_29\\3\\2018@13:31:20", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "when", 
+   "was", 
+   "Donald", 
+   "Trump", 
+   "elected"
+  ], 
+  "final_sql": "SELECT \"Day\" FROM \"Table_1\" WHERE \"Year\" LIKE \"%%2016%\" AND \"Type\" LIKE \"%%Presidential%\"", 
+  "id": 52, 
+  "sql_res": [
+   [
+    "November 8"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "a surgical procedure involving incision of the walls of the abdomen and uterus for delivery of offspring", 
+  "long_a": "a cesarean section is  a surgical procedure involving incision of the walls of the abdomen and uterus for delivery of offspring", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "*", 
+   "FROM", 
+   "cesarean_section", 
+   "WHERE", 
+   "\"key\"", 
+   "~", 
+   "\"section\""
+  ], 
+  "directory": "https___www_merriam-webster_com_dictionary_cesarean%20section_rolivier_12_4_2018@0_59_22", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "a", 
+   "c", 
+   "section"
+  ], 
+  "final_sql": "SELECT \"definition_of_cesarean_section\" FROM \"cesarean_section\"", 
+  "id": 53, 
+  "sql_res": [
+   [
+    " : a surgical procedure involving incision of the walls of the abdomen and uterus for delivery of offspring"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "tu bishvat", 
+  "long_a": "the jewish holiday tu bishvat is on january 31st this year.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "\"January 31st\" appears as \"Jan 31st\" in the table. Would require more preprocessing of the table to work.", 
+  "newsql": [
+   "SELECT", 
+   "\"Name\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"DATE\"", 
+   "LIKE", 
+   "\"January 31st\""
+  ], 
+  "directory": "https:\\\\www.hebcal.com\\holidays\\2018_sayanc_24\\3\\2018@16:12:7", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "is", 
+   "there", 
+   "a", 
+   "Jewish", 
+   "holiday", 
+   "on", 
+   "January", 
+   "31st"
+  ], 
+  "final_sql": "SELECT \"Name\" FROM \"Table_1\" WHERE \"DATE\" LIKE \"January 31st\"", 
+  "id": 54
+ }, 
+ {
+  "short_a": "ryan gosling rachel mcadams james garner gena rowlands sam shepard james marsden joan allen", 
+  "long_a": "ryan gosling rachel mcadams james garner gena rowlands sam shepard james marsden and joan allen star in the notebook.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"stars\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_The_Notebook_sayanc_3_5_2018@22_10_1", 
+  "question_parsed": [
+   "Who", 
+   "plays", 
+   "stars", 
+   "in", 
+   "The", 
+   "Notebook"
+  ], 
+  "final_sql": "SELECT \"Starring\" FROM \"table_1\"", 
+  "id": 55, 
+  "sql_res": [
+   [
+    "Ryan Gosling\n Rachel McAdams\n James Garner\n Gena Rowlands\n Sam Shepard\n James Marsden\n Joan Allen"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "new york state", 
+  "long_a": "tincondegora is in new york state", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Tincondegora,_New_York\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "LIKE", 
+   "\"%%State%\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Ticonderoga,_New_York_lcallebe_18_4_2018@16_53_10", 
+  "question_parsed": [
+   "Where", 
+   "is", 
+   "ticonderoga"
+  ], 
+  "final_sql": "SELECT \"state\" FROM \"tincondegora,_new_york\"", 
+  "id": 56, 
+  "sql_res": [
+   [
+    "new york"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "playstation 4, xbox one november 29, 2016 microsoft windows march 6, 2018", 
+  "long_a": "final fantasy 15 comes out on november 29, 2016 for playstation 4, and xbox one and on march 6, 2018 for microsoft windows.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"come out\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Final_Fantasy_XV_sayanc_19_4_2018@14_46_22", 
+  "question_parsed": [
+   "When", 
+   "does", 
+   "final", 
+   "fantasy", 
+   "15", 
+   "come", 
+   "out", 
+   "for", 
+   "pc"
+  ], 
+  "final_sql": "SELECT \"Release\" FROM \"table_1\"", 
+  "id": 57, 
+  "sql_res": [
+   [
+    "PlayStation 4, Xbox One\n \nNovember 29, 2016\n \nMicrosoft Windows\n \nMarch 6, 2018"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "a digital currency created for use in peer-to-peer online transactions", 
+  "long_a": "bitcoin is a digital currency created for use in peer-to-peer online transactions", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Bitcoin\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"what is\""
+  ], 
+  "directory": "https___www_merriam-webster_com_dictionary_Bitcoin_sayanc_27_4_2018@3_8_18", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "Bitcoin"
+  ], 
+  "final_sql": "SELECT \"definition_of_bitcoin\" FROM \"bitcoin\"", 
+  "id": 58, 
+  "sql_res": [
+   [
+    " : a digital currency created for use in peer-to-peer online transactions introduced in 2008 by a person or group using the name satoshi nakamoto, bitcoin is the most prominent of a group of virtual currencies\u2014money that exists mainly as computer code\u2014that have no central issuing authority. \u2014carter dougherty   \u2026 bitcoin \u2026 is backed by no government and has a fluctuating value linked in part to a scarcity that is mathematically predetermined. unlike other forms of digital cash, bitcoin is truly untraceable and therefore, like cash, cannot be recovered if lost or destroyed. \u2014glenn zorpette    also   usually  bitcoin   : a unit of this currency commercial space venture virgin galactic\u2014which announced on nov. 22 that it would start accepting bitcoins to reserve a refundable $250,000 seat on a future trip\u2014is just the latest of many businesses that have recently embraced the decentralized virtual payment system. (at press time, 1 bitcoin was worth roughly $879.) \u2014 time     "
+   ]
+  ]
+ }, 
+ {
+  "short_a": "division", 
+  "long_a": "the symbol \"/\" means division in math.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Meaning_/_Definition\"", 
+   "FROM", 
+   "\"Basic_Math_Symbols\"", 
+   "WHERE", 
+   "\"Symbol\"", 
+   "~", 
+   "\"/\""
+  ], 
+  "directory": "https___www_rapidtables_com_math_symbols_Basic_Math_Symbols_html_lcallebe_9_5_2018@12_11_26", 
+  "question_parsed": [
+   "What", 
+   "does", 
+   "", 
+   "", 
+   "mean", 
+   "in", 
+   "math"
+  ], 
+  "final_sql": "SELECT \"Meaning_/_Definition\" FROM \"Basic_Math_Symbols\" WHERE \"Symbol\" ~ \"/\"", 
+  "id": 59, 
+  "sql_res": [
+   [
+    "division"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "june 12, 2018, june 14, 2018", 
+  "long_a": "e3 will be held from june 12 to june 14 2018", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"E3_2018\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"when is\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Electronic_Entertainment_Expo_2018_sayanc_4_5_2018@21_10_2", 
+  "question_parsed": [
+   "When", 
+   "is", 
+   "E3", 
+   "2018"
+  ], 
+  "final_sql": "SELECT \"begins\", \"ends\" FROM \"e3_2018\"", 
+  "id": 60, 
+  "sql_res": [
+   [
+    "june 12, 2018", 
+    "june 14, 2018"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "writer, spy novelist, CIA, officer", 
+  "long_a": "she is a spy novelist and former cia member whose information was leaked by the bush administration.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"value\"", 
+   "FROM", 
+   "Valerie_Plame", 
+   "WHERE", 
+   "\"key\"", 
+   "~", 
+   "\"who is\";"
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Valerie_Plame_shayati_13_4_2018@15_46_45", 
+  "question_parsed": [
+   "Who", 
+   "is", 
+   "Valerie", 
+   "Plame"
+  ], 
+  "final_sql": "SELECT \"Occupation\" FROM \"valerie_plame\"", 
+  "id": 61, 
+  "sql_res": [
+   [
+    "Writer,; Spy Novelist; ,; CIA; officer; (1985\u20132006)"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "november 30, 2013", 
+  "long_a": "paul walker died on november 30, 20113.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Paul_Walker\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"dead\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Paul_Walker_lcallebe_24_5_2018@13_52_3", 
+  "question_parsed": [
+   "when", 
+   "paul", 
+   "walker", 
+   "dead"
+  ], 
+  "final_sql": "SELECT \"died\" FROM \"paul_walker\"", 
+  "id": 62, 
+  "sql_res": [
+   [
+    "november 30, 2013 (2013-11-30) (aged\u00a040)  santa clarita, california , u.s."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "geo-tagging, touch focus, face detection, hdr, panorama", 
+  "long_a": "the nokia 8 has geo-tagging, touch focus, face detection, hdr, and panorama.", 
+  "ex_valid": false, 
+  "table_type": 2, 
+  "note": "Table has been badly transposed. Need for correction.", 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"feature\""
+  ], 
+  "directory": "https___www_gsmarena_com_nokia_8-8522_php_sayanc_2_5_2018@21_34_21", 
+  "question_parsed": [
+   "what", 
+   "are", 
+   "the", 
+   "feature", 
+   "of", 
+   "nokia", 
+   "8"
+  ], 
+  "final_sql": "SELECT \"Features\" FROM \"table_1\"", 
+  "id": 63
+ }, 
+ {
+  "short_a": "partly cloudy", 
+  "long_a": "it is partly cloudy in bloomsburg, pa", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Description\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"DATE\"", 
+   "LIKE", 
+   "\"%%Mar 24%\""
+  ], 
+  "directory": "https:\\\\www.accuweather.com\\en\\us\\bloomsburg-pa\\17815\\daily-weather-forecast\\335344_sayanc_24\\3\\2018@22:14:2", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "weather", 
+   "in", 
+   "Bloomsburg", 
+   "", 
+   "PA"
+  ], 
+  "final_sql": "SELECT \"Description\" FROM \"Table_1\" WHERE \"DATE\" LIKE \"%%Mar 24%\"", 
+  "id": 64, 
+  "sql_res": [
+   [
+    "Partly cloudy"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "49", 
+  "long_a": "anthony frank hawk (born may 12, 1968), is 49 years old.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Tony_Hawk\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"old\""
+  ], 
+  "directory": "https___www_famousbirthdays_com_people_tony-hawk_html_sayanc_1_5_2018@16_25_56", 
+  "question_parsed": [
+   "Siri", 
+   "", 
+   "how", 
+   "old", 
+   "is", 
+   "Tony", 
+   "Hawk"
+  ], 
+  "final_sql": "SELECT \"age\" FROM \"tony_hawk\"", 
+  "id": 65, 
+  "sql_res": [
+   [
+    "49 years old"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "thomas jefferson", 
+  "long_a": "thomas jefferson became the third president in 1801.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Name\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Number\"", 
+   "~", 
+   "third"
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_List_of_Presidents_of_the_United_States_sayanc_2_5_2018@21_24_39", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "who", 
+   "was", 
+   "the", 
+   "third", 
+   "president", 
+   "of", 
+   "the", 
+   "United", 
+   "States"
+  ], 
+  "final_sql": "SELECT \"Name\" FROM \"Table_1\" WHERE \"Number\" ~ third", 
+  "id": 66, 
+  "sql_res": [
+   [
+    "Thomas Jefferson"
+   ], 
+   [
+    "Thomas Jefferson"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "105.77", 
+  "long_a": "the current exchange rate is 105.77 japanese yen for each us dollar.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"1.00_USD\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Currency\"", 
+   "~", 
+   "\"Japanese Yen\""
+  ], 
+  "directory": "http:\\\\x-rates.com\\table\\?from=USD&amount=1_sstritte_22\\3\\2018@14:6:46", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "currency", 
+   "exchange", 
+   "rate", 
+   "from", 
+   "US", 
+   "dollars", 
+   "to", 
+   "Japanese", 
+   "Yen"
+  ], 
+  "final_sql": "SELECT \"1.00_USD\" FROM \"Table_1\" WHERE \"Currency\" ~ \"Japanese_Yen\"", 
+  "id": 67, 
+  "sql_res": [
+   [
+    "105.775406"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "april 1st", 
+  "long_a": "easter is on sunday april 1st, 2018.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "The newsql was written with the assumption that the table would stop at the current year, which is not the case.", 
+  "newsql": [
+   "SELECT", 
+   "\"Date\"", 
+   "FROM", 
+   "Easter_Info", 
+   "ORDER BY", 
+   "\"Year\"", 
+   "DESCENDING", 
+   "LIMIT_1"
+  ], 
+  "directory": "https___www_timeanddate_com_holidays_us_easter-sunday_xiyangz_25_4_2018@0_57_3", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "day", 
+   "is", 
+   "easter", 
+   "on", 
+   "this", 
+   "year"
+  ], 
+  "final_sql": "SELECT \"Date\" FROM Easter_Info ORDER BY \"Year\" DESCENDING LIMIT_1", 
+  "id": 68
+ }, 
+ {
+  "short_a": "20-mar", 
+  "long_a": "the spring equinox 2018 is on tuesday, march 20, 2018 (in 45 days)", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Date\"", 
+   "FROM", 
+   "EquinoxTable", 
+   "WHERE", 
+   "\"Year\"", 
+   "~", 
+   "\"2018\""
+  ], 
+  "directory": "http:\\\\www.calendarpedia.com\\when-is\\spring-equinox.html_zexuano_13\\4\\2018@9:16:46", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "when", 
+   "is", 
+   "spring", 
+   "equinox", 
+   "2018"
+  ], 
+  "final_sql": "SELECT \"Date\" FROM EquinoxTable WHERE \"Year\" ~ \"2018\"", 
+  "id": 69, 
+  "sql_res": [
+   [
+    "March 20, 2018"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "jericho quadrangle", 
+  "long_a": "the address for darby dental supply is located at 300 jericho quadrangle, jericho, ny.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Address\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"City\"", 
+   "~", 
+   "\"New York\""
+  ], 
+  "directory": "https:\\\\usable.darbydental.com\\scripts\\reachout.aspx_sstritte_25\\3\\2018@21:47:37", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "the", 
+   "address", 
+   "for", 
+   "Darby", 
+   "Dental", 
+   "Supply", 
+   "in", 
+   "New", 
+   "York"
+  ], 
+  "final_sql": "SELECT \"Address\" FROM \"Table_1\" WHERE \"City\" ~ \"New_York\"", 
+  "id": 70, 
+  "sql_res": [
+   [
+    "300 Jericho Quadrangle\n Jericho, NY 11753"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "12 oz diet coke: 46mg", 
+  "long_a": "a 12 oz diet coke has 46mg of caffeine", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Caffeine_Content\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"DRINK\"", 
+   "~", 
+   "\"Diet Coke\""
+  ], 
+  "directory": "https:\\\\www.coca-colaproductfacts.com\\en\\faq\\caffeine\\caffeine-in-coke-and-diet-coke\\_sayanc_24\\3\\2018@16:36:23", 
+  "question_parsed": [
+   "Does", 
+   "Diet", 
+   "Coke", 
+   "have", 
+   "caffeine"
+  ], 
+  "final_sql": "SELECT \"Caffeine_Content\" FROM \"Table_1\" WHERE \"DRINK\" ~ \"Diet_Coke\"", 
+  "id": 71, 
+  "sql_res": [
+   [
+    "12 oz Diet Coke: 46mg"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "after you have paid your fee, you will be issued a temporary, paper id while you wait for your card. it takes between two and three weeks for your id card to arrive in the mail.", 
+  "long_a": "after you have paid your fee, you will be issued a temporary, paper id while you wait for your card. it takes between two and three weeks for your id card to arrive in the mail.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Answer\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Question\"", 
+   "~", 
+   "\"how long\""
+  ], 
+  "directory": "https___michiganlegalhelp_org_self-help-tools_crime-traffic-and-id_getting-michigan-id_sayanc_19_4_2018@20_47_30", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "long", 
+   "to", 
+   "get", 
+   "an", 
+   "id", 
+   "card"
+  ], 
+  "final_sql": "SELECT \"Answer\" FROM \"Table_1\" WHERE \"Question\" ~ \"how_long\"", 
+  "id": 72, 
+  "sql_res": [
+   [
+    "After you have paid your fee, you will be issued a temporary, paper ID while you wait for your card. It takes between two and three weeks for your ID card to arrive in the mail.; After you have paid your fee, you will be issued a temporary, paper ID while you wait for your card. It takes between two and three weeks for your ID card to arrive in the mail."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "jerry brown", 
+  "long_a": "the current governor of california is jerry brown.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Governor\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"State\"", 
+   "~", 
+   "\"California\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_List_of_current_United_States_governors_sayanc_26_4_2018@18_22_21", 
+  "question_parsed": [
+   "Who", 
+   "is", 
+   "the", 
+   "governor", 
+   "of", 
+   "California"
+  ], 
+  "final_sql": "SELECT \"Governor\" FROM \"Table_1\" WHERE \"State\" ~ \"California\"", 
+  "id": 73, 
+  "sql_res": [
+   [
+    "Jerry Brown"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "#ffff00", 
+  "long_a": "the hexidecimal color code for yellow is #ffff00", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Hex_Code\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Color_Name\"", 
+   "~", 
+   "\"yellow\""
+  ], 
+  "directory": "https___www_ascii-code_com_html-color-names_php_sayanc_4_5_2018@13_13_55", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "hex", 
+   "color", 
+   "code", 
+   "for", 
+   "yellow"
+  ], 
+  "final_sql": "SELECT \"Hex_Code\" FROM \"Table_1\" WHERE \"Color_Name\" ~ \"yellow\"", 
+  "id": 74, 
+  "sql_res": [
+   [
+    "#FFFF00"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "8,873.62", 
+  "long_a": "bitcoin is currently at an increase from yesterday to $8,873.62 per share.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "Bitcoin", 
+   "WHERE", 
+   "\"Key\"", 
+   "LIKE", 
+   "\"%%Open%\""
+  ], 
+  "directory": "https___finance_yahoo_com_quote_BTC-USD__sayanc_26_4_2018@0_29_57", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "is", 
+   "the", 
+   "stock", 
+   "exchange", 
+   "for", 
+   "Bitcoin"
+  ], 
+  "final_sql": "SELECT \"open\" FROM \"Bitcoin\"", 
+  "id": 75, 
+  "sql_res": [
+   [
+    "8,873.62"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "4", 
+  "long_a": "the last kids on earth and the nightmare kings is worth 4 accelerated reader points.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"The_Last_Kids_on_Earth_and_the_Nightmare_Kings\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"AR Points\""
+  ], 
+  "directory": "http___www_arbookfind_com_bookdetail_aspx?q=191168&l=EN&slid=133654160_sayanc_25_4_2018@1_26_51", 
+  "question_parsed": [
+   "What", 
+   "are", 
+   "the", 
+   "AR", 
+   "points", 
+   "for", 
+   "The", 
+   "Last", 
+   "Kids", 
+   "on", 
+   "Earth", 
+   "and", 
+   "the", 
+   "Nightmare", 
+   "Kings"
+  ], 
+  "final_sql": "SELECT \"ar_points:\" FROM \"the_last_kids_on_earth_and_the_nightmare_kings\"", 
+  "id": 76, 
+  "sql_res": [
+   [
+    "4.0"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "263 km/h (163 mph)", 
+  "long_a": "the top speed of a maserati ghibli is 263 kilometers per hour or 163 miles per hour.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Top_Speed\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Model\"", 
+   "~", 
+   "\"Ghibli\""
+  ], 
+  "directory": "https:\\\\en.wikipedia.org\\wiki\\Maserati_Ghibli_(M157)_sstritte_21\\3\\2018@21:58:7", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "the", 
+   "top", 
+   "speed", 
+   "of", 
+   "a", 
+   "Maserati", 
+   "Ghibli"
+  ], 
+  "final_sql": "SELECT \"Top_Speed\" FROM \"Table_1\" WHERE \"Model\" ~ \"Ghibli\"", 
+  "id": 77, 
+  "sql_res": [
+   [
+    "263 km/h (163 mph)"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "greco-persian wars", 
+  "long_a": "darius i initiated the greco-persian wars in the vi-vth century bc and achieved many victories (though he lost the wars)", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"key\"", 
+   "~", 
+   "\"accomplishment\"", 
+   ";"
+  ], 
+  "directory": "https:\\\\www.britannica.com\\biography\\Darius-I_rolivier_23\\3\\2018@10:48:45", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "a", 
+   "major", 
+   "accomplishment", 
+   "of", 
+   "Darius", 
+   "I"
+  ], 
+  "final_sql": "SELECT \"role_in\" FROM \"table_1\"", 
+  "id": 78, 
+  "sql_res": [
+   [
+    "Greco-Persian Wars"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "between 0.7 and 3.8 liters", 
+  "long_a": "you should drink between 0.7 and 3.7 liters of water each day, depending on your age, gender, and other factors.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Water_Intake\", \"Age/Gender\"", 
+   "FROM", 
+   "\"Table_1\""
+  ], 
+  "directory": "https:\\\\www.miniwebtool.com\\how-much-water-to-drink-a-day\\_sstritte_26\\3\\2018@23:46:1", 
+  "question_parsed": [
+   "How", 
+   "much", 
+   "water", 
+   "should", 
+   "I", 
+   "drink", 
+   "every", 
+   "day"
+  ], 
+  "final_sql": "SELECT \"Water_Intake\", \"Age/Gender\" FROM \"Table_1\"", 
+  "id": 79, 
+  "sql_res": [
+   [
+    "0.7 L/day of water, assumed to be from human milk.", 
+    "0\u20136 months infants"
+   ], 
+   [
+    "0.8 L/day of total water, assumed to be from human milk, complementary foods and beverages. This includes approximately 0.6 L (\u2248 3 cups) as total fluid, including formula or human milk, juices, and drinking water.", 
+    "7\u201312 months infants"
+   ], 
+   [
+    "1.3 L/day of total water. This includes approximately 0.9 L (\u2248 4 cups) as total beverages, including drinking water.", 
+    "1\u20133 years children"
+   ], 
+   [
+    "1.7 L/day of total water. This includes approximately 1.2 L (\u2248 5 cups) as total beverages, including drinking water.", 
+    "4\u20138 years children"
+   ], 
+   [
+    "2.4 L/day of total water. This includes approximately 1.8 L (\u2248 8 cups) as total beverages, including drinking water.", 
+    "9\u201313 years boys"
+   ], 
+   [
+    "3.3 L/day of total water. This includes approximately 2.6 L (\u2248 11 cups) as total beverages, including drinking water.", 
+    "14\u201318 years boys"
+   ], 
+   [
+    "2.1 L/day of total water. This includes approximately 1.6 L (\u2248 7 cups) as total beverages, including drinking water.", 
+    "9\u201313 years girls"
+   ], 
+   [
+    "2.3 L/day of total water. This includes approximately 1.8 L (\u2248 8 cups) as total beverages, including drinking water.", 
+    "14\u201318 years girls"
+   ], 
+   [
+    "3.7 L/day of total water. This includes approximately 3.0 L (\u2248 13 cups) as total beverages, including drinking water.", 
+    ">18 years men"
+   ], 
+   [
+    "2.7 L/day of total water. This includes approximately 2.2 L (\u2248 9 cups) as total beverages, including drinking water.", 
+    ">18 years women"
+   ], 
+   [
+    "3.0 L/day of total water. This includes approximately 2.3 L (\u2248 10 cups) as total beverages, including drinking water.", 
+    "Pregnant women"
+   ], 
+   [
+    "3.8 L/day of total water. This includes approximately 3.1 L (\u2248 13 cups) as total beverages, including drinking water.", 
+    "Lactating women"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "pink asl: alexandria wailes", 
+  "long_a": "recording artist p!nk is singing the national anthem at the super bowl this year.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Performer\", \"Year\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "ORDER_BY", 
+   "\"Year\"", 
+   "DESCENDING", 
+   "LIMIT_1"
+  ], 
+  "directory": "https:\\\\en.wikipedia.org\\wiki\\List_of_national_anthem_performers_at_the_Super_Bowl_sayanc_25\\3\\2018@13:49:30", 
+  "question_parsed": [
+   "Alexa", 
+   "who", 
+   "is", 
+   "singing", 
+   "the", 
+   "National", 
+   "anthem", 
+   "at", 
+   "the", 
+   "superbowl", 
+   "this", 
+   "year"
+  ], 
+  "final_sql": "SELECT \"Performer\" FROM \"Table_1\" ORDER_BY \"Year\" DESCENDING LIMIT_1", 
+  "id": 80, 
+  "sql_res": [
+   [
+    "Pink\n ASL: Alexandria Wailes[12]."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "2.34", 
+  "long_a": "antares pharma closed on the stock market at 2.340 dollars per share.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"worth\""
+  ], 
+  "directory": "https___finance_yahoo_com_quote_atrs?ltr=1_sayanc_27_4_2018@12_55_55", 
+  "question_parsed": [
+   "what", 
+   "is", 
+   "antares", 
+   "pharma", 
+   "stock", 
+   "worth"
+  ], 
+  "final_sql": "SELECT \"Previous_Close\" FROM \"table_1\"", 
+  "id": 81, 
+  "sql_res": [
+   [
+    "2.34"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "24,706.41", 
+  "long_a": "the dow jones closed at 24706.41.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"DOW_JONES_INDU_AVERAGE_NDX_-_Quote_Details\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"close\""
+  ], 
+  "directory": "http___money_cnn_com_data_markets_dow__lcallebe_16_5_2018@13_32_23", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "What", 
+   "did", 
+   "the", 
+   "dow", 
+   "jones", 
+   "close", 
+   "at", 
+   "today"
+  ], 
+  "final_sql": "SELECT \"previous_close\" FROM \"dow_jones_indu_average_ndx_-_quote_details\"", 
+  "id": 82, 
+  "sql_res": [
+   [
+    "24,706.41"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "august 14, 2018", 
+  "long_a": "world of warcraft: battle for azeroth will be released on august 14, 2018.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"World_of_Warcraft:_Battle_for_Azeroth\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"released\""
+  ], 
+  "directory": "https___www_google_com_search?q=battle+for+azeroth+release+date&rlz=1C5CHFA_enUS760US760&oq=Battle+for+Azeroth&aqs=chrome_2_0j69i60j0l4_1581j0j4&sourceid=chrome&ie=UTF-8_lcallebe_17_5_2018@14_59_23", 
+  "question_parsed": [
+   "When", 
+   "will", 
+   "battle", 
+   "for", 
+   "azeroth", 
+   "be", 
+   "released"
+  ], 
+  "final_sql": "SELECT \"initial_release_date\" FROM \"world_of_warcraft:_battle_for_azeroth\"", 
+  "id": 83, 
+  "sql_res": [
+   [
+    "august 14, 2018"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "3", 
+  "long_a": "the last kids on earth is worth 3 accelerated reader points.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"The_Last_Kids_on_Earth\"", 
+   "WHERE", 
+   "\"KEY\"", 
+   "~", 
+   "\"AR points\""
+  ], 
+  "directory": "http___www_arbookfind_com_bookdetail_aspx?q=178677&l=EN&slid=133653759_sayanc_25_4_2018@1_19_7", 
+  "question_parsed": [
+   "What", 
+   "are", 
+   "the", 
+   "AR", 
+   "points", 
+   "for", 
+   "The", 
+   "Last", 
+   "Kids", 
+   "on", 
+   "Earth"
+  ], 
+  "final_sql": "SELECT \"ar_points:\" FROM \"the_last_kids_on_earth\"", 
+  "id": 84, 
+  "sql_res": [
+   [
+    "3.0"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "trenton", 
+  "long_a": "the capital of new jersey is trenton.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Capital\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"State\"", 
+   "~", 
+   "\"New Jersey\""
+  ], 
+  "directory": "https:\\\\en.wikipedia.org\\wiki\\List_of_capitals_in_the_United_States_sstritte_22\\3\\2018@14:1:22", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "capital", 
+   "of", 
+   "New", 
+   "Jersey"
+  ], 
+  "final_sql": "SELECT \"Capital\" FROM \"Table_1\" WHERE \"State\" ~ \"New_Jersey\"", 
+  "id": 85, 
+  "sql_res": [
+   [
+    "Trenton"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "author and journalist", 
+  "long_a": "she is an author and journalist who's written 17 books.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"value\"", 
+   "FROM", 
+   "Gail_Sheehy", 
+   "WHERE", 
+   "\"key\"", 
+   "~", 
+   "\"Who is\";"
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Gail_Sheehy_shayati_13_4_2018@16_30_54", 
+  "question_parsed": [
+   "Who", 
+   "is", 
+   "Gail", 
+   "Sheehy"
+  ], 
+  "final_sql": "SELECT \"Occupation\" FROM \"gail_sheehy\"", 
+  "id": 86, 
+  "sql_res": [
+   [
+    "Journalist, author"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "10-13 years", 
+  "long_a": "dogs live for 10 to 13 years.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "Table is about dogs but does not correspond to the SQL query that has been written.", 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "Dog_Info", 
+   "WHERE", 
+   "\"Property\"", 
+   "~", 
+   "\"long\""
+  ], 
+  "directory": "http___www_sonic_net_~petdoc_lifespan_htm_lcallebe_24_5_2018@14_14_33", 
+  "question_parsed": [
+   "How", 
+   "long", 
+   "do", 
+   "dogs", 
+   "live"
+  ], 
+  "final_sql": "SELECT \"Value\" FROM Dog_Info WHERE \"Property\" ~ \"long\"", 
+  "id": 87
+ }, 
+ {
+  "short_a": "43,560 square feet", 
+  "long_a": "an acre is 43,560 square feet", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Acre\"", 
+   "FROM", 
+   "AcreTable", 
+   "WHERE", 
+   "\"Acre\"", 
+   "~", 
+   "\"square feet\""
+  ], 
+  "directory": "https:\\\\www.thecalculatorsite.com\\articles\\units\\how-big-is-an-acre.php_zexuano_23\\4\\2018@15:29:52", 
+  "question_parsed": [
+   "How", 
+   "many", 
+   "square", 
+   "feet", 
+   "are", 
+   "in", 
+   "an", 
+   "acre"
+  ], 
+  "final_sql": "SELECT \"Acre\" FROM AcreTable WHERE \"Acre\" ~ \"square_feet\"", 
+  "id": 88, 
+  "sql_res": [
+   [
+    "43,560 square feet"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "april 12, 1861 ;\u2013 april 9, 1865 (last shot ended june, 1865)", 
+  "long_a": "the civil war began in 1861.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"American_Civil_War\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"year\""
+  ], 
+  "directory": "https___simple_wikipedia_org_wiki_American_Civil_War_sayanc_2_5_2018@21_6_51", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "What", 
+   "year", 
+   "did", 
+   "the", 
+   "Civil", 
+   "War", 
+   "start"
+  ], 
+  "final_sql": "SELECT \"date\" FROM \"american_civil_war\"", 
+  "id": 89, 
+  "sql_res": [
+   [
+    "april 12, 1861\u00a0;\u2013 april 9, 1865 (last shot ended june, 1865)"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "4244 miles", 
+  "long_a": "there are 4,244 miles between england and the us.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "~ operator does not work. For some reason, \"england\" maps to \"Distance from Spain to United States\" rather that to \"united kingdom\"", 
+  "newsql": [
+   "SELECT", 
+   "\"Distance_(mi)\"", 
+   "from", 
+   "\"Distance_from_United_States_to_Other_Countries\"", 
+   "WHERE", 
+   "\"Country\"", 
+   "~", 
+   "\"England\""
+  ], 
+  "directory": "https___www_distancefromto_net_distance-from-united-states-country_sstritte_10_4_2018@18_3_19", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "the", 
+   "distance", 
+   "between", 
+   "England", 
+   "and", 
+   "the", 
+   "US"
+  ], 
+  "final_sql": "SELECT \"Distance_(mi)\" from \"Distance_from_United_States_to_Other_Countries\" WHERE \"Country\" ~ \"England\"", 
+  "id": 90
+ }, 
+ {
+  "short_a": "128 ounces", 
+  "long_a": "there are 128 ounces in a gallon.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "~ operator does not work. Letter \"a\" cannot map to 1.", 
+  "newsql": [
+   "SELECT", 
+   "\"Ounce\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Gallon\"", 
+   "LIKE", 
+   "\"a\""
+  ], 
+  "directory": "https___www_asknumbers_com_gallons-to-ounces_aspx_sayanc_13_4_2018@14_14_18", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "many", 
+   "ounces", 
+   "are", 
+   "in", 
+   "a", 
+   "gallon"
+  ], 
+  "final_sql": "SELECT \"Ounce\" FROM \"Table_1\" WHERE \"Gallon\" LIKE \"a\"", 
+  "id": 91
+ }, 
+ {
+  "short_a": "microsoft sculpt ergo", 
+  "long_a": "microsoft sculpt ergo is the best ergonomic keyboard", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "Same problem as with #6. We expect \"best\" to map to \"our pick\" but of course it maps to \"also great\".", 
+  "newsql": [
+   "SELECT", 
+   "\"keyboards\"", 
+   "FROM", 
+   "Best_Ergonomic_Keyboard", 
+   "WHERE", 
+   "\"keys\"", 
+   "LIKE", 
+   "\"best\""
+  ], 
+  "directory": "https___thewirecutter_com_reviews_comfortable-ergo-keyboard__shayati_10_4_2018@10_27_50", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "the", 
+   "best", 
+   "ergonomic", 
+   "keyboard"
+  ], 
+  "final_sql": "SELECT \"keyboards\" FROM Best_Ergonomic_Keyboard WHERE \"keys\" ~ \"best\"", 
+  "id": 92
+ }, 
+ {
+  "short_a": "3.28084 ft", 
+  "long_a": "there are 3.28084 feet in 1 meter.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "Character \"a\" cannot map to 1. Would need special rules...which would seem like cheating.", 
+  "newsql": [
+   "SELECT", 
+   "\"Feet\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Meters\"", 
+   "~", 
+   "\"a\""
+  ], 
+  "directory": "https:\\\\www.thecalculatorsite.com\\articles\\units\\how-many-feet-in-a-metre.php_sayanc_24\\3\\2018@16:8:24", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "many", 
+   "feet", 
+   "are", 
+   "in", 
+   "a", 
+   "meter"
+  ], 
+  "final_sql": "SELECT \"Feet\" FROM \"Table_1\" WHERE \"Meters\" ~ \"a\"", 
+  "id": 93
+ }, 
+ {
+  "short_a": "a digital database containing information (such as records of financial transactions) that can be simultaneously used and shared within a large decentralized, publicly accessible network; also : the technology used to create such a database", 
+  "long_a": "a blockchain is is a digital database containing information (such as records of financial transactions) that can be simultaneously used and shared within a large decentralized, publicly accessible network.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "Blockchain", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"What is\""
+  ], 
+  "directory": "https___www_merriam-webster_com_dictionary_blockchain_sayanc_1_5_2018@16_44_8", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "a", 
+   "block", 
+   "chain"
+  ], 
+  "final_sql": "SELECT \"definition_of_blockchain\" FROM \"blockchain\"", 
+  "id": 94, 
+  "sql_res": [
+   [
+    " : a digital database containing information (such as records of financial transactions) that can be simultaneously used and shared within a large decentralized, publicly accessible network;  also   : the technology used to create such a database the technology at the heart of bitcoin and other virtual currencies, blockchain is an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way. \u2014marco iansiti and karim r. lakhani     "
+   ]
+  ]
+ }, 
+ {
+  "short_a": "yes. by using accelero s3", 
+  "long_a": "provided the s3 still fits on the 1060, this means we could have a totally silent reasonably high end gfx card!", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "Does not have a ~ operator. Query would give a better result by just returning \"product name\" and not \"count(product name\" as the expected answer is yes/no + the name of a product, not a number.", 
+  "newsql": [
+   "SELECT", 
+   "Count", 
+   "(", 
+   "\"Product_Name\"", 
+   ")", 
+   "FROM", 
+   "Graphics_Card_Cooler", 
+   "WHERE", 
+   "\"NVIDIA\"", 
+   "LIKE", 
+   "\"%%GTX%\"", 
+   "AND", 
+   "\"NVIDIA\"", 
+   "LIKE", 
+   "\"%%1060%\";"
+  ], 
+  "directory": "https___www_arctic_ac_us_en_products_cooling_vga_html_shayati_19_4_2018@22_9_33", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "is", 
+   "there", 
+   "a", 
+   "passively", 
+   "cooled", 
+   "GTX", 
+   "1060"
+  ], 
+  "final_sql": "SELECT Count ( \"Product_Name\" ) FROM Graphics_Card_Cooler WHERE \"NVIDIA\" LIKE \"%%GTX%\" AND \"NVIDIA\" LIKE \"%%1060%\";", 
+  "id": 95
+ }, 
+ {
+  "short_a": "2/4/1993, 2/13/1993", 
+  "long_a": "in the usa, groundhog day was released on february 4th, 1993 or on february 12nd, 1993.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "'external' is another invented operator that I don't know how to implement. Should we just simplify for now and replace with \"USA\"? ---> Anthony's note about external: interesting - requires external country information, invent syntax where external(attribute) provides the persons information. external('country location'), external('date'), external('city location') - external words backward from the data to retrieve the relevant type of data. so if location column is countries supply usa (or whatever is relevant), if location is us cities, supply pittsburgh (or whatever is relevant)", 
+  "newsql": [
+   "SELECT", 
+   "\"Release_date\", \"Country\"", 
+   "FROM", 
+   "\"Groundhog_Day_Release_Info\"", 
+   "WHERE", 
+   "\"Country\"", 
+   "~", 
+   "external('country location')"
+  ], 
+  "directory": "https___www_imdb_com_title_tt0107048_releaseinfo_lcallebe_14_5_2018@11_35_41", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "when", 
+   "was", 
+   "Groundhog", 
+   "Day", 
+   "released"
+  ], 
+  "final_sql": "SELECT \"Release_date\", \"Country\" FROM \"Groundhog_Day_Release_Info\" WHERE \"Country\" ~ external ( \"country_location\" )", 
+  "id": 96
+ }, 
+ {
+  "short_a": "may 26", 
+  "long_a": "i prevail is playing in dallas on saturday may 26.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Date\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Location\"", 
+   "~", 
+   "\"Texas\""
+  ], 
+  "directory": "http___iprevailband_com_tour_sayanc_20_4_2018@18_5_16", 
+  "question_parsed": [
+   "Siri", 
+   "", 
+   "when", 
+   "is", 
+   "I", 
+   "prevail", 
+   "playing", 
+   "next", 
+   "in", 
+   "Texas", 
+   "2018"
+  ], 
+  "final_sql": "SELECT \"Date\" FROM \"Table_1\" WHERE \"Location\" ~ \"Texas\"", 
+  "id": 97, 
+  "sql_res": [
+   [
+    "May 26"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "8. they may decrease the risk of childhood asthma", 
+  "long_a": "otameal may decrease the risk of childhood asthma", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "*", 
+   "FROM", 
+   "oatmeal", 
+   "WHERE", 
+   "\"benefits\"", 
+   "~", 
+   "\"Asthma\"", 
+   ";"
+  ], 
+  "directory": "https___www_healthline_com_nutrition_9-benefits-oats-oatmeal_rolivier_27_4_2018@18_31_16", 
+  "question_parsed": [
+   "Astma", 
+   "and", 
+   "oatmeal"
+  ], 
+  "final_sql": "SELECT \"benefits\" FROM oatmeal WHERE \"benefits\" ~ \"Asthma\" ;", 
+  "id": 98, 
+  "sql_res": [
+   [
+    "8. They May Decrease the Risk of Childhood Asthma"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "universal serial bus", 
+  "long_a": "usb stand for universal serial bus", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Full-nane\"", 
+   "FROM", 
+   "\"Computer_Science:_Abbreviations\"", 
+   "WHERE", 
+   "\"Abbreviation\"", 
+   "~", 
+   "\"USB\""
+  ], 
+  "directory": "https___www_tutorialspoint_com_basics_of_computer_science_basics_of_computer_science_abbreviations_htm_lcallebe_14_5_2018@10_58_20", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "does", 
+   "USB", 
+   "stand", 
+   "for"
+  ], 
+  "final_sql": "SELECT \"Full_Name\" FROM \"Computer_Science:_Abbreviations\" WHERE \"Abbreviation\" ~ \"USB\"", 
+  "id": 99, 
+  "sql_res": [
+   [
+    "Universal Serial Bus"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "$999, $1149", 
+  "long_a": "the 64gb iphonex costs $999 and the 256gb iphone costs $1149.", 
+  "ex_valid": false, 
+  "table_type": 2, 
+  "note": "badly transposed table.", 
+  "newsql": [
+   "SELECT", 
+   "\"iPhone_X_64GB/256GB\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Feature\"", 
+   "~", 
+   "\"cost\""
+  ], 
+  "directory": "https:\\\\www.lifewire.com\\compare-iphone-models-1999430_sstritte_21\\3\\2018@22:3:22", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "much", 
+   "does", 
+   "an", 
+   "iPhone", 
+   "X", 
+   "cost"
+  ], 
+  "final_sql": "SELECT \"Price\" FROM \"table_1\"", 
+  "id": 100
+ }, 
+ {
+  "short_a": "14", 
+  "long_a": "stone is an old unit of mass that is mostly used in agriculture in uk and ireland and it equals to 14 pounds.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "Again, \"a' cannot map to 1.", 
+  "newsql": [
+   "SELECT", 
+   "\"Pound\"", 
+   "FROM", 
+   "Pound_To_Stone_Table", 
+   "WHERE", 
+   "\"Stone\"", 
+   "~", 
+   "\"a\""
+  ], 
+  "directory": "https:\\\\www.asknumbers.com\\stone-to-pound.aspx_zexuano_7\\4\\2018@0:13:13", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "many", 
+   "pounds", 
+   "are", 
+   "in", 
+   "a", 
+   "stone"
+  ], 
+  "final_sql": "SELECT \"Pound\" FROM Pound_To_Stone_Table WHERE \"Stone\" ~ \"a\"", 
+  "id": 101
+ }, 
+ {
+  "short_a": "contribute to retirement accounts", 
+  "long_a": "contributions to traditional ira, like retirement accounts, will help lower your taxes", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Steps_to_lower_taxes\"", 
+   "FROM", 
+   "\"Tax_Tips\"", 
+   "WHERE", 
+   "\"Description\"", 
+   "~", 
+   "\"IRA contributions\""
+  ], 
+  "directory": "https___turbotax_intuit_com_tax-tips_tax-planning-and-checklists_tax-tips-after-january-1st_L8fY6OyFl_shayati_10_4_2018@12_16_27", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "IRA", 
+   "contributions", 
+   "will", 
+   "lower", 
+   "my", 
+   "taxes"
+  ], 
+  "final_sql": "SELECT \"Steps_to_lower_taxes\" FROM \"Tax_Tips\" WHERE \"Description\" ~ \"IRA_contributions\"", 
+  "id": 102, 
+  "sql_res": [
+   [
+    "1. Contribute to retirement accounts"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "62", 
+  "long_a": "whoopi goldberg was born on november 13th, 1955. she is 62 years old.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "*", 
+   "from", 
+   "Whoopi", 
+   "WHERE", 
+   "\"PersonalAttributes\"", 
+   "~", 
+   "\"How old\";"
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Whoopi_Goldberg_pavvaru_14_4_2018@14_16_17", 
+  "question_parsed": [
+   "How", 
+   "old", 
+   "is", 
+   "Whoopi", 
+   "Goldberg"
+  ], 
+  "final_sql": "SELECT \"Born\" FROM \"whoopi\"", 
+  "id": 103, 
+  "sql_res": [
+   [
+    "(1955-11-13) November 13, 1955 (age 62)\n Manhattan, New York, U.S."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "559 km", 
+  "long_a": "the distance from los angeles to san francisco is 559 km", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Distance\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Distance_from_Los_Angeles\"", 
+   "~", 
+   "\"San Francisco\""
+  ], 
+  "directory": "https:\\\\www.distancefromto.net\\distance-from-los-angeles-us-to-san-francisco-us_sayanc_24\\3\\2018@15:56:32", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "many", 
+   "miles", 
+   "is", 
+   "it", 
+   "to", 
+   "drive", 
+   "from", 
+   "Los", 
+   "Angeles", 
+   "to", 
+   "San", 
+   "Francisco"
+  ], 
+  "final_sql": "SELECT \"Distance\" FROM \"Table_1\" WHERE \"Distance_from_Los_Angeles\" ~ \"San_Francisco\"", 
+  "id": 104, 
+  "sql_res": [
+   [
+    "559 km"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "u+fb01, \ufb01", 
+  "long_a": "there is a unicode character for the fi ligature with unicode code point u+fb01", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Unicode_code_point\",", 
+   "\"character\"", 
+   "FROM", 
+   "Fi_Unicode_Search_Result", 
+   "WHERE", 
+   "\"Unicode_character_name\"", 
+   "~", 
+   "\"fi ligature\";"
+  ], 
+  "directory": "https___unicode-search_net_unicode-namesearch_pl?term=fi&_submit=Search_shayati_24_4_2018@17_2_20", 
+  "question_parsed": [
+   "Is", 
+   "there", 
+   "a", 
+   "unicode", 
+   "character", 
+   "for", 
+   "the", 
+   "fi", 
+   "ligature"
+  ], 
+  "final_sql": "SELECT \"Unicode_code_point\", \"character\" FROM Fi_Unicode_Search_Result WHERE \"Unicode_character_name\" ~ \"fi_ligature\";", 
+  "id": 105, 
+  "sql_res": [
+   [
+    "U+; FB01", 
+    "\ufb01"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "extends the range of a power source", 
+  "long_a": "the power transmitter is a power module that extends the range of a power source.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "Power_Transmitter", 
+   "WHERE", 
+   "\"Property\"", 
+   "~", 
+   "\"how does work\""
+  ], 
+  "directory": "http:\\\\subnautica.wikia.com\\wiki\\Power_Transmitter_sayanc_24\\3\\2018@21:48:6", 
+  "question_parsed": [
+   "How", 
+   "does", 
+   "the", 
+   "power", 
+   "transmitter", 
+   "in", 
+   "the", 
+   "game", 
+   "Subnautica", 
+   "work"
+  ], 
+  "final_sql": "SELECT \"description\" FROM \"power_transmitter\"", 
+  "id": 106, 
+  "sql_res": [
+   [
+    "extends the range of a power source."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "30-55$", 
+  "long_a": "straight talk phone plans range from 30 to 55 $.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "requires further processing of the answer returned by the query (list of prices ---> we want an range).", 
+  "newsql": [
+   "SELECT", 
+   "*", 
+   "FROM", 
+   "phone_networks", 
+   "WHERE", 
+   "\"network\"", 
+   "!", 
+   "\"Straight Talk\""
+  ], 
+  "directory": "https___www_nerdwallet_com_blog_utilities_straight-talk-cell-phone-plans__rolivier_13_4_2018@15_36_15", 
+  "question_parsed": [
+   "How", 
+   "much", 
+   "does", 
+   "Straight", 
+   "Talk", 
+   "cell", 
+   "phone", 
+   "service", 
+   "cost"
+  ], 
+  "final_sql": "SELECT * FROM phone_networks WHERE \"network\" ~ \"Straight_Talk\"", 
+  "id": 107
+ }, 
+ {
+  "short_a": "$99", 
+  "long_a": "in the united states, an annual membership to amazon prime costs $99.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "External operator pb.", 
+  "newsql": [
+   "SELECT", 
+   "\"Annual_Price\"", 
+   "from", 
+   "\"Amazon_Prime_Rates\"", 
+   "WHERE", 
+   "\"Country\"", 
+   "~", 
+   "\"external('country location')\""
+  ], 
+  "directory": "https___ebookfriendly_com_amazon-prime-membership-price-comparison__sstritte_10_4_2018@18_15_53", 
+  "question_parsed": [
+   "how", 
+   "much", 
+   "does", 
+   "amazon", 
+   "prime", 
+   "cost"
+  ], 
+  "final_sql": "SELECT \"Annual_Price\" from \"Amazon_Prime_Rates\" WHERE \"Country\" ~ \"external ( \"country_location\" ) \"", 
+  "id": 108
+ }, 
+ {
+  "short_a": "15 min", 
+  "long_a": "the cooking time for steak is 15 minutes.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Steak\"", 
+   "WHERE", 
+   "\"KEY\"", 
+   "~", 
+   "\"cook\""
+  ], 
+  "directory": "https___www_foodnetwork_com_recipes_bobby-flay_perfectly-grilled-steak-recipe-1973350_sayanc_3_5_2018@22_6_45", 
+  "question_parsed": [
+   "How", 
+   "long", 
+   "do", 
+   "you", 
+   "cook", 
+   "steak", 
+   "for"
+  ], 
+  "final_sql": "SELECT \"cook:\" FROM \"steak\"", 
+  "id": 109, 
+  "sql_res": [
+   [
+    "15 min"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "li - 51", 
+  "long_a": "tom brady's best super bowl stats happened in superbowl li (51).", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"superbowl\"", 
+   "FROM", 
+   "brady", 
+   "ORDER_BY", 
+   "\"superbowl\"", 
+   "ASCENDING", 
+   "LIMIT_1"
+  ], 
+  "directory": "https___www_si_com_nfl_2017_02_05_tom-brady-super-bowl-best-performances-new-england-patriots_rolivier_15_5_2018@13_58_29", 
+  "question_parsed": [
+   "What", 
+   "Super", 
+   "Bowl", 
+   "did", 
+   "Tom", 
+   "Brady", 
+   "perform", 
+   "the", 
+   "best", 
+   "in"
+  ], 
+  "final_sql": "SELECT \"superbowl\" FROM brady ORDER_BY \"superbowl\" ASCENDING LIMIT_1", 
+  "id": 110, 
+  "sql_res": [
+   [
+    "1. super bowl li: patriots beat falcons 34-28"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "grant gustin", 
+  "long_a": "grant gustin is flash in the flash", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "Also returns the name of the actor who played \"kid flash\" ......... Actually that may be the right full answer. I don't know.", 
+  "newsql": [
+   "SELECT", 
+   "\"Actor\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Character\"", 
+   "~", 
+   "\"Flash\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_The_Flash_(2014_TV_series)#Cast_and_characters_sayanc_27_4_2018@3_4_50", 
+  "question_parsed": [
+   "Who", 
+   "played", 
+   "Flash", 
+   "in", 
+   "The", 
+   "Flash"
+  ], 
+  "final_sql": "SELECT \"Actor\" FROM \"Table_1\" WHERE \"Character\" ~ \"Flash\"", 
+  "id": 111
+ }, 
+ {
+  "short_a": "feb. 6, 2018", 
+  "long_a": "the new shadow of colossus comes out on february 6, 2018.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "from", 
+   "\"Shadow_of_Colossus_PS4_Remake_Essential_Information\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"when\""
+  ], 
+  "directory": "https___www_usgamer_net_articles_30-01-2018-shadow-of-the-colossus-remake-release-date-ps4-bluepoint-improved-graphics-everything-we-know_sstritte_18_4_2018@12_15_43", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "when", 
+   "does", 
+   "the", 
+   "new", 
+   "Shadow", 
+   "of", 
+   "the", 
+   "Colossus", 
+   "come", 
+   "out"
+  ], 
+  "final_sql": "SELECT \"Release_Date:\" FROM \"shadow_of_colossus_ps4_remake_essential_information\"", 
+  "id": 112, 
+  "sql_res": [
+   [
+    "February 6, 2018"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "rhoda kemins (m. 1949; div. 1958) katy jurado (m. 1959; div. 1963) ethel merman (m. 1964; div. 1965) donna rancourt (m. 1965; div. 1972) tova traesnaes (m. 1973)", 
+  "long_a": "borgnine married 5 times to: rhoda kemins, katy jurado, ethel merman, donna rancourt, and tova traesnaes.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"spouse\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Ernest_Borgnine_sayanc_4_5_2018@12_53_44", 
+  "question_parsed": [
+   "Who", 
+   "was", 
+   "Ernest", 
+   "Borgnine", 
+   "s", 
+   "spouse"
+  ], 
+  "final_sql": "SELECT \"Spouse(s)\" FROM \"table_1\"", 
+  "id": 113, 
+  "sql_res": [
+   [
+    "Rhoda Kemins\n (m. 1949; div. 1958)\n Katy Jurado\n (m. 1959; div. 1963)\n Ethel Merman\n (m. 1964; div. 1965)\n Donna Rancourt\n (m. 1965; div. 1972)\n Tova Traesnaes\n (m. 1973)"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "august 13, 1959", 
+  "long_a": "the verrazano-narrows bridge began construction in 1959 and opened to all traffic in 1964.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"value\", \"key\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"key\"", 
+   "~", 
+   "\"when built\""
+  ], 
+  "directory": "https:\\\\en.wikipedia.org\\wiki\\Verrazano-Narrows_Bridge_shayati_23\\3\\2018@11:29:23", 
+  "question_parsed": [
+   "Siri", 
+   "", 
+   "when", 
+   "was", 
+   "the", 
+   "Verrazano", 
+   "Narrows", 
+   "bridge", 
+   "built"
+  ], 
+  "final_sql": "SELECT \"Construction_start\" FROM \"table_1\"", 
+  "id": 114, 
+  "sql_res": [
+   [
+    "August 13, 1959; 58 years ago (1959-08-13)"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "geo-tagging, simultaneous 4k video and 9mp image recording, touch focus, face/smile detection, auto hdr, panorama", 
+  "long_a": "the samsung galaxy note 8 has geo-tagging, simultaneous 4k video and 9mp image recording, touch focus, face/smile detection, auto hdr, and panorama.", 
+  "ex_valid": false, 
+  "table_type": 2, 
+  "note": "Badly transposed table.", 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"feature\""
+  ], 
+  "directory": "https___www_gsmarena_com_samsung_galaxy_note8-8505_php_sayanc_2_5_2018@21_49_57", 
+  "question_parsed": [
+   "what", 
+   "are", 
+   "the", 
+   "feature", 
+   "of", 
+   "Samsung", 
+   "Galaxy", 
+   "Note", 
+   "8", 
+   "", 
+   "Midnight", 
+   "Black"
+  ], 
+  "final_sql": "SELECT \"Features\" FROM \"table_1\"", 
+  "id": 115
+ }, 
+ {
+  "short_a": "mike pence", 
+  "long_a": "the president of the united states senate is mike pence.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Name\"", 
+   "FROM", 
+   "\"United_States_Senate\"", 
+   "WHERE", 
+   "\"Leadership\"", 
+   "~", 
+   "\"president senate\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_United_States_Senate_lcallebe_25_4_2018@14_24_47", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "president", 
+   "of", 
+   "the", 
+   "senate"
+  ], 
+  "final_sql": "SELECT \"Name\" FROM \"United_States_Senate\" WHERE \"Leadership\" ~ \"president_senate\"", 
+  "id": 116, 
+  "sql_res": [
+   [
+    "mike pence"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "larry page, sergey brin", 
+  "long_a": "the founders of google are larry page and sergey brin", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "Google", 
+   "WHERE", 
+   "\"Key\"", 
+   "LIKE", 
+   "\"%%Founders%\""
+  ], 
+  "directory": "https___www_google_com_search?q=google+founders&rlz=1C5CHFA_enUS760US760&oq=google+founders&aqs=chrome__69i57j0l5_2103j0j4&sourceid=chrome&ie=UTF-8_lcallebe_26_4_2018@12_23_26", 
+  "question_parsed": [
+   "Who", 
+   "is", 
+   "the", 
+   "founder", 
+   "of", 
+   "Google"
+  ], 
+  "final_sql": "SELECT \"founders\" FROM \"google\"", 
+  "id": 117, 
+  "sql_res": [
+   [
+    "larry page , sergey brin"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "media, newspapers; magazines; television; educational services; websites", 
+  "long_a": "the meredith corporation is a media company that publishes newspapers, magazines, television, educational services, and websites", 
+  "ex_valid": false, 
+  "table_type": 2, 
+  "note": "table badly transposed.", 
+  "newsql": [
+   "SELECT", 
+   "\"values\"", 
+   "FROM", 
+   "Meredith_Corporation", 
+   "WHERE", 
+   "\"keys\"", 
+   "~", 
+   "\"Corporation\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Meredith_Corporation_shayati_13_4_2018@15_14_27", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "the", 
+   "Meredith", 
+   "Corporation"
+  ], 
+  "final_sql": "SELECT \"Products\" FROM \"meredith_corporation\"", 
+  "id": 118
+ }, 
+ {
+  "short_a": "38", 
+  "long_a": "alecia beth moore (pink) was born on september 8, 1979 (age 38) in doylestown, pennsylvania, u.s.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "Pink_Information", 
+   "WHERE", 
+   "\"Property\"", 
+   "~", 
+   "\"old\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Pink_(singer)_xiyangz_12_4_2018@0_44_22", 
+  "question_parsed": [
+   "how", 
+   "old", 
+   "is", 
+   "pink", 
+   "the", 
+   "singer"
+  ], 
+  "final_sql": "SELECT \"Born\" FROM \"pink_information\"", 
+  "id": 119, 
+  "sql_res": [
+   [
+    "Alecia Beth Moore\n (1979-09-08) September 8, 1979 (age 38)\n Doylestown, Pennsylvania, U.S."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "sacramento", 
+  "long_a": "the capital of california is sacramento.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "California", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"capital\""
+  ], 
+  "directory": "https___wikitravel_org_en_California_lcallebe_14_5_2018@11_41_13", 
+  "question_parsed": [
+   "Siri", 
+   "", 
+   "what", 
+   "is", 
+   "the", 
+   "capital", 
+   "of", 
+   "California"
+  ], 
+  "final_sql": "SELECT \"capital\" FROM \"california\"", 
+  "id": 120, 
+  "sql_res": [
+   [
+    "sacramento"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "6601 n. davis hwy, suite 34-36", 
+  "long_a": "the shoe station is in davis highway.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Shoe_Station,_Pensacola\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"located\""
+  ], 
+  "directory": "https___www_shoestation_com_pensacola-fl__sayanc_25_4_2018@2_18_31", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "where", 
+   "is", 
+   "the", 
+   "shoe", 
+   "station", 
+   "located", 
+   "in", 
+   "Pensacola"
+  ], 
+  "final_sql": "SELECT \"address:\" FROM \"shoe_station,_pensacola\"", 
+  "id": 121, 
+  "sql_res": [
+   [
+    "6601 n. davis hwy, suite 34-36"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "sun tzu", 
+  "long_a": "the author sun tzu wrote the book \"art of war\".", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"The_art_of_War\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"book\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_The_Art_of_War_lcallebe_9_5_2018@12_14_44", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "who", 
+   "wrote", 
+   "the", 
+   "book", 
+   "Art", 
+   "of", 
+   "War"
+  ], 
+  "final_sql": "SELECT \"author\" FROM \"the_art_of_war\"", 
+  "id": 122, 
+  "sql_res": [
+   [
+    "(trad.) sun tzu"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "mandarin", 
+  "long_a": "mandarin has the most native speakers.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "Would require that the Rank column contains INT and not TEXT? not sure.", 
+  "newsql": [
+   "SELECT", 
+   "\"Language\"", 
+   "FROM", 
+   "Native_Speaker_Ranking", 
+   "ORDER_BY", 
+   "\"Rank\"", 
+   "ASCENDING", 
+   "LIMIT_1"
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_List_of_languages_by_number_of_native_speakers_xiyangz_12_4_2018@2_27_58", 
+  "question_parsed": [
+   "which", 
+   "is", 
+   "the", 
+   "most", 
+   "common", 
+   "language", 
+   "in", 
+   "the", 
+   "world"
+  ], 
+  "final_sql": "SELECT \"Language\" FROM Native_Speaker_Ranking ORDER_BY \"Rank\" ASCENDING LIMIT_1", 
+  "id": 123
+ }, 
+ {
+  "short_a": "2996", 
+  "long_a": "the population of silt is 2996", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Population\"", 
+   "FROM", 
+   "\"SIlt_Demographics_Profile\"", 
+   "WHERE", 
+   "\"Location\"", 
+   "~", 
+   "\"Silt\""
+  ], 
+  "directory": "http:\\\\www.areavibes.com\\silt-co\\demographics\\_sayanc_24\\3\\2018@22:29:47", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "population", 
+   "of", 
+   "Silt", 
+   "", 
+   "CO"
+  ], 
+  "final_sql": "SELECT \"Population\" FROM \"SIlt_Demographics_Profile\" WHERE \"Location\" ~ \"Silt\"", 
+  "id": 124, 
+  "sql_res": [
+   [
+    "2,996"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "26-oct-18", 
+  "long_a": "red dead redemption 2 will release for xbox and ps4 on october 26, 2018", 
+  "ex_valid": false, 
+  "table_type": 2, 
+  "note": "table badly transposed", 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"release\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Red_Dead_Redemption_2_sayanc_4_5_2018@13_27_58", 
+  "question_parsed": [
+   "When", 
+   "does", 
+   "Red", 
+   "Dead", 
+   "Redemption", 
+   "2", 
+   "release"
+  ], 
+  "final_sql": "SELECT \"Release\" FROM \"table_1\"", 
+  "id": 125
+ }, 
+ {
+  "short_a": "may 17, 2018 - may 20, 2018", 
+  "long_a": "disney on ice will perform in san antonio from may 17th to may 18th, 2018.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Date\"", 
+   "FROM", 
+   "Disney_on_Ice", 
+   "WHERE", 
+   "\"City\"", 
+   "~", 
+   "\"San Antonio\";"
+  ], 
+  "directory": "https___www_disneyonice_com_tickets_P10_shayati_13_4_2018@1_48_3", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "when", 
+   "does", 
+   "Disney", 
+   "on", 
+   "Ice", 
+   "perform", 
+   "in", 
+   "San", 
+   "Antonio"
+  ], 
+  "final_sql": "SELECT \"Date\" FROM Disney_on_Ice WHERE \"City\" ~ \"San_Antonio\";", 
+  "id": 126, 
+  "sql_res": [
+   [
+    "May 17, 2018 - May 20, 2018"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "geddy lee", 
+  "long_a": "the lead singer of rush is geddy lee.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"lead_singer\"", 
+   "from", 
+   "BandLeadSingers", 
+   "WHERE", 
+   "\"Band\"", 
+   "~", 
+   "\"Rush\";"
+  ], 
+  "directory": "https___www_ranker_com_crowdranked-list_top-10-lead-singers-in-rock-of-all-time_pavvaru_28_4_2018@12_29_31", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "who", 
+   "is", 
+   "the", 
+   "lead", 
+   "singer", 
+   "of", 
+   "Rush"
+  ], 
+  "final_sql": "SELECT \"lead_singer\" from BandLeadSingers WHERE \"Band\" ~ \"Rush\";", 
+  "id": 127, 
+  "sql_res": [
+   [
+    "Geddy Lee"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "elizabeth ii", 
+  "long_a": "the current queen of england is elizabeth the second.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Incumbent\"", 
+   "FROM", 
+   "\"Table_of_monarchies_in_Europe\"", 
+   "WHERE", 
+   "\"State\"", 
+   "~", 
+   "\"england\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Monarchies_in_Europe_lcallebe_14_5_2018@10_8_49", 
+  "question_parsed": [
+   "OK", 
+   "Google", 
+   "", 
+   "Who", 
+   "is", 
+   "the", 
+   "queen", 
+   "of", 
+   "england"
+  ], 
+  "final_sql": "SELECT \"Incumbent\" FROM \"Table_of_monarchies_in_Europe\" WHERE \"State\" ~ \"england\"", 
+  "id": 128, 
+  "sql_res": [
+   [
+    "Elizabeth II"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "september 18, 1970.", 
+  "long_a": "on september 18, 1970, the american musician jimi hendrix died in london, aged 27 years.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"values\"", 
+   "from", 
+   "Death_of_Jimi_Hendrix", 
+   "WHERE", 
+   "\"keys\"", 
+   "~", 
+   "\"year\";"
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Death_of_Jimi_Hendrix_shayati_6_4_2018@14_18_48", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "year", 
+   "did", 
+   "Jimi", 
+   "Hendrix", 
+   "die"
+  ], 
+  "final_sql": "SELECT \"Date\" FROM \"death_of_jimi_hendrix\"", 
+  "id": 129, 
+  "sql_res": [
+   [
+    "September 18, 1970; 47 years ago (1970-09-18)"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "acer swift 1, dell xps 13 (9360), hp spectre x360 13 (2017), acer aspire e 15 (e5-575-33bm), apple macbook pro 13-inch (2017), lenovo thinkpad x1 carbon (2018), lenovo ideapad miix 520, origin pc evo 15-s, microsoft surface book 2, razer blade stealth (13.3\" qhd+, early 2018)", 
+  "long_a": "the best laptops of 2018 are acer swift 1, dell xps 13 (9360), hp spectre x360 13 (2017), acer aspire e 15 (e5-575-33bm), apple macbook pro 13-inch (2017), lenovo thinkpad x1 carbon (2018), lenovo ideapad miix 520, origin pc evo 15-s, microsoft surface book 2, and razer blade stealth (13.3\" qhd+, early 2018).", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Feature\"", 
+   "FROM", 
+   "\"The_Best_Laptops_of_2018\""
+  ], 
+  "directory": "https:\\\\www.pcmag.com\\article2\\0,2817,2369981,00.asp_sstritte_26\\3\\2018@23:22:50", 
+  "question_parsed": [
+   "alexa", 
+   "what", 
+   "are", 
+   "the", 
+   "best", 
+   "laptops"
+  ], 
+  "final_sql": "SELECT \"product\" FROM \"the_best_laptops_of_2018\"", 
+  "id": 130, 
+  "sql_res": [
+   [
+    "acer swift 1"
+   ], 
+   [
+    "dell xps 13 (9360)"
+   ], 
+   [
+    "hp spectre x360 13 (2017)"
+   ], 
+   [
+    "acer aspire e 15 (e5-575-33bm)"
+   ], 
+   [
+    "apple macbook pro 13-inch (2017)"
+   ], 
+   [
+    "lenovo thinkpad x1 carbon (2018)"
+   ], 
+   [
+    "lenovo ideapad miix 520"
+   ], 
+   [
+    "origin pc evo15-s"
+   ], 
+   [
+    "microsoft surface book 2"
+   ], 
+   [
+    "razer blade stealth (13.3\" qhd+, early 2018)"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "drag down the top of the screen and tap on the flashlight icon.", 
+  "long_a": "the flashlight on samsung s8 can be accessed by dragging down the top of the screen and tapping on the flashlight icon.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Step_1\",", 
+   "\"Step_2\",", 
+   "\"Step_3\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Question\"", 
+   "~", 
+   "\"flashlight\""
+  ], 
+  "directory": "http___www_samsung_com_hk_en_support_skp_faq_1058162_sayanc_25_4_2018@1_51_40", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "can", 
+   "I", 
+   "access", 
+   "my", 
+   "flashlight", 
+   "on", 
+   "my", 
+   "Samsung", 
+   "S8"
+  ], 
+  "final_sql": "SELECT \"Step_1\", \"Step_2\", \"Step_3\" FROM \"Table_1\" WHERE \"Question\" ~ \"flashlight\"", 
+  "id": 131, 
+  "sql_res": [
+   [
+    "1. Drag down from top of screen", 
+    "2. Drag down from bottom edge of notification board", 
+    "3. Tap Torch"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "the phantom of the opera", 
+  "long_a": "the phantom of the opera is the longest running broadway show.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Title\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "ORDER_BY", 
+   "\"Rank\"", 
+   "ASCENDING", 
+   "LIMIT_1"
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_List_of_the_longest-running_Broadway_shows_sayanc_1_5_2018@16_51_47", 
+  "question_parsed": [
+   "What", 
+   "s", 
+   "the", 
+   "longest", 
+   "running", 
+   "Broadway", 
+   "show"
+  ], 
+  "final_sql": "SELECT \"Title\" FROM \"Table_1\" ORDER_BY \"Rank\" ASCENDING LIMIT_1", 
+  "id": 132, 
+  "sql_res": [
+   [
+    "The Phantom of the Opera"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "november 9, 1993", 
+  "long_a": "the album enter the wu tang came out on november 9, 1993.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"release\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Enter_the_Wu-Tang_(36_Chambers)_sayanc_8_5_2018@17_40_28", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "When", 
+   "did", 
+   "Wu", 
+   "Tang", 
+   "s", 
+   "album", 
+   "Enter", 
+   "the", 
+   "Wu", 
+   "Tang", 
+   "release"
+  ], 
+  "final_sql": "SELECT \"Released\" FROM \"table_1\"", 
+  "id": 133, 
+  "sql_res": [
+   [
+    "November\u00a09,\u00a01993"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "commemorates the entry of brigham young and the first group of mormon pioneers into the salt lake valley on july 24, 1847", 
+  "long_a": "pioneer day commemorates the entry of brigham young and the first group of mormon pioneers into the salt lake valley on july 24, 1847.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Pioneer_Day\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"Day\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Pioneer_Day_(Utah)_lcallebe_17_5_2018@15_25_2", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "Pioneer", 
+   "Day"
+  ], 
+  "final_sql": "SELECT \"significance\" FROM \"pioneer_day\"", 
+  "id": 134, 
+  "sql_res": [
+   [
+    "commemorates the entry of brigham young and the first group of mormon pioneers into the salt lake valley on july 24, 1847"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "$11.99 with coupon", 
+  "long_a": "cvs offers passport photo services for a fee of $11.99.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Price\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Type\"", 
+   "~", 
+   "\"passport\""
+  ], 
+  "directory": "https___www_cvs_com_photo_prints_sayanc_19_4_2018@21_15_36", 
+  "question_parsed": [
+   "cvs", 
+   "passport", 
+   "photo", 
+   "charge"
+  ], 
+  "final_sql": "SELECT \"Price\" FROM \"Table_1\" WHERE \"Type\" ~ \"passport\"", 
+  "id": 135, 
+  "sql_res": [
+   [
+    "$11.99 with Coupon"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "coronary heart disease", 
+  "long_a": "coronary heart diseases are the leading cause of death in the u.s..", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Cause_of_Death\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "ORDER_BY", 
+   "\"RANK\"", 
+   "ASCENDING", 
+   "LIMIT_1"
+  ], 
+  "directory": "http:\\\\www.worldlifeexpectancy.com\\united-states-life-expectancy_sayanc_24\\3\\2018@23:20:56", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "leading", 
+   "cause", 
+   "of", 
+   "death", 
+   "in", 
+   "the", 
+   "U", 
+   "S"
+  ], 
+  "final_sql": "SELECT \"Cause_of_Death\" FROM \"Table_1\" ORDER_BY \"RANK\" ASCENDING LIMIT_1", 
+  "id": 136, 
+  "sql_res": [
+   [
+    "Coronary Heart Disease"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "gradually, step by step", 
+  "long_a": "schritt um schritt means step by step.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"English\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"German\"", 
+   "~", 
+   "\"Schritt um Schritt\""
+  ], 
+  "directory": "https___www_dict_cc_?s=Schritt+um+Schritt_sayanc_20_4_2018@17_5_1", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "does", 
+   "Schritt", 
+   "um", 
+   "Schritt", 
+   "translate", 
+   "to"
+  ], 
+  "final_sql": "SELECT \"English\" FROM \"Table_1\" WHERE \"German\" ~ \"Schritt_um_Schritt\"", 
+  "id": 137, 
+  "sql_res": [
+   [
+    "gradually {adv}"
+   ], 
+   [
+    "step by step {adv}"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "lyndon b johnson", 
+  "long_a": "lyndon b johnson became president after john f. kennedy.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "Too complicated.", 
+  "newsql": [
+   "SELECT", 
+   "\"President\"", 
+   "FROM", 
+   "\"List_of_Presidents_of_the_United_States\"", 
+   "WHERE", 
+   "\"Number\"", 
+   ">", 
+   "(", 
+   "SELECT", 
+   "\"Number\"", 
+   "FROM", 
+   "\"List_of_Presidents_of_the_United_States\"", 
+   "WHERE", 
+   "\"President\"", 
+   "~", 
+   "\"John Kennedy\"", 
+   ")", 
+   ")", 
+   "ORDER_BY", 
+   "\"Number\"", 
+   "ASCENDING", 
+   "LIMIT_1"
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_List_of_Presidents_of_the_United_States_lcallebe_17_5_2018@14_30_14", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "who", 
+   "became", 
+   "president", 
+   "after", 
+   "John", 
+   "Kennedy"
+  ], 
+  "final_sql": "SELECT \"President\" FROM \"List_of_Presidents_of_the_United_States\" WHERE \"Number\" > ( SELECT \"Number\" FROM \"List_of_Presidents_of_the_United_States\" WHERE \"President\" ~ \"John_Kennedy\" ) ) ORDER_BY \"Number\" ASCENDING LIMIT_1", 
+  "id": 138
+ }, 
+ {
+  "short_a": "j. cole", 
+  "long_a": "j. cole is the top musician today,", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Name\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "ORDER_BY", 
+   "\"Current_Rank\"", 
+   "ASCENDING", 
+   "LIMIT_1"
+  ], 
+  "directory": "https___www_billboard_com_charts_artist-100_sayanc_1_5_2018@15_32_5", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "who", 
+   "is", 
+   "the", 
+   "top", 
+   "musician", 
+   "of", 
+   "today"
+  ], 
+  "final_sql": "SELECT \"Name\" FROM \"Table_1\" ORDER_BY \"Current_Rank\" ASCENDING LIMIT_1", 
+  "id": 139, 
+  "sql_res": [
+   [
+    "J. Cole"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "105 calories, 1 medium", 
+  "long_a": "there are 105 calories in 1 medium banana.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Calories\",", 
+   "\"Amount\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Fruit\"", 
+   "~", 
+   "\"banana\""
+  ], 
+  "directory": "https___www_popsugar_com_fitness_Calories-Fresh-Fruit-8500460_sayanc_25_4_2018@2_58_22", 
+  "question_parsed": [
+   "How", 
+   "many", 
+   "calories", 
+   "in", 
+   "a", 
+   "banana"
+  ], 
+  "final_sql": "SELECT \"Calories\", \"Amount\" FROM \"Table_1\" WHERE \"Fruit\" ~ \"banana\"", 
+  "id": 140, 
+  "sql_res": [
+   [
+    "105", 
+    "1 medium"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "g-eazy & halsey", 
+  "long_a": "the song him & i is sung by g-eazy and halsey.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Artist\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Song\"", 
+   "~", 
+   "\"him and I\""
+  ], 
+  "directory": "https:\\\\www.billboard.com\\charts\\hot-100\\2018-03-17_sstritte_21\\3\\2018@22:13:36", 
+  "question_parsed": [
+   "Who", 
+   "sings", 
+   "the", 
+   "song", 
+   "him", 
+   "and", 
+   "I"
+  ], 
+  "final_sql": "SELECT \"Artist\" FROM \"Table_1\" WHERE \"Song\" ~ \"him_and_I\"", 
+  "id": 141, 
+  "sql_res": [
+   [
+    "G-Eazy & Halsey"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "june 14, 1946", 
+  "long_a": "donald trump's birthday is on june 14, 1946.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Donald_Trump\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"birthday\""
+  ], 
+  "directory": "https___www_google_com_search?q=donald+trump&rlz=1C5CHFA_enUS760US760&oq=donald+trump&aqs=chrome__69i57j69i60l2j0l3_2967j0j9&sourceid=chrome&ie=UTF-8_lcallebe_18_4_2018@10_6_40", 
+  "question_parsed": [
+   "When", 
+   "is", 
+   "Donal", 
+   "Trumps", 
+   "birthday"
+  ], 
+  "final_sql": "SELECT \"born\" FROM \"donald_trump\"", 
+  "id": 142, 
+  "sql_res": [
+   [
+    "june 14, 1946 (age 71\u00a0years), jamaica hospital medical center, new york city, ny"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "giant ancient line art", 
+  "long_a": "nazca lines are pieces of giant ancient land art drawn in the peruvian desert so large that they can only be fully seen from the sky.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Description\"", 
+   "from", 
+   "\"Unusual_Attractions_in_Nazca\"", 
+   "WHERE", 
+   "\"Attraction\"", 
+   "~", 
+   "\"lines\""
+  ], 
+  "directory": "https:\\\\www.atlasobscura.com\\things-to-do\\nazca-peru?sort=recent_sstritte_25\\3\\2018@23:4:8", 
+  "question_parsed": [
+   "What", 
+   "are", 
+   "nazca", 
+   "lines"
+  ], 
+  "final_sql": "SELECT \"Description\" from \"Unusual_Attractions_in_Nazca\" WHERE \"Attraction\" ~ \"lines\"", 
+  "id": 143, 
+  "sql_res": [
+   [
+    "giant ancient line art drawn in the peruvian desert so large that it can only be fully seen from the sky."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "30\u00b0, partly cloudy", 
+  "long_a": "it is 30\u00b0 and partly cloudy in bloomsburg, pa", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Temperature\",", 
+   "\"Description\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "ORDER_BY", 
+   "\"Date\"", 
+   "ASCENDING", 
+   "LIMIT_1"
+  ], 
+  "directory": "https:\\\\www.accuweather.com\\en\\us\\philadelphia-pa\\19102\\weather-forecast\\350540_sayanc_24\\3\\2018@22:17:40", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "weather", 
+   "in", 
+   "Philadelphia", 
+   "", 
+   "PA"
+  ], 
+  "final_sql": "SELECT \"Temperature\", \"Description\" FROM \"Table_1\" ORDER_BY \"Date\" ASCENDING LIMIT_1", 
+  "id": 144, 
+  "sql_res": [
+   [
+    "30\u00b0", 
+    "Partly cloudy"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "False", 
+  "long_a": "taylor swift will not be coming to dallas.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "In this particular case we are looking only for exact match.", 
+  "newsql": [
+   "SELECT", 
+   "\"Date\",", 
+   "\"Market\"", 
+   "FROM", 
+   "Taylor_Swift", 
+   "WHERE", 
+   "\"Market\"", 
+   "~", 
+   "\"Dallas\";"
+  ], 
+  "directory": "http___www_star-telegram_com_sports_nfl_dallas-cowboys_article184314943_html_shayati_13_4_2018@0_53_44", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "when", 
+   "is", 
+   "taylor", 
+   "swift", 
+   "coming", 
+   "to", 
+   "dallas"
+  ], 
+  "final_sql": "SELECT \"Date\", \"Market\" FROM Taylor_Swift WHERE \"Market\" ~ \"Dallas\";", 
+  "id": 145
+ }, 
+ {
+  "short_a": "mechanical turk automatically grants the masters qualification based on statistical models that analyze worker performance based on several requester-provided and marketplace data points. those who score the highest across these key data points are granted the masters qualification. workers cannot apply for this status. to receive the masters qualification, try tasks across a variety of requesters and consistently submit a lot of high quality work.", 
+  "long_a": "mechanical turk automatically grants the masters qualification based on statistical models that analyze worker performance based on several requester-provided and marketplace data points. those who score the highest across these key data points are granted the masters qualification. workers cannot apply for this status. to receive the masters qualification, try tasks across a variety of requesters and consistently submit a lot of high quality work.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "Here we retreive 2 cells, the second one is about master qualification being revoked. We want only the 1st cell retreived.", 
+  "newsql": [
+   "SELECT", 
+   "\"Answer\"", 
+   "FROM", 
+   "\"MTurk_Master_Worker\"", 
+   "WHERE", 
+   "\"Question\"", 
+   "~", 
+   "\"masters\""
+  ], 
+  "directory": "https___www_mturk_com_worker_help#what_is_master_worker_sayanc_27_4_2018@12_35_42", 
+  "question_parsed": [
+   "when", 
+   "can", 
+   "i", 
+   "get", 
+   "masters", 
+   "on", 
+   "amazon", 
+   "turk"
+  ], 
+  "final_sql": "SELECT \"Answer\" FROM \"MTurk_Master_Worker\" WHERE \"Question\" ~ \"masters\"", 
+  "id": 146
+ }, 
+ {
+  "short_a": "1 cup = 8 fl oz", 
+  "long_a": "there are 8 fluid ounces in 1 cup.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Fluid_Ounces\"", 
+   "FROM", 
+   "Ounces_to_Cups", 
+   "WHERE", 
+   "\"Cups\"", 
+   "~", 
+   "\"1 cup\";"
+  ], 
+  "directory": "http___dish_allrecipes_com_commonly-used-measurements-equivalents__shayati_17_4_2018@16_48_41", 
+  "question_parsed": [
+   "How", 
+   "many", 
+   "ounces", 
+   "in", 
+   "1", 
+   "cup"
+  ], 
+  "final_sql": "SELECT \"Fluid_Ounces\" FROM Ounces_to_Cups WHERE \"Cups\" ~ \"1_cup\";", 
+  "id": 147, 
+  "sql_res": [
+   [
+    "8 fluid oz. (1/2 pint)"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "horned nerite snails can grow up to 1\" but are often found at a maximum size of 3/4\". they are suitable for medium sized aquariums.", 
+  "long_a": "horned nerite snails can grow up to 1\" but are often found at a maximum size of 3/4\". they are suitable for medium sized aquariums.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Description\"", 
+   "FROM", 
+   "Horned_Nerite_Snail", 
+   "WHERE", 
+   "\"Info\"", 
+   "~", 
+   "\"big\";"
+  ], 
+  "directory": "https___aquariuminfo_org_hornedneritesnail_html_shayati_15_5_2018@9_35_16", 
+  "question_parsed": [
+   "How", 
+   "big", 
+   "do", 
+   "horned", 
+   "nerite", 
+   "snails", 
+   "get"
+  ], 
+  "final_sql": "SELECT \"Max_Size_~1\" FROM \"Horned_Nerite_Snail\"", 
+  "id": 148, 
+  "sql_res": [
+   [
+    "Horned Nerite Snails can grow up to 1\" but are often found at a maximum size of 3/4\". They are suitable for medium sized aquariums."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "february 16, 2018", 
+  "long_a": "the black panther movie premiers on february 16, 2018.", 
+  "ex_valid": false, 
+  "table_type": 2, 
+  "note": "Table badly transposed.", 
+  "newsql": [
+   "SELECT", 
+   "\"value\"", 
+   "FROM", 
+   "Black_Panther", 
+   "WHERE", 
+   "\"key\"", 
+   "~", 
+   "\"premier\";"
+  ], 
+  "directory": "http___marvelcinematicuniverse_wikia_com_wiki_Black_Panther_(film)_shayati_31_5_2018@11_57_18", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "when", 
+   "is", 
+   "the", 
+   "premier", 
+   "of", 
+   "the", 
+   "Black", 
+   "Panther", 
+   "movie"
+  ], 
+  "final_sql": "SELECT \"Release_Date\" FROM \"black_panther\"", 
+  "id": 149
+ }, 
+ {
+  "short_a": "The first decentralized ledger currency. Cryptocurrency with the most famous, popular, notable and highest market capitalization.", 
+  "long_a": "the first decentralized ledger currency. cryptocurrency with the most famous, popular, notable and highest market capitalization.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Description\"", 
+   "FROM", 
+   "\"Cryptocurrencies\"", 
+   "WHERE", 
+   "\"currency\"", 
+   "~", 
+   "\"bitcoin\";"
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_List_of_cryptocurrencies_pavvaru_13_4_2018@0_9_56", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "a", 
+   "bitcoin"
+  ], 
+  "final_sql": "SELECT \"Description\" FROM \"Cryptocurrencies\" WHERE \"currency\" ~ \"bitcoin\";", 
+  "id": 150, 
+  "sql_res": [
+   [
+    "2009\n \nActive\n \nBitcoin\n \nBTC,[4][5] XBT, \u20bf\n \nSatoshi Nakamoto[nt 1]\n \nSHA-256d[6][7]\n \nC++[8]\n \nPoW[7][9]\n \nThe first decentralized ledger currency. Cryptocurrency with the most famous, popular, notable and highest market capitalization."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "frida's", 
+  "long_a": "one option for vegan pizza is frida's.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "This example is broken. The question asks for something vegan, but the labeler returned a vegetarian restaurant. There is no vegan pizza place in this table... ", 
+  "newsql": [
+   "SELECT", 
+   "\"Name\"", 
+   "FROM", 
+   "St_Charles_Vegan", 
+   "WHERE", 
+   "\"Category_List_Text\"", 
+   "~", 
+   "\"vegan\"", 
+   "AND", 
+   "\"Snippet\"", 
+   "LIKE", 
+   "\"%%Pizza%\""
+  ], 
+  "directory": "https___www_yelp_com_search?find_desc=Vegan+Restaurants&find_loc=St+Charles%2C+Saint+Louis%2C+MO_xiyangz_15_5_2018@13_3_32", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "are", 
+   "the", 
+   "vegan", 
+   "pizza", 
+   "spots", 
+   "in", 
+   "St", 
+   "", 
+   "Charles"
+  ], 
+  "final_sql": "SELECT \"Name\" FROM St_Charles_Vegan WHERE \"Category_List_Text\" ~ \"vegan\" AND \"Snippet\" ~ \"Pizza\"", 
+  "id": 151
+ }, 
+ {
+  "short_a": "yes", 
+  "long_a": "the groundhog did see its shadow today.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Shadow\"", 
+   "FROM", 
+   "Groundhog_Day", 
+   "ORDER_BY", 
+   "\"Year\"", 
+   "DESCENDING", 
+   "LIMIT_1"
+  ], 
+  "directory": "http___www_stormfax_com_ghogday_htm_xiyangz_25_4_2018@1_5_51", 
+  "question_parsed": [
+   "Alexa", 
+   "did", 
+   "the", 
+   "groundhog", 
+   "see", 
+   "its", 
+   "shadow", 
+   "today"
+  ], 
+  "final_sql": "SELECT \"Shadow\" FROM Groundhog_Day ORDER_BY \"Year\" DESCENDING LIMIT_1", 
+  "id": 152, 
+  "sql_res": [
+   [
+    "Shadow"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "mating takes place in the water in a variety of postures.\nbreeding herds consist of one cow in estrus accompanied by several bulls. an estrus female can be pursued for weeks by several males. the cow often twists and turns violently, apparently to escape her suitors. the bulls meanwhile attempt to remain adjacent to her, presumably competing with each other to become the first to mate with her. while in estrous, cows may mate with several bulls. cows do not form permanent bonds with bulls.", 
+  "long_a": "a single female manatee, referred to as a cow, is bred by a large herd of mating males. mating occurs all year long with a peak in spring and summer months.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Description\"", 
+   "FROM", 
+   "Manatee", 
+   "WHERE", 
+   "\"Title\"", 
+   "~", 
+   "\"mate\";"
+  ], 
+  "directory": "https___seaworld_org_en_animal-info_animal-infobooks_manatee_reproduction_shayati_16_4_2018@10_59_47", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "do", 
+   "manatees", 
+   "mate"
+  ], 
+  "final_sql": "SELECT \"Description\" FROM Manatee WHERE \"Title\" ~ \"mate\";", 
+  "id": 153, 
+  "sql_res": [
+   [
+    "Mating takes place in the water in a variety of postures.; Breeding herds consist of one cow in estrus accompanied by several bulls. An estrus female can be pursued for weeks by several males. The cow often twists and turns violently, apparently to escape her suitors. The bulls meanwhile attempt to remain adjacent to her, presumably competing with each other to become the first to mate with her.; While in estrous, cows may mate with several bulls. Cows do not form permanent bonds with bulls."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "cobb", 
+  "long_a": "kennesaw, ga is in cobb county.", 
+  "ex_valid": false, 
+  "table_type": 2, 
+  "note": "Badly transposed table.", 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"georgia\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Kennesaw,_Georgia_sayanc_5_5_2018@13_8_32", 
+  "question_parsed": [
+   "where", 
+   "is", 
+   "kennesaw", 
+   "georgia"
+  ], 
+  "final_sql": "SELECT \"County;_County\" FROM \"table_1\"", 
+  "id": 154
+ }, 
+ {
+  "short_a": "26-mar", 
+  "long_a": "dartmouth's spring quarter starts on march 26.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Date\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Event\"", 
+   "~", 
+   "\"spring quarter begin\""
+  ], 
+  "directory": "http___www_dartmouth_edu_~reg_calendar_term_17_18_term_calendars_html#spring18_sayanc_3_5_2018@17_53_23", 
+  "question_parsed": [
+   "When", 
+   "does", 
+   "Dartmouth", 
+   "s", 
+   "spring", 
+   "quarter", 
+   "begin"
+  ], 
+  "final_sql": "SELECT \"Date\" FROM \"Table_1\" WHERE \"Event\" ~ \"spring_quarter_begin\"", 
+  "id": 155, 
+  "sql_res": [
+   [
+    "March 26"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "$27,775", 
+  "long_a": "an se trip with in good condition costs around $14,000", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Price\"", 
+   "FROM", 
+   "\"2019_Ford_Fusion\"", 
+   "WHERE", 
+   "\"Configuration\"", 
+   "~", 
+   "\"SE\""
+  ], 
+  "directory": "https___www_google_com_search?q=Ford+Fusion+Pricing&rlz=1C5CHFA_enUS760US760&oq=Ford+Fusion+Pricing&aqs=chrome__69i57j69i60l2j0l3_700j0j4&sourceid=chrome&ie=UTF-8_lcallebe_5_6_2018@14_38_56", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "much", 
+   "does", 
+   "a", 
+   "2016", 
+   "ford", 
+   "fusion", 
+   "SE", 
+   "cost"
+  ], 
+  "final_sql": "SELECT \"Price\" FROM \"2019_Ford_Fusion\" WHERE \"Configuration\" ~ \"SE\"", 
+  "id": 156, 
+  "sql_res": [
+   [
+    "$27,775"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "5", 
+  "long_a": "the steelers are number 5 on the nfl power rankings.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Rank\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Team\"", 
+   "LIKE", 
+   "\"Steeler\""
+  ], 
+  "directory": "http___www_espn_com_nfl_story___page_NFLpowerrankingsx180327_2018-nfl-power-rankings-risers-fallers-free-agency_sayanc_20_4_2018@18_19_41", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "where", 
+   "are", 
+   "the", 
+   "Steeler", 
+   "on", 
+   "the", 
+   "NFL", 
+   "Power", 
+   "Rankings"
+  ], 
+  "final_sql": "SELECT \"Rank\" FROM \"Table_1\" WHERE \"Team\" ~ \"Steeler\"", 
+  "id": 157, 
+  "sql_res": [
+   [
+    "5."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "bmi >40", 
+  "long_a": "one is consedered morbidely obese when their bmi is above 40", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"BMI\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Classification\"", 
+   "~", 
+   "\"morbid\";"
+  ], 
+  "directory": "http:\\\\www.newyorkbariatrics.com\\body-mass-index\\_rolivier_23\\3\\2018@11:3:56", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "morbid", 
+   "obesity"
+  ], 
+  "final_sql": "SELECT \"BMI\" FROM \"Table_1\" WHERE \"Classification\" ~ \"morbid\";", 
+  "id": 158, 
+  "sql_res": [
+   [
+    ">40"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "lisbon", 
+  "long_a": "the capital of portugal is lisbon.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Capital_City\"", 
+   "FROM", 
+   "National_Capitals", 
+   "WHERE", 
+   "\"Country\"", 
+   "~", 
+   "\"Portugal\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_List_of_national_capitals_in_alphabetical_order_xiyangz_16_4_2018@2_23_27", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "capital", 
+   "of", 
+   "Portugal"
+  ], 
+  "final_sql": "SELECT \"Capital_City\" FROM National_Capitals WHERE \"Country\" ~ \"Portugal\"", 
+  "id": 159, 
+  "sql_res": [
+   [
+    "Lisbon"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "6-jul-18", 
+  "long_a": "ant man 2 releases in theaters on july 6, 2018", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Property\"", 
+   "LIKE", 
+   "\"come to\""
+  ], 
+  "directory": "http:\\\\www.imdb.com\\title\\tt5095030\\_sayanc_25\\3\\2018@16:27:6", 
+  "question_parsed": [
+   "When", 
+   "does", 
+   "Ant", 
+   "Man", 
+   "2", 
+   "come", 
+   "to", 
+   "theaters"
+  ], 
+  "final_sql": "SELECT \"Release_Date:\" FROM \"table_1\"", 
+  "id": 160, 
+  "sql_res": [
+   [
+    "6 July 2018 (USA)"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "75\u00b0, clear", 
+  "long_a": "it is 75\u00b0 f and clear in waycross, ga right now.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Temperature\",", 
+   "\"Forecast\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Date\"", 
+   "LIKE", 
+   "\"%%current%\""
+  ], 
+  "directory": "https___www_accuweather_com_en_us_waycross-ga_31501_weather-forecast_332523_sayanc_4_5_2018@21_35_36", 
+  "question_parsed": [
+   "what", 
+   "is", 
+   "the", 
+   "weather", 
+   "in", 
+   "waycross", 
+   "ga"
+  ], 
+  "final_sql": "SELECT \"Temperature\", \"Forecast\" FROM \"Table_1\" WHERE \"Date\" LIKE \"%%current%\"", 
+  "id": 161, 
+  "sql_res": [
+   [
+    "75\u00b0", 
+    "Clear"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "mon ami gabi", 
+  "long_a": "mon ami gabi is a good place to eat in las vegas.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Biz_Name_Click\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "ORDER_BY", 
+   "\"Indexed_Biz\"", 
+   "ASCENDING", 
+   "LIMIT_1"
+  ], 
+  "directory": "https___www_yelp_com_search?find_desc=&find_loc=Las+Vegas%2C+NV&ns=1_Andrew ID Here_19_4_2018@14_36_26", 
+  "question_parsed": [
+   "What", 
+   "are", 
+   "the", 
+   "best", 
+   "places", 
+   "to", 
+   "eat", 
+   "in", 
+   "Vegas"
+  ], 
+  "final_sql": "SELECT \"Biz_Name_Click\" FROM \"Table_1\" ORDER_BY \"Indexed_Biz\" ASCENDING LIMIT_1", 
+  "id": 162, 
+  "sql_res": [
+   [
+    "Mon Ami Gabi"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "6:30 p.m. et", 
+  "long_a": "the kickoff for super bowl lii is scheduled for 6:30 p.m. et on sunday, feb. 4.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"How_to_watch_Super_Bowl_52\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"time\""
+  ], 
+  "directory": "https___www_cbssports_com_nfl_news_what-time-does-super-bowl-2018-start-when-eagles-patriots-kicks-off-tv-channel__sayanc_12_4_2018@0_53_33", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "time", 
+   "does", 
+   "the", 
+   "Super", 
+   "Bowl", 
+   "start"
+  ], 
+  "final_sql": "SELECT \"time:\" FROM \"Superbowl_2018\"", 
+  "id": 163, 
+  "sql_res": [
+   [
+    "time: 6:30 p.m. et"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "wooden sheathing in which the boards are rabbeted so that the edges of each board lap over the edges of adjacent boards to make a flush joint", 
+  "long_a": "a shiplap is a wooden sheathing in which the boards are rabbeted so that the edges of each board lap over the edges of adjacent boards to make a flush joint.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "shiplap", 
+   "WHERE", 
+   "\"Key\"", 
+   "LIKE", 
+   "\"definition\""
+  ], 
+  "directory": "https___www_merriam-webster_com_dictionary_shiplap_sayanc_1_5_2018@16_9_32", 
+  "question_parsed": [
+   "Siri", 
+   "", 
+   "what", 
+   "is", 
+   "shiplap"
+  ], 
+  "final_sql": "SELECT \"definition_of_shiplap\" FROM \"shiplap\"", 
+  "id": 164, 
+  "sql_res": [
+   [
+    " : wooden sheathing in which the boards are rabbeted so that the edges of each board lap over the edges of adjacent boards to make a flush joint"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "july 9th, 2016", 
+  "long_a": "lesnar's last fight was a victory over mark hunt at ufc 200 on july 9th, 2016.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Date\"", 
+   "FROM", 
+   "\"Brock_Lesnar_Tabe\"", 
+   "WHERE", 
+   "((\"Fighter_1\"", 
+   "~", 
+   "\"Brock Lesnar\"", 
+   ")", 
+   "OR", 
+   "(\"Fighter_2\"", 
+   "~", 
+   "\"Brock Lesnar\"", 
+   ")", 
+   ")", 
+   "AND", 
+   "\"Event_Name_1\"", 
+   "~", 
+   "\"UFC\"", 
+   "ORDER_BY", 
+   "\"Date\"", 
+   "DESCENDING", 
+   "LIMIT_1"
+  ], 
+  "directory": "http:\\\\www.ufc.com\\fighter\\Brock-Lesnar?id=_zexuano_7\\4\\2018@0:9:51", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "year", 
+   "was", 
+   "Brock", 
+   "Lesnar", 
+   "s", 
+   "last", 
+   "UFC", 
+   "fight"
+  ], 
+  "final_sql": "SELECT \"Date\" FROM \"Brock_Lesnar_Tabe\" WHERE ( ( \"Fighter_1\" ~ \"Brock_Lesnar\" ) OR ( \"Fighter_2\" ~ \"Brock_Lesnar\" ) ) AND \"Event_Name_1\" ~ \"UFC\" ORDER_BY \"Date\" DESCENDING LIMIT_1", 
+  "id": 165, 
+  "sql_res": [
+   [
+    "Jul 9, 2016"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "dancing with the stars: athletes", 
+  "long_a": "dancing with the stars: athletes is the most popular tv show right now.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Name\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "ORDER BY", 
+   "\"Rank\"", 
+   "ASCENDING", 
+   "LIMIT_1"
+  ], 
+  "directory": "http___www_tvguide_com_tvshows__sayanc_1_5_2018@15_26_58", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "the", 
+   "most", 
+   "popular", 
+   "tv", 
+   "show", 
+   "that", 
+   "people", 
+   "are", 
+   "watching"
+  ], 
+  "final_sql": "SELECT \"Name\" FROM \"Table_1\" ORDER BY \"Rank\" ASCENDING LIMIT_1", 
+  "id": 166, 
+  "sql_res": [
+   [
+    "Dancing with the Stars: Athletes"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "1. click the account menu down arrow at the top right of any facebook page in your web browser 2. select \u2018settings\u2019 3. choose \u2018general\u2019 in the left column 4. click \u2018manage your account\u2019 5. press \u2018deactivate your account\u2019, and then follow the steps to confirm your decision read more at http://www.trustedreviews.com/news/how-to-delete-facebook-account-2950145#kvduph6e7ymlzvhb.99", 
+  "long_a": "1. click the account menu down arrow at the top right of any facebook page in your web browser 2. select \u2018settings\u2019 3. choose \u2018general\u2019 in the left column 4. click \u2018manage your account\u2019 5. press \u2018deactivate your account\u2019, and then follow the steps to confirm your decision read more at http://www.trustedreviews.com/news/how-to-delete-facebook-account-2950145#kvduph6e7ymlzvhb.99", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Steps\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"How_to\"", 
+   "~", 
+   "\"delete facebook\""
+  ], 
+  "directory": "http___www_trustedreviews_com_news_how-to-delete-facebook-account-2950145_sayanc_12_4_2018@0_33_52", 
+  "question_parsed": [
+   "How", 
+   "do", 
+   "I", 
+   "delete", 
+   "my", 
+   "facebook", 
+   "account"
+  ], 
+  "final_sql": "SELECT \"Steps\" FROM \"Table_1\" WHERE \"How_to\" ~ \"delete_facebook\"", 
+  "id": 167, 
+  "sql_res": [
+   [
+    "1. Click the account menu down arrow at the top right of any Facebook page in your web browser\n 2. Click \u2018Download a copy of your Facebook data\u2019 at the bottom of your General Account Settings\n 3. Choose \u2018Start My Archive\u2019"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "vacuous.", 
+  "long_a": "the synomym of empty is vacuous.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Values\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"KEY\"", 
+   "LIKE", 
+   "\"synonym\""
+  ], 
+  "directory": "http___www_dictionary_com_browse_empty?s=t_sayanc_11_4_2018@1_36_32", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "a", 
+   "synonym", 
+   "for", 
+   "empty"
+  ], 
+  "final_sql": "SELECT \"Synonyms\" FROM \"table_1\"", 
+  "id": 168, 
+  "sql_res": [
+   [
+    "vacuous."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "comedy; nbc", 
+  "long_a": "it is a comedy show that airs on nbc.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"Genre\"", 
+   "OR", 
+   "\"Key\"", 
+   "~", 
+   "\"Original Network\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_A_P__Bio_sayanc_13_4_2018@20_48_45", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "AP", 
+   "BIo", 
+   "about"
+  ], 
+  "final_sql": "SELECT \"Genre\" FROM \"table_1\"", 
+  "id": 169, 
+  "sql_res": [
+   [
+    "Comedy; Comedy"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "illinois", 
+  "long_a": "the 217 area code corresponds to illinois.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"State\"", 
+   "FROM", 
+   "\"United_States_Area_Codes\"", 
+   "WHERE", 
+   "\"Area_code\"", 
+   "~", 
+   "\"217\""
+  ], 
+  "directory": "https___www_allareacodes_com_area_code_listings_by_state_htm_lcallebe_17_5_2018@14_55_5", 
+  "question_parsed": [
+   "Where", 
+   "is", 
+   "the", 
+   "217", 
+   "area", 
+   "code"
+  ], 
+  "final_sql": "SELECT \"State\" FROM \"United_States_Area_Codes\" WHERE \"Area_code\" ~ \"217\"", 
+  "id": 170, 
+  "sql_res": [
+   [
+    "Illinois"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "44.6", 
+  "long_a": "president trump currently has an approval rating of 44.6%", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Approve\"", 
+   "FROM", 
+   "\"President_Trump_Job_Approval\"", 
+   "WHERE", 
+   "\"Poll\"", 
+   "~", 
+   "\"rating\""
+  ], 
+  "directory": "https___dyn_realclearpolitics_com_epolls_other_president_trump_job_approval-6179_html_lcallebe_5_6_2018@14_34_53", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "show", 
+   "me", 
+   "president", 
+   "Trump", 
+   "s", 
+   "approval", 
+   "rating"
+  ], 
+  "final_sql": "SELECT \"Approve\" FROM \"President_Trump_Job_Approval\" WHERE \"Poll\" ~ \"rating\"", 
+  "id": 171, 
+  "sql_res": [
+   [
+    "44.6"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "august 8, 2015(2015-08-08) (aged 43) brooklyn, new york, new york, u.s.", 
+  "long_a": "rapper sean price died on august 8 2015 of unknown causes", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"die\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Sean_Price_sayanc_8_5_2018@17_43_59", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "when", 
+   "did", 
+   "Sean", 
+   "price", 
+   "die"
+  ], 
+  "final_sql": "SELECT \"Died\" FROM \"table_1\"", 
+  "id": 172, 
+  "sql_res": [
+   [
+    "August 8, 2015(2015-08-08) (aged 43)\n Brooklyn, New York, New York, U.S."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "29,029 feet", 
+  "long_a": "mount everest is 29,029 feet tall.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Height_[ft]\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Mountain\"", 
+   "~", 
+   "\"Mount Everest\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_List_of_highest_mountains_on_Earth_sayanc_26_4_2018@2_41_32", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "high", 
+   "is", 
+   "Mount", 
+   "Everest"
+  ], 
+  "final_sql": "SELECT \"Height_[ft]\" FROM \"Table_1\" WHERE \"Mountain\" ~ \"Mount_Everest\"", 
+  "id": 173, 
+  "sql_res": [
+   [
+    "29,029"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "march 20, 12:15 p.m. edt", 
+  "long_a": "spring this year begin on march 20, at 12:15 p.m. edt.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Seasons_of_2018\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"spring\""
+  ], 
+  "directory": "https___www_almanac_com_content_first-day-seasons_lcallebe_8_6_2018@16_42_31", 
+  "question_parsed": [
+   "Alex", 
+   "", 
+   "when", 
+   "does", 
+   "spring", 
+   "start", 
+   "this", 
+   "year"
+  ], 
+  "final_sql": "SELECT \"spring_equinox\" FROM \"seasons_of_2018\"", 
+  "id": 174, 
+  "sql_res": [
+   [
+    "march 20, 12:15 p.m.  edt"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "11-feb", 
+  "long_a": "season 12 for diablo 3 ends on february 11 for north america", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"End_Date\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Season\"", 
+   "~", 
+   "\"12\""
+  ], 
+  "directory": "http:\\\\diablo.wikia.com\\wiki\\Season_sayanc_25\\3\\2018@14:13:53", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "when", 
+   "does", 
+   "Diablo", 
+   "3", 
+   "season", 
+   "12", 
+   "end"
+  ], 
+  "final_sql": "SELECT \"End_Date\" FROM \"Table_1\" WHERE \"Season\" ~ \"12\"", 
+  "id": 175, 
+  "sql_res": [
+   [
+    "11 Feb 2018"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "west end antiques mall", 
+  "long_a": "west end antiques mall is an antiques store nearby.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "Changed `LIKE` with `~`. But it does not seem like a good ~ query: `SELECT \"Biz_Name_Click\" FROM \"Table_1\" WHERE \"Search_Result\" ~ \"1.\"` `1` never appears in the question (`local antiques stores`), and the query does not return the expected answer if we change `1.` with just `1`.  Besides, the question asks for stores (plural) but we return only one name. So I reject this example.", 
+  "directory": "https___www_yelp_com_search?find_desc=Antique+Stores&find_loc=Richmond%2C+VA_sayanc_27_4_2018@3_13_25", 
+  "newsql": [
+   "SELECT", 
+   "\"Biz_Name_Click\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Search_Result\"", 
+   "LIKE", 
+   "\"%%1.%\""
+  ], 
+  "question_parsed": [
+   "local", 
+   "antiques", 
+   "stores"
+  ], 
+  "final_sql": "SELECT \"Biz_Name_Click\" FROM \"Table_1\" WHERE \"Search_Result\" ~ \"1.\"", 
+  "id": 176, 
+  "sql_res": [
+   [
+    "West End Antiques Mall"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "bayfront park, miami", 
+  "long_a": "the ultra music festival is held at bayfront park in miami, florida.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Ultra_Music_Festival\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"where is\""
+  ], 
+  "directory": "https___www_google_com_search?q=ultra+music+festival&rlz=1C5CHFA_enUS760US760&oq=ultra+music+festival&aqs=chrome__69i57j0l5_4390j0j4&sourceid=chrome&ie=UTF-8_lcallebe_7_5_2018@13_24_21", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "where", 
+   "is", 
+   "the", 
+   "Ultra", 
+   "Music", 
+   "Festival", 
+   "held"
+  ], 
+  "final_sql": "SELECT \"location\" FROM \"ultra_music_festival\"", 
+  "id": 177, 
+  "sql_res": [
+   [
+    "bayfront park, miami, fl"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "lincoln county, nevada, u.s.", 
+  "long_a": "area 51, also known as homey airport, is located at the edwards air force base in lincoln county, nevada.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "from", 
+   "\"Area_51_-_Homey_Airport\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"where is\""
+  ], 
+  "directory": "https:\\\\en.wikipedia.org\\wiki\\Area_51_sstritte_29\\3\\2018@12:30:2", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "where", 
+   "is", 
+   "Area", 
+   "51"
+  ], 
+  "final_sql": "SELECT \"location\" FROM \"area_51_-_homey_airport\"", 
+  "id": 178, 
+  "sql_res": [
+   [
+    "lincoln county , nevada , u.s."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "supposedly predicts the arrival of spring", 
+  "long_a": "the groundhog supposedly predicts the arrival of spring.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Groundhog_Day\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"Significance\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Groundhog_Day_lcallebe_16_5_2018@13_57_26", 
+  "question_parsed": [
+   "What", 
+   "does", 
+   "the", 
+   "groundhog", 
+   "predict", 
+   "again"
+  ], 
+  "final_sql": "SELECT \"significance\" FROM \"groundhog_day\"", 
+  "id": 179, 
+  "sql_res": [
+   [
+    "supposedly predicts the arrival of spring"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "avi avrad, toybiz, and marve", 
+  "long_a": "avi avrad, toybiz, and marvel entertainment group founded marvel studios.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"KEY\"", 
+   "~", 
+   "\"created\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Marvel_Studios_sayanc_13_4_2018@1_3_23", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "who", 
+   "created", 
+   "Marvel", 
+   "Studios"
+  ], 
+  "final_sql": "SELECT \"Founder\" FROM \"table_1\"", 
+  "id": 180, 
+  "sql_res": [
+   [
+    "Avi Arad; ToyBiz; Marvel Entertainment Group"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "1-oct-17", 
+  "long_a": "the eighth season of the animated comedy series bob's burgers began airing on fox in the united states on october 1, 2017.[", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"when is\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Bob%27s_Burgers_(season_8)_sayanc_13_4_2018@20_54_5", 
+  "question_parsed": [
+   "When", 
+   "is", 
+   "Bob", 
+   "s", 
+   "Burgers", 
+   "going", 
+   "to", 
+   "be", 
+   "om"
+  ], 
+  "final_sql": "SELECT \"Original_release\" FROM \"table_1\"", 
+  "id": 181, 
+  "sql_res": [
+   [
+    "October 1, 2017"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "closed", 
+  "long_a": "hobby lobby is closed on sundays.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Hours\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Day\"", 
+   "LIKE", 
+   "\"Sundays\""
+  ], 
+  "directory": "http___hours_ninja_hobby-lobby-hours-of-operation__sayanc_2_5_2018@20_57_55", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "is", 
+   "Hobby", 
+   "Lobby", 
+   "open", 
+   "on", 
+   "Sundays"
+  ], 
+  "final_sql": "SELECT \"Hours\" FROM \"Table_1\" WHERE \"Day\" ~ \"Sundays\"", 
+  "id": 182, 
+  "sql_res": [
+   [
+    "closed"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "chickpeas, tahini", 
+  "long_a": "key ingredients in hummus ar chickpeas and tahini", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"values\"", 
+   "FROM", 
+   "Hummus", 
+   "WHERE", 
+   "\"keys\"", 
+   "LIKE", 
+   "\"key ingredients\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Hummus_shayati_8_4_2018@21_55_30", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "are", 
+   "the", 
+   "key", 
+   "ingredients", 
+   "in", 
+   "Hummus"
+  ], 
+  "final_sql": "SELECT \"Main_ingredients\" FROM \"hummus\"", 
+  "id": 183, 
+  "sql_res": [
+   [
+    "Chickpeas, tahini"
+   ], 
+   [
+    ""
+   ]
+  ]
+ }, 
+ {
+  "short_a": "2,279 mi", 
+  "long_a": "yuma, az is 2,279 mi from pittsburgh pa.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Pittsburgh,_PA_to_Yuma,_AZ\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "LIKE", 
+   "\"%%Distance%\""
+  ], 
+  "directory": "https___www_distance-cities_com_distance-pittsburgh-pa-to-yuma-az_sayanc_3_5_2018@17_22_24", 
+  "question_parsed": [
+   "Google", 
+   "", 
+   "How", 
+   "far", 
+   "is", 
+   "Yuma", 
+   "AZ"
+  ], 
+  "final_sql": "SELECT \"distance\" FROM \"pittsburgh,_pa_to_yuma,_az\"", 
+  "id": 184, 
+  "sql_res": [
+   [
+    "2,279 mi"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "31,556,952", 
+  "long_a": "there are 31,556,952 seconds in a year.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "\"a\" is not close to \"1\" with word vectors.", 
+  "newsql": [
+   "SELECT", 
+   "\"Seconds\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Years\"", 
+   "~", 
+   "a"
+  ], 
+  "directory": "https___www_calculateme_com_Time_Years_toSeconds_htm_sayanc_26_4_2018@2_28_8", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "many", 
+   "seconds", 
+   "are", 
+   "there", 
+   "in", 
+   "a", 
+   "year"
+  ], 
+  "final_sql": "SELECT \"Seconds\" FROM \"Table_1\" WHERE \"Years\" ~ a", 
+  "id": 185
+ }, 
+ {
+  "short_a": "june 12", 
+  "long_a": "maroon 5 will be in concert in san antonio on june 12.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Date\"", 
+   "FROM", 
+   "\"Maroon_5\"", 
+   "WHERE", 
+   "\"City\"", 
+   "~", 
+   "\"San Antonio\";"
+  ], 
+  "directory": "https___redpillbluestour_maroon5_com__shayati_13_4_2018@1_42_32", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "when", 
+   "is", 
+   "Maroon", 
+   "5", 
+   "coming", 
+   "to", 
+   "San", 
+   "Antonio", 
+   "for", 
+   "a", 
+   "concert"
+  ], 
+  "final_sql": "SELECT \"Date\" FROM \"Maroon_5\" WHERE \"City\" ~ \"San_Antonio\";", 
+  "id": 186, 
+  "sql_res": [
+   [
+    "Jun 12"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "4.6 billion years", 
+  "long_a": "the sun is about 4.6 billion years old.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "Sun_Stats", 
+   "WHERE", 
+   "\"Property\"", 
+   "~", 
+   "\"old\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Sun_xiyangz_15_4_2018@21_21_51", 
+  "question_parsed": [
+   "How", 
+   "old", 
+   "is", 
+   "the", 
+   "sun"
+  ], 
+  "final_sql": "SELECT \"Age\" FROM \"Sun_Stats\"", 
+  "id": 187, 
+  "sql_res": [
+   [
+    "\u2248 4.6 billion years[10][11]"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "7", 
+  "long_a": "clovervield got as 7/10 with over 300k votes.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Rating\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Name\"", 
+   "~", 
+   "\"Cloverfield\""
+  ], 
+  "directory": "http:\\\\www.imdb.com\\title\\tt1060277\\_sayanc_24\\3\\2018@15:42:31", 
+  "question_parsed": [
+   "What", 
+   "did", 
+   "Cloverfield", 
+   "get", 
+   "on", 
+   "IMDB"
+  ], 
+  "final_sql": "SELECT \"Rating\" FROM \"Table_1\" WHERE \"Name\" ~ \"Cloverfield\"", 
+  "id": 188, 
+  "sql_res": [
+   [
+    "7.0"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "1,415,045,928", 
+  "long_a": "the estimate population of china is 1,415,045,928", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Population\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Country\"", 
+   "~", 
+   "\"china\""
+  ], 
+  "directory": "http:\\\\www.worldometers.info\\world-population\\population-by-country\\_sayanc_24\\3\\2018@16:29:52", 
+  "question_parsed": [
+   "alexa", 
+   "", 
+   "how", 
+   "big", 
+   "is", 
+   "the", 
+   "population", 
+   "of", 
+   "china"
+  ], 
+  "final_sql": "SELECT \"Population\" FROM \"Table_1\" WHERE \"Country\" ~ \"china\"", 
+  "id": 189, 
+  "sql_res": [
+   [
+    "1,415,045,928"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "2018 toyota carmy", 
+  "long_a": "the 2018 toyota camry is the best midsize sedan on the market.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Car\"", 
+   "FROM", 
+   "\"Best_Midsize_Cars\"", 
+   "ORDER_BY", 
+   "\"Ranking\"", 
+   "ASCENDING", 
+   "LIMIT_1"
+  ], 
+  "directory": "https___cars_usnews_com_cars-trucks_rankings_midsize-cars_lcallebe_5_6_2018@14_44_3", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "the", 
+   "best", 
+   "mid", 
+   "size", 
+   "sedan", 
+   "on", 
+   "the", 
+   "market"
+  ], 
+  "final_sql": "SELECT \"Car\" FROM \"Best_Midsize_Cars\" ORDER_BY \"Ranking\" ASCENDING LIMIT_1", 
+  "id": 190, 
+  "sql_res": [
+   [
+    "2018 Toyota Camry"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "4.543 billion years", 
+  "long_a": "planet earth is 4.543 billion years old.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "from", 
+   "\"Earth\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"old\""
+  ], 
+  "directory": "https:\\\\www.google.com\\search?q=how+old+is+earth&sa=X&ved=0ahUKEwiygevI-ojaAhUyWN8KHfxEDP8Q1QII_QEoBA&biw=1356&bih=796_sstritte_25\\3\\2018@22:44:56", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "old", 
+   "is", 
+   "the", 
+   "earth"
+  ], 
+  "final_sql": "SELECT \"age\" FROM \"earth\"", 
+  "id": 191, 
+  "sql_res": [
+   [
+    "4.543\u00a0billion\u00a0years"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "from 2 stores", 
+  "long_a": "you can buy fallout from 2 stores.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "The entire table is about fallout. I don't see how we can select the right row.", 
+  "newsql": [
+   "SELECT", 
+   "\"Store\"", 
+   "FROM", 
+   "Fallout_Search_Result", 
+   "WHERE", 
+   "\"Product\"", 
+   "LIKE", 
+   "\"%%Fallout 4%\"", 
+   "LIMIT", 
+   "1"
+  ], 
+  "directory": "https___www_google_com_search?q=where+can+I+but+Fallout%3F&source=lnms&tbm=shop&sa=X&ved=0ahUKEwistdnFz8TaAhUsUt8KHZqDCCgQ_AUICigB&biw=1291&bih=610_shayati_18_4_2018@16_15_34", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "where", 
+   "can", 
+   "I", 
+   "but", 
+   "Fallout"
+  ], 
+  "final_sql": "SELECT \"Store\" FROM Fallout_Search_Result WHERE \"Product\" LIKE \"%%Fallout 4%\" LIMIT 1", 
+  "id": 192
+ }, 
+ {
+  "short_a": "same as your regular income bracket", 
+  "long_a": "short-term capital gains do not benefit from any special tax rate \u00e2\u20ac\u201c they are taxed at the same rate as your ordinary income", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Description\"", 
+   "FROM", 
+   "\"Capital_Gains_Tax\"", 
+   "WHERE", 
+   "\"Category\"", 
+   "~", 
+   "\"short term capital gains\""
+  ], 
+  "directory": "https___turbotax_intuit_com_tax-tips_investments-and-taxes_guide-to-short-term-vs-long-term-capital-gains-taxes-brokerage-accounts-etc_L7KCu9etn_sayanc_4_5_2018@13_0_13", 
+  "question_parsed": [
+   "what", 
+   "is", 
+   "the", 
+   "tax", 
+   "rate", 
+   "on", 
+   "short", 
+   "term", 
+   "capital", 
+   "gains", 
+   "for", 
+   "2017"
+  ], 
+  "final_sql": "SELECT \"Description\" FROM \"Capital_Gains_Tax\" WHERE \"Category\" ~ \"short_term_capital_gains\"", 
+  "id": 193, 
+  "sql_res": [
+   [
+    "short-term capital gains do not benefit from any special tax rate \u2013 they are taxed at the same rate as your ordinary income. for 2017, ordinary tax rates range from 10 percent to 39.6 percent, depending on your total taxable income."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "the platypus is classified among egg-laying mammals - monotremes. male platypuses have a poison apparatus on their hind legs. there are poison glands in the thighs and a hollow spur near the heel. the sting is not dangerous to humans, but is extremely painful and causes rapid swelling in the stung area. it may also cause increased temperature. for smaller mammals, like dogs, the sting can be fatal. the purpose of the platypus's poison system has not been satisfactorily explained. it may be for defending the burrows when young are present.", 
+  "long_a": "the platypus is classified among egg-laying mammals - monotremes. male platypuses have a poison apparatus on their hind legs. there are poison glands in the thighs and a hollow spur near the heel. the sting is not dangerous to humans, but is extremely painful and causes rapid swelling in the stung area. it may also cause increased temperature. for smaller mammals, like dogs, the sting can be fatal. the purpose of the platypus's poison system has not been satisfactorily explained. it may be for defending the burrows when young are present.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Duck-billed_Platypus\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"poisonous\""
+  ], 
+  "directory": "http___poisonousnature_biodiversityexhibition_com_en_card_duck-billed-platypus_sayanc_26_4_2018@1_40_22", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "are", 
+   "platypus", 
+   "poisonous"
+  ], 
+  "final_sql": "SELECT \"characteristics_and_poison\" FROM \"duck-billed_platypus\"", 
+  "id": 194, 
+  "sql_res": [
+   [
+    "the platypus is classified among egg-laying mammals - monotremes. male platypuses have a poison apparatus on their hind legs. there are poison glands in the thighs and a hollow spur near the heel. the sting is not dangerous to humans, but is extremely painful and causes rapid swelling in the stung area. it may also cause increased temperature. for smaller mammals, like dogs, the sting can be fatal. the purpose of the platypus's poison system has not been satisfactorily explained. it may be for defending the burrows when young are present."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "leonardo da vinci", 
+  "long_a": "leonardo da vinci painted the mona lisa.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "from", 
+   "\"Mona_Lisa\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"painted\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Mona_Lisa_sstritte_17_4_2018@21_24_20", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "Who", 
+   "painted", 
+   "the", 
+   "Mona", 
+   "Lisa"
+  ], 
+  "final_sql": "SELECT \"artist\" FROM \"mona_lisa\"", 
+  "id": 195, 
+  "sql_res": [
+   [
+    "leonardo da vinci"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "17-apr-18", 
+  "long_a": "usa taxes are due by april 17th 2018. you may also file for a exstention.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "All rows are about taxes, so word vectors don't allow us to select the right one. (the right one is the first one...)", 
+  "newsql": [
+   "SELECT", 
+   "\"Deadline\", \"Type_of_Income_Tax_Return\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Type_of_Income_Tax_Return\"", 
+   "~", 
+   "\"taxes\""
+  ], 
+  "directory": "https___www_efile_com_tax-day-deadlines__sayanc_13_4_2018@15_38_31", 
+  "question_parsed": [
+   "what", 
+   "day", 
+   "are", 
+   "taxes", 
+   "due", 
+   "in", 
+   "2018"
+  ], 
+  "final_sql": "SELECT \"Deadline\" FROM \"Table_1\" WHERE \"Type_of_Income_Tax_Return\" ~ \"taxes\"", 
+  "id": 196
+ }, 
+ {
+  "short_a": "geo-tagging, simultaneous 4k video and 8mp image recording, touch focus, face/smile detection, hdr (photo/panorama)", 
+  "long_a": "the iphone 7 plus has geo-tagging, simultaneous 4k video and 8mp image recording, touch focus, face/smile detection, and hdr (photo/panorama).", 
+  "ex_valid": false, 
+  "table_type": 2, 
+  "note": "badly transposed table", 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"feature\""
+  ], 
+  "directory": "https___www_gsmarena_com_apple_iphone_7_plus-8065_php_sayanc_2_5_2018@21_37_45", 
+  "question_parsed": [
+   "what", 
+   "are", 
+   "the", 
+   "feature", 
+   "of", 
+   "iphone", 
+   "7plus"
+  ], 
+  "final_sql": "SELECT \"Features\" FROM \"table_1\"", 
+  "id": 197
+ }, 
+ {
+  "short_a": ": 32gb for $349, or 128gb for $449", 
+  "long_a": "the 32gb iphone se costs $349 and the 128gb iphone se costs $449.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Prices\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"iPhone\"", 
+   "~", 
+   "\"iPhone SE\""
+  ], 
+  "directory": "https___www_theverge_com_circuitbreaker_2017_9_13_16300850_iphone-price-cuts-apple-event-se-6s-7-8-x-differences_sayanc_3_5_2018@18_18_41", 
+  "question_parsed": [
+   "what", 
+   "is", 
+   "the", 
+   "price", 
+   "of", 
+   "the", 
+   "iphone", 
+   "SE"
+  ], 
+  "final_sql": "SELECT \"Prices\" FROM \"Table_1\" WHERE \"iPhone\" ~ \"iPhone_SE\"", 
+  "id": 198, 
+  "sql_res": [
+   [
+    ": 32GB for $349, or 128GB for $449"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "white, yellow, black, and red", 
+  "long_a": "the colors associated with the goddess brighid are white, yellow, black, and red", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"colors\""
+  ], 
+  "directory": "http___www_goddessgift_com_goddess-myths_goddess-symbols-Brigid_htm_sayanc_19_4_2018@19_55_51", 
+  "question_parsed": [
+   "What", 
+   "colors", 
+   "are", 
+   "associate", 
+   "with", 
+   "the", 
+   "goddess", 
+   "Brighid"
+  ], 
+  "final_sql": "SELECT \"Colors:\" FROM \"table_1\"", 
+  "id": 199, 
+  "sql_res": [
+   [
+    "White, yellow, black, and red"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "april 1", 
+  "long_a": "easter for the year 2018 is celebrated/ observed on sunday, april 1.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Date\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Holidays\"", 
+   "~", 
+   "\"Easter 2018\""
+  ], 
+  "directory": "https:\\\\www.calendardate.com\\easter_2018.htm_pavvaru_25\\3\\2018@2:52:1", 
+  "question_parsed": [
+   "When", 
+   "is", 
+   "Easter", 
+   "2018"
+  ], 
+  "final_sql": "SELECT \"Date\" FROM \"Table_1\" WHERE \"Holidays\" ~ \"Easter_2018\"", 
+  "id": 200, 
+  "sql_res": [
+   [
+    "- Sunday, Apr 1"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "season 4", 
+  "long_a": "season 4 of family guy is ranked the funniest.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Season\"", 
+   "FROM", 
+   "Family_Guy_Ranking", 
+   "ORDER_BY", 
+   "\"RANK\"", 
+   "ASCENDING", 
+   "LIMT_1"
+  ], 
+  "directory": "https___www_ranker_com_list_best-season-of-family-guy_reference_xiyangz_14_5_2018@15_29_28", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "the", 
+   "funniest", 
+   "Family", 
+   "Guy", 
+   "season"
+  ], 
+  "final_sql": "SELECT \"Season\" FROM Family_Guy_Ranking ORDER_BY \"RANK\" ASCENDING LIMIT_1", 
+  "id": 201, 
+  "sql_res": [
+   [
+    "Family Guy - Season 4"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "71", 
+  "long_a": "donald trump is 71 years old.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "*", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"attributes\"", 
+   "~", 
+   "\"old\";"
+  ], 
+  "directory": "https:\\\\www.onthisday.com\\people\\donald-trump_sstritte_29\\3\\2018@17:23:9", 
+  "question_parsed": [
+   "How", 
+   "old", 
+   "is", 
+   "Donald", 
+   "Trump"
+  ], 
+  "final_sql": "SELECT \"age\" FROM \"Donald_Trump_\"", 
+  "id": 202, 
+  "sql_res": [
+   [
+    "71 years old"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "malcolm gladwell", 
+  "long_a": "malcolm gladwell wrote the \"tipping point\"", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"wrote\""
+  ], 
+  "directory": "https:\\\\en.wikipedia.org\\wiki\\The_Tipping_Point_sstritte_25\\3\\2018@21:37:25", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "who", 
+   "wrote", 
+   "", 
+   "Tipping", 
+   "Point"
+  ], 
+  "final_sql": "SELECT \"Author\" FROM \"table_1\"", 
+  "id": 203, 
+  "sql_res": [
+   [
+    "Malcolm Gladwell"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "barbados", 
+  "long_a": "rihanna was born in barbados", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Rihanna_-_Quick_Facts\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"born\""
+  ], 
+  "directory": "https___www_biography_com_people_rihanna-201257_lcallebe_23_5_2018@15_54_10", 
+  "question_parsed": [
+   "where", 
+   "was", 
+   "Rihanna", 
+   "born"
+  ], 
+  "final_sql": "SELECT \"place_of_birth\" FROM \"rihanna_-_quick_facts\"", 
+  "id": 204, 
+  "sql_res": [
+   [
+    "barbados"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "president of the united states, donald trump", 
+  "long_a": "president of the united states, donald trump is the commander-in-chief of the united states armed forces.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"United_States_Armed_Forces\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"commander in chief\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Structure_of_the_United_States_Armed_Forces_sayanc_25_4_2018@15_59_4", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "who", 
+   "is", 
+   "the", 
+   "commander", 
+   "in", 
+   "chief", 
+   "of", 
+   "the", 
+   "military"
+  ], 
+  "final_sql": "SELECT \"commander-in-chief\" from \"United_States_Armed_Forces\"", 
+  "id": 205, 
+  "sql_res": [
+   [
+    "president of the united states , donald trump"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "a penal colony where inmates are forced to work.", 
+  "long_a": "a labor camp is a penal colony where inmates are forced to work.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "No correspondance between \"1\" and \"a\" un pre trained word2vec.", 
+  "newsql": [
+   "SELECT", 
+   "\"Definition\"", 
+   "from", 
+   "\"Labor_Camp_Definitions\"", 
+   "WHERE", 
+   "\"Number\"", 
+   "~", 
+   "\"a\""
+  ], 
+  "directory": "http___www_dictionary_com_browse_labor-camp_sstritte_10_4_2018@22_29_41", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "a", 
+   "labor", 
+   "camp"
+  ], 
+  "final_sql": "SELECT \"Definition\" from \"Labor_Camp_Definitions\" WHERE \"Number\" ~ \"a\"", 
+  "id": 206
+ }, 
+ {
+  "short_a": "the first and best place to experience them is in hawai", 
+  "long_a": "they can be found all over the world.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Answer\"", 
+   "FROM", 
+   "\"Moorish_Idols\"", 
+   "WHERE", 
+   "\"Question\"", 
+   "~", 
+   "\"where\""
+  ], 
+  "directory": "http___www_kaikanani_com_inside-world-moorish-idol__sayanc_18_4_2018@13_25_3", 
+  "question_parsed": [
+   "Where", 
+   "can", 
+   "I", 
+   "snorkel", 
+   "with", 
+   "moorish", 
+   "idol"
+  ], 
+  "final_sql": "SELECT \"Answer\" FROM \"Moorish_Idols\" WHERE \"Question\" ~ \"where\"", 
+  "id": 207, 
+  "sql_res": [
+   [
+    "the first and best place to experience them is in hawai\u2019i, and we may be biased but it doesn\u2019t get much better than molokini crater! other places include micronesia, mexico and the galapagos islands."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "february 11, 2012", 
+  "long_a": "whitney houston died on february 11, 2012 at the age of 48.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "from", 
+   "\"Whitney_Houston\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"die\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Whitney_Houston_sstritte_17_4_2018@21_21_24", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "When", 
+   "did", 
+   "Whitney", 
+   "Houston", 
+   "die"
+  ], 
+  "final_sql": "SELECT \"died\" FROM \"whitney_houston\"", 
+  "id": 208, 
+  "sql_res": [
+   [
+    "february 11, 2012 (2012-02-11) (aged\u00a048)  beverly hills, california , u.s."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "23kg", 
+  "long_a": "the baggage allowance on transatlantic flight for economy passengers is 23kg in one bag.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "Word2vec maps \"luggage\" to \"cabin baggage\" instead of \"checked baggage\"", 
+  "newsql": [
+   "SELECT", 
+   "\"Weight\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Baggage_Type\"", 
+   "~", 
+   "\"luggage\""
+  ], 
+  "directory": "https:\\\\www.unibaggage.com\\shipping\\airlines\\aer-lingus-baggage-allowance\\_sayanc_24\\3\\2018@16:18:37", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "transatlantic", 
+   "luggage", 
+   "allowance", 
+   "with", 
+   "Aer", 
+   "Lingus"
+  ], 
+  "final_sql": "SELECT \"Weight\" FROM \"Table_1\" WHERE \"Baggage_Type\" ~ \"luggage\"", 
+  "id": 209
+ }, 
+ {
+  "short_a": "baton rouge", 
+  "long_a": "the capital of louisiana is baton rouge.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Capital\"", 
+   "from", 
+   "\"State_Capitals_and_Nicknames\"", 
+   "WHERE", 
+   "\"State\"", 
+   "~", 
+   "\"Louisiana\""
+  ], 
+  "directory": "http___www_theus50_com_fastfacts_capital_php_sstitte_18_4_2018@10_30_36", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "capital", 
+   "of", 
+   "Louisiana"
+  ], 
+  "final_sql": "SELECT \"Capital\" from \"State_Capitals_and_Nicknames\" WHERE \"State\" ~ \"Louisiana\"", 
+  "id": 210, 
+  "sql_res": [
+   [
+    "Baton Rouge"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "40 degrees", 
+  "long_a": "the weather in ingleside, ii tonight is 40 degrees.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "Does not use the ~ operator", 
+  "newsql": [
+   "SELECT", 
+   "\"Hight\",", 
+   "\"Low\"", 
+   "FROM", 
+   "Ingleside_Il_Weather", 
+   "WHERE", 
+   "\"Day\"", 
+   "LIKE", 
+   "\"%%Tonight%\""
+  ], 
+  "directory": "https___weather_com_weather_tenday_l_60041_4_US_xiyangz_12_4_2018@22_50_52", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "weather", 
+   "in", 
+   "Ingleside", 
+   "", 
+   "Il"
+  ], 
+  "final_sql": "SELECT \"Hight\", \"Low\" FROM Ingleside_Il_Weather WHERE \"Day\" LIKE \"%%Tonight%\"", 
+  "id": 211
+ }, 
+ {
+  "short_a": "all you need to do is place it in hot water and wait up to 10 minutes", 
+  "long_a": "you need to place the freeze-dried food in hot water to cook it and eat it.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Basic_Instructions\"", 
+   "from", 
+   "\"Freeze-dried_vs._Dehydrated_Food\"", 
+   "WHERE", 
+   "\"Food_Type\"", 
+   "~", 
+   "\"freeze dried food\""
+  ], 
+  "directory": "https___beprepared_com_blog_18684_just-add-water-freeze-dried-vs-dehydrated-food__lcallebe_12_4_2018@14_41_55", 
+  "question_parsed": [
+   "How", 
+   "do", 
+   "you", 
+   "eat", 
+   "freeze", 
+   "dried", 
+   "food"
+  ], 
+  "final_sql": "SELECT \"Basic_Instructions\" from \"Freeze-dried_vs._Dehydrated_Food\" WHERE \"Food_Type\" ~ \"freeze_dried_food\"", 
+  "id": 212, 
+  "sql_res": [
+   [
+    "freeze-dried food is much easier to reconstitute, and once rehydrated, it will revert back to its original shape, texture, and taste \u2013 just like it was the day it was freeze-dried. to revert your freeze-dried food back to its original design, all you need to do is place it in hot water and wait up to 10 minutes. it doesn\u2019t need to be boiled, and again, it reverts back to how it was before it was freeze-dried."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "37", 
+  "long_a": "justin timberlake was born on january 31, 1981 (37 years old) in memphis, tennessee, u.s.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "Justin_Timberlake_Info", 
+   "WHERE", 
+   "\"Property\"", 
+   "LIKE", 
+   "\"old\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Justin_Timberlake_xiyangz_15_5_2018@13_54_29", 
+  "question_parsed": [
+   "How", 
+   "old", 
+   "is", 
+   "Justin", 
+   "Timberlake"
+  ], 
+  "final_sql": "SELECT \"Born\" FROM \"justin_timberlake_info\"", 
+  "id": 213, 
+  "sql_res": [
+   [
+    "Justin Randall Timberlake\n (1981-01-31) January 31, 1981 (age 37)\n Memphis, Tennessee, U.S."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "70-190 for babies, 60-100 for adults", 
+  "long_a": "the normal heart rate is between 70 and 190 beats per minute for babies and between 60 and 100 beats per minute for adults.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "Basicallt retrieves the whole table. Would need a sum up method to get a better answer... Unless we consider it good enough?", 
+  "newsql": [
+   "SELECT", 
+   "\"Normal_heart_rate_(bpm)\", \"Age\"", 
+   "FROM", 
+   "\"Table_1\""
+  ], 
+  "directory": "https:\\\\www.medicalnewstoday.com\\articles\\235710.php_sstritte_21\\3\\2018@21:54:59", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "a", 
+   "normal", 
+   "heart", 
+   "rate"
+  ], 
+  "final_sql": "SELECT \"Normal_heart_rate_(bpm)\", \"Age\" FROM \"Table_1\"", 
+  "id": 214
+ }, 
+ {
+  "short_a": "june 12, 2018", 
+  "long_a": "this year's electronic entertainment expo begins on june 12th.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Property\"", 
+   "LIKE", 
+   "\"start\""
+  ], 
+  "directory": "https:\\\\en.wikipedia.org\\wiki\\Electronic_Entertainment_Expo_2018_sayanc_24\\3\\2018@22:53:15", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "when", 
+   "does", 
+   "E3", 
+   "start", 
+   "this", 
+   "year"
+  ], 
+  "final_sql": "SELECT \"Begins\" FROM \"table_1\"", 
+  "id": 215, 
+  "sql_res": [
+   [
+    "June 12, 2018"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "$8,098.75", 
+  "long_a": "bitcoin is trading at $8,098 per bitcoin today.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "from", 
+   "\"Bitcoin\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"How much\""
+  ], 
+  "directory": "https___www_worldcoinindex_com_coin_bitcoin_sstritte_18_4_2018@10_0_42", 
+  "question_parsed": [
+   "How", 
+   "much", 
+   "is", 
+   "a", 
+   "bitcoin", 
+   "worth"
+  ], 
+  "final_sql": "SELECT \"last_price\" FROM \"bitcoin\"", 
+  "id": 216, 
+  "sql_res": [
+   [
+    "$  8,098.75"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "feb. 4, 2018", 
+  "long_a": "the super bowl 2018 date is feb. 4, 2018", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "LIKE", 
+   "\"day\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Super_Bowl_LII_sayanc_12_4_2018@0_44_2", 
+  "question_parsed": [
+   "What", 
+   "day", 
+   "is", 
+   "the", 
+   "Superbowl"
+  ], 
+  "final_sql": "SELECT \"Date\" FROM \"Table_1\"", 
+  "id": 217, 
+  "sql_res": [
+   [
+    "February 4, 2018"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "ottawa", 
+  "long_a": "the capital of canada is ottawa.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "Canada", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"capital\""
+  ], 
+  "directory": "https___simple_wikipedia_org_wiki_Canada_lcallebe_7_5_2018@13_37_31", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "is", 
+   "the", 
+   "capital", 
+   "of", 
+   "Canada"
+  ], 
+  "final_sql": "SELECT \"capital\" FROM \"canada\"", 
+  "id": 218, 
+  "sql_res": [
+   [
+    "ottawa  45\u00b024\u2032n  75\u00b040\u2032w \ufeff / \ufeff 45.400\u00b0n 75.667\u00b0w \ufeff / 45.400; -75.667"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "0.6214 mi", 
+  "long_a": "1 kilometer is equal to 0.6214 miles.", 
+  "ex_valid": false, 
+  "table_type": 1, 
+  "note": "For some reason word2vec map \"kilometer\" to \"10 km\" instead of \"1 km\"", 
+  "newsql": [
+   "SELECT", 
+   "\"Miles\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Kilometers\"", 
+   "~", 
+   "\"kilometer\""
+  ], 
+  "directory": "https___www_rapidtables_com_convert_length_km-to-mile_html_sayanc_25_4_2018@1_10_4", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "s", 
+   "the", 
+   "kilometer", 
+   "to", 
+   "mile", 
+   "conversion"
+  ], 
+  "final_sql": "SELECT \"Miles\" FROM \"Table_1\" WHERE \"Kilometers\" ~ \"kilometer\"", 
+  "id": 219
+ }, 
+ {
+  "short_a": "of, relating to, or involving a combination of social and economic factors", 
+  "long_a": "socioeconomics means \"of, relating to, or involving a combination of social and economic factors\".", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "Socioeconomic", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"definition\""
+  ], 
+  "directory": "https___www_merriam-webster_com_dictionary_socioeconomic_sayanc_26_4_2018@1_16_15", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "what", 
+   "does", 
+   "socioeconomic", 
+   "mean"
+  ], 
+  "final_sql": "SELECT \"definition_of_socioeconomic\" FROM \"socioeconomic\"", 
+  "id": 220, 
+  "sql_res": [
+   [
+    " : of, relating to, or involving a combination of social and economic factors"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "1.69", 
+  "long_a": "the fertility rate in iran is 1.69.", 
+  "ex_valid": false, 
+  "table_type": 2, 
+  "note": "Badly transposed tables", 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Iran_-_Health\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "LIKE", 
+   "\"fertility rate\""
+  ], 
+  "directory": "https___tradingeconomics_com_iran_fertility-rate-total-births-per-woman-wb-data_html_lcallebe_26_4_2018@12_30_53", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "fertility", 
+   "rate", 
+   "in", 
+   "iran"
+  ], 
+  "final_sql": "SELECT \"Fertility_rate,_total_(births_per_woman)\" FROM \"Iran_-_Health\"", 
+  "id": 221
+ }, 
+ {
+  "short_a": "shape of water", 
+  "long_a": "shape of water won best picture at the 90th academy awards.", 
+  "ex_valid": false, 
+  "table_type": 2, 
+  "note": "This is obviously a broken example.", 
+  "newsql": [
+   "SELECT", 
+   "\"Value\", \"\\Key\"", 
+   "FROM", 
+   "\"Table_1\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_90th_Academy_Awards_sayanc_12_4_2018@15_19_3", 
+  "question_parsed": [
+   "what", 
+   "happened", 
+   "during", 
+   "the", 
+   "recent", 
+   "oscars", 
+   "2018"
+  ], 
+  "final_sql": "SELECT \"Best_Picture;_Best_Picture\" FROM \"table_1\"", 
+  "id": 222
+ }, 
+ {
+  "short_a": "1.22", 
+  "long_a": "the exchange rate from eur to usd is 1.22", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"From_Euro_to_Currency\"", 
+   "FROM", 
+   "\"Euro_conversion\"", 
+   "WHERE", 
+   "\"Currency\"", 
+   "LIKE", 
+   "\"US Dollars\""
+  ], 
+  "directory": "https___x-rates_com_table_?from=EUR&amount=1_lcallebe_20_4_2018@16_30_36", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "exchange", 
+   "rate", 
+   "for", 
+   "879", 
+   "Euros", 
+   "in", 
+   "US", 
+   "Dollars"
+  ], 
+  "final_sql": "SELECT \"From_Euro_to_Currency\" FROM \"Euro_conversion\" WHERE \"Currency\" ~ \"US Dollars\"", 
+  "id": 223, 
+  "sql_res": [
+   [
+    "1.228753"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "20 mins", 
+  "long_a": "but baking for just 20 minutes at 450 degrees will result in delightfully juicy baked chicken breast, every time.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"KEY\"", 
+   "~", 
+   "\"bake\""
+  ], 
+  "directory": "https___healthyrecipesblogs_com_2011_08_09_how-to-bake-chicken-breast__sayanc_13_4_2018@0_49_33", 
+  "question_parsed": [
+   "How", 
+   "long", 
+   "to", 
+   "bake", 
+   "chicken"
+  ], 
+  "final_sql": "SELECT \"Cook_Time\" FROM \"table_1\"", 
+  "id": 224, 
+  "sql_res": [
+   [
+    "20 mins"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "eaverdam and sheep roads, beltsville, md 20705", 
+  "long_a": "the street address of the beltsville agricultural research center is 10300 baltimore avenue.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "BELTSVILLE_AGRICULTURAL_RESEARCH_CENTER", 
+   "WHERE", 
+   "\"Property\"", 
+   "LIKE", 
+   "\"street address\""
+  ], 
+  "directory": "https:\\\\cumulis.epa.gov\\supercpad\\cursites\\csitinfo.cfm?id=0300415_sayanc_24\\3\\2018@22:37:41", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "street", 
+   "address", 
+   "of", 
+   "the", 
+   "Beltsville", 
+   "Agricultural", 
+   "Research", 
+   "Center"
+  ], 
+  "final_sql": "SELECT \"street_address:\" FROM \"beltsville_agricultural_research_center\"", 
+  "id": 225, 
+  "sql_res": [
+   [
+    "beaverdam and sheep roads, beltsville, md 20705"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "trixie mattel", 
+  "long_a": "trixie mattel is the winner", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Contestant\"", 
+   "FROM", 
+   "RuPaul_Drag_Race", 
+   "WHERE", 
+   "\"Episode_8\"", 
+   "LIKE", 
+   "\"%%Winner%\";"
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_RuPaul%27s_Drag_Race_All_Stars_(season_3)#Contestant_progress_shayati_16_4_2018@4_8_56", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "who", 
+   "won", 
+   "the", 
+   "last", 
+   "episode", 
+   "of", 
+   "RuPaul", 
+   "s", 
+   "Drag", 
+   "Race", 
+   "All", 
+   "Stars"
+  ], 
+  "final_sql": "SELECT \"Contestant\" FROM RuPaul_Drag_Race WHERE \"Episode_8\" LIKE \"%%Winner%\";", 
+  "id": 226, 
+  "sql_res": [
+   [
+    "Trixie Mattel"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "80", 
+  "long_a": "jane fonda is 80 years old.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "Jane_Fonda_Info", 
+   "WHERE", 
+   "\"Property\"", 
+   "~", 
+   "\"old\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Jane_Fonda_xiyangz_15_4_2018@22_12_27", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "old", 
+   "is", 
+   "Jane", 
+   "Fonda"
+  ], 
+  "final_sql": "SELECT \"Born\" FROM \"jane_fonda_info\"", 
+  "id": 227, 
+  "sql_res": [
+   [
+    "Jane Seymour Fonda\n (1937-12-21) December 21, 1937 (age 80)\n New York City, New York, U.S."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "november 13, 1967 (age 50)[1] brooklyn, new york, u.s.[2]", 
+  "long_a": "jimmy kimmel is 50 years of age as of this year.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"old\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Jimmy_Kimmel_sayanc_9_5_2018@2_35_27", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "how", 
+   "old", 
+   "is", 
+   "Jimmy", 
+   "Kimmel"
+  ], 
+  "final_sql": "SELECT \"Born\" FROM \"table_1\"", 
+  "id": 228, 
+  "sql_res": [
+   [
+    "(1967-11-13) November 13, 1967 (age 50)[1]\n Brooklyn, New York, U.S.[2]"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "7:00 pm", 
+  "long_a": "the flash is on every tuesday at 7pm central.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"time\"", 
+   "FROM", 
+   "cw_shows", 
+   "WHERE", 
+   "\"show\"", 
+   "~", 
+   "\"Flash\""
+  ], 
+  "directory": "http___yourcwtv_com_partners_wausau_schedule_php?curDate=04_24_2018&cday=TUESDAY_rolivier_24_4_2018@0_23_55", 
+  "question_parsed": [
+   "What", 
+   "time", 
+   "is", 
+   "The", 
+   "Flash", 
+   "on"
+  ], 
+  "final_sql": "SELECT \"time\" FROM cw_shows WHERE \"show\" ~ \"Flash\"", 
+  "id": 229, 
+  "sql_res": [
+   [
+    "7:00 PM"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "the alchemist, adrian younge", 
+  "long_a": "the alchemist, adrian younge, produced prodigy's album albert einstein.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Albert_Einstein\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"produced\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Albert_Einstein_(album)_lcallebe_9_5_2018@12_21_30", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "who", 
+   "produced", 
+   "the", 
+   "album", 
+   "Albert", 
+   "Einstein", 
+   "by", 
+   "Prodigy"
+  ], 
+  "final_sql": "SELECT \"producer\" FROM \"albert_einstein\"", 
+  "id": 230, 
+  "sql_res": [
+   [
+    "the alchemist , adrian younge"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "november 3, 2020", 
+  "long_a": "the next presidential election is on november 3, 2020.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "from", 
+   "\"National_Election_Day\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "LIKE", 
+   "\"%%2020_date%\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_Election_Day_(United_States)_sstritte_18_4_2018@10_44_30", 
+  "question_parsed": [
+   "When", 
+   "is", 
+   "the", 
+   "next", 
+   "presidential", 
+   "election"
+  ], 
+  "final_sql": "SELECT \"2020_date\" FROM \"National_Election_Day\"", 
+  "id": 231, 
+  "sql_res": [
+   [
+    "november 3 ( details )"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "4-mar-18", 
+  "long_a": "the 90th academy awards ceremony, will take place at the dolby theatre in hollywood, los angeles, california at 5:00 p.m. pst on march 4, 2018.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"values\"", 
+   "FROM", 
+   "Academy_Award", 
+   "WHERE", 
+   "\"keys\"", 
+   "~", 
+   "\"when is\";"
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_90th_Academy_Awards_shayati_11_4_2018@15_18_36", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "when", 
+   "is", 
+   "Oscars", 
+   "2018"
+  ], 
+  "final_sql": "SELECT \"Date\" FROM \"academy_award\"", 
+  "id": 232, 
+  "sql_res": [
+   [
+    "March 4, 2018"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "$550", 
+  "long_a": "the lowest price of a gtc 1080 has been $550.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"NVIDIA_GEFORCE_GTX_1080\"", 
+   "WHERE", 
+   "\"KEY\"", 
+   "~", 
+   "\"How much\""
+  ], 
+  "directory": "https___www_futuremark_com_hardware_gpu_NVIDIA+GeForce+GTX+1080_review_sayanc_19_4_2018@14_29_34", 
+  "question_parsed": [
+   "How", 
+   "much", 
+   "is", 
+   "a", 
+   "GTX", 
+   "1080"
+  ], 
+  "final_sql": "SELECT \"lowest_price:\" FROM \"nvidia_geforce_gtx_1080\"", 
+  "id": 233, 
+  "sql_res": [
+   [
+    "$550"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "j.d.", 
+  "long_a": "the abbreviation for the most common law degree, juris doctor, is j.d.", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Abbreviations\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Degree\"", 
+   "~", 
+   "\"law degree\""
+  ], 
+  "directory": "https:\\\\en.wiktionary.org\\wiki\\Appendix:Academic_degrees_sstritte_27\\3\\2018@12:44:31", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "abbreviation", 
+   "for", 
+   "a", 
+   "law", 
+   "degree"
+  ], 
+  "final_sql": "SELECT \"Abbreviations\" FROM \"Table_1\" WHERE \"Degree\" ~ \"law_degree\"", 
+  "id": 234, 
+  "sql_res": [
+   [
+    "JD or J.D."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "the king's speech", 
+  "long_a": "the king's speech beat out 9 other movies for best picture", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"83rd_Academy_Awards\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"best picture\""
+  ], 
+  "directory": "https___en_wikipedia_org_wiki_83rd_Academy_Awards_sayanc_26_4_2018@18_4_49", 
+  "question_parsed": [
+   "Alexa", 
+   "", 
+   "What", 
+   "movie", 
+   "won", 
+   "best", 
+   "picture", 
+   "in", 
+   "2011"
+  ], 
+  "final_sql": "SELECT \"best_picture\" FROM \"83rd_academy_awards\"", 
+  "id": 235, 
+  "sql_res": [
+   [
+    "the king's speech"
+   ]
+  ]
+ }, 
+ {
+  "short_a": "non-accelerating inflation rate of unemployment (nairu) is the unemployment rate consistent with maintaining stable inflation. according to the standard macroeconomic theory, inflation will tend to rise if the unemployment rate falls below the natural rate. conversely, when the unemployment rate rises above the natural rate, inflation tends to fall. thus, the natural rate and the nairu are often viewed as two names for the same thing, providing an important benchmark for gauging the state of the business cycle, the outlook for future inflation, and the appropriate stance of monetary policy.", 
+  "long_a": "non-accelerating inflation rate of unemployment (nairu) is the unemployment rate consistent with maintaining stable inflation. according to the standard macroeconomic theory, inflation will tend to rise if the unemployment rate falls below the natural rate. conversely, when the unemployment rate rises above the natural rate, inflation tends to fall. thus, the natural rate and the nairu are often viewed as two names for the same thing, providing an important benchmark for gauging the state of the business cycle, the outlook for future inflation, and the appropriate stance of monetary policy.", 
+  "ex_valid": true, 
+  "table_type": 2, 
+  "newsql": [
+   "SELECT", 
+   "\"Value\"", 
+   "FROM", 
+   "\"Table_1\"", 
+   "WHERE", 
+   "\"Key\"", 
+   "~", 
+   "\"NAIRU\""
+  ], 
+  "directory": "http___macroeconomicanalysis_com_macroeconomics-wikipedia_nairu__sayanc_3_5_2018@17_45_35", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "NAIRU"
+  ], 
+  "final_sql": "SELECT \"What_is_NAIRU?\" FROM \"table_1\"", 
+  "id": 236, 
+  "sql_res": [
+   [
+    "Non-Accelerating Inflation Rate of Unemployment (NAIRU) is the unemployment rate consistent with maintaining stable inflation. According to the standard macroeconomic theory, inflation will tend to rise if the unemployment rate falls below the natural rate. Conversely, when the unemployment rate rises above the natural rate, inflation tends to fall. Thus, the natural rate and the NAIRU are often viewed as two names for the same thing, providing an important benchmark for gauging the state of the business cycle, the outlook for future inflation, and the appropriate stance of monetary policy."
+   ]
+  ]
+ }, 
+ {
+  "short_a": "1118 s. orange ave. #204 orlando fl 32806", 
+  "long_a": "the orlando location is 1118 s. orange ave. orlando fl 32806", 
+  "ex_valid": true, 
+  "table_type": 1, 
+  "newsql": [
+   "SELECT", 
+   "\"Address\"", 
+   "FROM", 
+   "\"SNG_LABS_Locations\"", 
+   "WHERE", 
+   "\"City\"", 
+   "~", 
+   "\"orlando\""
+  ], 
+  "directory": "http___www_prostheticeye_com_contact-us_#locations_lcallebe_25_4_2018@13_32_13", 
+  "question_parsed": [
+   "What", 
+   "is", 
+   "the", 
+   "address", 
+   "for", 
+   "the", 
+   "orlando", 
+   "office", 
+   "of", 
+   "sng", 
+   "labs"
+  ], 
+  "final_sql": "SELECT \"Address\" FROM \"SNG_LABS_Locations\" WHERE \"City\" ~ \"orlando\"", 
+  "id": 237, 
+  "sql_res": [
+   [
+    "1118 s. orange ave. #204 orlando, fl 32806-1168  click here for directions"
+   ]
+  ]
+ }
+]

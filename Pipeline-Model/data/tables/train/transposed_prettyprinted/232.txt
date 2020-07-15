@@ -1,0 +1,29 @@
++--------+--------+--------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Date   | Site   | Hosted | Presh | Produ | Direc | Best  | Most  | Most  | Netwo | Durat | Ratin |
+|        |        | by     | ow    | ced   | ted   | Pictu | award | nomin | rk    | ion   | gs    |
+|        |        |        | hosts | by    | by    | re;   | s     | ation |       |       |       |
+|        |        |        |       |       |       | Best  |       | s     |       |       |       |
+|        |        |        |       |       |       | Pictu |       |       |       |       |       |
+|        |        |        |       |       |       | re    |       |       |       |       |       |
++--------+--------+--------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| March  | Dolby  | Jimmy  | Micha | Micha | Glenn | The   | The   | The   | ABC   | 3 hou | 26.5  |
+| 4,     | Theatr | Kimmel | el St | el De | Weiss | Shape | Shape | Shape |       | rs,   | milli |
+| 2018   | e      |        | rahan | Luca  |       | of    | of    | of    |       | 53 mi | on    |
+|        |  Holly |        |       |  Jenn |       | Water | Water | Water |       | nutes | 18.9% |
+|        | wood,  |        | Wendi | ifer  |       |       | (4)   | (13)  |       |       | (Niel |
+|        | Los An |        | McLen | Todd  |       |       |       |       |       |       | sen r |
+|        | geles, |        | don-  |       |       |       |       |       |       |       | ating |
+|        | Califo |        | Covey |       |       |       |       |       |       |       | s)[1] |
+|        | rnia,  |        |       |       |       |       |       |       |       |       | [2]   |
+|        | U.S.   |        | Sara  |       |       |       |       |       |       |       |       |
+|        |        |        | Haine |       |       |       |       |       |       |       |       |
+|        |        |        | s     |       |       |       |       |       |       |       |       |
+|        |        |        |       |       |       |       |       |       |       |       |       |
+|        |        |        | Krist |       |       |       |       |       |       |       |       |
+|        |        |        | a     |       |       |       |       |       |       |       |       |
+|        |        |        | Smith |       |       |       |       |       |       |       |       |
+|        |        |        |       |       |       |       |       |       |       |       |       |
+|        |        |        | Dave  |       |       |       |       |       |       |       |       |
+|        |        |        | Karge |       |       |       |       |       |       |       |       |
+|        |        |        | r     |       |       |       |       |       |       |       |       |
++--------+--------+--------+-------+-------+-------+-------+-------+-------+-------+-------+-------+

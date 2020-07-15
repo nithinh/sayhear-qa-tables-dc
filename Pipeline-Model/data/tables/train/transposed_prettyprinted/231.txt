@@ -1,0 +1,17 @@
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| type     | celebrat | date     | 2017 dat | 2018 dat | 2019 dat | 2020 dat | frequenc | related  |
+|          | ions     |          | e        | e        | e        | e        | y        | to       |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| day for  | exercisi | the      | november | november | november | november | annual   | super    |
+| the      | ng civic | tuesday  | 7 (      | 6 (      | 5 (      | 3 (      |          | tuesday  |
+| election | duty ,   | after    | details  | details  | details  | details  |          |          |
+| of       | voting   | the      | )        | )        | )        | )        |          |          |
+| public o | for      | first    |          |          |          |          |          |          |
+| fficials | elected  | monday   |          |          |          |          |          |          |
+| in the   | official | of       |          |          |          |          |          |          |
+| united   | s,       | november |          |          |          |          |          |          |
+| states   | visiting |          |          |          |          |          |          |          |
+|          | polling  |          |          |          |          |          |          |          |
+|          | precinct |          |          |          |          |          |          |          |
+|          | s        |          |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+

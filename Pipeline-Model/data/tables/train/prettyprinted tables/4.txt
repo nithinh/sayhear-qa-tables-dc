@@ -1,0 +1,23 @@
++--------------------------------+--------------------------------+--------------------------------+
+| url                            | Property                       | Value                          |
++--------------------------------+--------------------------------+--------------------------------+
+| https://www.space.com/55-earth | Average distance from Earth    | Average distance from Earth:   |
+| s-moon-formation-composition-  |                                | 238,855 miles (384,400 km)     |
+| and-orbit.html                 |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://www.space.com/55-earth | Perigee (closest approach to   | Perigee (closest approach to   |
+| s-moon-formation-composition-  | Earth)                         | Earth): 225,700 miles (363,300 |
+| and-orbit.html                 |                                | km)                            |
++--------------------------------+--------------------------------+--------------------------------+
+| https://www.space.com/55-earth | Apogee (farthest distance from | Apogee (farthest distance from |
+| s-moon-formation-composition-  | Earth)                         | Earth): 252,000 miles (405,500 |
+| and-orbit.html                 |                                | km)                            |
++--------------------------------+--------------------------------+--------------------------------+
+| https://www.space.com/55-earth | Orbit circumference:           | Orbit circumference:           |
+| s-moon-formation-composition-  |                                | 1,499,618.58 miles (2,413,402  |
+| and-orbit.html                 |                                | km)                            |
++--------------------------------+--------------------------------+--------------------------------+
+| https://www.space.com/55-earth | Mean orbit velocity:           | Mean orbit velocity: 2,287 mph |
+| s-moon-formation-composition-  |                                | (3,680.5 km/h)                 |
+| and-orbit.html                 |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+

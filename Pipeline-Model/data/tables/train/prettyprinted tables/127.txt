@@ -1,0 +1,604 @@
++------------------------+------------------------+------------------------+-----------------------+
+| url                    | Lead_Singer            | Lead_Singer_link       | Band                  |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Freddie Mercury        | https://www.ranker.com | Queen                 |
+| /crowdranked-          |                        | /review/freddie-mercur |                       |
+| list/top-10-lead-      |                        | y/1022223?ref=node_nam |                       |
+| singers-in-rock-of-    |                        | e&pos=1&a=0&ltype=n&l= |                       |
+| all-time               |                        | 699213&g=1             |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Robert Plant           | https://www.ranker.com | Led Zeppelin          |
+| /crowdranked-          |                        | /review/robert-plant/1 |                       |
+| list/top-10-lead-      |                        | 922073?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=2&a=0&ltype=n&l=699 |                       |
+| all-time               |                        | 213&g=1                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Mick Jagger            | https://www.ranker.com | Rolling Stones        |
+| /crowdranked-          |                        | /review/mick-jagger/15 |                       |
+| list/top-10-lead-      |                        | 79366?ref=node_name&po |                       |
+| singers-in-rock-of-    |                        | s=3&a=0&ltype=n&l=6992 |                       |
+| all-time               |                        | 13&g=1                 |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Jim Morrison           | https://www.ranker.com | The Doors             |
+| /crowdranked-          |                        | /review/jim-morrison/1 |                       |
+| list/top-10-lead-      |                        | 291311?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=4&a=0&ltype=n&l=699 |                       |
+| all-time               |                        | 213&g=1                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Jimi Hendrix           | https://www.ranker.com | The Jimi Hendrix      |
+| /crowdranked-          |                        | /review/jimi-hendrix/1 | Experience            |
+| list/top-10-lead-      |                        | 288474?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=5&a=0&ltype=n&l=699 |                       |
+| all-time               |                        | 213&g=1                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Ozzy Osbourne          | https://www.ranker.com | Black Sabbath         |
+| /crowdranked-          |                        | /review/ozzy-osbourne/ |                       |
+| list/top-10-lead-      |                        | 1742531?ref=node_name& |                       |
+| singers-in-rock-of-    |                        | pos=6&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Roger Daltrey          | https://www.ranker.com | The Who               |
+| /crowdranked-          |                        | /review/roger-daltrey/ |                       |
+| list/top-10-lead-      |                        | 1930002?ref=node_name& |                       |
+| singers-in-rock-of-    |                        | pos=7&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Steven Tyler           | https://www.ranker.com | Aerosmith             |
+| /crowdranked-          |                        | /review/stephen-       |                       |
+| list/top-10-lead-      |                        | victor-tallarico/20961 |                       |
+| singers-in-rock-of-    |                        | 65?ref=node_name&pos=8 |                       |
+| all-time               |                        | &a=0&ltype=n&l=699213& |                       |
+|                        |                        | g=1                    |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | John Lennon            | https://www.ranker.com | The Beatles           |
+| /crowdranked-          |                        | /review/john-lennon/13 |                       |
+| list/top-10-lead-      |                        | 10216?ref=node_name&po |                       |
+| singers-in-rock-of-    |                        | s=9&a=0&ltype=n&l=6992 |                       |
+| all-time               |                        | 13&g=1                 |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Kurt Cobain            | https://www.ranker.com | Nirvana               |
+| /crowdranked-          |                        | /review/kurt-cobain/13 |                       |
+| list/top-10-lead-      |                        | 98360?ref=node_name&po |                       |
+| singers-in-rock-of-    |                        | s=10&a=0&ltype=n&l=699 |                       |
+| all-time               |                        | 213&g=1                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Axl Rose               | https://www.ranker.com | Guns N Roses          |
+| /crowdranked-          |                        | /review/william-bailey |                       |
+| list/top-10-lead-      |                        | /519316?ref=node_name& |                       |
+| singers-in-rock-of-    |                        | pos=11&a=0&ltype=n&l=6 |                       |
+| all-time               |                        | 99213&g=1              |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | David Lee Roth         | https://www.ranker.com | Van Halen             |
+| /crowdranked-          |                        | /review/david-lee-roth |                       |
+| list/top-10-lead-      |                        | /824455?ref=node_name& |                       |
+| singers-in-rock-of-    |                        | pos=12&a=0&ltype=n&l=6 |                       |
+| all-time               |                        | 99213&g=1              |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Bon Scott              | https://www.ranker.com | AC/DC                 |
+| /crowdranked-          |                        | /review/bon-scott/6105 |                       |
+| list/top-10-lead-      |                        | 92?ref=node_name&pos=1 |                       |
+| singers-in-rock-of-    |                        | 3&a=0&ltype=n&l=699213 |                       |
+| all-time               |                        | &g=1                   |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Paul McCartney         | https://www.ranker.com | The Beatles           |
+| /crowdranked-          |                        | /review/paul-mccartney |                       |
+| list/top-10-lead-      |                        | /1768827?ref=node_name |                       |
+| singers-in-rock-of-    |                        | &pos=14&a=0&ltype=n&l= |                       |
+| all-time               |                        | 699213&g=1             |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Bono                   | https://www.ranker.com | U2                    |
+| /crowdranked-          |                        | /review/bono/1767030?r |                       |
+| list/top-10-lead-      |                        | ef=node_name&pos=15&a= |                       |
+| singers-in-rock-of-    |                        | 0&ltype=n&l=699213&g=1 |                       |
+| all-time               |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | James Hetfield         | https://www.ranker.com | Metallica             |
+| /crowdranked-          |                        | /review/james-hetfield |                       |
+| list/top-10-lead-      |                        | /1261723?ref=node_name |                       |
+| singers-in-rock-of-    |                        | &pos=16&a=0&ltype=n&l= |                       |
+| all-time               |                        | 699213&g=1             |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Dave Grohl             | https://www.ranker.com | Foo Fighters          |
+| /crowdranked-          |                        | /review/dave-grohl/819 |                       |
+| list/top-10-lead-      |                        | 778?ref=node_name&pos= |                       |
+| singers-in-rock-of-    |                        | 17&a=0&ltype=n&l=69921 |                       |
+| all-time               |                        | 3&g=1                  |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Alice Cooper           | https://www.ranker.com | Alice Cooper          |
+| /crowdranked-          |                        | /review/alice-cooper/4 |                       |
+| list/top-10-lead-      |                        | 32383?ref=node_name&po |                       |
+| singers-in-rock-of-    |                        | s=18&a=0&ltype=n&l=699 |                       |
+| all-time               |                        | 213&g=1                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Bruce Springsteen      | https://www.ranker.com | The E Street Band     |
+| /crowdranked-          |                        | /review/bruce-springst |                       |
+| list/top-10-lead-      |                        | een/635964?ref=node_na |                       |
+| singers-in-rock-of-    |                        | me&pos=19&a=0&ltype=n& |                       |
+| all-time               |                        | l=699213&g=1           |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Stevie Nicks           | https://www.ranker.com | Fleetwood Mac         |
+| /crowdranked-          |                        | /review/stevie-nicks/2 |                       |
+| list/top-10-lead-      |                        | 098684?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=20&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Eddie Vedder           | https://www.ranker.com | Pearl Jam             |
+| /crowdranked-          |                        | /review/eddie-vedder/9 |                       |
+| list/top-10-lead-      |                        | 10614?ref=node_name&po |                       |
+| singers-in-rock-of-    |                        | s=21&a=0&ltype=n&l=699 |                       |
+| all-time               |                        | 213&g=1                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Eric Clapton           | http://bit.ly/1zQ99ju  | Cream                 |
+| /crowdranked-          |                        |                        |                       |
+| list/top-10-lead-      |                        |                        |                       |
+| singers-in-rock-of-    |                        |                        |                       |
+| all-time               |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Chris Cornell          | https://www.ranker.com | Soundgarden           |
+| /crowdranked-          |                        | /review/chris-cornell/ |                       |
+| list/top-10-lead-      |                        | 728128?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=23&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Brian Johnson          | https://www.ranker.com | AC/DC                 |
+| /crowdranked-          |                        | /review/brian-johnson/ |                       |
+| list/top-10-lead-      |                        | 626142?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=24&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Jon Bon Jovi           | https://www.ranker.com | Bon Jovi              |
+| /crowdranked-          |                        | /review/jon-bon-jovi/1 |                       |
+| list/top-10-lead-      |                        | 319687?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=25&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Tom Petty              | https://www.ranker.com | The Heartbreakers     |
+| /crowdranked-          |                        | /review/tom-petty/6216 |                       |
+| list/top-10-lead-      |                        | 9354?ref=node_name&pos |                       |
+| singers-in-rock-of-    |                        | =26&a=0&ltype=n&l=6992 |                       |
+| all-time               |                        | 13&g=1                 |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Steve Perry            | https://www.ranker.com | Journey               |
+| /crowdranked-          |                        | /review/steve-perry/20 |                       |
+| list/top-10-lead-      |                        | 97967?ref=node_name&po |                       |
+| singers-in-rock-of-    |                        | s=27&a=0&ltype=n&l=699 |                       |
+| all-time               |                        | 213&g=1                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Ronnie James Dio       | https://www.ranker.com | Black Sabbath         |
+| /crowdranked-          |                        | /review/ronald-padavon |                       |
+| list/top-10-lead-      |                        | a/1935115?ref=node_nam |                       |
+| singers-in-rock-of-    |                        | e&pos=28&a=0&ltype=n&l |                       |
+| all-time               |                        | =699213&g=1            |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Bruce Dickinson        | https://www.ranker.com | Iron Maiden           |
+| /crowdranked-          |                        | /review/bruce-dickinso |                       |
+| list/top-10-lead-      |                        | n/635415?ref=node_name |                       |
+| singers-in-rock-of-    |                        | &pos=29&a=0&ltype=n&l= |                       |
+| all-time               |                        | 699213&g=1             |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | David Gilmour          | https://www.ranker.com | Pink Floyd            |
+| /crowdranked-          |                        | /review/david-gilmour/ |                       |
+| list/top-10-lead-      |                        | 823195?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=30&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Roger Waters           | https://www.ranker.com | Pink Floyd            |
+| /crowdranked-          |                        | /review/roger-waters/1 |                       |
+| list/top-10-lead-      |                        | 930837?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=31&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | John Fogerty           | https://www.ranker.com | Creedence Clearwater  |
+| /crowdranked-          |                        | /review/john-fogerty/1 | Revival               |
+| list/top-10-lead-      |                        | 306695?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=32&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Sting                  | https://www.ranker.com | The Police            |
+| /crowdranked-          |                        | /review/sting/2099959? |                       |
+| list/top-10-lead-      |                        | ref=node_name&pos=33&a |                       |
+| singers-in-rock-of-    |                        | =0&ltype=n&l=699213&g= |                       |
+| all-time               |                        | 1                      |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Debbie Harry           | https://www.ranker.com | Blondie               |
+| /crowdranked-          |                        | /review/debbie-harry/8 |                       |
+| list/top-10-lead-      |                        | 32444?ref=node_name&po |                       |
+| singers-in-rock-of-    |                        | s=34&a=0&ltype=n&l=699 |                       |
+| all-time               |                        | 213&g=1                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Anthony Kiedis         | https://www.ranker.com | Red Hot Chili Peppers |
+| /crowdranked-          |                        | /review/anthony-kiedis |                       |
+| list/top-10-lead-      |                        | /472807?ref=node_name& |                       |
+| singers-in-rock-of-    |                        | pos=35&a=0&ltype=n&l=6 |                       |
+| all-time               |                        | 99213&g=1              |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Iggy Pop               | https://www.ranker.com | The Stooges           |
+| /crowdranked-          |                        | /review/iggy-pop/12091 |                       |
+| list/top-10-lead-      |                        | 24?ref=node_name&pos=3 |                       |
+| singers-in-rock-of-    |                        | 6&a=0&ltype=n&l=699213 |                       |
+| all-time               |                        | &g=1                   |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Ronnie Van Zant        | https://www.ranker.com | Lynyrd Skynyrd        |
+| /crowdranked-          |                        | /review/ronnie-van-zan |                       |
+| list/top-10-lead-      |                        | t/1935892?ref=node_nam |                       |
+| singers-in-rock-of-    |                        | e&pos=37&a=0&ltype=n&l |                       |
+| all-time               |                        | =699213&g=1            |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Janis Joplin           | https://www.ranker.com | Big Brother and the   |
+| /crowdranked-          |                        | /review/janis-joplin/1 | Holding Company       |
+| list/top-10-lead-      |                        | 267603?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=38&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Joey Ramone            | https://www.ranker.com | The Ramones           |
+| /crowdranked-          |                        | /review/joey-ramone/12 |                       |
+| list/top-10-lead-      |                        | 95933?ref=node_name&po |                       |
+| singers-in-rock-of-    |                        | s=39&a=0&ltype=n&l=699 |                       |
+| all-time               |                        | 213&g=1                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Peter Gabriel          | https://www.ranker.com | Genesis               |
+| /crowdranked-          |                        | /review/peter-gabriel/ |                       |
+| list/top-10-lead-      |                        | 1785728?ref=node_name& |                       |
+| singers-in-rock-of-    |                        | pos=40&a=0&ltype=n&l=6 |                       |
+| all-time               |                        | 99213&g=1              |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Prince                 | https://www.ranker.com | The Revolution        |
+| /crowdranked-          |                        | /review/prince/1837662 |                       |
+| list/top-10-lead-      |                        | ?ref=node_name&pos=41& |                       |
+| singers-in-rock-of-    |                        | a=0&ltype=n&l=699213&g |                       |
+| all-time               |                        | =1                     |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Neil Young             | https://www.ranker.com | Buffalo Springfield   |
+| /crowdranked-          |                        | /review/neil-young/166 |                       |
+| list/top-10-lead-      |                        | 0007?ref=node_name&pos |                       |
+| singers-in-rock-of-    |                        | =42&a=0&ltype=n&l=6992 |                       |
+| all-time               |                        | 13&g=1                 |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Rob Halford            | https://www.ranker.com | Judas Priest          |
+| /crowdranked-          |                        | /review/rob-halford/19 |                       |
+| list/top-10-lead-      |                        | 25171?ref=node_name&po |                       |
+| singers-in-rock-of-    |                        | s=43&a=0&ltype=n&l=699 |                       |
+| all-time               |                        | 213&g=1                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Phil Collins           | https://www.ranker.com | Genesis               |
+| /crowdranked-          |                        | /review/phil-collins/1 |                       |
+| list/top-10-lead-      |                        | 795529?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=44&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Billy Idol             | http://spoti.fi/2am1jF | Generation X          |
+| /crowdranked-          |                        | o                      |                       |
+| list/top-10-lead-      |                        |                        |                       |
+| singers-in-rock-of-    |                        |                        |                       |
+| all-time               |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Geddy Lee              | https://www.ranker.com | Rush                  |
+| /crowdranked-          |                        | /review/geddy-lee/1049 |                       |
+| list/top-10-lead-      |                        | 796?ref=node_name&pos= |                       |
+| singers-in-rock-of-    |                        | 46&a=0&ltype=n&l=69921 |                       |
+| all-time               |                        | 3&g=1                  |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Rod Stewart            | https://www.ranker.com | The Jeff Beck Group / |
+| /crowdranked-          |                        | /review/rod-stewart/19 | Faces                 |
+| list/top-10-lead-      |                        | 29407?ref=node_name&po |                       |
+| singers-in-rock-of-    |                        | s=47&a=0&ltype=n&l=699 |                       |
+| all-time               |                        | 213&g=1                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Layne Staley           | https://www.ranker.com | Alice in Chains       |
+| /crowdranked-          |                        | /review/layne-staley/1 |                       |
+| list/top-10-lead-      |                        | 420900?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=48&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Sammy Hagar            | https://www.ranker.com | Van Halen             |
+| /crowdranked-          |                        | /review/sammy-hagar/19 |                       |
+| list/top-10-lead-      |                        | 67075?ref=node_name&po |                       |
+| singers-in-rock-of-    |                        | s=49&a=0&ltype=n&l=699 |                       |
+| all-time               |                        | 213&g=1                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Simon Le Bon           | https://www.ranker.com | Duran Duran           |
+| /crowdranked-          |                        | /review/simon-le-bon/2 |                       |
+| list/top-10-lead-      |                        | 034782?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=50&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Michael Hutchence      | https://www.ranker.com | INXS                  |
+| /crowdranked-          |                        | /review/michael-hutche |                       |
+| list/top-10-lead-      |                        | nce/1574388?ref=node_n |                       |
+| singers-in-rock-of-    |                        | ame&pos=51&a=0&ltype=n |                       |
+| all-time               |                        | &l=699213&g=1          |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Carlos Santana         | https://www.ranker.com | Santana               |
+| /crowdranked-          |                        | /review/carlos-santana |                       |
+| list/top-10-lead-      |                        | /673447?ref=node_name& |                       |
+| singers-in-rock-of-    |                        | pos=52&a=0&ltype=n&l=6 |                       |
+| all-time               |                        | 99213&g=1              |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Don Henley             | https://www.ranker.com | The Eagles            |
+| /crowdranked-          |                        | /review/don-henley/879 |                       |
+| list/top-10-lead-      |                        | 412?ref=node_name&pos= |                       |
+| singers-in-rock-of-    |                        | 53&a=0&ltype=n&l=69921 |                       |
+| all-time               |                        | 3&g=1                  |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Ann Wilson             | https://www.ranker.com | Heart                 |
+| /crowdranked-          |                        | /review/ann-wilson/470 |                       |
+| list/top-10-lead-      |                        | 256?ref=node_name&pos= |                       |
+| singers-in-rock-of-    |                        | 54&a=0&ltype=n&l=69921 |                       |
+| all-time               |                        | 3&g=1                  |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Paul Stanley           | https://www.ranker.com | KISS                  |
+| /crowdranked-          |                        | /review/paul-stanley/1 |                       |
+| list/top-10-lead-      |                        | 769929?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=55&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Paul Rodgers           | https://www.ranker.com | Bad Company           |
+| /crowdranked-          |                        | /review/paul-rodgers/1 |                       |
+| list/top-10-lead-      |                        | 769581?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=56&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Jack White             | https://www.ranker.com | The White Stripes,    |
+| /crowdranked-          |                        | /review/john-anthony-g | The Raconteurs        |
+| list/top-10-lead-      |                        | illis/1254160?ref=node |                       |
+| singers-in-rock-of-    |                        | _name&pos=57&a=0&ltype |                       |
+| all-time               |                        | =n&l=699213&g=1        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Dave Gahan             | https://www.ranker.com | Depeche Mode          |
+| /crowdranked-          |                        | /review/dave-gahan/823 |                       |
+| list/top-10-lead-      |                        | 073?ref=node_name&pos= |                       |
+| singers-in-rock-of-    |                        | 58&a=0&ltype=n&l=69921 |                       |
+| all-time               |                        | 3&g=1                  |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Brian Wilson           | https://www.ranker.com | The Beach Boys        |
+| /crowdranked-          |                        | /review/brian-wilson/6 |                       |
+| list/top-10-lead-      |                        | 27089?ref=node_name&po |                       |
+| singers-in-rock-of-    |                        | s=59&a=0&ltype=n&l=699 |                       |
+| all-time               |                        | 213&g=1                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | David Byrne            | https://www.ranker.com | The Talking Heads     |
+| /crowdranked-          |                        | /review/david-byrne/82 |                       |
+| list/top-10-lead-      |                        | 1886?ref=node_name&pos |                       |
+| singers-in-rock-of-    |                        | =60&a=0&ltype=n&l=6992 |                       |
+| all-time               |                        | 13&g=1                 |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Steve Miller           | https://www.ranker.com | Steve Miller Band     |
+| /crowdranked-          |                        | /review/steve-miller/2 |                       |
+| list/top-10-lead-      |                        | 097769?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=61&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Billy Gibbons          | https://www.ranker.com | ZZ Top                |
+| /crowdranked-          |                        | /review/billy-gibbons/ |                       |
+| list/top-10-lead-      |                        | 583619?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=62&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Frank Zappa            | http://spoti.fi/2aGtGx | The Mothers of        |
+| /crowdranked-          |                        | h                      | Invention             |
+| list/top-10-lead-      |                        |                        |                       |
+| singers-in-rock-of-    |                        |                        |                       |
+| all-time               |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Billie Joe Armstrong   | https://www.ranker.com | Green Day             |
+| /crowdranked-          |                        | /review/billie-joe-arm |                       |
+| list/top-10-lead-      |                        | strong/582976?ref=node |                       |
+| singers-in-rock-of-    |                        | _name&pos=64&a=0&ltype |                       |
+| all-time               |                        | =n&l=699213&g=1        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Dave Mustaine          | https://www.ranker.com | Megadeth              |
+| /crowdranked-          |                        | /review/dave-mustaine/ |                       |
+| list/top-10-lead-      |                        | 820231?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=65&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | David Coverdale        | https://www.ranker.com | Deep Purple,          |
+| /crowdranked-          |                        | /review/david-coverdal | Whitesnake            |
+| list/top-10-lead-      |                        | e/822265?ref=node_name |                       |
+| singers-in-rock-of-    |                        | &pos=66&a=0&ltype=n&l= |                       |
+| all-time               |                        | 699213&g=1             |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Billy Joel             | https://www.ranker.com | Billy Joel Band       |
+| /crowdranked-          |                        | /review/billy-joel/583 |                       |
+| list/top-10-lead-      |                        | 753?ref=node_name&pos= |                       |
+| singers-in-rock-of-    |                        | 67&a=0&ltype=n&l=69921 |                       |
+| all-time               |                        | 3&g=1                  |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Ian Gillan             | https://www.ranker.com | Deep Purple           |
+| /crowdranked-          |                        | /review/ian-gillan/120 |                       |
+| list/top-10-lead-      |                        | 4270?ref=node_name&pos |                       |
+| singers-in-rock-of-    |                        | =68&a=0&ltype=n&l=6992 |                       |
+| all-time               |                        | 13&g=1                 |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Scott Weiland          | https://www.ranker.com | Stone Temple Pilots   |
+| /crowdranked-          |                        | /review/scott-weiland/ |                       |
+| list/top-10-lead-      |                        | 1991539?ref=node_name& |                       |
+| singers-in-rock-of-    |                        | pos=69&a=0&ltype=n&l=6 |                       |
+| all-time               |                        | 99213&g=1              |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Mark Knopfler          | https://www.ranker.com | Dire Straits          |
+| /crowdranked-          |                        | /review/mark-knopfler/ |                       |
+| list/top-10-lead-      |                        | 1527045?ref=node_name& |                       |
+| singers-in-rock-of-    |                        | pos=70&a=0&ltype=n&l=6 |                       |
+| all-time               |                        | 99213&g=1              |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Trent Reznor           | https://www.ranker.com | Nine Inch Nails       |
+| /crowdranked-          |                        | /review/trent-reznor/2 |                       |
+| list/top-10-lead-      |                        | 275973?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=71&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Lindsey Buckingham     | https://www.ranker.com | Fleetwood Mac         |
+| /crowdranked-          |                        | /review/lindsey-buckin |                       |
+| list/top-10-lead-      |                        | gham/1450974?ref=node_ |                       |
+| singers-in-rock-of-    |                        | name&pos=72&a=0&ltype= |                       |
+| all-time               |                        | n&l=699213&g=1         |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Vince Neil             | https://www.ranker.com | Mötley Crüe           |
+| /crowdranked-          |                        | /review/vince-neil/234 |                       |
+| list/top-10-lead-      |                        | 0840?ref=node_name&pos |                       |
+| singers-in-rock-of-    |                        | =73&a=0&ltype=n&l=6992 |                       |
+| all-time               |                        | 13&g=1                 |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Rob Zombie             | http://spoti.fi/2aGod9 | White Zombie          |
+| /crowdranked-          |                        | r                      |                       |
+| list/top-10-lead-      |                        |                        |                       |
+| singers-in-rock-of-    |                        |                        |                       |
+| all-time               |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Gregg Allman           | https://www.ranker.com | The Allman Brothers   |
+| /crowdranked-          |                        | /review/gregg-allman/1 | Band                  |
+| list/top-10-lead-      |                        | 102202?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=75&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Joe Strummer           | https://www.ranker.com | The Clash             |
+| /crowdranked-          |                        | /review/joe-strummer/1 |                       |
+| list/top-10-lead-      |                        | 297925?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=76&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Gene Simmons           | https://www.ranker.com | KISS                  |
+| /crowdranked-          |                        | /review/gene-simmons/1 |                       |
+| list/top-10-lead-      |                        | 052804?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=77&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Ray Davies             | https://www.ranker.com | The Kinks             |
+| /crowdranked-          |                        | /review/ray-davies/187 |                       |
+| list/top-10-lead-      |                        | 8689?ref=node_name&pos |                       |
+| singers-in-rock-of-    |                        | =78&a=0&ltype=n&l=6992 |                       |
+| all-time               |                        | 13&g=1                 |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Lou Reed               | https://www.ranker.com | The Velvet            |
+| /crowdranked-          |                        | /review/lou-reed/14783 | Underground           |
+| list/top-10-lead-      |                        | 02?ref=node_name&pos=7 |                       |
+| singers-in-rock-of-    |                        | 9&a=0&ltype=n&l=699213 |                       |
+| all-time               |                        | &g=1                   |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Ian Anderson           | https://www.ranker.com | Jethro Tull           |
+| /crowdranked-          |                        | /review/ian-anderson/1 |                       |
+| list/top-10-lead-      |                        | 203922?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=80&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Ian Fraser "Lemmy""    | https://www.ranker.com | Motörhead             |
+| /crowdranked-          | Kilmister              | /review/ian-fraser-kil |                       |
+| list/top-10-lead-      |                        | mister/1431565?ref=nod |                       |
+| singers-in-rock-of-    |                        | e_name&pos=81&a=0&ltyp |                       |
+| all-time               |                        | e=n&l=699213&g=1       |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Michael Stipe          | https://www.ranker.com | REM                   |
+| /crowdranked-          |                        | /review/michael-stipe/ |                       |
+| list/top-10-lead-      |                        | 1576548?ref=node_name& |                       |
+| singers-in-rock-of-    |                        | pos=82&a=0&ltype=n&l=6 |                       |
+| all-time               |                        | 99213&g=1              |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Sebastian Bach         | https://www.ranker.com | Skid Row              |
+| /crowdranked-          |                        | /review/sebastian-bach |                       |
+| list/top-10-lead-      |                        | /1995626?ref=node_name |                       |
+| singers-in-rock-of-    |                        | &pos=83&a=0&ltype=n&l= |                       |
+| all-time               |                        | 699213&g=1             |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Thom Yorke             | https://www.ranker.com | Radiohead             |
+| /crowdranked-          |                        | /review/thom-yorke/223 |                       |
+| list/top-10-lead-      |                        | 9675?ref=node_name&pos |                       |
+| singers-in-rock-of-    |                        | =84&a=0&ltype=n&l=6992 |                       |
+| all-time               |                        | 13&g=1                 |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Robert Smith           | https://www.ranker.com | The Cure              |
+| /crowdranked-          |                        | /review/robert-smith/1 |                       |
+| list/top-10-lead-      |                        | 922686?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=85&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Lou Gramm              | https://www.ranker.com | Foreigner             |
+| /crowdranked-          |                        | /review/lou-gramm/1478 |                       |
+| list/top-10-lead-      |                        | 186?ref=node_name&pos= |                       |
+| singers-in-rock-of-    |                        | 86&a=0&ltype=n&l=69921 |                       |
+| all-time               |                        | 3&g=1                  |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Glenn Frey             | https://www.ranker.com | The Eagles            |
+| /crowdranked-          |                        | /review/glenn-frey/107 |                       |
+| list/top-10-lead-      |                        | 7051?ref=node_name&pos |                       |
+| singers-in-rock-of-    |                        | =87&a=0&ltype=n&l=6992 |                       |
+| all-time               |                        | 13&g=1                 |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Daryl Hall             | https://www.ranker.com | Hall & Oates          |
+| /crowdranked-          |                        | /review/daryl-hall/817 |                       |
+| list/top-10-lead-      |                        | 594?ref=node_name&pos= |                       |
+| singers-in-rock-of-    |                        | 88&a=0&ltype=n&l=69921 |                       |
+| all-time               |                        | 3&g=1                  |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Billy Corgan           | https://www.ranker.com | Smashing Pumpkins     |
+| /crowdranked-          |                        | /review/billy-corgan/5 |                       |
+| list/top-10-lead-      |                        | 83468?ref=node_name&po |                       |
+| singers-in-rock-of-    |                        | s=89&a=0&ltype=n&l=699 |                       |
+| all-time               |                        | 213&g=1                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Marc Bolan             | https://www.ranker.com | T. Rex                |
+| /crowdranked-          |                        | /review/marc-bolan/151 |                       |
+| list/top-10-lead-      |                        | 7096?ref=node_name&pos |                       |
+| singers-in-rock-of-    |                        | =90&a=0&ltype=n&l=6992 |                       |
+| all-time               |                        | 13&g=1                 |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Ric Ocasek             | https://www.ranker.com | The Cars              |
+| /crowdranked-          |                        | /review/ric-ocasek/190 |                       |
+| list/top-10-lead-      |                        | 9385?ref=node_name&pos |                       |
+| singers-in-rock-of-    |                        | =91&a=0&ltype=n&l=6992 |                       |
+| all-time               |                        | 13&g=1                 |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Henry Rollins          | https://www.ranker.com | Black Flag, Rollins   |
+| /crowdranked-          |                        | /review/henry-rollins/ | Band                  |
+| list/top-10-lead-      |                        | 1152164?ref=node_name& |                       |
+| singers-in-rock-of-    |                        | pos=92&a=0&ltype=n&l=6 |                       |
+| all-time               |                        | 99213&g=1              |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Jeff Lynne             | https://www.ranker.com | Electric Light        |
+| /crowdranked-          |                        | /review/jeff-lynne/127 | Orchestra             |
+| list/top-10-lead-      |                        | 9900?ref=node_name&pos |                       |
+| singers-in-rock-of-    |                        | =93&a=0&ltype=n&l=6992 |                       |
+| all-time               |                        | 13&g=1                 |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Amy Lee                | https://www.ranker.com | Evanescence           |
+| /crowdranked-          |                        | /review/amy-lee/453396 |                       |
+| list/top-10-lead-      |                        | ?ref=node_name&pos=94& |                       |
+| singers-in-rock-of-    |                        | a=0&ltype=n&l=699213&g |                       |
+| all-time               |                        | =1                     |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Robin Zander           | https://www.ranker.com | Cheap Trick           |
+| /crowdranked-          |                        | /review/robin-zander/1 |                       |
+| list/top-10-lead-      |                        | 924444?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=95&a=0&ltype=n&l=69 |                       |
+| all-time               |                        | 9213&g=1               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Joe Elliott            | https://www.ranker.com | Def Leppard           |
+| /crowdranked-          |                        | /review/joe-elliott/12 |                       |
+| list/top-10-lead-      |                        | 96658?ref=node_name&po |                       |
+| singers-in-rock-of-    |                        | s=96&a=0&ltype=n&l=699 |                       |
+| all-time               |                        | 213&g=1                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Michael Jackson        | https://www.ranker.com | The Jackson Five      |
+| /crowdranked-          |                        | /review/michael-jackso |                       |
+| list/top-10-lead-      |                        | n/1574447?ref=node_nam |                       |
+| singers-in-rock-of-    |                        | e&pos=97&a=0&ltype=n&l |                       |
+| all-time               |                        | =699213&g=1            |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Phil Lynott            | https://www.ranker.com | Thin Lizzy            |
+| /crowdranked-          |                        | /review/phil-lynott/17 |                       |
+| list/top-10-lead-      |                        | 95852?ref=node_name&po |                       |
+| singers-in-rock-of-    |                        | s=98&a=0&ltype=n&l=699 |                       |
+| all-time               |                        | 213&g=1                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Marilyn Manson         | https://www.ranker.com | Marilyn Manson        |
+| /crowdranked-          |                        | /review/marilyn-manson |                       |
+| list/top-10-lead-      |                        | /62015482?ref=node_nam |                       |
+| singers-in-rock-of-    |                        | e&pos=99&a=0&ltype=n&l |                       |
+| all-time               |                        | =699213&g=1            |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.ranker.com | Bret Michaels          | https://www.ranker.com | Poison                |
+| /crowdranked-          |                        | /review/bret-michaels/ |                       |
+| list/top-10-lead-      |                        | 625018?ref=node_name&p |                       |
+| singers-in-rock-of-    |                        | os=100&a=0&ltype=n&l=6 |                       |
+| all-time               |                        | 99213&g=1              |                       |
++------------------------+------------------------+------------------------+-----------------------+

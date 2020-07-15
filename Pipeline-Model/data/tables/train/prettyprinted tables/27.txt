@@ -1,0 +1,44 @@
++-------------------+-------------------+-------------------+-------------------+------------------+
+| Name              | Description       | Address           | City              | Phone            |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| willimantic       | receives scrap    | 185 recycling way | willimantic, ct   | phone:           |
+| recycling & scrap | metals of all     |                   | 06226             | 860-423-4527     |
+| metals facilities | types and grades, |                   |                   |                  |
+|                   | corrugated        |                   |                   |                  |
+|                   | cardboard,        |                   |                   |                  |
+|                   | newspaper, mixed  |                   |                   |                  |
+|                   | papers, high      |                   |                   |                  |
+|                   | grades,           |                   |                   |                  |
+|                   | commingled        |                   |                   |                  |
+|                   | containers and    |                   |                   |                  |
+|                   | source-separated  |                   |                   |                  |
+|                   | recyclables of    |                   |                   |                  |
+|                   | all kinds.        |                   |                   |                  |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| willimantic waste | receives a full   | 1590 west main    | willimantic, ct   | phone: (860)     |
+| reduction &       | range of          | street            | 06226             | 423-4527         |
+| processing        | remodeling,       |                   |                   |                  |
+| facility          | construction and  |                   |                   |                  |
+|                   | demolition, and   |                   |                   |                  |
+|                   | bulky waste as    |                   |                   |                  |
+|                   | well as municipal |                   |                   |                  |
+|                   | solid wastes.     |                   |                   |                  |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| plainfield        | transfer station  | 54 roode road     | plainfield, ct    | phone: (860)     |
+| transfer station  | for residents of  |                   | 06374             | 376-7121         |
+|                   | the town of       |                   |                   |                  |
+|                   | plainfield who    |                   |                   |                  |
+|                   | possess a         |                   |                   |                  |
+|                   | numbered permit   |                   |                   |                  |
+|                   | sticker.          |                   |                   |                  |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| hauling district  | map & directions  | 133 packer road   | canterbury, ct    | phone: (860)     |
+| for willimantic   |                   |                   | 06331             | 423-4527         |
+| waste paper       |                   |                   |                   |                  |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| killingly         | general           | 246 brick house   | danielson, ct     | phone: (860)     |
+| recycling center  | information ,     | road              | 06239             | 779-5387         |
+| and transfer      | contact the town  |                   |                   |                  |
+| station           | manager's office  |                   |                   |                  |
+|                   | at (860) 779-5334 |                   |                   |                  |
++-------------------+-------------------+-------------------+-------------------+------------------+

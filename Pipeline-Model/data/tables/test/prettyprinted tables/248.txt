@@ -1,0 +1,19 @@
++--------------------------+------------------+--------------------------+-------------------------+
+| url                      | Key              | Key_link                 | Value                   |
++--------------------------+------------------+--------------------------+-------------------------+
+| https://en.wikipedia.org | Developer(s)     | https://en.wikipedia.org | Google                  |
+| /wiki/AdSense            |                  | /wiki/Software_developer |                         |
++--------------------------+------------------+--------------------------+-------------------------+
+| https://en.wikipedia.org | Initial release  |                          | June 18, 2003; 14 years |
+| /wiki/AdSense            |                  |                          | ago (2003-06-18)[1]     |
++--------------------------+------------------+--------------------------+-------------------------+
+| https://en.wikipedia.org | Operating system | https://en.wikipedia.org | Cross-platform          |
+| /wiki/AdSense            |                  | /wiki/Operating_system   |                         |
++--------------------------+------------------+--------------------------+-------------------------+
+| https://en.wikipedia.org | Type             | https://en.wikipedia.org | Online advertising      |
+| /wiki/AdSense            |                  | /wiki/Software_categorie |                         |
+|                          |                  | s#Broad_categories       |                         |
++--------------------------+------------------+--------------------------+-------------------------+
+| https://en.wikipedia.org | Website          |                          | www.google.com/adsense  |
+| /wiki/AdSense            |                  |                          |                         |
++--------------------------+------------------+--------------------------+-------------------------+

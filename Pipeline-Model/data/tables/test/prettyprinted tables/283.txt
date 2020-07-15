@@ -1,0 +1,215 @@
++-------------------------+----------------------+------------------------+------------------------+
+| url                     | State                | Periodic_safety_inspec | Periodic_emissions_ins |
+|                         |                      | tions                  | pections               |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Alabama              | no                     | no                     |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Alaska               | no                     | no                     |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Arizona              | no                     | biennially for Phoenix |
+| g/wiki/Vehicle_inspecti |                      |                        | and Tucson metros      |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Arkansas             | no                     | no                     |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | California           | no                     | biennially for cars    |
+| g/wiki/Vehicle_inspecti |                      |                        | from out-of-state or   |
+| on_in_the_United_States |                      |                        | in-state cars 7 or     |
+|                         |                      |                        | more years old in all  |
+|                         |                      |                        | or some zip codes in   |
+|                         |                      |                        | 41 of 58 counties      |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Colorado             | no                     | biennially in all or   |
+| g/wiki/Vehicle_inspecti |                      |                        | parts of 9 out of 64   |
+| on_in_the_United_States |                      |                        | counties, except for   |
+|                         |                      |                        | vehicles 7 model years |
+|                         |                      |                        | old and newer          |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Connecticut          | no                     | biennially             |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Delaware             | biennially             | biennially             |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | District of Columbia | biennially             | biennially             |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Florida              | no                     | no                     |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Georgia              | no                     | annually for Atlanta   |
+| g/wiki/Vehicle_inspecti |                      |                        | metro                  |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Hawaii               | annually               | no                     |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Idaho                | no                     | yes for Ada and Canyon |
+| g/wiki/Vehicle_inspecti |                      |                        | counties               |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Illinois             | no (not actively       | biennially for Chicago |
+| g/wiki/Vehicle_inspecti |                      | checked, see above)    | and St. Louis metros   |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Indiana              | no                     | biennially for Lake    |
+| g/wiki/Vehicle_inspecti |                      |                        | and Porter counties    |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Iowa                 | no                     | no                     |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Kansas               | no                     | no                     |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Kentucky             | no                     | no                     |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Louisiana            | annually*/biennially   | annually for Baton     |
+| g/wiki/Vehicle_inspecti |                      |                        | Rouge metro            |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Maine                | annually               | annually for           |
+| g/wiki/Vehicle_inspecti |                      |                        | Cumberland county only |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Maryland             | no                     | biennially for 13/23   |
+| g/wiki/Vehicle_inspecti |                      |                        | counties and Baltimore |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Massachusetts        | annually               | annually               |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Michigan             | no                     | no                     |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Minnesota            | no                     | no                     |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Mississippi          | no                     | no                     |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Missouri             | biennially             | biennially for St.     |
+| g/wiki/Vehicle_inspecti |                      |                        | Louis metro            |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Montana              | no                     | no                     |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Nebraska             | no                     | no                     |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Nevada               | no                     | annually for urban     |
+| g/wiki/Vehicle_inspecti |                      |                        | areas of Clark and     |
+| on_in_the_United_States |                      |                        | Washoe counties for    |
+|                         |                      |                        | most vehicles          |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | New Hampshire        | annually               | annually (Model Year   |
+| g/wiki/Vehicle_inspecti |                      |                        | 1996 and Newer Only)   |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | New Jersey           | no                     | biennially             |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | New Mexico           | no                     | biennially for         |
+| g/wiki/Vehicle_inspecti |                      |                        | Bernalillo county only |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | New York             | annually               | annually               |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | North Carolina       | annually               | annually for 48/100    |
+| g/wiki/Vehicle_inspecti |                      |                        | counties               |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | North Dakota         | no                     | no                     |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Ohio                 | no                     | odd/even for Cleveland |
+| g/wiki/Vehicle_inspecti |                      |                        | metro                  |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Oklahoma             | no                     | no                     |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Oregon               | no                     | yes for Portland and   |
+| g/wiki/Vehicle_inspecti |                      |                        | Medford metros         |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Pennsylvania         | annually               | annually in 25 of 67   |
+| g/wiki/Vehicle_inspecti |                      |                        | counties               |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Rhode Island         | biennially             | biennially             |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | South Carolina       | no                     | no                     |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | South Dakota         | no                     | no                     |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Tennessee            | no                     | annually for select    |
+| g/wiki/Vehicle_inspecti |                      |                        | Nashville              |
+| on_in_the_United_States |                      |                        | counties/Chattanooga   |
+|                         |                      |                        | area                   |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Texas                | annually               | annually for large     |
+| g/wiki/Vehicle_inspecti |                      |                        | urban areas            |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Utah                 | biennially             | yes for four most      |
+| g/wiki/Vehicle_inspecti |                      |                        | populated counties     |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Vermont              | annually               | annually               |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Virginia             | annually               | biennially for urban   |
+| g/wiki/Vehicle_inspecti |                      |                        | and suburban northern  |
+| on_in_the_United_States |                      |                        | Virginia               |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Washington           | no                     | yes for urban areas of |
+| g/wiki/Vehicle_inspecti |                      |                        | select counties        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | West Virginia        | annually               | no                     |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Wisconsin            | no                     | biennially for select  |
+| g/wiki/Vehicle_inspecti |                      |                        | counties               |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+
+| https://en.wikipedia.or | Wyoming              | no                     | no                     |
+| g/wiki/Vehicle_inspecti |                      |                        |                        |
+| on_in_the_United_States |                      |                        |                        |
++-------------------------+----------------------+------------------------+------------------------+

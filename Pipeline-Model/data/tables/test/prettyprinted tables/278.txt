@@ -1,0 +1,1020 @@
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| url      | Rank | Name     | Name_lin | State   | State_l | 2018_Po | 2016_Po | 2010_Ce | Change |
+|          |      |          | k        |         | ink     | pulatio | pulatio | nsus    |        |
+|          |      |          |          |         |         | n       | n       |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 1    | New York | http://w | New     | http:// | 8,580,0 | 8,537,6 | 8,175,1 | 0.25%  |
+| orldpopu |      |          | orldpopu | York    | worldpo | 15      | 73      | 33      |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/new-  |         | ates/ne |         |         |         |        |
+|          |      |          | york-pop |         | w-york- |         |         |         |        |
+|          |      |          | ulation/ |         | populat |         |         |         |        |
+|          |      |          |          |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 2    | Los      | http://w | Califor | http:// | 4,030,6 | 3,976,3 | 3,792,6 | 0.68%  |
+| orldpopu |      | Angeles  | orldpopu | nia     | worldpo | 68      | 22      | 21      |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/los-  |         | ates/ca |         |         |         |        |
+|          |      |          | angeles- |         | liforni |         |         |         |        |
+|          |      |          | populati |         | a-popul |         |         |         |        |
+|          |      |          | on/      |         | ation/  |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 3    | Chicago  | http://w | Illinoi | http:// | 2,687,6 | 2,704,9 | 2,695,5 | -0.32% |
+| orldpopu |      |          | orldpopu | s       | worldpo | 82      | 58      | 98      |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/chica |         | ates/il |         |         |         |        |
+|          |      |          | go-popul |         | linois- |         |         |         |        |
+|          |      |          | ation/   |         | populat |         |         |         |        |
+|          |      |          |          |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 4    | Houston  | http://w | Texas   | http:// | 2,340,8 | 2,303,4 | 2,099,4 | 0.80%  |
+| orldpopu |      |          | orldpopu |         | worldpo | 14      | 82      | 51      |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/houst |         | ates/te |         |         |         |        |
+|          |      |          | on-popul |         | xas-pop |         |         |         |        |
+|          |      |          | ation/   |         | ulation |         |         |         |        |
+|          |      |          |          |         | /       |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 5    | Phoenix  | http://w | Arizona | http:// | 1,679,2 | 1,615,0 | 1,445,6 | 1.95%  |
+| orldpopu |      |          | orldpopu |         | worldpo | 43      | 17      | 32      |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/phoen |         | ates/ar |         |         |         |        |
+|          |      |          | ix-popul |         | izona-p |         |         |         |        |
+|          |      |          | ation/   |         | opulati |         |         |         |        |
+|          |      |          |          |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 6    | Philadel | http://w | Pennsyl | http:// | 1,573,6 | 1,567,8 | 1,526,0 | 0.19%  |
+| orldpopu |      | phia     | orldpopu | vania   | worldpo | 88      | 72      | 06      |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/phila |         | ates/pe |         |         |         |        |
+|          |      |          | delphia- |         | nnsylva |         |         |         |        |
+|          |      |          | populati |         | nia-pop |         |         |         |        |
+|          |      |          | on/      |         | ulation |         |         |         |        |
+|          |      |          |          |         | /       |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 7    | San      | http://w | Texas   | http:// | 1,541,4 | 1,492,5 | 1,327,4 | 1.61%  |
+| orldpopu |      | Antonio  | orldpopu |         | worldpo | 56      | 10      | 07      |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/san-  |         | ates/te |         |         |         |        |
+|          |      |          | antonio- |         | xas-pop |         |         |         |        |
+|          |      |          | populati |         | ulation |         |         |         |        |
+|          |      |          | on/      |         | /       |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 8    | San      | http://w | Califor | http:// | 1,438,0 | 1,406,6 | 1,307,4 | 1.10%  |
+| orldpopu |      | Diego    | orldpopu | nia     | worldpo | 60      | 30      | 02      |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/san-  |         | ates/ca |         |         |         |        |
+|          |      |          | diego-po |         | liforni |         |         |         |        |
+|          |      |          | pulation |         | a-popul |         |         |         |        |
+|          |      |          | /        |         | ation/  |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 9    | Dallas   | http://w | Texas   | http:// | 1,359,1 | 1,317,9 | 1,197,8 | 1.54%  |
+| orldpopu |      |          | orldpopu |         | worldpo | 33      | 29      | 16      |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/dalla |         | ates/te |         |         |         |        |
+|          |      |          | s-popula |         | xas-pop |         |         |         |        |
+|          |      |          | tion/    |         | ulation |         |         |         |        |
+|          |      |          |          |         | /       |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 10   | San Jose | http://w | Califor | http:// | 1,030,7 | 1,025,3 | 945,942 | 0.26%  |
+| orldpopu |      |          | orldpopu | nia     | worldpo | 96      | 50      |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/san-  |         | ates/ca |         |         |         |        |
+|          |      |          | jose-pop |         | liforni |         |         |         |        |
+|          |      |          | ulation/ |         | a-popul |         |         |         |        |
+|          |      |          |          |         | ation/  |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 11   | Austin   | http://w | Texas   | http:// | 983,366 | 947,890 | 790,390 | 1.84%  |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/austi |         | ates/te |         |         |         |        |
+|          |      |          | n-popula |         | xas-pop |         |         |         |        |
+|          |      |          | tion/    |         | ulation |         |         |         |        |
+|          |      |          |          |         | /       |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 12   | Jacksonv | http://w | Florida | http:// | 907,529 | 880,619 | 821,784 | 1.50%  |
+| orldpopu |      | ille     | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/jacks |         | ates/fl |         |         |         |        |
+|          |      |          | onville- |         | orida-p |         |         |         |        |
+|          |      |          | populati |         | opulati |         |         |         |        |
+|          |      |          | on/      |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 13   | Fort     | http://w | Texas   | http:// | 893,997 | 854,113 | 741,206 | 2.28%  |
+| orldpopu |      | Worth    | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/fort- |         | ates/te |         |         |         |        |
+|          |      |          | worth-po |         | xas-pop |         |         |         |        |
+|          |      |          | pulation |         | ulation |         |         |         |        |
+|          |      |          | /        |         | /       |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 14   | San Fran | http://w | Califor | http:// | 888,653 | 870,887 | 805,235 | 1.01%  |
+| orldpopu |      | cisco    | orldpopu | nia     | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/san-f |         | ates/ca |         |         |         |        |
+|          |      |          | rancisco |         | liforni |         |         |         |        |
+|          |      |          | -populat |         | a-popul |         |         |         |        |
+|          |      |          | ion/     |         | ation/  |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 15   | Columbus | http://w | Ohio    | http:// | 880,182 | 860,090 | 787,033 | 1.15%  |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/colum |         | ates/oh |         |         |         |        |
+|          |      |          | bus-popu |         | io-popu |         |         |         |        |
+|          |      |          | lation/  |         | lation/ |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 16   | Charlott | http://w | North C | http:// | 873,363 | 842,051 | 731,424 | 1.83%  |
+| orldpopu |      | e        | orldpopu | arolina | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/charl |         | ates/no |         |         |         |        |
+|          |      |          | otte-pop |         | rth-car |         |         |         |        |
+|          |      |          | ulation/ |         | olina-p |         |         |         |        |
+|          |      |          |          |         | opulati |         |         |         |        |
+|          |      |          |          |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 17   | Indianap | http://w | Indiana | http:// | 860,902 | 855,164 | 820,445 | 0.33%  |
+| orldpopu |      | olis     | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/india |         | ates/in |         |         |         |        |
+|          |      |          | napolis- |         | diana-p |         |         |         |        |
+|          |      |          | populati |         | opulati |         |         |         |        |
+|          |      |          | on/      |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 18   | Seattle  | http://w | Washing | http:// | 746,046 | 704,352 | 608,660 | 2.87%  |
+| orldpopu |      |          | orldpopu | ton     | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/seatt |         | ates/wa |         |         |         |        |
+|          |      |          | le-popul |         | shingto |         |         |         |        |
+|          |      |          | ation/   |         | n-popul |         |         |         |        |
+|          |      |          |          |         | ation/  |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 19   | Denver   | http://w | Colorad | http:// | 719,116 | 693,060 | 600,158 | 1.85%  |
+| orldpopu |      |          | orldpopu | o       | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/denve |         | ates/co |         |         |         |        |
+|          |      |          | r-popula |         | lorado- |         |         |         |        |
+|          |      |          | tion/    |         | populat |         |         |         |        |
+|          |      |          |          |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 20   | Washingt | http://w | Distric | http:// | 702,756 | 681,170 | 601,723 | 1.56%  |
+| orldpopu |      | on Dc Dc | orldpopu | t Of Co | worldpo |         |         |         |        |
+| lationre |      |          | lationre | lumbia  | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/washi |         | ates/di |         |         |         |        |
+|          |      |          | ngton-   |         | strict- |         |         |         |        |
+|          |      |          | dc-popul |         | of-colu |         |         |         |        |
+|          |      |          | ation/   |         | mbia-po |         |         |         |        |
+|          |      |          |          |         | pulatio |         |         |         |        |
+|          |      |          |          |         | n/      |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 21   | El Paso  | http://w | Texas   | http:// | 692,100 | 683,080 | 649,121 | 0.66%  |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/el-   |         | ates/te |         |         |         |        |
+|          |      |          | paso-pop |         | xas-pop |         |         |         |        |
+|          |      |          | ulation/ |         | ulation |         |         |         |        |
+|          |      |          |          |         | /       |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 22   | Boston   | http://w | Massach | http:// | 687,584 | 673,184 | 617,594 | 1.06%  |
+| orldpopu |      |          | orldpopu | usetts  | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/bosto |         | ates/ma |         |         |         |        |
+|          |      |          | n-popula |         | ssachus |         |         |         |        |
+|          |      |          | tion/    |         | etts-po |         |         |         |        |
+|          |      |          |          |         | pulatio |         |         |         |        |
+|          |      |          |          |         | n/      |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 23   | Nashvill | http://w | Tenness | http:// | 673,008 | 660,388 | 601,222 | 0.95%  |
+| orldpopu |      | e        | orldpopu | ee      | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/nashv |         | ates/te |         |         |         |        |
+|          |      |          | ille-pop |         | nnessee |         |         |         |        |
+|          |      |          | ulation/ |         | -popula |         |         |         |        |
+|          |      |          |          |         | tion/   |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 24   | Detroit  | http://w | Michiga | http:// | 665,713 | 672,795 | 713,777 | -0.53% |
+| orldpopu |      |          | orldpopu | n       | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/detro |         | ates/mi |         |         |         |        |
+|          |      |          | it-popul |         | chigan- |         |         |         |        |
+|          |      |          | ation/   |         | populat |         |         |         |        |
+|          |      |          |          |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 25   | Portland | http://w | Oregon  | http:// | 658,347 | 639,863 | 583,776 | 1.42%  |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/portl |         | ates/or |         |         |         |        |
+|          |      |          | and-popu |         | egon-po |         |         |         |        |
+|          |      |          | lation/  |         | pulatio |         |         |         |        |
+|          |      |          |          |         | n/      |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 26   | Oklahoma | http://w | Oklahom | http:// | 653,865 | 638,367 | 579,999 | 1.20%  |
+| orldpopu |      | City     | orldpopu | a       | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/oklah |         | ates/ok |         |         |         |        |
+|          |      |          | oma-     |         | lahoma- |         |         |         |        |
+|          |      |          | city-pop |         | populat |         |         |         |        |
+|          |      |          | ulation/ |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 27   | Las      | http://w | Nevada  | http:// | 653,840 | 632,912 | 583,756 | 1.63%  |
+| orldpopu |      | Vegas    | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/las-  |         | ates/ne |         |         |         |        |
+|          |      |          | vegas-po |         | vada-po |         |         |         |        |
+|          |      |          | pulation |         | pulatio |         |         |         |        |
+|          |      |          | /        |         | n/      |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 28   | Memphis  | http://w | Tenness | http:// | 649,243 | 652,717 | 646,889 | -0.27% |
+| orldpopu |      |          | orldpopu | ee      | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/memph |         | ates/te |         |         |         |        |
+|          |      |          | is-popul |         | nnessee |         |         |         |        |
+|          |      |          | ation/   |         | -popula |         |         |         |        |
+|          |      |          |          |         | tion/   |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 29   | Louisvil | http://w | Kentuck | http:// | 619,287 | 616,261 | 597,337 | 0.24%  |
+| orldpopu |      | le       | orldpopu | y       | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/louis |         | ates/ke |         |         |         |        |
+|          |      |          | ville-po |         | ntucky- |         |         |         |        |
+|          |      |          | pulation |         | populat |         |         |         |        |
+|          |      |          | /        |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 30   | Baltimor | http://w | Marylan | http:// | 601,188 | 614,664 | 620,961 | -1.11% |
+| orldpopu |      | e        | orldpopu | d       | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/balti |         | ates/ma |         |         |         |        |
+|          |      |          | more-pop |         | ryland- |         |         |         |        |
+|          |      |          | ulation/ |         | populat |         |         |         |        |
+|          |      |          |          |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 31   | Milwauke | http://w | Wiscons | http:// | 586,315 | 595,047 | 594,833 | -0.74% |
+| orldpopu |      | e        | orldpopu | in      | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/milwa |         | ates/wi |         |         |         |        |
+|          |      |          | ukee-pop |         | sconsin |         |         |         |        |
+|          |      |          | ulation/ |         | -popula |         |         |         |        |
+|          |      |          |          |         | tion/   |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 32   | Albuquer | http://w | New     | http:// | 562,935 | 559,277 | 545,852 | 0.33%  |
+| orldpopu |      | que      | orldpopu | Mexico  | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/albuq |         | ates/ne |         |         |         |        |
+|          |      |          | uerque-p |         | w-      |         |         |         |        |
+|          |      |          | opulatio |         | mexico- |         |         |         |        |
+|          |      |          | n/       |         | populat |         |         |         |        |
+|          |      |          |          |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 33   | Tucson   | http://w | Arizona | http:// | 535,236 | 530,706 | 520,116 | 0.42%  |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/tucso |         | ates/ar |         |         |         |        |
+|          |      |          | n-popula |         | izona-p |         |         |         |        |
+|          |      |          | tion/    |         | opulati |         |         |         |        |
+|          |      |          |          |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 34   | Fresno   | http://w | Califor | http:// | 529,153 | 522,053 | 494,665 | 0.68%  |
+| orldpopu |      |          | orldpopu | nia     | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/fresn |         | ates/ca |         |         |         |        |
+|          |      |          | o-popula |         | liforni |         |         |         |        |
+|          |      |          | tion/    |         | a-popul |         |         |         |        |
+|          |      |          |          |         | ation/  |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 35   | Sacramen | http://w | Califor | http:// | 507,298 | 495,234 | 466,488 | 1.20%  |
+| orldpopu |      | to       | orldpopu | nia     | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/sacra |         | ates/ca |         |         |         |        |
+|          |      |          | mento-po |         | liforni |         |         |         |        |
+|          |      |          | pulation |         | a-popul |         |         |         |        |
+|          |      |          | /        |         | ation/  |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 36   | Mesa     | http://w | Arizona | http:// | 497,275 | 484,587 | 439,041 | 1.29%  |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/mesa- |         | ates/ar |         |         |         |        |
+|          |      |          | populati |         | izona-p |         |         |         |        |
+|          |      |          | on/      |         | opulati |         |         |         |        |
+|          |      |          |          |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 37   | Kansas   | http://w | Missour | http:// | 494,536 | 481,420 | 459,787 | 1.34%  |
+| orldpopu |      | City     | orldpopu | i       | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/kansa |         | ates/mi |         |         |         |        |
+|          |      |          | s-city-p |         | ssouri- |         |         |         |        |
+|          |      |          | opulatio |         | populat |         |         |         |        |
+|          |      |          | n/       |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 38   | Atlanta  | http://w | Georgia | http:// | 491,626 | 472,522 | 420,003 | 1.98%  |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/atlan |         | ates/ge |         |         |         |        |
+|          |      |          | ta-popul |         | orgia-p |         |         |         |        |
+|          |      |          | ation/   |         | opulati |         |         |         |        |
+|          |      |          |          |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 39   | Colorado | http://w | Colorad | http:// | 484,233 | 465,101 | 416,427 | 2.02%  |
+| orldpopu |      | Springs  | orldpopu | o       | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/color |         | ates/co |         |         |         |        |
+|          |      |          | ado-     |         | lorado- |         |         |         |        |
+|          |      |          | springs- |         | populat |         |         |         |        |
+|          |      |          | populati |         | ion/    |         |         |         |        |
+|          |      |          | on/      |         |         |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 40   | Miami    | http://w | Florida | http:// | 479,009 | 453,579 | 399,457 | 2.73%  |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/miami |         | ates/fl |         |         |         |        |
+|          |      |          | -populat |         | orida-p |         |         |         |        |
+|          |      |          | ion/     |         | opulati |         |         |         |        |
+|          |      |          |          |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 41   | Raleigh  | http://w | North C | http:// | 476,746 | 458,880 | 403,892 | 1.91%  |
+| orldpopu |      |          | orldpopu | arolina | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/ralei |         | ates/no |         |         |         |        |
+|          |      |          | gh-popul |         | rth-car |         |         |         |        |
+|          |      |          | ation/   |         | olina-p |         |         |         |        |
+|          |      |          |          |         | opulati |         |         |         |        |
+|          |      |          |          |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 42   | Long     | http://w | Califor | http:// | 467,512 | 470,130 | 462,257 | -0.28% |
+| orldpopu |      | Beach    | orldpopu | nia     | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/long- |         | ates/ca |         |         |         |        |
+|          |      |          | beach-po |         | liforni |         |         |         |        |
+|          |      |          | pulation |         | a-popul |         |         |         |        |
+|          |      |          | /        |         | ation/  |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 43   | Virginia | http://w | Virgini | http:// | 454,098 | 452,602 | 437,994 | 0.16%  |
+| orldpopu |      | Beach    | orldpopu | a       | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/virgi |         | ates/vi |         |         |         |        |
+|          |      |          | nia-     |         | rginia- |         |         |         |        |
+|          |      |          | beach-po |         | populat |         |         |         |        |
+|          |      |          | pulation |         | ion/    |         |         |         |        |
+|          |      |          | /        |         |         |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 44   | Omaha    | http://w | Nebrask | http:// | 450,364 | 446,970 | 408,958 | 0.38%  |
+| orldpopu |      |          | orldpopu | a       | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/omaha |         | ates/ne |         |         |         |        |
+|          |      |          | -populat |         | braska- |         |         |         |        |
+|          |      |          | ion/     |         | populat |         |         |         |        |
+|          |      |          |          |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 45   | Oakland  | http://w | Califor | http:// | 424,275 | 420,005 | 390,724 | 0.51%  |
+| orldpopu |      |          | orldpopu | nia     | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/oakla |         | ates/ca |         |         |         |        |
+|          |      |          | nd-popul |         | liforni |         |         |         |        |
+|          |      |          | ation/   |         | a-popul |         |         |         |        |
+|          |      |          |          |         | ation/  |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 46   | Minneapo | http://w | Minneso | http:// | 420,721 | 413,651 | 382,578 | 0.85%  |
+| orldpopu |      | lis      | orldpopu | ta      | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/minne |         | ates/mi |         |         |         |        |
+|          |      |          | apolis-p |         | nnesota |         |         |         |        |
+|          |      |          | opulatio |         | -popula |         |         |         |        |
+|          |      |          | n/       |         | tion/   |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 47   | Tulsa    | http://w | Oklahom | http:// | 403,060 | 403,090 | 391,906 | -0.00% |
+| orldpopu |      |          | orldpopu | a       | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/tulsa |         | ates/ok |         |         |         |        |
+|          |      |          | -populat |         | lahoma- |         |         |         |        |
+|          |      |          | ion/     |         | populat |         |         |         |        |
+|          |      |          |          |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 48   | Arlingto | http://w | Texas   | http:// | 401,248 | 392,772 | 365,438 | 1.07%  |
+| orldpopu |      | n        | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/arlin |         | ates/te |         |         |         |        |
+|          |      |          | gton-pop |         | xas-pop |         |         |         |        |
+|          |      |          | ulation/ |         | ulation |         |         |         |        |
+|          |      |          |          |         | /       |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 49   | New      | http://w | Louisia | http:// | 395,009 | 391,495 | 343,829 | 0.45%  |
+| orldpopu |      | Orleans  | orldpopu | na      | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/new-  |         | ates/lo |         |         |         |        |
+|          |      |          | orleans- |         | uisiana |         |         |         |        |
+|          |      |          | populati |         | -popula |         |         |         |        |
+|          |      |          | on/      |         | tion/   |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 50   | Tampa    | http://w | Florida | http:// | 394,507 | 377,165 | 335,709 | 2.25%  |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/tampa |         | ates/fl |         |         |         |        |
+|          |      |          | -populat |         | orida-p |         |         |         |        |
+|          |      |          | ion/     |         | opulati |         |         |         |        |
+|          |      |          |          |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 51   | Wichita  | http://w | Kansas  | http:// | 391,586 | 389,902 | 382,368 | 0.22%  |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/wichi |         | ates/ka |         |         |         |        |
+|          |      |          | ta-popul |         | nsas-po |         |         |         |        |
+|          |      |          | ation/   |         | pulatio |         |         |         |        |
+|          |      |          |          |         | n/      |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 52   | Bakersfi | http://w | Califor | http:// | 384,188 | 376,380 | 347,483 | 1.03%  |
+| orldpopu |      | eld      | orldpopu | nia     | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/baker |         | ates/ca |         |         |         |        |
+|          |      |          | sfield-p |         | liforni |         |         |         |        |
+|          |      |          | opulatio |         | a-popul |         |         |         |        |
+|          |      |          | n/       |         | ation/  |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 53   | Clevelan | http://w | Ohio    | http:// | 381,803 | 385,809 | 396,815 | -0.52% |
+| orldpopu |      | d        | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/cleve |         | ates/oh |         |         |         |        |
+|          |      |          | land-pop |         | io-popu |         |         |         |        |
+|          |      |          | ulation/ |         | lation/ |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 54   | Aurora   | http://w | Colorad | http:// | 368,518 | 361,710 | 325,078 | 0.93%  |
+| orldpopu |      |          | orldpopu | o       | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/auror |         | ates/co |         |         |         |        |
+|          |      |          | a-popula |         | lorado- |         |         |         |        |
+|          |      |          | tion/    |         | populat |         |         |         |        |
+|          |      |          |          |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 55   | Anaheim  | http://w | Califor | http:// | 354,553 | 351,043 | 336,265 | 0.50%  |
+| orldpopu |      |          | orldpopu | nia     | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/anahe |         | ates/ca |         |         |         |        |
+|          |      |          | im-popul |         | liforni |         |         |         |        |
+|          |      |          | ation/   |         | a-popul |         |         |         |        |
+|          |      |          |          |         | ation/  |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 56   | Honolulu | http://w | Hawaii  | http:// | 351,280 | 351,792 | 337,256 | -0.07% |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/honol |         | ates/ha |         |         |         |        |
+|          |      |          | ulu-popu |         | waii-po |         |         |         |        |
+|          |      |          | lation/  |         | pulatio |         |         |         |        |
+|          |      |          |          |         | n/      |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 57   | Santa    | http://w | Califor | http:// | 334,613 | 334,217 | 324,528 | 0.06%  |
+| orldpopu |      | Ana      | orldpopu | nia     | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/santa |         | ates/ca |         |         |         |        |
+|          |      |          | -ana-pop |         | liforni |         |         |         |        |
+|          |      |          | ulation/ |         | a-popul |         |         |         |        |
+|          |      |          |          |         | ation/  |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 58   | Riversid | http://w | Califor | http:// | 331,606 | 324,722 | 303,871 | 1.05%  |
+| orldpopu |      | e        | orldpopu | nia     | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/river |         | ates/ca |         |         |         |        |
+|          |      |          | side-pop |         | liforni |         |         |         |        |
+|          |      |          | ulation/ |         | a-popul |         |         |         |        |
+|          |      |          |          |         | ation/  |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 59   | Corpus   | http://w | Texas   | http:// | 328,183 | 325,733 | 305,215 | 0.37%  |
+| orldpopu |      | Christi  | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/corpu |         | ates/te |         |         |         |        |
+|          |      |          | s-       |         | xas-pop |         |         |         |        |
+|          |      |          | christi- |         | ulation |         |         |         |        |
+|          |      |          | populati |         | /       |         |         |         |        |
+|          |      |          | on/      |         |         |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 60   | Lexingto | http://w | Kentuck | http:// | 325,813 | 318,449 | 295,803 | 1.14%  |
+| orldpopu |      | n        | orldpopu | y       | worldpo |         |         |         |        |
+| lationre |      | Fayette  | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/lexin |         | ates/ke |         |         |         |        |
+|          |      |          | gton-    |         | ntucky- |         |         |         |        |
+|          |      |          | fayette- |         | populat |         |         |         |        |
+|          |      |          | populati |         | ion/    |         |         |         |        |
+|          |      |          | on/      |         |         |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 61   | Stockton | http://w | Califor | http:// | 312,080 | 307,072 | 291,707 | 0.81%  |
+| orldpopu |      |          | orldpopu | nia     | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/stock |         | ates/ca |         |         |         |        |
+|          |      |          | ton-popu |         | liforni |         |         |         |        |
+|          |      |          | lation/  |         | a-popul |         |         |         |        |
+|          |      |          |          |         | ation/  |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 62   | Henderso | http://w | Nevada  | http:// | 309,155 | 292,969 | 257,729 | 2.69%  |
+| orldpopu |      | n        | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/hende |         | ates/ne |         |         |         |        |
+|          |      |          | rson-pop |         | vada-po |         |         |         |        |
+|          |      |          | ulation/ |         | pulatio |         |         |         |        |
+|          |      |          |          |         | n/      |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 63   | St. Paul | http://w | Minneso | http:// | 308,138 | 302,398 | 285,068 | 0.94%  |
+| orldpopu |      |          | orldpopu | ta      | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/st-   |         | ates/mi |         |         |         |        |
+|          |      |          | paul-pop |         | nnesota |         |         |         |        |
+|          |      |          | ulation/ |         | -popula |         |         |         |        |
+|          |      |          |          |         | tion/   |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 64   | St.      | http://w | Missour | http:// | 304,462 | 311,404 | 319,294 | -1.13% |
+| orldpopu |      | Louis    | orldpopu | i       | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/st-   |         | ates/mi |         |         |         |        |
+|          |      |          | louis-po |         | ssouri- |         |         |         |        |
+|          |      |          | pulation |         | populat |         |         |         |        |
+|          |      |          | /        |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 65   | Pittsbur | http://w | Pennsyl | http:// | 303,147 | 303,625 | 305,704 | -0.08% |
+| orldpopu |      | gh       | orldpopu | vania   | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/pitts |         | ates/pe |         |         |         |        |
+|          |      |          | burgh-po |         | nnsylva |         |         |         |        |
+|          |      |          | pulation |         | nia-pop |         |         |         |        |
+|          |      |          | /        |         | ulation |         |         |         |        |
+|          |      |          |          |         | /       |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 66   | Cincinna | http://w | Ohio    | http:// | 299,092 | 298,800 | 296,943 | 0.05%  |
+| orldpopu |      | ti       | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/cinci |         | ates/oh |         |         |         |        |
+|          |      |          | nnati-po |         | io-popu |         |         |         |        |
+|          |      |          | pulation |         | lation/ |         |         |         |        |
+|          |      |          | /        |         |         |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 67   | Anchorag | http://w | Alaska  | http:// | 297,952 | 298,192 | 291,826 | -0.04% |
+| orldpopu |      | e        | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/ancho |         | ates/al |         |         |         |        |
+|          |      |          | rage-pop |         | aska-po |         |         |         |        |
+|          |      |          | ulation/ |         | pulatio |         |         |         |        |
+|          |      |          |          |         | n/      |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 68   | Plano    | http://w | Texas   | http:// | 291,671 | 286,057 | 259,841 | 0.97%  |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/plano |         | ates/te |         |         |         |        |
+|          |      |          | -populat |         | xas-pop |         |         |         |        |
+|          |      |          | ion/     |         | ulation |         |         |         |        |
+|          |      |          |          |         | /       |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 69   | Orlando  | http://w | Florida | http:// | 290,553 | 277,173 | 238,300 | 2.36%  |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/orlan |         | ates/fl |         |         |         |        |
+|          |      |          | do-popul |         | orida-p |         |         |         |        |
+|          |      |          | ation/   |         | opulati |         |         |         |        |
+|          |      |          |          |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 70   | Greensbo | http://w | North C | http:// | 290,519 | 287,027 | 269,666 | 0.60%  |
+| orldpopu |      | ro       | orldpopu | arolina | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/green |         | ates/no |         |         |         |        |
+|          |      |          | sboro-po |         | rth-car |         |         |         |        |
+|          |      |          | pulation |         | olina-p |         |         |         |        |
+|          |      |          | /        |         | opulati |         |         |         |        |
+|          |      |          |          |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 71   | Lincoln  | http://w | Nebrask | http:// | 287,870 | 280,364 | 258,379 | 1.32%  |
+| orldpopu |      |          | orldpopu | a       | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/linco |         | ates/ne |         |         |         |        |
+|          |      |          | ln-popul |         | braska- |         |         |         |        |
+|          |      |          | ation/   |         | populat |         |         |         |        |
+|          |      |          |          |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 72   | Irvine   | http://w | Califor | http:// | 286,720 | 266,122 | 212,375 | 3.73%  |
+| orldpopu |      |          | orldpopu | nia     | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/irvin |         | ates/ca |         |         |         |        |
+|          |      |          | e-popula |         | liforni |         |         |         |        |
+|          |      |          | tion/    |         | a-popul |         |         |         |        |
+|          |      |          |          |         | ation/  |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 73   | Newark   | http://w | New     | http:// | 283,092 | 281,764 | 277,140 | 0.24%  |
+| orldpopu |      |          | orldpopu | Jersey  | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/newar |         | ates/ne |         |         |         |        |
+|          |      |          | k-popula |         | w-      |         |         |         |        |
+|          |      |          | tion/    |         | jersey- |         |         |         |        |
+|          |      |          |          |         | populat |         |         |         |        |
+|          |      |          |          |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 74   | Toledo   | http://w | Ohio    | http:// | 276,172 | 278,508 | 287,208 | -0.42% |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/toled |         | ates/oh |         |         |         |        |
+|          |      |          | o-popula |         | io-popu |         |         |         |        |
+|          |      |          | tion/    |         | lation/ |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 75   | Durham   | http://w | North C | http:// | 274,006 | 263,016 | 228,330 | 2.05%  |
+| orldpopu |      |          | orldpopu | arolina | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/durha |         | ates/no |         |         |         |        |
+|          |      |          | m-popula |         | rth-car |         |         |         |        |
+|          |      |          | tion/    |         | olina-p |         |         |         |        |
+|          |      |          |          |         | opulati |         |         |         |        |
+|          |      |          |          |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 76   | Chula    | http://w | Califor | http:// | 271,434 | 267,172 | 243,916 | 0.79%  |
+| orldpopu |      | Vista    | orldpopu | nia     | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/chula |         | ates/ca |         |         |         |        |
+|          |      |          | -vista-p |         | liforni |         |         |         |        |
+|          |      |          | opulatio |         | a-popul |         |         |         |        |
+|          |      |          | n/       |         | ation/  |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 77   | St. Pete | http://w | Florida | http:// | 269,645 | 260,999 | 244,769 | 1.63%  |
+| orldpopu |      | rsburg   | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/st-pe |         | ates/fl |         |         |         |        |
+|          |      |          | tersburg |         | orida-p |         |         |         |        |
+|          |      |          | -populat |         | opulati |         |         |         |        |
+|          |      |          | ion/     |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 78   | Fort     | http://w | Indiana | http:// | 267,852 | 264,488 | 253,691 | 0.63%  |
+| orldpopu |      | Wayne    | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/fort- |         | ates/in |         |         |         |        |
+|          |      |          | wayne-po |         | diana-p |         |         |         |        |
+|          |      |          | pulation |         | opulati |         |         |         |        |
+|          |      |          | /        |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 79   | Jersey   | http://w | New     | http:// | 264,720 | 264,152 | 247,597 | 0.11%  |
+| orldpopu |      | City     | orldpopu | Jersey  | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/jerse |         | ates/ne |         |         |         |        |
+|          |      |          | y-city-p |         | w-      |         |         |         |        |
+|          |      |          | opulatio |         | jersey- |         |         |         |        |
+|          |      |          | n/       |         | populat |         |         |         |        |
+|          |      |          |          |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 80   | Laredo   | http://w | Texas   | http:// | 262,034 | 257,156 | 236,091 | 0.94%  |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/lared |         | ates/te |         |         |         |        |
+|          |      |          | o-popula |         | xas-pop |         |         |         |        |
+|          |      |          | tion/    |         | ulation |         |         |         |        |
+|          |      |          |          |         | /       |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 81   | Madison  | http://w | Wiscons | http:// | 260,427 | 252,551 | 233,209 | 1.54%  |
+| orldpopu |      |          | orldpopu | in      | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/madis |         | ates/wi |         |         |         |        |
+|          |      |          | on-popul |         | sconsin |         |         |         |        |
+|          |      |          | ation/   |         | -popula |         |         |         |        |
+|          |      |          |          |         | tion/   |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 82   | Scottsda | http://w | Arizona | http:// | 260,189 | 246,645 | 217,385 | 2.67%  |
+| orldpopu |      | le       | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/scott |         | ates/ar |         |         |         |        |
+|          |      |          | sdale-po |         | izona-p |         |         |         |        |
+|          |      |          | pulation |         | opulati |         |         |         |        |
+|          |      |          | /        |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 83   | Lubbock  | http://w | Texas   | http:// | 260,188 | 252,506 | 229,573 | 1.50%  |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/lubbo |         | ates/te |         |         |         |        |
+|          |      |          | ck-popul |         | xas-pop |         |         |         |        |
+|          |      |          | ation/   |         | ulation |         |         |         |        |
+|          |      |          |          |         | /       |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 84   | Chandler | http://w | Arizona | http:// | 254,773 | 247,477 | 236,123 | 1.45%  |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/chand |         | ates/ar |         |         |         |        |
+|          |      |          | ler-popu |         | izona-p |         |         |         |        |
+|          |      |          | lation/  |         | opulati |         |         |         |        |
+|          |      |          |          |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 85   | Reno     | http://w | Nevada  | http:// | 254,431 | 245,255 | 225,221 | 1.84%  |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/reno- |         | ates/ne |         |         |         |        |
+|          |      |          | populati |         | vada-po |         |         |         |        |
+|          |      |          | on/      |         | pulatio |         |         |         |        |
+|          |      |          |          |         | n/      |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 86   | Buffalo  | http://w | New     | http:// | 254,004 | 256,902 | 261,310 | -0.57% |
+| orldpopu |      |          | orldpopu | York    | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/buffa |         | ates/ne |         |         |         |        |
+|          |      |          | lo-popul |         | w-york- |         |         |         |        |
+|          |      |          | ation/   |         | populat |         |         |         |        |
+|          |      |          |          |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 87   | Glendale | http://w | Arizona | http:// | 251,269 | 245,895 | 226,721 | 1.08%  |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/glend |         | ates/ar |         |         |         |        |
+|          |      |          | ale-popu |         | izona-p |         |         |         |        |
+|          |      |          | lation/  |         | opulati |         |         |         |        |
+|          |      |          |          |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 88   | North    | http://w | Nevada  | http:// | 247,680 | 238,702 | 216,961 | 1.85%  |
+| orldpopu |      | Las      | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      | Vegas    | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/north |         | ates/ne |         |         |         |        |
+|          |      |          | -las-    |         | vada-po |         |         |         |        |
+|          |      |          | vegas-po |         | pulatio |         |         |         |        |
+|          |      |          | pulation |         | n/      |         |         |         |        |
+|          |      |          | /        |         |         |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 89   | Gilbert  | http://w | Arizona | http:// | 246,601 | 237,133 | 208,453 | 1.96%  |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/gilbe |         | ates/ar |         |         |         |        |
+|          |      |          | rt-popul |         | izona-p |         |         |         |        |
+|          |      |          | ation/   |         | opulati |         |         |         |        |
+|          |      |          |          |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 90   | Winston  | http://w | North C | http:// | 245,549 | 242,203 | 229,617 | 0.69%  |
+| orldpopu |      | Salem    | orldpopu | arolina | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/winst |         | ates/no |         |         |         |        |
+|          |      |          | on-      |         | rth-car |         |         |         |        |
+|          |      |          | salem-po |         | olina-p |         |         |         |        |
+|          |      |          | pulation |         | opulati |         |         |         |        |
+|          |      |          | /        |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 91   | Norfolk  | http://w | Virgini | http:// | 243,085 | 245,115 | 242,803 | -0.42% |
+| orldpopu |      |          | orldpopu | a       | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/norfo |         | ates/vi |         |         |         |        |
+|          |      |          | lk-popul |         | rginia- |         |         |         |        |
+|          |      |          | ation/   |         | populat |         |         |         |        |
+|          |      |          |          |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 92   | Chesapea | http://w | Virgini | http:// | 242,958 | 237,940 | 222,209 | 1.04%  |
+| orldpopu |      | ke       | orldpopu | a       | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/chesa |         | ates/vi |         |         |         |        |
+|          |      |          | peake-po |         | rginia- |         |         |         |        |
+|          |      |          | pulation |         | populat |         |         |         |        |
+|          |      |          | /        |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 93   | Irving   | http://w | Texas   | http:// | 242,873 | 238,289 | 216,290 | 0.95%  |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/irvin |         | ates/te |         |         |         |        |
+|          |      |          | g-popula |         | xas-pop |         |         |         |        |
+|          |      |          | tion/    |         | ulation |         |         |         |        |
+|          |      |          |          |         | /       |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 94   | Fremont  | http://w | Califor | http:// | 236,566 | 233,136 | 214,089 | 0.73%  |
+| orldpopu |      |          | orldpopu | nia     | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/fremo |         | ates/ca |         |         |         |        |
+|          |      |          | nt-popul |         | liforni |         |         |         |        |
+|          |      |          | ation/   |         | a-popul |         |         |         |        |
+|          |      |          |          |         | ation/  |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 95   | Hialeah  | http://w | Florida | http:// | 235,081 | 236,387 | 224,669 | -0.28% |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/hiale |         | ates/fl |         |         |         |        |
+|          |      |          | ah-popul |         | orida-p |         |         |         |        |
+|          |      |          | ation/   |         | opulati |         |         |         |        |
+|          |      |          |          |         | on/     |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 96   | Garland  | http://w | Texas   | http:// | 232,421 | 234,943 | 226,876 | -0.54% |
+| orldpopu |      |          | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/garla |         | ates/te |         |         |         |        |
+|          |      |          | nd-popul |         | xas-pop |         |         |         |        |
+|          |      |          | ation/   |         | ulation |         |         |         |        |
+|          |      |          |          |         | /       |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 97   | Richmond | http://w | Virgini | http:// | 230,254 | 223,170 | 204,214 | 1.56%  |
+| orldpopu |      |          | orldpopu | a       | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/richm |         | ates/vi |         |         |         |        |
+|          |      |          | ond-popu |         | rginia- |         |         |         |        |
+|          |      |          | lation/  |         | populat |         |         |         |        |
+|          |      |          |          |         | ion/    |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 98   | Boise    | http://w | Idaho   | http:// | 228,900 | 223,154 | 205,671 | 1.27%  |
+| orldpopu |      | City     | orldpopu |         | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/boise |         | ates/id |         |         |         |        |
+|          |      |          | -city-po |         | aho-pop |         |         |         |        |
+|          |      |          | pulation |         | ulation |         |         |         |        |
+|          |      |          | /        |         | /       |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 99   | Baton    | http://w | Louisia | http:// | 226,505 | 227,715 | 229,493 | -0.27% |
+| orldpopu |      | Rouge    | orldpopu | na      | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/baton |         | ates/lo |         |         |         |        |
+|          |      |          | -rouge-p |         | uisiana |         |         |         |        |
+|          |      |          | opulatio |         | -popula |         |         |         |        |
+|          |      |          | n/       |         | tion/   |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+
+| http://w | 100  | Spokane  | http://w | Washing | http:// | 221,759 | 215,973 | 208,916 | 1.32%  |
+| orldpopu |      |          | orldpopu | ton     | worldpo |         |         |         |        |
+| lationre |      |          | lationre |         | pulatio |         |         |         |        |
+| view.com |      |          | view.com |         | nreview |         |         |         |        |
+| /us-     |      |          | /us-citi |         | .com/st |         |         |         |        |
+| cities/  |      |          | es/spoka |         | ates/wa |         |         |         |        |
+|          |      |          | ne-popul |         | shingto |         |         |         |        |
+|          |      |          | ation/   |         | n-popul |         |         |         |        |
+|          |      |          |          |         | ation/  |         |         |         |        |
++----------+------+----------+----------+---------+---------+---------+---------+---------+--------+

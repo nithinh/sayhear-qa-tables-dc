@@ -1,0 +1,1163 @@
+
+--------------------------------------------------------------------
+
+2-->131
+
+Q2.	What temperature is chicken done 
+Q131.	Alexa how can I access my flashlight on my Samsung S8 
+
+what	1.1701	0.0000		0.0000
+temperatur	1.0688	0.0000		0.0140
+chicken	1.2715	0.0000		0.0334
+done	1.6181	0.0938		0.0000
+
+--------------------------------------------------------------------
+
+4-->132
+
+Q4.	Alexa how far is the moon 
+Q132.	What s the longest running Broadway show 
+
+alexa	0.0000	0.0000		0.0000
+far	1.5602	0.0000		0.0000
+moon	1.9264	0.0022		0.2275
+
+--------------------------------------------------------------------
+
+10-->36
+
+Q10.	How many vitamins do you need a day 
+Q36.	Alexa what is a good vitamin for the eye 
+
+how	0.9361	0.0000		0.0000
+mani	0.7975	0.0119		0.0000
+vitamin	1.1558	0.4054		0.2312
+need	0.7975	0.0179		0.0000
+day	0.5723	0.0043		0.5150
+
+--------------------------------------------------------------------
+
+11-->23
+
+Q11.	Alexa what is the current Bitcoin price 
+Q23.	Alexa what is the current price of Bitcoin 
+
+alexa	0.0000	0.0000		0.0000
+current	0.9768	0.0000		0.0000
+bitcoin	1.1316	0.1414		0.1886
+price	0.8342	0.1043		0.4866
+
+--------------------------------------------------------------------
+
+13-->37
+
+Q13.	Google what is the weather like for tomorrow 
+Q37.	Hey google whats the weather like in the morning tomorrow 
+
+googl	1.2715	0.0000		0.0000
+weather	1.1701	0.0624		0.3144
+like	0.9411	0.0000		0.0000
+tomorrow	1.3434	0.0716		0.0401
+
+--------------------------------------------------------------------
+
+15-->171
+
+Q15.	what does gop stand for 
+Q171.	Alexa show me president Trump s approval rating 
+
+gop	2.8896	0.0004		0.4816
+stand	2.2632	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+17-->18
+
+Q17.	Who will be in the 2018 super bowl 
+Q18.	Alexa when is Easter this year 
+
+who	1.2715	0.0005		0.0000
+2018	0.6303	0.0000		0.0905
+super	0.9768	0.0008		0.1430
+bowl	1.1316	0.0010		0.1657
+
+--------------------------------------------------------------------
+
+20-->113
+
+Q20.	Who is the 34thpresident of the United states of America 
+Q113.	Who was Ernest Borgnine s spouse 
+
+who	1.0172	0.0000		0.0000
+34thpresid	0.0000	0.0000		0.0000
+unit	0.5287	0.0277		0.0919
+state	0.5120	0.0268		0.0968
+america	0.8550	0.0224		0.0000
+
+--------------------------------------------------------------------
+
+25-->130
+
+Q25.	Alexa how much is an HP Stream laptop 
+Q130.	alexa what are the best laptops 
+
+alexa	0.0000	0.0000		0.0000
+much	0.8339	0.0000		0.0000
+HP	1.0747	0.0000		0.0356
+stream	1.1558	0.0000		0.3827
+laptop	1.2945	0.0180		0.0000
+
+--------------------------------------------------------------------
+
+30-->47
+
+Q30.	What should I buy my wife for our 5th anniversary 
+Q47.	Alexa when does season 2 of Jessica Jones come out on Netflix 
+
+what	0.7801	0.0000		0.0000
+I	0.5970	0.0022		0.0000
+buy	0.8956	0.0032		0.0000
+wife	0.8956	0.0097		0.0000
+5th	0.7321	0.0000		0.0165
+anniversari	0.9632	0.0000		0.5214
+
+--------------------------------------------------------------------
+
+31-->176
+
+Q31.	Alexa where is the Mall of America located 
+Q176.	local antiques stores 
+
+alexa	0.0000	0.0000		0.0000
+mall	1.4448	0.0105		0.1312
+america	1.0688	0.0000		0.0118
+locat	0.7516	0.0022		0.0041
+
+--------------------------------------------------------------------
+
+32-->110
+
+Q32.	Alexa what time is The Four on 
+Q110.	What Super Bowl did Tom Brady perform the best in 
+
+alexa	0.0000	0.0000		0.0000
+time	0.6897	0.0217		0.0000
+the	0.6030	0.0000		0.0383
+four	1.0688	0.0336		0.0679
+
+--------------------------------------------------------------------
+
+37-->151
+
+Q37.	Hey google whats the weather like in the morning tomorrow 
+Q151.	Alexa what are the vegan pizza spots in St Charles 
+
+hey	0.0000	0.0000		0.0000
+googl	0.7266	0.0064		0.0000
+what	0.6686	0.0059		0.0000
+weather	0.6686	0.0000		0.0624
+like	0.5377	0.0048		0.0000
+morn	0.0000	0.0000		0.0000
+tomorrow	0.7677	0.0000		0.0716
+
+--------------------------------------------------------------------
+
+39-->166
+
+Q39.	Alexa when is the next season of The Handmaid s Tale to start 
+Q166.	Alexa what is the most popular tv show that people are watching 
+
+alexa	0.0000	0.0000		0.0000
+next	0.5957	0.0246		0.0053
+season	0.5285	0.0000		0.1918
+the	0.3445	0.0171		0.0610
+handmaid	0.8256	0.0341		0.4091
+tale	0.8256	0.0341		0.3945
+start	0.5476	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+40-->47
+
+Q40.	When does season 6 of Arrow start 
+Q47.	Alexa when does season 2 of Jessica Jones come out on Netflix 
+
+when	1.1558	0.0174		0.0000
+season	0.7399	0.0312		0.1526
+6	0.3816	0.0011		0.0197
+arrow	1.0747	0.0000		0.3324
+start	0.7666	0.0069		0.0000
+
+--------------------------------------------------------------------
+
+41-->132
+
+Q41.	How do I get a refund for Social Security Tax erroneously withheld 
+Q132.	What s the longest running Broadway show 
+
+how	0.5201	0.0018		0.0034
+I	0.3980	0.0027		0.0009
+get	0.4111	0.0028		0.0000
+refund	0.5403	0.0000		0.0024
+social	0.5651	0.0000		0.0019
+secur	0.4750	0.0000		0.0021
+tax	0.4881	0.0000		0.0406
+erron	0.7191	0.0000		0.0000
+withheld	0.0000	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+52-->66
+
+Q52.	Alexa when was Donald Trump elected 
+Q66.	Alexa who was the third president of the United States 
+
+alexa	0.0000	0.0000		0.0000
+donald	1.0424	0.0034		0.0000
+trump	1.0688	0.0040		0.0000
+elect	1.0424	0.0039		0.4695
+
+--------------------------------------------------------------------
+
+54-->48
+
+Q54.	Alexa is there a Jewish holiday on January 31st 
+Q48.	Siri when are you able to file federal taxes for 2018 
+
+alexa	0.0000	0.0000		0.0000
+jewish	1.1558	0.0000		0.0470
+holiday	0.9053	0.0098		0.4048
+januari	0.7278	0.0157		0.0000
+31st	0.0000	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+56-->18
+
+Q56.	Where is ticonderoga 
+Q18.	Alexa when is Easter this year 
+
+where	2.8896	0.0006		0.0000
+ticonderoga	0.0000	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+57-->39
+
+Q57.	When does final fantasy 15 come out for pc 
+Q39.	Alexa when is the next season of The Handmaid s Tale to start 
+
+when	0.9632	0.0000		0.0000
+final	0.7801	0.0059		0.3653
+fantasi	0.8105	0.0000		0.3795
+15	0.4020	0.0030		0.0000
+come	0.7801	0.0059		0.0000
+pc	1.0787	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+58-->33
+
+Q58.	What is Bitcoin 
+Q33.	Siri what was the best video game of 2017 
+
+what	2.3403	0.0036		0.0000
+bitcoin	2.2632	0.0000		0.3688
+
+--------------------------------------------------------------------
+
+62-->141
+
+Q62.	when paul walker dead 
+Q141.	Who sings the song him and I 
+
+paul	1.3581	0.0000		0.1116
+walker	1.6953	0.0026		0.2090
+dead	1.6209	0.0025		0.0000
+
+--------------------------------------------------------------------
+
+66-->26
+
+Q66.	Alexa who was the third president of the United States 
+Q26.	which is the current president of United States 
+
+alexa	0.0000	0.0000		0.0000
+third	1.0172	0.0000		0.0000
+presid	0.7975	0.1875		0.1056
+unit	0.5287	0.1334		0.0597
+state	0.5120	0.1368		0.0599
+
+--------------------------------------------------------------------
+
+67-->218
+
+Q67.	What is the currency exchange rate from US dollars to Japanese Yen 
+Q218.	Alexa what is the capital of Canada 
+
+what	0.5851	0.0000		0.0000
+currenc	0.5491	0.0201		0.0029
+exchang	0.6357	0.0000		0.0000
+rate	0.3839	0.0000		0.3230
+US	0.4984	0.0000		0.0000
+dollar	0.6357	0.0232		0.0269
+japanes	0.6357	0.0000		0.0034
+yen	0.7224	0.0000		0.0038
+
+--------------------------------------------------------------------
+
+68-->200
+
+Q68.	Alexa what day is easter on this year 
+Q200.	When is Easter 2018 
+
+alexa	0.0000	0.0000		0.0000
+day	0.7153	0.2067		0.0000
+easter	1.2715	0.2826		0.6323
+year	0.5945	0.0264		0.0129
+
+--------------------------------------------------------------------
+
+69-->174
+
+Q69.	Alexa when is spring equinox 2018 
+Q174.	Alex when does spring start this year 
+
+alexa	0.0000	0.0000		0.0000
+spring	1.1316	0.1293		0.5304
+equinox	1.3434	0.3071		0.6297
+2018	0.6303	0.0720		0.0197
+
+--------------------------------------------------------------------
+
+70-->75
+
+Q70.	Alexa what is the address for Darby Dental Supply in New York 
+Q75.	Alexa how is the stock exchange for Bitcoin 
+
+alexa	0.0000	0.0000		0.0000
+address	0.6107	0.0000		0.0382
+darbi	0.0000	0.0000		0.0000
+dental	0.8256	0.0000		0.0000
+suppli	0.9246	0.2122		0.0000
+new	0.3470	0.0000		0.0000
+york	0.4251	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+73-->127
+
+Q73.	Who is the governor of California 
+Q127.	Alexa who is the lead singer of Rush 
+
+who	1.6953	0.0014		0.0000
+governor	1.5602	0.0000		0.1994
+california	1.0845	0.0000		0.0013
+
+--------------------------------------------------------------------
+
+74-->105
+
+Q74.	What is the hex color code for yellow 
+Q105.	Is there a unicode character for the fi ligature 
+
+what	0.9361	0.0000		0.0000
+hex	1.1558	0.0239		0.0234
+color	0.8149	0.0000		0.2969
+code	0.8339	0.0172		0.3207
+yellow	1.1558	0.0000		0.0234
+
+--------------------------------------------------------------------
+
+75-->118
+
+Q75.	Alexa how is the stock exchange for Bitcoin 
+Q118.	Alexa what is the Meredith Corporation 
+
+alexa	0.0000	0.0000		0.0000
+stock	1.3434	0.0195		0.0000
+exchang	1.2715	0.0185		0.0000
+bitcoin	1.1316	0.0000		0.0742
+
+--------------------------------------------------------------------
+
+81-->24
+
+Q81.	what is antares pharma stock worth 
+Q24.	Alexa how many apple shares are outstanding 
+
+antar	0.0000	0.0000		0.0000
+pharma	0.0000	0.0000		0.0000
+stock	1.3434	0.4071		0.0000
+worth	1.1701	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+85-->151
+
+Q85.	What is the capital of New Jersey 
+Q151.	Alexa what are the vegan pizza spots in St Charles 
+
+what	1.1701	0.0059		0.0000
+capit	1.0424	0.0000		0.1725
+new	0.6073	0.0061		0.0142
+jersey	0.9583	0.0000		0.0061
+
+--------------------------------------------------------------------
+
+87-->141
+
+Q87.	How long do dogs live 
+Q141.	Who sings the song him and I 
+
+how	1.1701	0.0024		0.0000
+long	1.0186	0.0042		0.0000
+dog	1.2715	0.0000		0.0089
+live	0.9411	0.0020		0.0000
+
+--------------------------------------------------------------------
+
+89-->18
+
+Q89.	Alexa What year did the Civil War start 
+Q18.	Alexa when is Easter this year 
+
+alexa	0.0000	0.0000		0.0000
+what	0.7801	0.0000		0.0000
+year	0.3963	0.0033		0.0000
+civil	0.8105	0.0021		0.1351
+war	0.6791	0.0021		0.1132
+start	0.6389	0.0008		0.0000
+
+--------------------------------------------------------------------
+
+90-->129
+
+Q90.	Alexa what is the distance between England and the US 
+Q129.	Alexa what year did Jimi Hendrix die 
+
+alexa	0.0000	0.0000		0.0000
+distanc	1.1316	0.0000		0.5083
+england	1.2157	0.0350		0.0000
+US	0.9968	0.0287		0.0000
+
+--------------------------------------------------------------------
+
+93-->88
+
+Q93.	Alexa how many feet are in a meter 
+Q88.	How many square feet are in an acre 
+
+alexa	0.0000	0.0000		0.0000
+mani	0.9968	0.0000		0.2132
+feet	1.2157	0.0737		0.3121
+meter	1.2715	0.0771		0.0272
+
+--------------------------------------------------------------------
+
+94-->150
+
+Q94.	What is a block chain 
+Q150.	Alexa what is a bitcoin 
+
+what	1.5602	0.0000		0.0000
+block	1.7912	0.0165		0.0000
+chain	1.9264	0.0177		0.0000
+
+--------------------------------------------------------------------
+
+97-->39
+
+Q97.	Siri when is I prevail playing next in Texas 2018 
+Q39.	Alexa when is the next season of The Handmaid s Tale to start 
+
+siri	0.8256	0.0000		0.0000
+I	0.5117	0.0045		0.0000
+prevail	0.0000	0.0000		0.0000
+play	0.5696	0.0050		0.0000
+next	0.5957	0.0053		0.0000
+texa	0.5582	0.0000		0.0000
+2018	0.3601	0.0032		0.0000
+
+--------------------------------------------------------------------
+
+99-->197
+
+Q99.	Alexa what does USB stand for 
+Q197.	what are the feature of iphone 7plus 
+
+alexa	0.0000	0.0000		0.0000
+usb	1.6953	0.0070		0.0020
+stand	1.5088	0.0062		0.0000
+
+--------------------------------------------------------------------
+
+100-->72
+
+Q100.	Alexa how much does an iPhone X cost 
+Q72.	Alexa how long to get an id card 
+
+alexa	0.0000	0.0000		0.0000
+much	0.8339	0.0224		0.0000
+iphon	1.0747	0.0000		0.2579
+X	0.7666	0.0000		0.0050
+cost	1.0172	0.0547		0.0000
+
+--------------------------------------------------------------------
+
+102-->148
+
+Q102.	Alexa what IRA contributions will lower my taxes 
+Q148.	How big do horned nerite snails get 
+
+alexa	0.0000	0.0000		0.0000
+ira	1.0172	0.0000		0.0311
+contribut	0.9361	0.0170		0.0191
+lower	0.8786	0.0319		0.0089
+tax	0.8786	0.0000		0.4205
+
+--------------------------------------------------------------------
+
+104-->85
+
+Q104.	Alexa how many miles is it to drive from Los Angeles to San Francisco 
+Q85.	What is the capital of New Jersey 
+
+alexa	0.0000	0.0000		0.0000
+mani	0.4984	0.0000		0.0000
+mile	0.5851	0.0000		0.0000
+drive	0.5344	0.0000		0.0000
+lo	0.4625	0.0020		0.4032
+angel	0.4625	0.0020		0.4032
+san	0.4792	0.0020		0.2211
+francisco	0.5658	0.0024		0.2031
+
+--------------------------------------------------------------------
+
+111-->115
+
+Q111.	Who played Flash in The Flash 
+Q115.	what are the feature of Samsung Galaxy Note 8 Midnight Black 
+
+who	1.0172	0.0000		0.0000
+play	0.7975	0.0028		0.0000
+flash	1.8722	0.0033		0.2367
+the	0.4824	0.0000		0.1219
+flash	1.8722	0.0033		0.2367
+
+--------------------------------------------------------------------
+
+112-->33
+
+Q112.	Alexa when does the new Shadow of the Colossus come out 
+Q33.	Siri what was the best video game of 2017 
+
+alexa	0.0000	0.0000		0.0000
+new	0.4858	0.0037		0.0000
+shadow	1.0172	0.0077		0.2507
+colossu	1.1558	0.0088		0.2849
+come	0.9361	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+118-->150
+
+Q118.	Alexa what is the Meredith Corporation 
+Q150.	Alexa what is a bitcoin 
+
+alexa	0.0000	0.0000		0.0000
+meredith	1.9264	0.0035		0.3993
+corpor	1.5088	0.0028		0.2469
+
+--------------------------------------------------------------------
+
+120-->100
+
+Q120.	Siri what is the capital of California 
+Q100.	Alexa how much does an iPhone X cost 
+
+siri	1.9264	0.0075		0.0000
+capit	1.3899	0.0000		0.0869
+california	1.0845	0.0000		0.0678
+
+--------------------------------------------------------------------
+
+123-->218
+
+Q123.	which is the most common language in the world 
+Q218.	Alexa what is the capital of Canada 
+
+common	1.4643	0.0201		0.0000
+languag	1.1940	0.0164		0.2327
+world	1.3024	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+127-->47
+
+Q127.	Alexa who is the lead singer of Rush 
+Q47.	Alexa when does season 2 of Jessica Jones come out on Netflix 
+
+alexa	0.0000	0.0000		0.0000
+lead	1.1701	0.0028		0.1340
+singer	1.1701	0.0000		0.1340
+rush	1.3434	0.0032		0.0015
+
+--------------------------------------------------------------------
+
+128-->18
+
+Q128.	OK Google Who is the queen of england 
+Q18.	Alexa when is Easter this year 
+
+OK	1.0172	0.0005		0.0000
+googl	1.0172	0.0000		0.0000
+who	1.0172	0.0005		0.0000
+queen	0.9053	0.0000		0.0049
+england	0.9726	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+136-->236
+
+Q136.	What is the leading cause of death in the U S 
+Q236.	What is the NAIRU 
+
+what	0.7801	0.0225		0.0000
+lead	0.7801	0.0225		0.0000
+caus	0.6791	0.0000		0.0211
+death	0.6791	0.0000		0.0211
+U	0.5118	0.0148		0.0000
+S	0.4598	0.0133		0.0000
+
+--------------------------------------------------------------------
+
+138-->58
+
+Q138.	Alexa who became president after John Kennedy 
+Q58.	What is Bitcoin 
+
+alexa	0.0000	0.0000		0.0000
+becam	1.2945	0.0479		0.0000
+presid	0.7975	0.0000		0.1076
+john	0.7164	0.0000		0.0144
+kennedi	0.9726	0.0000		0.0022
+
+--------------------------------------------------------------------
+
+139-->141
+
+Q139.	Alexa who is the top musician of today 
+Q141.	Who sings the song him and I 
+
+alexa	0.0000	0.0000		0.0000
+top	1.0424	0.0022		0.0000
+musician	0.0000	0.0000		0.0000
+today	1.0982	0.0023		0.0000
+
+--------------------------------------------------------------------
+
+141-->132
+
+Q141.	Who sings the song him and I 
+Q132.	What s the longest running Broadway show 
+
+who	1.2715	0.0000		0.0000
+sing	0.0000	0.0000		0.0000
+song	1.3434	0.0040		0.0028
+I	0.8955	0.0027		0.0075
+
+--------------------------------------------------------------------
+
+142-->202
+
+Q142.	When is Donal Trumps birthday 
+Q202.	How old is Donald Trump 
+
+when	1.4448	0.0000		0.0000
+donal	0.0000	0.0000		0.0000
+trump	1.0688	0.4500		0.2672
+birthday	1.3434	0.2828		0.0000
+
+--------------------------------------------------------------------
+
+144-->85
+
+Q144.	What is the weather in Philadelphia PA 
+Q85.	What is the capital of New Jersey 
+
+what	1.1701	0.0000		0.0000
+weather	1.1701	0.0000		0.2302
+philadelphia	1.0186	0.0022		0.2004
+PA	1.2157	0.0026		0.0000
+
+--------------------------------------------------------------------
+
+145-->139
+
+Q145.	Alexa when is taylor swift coming to dallas 
+Q139.	Alexa who is the top musician of today 
+
+alexa	0.0000	0.0000		0.0000
+taylor	0.8786	0.0037		0.0090
+swift	1.0747	0.0046		0.0110
+come	0.9361	0.0000		0.0000
+dalla	0.7975	0.0000		0.2202
+
+--------------------------------------------------------------------
+
+146-->6
+
+Q146.	when can i get masters on amazon turk 
+Q6.	Alexa what is the best ergonomic mouse 
+
+get	0.9249	0.0000		0.0000
+master	1.4448	0.0482		0.5222
+amazon	1.1701	0.0520		0.0000
+turk	1.2157	0.0000		0.0879
+
+--------------------------------------------------------------------
+
+150-->58
+
+Q150.	Alexa what is a bitcoin 
+Q58.	What is Bitcoin 
+
+alexa	0.0000	0.0000		0.0000
+bitcoin	2.2632	0.3688		0.0250
+
+--------------------------------------------------------------------
+
+152-->179
+
+Q152.	Alexa did the groundhog see its shadow today 
+Q179.	What does the groundhog predict again 
+
+alexa	0.0000	0.0000		0.0000
+groundhog	0.9726	0.3242		0.0046
+see	0.7666	0.1278		0.0000
+shadow	1.0172	0.1695		0.5210
+today	0.8786	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+155-->48
+
+Q155.	When does Dartmouth s spring quarter begin 
+Q48.	Siri when are you able to file federal taxes for 2018 
+
+when	1.1558	0.0000		0.0000
+dartmouth	1.2945	0.0000		0.2693
+spring	0.9053	0.0000		0.0244
+quarter	1.1558	0.0125		0.0000
+begin	0.8339	0.0090		0.0106
+
+--------------------------------------------------------------------
+
+156-->198
+
+Q156.	Alexa how much does a 2016 ford fusion SE cost 
+Q198.	what is the price of the iphone SE 
+
+alexa	0.0000	0.0000		0.0000
+much	0.5957	0.0000		0.0000
+2016	0.4592	0.0000		0.0000
+ford	0.5957	0.0000		0.2780
+fusion	0.7266	0.0123		0.3391
+SE	0.8256	0.0280		0.0000
+cost	0.7266	0.0123		0.0000
+
+--------------------------------------------------------------------
+
+159-->36
+
+Q159.	What is the capital of Portugal 
+Q36.	Alexa what is a good vitamin for the eye 
+
+what	1.5602	0.0070		0.0000
+capit	1.3899	0.0000		0.2917
+portug	1.5602	0.0000		0.0012
+
+--------------------------------------------------------------------
+
+160-->47
+
+Q160.	When does Ant Man 2 come to theaters 
+Q47.	Alexa when does season 2 of Jessica Jones come out on Netflix 
+
+when	0.9632	0.0174		0.0000
+ant	0.8105	0.0000		0.0501
+man	0.6389	0.0069		0.0395
+2	0.2836	0.0143		0.0351
+come	0.7801	0.0028		0.0000
+theater	0.8105	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+162-->36
+
+Q162.	What are the best places to eat in Vegas 
+Q36.	Alexa what is a good vitamin for the eye 
+
+what	0.9361	0.0070		0.0000
+best	0.6953	0.0104		0.0018
+place	0.7815	0.0000		0.0041
+eat	1.0172	0.0228		0.0000
+vega	1.0747	0.0000		0.2281
+
+--------------------------------------------------------------------
+
+163-->17
+
+Q163.	Alexa what time does the Super Bowl start 
+Q17.	Who will be in the 2018 super bowl 
+
+alexa	0.0000	0.0000		0.0000
+time	0.5517	0.0991		0.1346
+super	0.7815	0.1430		0.0000
+bowl	0.9053	0.1657		0.0000
+start	0.7666	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+166-->47
+
+Q166.	Alexa what is the most popular tv show that people are watching 
+Q47.	Alexa when does season 2 of Jessica Jones come out on Netflix 
+
+alexa	0.0000	0.0000		0.0000
+popular	0.8105	0.0000		0.0000
+tv	0.8956	0.0000		0.0000
+show	0.6389	0.0138		0.0000
+peopl	0.6512	0.0047		0.0000
+watch	1.0787	0.0039		0.0000
+
+--------------------------------------------------------------------
+
+169-->45
+
+Q169.	What is AP BIo about 
+Q45.	Alexa who is the Patriots head coach 
+
+what	1.5602	0.0000		0.0000
+AP	1.9264	0.0271		0.0000
+bio	1.9264	0.0000		0.3802
+
+--------------------------------------------------------------------
+
+170-->18
+
+Q170.	Where is the 217 area code 
+Q18.	Alexa when is Easter this year 
+
+where	1.4448	0.0006		0.0000
+217	1.1701	0.0000		0.0034
+area	0.9249	0.0000		0.3088
+code	1.0424	0.0000		0.3480
+
+--------------------------------------------------------------------
+
+174-->177
+
+Q174.	Alex when does spring start this year 
+Q177.	Alexa where is the Ultra Music Festival held 
+
+alex	1.6181	0.2088		0.0000
+spring	1.1316	0.0000		0.1293
+start	0.9583	0.0000		0.0000
+year	0.5945	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+180-->160
+
+Q180.	Alexa who created Marvel Studios 
+Q160.	When does Ant Man 2 come to theaters 
+
+alexa	0.0000	0.0000		0.0000
+creat	1.0688	0.0000		0.0000
+marvel	1.2715	0.0524		0.5618
+studio	1.0688	0.0441		0.3977
+
+--------------------------------------------------------------------
+
+182-->44
+
+Q182.	Alexa is Hobby Lobby open on Sundays 
+Q44.	Okay Google What terminal does Southwest fly out of at Reagan Airport 
+
+alexa	0.0000	0.0000		0.0000
+hobbi	1.2945	0.0019		0.0000
+lobbi	0.0000	0.0000		0.0000
+open	0.7056	0.0000		0.0000
+sunday	0.8786	0.0000		0.1046
+
+--------------------------------------------------------------------
+
+185-->99
+
+Q185.	Alexa how many seconds are there in a year 
+Q99.	Alexa what does USB stand for 
+
+alexa	0.0000	0.0000		0.0000
+mani	0.9968	0.0016		0.0000
+second	1.0186	0.0049		0.1975
+year	0.5945	0.0000		0.2306
+
+--------------------------------------------------------------------
+
+187-->132
+
+Q187.	How old is the sun 
+Q132.	What s the longest running Broadway show 
+
+how	1.5602	0.0018		0.0000
+old	1.2130	0.0014		0.0000
+sun	1.4643	0.0000		0.2956
+
+--------------------------------------------------------------------
+
+189-->88
+
+Q189.	alexa how big is the population of china 
+Q88.	How many square feet are in an acre 
+
+alexa	0.0000	0.0000		0.0000
+big	1.1316	0.3429		0.0000
+popul	1.0688	0.0000		0.4876
+china	1.0424	0.0000		0.0020
+
+--------------------------------------------------------------------
+
+191-->4
+
+Q191.	Alexa how old is the earth 
+Q4.	Alexa how far is the moon 
+
+alexa	0.0000	0.0000		0.0000
+old	1.2130	0.0000		0.0000
+earth	1.4643	0.3805		0.1515
+
+--------------------------------------------------------------------
+
+197-->198
+
+Q197.	what are the feature of iphone 7plus 
+Q198.	what is the price of the iphone SE 
+
+featur	1.3024	0.0095		0.0027
+iphon	1.7912	0.3773		0.2148
+7plu	0.0000	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+198-->95
+
+Q198.	what is the price of the iphone SE 
+Q95.	Alexa is there a passively cooled GTX 1060 
+
+price	1.1123	0.0025		0.0646
+iphon	1.7912	0.0000		0.3773
+SE	1.9264	0.0087		0.0280
+
+--------------------------------------------------------------------
+
+200-->47
+
+Q200.	When is Easter 2018 
+Q47.	Alexa when does season 2 of Jessica Jones come out on Netflix 
+
+when	1.9264	0.0174		0.0000
+easter	1.6953	0.0000		0.2826
+2018	0.8403	0.0197		0.3361
+
+--------------------------------------------------------------------
+
+202-->66
+
+Q202.	How old is Donald Trump 
+Q66.	Alexa who was the third president of the United States 
+
+how	1.1701	0.0000		0.0000
+old	0.9098	0.0039		0.1915
+donald	1.0424	0.0034		0.4389
+trump	1.0688	0.0040		0.4500
+
+--------------------------------------------------------------------
+
+204-->141
+
+Q204.	where was Rihanna born 
+Q141.	Who sings the song him and I 
+
+rihanna	2.6868	0.0028		0.4299
+born	1.6906	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+210-->80
+
+Q210.	What is the capital of Louisiana 
+Q80.	Alexa who is singing the National anthem at the superbowl this year 
+
+what	1.5602	0.0000		0.0000
+capit	1.3899	0.0000		0.3404
+louisiana	1.5602	0.0055		0.0073
+
+--------------------------------------------------------------------
+
+213-->141
+
+Q213.	How old is Justin Timberlake 
+Q141.	Who sings the song him and I 
+
+how	1.1701	0.0024		0.0000
+old	0.9098	0.0038		0.0000
+justin	1.2157	0.0025		0.3935
+timberlak	1.2715	0.0026		0.4116
+
+--------------------------------------------------------------------
+
+215-->60
+
+Q215.	Alexa when does E3 start this year 
+Q60.	When is E3 2018 
+
+alexa	0.0000	0.0000		0.0000
+E3	1.6181	0.1579		0.0000
+start	0.9583	0.0000		0.0000
+year	0.5945	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+216-->220
+
+Q216.	How much is a bitcoin worth 
+Q220.	Alexa what does socioeconomic mean 
+
+how	1.1701	0.0000		0.0000
+much	1.0424	0.0169		0.0000
+bitcoin	1.1316	0.0000		0.1293
+worth	1.1701	0.0189		0.0000
+
+--------------------------------------------------------------------
+
+217-->110
+
+Q217.	What day is the Superbowl 
+Q110.	What Super Bowl did Tom Brady perform the best in 
+
+what	1.5602	0.0000		0.0000
+day	0.9538	0.0000		0.0000
+superbowl	1.9264	0.0114		0.0000
+
+--------------------------------------------------------------------
+
+218-->41
+
+Q218.	Alexa what is the capital of Canada 
+Q41.	How do I get a refund for Social Security Tax erroneously withheld 
+
+alexa	0.0000	0.0000		0.0000
+capit	1.3899	0.0005		0.0190
+canada	1.3291	0.0005		0.0364
+
+--------------------------------------------------------------------
+
+219-->223
+
+Q219.	Alexa what s the kilometer to mile conversion 
+Q223.	What is the exchange rate for 879 Euros in US Dollars 
+
+alexa	0.0000	0.0000		0.0000
+kilomet	1.6181	0.0000		0.0215
+mile	1.1701	0.0000		0.3421
+convers	1.4448	0.0038		0.0000
+
+--------------------------------------------------------------------
+
+222-->39
+
+Q222.	what happened during the recent oscars 2018 
+Q39.	Alexa when is the next season of The Handmaid s Tale to start 
+
+happen	1.4448	0.0073		0.0000
+recent	1.1701	0.0000		0.0000
+oscar	1.4448	0.0000		0.0000
+2018	0.6303	0.0032		0.0144
+
+--------------------------------------------------------------------
+
+223-->58
+
+Q223.	What is the exchange rate for 879 Euros in US Dollars 
+Q58.	What is Bitcoin 
+
+what	0.6686	0.0000		0.0000
+exchang	0.7266	0.0377		0.0000
+rate	0.4387	0.0000		0.3232
+879	0.8256	0.0428		0.0000
+euro	0.8256	0.0000		0.0191
+US	0.5696	0.0000		0.0026
+dollar	0.7266	0.0000		0.0303
+
+--------------------------------------------------------------------
+
+228-->222
+
+Q228.	Alexa how old is Jimmy Kimmel 
+Q222.	what happened during the recent oscars 2018 
+
+alexa	0.0000	0.0000		0.0000
+old	0.9098	0.0000		0.0000
+jimmi	1.1316	0.0259		0.2939
+kimmel	1.3434	0.0307		0.4187
+
+--------------------------------------------------------------------
+
+229-->36
+
+Q229.	What time is The Flash on 
+Q36.	Alexa what is a good vitamin for the eye 
+
+what	1.1701	0.0070		0.0000
+time	0.6897	0.0041		0.0046
+the	0.6030	0.0000		0.0398
+flash	1.1701	0.0000		0.0077
+
+--------------------------------------------------------------------
+
+231-->171
+
+Q231.	When is the next presidential election 
+Q171.	Alexa show me president Trump s approval rating 
+
+when	1.4448	0.0000		0.0000
+next	1.0424	0.0000		0.0000
+presidenti	1.3434	0.0008		0.0000
+elect	1.0424	0.0012		0.2406
+
+--------------------------------------------------------------------
+
+232-->188
+
+Q232.	Alexa when is Oscars 2018 
+Q188.	What did Cloverfield get on IMDB 
+
+alexa	0.0000	0.0000		0.0000
+oscar	1.9264	0.0033		0.0000
+2018	0.8403	0.0014		0.0144
+
+--------------------------------------------------------------------
+
+235-->188
+
+Q235.	Alexa What movie won best picture in 2011 
+Q188.	What did Cloverfield get on IMDB 
+
+alexa	0.0000	0.0000		0.0000
+what	0.7801	0.0000		0.0000
+movi	0.8105	0.0055		0.0000
+best	0.5794	0.0039		0.0483
+pictur	0.7125	0.0024		0.0594
+2011	0.6166	0.0000		0.0514

@@ -1,0 +1,36 @@
++--------------------------------+---------+--------+------+---------------+-----------------------+
+| url                            | Weekday | Date   | Year | Name          | Holiday_Type          |
++--------------------------------+---------+--------+------+---------------+-----------------------+
+| https://www.timeanddate.com/ho | Sun     | Apr 4  | 2010 | Easter Sunday | Observance, Christian |
+| lidays/us/easter-sunday        |         |        |      |               |                       |
++--------------------------------+---------+--------+------+---------------+-----------------------+
+| https://www.timeanddate.com/ho | Sun     | Apr 24 | 2011 | Easter Sunday | Observance, Christian |
+| lidays/us/easter-sunday        |         |        |      |               |                       |
++--------------------------------+---------+--------+------+---------------+-----------------------+
+| https://www.timeanddate.com/ho | Sun     | Apr 8  | 2012 | Easter Sunday | Observance, Christian |
+| lidays/us/easter-sunday        |         |        |      |               |                       |
++--------------------------------+---------+--------+------+---------------+-----------------------+
+| https://www.timeanddate.com/ho | Sun     | Mar 31 | 2013 | Easter Sunday | Observance, Christian |
+| lidays/us/easter-sunday        |         |        |      |               |                       |
++--------------------------------+---------+--------+------+---------------+-----------------------+
+| https://www.timeanddate.com/ho | Sun     | Apr 20 | 2014 | Easter Sunday | Observance, Christian |
+| lidays/us/easter-sunday        |         |        |      |               |                       |
++--------------------------------+---------+--------+------+---------------+-----------------------+
+| https://www.timeanddate.com/ho | Sun     | Apr 5  | 2015 | Easter Sunday | Observance, Christian |
+| lidays/us/easter-sunday        |         |        |      |               |                       |
++--------------------------------+---------+--------+------+---------------+-----------------------+
+| https://www.timeanddate.com/ho | Sun     | Mar 27 | 2016 | Easter Sunday | Observance, Christian |
+| lidays/us/easter-sunday        |         |        |      |               |                       |
++--------------------------------+---------+--------+------+---------------+-----------------------+
+| https://www.timeanddate.com/ho | Sun     | Apr 16 | 2017 | Easter Sunday | Observance, Christian |
+| lidays/us/easter-sunday        |         |        |      |               |                       |
++--------------------------------+---------+--------+------+---------------+-----------------------+
+| https://www.timeanddate.com/ho | Sun     | Apr 1  | 2018 | Easter Sunday | Observance, Christian |
+| lidays/us/easter-sunday        |         |        |      |               |                       |
++--------------------------------+---------+--------+------+---------------+-----------------------+
+| https://www.timeanddate.com/ho | Sun     | Apr 21 | 2019 | Easter Sunday | Observance, Christian |
+| lidays/us/easter-sunday        |         |        |      |               |                       |
++--------------------------------+---------+--------+------+---------------+-----------------------+
+| https://www.timeanddate.com/ho | Sun     | Apr 12 | 2020 | Easter Sunday | Observance, Christian |
+| lidays/us/easter-sunday        |         |        |      |               |                       |
++--------------------------------+---------+--------+------+---------------+-----------------------+

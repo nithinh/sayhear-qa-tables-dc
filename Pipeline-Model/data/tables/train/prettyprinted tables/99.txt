@@ -1,0 +1,615 @@
++-----------------------------------------+--------------+-----------------------------------------+
+| url                                     | Abbreviation | Full_Name                               |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | A/D          | Analog-to-Digital                       |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | ABC          | Atanasoff Berry Computer                |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | ACM          | Association for Computing Machinery     |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | AI           | Artificial Intelligence                 |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | ALGOL        | Algorithic Language                     |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | ALU          | Arithmetic Logic Unit                   |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | AMD          | Advanced Micro Devices                  |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | APRANET      | Advanced Research Project Agency        |
+| f_computer_science/basics_of_computer_s |              | Network                                 |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | ASCII        | American Standard Code for Information  |
+| f_computer_science/basics_of_computer_s |              | Interchange                             |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | BASIC        | Beginners All-purpose Symbolic          |
+| f_computer_science/basics_of_computer_s |              | Instruction Code                        |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | BCD          | Binary Coded Decimal                    |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | BIOS         | Basic Inpute Output System              |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | BIPS         | Billions of Instructions Per Second     |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | BPI          | Bytes Per Inch                          |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | CAD          | Computer Aided Design                   |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | CAE          | Computer Aided Engineering              |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | CAN          | Campus Area Network                     |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | CASE         | Computer Aided Software Engineering     |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | CD           | Compact Disk                            |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | CDC          | Control Data Corporation                |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | CD-R         | CD-Recordable                           |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | CD-ROM       | Compact Disk Read Only Memory           |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | CD-RW        | CD Read/Write                           |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | CL           | Command Language                        |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | CLI          | Command Line Interface                  |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | COBOL        | Common Business Oriented                |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | CODASYL      | Conference On Data Systems              |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | CPU          | Central Processing Unit                 |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | CRT          | Cathode Ray Tube                        |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | D/A          | Digital-to-Analog                       |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | DAT          | Digital Audio Tape                      |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | DBMS         | Data Base Management System             |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | DBS          | Demand Based Switching                  |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | DDL          | Data Definition Language                |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | DDS          | Digital Data Storage                    |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | DEC          | Digital Equipment Corporation           |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | DMA          | Direct Memory Access                    |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | DNA          | Digital Network Architecture            |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | DPI          | Dots Per Inch                           |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | DRAM         | Dynamic RAM                             |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | DSN          | Distributed Systems Network             |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | DTS          | Digital Theater System                  |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | DVD          | Digital Video/Versatile Disk            |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | EBCDIC       | Extended Binary Coded Decimal           |
+| f_computer_science/basics_of_computer_s |              | Interchange Code                        |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | EDSAC        | Electronic Delay Storage Automatic      |
+| f_computer_science/basics_of_computer_s |              | Calculator                              |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | EDVAC        | Electronic Discrete Variable Automatic  |
+| f_computer_science/basics_of_computer_s |              | Calculator                              |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | EFM          | Eight-to-Fourteen Modulation            |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | ENIAC        | Electronic Numerical Integrator And     |
+| f_computer_science/basics_of_computer_s |              | Calculator                              |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | EPG          | Electronic Programming Guide            |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | EPIC         | Explicitly Parallel Instruction         |
+| f_computer_science/basics_of_computer_s |              | Computing                               |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | EPROM        | Erasable Programmable Read-Only Memory  |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | FAT          | File Allocation Table                   |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | FDM          | Frequency Division Multiplexing         |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | FEP          | Front End Processor                     |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | FLOPS        | Floating Point Operations Per Second    |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | FM           | Frequency Modulation                    |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | FMS          | File Management System                  |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | FORTRAN      | FORmula TRANslation                     |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | FSK          | Frequency Shift Keying                  |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | FTP          | File Transfer Protocol                  |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | GB           | Giga Bytes                              |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | GFLOPS       | Giga FLOPS                              |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | GHz          | Giga Hertz                              |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | GNU          | Gnu Not Unix                            |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | GPRS         | General Packet Radio Service            |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | GSM          | Global System for Mobile communication  |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | GUI          | Graphical User Interface                |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | HP           | Hewlett Packard                         |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | HSS          | Hierarchical Storage System             |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | HTML         | HyperText Markup Language               |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | HTTP         | HyperText Transport Protocol            |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | IBM          | International Business Machine          |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | IC           | Integrated Circuit                      |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | IDN          | Integrated Digital Networks             |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | IP           | Internet Protocol                       |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | IrDA         | Infrared Data Association               |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | ISDN         | Integrated Services Digital Network     |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | ISP          | Internet Service Provider               |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | JPEG         | Joint Photographic Experts Group        |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | JRE          | Java Runtime Engine                     |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | JSP          | Java Server Pages                       |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | KB           | Kilo Bytes                              |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | KHz          | Kilo Hertz                              |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | LAN          | Local Area Network                      |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | LCD          | Liquid Crystal Display                  |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | LED          | Light Emitting Diode                    |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | LPM          | Line Per Minute                         |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | LSI          | Large Scael Integration                 |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | MAN          | Metropolitan Area Network               |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | MAR          | Memory Address Register                 |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | MB           | Mega Bytes                              |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | MBR          | Memory Buffer Register                  |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | MHz          | Mega Hertz                              |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | MIDI         | Musical Instrument Digital Interface    |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | MIPS         | Millions of Instructions Per Second     |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | MNP          | Microcom Network Protocol               |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | MPEG         | Moving Pictures Experts Group           |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | MS-DOS       | MicroSoft Disk Operating System         |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | MVT          | Multiprogramming with Variable Tasks    |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | NIC          | Network Interface Card                  |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | NICNET       | National Informatics Center NETwork     |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | NOS          | Network Operating System                |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | OCR          | Optical Character Recognition           |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | OMR          | Optical Mark Reader                     |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | OS           | Operating System                        |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | OSI          | Open System Interconnection             |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | OSS          | Open Source Software                    |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | PAN          | Personal Area Network                   |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | PC           | Personal Computer                       |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | PDF          | Portable Document Format                |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | PDL          | Program Design Language                 |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | PDP          | Program Data Processor                  |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | PIP          | Peripheral Interchange Program          |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | PROM         | Programmable Read-Only Memory           |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | QoS          | Quality of Service                      |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | RAM          | Random Access Memory                    |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | ROM          | Read Only Memory                        |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | SDLC         | Software Development Life Cycle         |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | SEQUEL       | Structured English QUEry Language       |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | SGML         | Syntax for Generalized Markup Language  |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | SIMM         | Single In-line Memory Module            |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | SNA          | Systems Network Architecture            |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | SNOBOL       | StriNg Oriented and symBOlic Language   |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | SQL          | Structured Query Language               |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | SRAM         | Static RAM                              |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | SSI          | Small Scale Integration                 |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | TB           | Tera Bytes                              |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | TCP          | Transport Control Protocol              |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | TDM          | Time Division Multiplexing              |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | UDP          | User Datagram Protocol                  |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | ULSI         | Ultra Large Scale Integration           |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | UPC          | Universal Product Code                  |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | URL          | Uniform Resource Locator                |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | USB          | Universal Serial Bus                    |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | UTF          | Unicode Transformation Format           |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | VAN          | Value Added Network                     |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | VCR          | Video Cassette Recorder                 |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | VDT          | Video Display Terminal                  |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | VGA          | Video Graphics Array                    |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | VOD          | Video-On-Demand                         |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | VoIP         | Voice over Internet Protocol            |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | VSAT         | Very Small Aperture Terminal            |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | WAN          | Wide Area Network                       |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | WAP          | Wireless Application Protocol           |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | WiMAX        | Worldwide Interoperability for          |
+| f_computer_science/basics_of_computer_s |              | Microwave Access                        |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | WLAN         | Wireless Local Area Network             |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | WLL          | Wireless Local Loop                     |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | WORM         | Write Once Read Many                    |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | WWW          | World Wide Web                          |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | XHTML        | eXtensible HyperText Markup Language    |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | XML          | eXtensible Markup Language              |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | X.400        | Electronic Mail Protocol                |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://www.tutorialspoint.com/basics_o | X.500        | Directory Server Protocol               |
+| f_computer_science/basics_of_computer_s |              |                                         |
+| cience_abbreviations.htm                |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+

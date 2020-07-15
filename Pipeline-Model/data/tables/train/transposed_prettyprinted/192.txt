@@ -1,0 +1,675 @@
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| url        | Product    | Product_li | Price     | Store     | Reviews   | Reviews_l | Descripti |
+|            |            | nk         |           |           |           | ink       | on        |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | Original   | https://ww | $12.99    | from 2    |           |           | Will your |
+| w.google.c | Fallout    | w.google.c |           | stores    |           |           | character |
+| om/search? | Post       | om/shoppin |           |           |           |           | stand up  |
+| q=where+ca | Nuclear    | g/product/ |           |           |           |           | to        |
+| n+I+but+Fa | (RPG PC    | 1268502342 |           |           |           |           | thepost   |
+| llout%3F&s | Game)      | 8233258684 |           |           |           |           | nuclear   |
+| ource=lnms |            | ?q=where+c |           |           |           |           | test? The |
+| &tbm=shop& |            | an+I+but+F |           |           |           |           | bombs     |
+| sa=X&ved=0 |            | allout?biw |           |           |           |           | dropped   |
+| ahUKEwistd |            | =1291&bih= |           |           |           |           | 80 years  |
+| nFz8TaAhUs |            | 610&prds=p |           |           |           |           | ago. -    |
+| Ut8KHZqDCC |            | aur:ClkAsK |           |           |           |           | Survivors |
+| gQ_AUICigB |            | raX-gFbSwg |           |           |           |           | huddle in |
+| &biw=1291& |            | 4OEmSpFT_L |           |           |           |           | an underg |
+| bih=610    |            | MjdYdwUlQo |           |           |           |           | round ... |
+|            |            | U2vwWSpssk |           |           |           |           |           |
+|            |            | PK9Ie4jw06 |           |           |           |           |           |
+|            |            | TGFzN-9pfN |           |           |           |           |           |
+|            |            | tJhfsDSZHD |           |           |           |           |           |
+|            |            | nmQUY10M1I |           |           |           |           |           |
+|            |            | k8qRwnUYBI |           |           |           |           |           |
+|            |            | tSo2ZE9z6V |           |           |           |           |           |
+|            |            | r1WjbX8-3K |           |           |           |           |           |
+|            |            | 4k3NNhIZAF |           |           |           |           |           |
+|            |            | PVH72ydtrU |           |           |           |           |           |
+|            |            | kWrGMZ47wL |           |           |           |           |           |
+|            |            | LhwbY_aHnV |           |           |           |           |           |
+|            |            | vA&sa=X&ve |           |           |           |           |           |
+|            |            | d=0ahUKEwi |           |           |           |           |           |
+|            |            | 12O3h0MTaA |           |           |           |           |           |
+|            |            | hURi6wKHVJ |           |           |           |           |           |
+|            |            | CAZkQ8wII- |           |           |           |           |           |
+|            |            | gI         |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | OGX Anti-  | https://ww | $5.99     | from 10+  | 106       | https://w | Beauty    |
+| w.google.c | Hair       | w.google.c |           | stores    | product   | ww.google | pure and  |
+| om/search? | Fallout    | om/shoppin |           |           | reviews   | .com/shop | simple.   |
+| q=where+ca | Niacin3 &  | g/product/ |           |           |           | ping/prod | Stimulate |
+| n+I+but+Fa | Caffeine C | 9886163611 |           |           |           | uct/98861 | your      |
+| llout%3F&s | onditioner | 487871133? |           |           |           | 636114878 | scalp by  |
+| ource=lnms | - 13 oz    | q=where+ca |           |           |           | 71133?q=w | massaging |
+| &tbm=shop& | bottle     | n+I+but+Fa |           |           |           | here+can+ | this      |
+| sa=X&ved=0 |            | llout?biw= |           |           |           | I+but+Fal | powerful  |
+| ahUKEwistd |            | 1291&bih=6 |           |           |           | lout?biw= | blend     |
+| nFz8TaAhUs |            | 10&prds=pa |           |           |           | 1291&bih= | with      |
+| Ut8KHZqDCC |            | ur:ClkAsKr |           |           |           | 610&prds= | niacin3 + |
+| gQ_AUICigB |            | aX530iEnfS |           |           |           | hsec:revi | caffeine, |
+| &biw=1291& |            | 8PvBiy9fDN |           |           |           | ews,paur: | alpha     |
+| bih=610    |            | lFLCSfJE5P |           |           |           | ClkAsKraX | hydroxy   |
+|            |            | UcxfuqOLMu |           |           |           | 530iEnfS8 | acid and  |
+|            |            | ovgIp7G9qM |           |           |           | PvBiy9fDN | ...       |
+|            |            | h2TiATZX0V |           |           |           | lFLCSfJE5 |           |
+|            |            | Tae_VVO8vp |           |           |           | PUcxfuqOL |           |
+|            |            | phCtqIALXX |           |           |           | MuovgIp7G |           |
+|            |            | hUTF863H1i |           |           |           | 9qMh2TiAT |           |
+|            |            | nqreMdlMRj |           |           |           | ZX0VTae_V |           |
+|            |            | Vw0ItfQM5c |           |           |           | VO8vpphCt |           |
+|            |            | nK2HxIZAFP |           |           |           | qIALXXhUT |           |
+|            |            | VH71op2Jd6 |           |           |           | F863H1inq |           |
+|            |            | S8MTLHuu6d |           |           |           | reMdlMRjV |           |
+|            |            | YZ9XtqgkoA |           |           |           | w0ItfQM5c |           |
+|            |            | w&sa=X&ved |           |           |           | nK2HxIZAF |           |
+|            |            | =0ahUKEwi1 |           |           |           | PVH71op2J |           |
+|            |            | 2O3h0MTaAh |           |           |           | d6S8MTLHu |           |
+|            |            | URi6wKHVJC |           |           |           | u6dYZ9Xtq |           |
+|            |            | AZkQ8wIIhA |           |           |           | gkoAw&sa= |           |
+|            |            | M          |           |           |           | X&ved=0ah |           |
+|            |            |            |           |           |           | UKEwi12O3 |           |
+|            |            |            |           |           |           | h0MTaAhUR |           |
+|            |            |            |           |           |           | i6wKHVJCA |           |
+|            |            |            |           |           |           | ZkQ9AIIhQ |           |
+|            |            |            |           |           |           | M         |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | Mini Nuke  | https://ww | $44.30    | from Etsy |           |           | Storage   |
+| w.google.c | Bomb -     | w.google.c |           | -         |           |           | box (open |
+| om/search? | Storage    | om/aclk?sa |           | PropsCom  |           |           | able) or  |
+| q=where+ca | box -      | =l&ai=DChc |           |           |           |           | Regular   |
+| n+I+but+Fa | Regular |  | SEwix6vDh0 |           |           |           |           | (not      |
+| llout%3F&s | Fallout    | MTaAhUSjsg |           |           |           |           | openable) |
+| ource=lnms | inspired   | KHdHCAogYA |           |           |           |           | inspired  |
+| &tbm=shop& |            | BAFGgJxdQ& |           |           |           |           | from      |
+| sa=X&ved=0 |            | sig=AOD64_ |           |           |           |           | Fallout   |
+| ahUKEwistd |            | 2dKWPh2V04 |           |           |           |           | Mini Nuke |
+| nFz8TaAhUs |            | SqnJTMNzjr |           |           |           |           | bomb.     |
+| Ut8KHZqDCC |            | nCRfaE0A&c |           |           |           |           | Size is   |
+| gQ_AUICigB |            | type=5&q=& |           |           |           |           | around 20 |
+| &biw=1291& |            | ved=0ahUKE |           |           |           |           | cm height |
+| bih=610    |            | wi12O3h0MT |           |           |           |           | and 10 cm |
+|            |            | aAhURi6wKH |           |           |           |           | ...       |
+|            |            | VJCAZkQ2Ck |           |           |           |           |           |
+|            |            | IkwM&adurl |           |           |           |           |           |
+|            |            | =          |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | FALLOUT    | https://ww | $13.99    | from 5+   | 31        | https://w | The world |
+| w.google.c | COLLECTION | w.google.c |           | stores    | product   | ww.google | has been  |
+| om/search? | (DVD-ROM)  | om/shoppin |           |           | reviews   | .com/shop | blown     |
+| q=where+ca |            | g/product/ |           |           |           | ping/prod | into a    |
+| n+I+but+Fa |            | 2627286382 |           |           |           | uct/26272 | permanent |
+| llout%3F&s |            | 236562030? |           |           |           | 863822365 | nuclear   |
+| ource=lnms |            | q=where+ca |           |           |           | 62030?q=w | winter    |
+| &tbm=shop& |            | n+I+but+Fa |           |           |           | here+can+ | following |
+| sa=X&ved=0 |            | llout?biw= |           |           |           | I+but+Fal | World War |
+| ahUKEwistd |            | 1291&bih=6 |           |           |           | lout?biw= | III. The  |
+| nFz8TaAhUs |            | 10&prds=pa |           |           |           | 1291&bih= | H2O       |
+| Ut8KHZqDCC |            | ur:ClkAsKr |           |           |           | 610&prds= | system,   |
+| gQ_AUICigB |            | aX1kAqEJQT |           |           |           | hsec:revi | however,  |
+| &biw=1291& |            | hNZwps4Lkb |           |           |           | ews,paur: | is in     |
+| bih=610    |            | Sqf6lcOb_1 |           |           |           | ClkAsKraX | danger of |
+|            |            | NpOUmysI_n |           |           |           | 1kAqEJQTh | ...       |
+|            |            | cM7YYADR4U |           |           |           | NZwps4Lkb |           |
+|            |            | Eu14ute7bo |           |           |           | Sqf6lcOb_ |           |
+|            |            | OTc4Mp-3wo |           |           |           | 1NpOUmysI |           |
+|            |            | tcY2QQPRei |           |           |           | _ncM7YYAD |           |
+|            |            | amDWisHmb4 |           |           |           | R4UEu14ut |           |
+|            |            | wKyRwSjUYe |           |           |           | e7boOTc4M |           |
+|            |            | DPbD7V0JkA |           |           |           | p-3wotcY2 |           |
+|            |            | JxxWhIZAFP |           |           |           | QQPReiamD |           |
+|            |            | VH73mjv9WI |           |           |           | WisHmb4wK |           |
+|            |            | ot97e2V6e7 |           |           |           | yRwSjUYeD |           |
+|            |            | DSlIAIRacc |           |           |           | PbD7V0JkA |           |
+|            |            | w&sa=X&ved |           |           |           | JxxWhIZAF |           |
+|            |            | =0ahUKEwi1 |           |           |           | PVH73mjv9 |           |
+|            |            | 2O3h0MTaAh |           |           |           | WIot97e2V |           |
+|            |            | URi6wKHVJC |           |           |           | 6e7DSlIAI |           |
+|            |            | AZkQ8wIImw |           |           |           | Raccw&sa= |           |
+|            |            | M          |           |           |           | X&ved=0ah |           |
+|            |            |            |           |           |           | UKEwi12O3 |           |
+|            |            |            |           |           |           | h0MTaAhUR |           |
+|            |            |            |           |           |           | i6wKHVJCA |           |
+|            |            |            |           |           |           | ZkQ9AIInA |           |
+|            |            |            |           |           |           | M         |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | Fallout    | https://ww | $39.99    | from Etsy |           |           | $39.99    |
+| w.google.c | Cosplay    | w.google.c |           | - Printin |           |           | from Etsy |
+| om/search? | Pip Boy    | om/aclk?sa |           | gPlatform |           |           | - Printin |
+| q=where+ca | 3000       | =l&ai=DChc |           |           |           |           | gPlatform |
+| n+I+but+Fa | Replica|   | SEwix6vDh0 |           |           |           |           |           |
+| llout%3F&s | Pipboy |   | MTaAhUSjsg |           |           |           |           |           |
+| ource=lnms | Fallout 4  | KHdHCAogYA |           |           |           |           |           |
+| &tbm=shop& | | Fallout  | BAJGgJxdQ& |           |           |           |           |           |
+| sa=X&ved=0 | 3 | Video  | sig=AOD64_ |           |           |           |           |           |
+| ahUKEwistd | Games | 3D | 2QhCjjTqXX |           |           |           |           |           |
+| nFz8TaAhUs | | Pipboy   | jnIATBDb-w |           |           |           |           |           |
+| Ut8KHZqDCC | 3000 |     | kXKOBugQ&c |           |           |           |           |           |
+| gQ_AUICigB | Pipboy MK  | type=5&q=& |           |           |           |           |           |
+| &biw=1291& | III |      | ved=0ahUKE |           |           |           |           |           |
+| bih=610    | Pipboy     | wi12O3h0MT |           |           |           |           |           |
+|            | 3000 MK 3  | aAhURi6wKH |           |           |           |           |           |
+|            |            | VJCAZkQ2Ck |           |           |           |           |           |
+|            |            | IpgM&adurl |           |           |           |           |           |
+|            |            | =          |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | SALE       | https://ww | $16.95    | from Etsy |           |           | $16.95    |
+| w.google.c | Fallout    | w.google.c |           | - TheSkim |           |           | from Etsy |
+| om/search? | Mentats    | om/aclk?sa |           | DotNet    |           |           | - TheSkim |
+| q=where+ca | Tin OR     | =l&ai=DChc |           |           |           |           | DotNet    |
+| n+I+but+Fa | Fixer Tin. | SEwix6vDh0 |           |           |           |           |           |
+| llout%3F&s | New Metal  | MTaAhUSjsg |           |           |           |           |           |
+| ource=lnms | Hinged Box | KHdHCAogYA |           |           |           |           |           |
+| &tbm=shop& | Customized | BALGgJxdQ& |           |           |           |           |           |
+| sa=X&ved=0 | Wasteland  | sig=AOD64_ |           |           |           |           |           |
+| ahUKEwistd | Inspired   | 0hocl4W3xJ |           |           |           |           |           |
+| nFz8TaAhUs | Replica    | ALV7wZNvXy |           |           |           |           |           |
+| Ut8KHZqDCC | for Fall   | xLqBXgDQ&c |           |           |           |           |           |
+| gQ_AUICigB | Out        | type=5&q=& |           |           |           |           |           |
+| &biw=1291& | Cosplay.   | ved=0ahUKE |           |           |           |           |           |
+| bih=610    | Mentat     | wi12O3h0MT |           |           |           |           |           |
+|            | Fixer      | aAhURi6wKH |           |           |           |           |           |
+|            | Chems      | VJCAZkQ2Ck |           |           |           |           |           |
+|            |            | IrAM&adurl |           |           |           |           |           |
+|            |            | =          |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | Fallout 4  | https://ww | $10.69    | from      | 98%;      | https://w | Bethesda  |
+| w.google.c | [PC Game]  | w.google.c |           | instant-g | positive; | ww.google | · PC ·    |
+| om/search? | - German   | om/shoppin |           | aming.com | (95,266); | .com/shop | Role-     |
+| q=where+ca |            | g/product/ |           |           | 11,267    | ping/rati | playing · |
+| n+I+but+Fa |            | 1710064681 |           |           | product   | ngs/accou | Action ·  |
+| llout%3F&s |            | 6298047869 |           |           | reviews   | nt/metric | Mature ·  |
+| ource=lnms |            | ?q=where+c |           |           |           | s?q=insta | Download  |
+| &tbm=shop& |            | an+I+but+F |           |           |           | nt-gaming |           |
+| sa=X&ved=0 |            | allout?biw |           |           |           | .com&c=GL |           |
+| ahUKEwistd |            | =1291&bih= |           |           |           | OBAL&v=3& |           |
+| nFz8TaAhUs |            | 610&prds=p |           |           |           | hl=en&sa= |           |
+| Ut8KHZqDCC |            | aur:ClkAsK |           |           |           | X&ved=0ah |           |
+| gQ_AUICigB |            | raX0q7sZ5C |           |           |           | UKEwi12O3 |           |
+| &biw=1291& |            | 9ulGke7yJb |           |           |           | h0MTaAhUR |           |
+| bih=610    |            | b5HSL0WPFe |           |           |           | i6wKHVJCA |           |
+|            |            | Tqk_22dobt |           |           |           | ZkQqQwIsw |           |
+|            |            | rP6TuvaQCO |           |           |           | M; https: |           |
+|            |            | 2RoIRIfGlk |           |           |           | //www.goo |           |
+|            |            | lVZgd4IcJk |           |           |           | gle.com/s |           |
+|            |            | gl16PjvHoS |           |           |           | hopping/r |           |
+|            |            | 9FgIwnZMRx |           |           |           | atings/ac |           |
+|            |            | 0LISOQZCap |           |           |           | count/met |           |
+|            |            | OW4KfulxOU |           |           |           | rics?q=in |           |
+|            |            | 00W7RxIZAF |           |           |           | stant-gam |           |
+|            |            | PVH73paK6W |           |           |           | ing.com&c |           |
+|            |            | vY7Mb4X7g5 |           |           |           | =GLOBAL&v |           |
+|            |            | BGMCcnxLfr |           |           |           | =3&hl=en& |           |
+|            |            | lA&sa=X&ve |           |           |           | sa=X&ved= |           |
+|            |            | d=0ahUKEwi |           |           |           | 0ahUKEwi1 |           |
+|            |            | 12O3h0MTaA |           |           |           | 2O3h0MTaA |           |
+|            |            | hURi6wKHVJ |           |           |           | hURi6wKHV |           |
+|            |            | CAZkQ8wIIs |           |           |           | JCAZkQqQw |           |
+|            |            | gM         |           |           |           | IswM; htt |           |
+|            |            |            |           |           |           | ps://www. |           |
+|            |            |            |           |           |           | google.co |           |
+|            |            |            |           |           |           | m/shoppin |           |
+|            |            |            |           |           |           | g/ratings |           |
+|            |            |            |           |           |           | /account/ |           |
+|            |            |            |           |           |           | metrics?q |           |
+|            |            |            |           |           |           | =instant- |           |
+|            |            |            |           |           |           | gaming.co |           |
+|            |            |            |           |           |           | m&c=GLOBA |           |
+|            |            |            |           |           |           | L&v=3&hl= |           |
+|            |            |            |           |           |           | en&sa=X&v |           |
+|            |            |            |           |           |           | ed=0ahUKE |           |
+|            |            |            |           |           |           | wi12O3h0M |           |
+|            |            |            |           |           |           | TaAhURi6w |           |
+|            |            |            |           |           |           | KHVJCAZkQ |           |
+|            |            |            |           |           |           | qQwIswM;  |           |
+|            |            |            |           |           |           | https://w |           |
+|            |            |            |           |           |           | ww.google |           |
+|            |            |            |           |           |           | .com/shop |           |
+|            |            |            |           |           |           | ping/prod |           |
+|            |            |            |           |           |           | uct/17100 |           |
+|            |            |            |           |           |           | 646816298 |           |
+|            |            |            |           |           |           | 047869?q= |           |
+|            |            |            |           |           |           | where+can |           |
+|            |            |            |           |           |           | +I+but+Fa |           |
+|            |            |            |           |           |           | llout?biw |           |
+|            |            |            |           |           |           | =1291&bih |           |
+|            |            |            |           |           |           | =610&prds |           |
+|            |            |            |           |           |           | =hsec:rev |           |
+|            |            |            |           |           |           | iews,paur |           |
+|            |            |            |           |           |           | :ClkAsKra |           |
+|            |            |            |           |           |           | X0q7sZ5C9 |           |
+|            |            |            |           |           |           | ulGke7yJb |           |
+|            |            |            |           |           |           | b5HSL0WPF |           |
+|            |            |            |           |           |           | eTqk_22do |           |
+|            |            |            |           |           |           | btrP6Tuva |           |
+|            |            |            |           |           |           | QCO2RoIRI |           |
+|            |            |            |           |           |           | fGlklVZgd |           |
+|            |            |            |           |           |           | 4IcJkgl16 |           |
+|            |            |            |           |           |           | PjvHoS9Fg |           |
+|            |            |            |           |           |           | IwnZMRx0L |           |
+|            |            |            |           |           |           | ISOQZCapO |           |
+|            |            |            |           |           |           | W4KfulxOU |           |
+|            |            |            |           |           |           | 00W7RxIZA |           |
+|            |            |            |           |           |           | FPVH73paK |           |
+|            |            |            |           |           |           | 6WvY7Mb4X |           |
+|            |            |            |           |           |           | 7g5BGMCcn |           |
+|            |            |            |           |           |           | xLfrlA&sa |           |
+|            |            |            |           |           |           | =X&ved=0a |           |
+|            |            |            |           |           |           | hUKEwi12O |           |
+|            |            |            |           |           |           | 3h0MTaAhU |           |
+|            |            |            |           |           |           | Ri6wKHVJC |           |
+|            |            |            |           |           |           | AZkQ9AIIt |           |
+|            |            |            |           |           |           | AM        |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | The        | https://ww | $10.44    | from 10+  | 1 product | https://w | After     |
+| w.google.c | Fallout    | w.google.c |           | stores    | review    | ww.google | barely    |
+| om/search? | [Book]     | om/shoppin |           |           |           | .com/shop | escaping  |
+| q=where+ca |            | g/product/ |           |           |           | ping/prod | from the  |
+| n+I+but+Fa |            | 4903688259 |           |           |           | uct/49036 | compound  |
+| llout%3F&s |            | 866919874? |           |           |           | 882598669 | where     |
+| ource=lnms |            | q=where+ca |           |           |           | 19874?q=w | Eli's dad |
+| &tbm=shop& |            | n+I+but+Fa |           |           |           | here+can+ | kept his  |
+| sa=X&ved=0 |            | llout?biw= |           |           |           | I+but+Fal | family    |
+| ahUKEwistd |            | 1291&bih=6 |           |           |           | lout?biw= | for six   |
+| nFz8TaAhUs |            | 10&prds=pa |           |           |           | 1291&bih= | years, he |
+| Ut8KHZqDCC |            | ur:ClkAsKr |           |           |           | 610&prds= | and the   |
+| gQ_AUICigB |            | aX90n4bIeX |           |           |           | hsec:revi | family    |
+| &biw=1291& |            | i-bubCplza |           |           |           | ews,paur: | are       |
+| bih=610    |            | 7uKfQoOcNK |           |           |           | ClkAsKraX | learning  |
+|            |            | LVdqxU7-cH |           |           |           | 90n4bIeXi | to ...    |
+|            |            | MjUjjtdUIM |           |           |           | -bubCplza |           |
+|            |            | IjuTUHg2be |           |           |           | 7uKfQoOcN |           |
+|            |            | dQ6mfWKWm- |           |           |           | KLVdqxU7- |           |
+|            |            | jJMYXZ3oum |           |           |           | cHMjUjjtd |           |
+|            |            | iJyycUzY7p |           |           |           | UIMIjuTUH |           |
+|            |            | 8EKcBRwHY5 |           |           |           | g2bedQ6mf |           |
+|            |            | 4-uCs_K8XZ |           |           |           | WKWm-jJMY |           |
+|            |            | YqzBBIZAFP |           |           |           | XZ3oumiJy |           |
+|            |            | VH71g5Z-Nb |           |           |           | ycUzY7p8E |           |
+|            |            | o1oEg0-Srv |           |           |           | KcBRwHY54 |           |
+|            |            | NjF5-To04y |           |           |           | -uCs_K8XZ |           |
+|            |            | w&sa=X&ved |           |           |           | YqzBBIZAF |           |
+|            |            | =0ahUKEwi1 |           |           |           | PVH71g5Z- |           |
+|            |            | 2O3h0MTaAh |           |           |           | Nbo1oEg0- |           |
+|            |            | URi6wKHVJC |           |           |           | SrvNjF5-T |           |
+|            |            | AZkQ8wIIww |           |           |           | o04yw&sa= |           |
+|            |            | M          |           |           |           | X&ved=0ah |           |
+|            |            |            |           |           |           | UKEwi12O3 |           |
+|            |            |            |           |           |           | h0MTaAhUR |           |
+|            |            |            |           |           |           | i6wKHVJCA |           |
+|            |            |            |           |           |           | ZkQ9AIIxA |           |
+|            |            |            |           |           |           | M         |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | 3D Printed | https://ww | $1,620.87 | from Etsy |           |           | $1,620.87 |
+| w.google.c | Fallout 4  | w.google.c |           | - Seller  |           |           | from Etsy |
+| om/search? | T-60 Power | om/aclk?sa |           |           |           |           | - Seller  |
+| q=where+ca | Armor Suit | =l&ai=DChc |           |           |           |           |           |
+| n+I+but+Fa | Kit        | SEwix6vDh0 |           |           |           |           |           |
+| llout%3F&s |            | MTaAhUSjsg |           |           |           |           |           |
+| ource=lnms |            | KHdHCAogYA |           |           |           |           |           |
+| &tbm=shop& |            | BARGgJxdQ& |           |           |           |           |           |
+| sa=X&ved=0 |            | sig=AOD64_ |           |           |           |           |           |
+| ahUKEwistd |            | 2Y0mCSW9R9 |           |           |           |           |           |
+| nFz8TaAhUs |            | YasEvuebTN |           |           |           |           |           |
+| Ut8KHZqDCC |            | Qyt3nC4A&c |           |           |           |           |           |
+| gQ_AUICigB |            | type=5&q=& |           |           |           |           |           |
+| &biw=1291& |            | ved=0ahUKE |           |           |           |           |           |
+| bih=610    |            | wi12O3h0MT |           |           |           |           |           |
+|            |            | aAhURi6wKH |           |           |           |           |           |
+|            |            | VJCAZkQ2Ck |           |           |           |           |           |
+|            |            | IzgM&adurl |           |           |           |           |           |
+|            |            | =          |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | Home Decor | https://ww | $1.88     | from AliE |           |           | in from   |
+| w.google.c | Fallout 3  | w.google.c |           | xpress.co |           |           | on AliExp |
+| om/search? | 4 Game     | om/aclk?sa |           | m         |           |           | ress.com  |
+| q=where+ca | Poster     | =l&ai=DChc |           |           |           |           | | Alibaba |
+| n+I+but+Fa | Home       | SEwix6vDh0 |           |           |           |           | Group     |
+| llout%3F&s | Furnishing | MTaAhUSjsg |           |           |           |           |           |
+| ource=lnms | decoration | KHdHCAogYA |           |           |           |           |           |
+| &tbm=shop& | Kraft      | BATGgJxdQ& |           |           |           |           |           |
+| sa=X&ved=0 |            | sig=AOD64_ |           |           |           |           |           |
+| ahUKEwistd |            | 2Ljy_HrQ67 |           |           |           |           |           |
+| nFz8TaAhUs |            | ahNB1cel9Z |           |           |           |           |           |
+| Ut8KHZqDCC |            | pjMyq_Cg&c |           |           |           |           |           |
+| gQ_AUICigB |            | type=5&q=& |           |           |           |           |           |
+| &biw=1291& |            | ved=0ahUKE |           |           |           |           |           |
+| bih=610    |            | wi12O3h0MT |           |           |           |           |           |
+|            |            | aAhURi6wKH |           |           |           |           |           |
+|            |            | VJCAZkQ2Ck |           |           |           |           |           |
+|            |            | I1AM&adurl |           |           |           |           |           |
+|            |            | =          |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | Fallout    | https://ww | $13.59    | from 10+  |           |           | Children' |
+| w.google.c | [Book]     | w.google.c |           | stores    |           |           | s Books · |
+| om/search? |            | om/shoppin |           |           |           |           | Hardcover |
+| q=where+ca |            | g/product/ |           |           |           |           | · Fiction |
+| n+I+but+Fa |            | 5645766685 |           |           |           |           | · 258     |
+| llout%3F&s |            | 346241475? |           |           |           |           | page      |
+| ource=lnms |            | q=where+ca |           |           |           |           |           |
+| &tbm=shop& |            | n+I+but+Fa |           |           |           |           |           |
+| sa=X&ved=0 |            | llout?biw= |           |           |           |           |           |
+| ahUKEwistd |            | 1291&bih=6 |           |           |           |           |           |
+| nFz8TaAhUs |            | 10&prds=pa |           |           |           |           |           |
+| Ut8KHZqDCC |            | ur:ClkAsKr |           |           |           |           |           |
+| gQ_AUICigB |            | aXyx15FU9W |           |           |           |           |           |
+| &biw=1291& |            | TWby5FCnjj |           |           |           |           |           |
+| bih=610    |            | Rz1HkqsbeN |           |           |           |           |           |
+|            |            | CeFG10oh6R |           |           |           |           |           |
+|            |            | K26CMz0eTS |           |           |           |           |           |
+|            |            | KZa3WLRORu |           |           |           |           |           |
+|            |            | 5AuLwBAtC9 |           |           |           |           |           |
+|            |            | BA-bUIE8ca |           |           |           |           |           |
+|            |            | U4prrU5s1z |           |           |           |           |           |
+|            |            | reF-jcTMKJ |           |           |           |           |           |
+|            |            | IvxjrYKydk |           |           |           |           |           |
+|            |            | aFFZhIZAFP |           |           |           |           |           |
+|            |            | VH73a3XMmc |           |           |           |           |           |
+|            |            | GOCKpvnt2v |           |           |           |           |           |
+|            |            | zPHZ8YIRbw |           |           |           |           |           |
+|            |            | A&sa=X&ved |           |           |           |           |           |
+|            |            | =0ahUKEwi1 |           |           |           |           |           |
+|            |            | 2O3h0MTaAh |           |           |           |           |           |
+|            |            | URi6wKHVJC |           |           |           |           |           |
+|            |            | AZkQ8wII2w |           |           |           |           |           |
+|            |            | M          |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | Fallout 4  | https://ww | $25.01    | from King | 91%;      | https://w | Includes  |
+| w.google.c | GOTY       | w.google.c |           | uin.net   | positive; | ww.google | 7 Items:  |
+| om/search? | Edition CN | om/aclk?sa |           |           | (10,891)  | .com/shop | Fallout   |
+| q=where+ca | VPN        | =l&ai=DChc |           |           |           | ping/rati | 4, Nuka   |
+| n+I+but+Fa | Required   | SEwix6vDh0 |           |           |           | ngs/accou | World,    |
+| llout%3F&s | Steam CD   | MTaAhUSjsg |           |           |           | nt/metric | Vault-Tec |
+| ource=lnms | Key        | KHdHCAogYA |           |           |           | s?q=kingu | Workshop, |
+| &tbm=shop& |            | BAXGgJxdQ& |           |           |           | in.net&c= | Contrapti |
+| sa=X&ved=0 |            | sig=AOD64_ |           |           |           | GLOBAL&v= | ons       |
+| ahUKEwistd |            | 2rm7JAkv5c |           |           |           | 3&hl=en&s | Workshop, |
+| nFz8TaAhUs |            | 8aPIqluZGO |           |           |           | a=X&ved=0 | Far       |
+| Ut8KHZqDCC |            | GTqWN0JQ&c |           |           |           | ahUKEwi12 | Harbor,   |
+| gQ_AUICigB |            | type=5&q=& |           |           |           | O3h0MTaAh | Wasteland |
+| &biw=1291& |            | ved=0ahUKE |           |           |           | URi6wKHVJ | Workshop  |
+| bih=610    |            | wi12O3h0MT |           |           |           | CAZkQqQwI | and ...   |
+|            |            | aAhURi6wKH |           |           |           | 6AM; http |           |
+|            |            | VJCAZkQ2Ck |           |           |           | s://www.g |           |
+|            |            | I5wM&adurl |           |           |           | oogle.com |           |
+|            |            | =          |           |           |           | /shopping |           |
+|            |            |            |           |           |           | /ratings/ |           |
+|            |            |            |           |           |           | account/m |           |
+|            |            |            |           |           |           | etrics?q= |           |
+|            |            |            |           |           |           | kinguin.n |           |
+|            |            |            |           |           |           | et&c=GLOB |           |
+|            |            |            |           |           |           | AL&v=3&hl |           |
+|            |            |            |           |           |           | =en&sa=X& |           |
+|            |            |            |           |           |           | ved=0ahUK |           |
+|            |            |            |           |           |           | Ewi12O3h0 |           |
+|            |            |            |           |           |           | MTaAhURi6 |           |
+|            |            |            |           |           |           | wKHVJCAZk |           |
+|            |            |            |           |           |           | QqQwI6AM; |           |
+|            |            |            |           |           |           | https://w |           |
+|            |            |            |           |           |           | ww.google |           |
+|            |            |            |           |           |           | .com/shop |           |
+|            |            |            |           |           |           | ping/rati |           |
+|            |            |            |           |           |           | ngs/accou |           |
+|            |            |            |           |           |           | nt/metric |           |
+|            |            |            |           |           |           | s?q=kingu |           |
+|            |            |            |           |           |           | in.net&c= |           |
+|            |            |            |           |           |           | GLOBAL&v= |           |
+|            |            |            |           |           |           | 3&hl=en&s |           |
+|            |            |            |           |           |           | a=X&ved=0 |           |
+|            |            |            |           |           |           | ahUKEwi12 |           |
+|            |            |            |           |           |           | O3h0MTaAh |           |
+|            |            |            |           |           |           | URi6wKHVJ |           |
+|            |            |            |           |           |           | CAZkQqQwI |           |
+|            |            |            |           |           |           | 6AM       |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | Fallout    | https://ww | $10.00    | from Etsy |           |           | $10.00    |
+| w.google.c | waistland  | w.google.c |           | - Cosplay |           |           | from Etsy |
+| om/search? | chems!     | om/aclk?sa |           | incShop   |           |           | - Cosplay |
+| q=where+ca |            | =l&ai=DChc |           |           |           |           | incShop   |
+| n+I+but+Fa |            | SEwix6vDh0 |           |           |           |           |           |
+| llout%3F&s |            | MTaAhUSjsg |           |           |           |           |           |
+| ource=lnms |            | KHdHCAogYA |           |           |           |           |           |
+| &tbm=shop& |            | BAZGgJxdQ& |           |           |           |           |           |
+| sa=X&ved=0 |            | sig=AOD64_ |           |           |           |           |           |
+| ahUKEwistd |            | 0O8Xn4TtJH |           |           |           |           |           |
+| nFz8TaAhUs |            | LsXu7NwSrg |           |           |           |           |           |
+| Ut8KHZqDCC |            | -0qdTXKQ&c |           |           |           |           |           |
+| gQ_AUICigB |            | type=5&q=& |           |           |           |           |           |
+| &biw=1291& |            | ved=0ahUKE |           |           |           |           |           |
+| bih=610    |            | wi12O3h0MT |           |           |           |           |           |
+|            |            | aAhURi6wKH |           |           |           |           |           |
+|            |            | VJCAZkQ2Ck |           |           |           |           |           |
+|            |            | I8QM&adurl |           |           |           |           |           |
+|            |            | =          |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | FALLOUT 3  | https://ww | $4.24     | from 2    | 2,126     | https://w | Bethesda  |
+| w.google.c | [PC Game]  | w.google.c |           | stores    | product   | ww.google | · PC ·    |
+| om/search? | - German   | om/shoppin |           |           | reviews   | .com/shop | Role-     |
+| q=where+ca |            | g/product/ |           |           |           | ping/prod | playing · |
+| n+I+but+Fa |            | 7549727595 |           |           |           | uct/75497 | Action ·  |
+| llout%3F&s |            | 718301389? |           |           |           | 275957183 | Disc      |
+| ource=lnms |            | q=where+ca |           |           |           | 01389?q=w |           |
+| &tbm=shop& |            | n+I+but+Fa |           |           |           | here+can+ |           |
+| sa=X&ved=0 |            | llout?biw= |           |           |           | I+but+Fal |           |
+| ahUKEwistd |            | 1291&bih=6 |           |           |           | lout?biw= |           |
+| nFz8TaAhUs |            | 10&prds=pa |           |           |           | 1291&bih= |           |
+| Ut8KHZqDCC |            | ur:ClkAsKr |           |           |           | 610&prds= |           |
+| gQ_AUICigB |            | aX2o_EKS_k |           |           |           | hsec:revi |           |
+| &biw=1291& |            | sOtjnfPeQ_ |           |           |           | ews,paur: |           |
+| bih=610    |            | jmEc-R518i |           |           |           | ClkAsKraX |           |
+|            |            | Uv6Qqi1idK |           |           |           | 2o_EKS_ks |           |
+|            |            | bFkWSTenx- |           |           |           | OtjnfPeQ_ |           |
+|            |            | oQjHRpl5kr |           |           |           | jmEc-R518 |           |
+|            |            | I9NJBmo7b8 |           |           |           | iUv6Qqi1i |           |
+|            |            | Gqdsl25ZT_ |           |           |           | dKbFkWSTe |           |
+|            |            | KIZQl4zUPk |           |           |           | nx-oQjHRp |           |
+|            |            | IlP8RKNjJX |           |           |           | l5krI9NJB |           |
+|            |            | VskQyUd6Wg |           |           |           | mo7b8Gqds |           |
+|            |            | f8nNRIZAFP |           |           |           | l25ZT_KIZ |           |
+|            |            | VH73nR4A_e |           |           |           | Ql4zUPkIl |           |
+|            |            | Zek54oNL67 |           |           |           | P8RKNjJXV |           |
+|            |            | zOip7Qmh6C |           |           |           | skQyUd6Wg |           |
+|            |            | Q&sa=X&ved |           |           |           | f8nNRIZAF |           |
+|            |            | =0ahUKEwi1 |           |           |           | PVH73nR4A |           |
+|            |            | 2O3h0MTaAh |           |           |           | _eZek54oN |           |
+|            |            | URi6wKHVJC |           |           |           | L67zOip7Q |           |
+|            |            | AZkQ8wII9w |           |           |           | mh6CQ&sa= |           |
+|            |            | M          |           |           |           | X&ved=0ah |           |
+|            |            |            |           |           |           | UKEwi12O3 |           |
+|            |            |            |           |           |           | h0MTaAhUR |           |
+|            |            |            |           |           |           | i6wKHVJCA |           |
+|            |            |            |           |           |           | ZkQ9AII-  |           |
+|            |            |            |           |           |           | AM        |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | Fallout    | https://ww | $12.39    | from 25+  | 2 product | https://w | Game of   |
+| w.google.c | Nuka-Cola  | w.google.c |           | stores    | reviews   | ww.google | checkers? |
+| om/search? | Checkers   | om/shoppin |           |           |           | .com/shop | Sit back  |
+| q=where+ca | Game       | g/product/ |           |           |           | ping/prod | with an   |
+| n+I+but+Fa |            | 1394661237 |           |           |           | uct/13946 | ice cold  |
+| llout%3F&s |            | 6840136989 |           |           |           | 612376840 | bottle of |
+| ource=lnms |            | ?q=where+c |           |           |           | 136989?q= | Nuka-Cola |
+| &tbm=shop& |            | an+I+but+F |           |           |           | where+can | and get   |
+| sa=X&ved=0 |            | allout?biw |           |           |           | +I+but+Fa | ready for |
+| ahUKEwistd |            | =1291&bih= |           |           |           | llout?biw | game      |
+| nFz8TaAhUs |            | 610&prds=p |           |           |           | =1291&bih | night!    |
+| Ut8KHZqDCC |            | aur:ClkAsK |           |           |           | =610&prds | The       |
+| gQ_AUICigB |            | raX-VQ0Cwh |           |           |           | =hsec:rev | Fallout   |
+| &biw=1291& |            | bd6WLLWPkb |           |           |           | iews,paur | Nuka-Cola |
+| bih=610    |            | 4ygTccbBlO |           |           |           | :ClkAsKra | Checkers  |
+|            |            | k4lBthExsF |           |           |           | X-VQ0Cwhb | ...       |
+|            |            | 6rP6muYO-V |           |           |           | d6WLLWPkb |           |
+|            |            | e569q6pwTh |           |           |           | 4ygTccbBl |           |
+|            |            | nwzUuNOuya |           |           |           | Ok4lBthEx |           |
+|            |            | tbLtLogw9U |           |           |           | sF6rP6muY |           |
+|            |            | nEXT0BpphM |           |           |           | O-Ve569q6 |           |
+|            |            | daNHMBRXdo |           |           |           | pwThnwzUu |           |
+|            |            | SwqU8VS9hp |           |           |           | NOuyatbLt |           |
+|            |            | 3-TJrxIZAF |           |           |           | Logw9UnEX |           |
+|            |            | PVH70oydeH |           |           |           | T0BpphMda |           |
+|            |            | bj3MONOImn |           |           |           | NHMBRXdoS |           |
+|            |            | _Vt8UKRZER |           |           |           | wqU8VS9hp |           |
+|            |            | -g&sa=X&ve |           |           |           | 3-TJrxIZA |           |
+|            |            | d=0ahUKEwi |           |           |           | FPVH70oyd |           |
+|            |            | 12O3h0MTaA |           |           |           | eHbj3MONO |           |
+|            |            | hURi6wKHVJ |           |           |           | Imn_Vt8UK |           |
+|            |            | CAZkQ8wIIh |           |           |           | RZER-g&sa |           |
+|            |            | gQ         |           |           |           | =X&ved=0a |           |
+|            |            |            |           |           |           | hUKEwi12O |           |
+|            |            |            |           |           |           | 3h0MTaAhU |           |
+|            |            |            |           |           |           | Ri6wKHVJC |           |
+|            |            |            |           |           |           | AZkQ9AIIh |           |
+|            |            |            |           |           |           | wQ        |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | Fallout 4: | https://ww | $20.73    | from 10+  | 17        | https://w | Game /    |
+| w.google.c | Game of    | w.google.c |           | stores    | product   | ww.google | Puzzle ·  |
+| om/search? | the Year   | om/shoppin |           |           | reviews   | .com/shop | Paperback |
+| q=where+ca | Edition:   | g/product/ |           |           |           | ping/prod | · 544     |
+| n+I+but+Fa | Prima      | 4649992080 |           |           |           | uct/46499 | page      |
+| llout%3F&s | Official   | 791462570? |           |           |           | 920807914 |           |
+| ource=lnms | Guide      | q=where+ca |           |           |           | 62570?q=w |           |
+| &tbm=shop& | [Book]     | n+I+but+Fa |           |           |           | here+can+ |           |
+| sa=X&ved=0 |            | llout?biw= |           |           |           | I+but+Fal |           |
+| ahUKEwistd |            | 1291&bih=6 |           |           |           | lout?biw= |           |
+| nFz8TaAhUs |            | 10&prds=pa |           |           |           | 1291&bih= |           |
+| Ut8KHZqDCC |            | ur:ClkAsKr |           |           |           | 610&prds= |           |
+| gQ_AUICigB |            | aX79gYGTsd |           |           |           | hsec:revi |           |
+| &biw=1291& |            | VCzBMFryHn |           |           |           | ews,paur: |           |
+| bih=610    |            | 0PEJ-tv6gX |           |           |           | ClkAsKraX |           |
+|            |            | wGA5bAQTwy |           |           |           | 79gYGTsdV |           |
+|            |            | kDyLa4WZ0- |           |           |           | CzBMFryHn |           |
+|            |            | PBeTs-D-Yu |           |           |           | 0PEJ-tv6g |           |
+|            |            | b5_OaMsiFr |           |           |           | XwGA5bAQT |           |
+|            |            | sPsJ1xcaCZ |           |           |           | wykDyLa4W |           |
+|            |            | U9u_gIgyKX |           |           |           | Z0-PBeTs- |           |
+|            |            | zZi0ZvbbiA |           |           |           | D-Yub5_Oa |           |
+|            |            | usO5kFOZou |           |           |           | MsiFrsPsJ |           |
+|            |            | fY1axIZAFP |           |           |           | 1xcaCZU9u |           |
+|            |            | VH70MYfjPd |           |           |           | _gIgyKXzZ |           |
+|            |            | T5-6dG4R8e |           |           |           | i0ZvbbiAu |           |
+|            |            | Q8GiD6hS5V |           |           |           | sO5kFOZou |           |
+|            |            | g&sa=X&ved |           |           |           | fY1axIZAF |           |
+|            |            | =0ahUKEwi1 |           |           |           | PVH70MYfj |           |
+|            |            | 2O3h0MTaAh |           |           |           | PdT5-6dG4 |           |
+|            |            | URi6wKHVJC |           |           |           | R8eQ8GiD6 |           |
+|            |            | AZkQ8wIIkQ |           |           |           | hS5Vg&sa= |           |
+|            |            | Q          |           |           |           | X&ved=0ah |           |
+|            |            |            |           |           |           | UKEwi12O3 |           |
+|            |            |            |           |           |           | h0MTaAhUR |           |
+|            |            |            |           |           |           | i6wKHVJCA |           |
+|            |            |            |           |           |           | ZkQ9AIIkg |           |
+|            |            |            |           |           |           | Q         |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | Fallout    | https://ww | $18.48    | from 2    | 25        | https://w |           |
+| w.google.c | Trilogy    | w.google.c |           | stores    | product   | ww.google |           |
+| om/search? | [PC Game]  | om/shoppin |           |           | reviews   | .com/shop |           |
+| q=where+ca |            | g/product/ |           |           |           | ping/prod |           |
+| n+I+but+Fa |            | 1175251755 |           |           |           | uct/11752 |           |
+| llout%3F&s |            | 5708633722 |           |           |           | 517555708 |           |
+| ource=lnms |            | ?q=where+c |           |           |           | 633722?q= |           |
+| &tbm=shop& |            | an+I+but+F |           |           |           | where+can |           |
+| sa=X&ved=0 |            | allout?biw |           |           |           | +I+but+Fa |           |
+| ahUKEwistd |            | =1291&bih= |           |           |           | llout?biw |           |
+| nFz8TaAhUs |            | 610&prds=p |           |           |           | =1291&bih |           |
+| Ut8KHZqDCC |            | aur:ClkAsK |           |           |           | =610&prds |           |
+| gQ_AUICigB |            | raX4JEQB-k |           |           |           | =hsec:rev |           |
+| &biw=1291& |            | XUhuFCF3e0 |           |           |           | iews,paur |           |
+| bih=610    |            | -x6OXbSciw |           |           |           | :ClkAsKra |           |
+|            |            | zJ6lit7BJE |           |           |           | X4JEQB-kX |           |
+|            |            | UCe8q8dQ5K |           |           |           | UhuFCF3e0 |           |
+|            |            | 8pUm7sDQYJ |           |           |           | -x6OXbSci |           |
+|            |            | eFGAp2fQw3 |           |           |           | wzJ6lit7B |           |
+|            |            | Uxja7zd9uv |           |           |           | JEUCe8q8d |           |
+|            |            | CUkuzqBye2 |           |           |           | Q5K8pUm7s |           |
+|            |            | WkUaSFMTqs |           |           |           | DQYJeFGAp |           |
+|            |            | pSMY3SvQE4 |           |           |           | 2fQw3Uxja |           |
+|            |            | x8EbqRIZAF |           |           |           | 7zd9uvCUk |           |
+|            |            | PVH711WVq4 |           |           |           | uzqBye2Wk |           |
+|            |            | 7avcxyVssL |           |           |           | UaSFMTqsp |           |
+|            |            | loY-n2lme3 |           |           |           | SMY3SvQE4 |           |
+|            |            | pw&sa=X&ve |           |           |           | x8EbqRIZA |           |
+|            |            | d=0ahUKEwi |           |           |           | FPVH711WV |           |
+|            |            | 12O3h0MTaA |           |           |           | q47avcxyV |           |
+|            |            | hURi6wKHVJ |           |           |           | ssLloY-n2 |           |
+|            |            | CAZkQ8wIIn |           |           |           | lme3pw&sa |           |
+|            |            | gQ         |           |           |           | =X&ved=0a |           |
+|            |            |            |           |           |           | hUKEwi12O |           |
+|            |            |            |           |           |           | 3h0MTaAhU |           |
+|            |            |            |           |           |           | Ri6wKHVJC |           |
+|            |            |            |           |           |           | AZkQ9AIIn |           |
+|            |            |            |           |           |           | wQ        |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | ThinkGeek  | https://ww | $349.99   | from 2    |           |           | Be The    |
+| w.google.c | Fallout 4  | w.google.c |           | stores    |           |           | Envy Of   |
+| om/search? | T-51 Power | om/shoppin |           |           |           |           | The       |
+| q=where+ca | Armor -    | g/product/ |           |           |           |           | Entire Co |
+| n+I+but+Fa | Exclusive  | 1714624267 |           |           |           |           | mmonwealt |
+| llout%3F&s |            | 3641472458 |           |           |           |           | h With    |
+| ource=lnms |            | ?q=where+c |           |           |           |           | This      |
+| &tbm=shop& |            | an+I+but+F |           |           |           |           | Thinkgeek |
+| sa=X&ved=0 |            | allout?biw |           |           |           |           | And       |
+| ahUKEwistd |            | =1291&bih= |           |           |           |           | Bethesda  |
+| nFz8TaAhUs |            | 610&prds=p |           |           |           |           | Store     |
+| Ut8KHZqDCC |            | aur:ClkAsK |           |           |           |           | Exclusive |
+| gQ_AUICigB |            | raX3BHYBv6 |           |           |           |           | Fallout 4 |
+| &biw=1291& |            | grUbsJ5G2Y |           |           |           |           | T-51      |
+| bih=610    |            | fF86xbVcwe |           |           |           |           | Power     |
+|            |            | pW7ViFxP1q |           |           |           |           | Armor     |
+|            |            | z4RMooHPub |           |           |           |           | Figure    |
+|            |            | YRbsyM5ggc |           |           |           |           | ...       |
+|            |            | Tj3za16uUx |           |           |           |           |           |
+|            |            | tFic5YshMM |           |           |           |           |           |
+|            |            | BAhy-gpd9U |           |           |           |           |           |
+|            |            | gunR907ckE |           |           |           |           |           |
+|            |            | HTfsE2-_np |           |           |           |           |           |
+|            |            | NCoPgxIZAF |           |           |           |           |           |
+|            |            | PVH73MuIE_ |           |           |           |           |           |
+|            |            | fnf1s4e4-w |           |           |           |           |           |
+|            |            | j4fwJI458q |           |           |           |           |           |
+|            |            | Mg&sa=X&ve |           |           |           |           |           |
+|            |            | d=0ahUKEwi |           |           |           |           |           |
+|            |            | 12O3h0MTaA |           |           |           |           |           |
+|            |            | hURi6wKHVJ |           |           |           |           |           |
+|            |            | CAZkQ8wIIq |           |           |           |           |           |
+|            |            | gQ         |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | Fallout    | https://ww | $25.59    | from Etsy |           |           | $25.59    |
+| w.google.c | Mystery    | w.google.c |           | -         |           |           | from Etsy |
+| om/search? | Box        | om/aclk?sa |           | driedgear |           |           | -         |
+| q=where+ca |            | =l&ai=DChc |           |           |           |           | driedgear |
+| n+I+but+Fa |            | SEwix6vDh0 |           |           |           |           |           |
+| llout%3F&s |            | MTaAhUSjsg |           |           |           |           |           |
+| ource=lnms |            | KHdHCAogYA |           |           |           |           |           |
+| &tbm=shop& |            | BAlGgJxdQ& |           |           |           |           |           |
+| sa=X&ved=0 |            | sig=AOD64_ |           |           |           |           |           |
+| ahUKEwistd |            | 1zfpmbkKRk |           |           |           |           |           |
+| nFz8TaAhUs |            | YIsRrTumxR |           |           |           |           |           |
+| Ut8KHZqDCC |            | 4srZYS5w&c |           |           |           |           |           |
+| gQ_AUICigB |            | type=5&q=& |           |           |           |           |           |
+| &biw=1291& |            | ved=0ahUKE |           |           |           |           |           |
+| bih=610    |            | wi12O3h0MT |           |           |           |           |           |
+|            |            | aAhURi6wKH |           |           |           |           |           |
+|            |            | VJCAZkQ2Ck |           |           |           |           |           |
+|            |            | IsgQ&adurl |           |           |           |           |           |
+|            |            | =          |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | PipBoy     | https://ww | $48.54    | from Etsy |           |           | $48.54    |
+| w.google.c | 3000 | 3D  | w.google.c |           | - MXWEmpo |           |           | from Etsy |
+| om/search? | Printed    | om/aclk?sa |           | rium      |           |           | - MXWEmpo |
+| q=where+ca | Pip Boy    | =l&ai=DChc |           |           |           |           | rium      |
+| n+I+but+Fa | 3000 |     | SEwix6vDh0 |           |           |           |           |           |
+| llout%3F&s | Fallout    | MTaAhUSjsg |           |           |           |           |           |
+| ource=lnms | Cosplay    | KHdHCAogYA |           |           |           |           |           |
+| &tbm=shop& | Prop |     | BAnGgJxdQ& |           |           |           |           |           |
+| sa=X&ved=0 | Fallout    | sig=AOD64_ |           |           |           |           |           |
+| ahUKEwistd | Costume |  | 3lzHuXZ8XM |           |           |           |           |           |
+| nFz8TaAhUs | Fallout 4  | FrJ1gE8RKW |           |           |           |           |           |
+| Ut8KHZqDCC | | Fallout  | rGNYECNw&c |           |           |           |           |           |
+| gQ_AUICigB | 3 | Pip    | type=5&q=& |           |           |           |           |           |
+| &biw=1291& | Boy        | ved=0ahUKE |           |           |           |           |           |
+| bih=610    | Replica |  | wi12O3h0MT |           |           |           |           |           |
+|            | Fallout    | aAhURi6wKH |           |           |           |           |           |
+|            | Glove      | VJCAZkQ2Ck |           |           |           |           |           |
+|            |            | IuAQ&adurl |           |           |           |           |           |
+|            |            | =          |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+

@@ -1,0 +1,18 @@
++--------+--------+--------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| date   | site   | hosted | presh | produ | direc | best  | most  | most  | netwo | durat | ratin |
+|        |        | by     | ow    | ced   | ted   | pictu | award | nomin | rk    | ion   | gs    |
+|        |        |        | hosts | by    | by    | re    | s     | ation |       |       |       |
+|        |        |        |       |       |       |       |       | s     |       |       |       |
++--------+--------+--------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| februa | kodak  | james  | tim   | bruce | don m | the k | incep | the k | abc   | 3 hou | 37.9  |
+| ry 27, | theatr | franco | gunn  | cohen | ische | ing's | tion  | ing's |       | rs,   | milli |
+| 2011   | e  hol | anne h | maria | don m | r [3] | speec | and   | speec |       | 16 mi | on    |
+|        | lywood | athawa | menou | ische |       | h     | the k | h     |       | nutes | 21.2% |
+|        | , los  | y [1]  | nos   | r [3] |       |       | ing's | (12)  |       | [4]   | ( nie |
+|        | angele |        | robin |       |       |       | speec |       |       |       | lsen  |
+|        | s , ca |        | rober |       |       |       | h (4) |       |       |       | ratin |
+|        | liforn |        | ts kr |       |       |       |       |       |       |       | gs )  |
+|        | ia,    |        | ista  |       |       |       |       |       |       |       | [5]   |
+|        | u.s.   |        | smith |       |       |       |       |       |       |       |       |
+|        |        |        | [2]   |       |       |       |       |       |       |       |       |
++--------+--------+--------+-------+-------+-------+-------+-------+-------+-------+-------+-------+

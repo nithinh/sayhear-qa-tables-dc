@@ -1,0 +1,340 @@
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| url                | Number  | Number_link        | Year | Venue             | Performer         |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | I       | https://en.wikiped | 1967 | Los Angeles       | The Pride of      |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Memorial          | Arizona, Michigan |
+| f_national_anthem_ |         | Bowl_I             |      | Coliseum,         | Marching Band,    |
+| performers_at_the_ |         |                    |      | California; ,     | and UCLA choir    |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | II      | https://en.wikiped | 1968 | Orange Bowl,      | GSU Tiger         |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Miami; ,          | Marching Band     |
+| f_national_anthem_ |         | Bowl_II            |      |                   |                   |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | III     | https://en.wikiped | 1969 | Orange Bowl,      | Lloyd Geisler of  |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Miami; ,          | the Washington    |
+| f_national_anthem_ |         | Bowl_III           |      |                   | National Symphony |
+| performers_at_the_ |         |                    |      |                   | Orchestra[2]      |
+| Super_Bowl         |         |                    |      |                   |  An NFL.com       |
+|                    |         |                    |      |                   | reference ([1])   |
+|                    |         |                    |      |                   | states that Anita |
+|                    |         |                    |      |                   | Bryant performed  |
+|                    |         |                    |      |                   | the anthem, but   |
+|                    |         |                    |      |                   | NBC's broadcast   |
+|                    |         |                    |      |                   | of game,          |
+|                    |         |                    |      |                   | available from    |
+|                    |         |                    |      |                   | the Paley Center  |
+|                    |         |                    |      |                   | for Media's       |
+|                    |         |                    |      |                   | collection, shows |
+|                    |         |                    |      |                   | that Geisler      |
+|                    |         |                    |      |                   | performed it.     |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | IV      | https://en.wikiped | 1970 | Tulane Stadium,   | Al Hirt           |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | New Orleans; ,    |                   |
+| f_national_anthem_ |         | Bowl_IV            |      |                   |                   |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | V       | https://en.wikiped | 1971 | Orange Bowl,      | Tommy Loy         |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Miami; Orange     | (trumpet)         |
+| f_national_anthem_ |         | Bowl_V             |      | Bowl, Miami       |                   |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | VI      | https://en.wikiped | 1972 | Tulane Stadium,   | U.S. Air Force    |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | New Orleans;      | Academy Chorale   |
+| f_national_anthem_ |         | Bowl_VI            |      | Tulane Stadium,   |                   |
+| performers_at_the_ |         |                    |      | New Orleans       |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | VII     | https://en.wikiped | 1973 | Los Angeles       | Little Angels     |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Memorial          | (children's       |
+| f_national_anthem_ |         | Bowl_VII           |      | Coliseum; Los     | choir) of         |
+| performers_at_the_ |         |                    |      | Angeles Memorial  | Chicago's Holy    |
+| Super_Bowl         |         |                    |      | Coliseum          | Angels Church     |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | VIII    | https://en.wikiped | 1974 | Rice Stadium,     | Charley Pride     |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Houston, Texas; , |                   |
+| f_national_anthem_ |         | Bowl_VIII          |      |                   |                   |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | IX      | https://en.wikiped | 1975 | Tulane Stadium,   | GSU Tiger         |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | New Orleans;      | Marching Band (2) |
+| f_national_anthem_ |         | Bowl_IX            |      | Tulane Stadium,   |                   |
+| performers_at_the_ |         |                    |      | New Orleans       |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | X       | https://en.wikiped | 1976 | Orange Bowl,      | Tom Sullivan      |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Miami; Orange     |                   |
+| f_national_anthem_ |         | Bowl_X             |      | Bowl, Miami       |                   |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XI      | https://en.wikiped | 1977 | Rose Bowl,        | None (Vikki Carr  |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Pasadena,         | sang "America the |
+| f_national_anthem_ |         | Bowl_XI            |      | California; ,     | Beautiful")       |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XII     | https://en.wikiped | 1978 | Louisiana         | Phyllis Kelly of  |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Superdome, New    | Northeast         |
+| f_national_anthem_ |         | Bowl_XII           |      | Orleans; , New    | Louisiana         |
+| performers_at_the_ |         |                    |      | Orleans           | University        |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XIII    | https://en.wikiped | 1979 | Orange Bowl,      | The Colgate       |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Miami; Orange     | Thirteen          |
+| f_national_anthem_ |         | Bowl_XIII          |      | Bowl, Miami       |                   |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XIV     | https://en.wikiped | 1980 | Rose Bowl,        | Cheryl Ladd       |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Pasadena; Rose    |                   |
+| f_national_anthem_ |         | Bowl_XIV           |      | Bowl, Pasadena    |                   |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XV      | https://en.wikiped | 1981 | Superdome, New    | Helen O'Connell   |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Orleans;          |                   |
+| f_national_anthem_ |         | Bowl_XV            |      | Superdome, New    |                   |
+| performers_at_the_ |         |                    |      | Orleans           |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XVI     | https://en.wikiped | 1982 | Pontiac           | Diana Ross        |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Silverdome,       |                   |
+| f_national_anthem_ |         | Bowl_XVI           |      | Pontiac,          |                   |
+| performers_at_the_ |         |                    |      | Michigan; ,       |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XVII    | https://en.wikiped | 1983 | Rose Bowl,        | Leslie            |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Pasadena; Rose    | Easterbrook       |
+| f_national_anthem_ |         | Bowl_XVII          |      | Bowl, Pasadena    |                   |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XVIII   | https://en.wikiped | 1984 | Tampa Stadium,    | Barry Manilow     |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Tampa, Florida; , |                   |
+| f_national_anthem_ |         | Bowl_XVIII         |      |                   |                   |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XIX     | https://en.wikiped | 1985 | Stanford Stadium, | San Francisco     |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Stanford,         | Boys Chorus, San  |
+| f_national_anthem_ |         | Bowl_XIX           |      | California; ,     | Francisco Girls   |
+| performers_at_the_ |         |                    |      |                   | Chorus, Piedmont  |
+| Super_Bowl         |         |                    |      |                   | Children's        |
+|                    |         |                    |      |                   | Chorus, and San   |
+|                    |         |                    |      |                   | Francisco         |
+|                    |         |                    |      |                   | Children's Chorus |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XX      | https://en.wikiped | 1986 | Superdome, New    | Wynton Marsalis   |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Orleans;          | (trumpet)         |
+| f_national_anthem_ |         | Bowl_XX            |      | Superdome, New    |                   |
+| performers_at_the_ |         |                    |      | Orleans           |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XXI     | https://en.wikiped | 1987 | Rose Bowl,        | Neil Diamond      |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Pasadena; Rose    |                   |
+| f_national_anthem_ |         | Bowl_XXI           |      | Bowl, Pasadena    |                   |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XXII    | https://en.wikiped | 1988 | Jack Murphy       | Herb Alpert       |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Stadium, San      | (trumpet)         |
+| f_national_anthem_ |         | Bowl_XXII          |      | Diego; ,          |                   |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XXIII   | https://en.wikiped | 1989 | Joe Robbie        | Billy Joel        |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Stadium, Miami; , |                   |
+| f_national_anthem_ |         | Bowl_XXIII         |      | Miami             |                   |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XXIV    | https://en.wikiped | 1990 | Superdome, New    | Aaron Neville     |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Orleans;          |                   |
+| f_national_anthem_ |         | Bowl_XXIV          |      | Superdome, New    |                   |
+| performers_at_the_ |         |                    |      | Orleans           |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XXV     | https://en.wikiped | 1991 | Tampa Stadium,    | Whitney Houston   |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Tampa; Tampa      | with The Florida  |
+| f_national_anthem_ |         | Bowl_XXV           |      | Stadium, Tampa    | Orchestra         |
+| performers_at_the_ |         |                    |      |                   | directed by Jahja |
+| Super_Bowl         |         |                    |      |                   | Ling              |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XXVI    | https://en.wikiped | 1992 | Metrodome,        | Harry Connick,    |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Minneapolis; ,    | Jr.               |
+| f_national_anthem_ |         | Bowl_XXVI          |      |                   |  ASL (American    |
+| performers_at_the_ |         |                    |      |                   | Sign Language):   |
+| Super_Bowl         |         |                    |      |                   | Lori Hilary       |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XXVII   | https://en.wikiped | 1993 | Rose Bowl,        | Garth Brooks      |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Pasadena; Rose    |  ASL: Marlee      |
+| f_national_anthem_ |         | Bowl_XXVII         |      | Bowl, Pasadena    | Matlin            |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XXVIII  | https://en.wikiped | 1994 | Georgia Dome,     | Natalie Cole      |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Atlanta; ,        |  ASL: Courtney    |
+| f_national_anthem_ |         | Bowl_XXVIII        |      |                   | Keel Foley        |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XXIX    | https://en.wikiped | 1995 | Joe Robbie        | Kathie Lee        |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Stadium, Miami;   | Gifford           |
+| f_national_anthem_ |         | Bowl_XXIX          |      | Joe Robbie        |  ASL: Heather     |
+| performers_at_the_ |         |                    |      | Stadium, Miami    | Whitestone        |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XXX     | https://en.wikiped | 1996 | Sun Devil         | Vanessa L.        |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Stadium, Tempe,   | Williams          |
+| f_national_anthem_ |         | Bowl_XXX           |      | Arizona; ,        |  ASL: Mary Kim    |
+| performers_at_the_ |         |                    |      |                   | Titla             |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XXXI    | https://en.wikiped | 1997 | Superdome, New    | Luther Vandross   |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Orleans;          |  ASL: Erika       |
+| f_national_anthem_ |         | Bowl_XXXI          |      | Superdome, New    | Rachael Schwarz   |
+| performers_at_the_ |         |                    |      | Orleans           |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XXXII   | https://en.wikiped | 1998 | Qualcomm Stadium, | Jewel             |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | San Diego; , San  |  ASL: Phyllis     |
+| f_national_anthem_ |         | Bowl_XXXII         |      | Diego             | Frelich           |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XXXIII  | https://en.wikiped | 1999 | Pro Player        | Cher              |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Stadium, Miami; , |  ASL: Speaking    |
+| f_national_anthem_ |         | Bowl_XXXIII        |      | Miami             | Hands             |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XXXIV   | https://en.wikiped | 2000 | Georgia Dome,     | Faith Hill        |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Atlanta; Georgia  |  ASL: Briarlake   |
+| f_national_anthem_ |         | Bowl_XXXIV         |      | Dome, Atlanta     | Elementary School |
+| performers_at_the_ |         |                    |      |                   | Signing Choir     |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XXXV    | https://en.wikiped | 2001 | Raymond James     | Backstreet Boys   |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Stadium, Tampa; , |  AASL: Tom Cooney |
+| f_national_anthem_ |         | Bowl_XXXV          |      | Tampa             |                   |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XXXVI   | https://en.wikiped | 2002 | Superdome, New    | Mariah Carey      |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Orleans;          |  ASL: Joe         |
+| f_national_anthem_ |         | Bowl_XXXVI         |      | Superdome, New    | Narcisse          |
+| performers_at_the_ |         |                    |      | Orleans           |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XXXVII  | https://en.wikiped | 2003 | Qualcomm Stadium, | Dixie Chicks      |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | San Diego;        |  ASL: Janet       |
+| f_national_anthem_ |         | Bowl_XXXVII        |      | Qualcomm Stadium, | Maxwell           |
+| performers_at_the_ |         |                    |      | San Diego         |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XXXVIII | https://en.wikiped | 2004 | Reliant Stadium,  | Beyoncé           |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Houston; ,        |  ASL: Suzanna     |
+| f_national_anthem_ |         | Bowl_XXXVIII       |      | Houston           | Christy           |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XXXIX   | https://en.wikiped | 2005 | Alltel Stadium,   | Combined choirs   |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Jacksonville,     | of the U.S.       |
+| f_national_anthem_ |         | Bowl_XXXIX         |      | Florida; ,        | Military Academy, |
+| performers_at_the_ |         |                    |      |                   | the U.S. Naval    |
+| Super_Bowl         |         |                    |      |                   | Academy, the U.S. |
+|                    |         |                    |      |                   | Air Force Academy |
+|                    |         |                    |      |                   | (2), and the U.S. |
+|                    |         |                    |      |                   | Coast Guard       |
+|                    |         |                    |      |                   | Academy, and the  |
+|                    |         |                    |      |                   | U.S. Army Herald  |
+|                    |         |                    |      |                   | Trumpets          |
+|                    |         |                    |      |                   |  ASL: Wesley      |
+|                    |         |                    |      |                   | Tallent           |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XL      | https://en.wikiped | 2006 | Ford Field,       | Aaron Neville (2) |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Detroit; ,        | and Aretha        |
+| f_national_anthem_ |         | Bowl_XL            |      |                   | Franklin,         |
+| performers_at_the_ |         |                    |      |                   |  Dr. John (piano  |
+| Super_Bowl         |         |                    |      |                   | accompaniment)    |
+|                    |         |                    |      |                   |  ASL: Angela      |
+|                    |         |                    |      |                   | LaGuardia         |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XLI     | https://en.wikiped | 2007 | Dolphin Stadium,  | Billy Joel (2)    |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Miami Gardens,    |  ASL: Marlee      |
+| f_national_anthem_ |         | Bowl_XLI           |      | Florida; ,        | Matlin (2)        |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XLII    | https://en.wikiped | 2008 | University of     | Jordin Sparks     |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Phoenix Stadium,  |  ASL: A           |
+| f_national_anthem_ |         | Bowl_XLII          |      | Glendale,         | Dreamer[3]        |
+| performers_at_the_ |         |                    |      | Arizona; ,        |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XLIII   | https://en.wikiped | 2009 | Raymond James     | Jennifer Hudson   |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Stadium, Tampa,   |  ASL: Kristen     |
+| f_national_anthem_ |         | Bowl_XLIII         |      | Florida; Raymond  | Santos            |
+| performers_at_the_ |         |                    |      | James Stadium,    |                   |
+| Super_Bowl         |         |                    |      | Tampa, Florida    |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XLIV    | https://en.wikiped | 2010 | Sun Life Stadium, | Carrie Underwood  |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Miami Gardens; ,  |  ASL: Kinesha     |
+| f_national_anthem_ |         | Bowl_XLIV          |      | Miami Gardens     | Battles           |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XLV     | https://en.wikiped | 2011 | Cowboys Stadium,  | Christina         |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Arlington, Texas; | Aguilera          |
+| f_national_anthem_ |         | Bowl_XLV           |      | ,                 |  ASL: Candice     |
+| performers_at_the_ |         |                    |      |                   | Villesca[4]       |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XLVI    | https://en.wikiped | 2012 | Lucas Oil         | Kelly Clarkson    |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Stadium,          |  ASL: Rachel      |
+| f_national_anthem_ |         | Bowl_XLVI          |      | Indianapolis; ,   | Mazique[5]        |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XLVII   | https://en.wikiped | 2013 | Mercedes-Benz     | Alicia Keys[6]    |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Superdome, New    |  ASL: John        |
+| f_national_anthem_ |         | Bowl_XLVII         |      | Orleans; , New    | Maucere[7]        |
+| performers_at_the_ |         |                    |      | Orleans           |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XLVIII  | https://en.wikiped | 2014 | MetLife Stadium,  | Renée Fleming     |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | East Rutherford,  |  ASL: Amber Zion  |
+| f_national_anthem_ |         | Bowl_XLVIII        |      | New Jersey; ,     |                   |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | XLIX    | https://en.wikiped | 2015 | University of     | Idina Menzel      |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Phoenix Stadium,  |  ASL: Treshelle   |
+| f_national_anthem_ |         | Bowl_XLIX          |      | Glendale,         | Edmond[9]         |
+| performers_at_the_ |         |                    |      | Arizona[8]; ,     |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | 50      | https://en.wikiped | 2016 | Levi's Stadium,   | Lady Gaga         |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Santa Clara,      |  ASL: Marlee      |
+| f_national_anthem_ |         | Bowl_50            |      | California; ,     | Matlin (3)[10]    |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | LI      | https://en.wikiped | 2017 | NRG Stadium,      | Luke Bryan        |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Houston, Texas; , |  ASL: Kriston Lee |
+| f_national_anthem_ |         | Bowl_LI            |      |                   | Pumphery[11].     |
+| performers_at_the_ |         |                    |      |                   |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+
+| https://en.wikiped | LII     | https://en.wikiped | 2018 | U.S. Bank         | Pink              |
+| ia.org/wiki/List_o |         | ia.org/wiki/Super_ |      | Stadium,          |  ASL: Alexandria  |
+| f_national_anthem_ |         | Bowl_LII           |      | Minneapolis,      | Wailes[12].       |
+| performers_at_the_ |         |                    |      | Minnesota; ,      |                   |
+| Super_Bowl         |         |                    |      |                   |                   |
++--------------------+---------+--------------------+------+-------------------+-------------------+

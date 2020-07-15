@@ -1,0 +1,90 @@
++------------------------+------------------------+------------------------+-----------------------+
+| url                    | Key                    | Key_link               | Value                 |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o |                        |                        | Kennesaw City Hall    |
+| rg/wiki/Kennesaw,_Geor |                        |                        |                       |
+| gia                    |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o |                        |                        | Location in Cobb      |
+| rg/wiki/Kennesaw,_Geor |                        |                        | County and the state  |
+| gia                    |                        |                        | of Georgia            |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Country; Country       | ; https://en.wikipedia | United States         |
+| rg/wiki/Kennesaw,_Geor |                        | .org/wiki/List_of_sove |                       |
+| gia                    |                        | reign_states           |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | State; State           | ; https://en.wikipedia | Georgia; Georgia      |
+| rg/wiki/Kennesaw,_Geor |                        | .org/wiki/U.S._state   |                       |
+| gia                    |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | County; County         | ; https://en.wikipedia | Cobb; Cobb            |
+| rg/wiki/Kennesaw,_Geor |                        | .org/wiki/List_of_coun |                       |
+| gia                    |                        | ties_in_Georgia_(U.S._ |                       |
+|                        |                        | state)                 |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Incorporated           |                        | September 21, 1887    |
+| rg/wiki/Kennesaw,_Geor |                        |                        |                       |
+| gia                    |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | • Mayor                |                        | Derek Easterling (R)  |
+| rg/wiki/Kennesaw,_Geor |                        |                        |                       |
+| gia                    |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | • Total                |                        | 9.5 sq mi (24.7 km2); |
+| rg/wiki/Kennesaw,_Geor |                        |                        | 9.5 sq mi (24.7 km    |
+| gia                    |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | • Land                 |                        | 9.4 sq mi (24.4 km2)  |
+| rg/wiki/Kennesaw,_Geor |                        |                        |                       |
+| gia                    |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | • Water                |                        | 0.1 sq mi (0.3 km2);  |
+| rg/wiki/Kennesaw,_Geor |                        |                        | 0.1 sq mi (0.3 km     |
+| gia                    |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Elevation              |                        | 1,089 ft (332 m)      |
+| rg/wiki/Kennesaw,_Geor |                        |                        |                       |
+| gia                    |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | • Total                |                        | 29,783                |
+| rg/wiki/Kennesaw,_Geor |                        |                        |                       |
+| gia                    |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | • Estimate (2016)[1]   |                        | 33,627; 33,627        |
+| rg/wiki/Kennesaw,_Geor |                        |                        |                       |
+| gia                    |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | • Density              |                        | 3,155/sq mi           |
+| rg/wiki/Kennesaw,_Geor |                        |                        | (1,218.2/km2)         |
+| gia                    |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Time zone              |                        | EST (UTC-5)           |
+| rg/wiki/Kennesaw,_Geor |                        |                        |                       |
+| gia                    |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | • Summer (DST)         |                        | EDT (UTC-4); EDT      |
+| rg/wiki/Kennesaw,_Geor |                        |                        |                       |
+| gia                    |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | ZIP code               |                        | 30144/30152           |
+| rg/wiki/Kennesaw,_Geor |                        |                        |                       |
+| gia                    |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Area code(s); Area     | ; https://en.wikipedia | 770/678/470; 770      |
+| rg/wiki/Kennesaw,_Geor | code(s)                | .org/wiki/Telephone_nu |                       |
+| gia                    |                        | mbering_plan           |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | FIPS code; FIPS code   | ; https://en.wikipedia | 13-43192[2]           |
+| rg/wiki/Kennesaw,_Geor |                        | .org/wiki/Federal_Info |                       |
+| gia                    |                        | rmation_Processing_Sta |                       |
+|                        |                        | ndard                  |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | GNIS feature ID; GNIS  | ; https://en.wikipedia | 0316387[3]            |
+| rg/wiki/Kennesaw,_Geor |                        | .org/wiki/Geographic_N |                       |
+| gia                    |                        | ames_Information_Syste |                       |
+|                        |                        | m                      |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Website                |                        | www.kennesaw-ga.gov   |
+| rg/wiki/Kennesaw,_Geor |                        |                        |                       |
+| gia                    |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+

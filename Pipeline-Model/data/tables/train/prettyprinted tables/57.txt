@@ -1,0 +1,63 @@
++----------------------------------+----------------------------+----------------------------------+
+| url                              | Key                        | Value                            |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/Fi | Developer(s); Developer(s) | Square Enix Business Division    |
+| nal_Fantasy_XV                   |                            | 2[a]                             |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/Fi | Publisher(s); Publisher(s) | Square Enix                      |
+| nal_Fantasy_XV                   |                            |                                  |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/Fi | Director(s)                | Hajime Tabata                    |
+| nal_Fantasy_XV                   |                            |                                  |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/Fi | Producer(s); Producer(s)   | Shinji Hashimoto                 |
+| nal_Fantasy_XV                   |                            |                                  |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/Fi | Designer(s); Designer(s)   | Takatsugu Nakazawa               |
+| nal_Fantasy_XV                   |                            |                                  |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/Fi | Artist(s); Artist(s)       | Tomohiro Hasegawa                |
+| nal_Fantasy_XV                   |                            |                                  |
+|                                  |                            | Yusuke Naora                     |
+|                                  |                            |                                  |
+|                                  |                            | Isamu Kamikokuryo                |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/Fi | Writer(s); Writer(s)       | Kazushige Nojima                 |
+| nal_Fantasy_XV                   |                            |                                  |
+|                                  |                            | Saori Itamuro                    |
+|                                  |                            |                                  |
+|                                  |                            | Akiko Ishibashi                  |
+|                                  |                            |                                  |
+|                                  |                            | Takumi Nishida                   |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/Fi | Composer(s); Composer(s)   | Yoko Shimomura                   |
+| nal_Fantasy_XV                   |                            |                                  |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/Fi | Series                     | Final Fantasy (main)             |
+| nal_Fantasy_XV                   |                            |                                  |
+|                                  |                            | Fabula Nova Crystallis Final     |
+|                                  |                            | Fantasy (sub-series)             |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/Fi | Engine; Engine             | Luminous Studio                  |
+| nal_Fantasy_XV                   |                            |                                  |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/Fi | Platform(s); Platform(s)   | PlayStation 4                    |
+| nal_Fantasy_XV                   |                            |                                  |
+|                                  |                            | Xbox One                         |
+|                                  |                            |                                  |
+|                                  |                            | Microsoft Windows                |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/Fi | Release                    | PlayStation 4, Xbox One          |
+| nal_Fantasy_XV                   |                            |                                  |
+|                                  |                            | November 29, 2016                |
+|                                  |                            |                                  |
+|                                  |                            | Microsoft Windows                |
+|                                  |                            |                                  |
+|                                  |                            | March 6, 2018                    |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/Fi | Genre(s); Genre(s)         | Action role-playing              |
+| nal_Fantasy_XV                   |                            |                                  |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/Fi | Mode(s)                    | Single-player                    |
+| nal_Fantasy_XV                   |                            |                                  |
++----------------------------------+----------------------------+----------------------------------+

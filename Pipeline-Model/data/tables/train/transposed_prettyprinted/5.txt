@@ -1,0 +1,244 @@
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| url          | Display_Mode | Display_Mode | Size     | Resolution | Refresh_Rate | Motion_Blur  |
+|              | l            | l_link       |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Acer         | https://www. | 24.5″ TN | 1920×1080  | 240 Hz       | ULMB         |
+| blurbusters. | Predator     | amazon.com/d |          |            |              |              |
+| com/gsync/li | XB252Q       | p/B01N34Q6LF |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Acer         | https://www. | 27″ TN   | 1920×1080  | 240 Hz       | ULMB         |
+| blurbusters. | Predator     | amazon.com/d |          |            |              |              |
+| com/gsync/li | XB272        | p/B071D6NGMH |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | ASUS ROG     | https://www. | 24.5″ TN | 1920×1080  | 240 Hz       | ULMB         |
+| blurbusters. | PG258Q       | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B06WRP3F5S |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | AOC AGON     | https://www. | 24.5″ TN | 1920×1080  | 240 Hz       | ULMB         |
+| blurbusters. | AG251FG      | amazon.co.uk |          |            |              |              |
+| com/gsync/li |              | /dp/B0735L88 |          |            |              |              |
+| st-of-gsync- |              | KF?tag=blurb |          |            |              |              |
+| monitors/    |              | ust-21       |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Dell         | https://www. | 24.5″ TN | 1920×1080  | 240 Hz       | ULMB         |
+| blurbusters. | Alienware    | amazon.com/d |          |            |              |              |
+| com/gsync/li | AW2518H      | p/B0733VW5QB |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Acer         | https://www. | 30″ VA   | 2560×1080  | 200 Hz       | ULMB         |
+| blurbusters. | Predator     | amazon.com/d |          |            |              |              |
+| com/gsync/li | Z301C        | p/B01M1CI273 |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Acer         | https://www. | 35″ VA   | 2560×1080  | 200 Hz       | ULMB         |
+| blurbusters. | Predator Z35 | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B01A0FEBXQ |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Acer         | https://www. | 24″ TN   | 1920×1080  | 180 Hz       | ULMB         |
+| blurbusters. | Predator     | amazon.com/d |          |            |              |              |
+| com/gsync/li | XB241H       | p/B01C05C1OK |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | ASUS ROG     | https://www. | 24″ TN   | 1920×1080  | 180 Hz       | ULMB         |
+| blurbusters. | PG248Q       | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B01M4NEZL9 |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Acer         | https://www. | 24″ TN   | 2560×1440  | 165 Hz       | ULMB         |
+| blurbusters. | Predator     | amazon.com/d |          |            |              |              |
+| com/gsync/li | XB241YU      | p/B01LJUNMYK |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | LG 32GK850G  | https://www. | 31.5″ VA | 2560×1440  | 165 Hz       |              |
+| blurbusters. |              | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B078TTXLW5 |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Acer         | https://www. | 27″ IPS  | 2560×1440  | 165 Hz       | ULMB         |
+| blurbusters. | Predator     | amazon.com/d |          |            |              |              |
+| com/gsync/li | XB271HU      | p/B0173PEX20 |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | AOC AG271QG  | https://www. | 27″ IPS  | 2560×1440  | 165 Hz       | ULMB         |
+| blurbusters. |              | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B01G5JYMNA |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | AOC AGON     | https://www. | 24″ TN   | 2560×1440  | 165 Hz       | ULMB         |
+| blurbusters. | AG241QG      | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B01N7QDNJ8 |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | ASUS ROG     | https://www. | 27″ TN   | 2560×1440  | 165 Hz       | ULMB         |
+| blurbusters. | PG278QR      | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B01N4ENDXR |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | ASUS ROG     | https://www. | 27″ IPS  | 2560×1440  | 165 Hz       | ULMB         |
+| blurbusters. | PG279Q       | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B017EVR2VM |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Dell S2417DG | https://www. | 24″ TN   | 2560×1440  | 165 Hz       | ULMB         |
+| blurbusters. |              | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B01IOO4SGK |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Viewsonic    | https://www. | 27″ IPS  | 2560×1440  | 165 Hz       | ULMB         |
+| blurbusters. | XG2703-GS    | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B01LWJMM1S |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Acer         | https://www. | 27″ IPS  | 2560×1440  | 144 Hz       | ULMB         |
+| blurbusters. | Predator     | amazon.com/d |          |            |              |              |
+| com/gsync/li | XB270HU      | p/B00UPVXDA8 |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | ASUS ROG     | https://www. | 27″ TN   | 2560×1440  | 144 Hz       | ULMB         |
+| blurbusters. | PG278Q       | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B00MSOND8C |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Dell S2716DG | https://www. | 27″ TN   | 2560×1440  | 144 Hz       | ULMB         |
+| blurbusters. |              | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B0149QBOF0 |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Acer         | https://www. | 27″ TN   | 1920×1080  | 144 Hz       | ULMB         |
+| blurbusters. | Predator     | amazon.com/d |          |            |              |              |
+| com/gsync/li | XB270H       | p/B00NUCRBCU |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Acer XB240H  | https://www. | 24″ TN   | 1920×1080  | 144 Hz       | ULMB         |
+| blurbusters. |              | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B00QS0AK6U |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | AOC G2460PG  | https://www. | 24″ TN   | 1920×1080  | 144 Hz       | ULMB         |
+| blurbusters. |              | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B00SIZ8QDM |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Philips      | https://www. | 27″ TN   | 1920×1080  | 144 Hz       | ULMB         |
+| blurbusters. | 272G5DYEB    | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B00MUTW5LG |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | BenQ XL2420G | https://www. | 24″ TN   | 1920×1080  | 144 Hz       | BENQ Blur    |
+| blurbusters. |              | amazon.com/d |          |            |              | Reduction    |
+| com/gsync/li |              | p/B00MUT6SLE |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Acer         | https://www. | 27″ VA   | 1920×1080  | 144 Hz       |              |
+| blurbusters. | Predator     | amazon.com/d |          |            |              |              |
+| com/gsync/li | Z271         | p/B01I0NF8RI |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Lenovo Y27g  | https://www. | 27″ VA   | 1920×1080  | 144 Hz       |              |
+| blurbusters. |              | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B01FXDVZF2 |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | LG 34UC89G-B | https://www. | 34″ IPS  | 2560×1080  | 144 Hz       |              |
+| blurbusters. |              | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B0728JH3RQ |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Dell         | https://www. | 34″ IPS  | 3440×1440  | 120 Hz       | •            |
+| blurbusters. | Alienware    | amazon.com/d |          |            |              |              |
+| com/gsync/li | AW3418DW     | p/B0777RY75V |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Acer         | https://www. | 35″ VA   | 3440×1440  | 120 Hz       | •            |
+| blurbusters. | Predator     | amazon.com/d |          |            |              |              |
+| com/gsync/li | Z35P         | p/B06ZZDYVQM |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Acer         | https://www. | 34″ IPS  | 3440×1440  | 100 Hz       |              |
+| blurbusters. | Predator X34 | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B016GNX4SE |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | AOC AGON     | https://www. | 34″ IPS  | 3440×1440  | 100 Hz       |              |
+| blurbusters. | AG352UCG     | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B06X9CBRTP |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | ASUS ROG     | https://www. | 34″ IPS  | 3440×1440  | 100 Hz       |              |
+| blurbusters. | PG348Q       | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B01C83BE6U |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | HP OMEN X 35 | https://www. | 34″ VA   | 3440×1440  | 100 Hz       |              |
+| blurbusters. |              | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B01N0TFAW6 |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Acer         | https://www. | 27″ IPS  | 3840×2160  | 60 Hz        |              |
+| blurbusters. | Predator     | amazon.com/d |          |            |              |              |
+| com/gsync/li | XB271HK      | p/B018MYTF4W |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Acer         | https://www. | 28″ TN   | 3840×2160  | 60 Hz        |              |
+| blurbusters. | Predator     | amazon.com/d |          |            |              |              |
+| com/gsync/li | XB280HK      | p/B00O0Z5682 |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Acer         | https://www. | 28″ TN   | 3840×2160  | 60 Hz        |              |
+| blurbusters. | Predator     | amazon.com/d |          |            |              |              |
+| com/gsync/li | XB281HK      | p/B015ZGV34U |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | Acer         | https://www. | 32″ IPS  | 3840×2160  | 60 Hz        |              |
+| blurbusters. | Predator     | amazon.com/d |          |            |              |              |
+| com/gsync/li | XB321HK      | p/B01A3N60A2 |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+
+| https://www. | ASUS PG27AQ  | https://www. | 27″ IPS  | 3840×2160  | 60 Hz        |              |
+| blurbusters. |              | amazon.com/d |          |            |              |              |
+| com/gsync/li |              | p/B01AWGY9MG |          |            |              |              |
+| st-of-gsync- |              | ?tag=blurbus |          |            |              |              |
+| monitors/    |              | t-20         |          |            |              |              |
++--------------+--------------+--------------+----------+------------+--------------+--------------+

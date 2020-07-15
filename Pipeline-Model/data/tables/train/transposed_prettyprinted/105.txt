@@ -1,0 +1,65 @@
++-----------------+-----------------+-----------+----------------+----------------+----------------+
+| url             | Unicode_code_po | character | UTF-8_encoding | Unicode_charac | Unicode_1.0_ch |
+|                 | int             |           | _(hex)         | ter_name       | aracter_name_( |
+|                 |                 |           |                |                | depecrated)    |
++-----------------+-----------------+-----------+----------------+----------------+----------------+
+| https://unicode | U+; 0810        | ࠐ         | e0 a0 90       | SA­MA­RI­TAN   |                |
+| -search.net/uni |                 |           |                | LET­TER FI     |                |
+| code-namesearch |                 |           |                |                |                |
+| .pl?term=fi&.su |                 |           |                |                |                |
+| bmit=Search     |                 |           |                |                |                |
++-----------------+-----------------+-----------+----------------+----------------+----------------+
+| https://unicode | U+; 10F6        | ჶ         | e1 83 b6       | GEORGIAN       | GEORGIAN SMALL |
+| -search.net/uni |                 |           |                | LET­TER FI     | LETTER FI      |
+| code-namesearch |                 |           |                |                |                |
+| .pl?term=fi&.su |                 |           |                |                |                |
+| bmit=Search     |                 |           |                |                |                |
++-----------------+-----------------+-----------+----------------+----------------+----------------+
+| https://unicode | U+; 134A        | ፊ         | e1 8d 8a       | ET­HI­O­PIC    |                |
+| -search.net/uni |                 |           |                | SYL­LA­BLE FI  |                |
+| code-namesearch |                 |           |                |                |                |
+| .pl?term=fi&.su |                 |           |                |                |                |
+| bmit=Search     |                 |           |                |                |                |
++-----------------+-----------------+-----------+----------------+----------------+----------------+
+| https://unicode | U+; 1555        | ᕕ         | e1 95 95       | CANADIAN       |                |
+| -search.net/uni |                 |           |                | SYLLABICS FI   |                |
+| code-namesearch |                 |           |                |                |                |
+| .pl?term=fi&.su |                 |           |                |                |                |
+| bmit=Search     |                 |           |                |                |                |
++-----------------+-----------------+-----------+----------------+----------------+----------------+
+| https://unicode | U+; 2CAA        | Ⲫ         | e2 b2 aa       | COPTIC         |                |
+| -search.net/uni |                 |           |                | CA­PI­TAL      |                |
+| code-namesearch |                 |           |                | LET­TER FI     |                |
+| .pl?term=fi&.su |                 |           |                |                |                |
+| bmit=Search     |                 |           |                |                |                |
++-----------------+-----------------+-----------+----------------+----------------+----------------+
+| https://unicode | U+; 2CAB        | ⲫ         | e2 b2 ab       | COPTIC SMALL   |                |
+| -search.net/uni |                 |           |                | LET­TER FI     |                |
+| code-namesearch |                 |           |                |                |                |
+| .pl?term=fi&.su |                 |           |                |                |                |
+| bmit=Search     |                 |           |                |                |                |
++-----------------+-----------------+-----------+----------------+----------------+----------------+
+| https://unicode | U+; A0CF        | ꃏ        | ea 83 8f       | YI SYL­LA­BLE  |                |
+| -search.net/uni |                 |           |                | FI             |                |
+| code-namesearch |                 |           |                |                |                |
+| .pl?term=fi&.su |                 |           |                |                |                |
+| bmit=Search     |                 |           |                |                |                |
++-----------------+-----------------+-----------+----------------+----------------+----------------+
+| https://unicode | U+; A531        | ꔱ         | ea 94 b1       | VAI SYL­LA­BLE |                |
+| -search.net/uni |                 |           |                | FI             |                |
+| code-namesearch |                 |           |                |                |                |
+| .pl?term=fi&.su |                 |           |                |                |                |
+| bmit=Search     |                 |           |                |                |                |
++-----------------+-----------------+-----------+----------------+----------------+----------------+
+| https://unicode | U+; FB01        | ﬁ         | ef ac 81       | LATIN SMALL    |                |
+| -search.net/uni |                 |           |                | LIGATURE FI    |                |
+| code-namesearch |                 |           |                |                |                |
+| .pl?term=fi&.su |                 |           |                |                |                |
+| bmit=Search     |                 |           |                |                |                |
++-----------------+-----------------+-----------+----------------+----------------+----------------+
+| https://unicode | U+; 1E85A       | 𞡚         | f0 9e a1 9a    | MENDE KIKAKUI  |                |
+| -search.net/uni |                 |           |                | SYL­LA­BLE     |                |
+| code-namesearch |                 |           |                | M034 FI        |                |
+| .pl?term=fi&.su |                 |           |                |                |                |
+| bmit=Search     |                 |           |                |                |                |
++-----------------+-----------------+-----------+----------------+----------------+----------------+

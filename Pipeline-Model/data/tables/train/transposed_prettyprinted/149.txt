@@ -1,0 +1,41 @@
++--------------+-------------+-------------+-------------+-------------+-------------+-------------+
+| Director(s)  | Writer(s)   | Producer(s) | Composer    | Release     | Running     | Box Office  |
+|              |             |             |             | Date        | Time        |             |
++--------------+-------------+-------------+-------------+-------------+-------------+-------------+
+| Ryan Coogler | Joe Robert  | Kevin       | Ludwig      | February    | 134 minutes | $1.345      |
+|              | Cole; Ryan  | Feige;      | Göransson   | 16, 2018    |             | billion     |
+|              | Coogler;    | Victoria    |             |             |             |             |
+|              | Donald      | Alonso;     |             |             |             |             |
+|              | Glover;     | Nate Moore; |             |             |             |             |
+|              | Stephen     | Jeffrey     |             |             |             |             |
+|              | Glover      | Chernov;    |             |             |             |             |
+|              |             | Stan Lee    |             |             |             |             |
++--------------+-------------+-------------+-------------+-------------+-------------+-------------+
+| http://marve | http://marv | http://marv | http://marv |             |             |             |
+| lcinematicun | elcinematic | elcinematic | elcinematic |             |             |             |
+| iverse.wikia | universe.wi | universe.wi | universe.wi |             |             |             |
+| .com/wiki/Ry | kia.com/wik | kia.com/wik | kia.com/wik |             |             |             |
+| an_Coogler   | i/Joe_Rober | i/Kevin_Fei | i/Ludwig_G% |             |             |             |
+|              | t_Cole; htt | ge; http:// | C3%B6ransso |             |             |             |
+|              | p://marvelc | marvelcinem | n           |             |             |             |
+|              | inematicuni | aticunivers |             |             |             |             |
+|              | verse.wikia | e.wikia.com |             |             |             |             |
+|              | .com/wiki/R | /wiki/Victo |             |             |             |             |
+|              | yan_Coogler | ria_Alonso; |             |             |             |             |
+|              | ; http://ma | http://marv |             |             |             |             |
+|              | rvelcinemat | elcinematic |             |             |             |             |
+|              | icuniverse. | universe.wi |             |             |             |             |
+|              | wikia.com/w | kia.com/wik |             |             |             |             |
+|              | iki/Donald_ | i/Nate_Moor |             |             |             |             |
+|              | Glover; htt | e; http://m |             |             |             |             |
+|              | p://marvelc | arvelcinema |             |             |             |             |
+|              | inematicuni | ticuniverse |             |             |             |             |
+|              | verse.wikia | .wikia.com/ |             |             |             |             |
+|              | .com/wiki/S | wiki/Jeffre |             |             |             |             |
+|              | tephen_Glov | y_Chernov;  |             |             |             |             |
+|              | er          | http://marv |             |             |             |             |
+|              |             | elcinematic |             |             |             |             |
+|              |             | universe.wi |             |             |             |             |
+|              |             | kia.com/wik |             |             |             |             |
+|              |             | i/Stan_Lee  |             |             |             |             |
++--------------+-------------+-------------+-------------+-------------+-------------+-------------+

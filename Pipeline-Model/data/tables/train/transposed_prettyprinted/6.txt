@@ -1,0 +1,147 @@
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| url      | keys     | mouses   | mouses_l | short_ex | short_ex | descript | price    | price_li |
+|          |          |          | ink      | planatio | planatio | ion      |          | nk       |
+|          |          |          |          | n        | n_link   |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Our pick | Logitech | https:// | The best | https:// | The inex | $20      | https:// |
+| thewirec |          | Marathon | wclink.c | wireless | wclink.c | pensive  |          | wclink.c |
+| utter.co |          | Mouse    | o/link/2 | mouse    | o/link/2 | Marathon |          | o/link/2 |
+| m/review |          | M705     | 31/94600 | for most | 31/94600 | is comfo |          | 31/94600 |
+| s/best-w |          |          | /4/37024 | hands    | /4/37024 | rtable   |          | /4/37024 |
+| ireless- |          |          |          |          |          | for a    |          |          |
+| mouse/   |          |          |          |          |          | variety  |          |          |
+|          |          |          |          |          |          | of hand  |          |          |
+|          |          |          |          |          |          | sizes    |          |          |
+|          |          |          |          |          |          | and      |          |          |
+|          |          |          |          |          |          | grips,   |          |          |
+|          |          |          |          |          |          | and it   |          |          |
+|          |          |          |          |          |          | tracks a |          |          |
+|          |          |          |          |          |          | ccuratel |          |          |
+|          |          |          |          |          |          | y on     |          |          |
+|          |          |          |          |          |          | most sur |          |          |
+|          |          |          |          |          |          | faces.   |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Runner-  | Logitech | https:// | A great  | https:// | The Tria | $38      | https:// |
+| thewirec | up       | M720 Tri | wclink.c | Bluetoot | wclink.c | thlon    |          | wclink.c |
+| utter.co |          | athlon   | o/link/1 | h mouse  | o/link/1 | supports |          | o/link/1 |
+| m/review |          | Multi-   | 5967/940 |          | 5967/940 | Bluetoot |          | 5967/940 |
+| s/best-w |          | Device   | 79/4/636 |          | 79/4/636 | h and    |          | 79/4/636 |
+| ireless- |          | Wireless | 08       |          | 08       | has      |          | 08       |
+| mouse/   |          | Mouse    |          |          |          | more-    |          |          |
+|          |          |          |          |          |          | useful s |          |          |
+|          |          |          |          |          |          | oftware, |          |          |
+|          |          |          |          |          |          | but it   |          |          |
+|          |          |          |          |          |          | isn’t as |          |          |
+|          |          |          |          |          |          | comforta |          |          |
+|          |          |          |          |          |          | ble or a |          |          |
+|          |          |          |          |          |          | ffordabl |          |          |
+|          |          |          |          |          |          | e as the |          |          |
+|          |          |          |          |          |          | Marathon |          |          |
+|          |          |          |          |          |          | .        |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Upgrade  | Logitech | https:// | A luxury | https:// | The MX   | $95      | https:// |
+| thewirec | pick     | MX       | wclink.c | mouse    | wclink.c | Master   |          | wclink.c |
+| utter.co |          | Master   | o/link/1 | for prof | o/link/1 | 2S is ex |          | o/link/1 |
+| m/review |          | 2S       | 9174/102 | essional | 9174/102 | pensive, |          | 9174/102 |
+| s/best-w |          | Wireless | 932/4/63 | s        | 932/4/63 | but its  |          | 932/4/63 |
+| ireless- |          | Mouse    | 609      |          | 609      | comforta |          | 609      |
+| mouse/   |          |          |          |          |          | ble      |          |          |
+|          |          |          |          |          |          | contour, |          |          |
+|          |          |          |          |          |          | customiz |          |          |
+|          |          |          |          |          |          | able     |          |          |
+|          |          |          |          |          |          | buttons, |          |          |
+|          |          |          |          |          |          | and      |          |          |
+|          |          |          |          |          |          | sturdy c |          |          |
+|          |          |          |          |          |          | onstruct |          |          |
+|          |          |          |          |          |          | ion make |          |          |
+|          |          |          |          |          |          | it the   |          |          |
+|          |          |          |          |          |          | best     |          |          |
+|          |          |          |          |          |          | option   |          |          |
+|          |          |          |          |          |          | for      |          |          |
+|          |          |          |          |          |          | people   |          |          |
+|          |          |          |          |          |          | who use  |          |          |
+|          |          |          |          |          |          | a mouse  |          |          |
+|          |          |          |          |          |          | all day. |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Also     | Logitech | https:// | A great  | https:// | Logitech | $40; $40 | https:// |
+| thewirec | great    | M585     | wclink.c | portable | wclink.c | M585     |          | wclink.c |
+| utter.co |          | Multi-   | o/link/1 | mouse;   | o/link/1 | Multi-   |          | o/link/1 |
+| m/review |          | Device;  | 9176/102 | Same     | 9176/102 | Device   |          | 9176/102 |
+| s/best-w |          | M590     | 934/4/63 | great    | 934/4/63 |          |          | 934/4/63 |
+| ireless- |          | Multi-   | 610; htt | portable | 610; htt |  A great |          | 610; htt |
+| mouse/   |          | Device   | ps://wcl | mouse,   | ps://wcl | portable |          | ps://wcl |
+|          |          | Silent   | ink.co/l | but      | ink.co/l | mouse    |          | ink.co/l |
+|          |          |          | ink/2052 | quieter  | ink/2052 |          |          | ink/2052 |
+|          |          |          | 1/109566 |          | 1/109566 |  The     |          | 1/109566 |
+|          |          |          | /4/63611 |          | /4/63611 | Logitech |          | /4/63611 |
+|          |          |          |          |          |          | M585 is  |          |          |
+|          |          |          |          |          |          | less com |          |          |
+|          |          |          |          |          |          | fortable |          |          |
+|          |          |          |          |          |          | than our |          |          |
+|          |          |          |          |          |          | other    |          |          |
+|          |          |          |          |          |          | picks,   |          |          |
+|          |          |          |          |          |          | but it   |          |          |
+|          |          |          |          |          |          | supports |          |          |
+|          |          |          |          |          |          | Bluetoot |          |          |
+|          |          |          |          |          |          | h and is |          |          |
+|          |          |          |          |          |          | more     |          |          |
+|          |          |          |          |          |          | compact. |          |          |
+|          |          |          |          |          |          |          |          |          |
+|          |          |          |          |          |          |          |          |          |
+|          |          |          |          |          |          |  $40     |          |          |
+|          |          |          |          |          |          | from     |          |          |
+|          |          |          |          |          |          | Amazon   |          |          |
+|          |          |          |          |          |          |          |          |          |
+|          |          |          |          |          |          |  $60     |          |          |
+|          |          |          |          |          |          | from     |          |          |
+|          |          |          |          |          |          | Amazon   |          |          |
+|          |          |          |          |          |          |          |          |          |
+|          |          |          |          |          |          |  Buy     |          |          |
+|          |          |          |          |          |          | from     |          |          |
+|          |          |          |          |          |          | Amazon   |          |          |
+|          |          |          |          |          |          |          |          |          |
+|          |          |          |          |          |          |  Buy     |          |          |
+|          |          |          |          |          |          | from     |          |          |
+|          |          |          |          |          |          | Amazon;  |          |          |
+|          |          |          |          |          |          | The      |          |          |
+|          |          |          |          |          |          | Logitech |          |          |
+|          |          |          |          |          |          | M590 is  |          |          |
+|          |          |          |          |          |          | identica |          |          |
+|          |          |          |          |          |          | l to the |          |          |
+|          |          |          |          |          |          | M585,    |          |          |
+|          |          |          |          |          |          | but it   |          |          |
+|          |          |          |          |          |          | has      |          |          |
+|          |          |          |          |          |          | quiet    |          |          |
+|          |          |          |          |          |          | left-    |          |          |
+|          |          |          |          |          |          | and      |          |          |
+|          |          |          |          |          |          | right-   |          |          |
+|          |          |          |          |          |          | click    |          |          |
+|          |          |          |          |          |          | buttons  |          |          |
+|          |          |          |          |          |          | that     |          |          |
+|          |          |          |          |          |          | provide  |          |          |
+|          |          |          |          |          |          | tactile  |          |          |
+|          |          |          |          |          |          | feedback |          |          |
+|          |          |          |          |          |          | without  |          |          |
+|          |          |          |          |          |          | a loud   |          |          |
+|          |          |          |          |          |          | click.   |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Also     | Logitech | https:// | A mouse  | https:// | The Perf | $81      | https:// |
+| thewirec | great    | Performa | wclink.c | for      | wclink.c | ormance  |          | wclink.c |
+| utter.co |          | nce      | o/link/2 | larger   | o/link/2 | Mouse MX |          | o/link/2 |
+| m/review |          | Mouse MX | 1/105522 | hands    | 1/105522 | is our   |          | 1/105522 |
+| s/best-w |          |          | /4/63612 |          | /4/63612 | pick for |          | /4/63612 |
+| ireless- |          |          |          |          |          | giant    |          |          |
+| mouse/   |          |          |          |          |          | hands.   |          |          |
+|          |          |          |          |          |          | It’s     |          |          |
+|          |          |          |          |          |          | larger   |          |          |
+|          |          |          |          |          |          | and      |          |          |
+|          |          |          |          |          |          | cheaper  |          |          |
+|          |          |          |          |          |          | than the |          |          |
+|          |          |          |          |          |          | MX       |          |          |
+|          |          |          |          |          |          | Master   |          |          |
+|          |          |          |          |          |          | 2S, but  |          |          |
+|          |          |          |          |          |          | it’s too |          |          |
+|          |          |          |          |          |          | large    |          |          |
+|          |          |          |          |          |          | for most |          |          |
+|          |          |          |          |          |          | people.  |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+

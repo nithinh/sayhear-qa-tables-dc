@@ -1,0 +1,21 @@
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| born   | died   | cause  | restin | educat | occupa | years  | net wo | partne | childr | relati |
+|        |        | of     | g      | ion    | tion   | active | rth    | r(s)   | en     | ves    |
+|        |        | death  | place  |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| paul w | novemb | injuri | injuri | villag | actor  | 1984–2 | $25 mi | rebecc | 1      | cody   |
+| illiam | er 30, | es sus | es sus | e chri | [1]    | 013    | llion  | a mcbr |        | walker |
+| walker | 2013 ( | tained | tained | stian  | [2]    |        | (2014) | ain    |        | (broth |
+| iv  (  | 2013-1 | from s | from s | school |        |        | [1]    |        |        | er)    |
+| 1973-0 | 1-30)  | ingle- | ingle- |        |        |        | [2]    |        |        |        |
+| 9-12 ) | (aged  | vehicl | vehicl |        |        |        |        |        |        |        |
+| septem | 40)    | e coll | e coll |        |        |        |        |        |        |        |
+| ber    | santa  | ision  | ision  |        |        |        |        |        |        |        |
+| 12,    | clarit |        |        |        |        |        |        |        |        |        |
+| 1973   | a, cal |        |        |        |        |        |        |        |        |        |
+| glenda | iforni |        |        |        |        |        |        |        |        |        |
+| le, ca | a ,    |        |        |        |        |        |        |        |        |        |
+| liforn | u.s.   |        |        |        |        |        |        |        |        |        |
+| ia ,   |        |        |        |        |        |        |        |        |        |        |
+| u.s.   |        |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+

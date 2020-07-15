@@ -1,0 +1,1785 @@
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| url        | No._overal | No._in_sea | Title     | Directed_ | Written_b | Original_ | Descripti |
+|            | l          | son        |           | by        | y         | release_d | on        |
+|            |            |            |           |           |           | ate       |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://en | 14         | 1          | "AKA      | Anna      | Melissa   | March 8,  | Super-    |
+| .wikipedia |            |            | Start at  | Foerster  | Rosenberg | 2018      | powered   |
+| .org/wiki/ |            |            | the Begin |           |           |           | private i |
+| Jessica_Jo |            |            | ning"     |           |           |           | nvestigat |
+| nes_(seaso |            |            |           |           |           |           | or        |
+| n_2)       |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | Jones has |
+|            |            |            |           |           |           |           | become    |
+|            |            |            |           |           |           |           | known as  |
+|            |            |            |           |           |           |           | a         |
+|            |            |            |           |           |           |           | vigilante |
+|            |            |            |           |           |           |           | hero      |
+|            |            |            |           |           |           |           | around    |
+|            |            |            |           |           |           |           | New York  |
+|            |            |            |           |           |           |           | City      |
+|            |            |            |           |           |           |           | since she |
+|            |            |            |           |           |           |           | killed    |
+|            |            |            |           |           |           |           | her       |
+|            |            |            |           |           |           |           | tormentor |
+|            |            |            |           |           |           |           | Kilgrave. |
+|            |            |            |           |           |           |           | Trish     |
+|            |            |            |           |           |           |           | Walker,   |
+|            |            |            |           |           |           |           | Jones's   |
+|            |            |            |           |           |           |           | best      |
+|            |            |            |           |           |           |           | friend    |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | adopted   |
+|            |            |            |           |           |           |           | sister,   |
+|            |            |            |           |           |           |           | attempts  |
+|            |            |            |           |           |           |           | to        |
+|            |            |            |           |           |           |           | convince  |
+|            |            |            |           |           |           |           | Jones to  |
+|            |            |            |           |           |           |           | investiga |
+|            |            |            |           |           |           |           | te her    |
+|            |            |            |           |           |           |           | past and  |
+|            |            |            |           |           |           |           | IGH, the  |
+|            |            |            |           |           |           |           | company   |
+|            |            |            |           |           |           |           | that gave |
+|            |            |            |           |           |           |           | her abili |
+|            |            |            |           |           |           |           | ties, but |
+|            |            |            |           |           |           |           | Jones is  |
+|            |            |            |           |           |           |           | not inter |
+|            |            |            |           |           |           |           | ested.    |
+|            |            |            |           |           |           |           | Walker is |
+|            |            |            |           |           |           |           | dealing   |
+|            |            |            |           |           |           |           | with      |
+|            |            |            |           |           |           |           | declining |
+|            |            |            |           |           |           |           | ratings   |
+|            |            |            |           |           |           |           | for her   |
+|            |            |            |           |           |           |           | radio     |
+|            |            |            |           |           |           |           | show      |
+|            |            |            |           |           |           |           | Trish     |
+|            |            |            |           |           |           |           | Talk, and |
+|            |            |            |           |           |           |           | sees her  |
+|            |            |            |           |           |           |           | ex-       |
+|            |            |            |           |           |           |           | boyfriend |
+|            |            |            |           |           |           |           | Will Simp |
+|            |            |            |           |           |           |           | son—who   |
+|            |            |            |           |           |           |           | was also  |
+|            |            |            |           |           |           |           | experimen |
+|            |            |            |           |           |           |           | ted on by |
+|            |            |            |           |           |           |           | IGH—follo |
+|            |            |            |           |           |           |           | wing her. |
+|            |            |            |           |           |           |           | Pryce     |
+|            |            |            |           |           |           |           | Cheng,    |
+|            |            |            |           |           |           |           | another i |
+|            |            |            |           |           |           |           | nvestigat |
+|            |            |            |           |           |           |           | or, seeks |
+|            |            |            |           |           |           |           | to absorb |
+|            |            |            |           |           |           |           | Jones     |
+|            |            |            |           |           |           |           | into his  |
+|            |            |            |           |           |           |           | company   |
+|            |            |            |           |           |           |           | at the    |
+|            |            |            |           |           |           |           | request   |
+|            |            |            |           |           |           |           | of lawyer |
+|            |            |            |           |           |           |           | Jeri      |
+|            |            |            |           |           |           |           | Hogarth.  |
+|            |            |            |           |           |           |           | When      |
+|            |            |            |           |           |           |           | Jones     |
+|            |            |            |           |           |           |           | attacks   |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | injures   |
+|            |            |            |           |           |           |           | Cheng, he |
+|            |            |            |           |           |           |           | plans to  |
+|            |            |            |           |           |           |           | sue her   |
+|            |            |            |           |           |           |           | with      |
+|            |            |            |           |           |           |           | Hogarth,  |
+|            |            |            |           |           |           |           | who is    |
+|            |            |            |           |           |           |           | already   |
+|            |            |            |           |           |           |           | facing a  |
+|            |            |            |           |           |           |           | lawsuit   |
+|            |            |            |           |           |           |           | from her  |
+|            |            |            |           |           |           |           | former    |
+|            |            |            |           |           |           |           | assistant |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | lover.    |
+|            |            |            |           |           |           |           | Jones is  |
+|            |            |            |           |           |           |           | approache |
+|            |            |            |           |           |           |           | d by      |
+|            |            |            |           |           |           |           | Robert    |
+|            |            |            |           |           |           |           | Coleman,  |
+|            |            |            |           |           |           |           | who also  |
+|            |            |            |           |           |           |           | calls     |
+|            |            |            |           |           |           |           | himself   |
+|            |            |            |           |           |           |           | "Whizzer" |
+|            |            |            |           |           |           |           | and was   |
+|            |            |            |           |           |           |           | given sup |
+|            |            |            |           |           |           |           | erspeed   |
+|            |            |            |           |           |           |           | by IGH.   |
+|            |            |            |           |           |           |           | When he   |
+|            |            |            |           |           |           |           | is killed |
+|            |            |            |           |           |           |           | in an     |
+|            |            |            |           |           |           |           | apparent  |
+|            |            |            |           |           |           |           | construct |
+|            |            |            |           |           |           |           | ion       |
+|            |            |            |           |           |           |           | accident, |
+|            |            |            |           |           |           |           | Jones     |
+|            |            |            |           |           |           |           | traces    |
+|            |            |            |           |           |           |           | his medic |
+|            |            |            |           |           |           |           | ation to  |
+|            |            |            |           |           |           |           | an        |
+|            |            |            |           |           |           |           | abandoned |
+|            |            |            |           |           |           |           | building  |
+|            |            |            |           |           |           |           | which she |
+|            |            |            |           |           |           |           | remembers |
+|            |            |            |           |           |           |           | being     |
+|            |            |            |           |           |           |           | taken to  |
+|            |            |            |           |           |           |           | and exper |
+|            |            |            |           |           |           |           | imented   |
+|            |            |            |           |           |           |           | on.       |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://en | 15         | 2          | "AKA      | Minkie    | Aïda      | March 8,  | Jones     |
+| .wikipedia |            |            | Freak     | Spiro     | Mashaka   | 2018      | goes to   |
+| .org/wiki/ |            |            | Accident" |           | Croal     |           | the home  |
+| Jessica_Jo |            |            |           |           |           |           | of Miklos |
+| nes_(seaso |            |            |           |           |           |           | Kozlov,   |
+| n_2)       |            |            |           |           |           |           | the IGH   |
+|            |            |            |           |           |           |           | doctor    |
+|            |            |            |           |           |           |           | who had e |
+|            |            |            |           |           |           |           | xperiment |
+|            |            |            |           |           |           |           | ed on     |
+|            |            |            |           |           |           |           | Simpson.  |
+|            |            |            |           |           |           |           | She finds |
+|            |            |            |           |           |           |           | a shiva   |
+|            |            |            |           |           |           |           | for       |
+|            |            |            |           |           |           |           | Kozlov,   |
+|            |            |            |           |           |           |           | who has   |
+|            |            |            |           |           |           |           | died in a |
+|            |            |            |           |           |           |           | "freak ac |
+|            |            |            |           |           |           |           | cident".  |
+|            |            |            |           |           |           |           | One of    |
+|            |            |            |           |           |           |           | Kozlov's  |
+|            |            |            |           |           |           |           | army      |
+|            |            |            |           |           |           |           | patients  |
+|            |            |            |           |           |           |           | believes  |
+|            |            |            |           |           |           |           | that      |
+|            |            |            |           |           |           |           | Simpson   |
+|            |            |            |           |           |           |           | is behind |
+|            |            |            |           |           |           |           | this, and |
+|            |            |            |           |           |           |           | Jones     |
+|            |            |            |           |           |           |           | suspects  |
+|            |            |            |           |           |           |           | that he   |
+|            |            |            |           |           |           |           | also      |
+|            |            |            |           |           |           |           | killed    |
+|            |            |            |           |           |           |           | Coleman.  |
+|            |            |            |           |           |           |           | Walker    |
+|            |            |            |           |           |           |           | asks      |
+|            |            |            |           |           |           |           | Malcolm   |
+|            |            |            |           |           |           |           | Ducasse,  |
+|            |            |            |           |           |           |           | Jones's   |
+|            |            |            |           |           |           |           | neighbor  |
+|            |            |            |           |           |           |           | and work  |
+|            |            |            |           |           |           |           | partner,  |
+|            |            |            |           |           |           |           | to help   |
+|            |            |            |           |           |           |           | her       |
+|            |            |            |           |           |           |           | rather    |
+|            |            |            |           |           |           |           | than      |
+|            |            |            |           |           |           |           | further   |
+|            |            |            |           |           |           |           | involve   |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | reluctant |
+|            |            |            |           |           |           |           | Jones.    |
+|            |            |            |           |           |           |           | Walker    |
+|            |            |            |           |           |           |           | confronts |
+|            |            |            |           |           |           |           | Maximilia |
+|            |            |            |           |           |           |           | n Tatum,  |
+|            |            |            |           |           |           |           | a         |
+|            |            |            |           |           |           |           | director, |
+|            |            |            |           |           |           |           | about the |
+|            |            |            |           |           |           |           | sexual re |
+|            |            |            |           |           |           |           | lationshi |
+|            |            |            |           |           |           |           | p they    |
+|            |            |            |           |           |           |           | had when  |
+|            |            |            |           |           |           |           | she was a |
+|            |            |            |           |           |           |           | child     |
+|            |            |            |           |           |           |           | actress   |
+|            |            |            |           |           |           |           | working   |
+|            |            |            |           |           |           |           | for him,  |
+|            |            |            |           |           |           |           | threateni |
+|            |            |            |           |           |           |           | ng to     |
+|            |            |            |           |           |           |           | publicly  |
+|            |            |            |           |           |           |           | reveal    |
+|            |            |            |           |           |           |           | this      |
+|            |            |            |           |           |           |           | unless he |
+|            |            |            |           |           |           |           | helps her |
+|            |            |            |           |           |           |           | get       |
+|            |            |            |           |           |           |           | access to |
+|            |            |            |           |           |           |           | records   |
+|            |            |            |           |           |           |           | at a      |
+|            |            |            |           |           |           |           | hospital  |
+|            |            |            |           |           |           |           | he has    |
+|            |            |            |           |           |           |           | influence |
+|            |            |            |           |           |           |           | over.     |
+|            |            |            |           |           |           |           | After     |
+|            |            |            |           |           |           |           | Tatum     |
+|            |            |            |           |           |           |           | refuses,  |
+|            |            |            |           |           |           |           | Walker    |
+|            |            |            |           |           |           |           | runs into |
+|            |            |            |           |           |           |           | Simpson.  |
+|            |            |            |           |           |           |           | Jones     |
+|            |            |            |           |           |           |           | also      |
+|            |            |            |           |           |           |           | arrives,  |
+|            |            |            |           |           |           |           | having    |
+|            |            |            |           |           |           |           | tracked   |
+|            |            |            |           |           |           |           | Walker    |
+|            |            |            |           |           |           |           | down when |
+|            |            |            |           |           |           |           | she did   |
+|            |            |            |           |           |           |           | not       |
+|            |            |            |           |           |           |           | answer    |
+|            |            |            |           |           |           |           | her       |
+|            |            |            |           |           |           |           | phone.    |
+|            |            |            |           |           |           |           | Simpson   |
+|            |            |            |           |           |           |           | claims    |
+|            |            |            |           |           |           |           | that      |
+|            |            |            |           |           |           |           | someone   |
+|            |            |            |           |           |           |           | else who  |
+|            |            |            |           |           |           |           | was exper |
+|            |            |            |           |           |           |           | imented   |
+|            |            |            |           |           |           |           | on by IGH |
+|            |            |            |           |           |           |           | has       |
+|            |            |            |           |           |           |           | killed    |
+|            |            |            |           |           |           |           | Kozlov    |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | Coleman,  |
+|            |            |            |           |           |           |           | and that  |
+|            |            |            |           |           |           |           | he is     |
+|            |            |            |           |           |           |           | just      |
+|            |            |            |           |           |           |           | there to  |
+|            |            |            |           |           |           |           | protect   |
+|            |            |            |           |           |           |           | Walker    |
+|            |            |            |           |           |           |           | since she |
+|            |            |            |           |           |           |           | was       |
+|            |            |            |           |           |           |           | noticed i |
+|            |            |            |           |           |           |           | nvestigat |
+|            |            |            |           |           |           |           | ing IGH.  |
+|            |            |            |           |           |           |           | This      |
+|            |            |            |           |           |           |           | other     |
+|            |            |            |           |           |           |           | person    |
+|            |            |            |           |           |           |           | soon      |
+|            |            |            |           |           |           |           | appears   |
+|            |            |            |           |           |           |           | and kills |
+|            |            |            |           |           |           |           | Simpson   |
+|            |            |            |           |           |           |           | while     |
+|            |            |            |           |           |           |           | Jones     |
+|            |            |            |           |           |           |           | gets      |
+|            |            |            |           |           |           |           | Walker to |
+|            |            |            |           |           |           |           | safety.   |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://en | 16         | 3          | "AKA Sole | Mairzee   | Lisa      | March 8,  | Hogarth   |
+| .wikipedia |            |            | Survivor" | Almas     | Randolph  | 2018      | is        |
+| .org/wiki/ |            |            |           |           |           |           | diagnosed |
+| Jessica_Jo |            |            |           |           |           |           | with ALS, |
+| nes_(seaso |            |            |           |           |           |           | and her   |
+| n_2)       |            |            |           |           |           |           | law-firm  |
+|            |            |            |           |           |           |           | partners  |
+|            |            |            |           |           |           |           | Steven    |
+|            |            |            |           |           |           |           | Benowitz  |
+|            |            |            |           |           |           |           | and Linda |
+|            |            |            |           |           |           |           | Chou plan |
+|            |            |            |           |           |           |           | to buy    |
+|            |            |            |           |           |           |           | her out   |
+|            |            |            |           |           |           |           | based on  |
+|            |            |            |           |           |           |           | a clause  |
+|            |            |            |           |           |           |           | in their  |
+|            |            |            |           |           |           |           | contracts |
+|            |            |            |           |           |           |           | . Jones   |
+|            |            |            |           |           |           |           | agrees to |
+|            |            |            |           |           |           |           | investiga |
+|            |            |            |           |           |           |           | te the    |
+|            |            |            |           |           |           |           | other     |
+|            |            |            |           |           |           |           | partners  |
+|            |            |            |           |           |           |           | to find   |
+|            |            |            |           |           |           |           | blackmail |
+|            |            |            |           |           |           |           | material  |
+|            |            |            |           |           |           |           | for       |
+|            |            |            |           |           |           |           | Hogarth.  |
+|            |            |            |           |           |           |           | Jones     |
+|            |            |            |           |           |           |           | receives  |
+|            |            |            |           |           |           |           | an        |
+|            |            |            |           |           |           |           | eviction  |
+|            |            |            |           |           |           |           | notice    |
+|            |            |            |           |           |           |           | from her  |
+|            |            |            |           |           |           |           | building' |
+|            |            |            |           |           |           |           | s new sup |
+|            |            |            |           |           |           |           | erintende |
+|            |            |            |           |           |           |           | nt Oscar  |
+|            |            |            |           |           |           |           | Arocho,   |
+|            |            |            |           |           |           |           | who fears |
+|            |            |            |           |           |           |           | Jones's a |
+|            |            |            |           |           |           |           | bilities. |
+|            |            |            |           |           |           |           | She also  |
+|            |            |            |           |           |           |           | discovers |
+|            |            |            |           |           |           |           | the name  |
+|            |            |            |           |           |           |           | Leslie    |
+|            |            |            |           |           |           |           | Hansen in |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | abandoned |
+|            |            |            |           |           |           |           | IGH       |
+|            |            |            |           |           |           |           | building. |
+|            |            |            |           |           |           |           | Hansen    |
+|            |            |            |           |           |           |           | was a     |
+|            |            |            |           |           |           |           | doctor at |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | hospital  |
+|            |            |            |           |           |           |           | where     |
+|            |            |            |           |           |           |           | Jones was |
+|            |            |            |           |           |           |           | taken     |
+|            |            |            |           |           |           |           | following |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | accident  |
+|            |            |            |           |           |           |           | that      |
+|            |            |            |           |           |           |           | killed    |
+|            |            |            |           |           |           |           | her       |
+|            |            |            |           |           |           |           | family.   |
+|            |            |            |           |           |           |           | Jones and |
+|            |            |            |           |           |           |           | Walker    |
+|            |            |            |           |           |           |           | find      |
+|            |            |            |           |           |           |           | Hansen's  |
+|            |            |            |           |           |           |           | apartment |
+|            |            |            |           |           |           |           | empty,    |
+|            |            |            |           |           |           |           | and a     |
+|            |            |            |           |           |           |           | charred   |
+|            |            |            |           |           |           |           | human     |
+|            |            |            |           |           |           |           | head in   |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | basement. |
+|            |            |            |           |           |           |           | Walker    |
+|            |            |            |           |           |           |           | uses her  |
+|            |            |            |           |           |           |           | radio     |
+|            |            |            |           |           |           |           | show to   |
+|            |            |            |           |           |           |           | ask the   |
+|            |            |            |           |           |           |           | public    |
+|            |            |            |           |           |           |           | for infor |
+|            |            |            |           |           |           |           | mation on |
+|            |            |            |           |           |           |           | Hansen,   |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | receives  |
+|            |            |            |           |           |           |           | a call    |
+|            |            |            |           |           |           |           | from a    |
+|            |            |            |           |           |           |           | woman     |
+|            |            |            |           |           |           |           | claiming  |
+|            |            |            |           |           |           |           | to be     |
+|            |            |            |           |           |           |           | Hansen.   |
+|            |            |            |           |           |           |           | Jones     |
+|            |            |            |           |           |           |           | meets     |
+|            |            |            |           |           |           |           | with her, |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | learns    |
+|            |            |            |           |           |           |           | that she  |
+|            |            |            |           |           |           |           | died      |
+|            |            |            |           |           |           |           | after the |
+|            |            |            |           |           |           |           | accident  |
+|            |            |            |           |           |           |           | but was   |
+|            |            |            |           |           |           |           | brought   |
+|            |            |            |           |           |           |           | back to   |
+|            |            |            |           |           |           |           | life by   |
+|            |            |            |           |           |           |           | IGH; the  |
+|            |            |            |           |           |           |           | superpowe |
+|            |            |            |           |           |           |           | rs were a |
+|            |            |            |           |           |           |           | side-     |
+|            |            |            |           |           |           |           | effect.   |
+|            |            |            |           |           |           |           | Jones     |
+|            |            |            |           |           |           |           | angers    |
+|            |            |            |           |           |           |           | the woman |
+|            |            |            |           |           |           |           | who       |
+|            |            |            |           |           |           |           | escapes   |
+|            |            |            |           |           |           |           | using     |
+|            |            |            |           |           |           |           | abilities |
+|            |            |            |           |           |           |           | similar   |
+|            |            |            |           |           |           |           | to        |
+|            |            |            |           |           |           |           | Jones'.   |
+|            |            |            |           |           |           |           | DNA       |
+|            |            |            |           |           |           |           | analysis  |
+|            |            |            |           |           |           |           | shows     |
+|            |            |            |           |           |           |           | that the  |
+|            |            |            |           |           |           |           | charred   |
+|            |            |            |           |           |           |           | head      |
+|            |            |            |           |           |           |           | belongs   |
+|            |            |            |           |           |           |           | to the    |
+|            |            |            |           |           |           |           | real      |
+|            |            |            |           |           |           |           | Leslie    |
+|            |            |            |           |           |           |           | Hansen.   |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://en | 17         | 4          | "AKA God  | Deborah   | Jack      | March 8,  | Hogarth   |
+| .wikipedia |            |            | Help the  | Chow      | Kenny     | 2018      | looks     |
+| .org/wiki/ |            |            | Hobo"     |           |           |           | into ways |
+| Jessica_Jo |            |            |           |           |           |           | to painle |
+| nes_(seaso |            |            |           |           |           |           | ssly end  |
+| n_2)       |            |            |           |           |           |           | her life, |
+|            |            |            |           |           |           |           | which her |
+|            |            |            |           |           |           |           | doctor    |
+|            |            |            |           |           |           |           | does not  |
+|            |            |            |           |           |           |           | support.  |
+|            |            |            |           |           |           |           | Cheng     |
+|            |            |            |           |           |           |           | fires     |
+|            |            |            |           |           |           |           | Hogarth   |
+|            |            |            |           |           |           |           | for no    |
+|            |            |            |           |           |           |           | longer pr |
+|            |            |            |           |           |           |           | ioritizin |
+|            |            |            |           |           |           |           | g him and |
+|            |            |            |           |           |           |           | his       |
+|            |            |            |           |           |           |           | lawsuit,  |
+|            |            |            |           |           |           |           | and also  |
+|            |            |            |           |           |           |           | offers    |
+|            |            |            |           |           |           |           | Ducasse a |
+|            |            |            |           |           |           |           | job at    |
+|            |            |            |           |           |           |           | his       |
+|            |            |            |           |           |           |           | company;  |
+|            |            |            |           |           |           |           | Ducasse   |
+|            |            |            |           |           |           |           | turns     |
+|            |            |            |           |           |           |           | down the  |
+|            |            |            |           |           |           |           | role, and |
+|            |            |            |           |           |           |           | Jones     |
+|            |            |            |           |           |           |           | promises  |
+|            |            |            |           |           |           |           | to work   |
+|            |            |            |           |           |           |           | with him  |
+|            |            |            |           |           |           |           | better.   |
+|            |            |            |           |           |           |           | Jones and |
+|            |            |            |           |           |           |           | Walker    |
+|            |            |            |           |           |           |           | try to    |
+|            |            |            |           |           |           |           | find out  |
+|            |            |            |           |           |           |           | who the m |
+|            |            |            |           |           |           |           | ysterious |
+|            |            |            |           |           |           |           | woman     |
+|            |            |            |           |           |           |           | posing as |
+|            |            |            |           |           |           |           | Hansen    |
+|            |            |            |           |           |           |           | was, and  |
+|            |            |            |           |           |           |           | Jones     |
+|            |            |            |           |           |           |           | scares    |
+|            |            |            |           |           |           |           | Tatum     |
+|            |            |            |           |           |           |           | into      |
+|            |            |            |           |           |           |           | getting   |
+|            |            |            |           |           |           |           | the IGH   |
+|            |            |            |           |           |           |           | files     |
+|            |            |            |           |           |           |           | from the  |
+|            |            |            |           |           |           |           | hospital. |
+|            |            |            |           |           |           |           | In        |
+|            |            |            |           |           |           |           | addition  |
+|            |            |            |           |           |           |           | to Jones  |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | Coleman,  |
+|            |            |            |           |           |           |           | there is  |
+|            |            |            |           |           |           |           | a file on |
+|            |            |            |           |           |           |           | Inez      |
+|            |            |            |           |           |           |           | Green.    |
+|            |            |            |           |           |           |           | They find |
+|            |            |            |           |           |           |           | her       |
+|            |            |            |           |           |           |           | living on |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | streets,  |
+|            |            |            |           |           |           |           | where she |
+|            |            |            |           |           |           |           | explains  |
+|            |            |            |           |           |           |           | that she  |
+|            |            |            |           |           |           |           | was a     |
+|            |            |            |           |           |           |           | nurse at  |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | hospital  |
+|            |            |            |           |           |           |           | who was   |
+|            |            |            |           |           |           |           | seriously |
+|            |            |            |           |           |           |           | injured   |
+|            |            |            |           |           |           |           | by the my |
+|            |            |            |           |           |           |           | sterious  |
+|            |            |            |           |           |           |           | woman.    |
+|            |            |            |           |           |           |           | Jones and |
+|            |            |            |           |           |           |           | Walker    |
+|            |            |            |           |           |           |           | promise   |
+|            |            |            |           |           |           |           | to keep   |
+|            |            |            |           |           |           |           | her safe. |
+|            |            |            |           |           |           |           | Cheng     |
+|            |            |            |           |           |           |           | sends one |
+|            |            |            |           |           |           |           | of his    |
+|            |            |            |           |           |           |           | men to    |
+|            |            |            |           |           |           |           | steal all |
+|            |            |            |           |           |           |           | of        |
+|            |            |            |           |           |           |           | Jones's   |
+|            |            |            |           |           |           |           | research  |
+|            |            |            |           |           |           |           | from her  |
+|            |            |            |           |           |           |           | office,   |
+|            |            |            |           |           |           |           | hoping to |
+|            |            |            |           |           |           |           | find      |
+|            |            |            |           |           |           |           | something |
+|            |            |            |           |           |           |           | to use    |
+|            |            |            |           |           |           |           | against   |
+|            |            |            |           |           |           |           | her. The  |
+|            |            |            |           |           |           |           | man is    |
+|            |            |            |           |           |           |           | attacked  |
+|            |            |            |           |           |           |           | by the my |
+|            |            |            |           |           |           |           | sterious  |
+|            |            |            |           |           |           |           | woman,    |
+|            |            |            |           |           |           |           | who tears |
+|            |            |            |           |           |           |           | him       |
+|            |            |            |           |           |           |           | apart.    |
+|            |            |            |           |           |           |           | When      |
+|            |            |            |           |           |           |           | Jones     |
+|            |            |            |           |           |           |           | arrives,  |
+|            |            |            |           |           |           |           | she is    |
+|            |            |            |           |           |           |           | arrested  |
+|            |            |            |           |           |           |           | for the   |
+|            |            |            |           |           |           |           | murder.   |
+|            |            |            |           |           |           |           | Walker    |
+|            |            |            |           |           |           |           | tries to  |
+|            |            |            |           |           |           |           | help her  |
+|            |            |            |           |           |           |           | using an  |
+|            |            |            |           |           |           |           | IGH perfo |
+|            |            |            |           |           |           |           | rmance    |
+|            |            |            |           |           |           |           | enhancer  |
+|            |            |            |           |           |           |           | she took  |
+|            |            |            |           |           |           |           | from      |
+|            |            |            |           |           |           |           | Simpson,  |
+|            |            |            |           |           |           |           | but is    |
+|            |            |            |           |           |           |           | also      |
+|            |            |            |           |           |           |           | arrested. |
+|            |            |            |           |           |           |           | Ducasse   |
+|            |            |            |           |           |           |           | takes     |
+|            |            |            |           |           |           |           | Green to  |
+|            |            |            |           |           |           |           | safety.   |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://en | 18         | 5          | "AKA The  | Millicent | Jamie     | March 8,  | Jones     |
+| .wikipedia |            |            | Octopus"  | Shelton   | King      | 2018      | spends a  |
+| .org/wiki/ |            |            |           |           |           |           | day at    |
+| Jessica_Jo |            |            |           |           |           |           | the       |
+| nes_(seaso |            |            |           |           |           |           | police    |
+| n_2)       |            |            |           |           |           |           | station   |
+|            |            |            |           |           |           |           | before    |
+|            |            |            |           |           |           |           | Hogarth   |
+|            |            |            |           |           |           |           | convinces |
+|            |            |            |           |           |           |           | her to    |
+|            |            |            |           |           |           |           | tell the  |
+|            |            |            |           |           |           |           | truth.    |
+|            |            |            |           |           |           |           | Detective |
+|            |            |            |           |           |           |           | Eddy      |
+|            |            |            |           |           |           |           | Costa     |
+|            |            |            |           |           |           |           | believes  |
+|            |            |            |           |           |           |           | Jones,    |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | releases  |
+|            |            |            |           |           |           |           | her with  |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | promise   |
+|            |            |            |           |           |           |           | that she  |
+|            |            |            |           |           |           |           | will keep |
+|            |            |            |           |           |           |           | Costa     |
+|            |            |            |           |           |           |           | informed  |
+|            |            |            |           |           |           |           | of her in |
+|            |            |            |           |           |           |           | vestigati |
+|            |            |            |           |           |           |           | on.       |
+|            |            |            |           |           |           |           | Walker,   |
+|            |            |            |           |           |           |           | bailed    |
+|            |            |            |           |           |           |           | out by    |
+|            |            |            |           |           |           |           | her       |
+|            |            |            |           |           |           |           | mother,   |
+|            |            |            |           |           |           |           | struggles |
+|            |            |            |           |           |           |           | with      |
+|            |            |            |           |           |           |           | after-    |
+|            |            |            |           |           |           |           | effects   |
+|            |            |            |           |           |           |           | of using  |
+|            |            |            |           |           |           |           | the IGH   |
+|            |            |            |           |           |           |           | drug. Her |
+|            |            |            |           |           |           |           | new       |
+|            |            |            |           |           |           |           | boyfriend |
+|            |            |            |           |           |           |           | Griffin   |
+|            |            |            |           |           |           |           | Sinclair  |
+|            |            |            |           |           |           |           | asks her  |
+|            |            |            |           |           |           |           | to marry  |
+|            |            |            |           |           |           |           | him, but  |
+|            |            |            |           |           |           |           | Walker    |
+|            |            |            |           |           |           |           | turns him |
+|            |            |            |           |           |           |           | down. She |
+|            |            |            |           |           |           |           | takes the |
+|            |            |            |           |           |           |           | IGH drug  |
+|            |            |            |           |           |           |           | again.    |
+|            |            |            |           |           |           |           | Ducasse   |
+|            |            |            |           |           |           |           | takes     |
+|            |            |            |           |           |           |           | Green to  |
+|            |            |            |           |           |           |           | Hogarth,  |
+|            |            |            |           |           |           |           | who       |
+|            |            |            |           |           |           |           | agrees to |
+|            |            |            |           |           |           |           | protect   |
+|            |            |            |           |           |           |           | her.      |
+|            |            |            |           |           |           |           | Hogarth   |
+|            |            |            |           |           |           |           | asks      |
+|            |            |            |           |           |           |           | Green     |
+|            |            |            |           |           |           |           | about     |
+|            |            |            |           |           |           |           | IGH's exp |
+|            |            |            |           |           |           |           | eriments. |
+|            |            |            |           |           |           |           | Jones     |
+|            |            |            |           |           |           |           | meets     |
+|            |            |            |           |           |           |           | with      |
+|            |            |            |           |           |           |           | David     |
+|            |            |            |           |           |           |           | Kawecki,  |
+|            |            |            |           |           |           |           | an inmate |
+|            |            |            |           |           |           |           | at a      |
+|            |            |            |           |           |           |           | mental    |
+|            |            |            |           |           |           |           | hospital  |
+|            |            |            |           |           |           |           | serving   |
+|            |            |            |           |           |           |           | time for  |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | murder of |
+|            |            |            |           |           |           |           | Green's   |
+|            |            |            |           |           |           |           | fellow    |
+|            |            |            |           |           |           |           | nurse,    |
+|            |            |            |           |           |           |           | who was   |
+|            |            |            |           |           |           |           | actually  |
+|            |            |            |           |           |           |           | killed by |
+|            |            |            |           |           |           |           | the myste |
+|            |            |            |           |           |           |           | rious     |
+|            |            |            |           |           |           |           | woman.    |
+|            |            |            |           |           |           |           | Jones     |
+|            |            |            |           |           |           |           | learns of |
+|            |            |            |           |           |           |           | a shared  |
+|            |            |            |           |           |           |           | interest  |
+|            |            |            |           |           |           |           | in octopi |
+|            |            |            |           |           |           |           | that      |
+|            |            |            |           |           |           |           | Kawecki   |
+|            |            |            |           |           |           |           | has with  |
+|            |            |            |           |           |           |           | an IGH    |
+|            |            |            |           |           |           |           | doctor,   |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | visits    |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | aquarium. |
+|            |            |            |           |           |           |           | She recog |
+|            |            |            |           |           |           |           | nizes the |
+|            |            |            |           |           |           |           | doctor,   |
+|            |            |            |           |           |           |           | Karl      |
+|            |            |            |           |           |           |           | Malus, in |
+|            |            |            |           |           |           |           | a new     |
+|            |            |            |           |           |           |           | memory    |
+|            |            |            |           |           |           |           | from      |
+|            |            |            |           |           |           |           | after the |
+|            |            |            |           |           |           |           | accident. |
+|            |            |            |           |           |           |           | He meets  |
+|            |            |            |           |           |           |           | with the  |
+|            |            |            |           |           |           |           | mysteriou |
+|            |            |            |           |           |           |           | s woman,  |
+|            |            |            |           |           |           |           | who upon  |
+|            |            |            |           |           |           |           | discoveri |
+|            |            |            |           |           |           |           | ng Jones  |
+|            |            |            |           |           |           |           | surveilli |
+|            |            |            |           |           |           |           | ng them,  |
+|            |            |            |           |           |           |           | smashes   |
+|            |            |            |           |           |           |           | the glass |
+|            |            |            |           |           |           |           | enclosure |
+|            |            |            |           |           |           |           | of an     |
+|            |            |            |           |           |           |           | aquarium  |
+|            |            |            |           |           |           |           | in order  |
+|            |            |            |           |           |           |           | to create |
+|            |            |            |           |           |           |           | a         |
+|            |            |            |           |           |           |           | commotion |
+|            |            |            |           |           |           |           | to cover  |
+|            |            |            |           |           |           |           | their     |
+|            |            |            |           |           |           |           | escape.   |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://en | 19         | 6          | "AKA      | Jet       | Raelle    | March 8,  | Walker    |
+| .wikipedia |            |            | Facetime" | Wilkinson | Tucker    | 2018      | becomes   |
+| .org/wiki/ |            |            |           |           |           |           | addicted  |
+| Jessica_Jo |            |            |           |           |           |           | to the    |
+| nes_(seaso |            |            |           |           |           |           | IGH drug, |
+| n_2)       |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | starts    |
+|            |            |            |           |           |           |           | looking   |
+|            |            |            |           |           |           |           | for       |
+|            |            |            |           |           |           |           | criminals |
+|            |            |            |           |           |           |           | to        |
+|            |            |            |           |           |           |           | attack.   |
+|            |            |            |           |           |           |           | Security  |
+|            |            |            |           |           |           |           | footage   |
+|            |            |            |           |           |           |           | from      |
+|            |            |            |           |           |           |           | outside   |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | aquarium  |
+|            |            |            |           |           |           |           | shows     |
+|            |            |            |           |           |           |           | Malus     |
+|            |            |            |           |           |           |           | drugging  |
+|            |            |            |           |           |           |           | the woman |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | forcing   |
+|            |            |            |           |           |           |           | her to    |
+|            |            |            |           |           |           |           | leave     |
+|            |            |            |           |           |           |           | with him, |
+|            |            |            |           |           |           |           | despite   |
+|            |            |            |           |           |           |           | the pair  |
+|            |            |            |           |           |           |           | appearing |
+|            |            |            |           |           |           |           | to be a   |
+|            |            |            |           |           |           |           | loving    |
+|            |            |            |           |           |           |           | couple    |
+|            |            |            |           |           |           |           | before.   |
+|            |            |            |           |           |           |           | Jones     |
+|            |            |            |           |           |           |           | sends     |
+|            |            |            |           |           |           |           | Ducasse   |
+|            |            |            |           |           |           |           | to his    |
+|            |            |            |           |           |           |           | old unive |
+|            |            |            |           |           |           |           | rsity—whe |
+|            |            |            |           |           |           |           | re he was |
+|            |            |            |           |           |           |           | suspended |
+|            |            |            |           |           |           |           | for his   |
+|            |            |            |           |           |           |           | previous  |
+|            |            |            |           |           |           |           | drug      |
+|            |            |            |           |           |           |           | habit—to  |
+|            |            |            |           |           |           |           | investiga |
+|            |            |            |           |           |           |           | te Malus; |
+|            |            |            |           |           |           |           | they      |
+|            |            |            |           |           |           |           | learn of  |
+|            |            |            |           |           |           |           | Justis    |
+|            |            |            |           |           |           |           | Ambrose,  |
+|            |            |            |           |           |           |           | who       |
+|            |            |            |           |           |           |           | attended  |
+|            |            |            |           |           |           |           | universit |
+|            |            |            |           |           |           |           | y with    |
+|            |            |            |           |           |           |           | Malus and |
+|            |            |            |           |           |           |           | appears   |
+|            |            |            |           |           |           |           | to have   |
+|            |            |            |           |           |           |           | been      |
+|            |            |            |           |           |           |           | paying    |
+|            |            |            |           |           |           |           | for all   |
+|            |            |            |           |           |           |           | his       |
+|            |            |            |           |           |           |           | personal  |
+|            |            |            |           |           |           |           | expenses  |
+|            |            |            |           |           |           |           | for       |
+|            |            |            |           |           |           |           | years.    |
+|            |            |            |           |           |           |           | Jones     |
+|            |            |            |           |           |           |           | confronts |
+|            |            |            |           |           |           |           | Ambrose,  |
+|            |            |            |           |           |           |           | who       |
+|            |            |            |           |           |           |           | explains  |
+|            |            |            |           |           |           |           | that his  |
+|            |            |            |           |           |           |           | son Eric  |
+|            |            |            |           |           |           |           | was born  |
+|            |            |            |           |           |           |           | with a    |
+|            |            |            |           |           |           |           | fatal     |
+|            |            |            |           |           |           |           | genetic   |
+|            |            |            |           |           |           |           | defect    |
+|            |            |            |           |           |           |           | which     |
+|            |            |            |           |           |           |           | Malus     |
+|            |            |            |           |           |           |           | cured     |
+|            |            |            |           |           |           |           | with his  |
+|            |            |            |           |           |           |           | experimen |
+|            |            |            |           |           |           |           | tal treat |
+|            |            |            |           |           |           |           | ments.    |
+|            |            |            |           |           |           |           | Eric      |
+|            |            |            |           |           |           |           | appears   |
+|            |            |            |           |           |           |           | to have   |
+|            |            |            |           |           |           |           | no        |
+|            |            |            |           |           |           |           | special a |
+|            |            |            |           |           |           |           | bilities, |
+|            |            |            |           |           |           |           | and Jones |
+|            |            |            |           |           |           |           | threatens |
+|            |            |            |           |           |           |           | him to    |
+|            |            |            |           |           |           |           | gain      |
+|            |            |            |           |           |           |           | Malus'    |
+|            |            |            |           |           |           |           | location. |
+|            |            |            |           |           |           |           | Green     |
+|            |            |            |           |           |           |           | realizes  |
+|            |            |            |           |           |           |           | that      |
+|            |            |            |           |           |           |           | Hogarth   |
+|            |            |            |           |           |           |           | has ALS,  |
+|            |            |            |           |           |           |           | and tells |
+|            |            |            |           |           |           |           | her that  |
+|            |            |            |           |           |           |           | there was |
+|            |            |            |           |           |           |           | an IGH    |
+|            |            |            |           |           |           |           | patient   |
+|            |            |            |           |           |           |           | that      |
+|            |            |            |           |           |           |           | could     |
+|            |            |            |           |           |           |           | heal      |
+|            |            |            |           |           |           |           | people by |
+|            |            |            |           |           |           |           | touching  |
+|            |            |            |           |           |           |           | them, and |
+|            |            |            |           |           |           |           | he saved  |
+|            |            |            |           |           |           |           | her life  |
+|            |            |            |           |           |           |           | after the |
+|            |            |            |           |           |           |           | woman had |
+|            |            |            |           |           |           |           | attacked  |
+|            |            |            |           |           |           |           | her.      |
+|            |            |            |           |           |           |           | Jones     |
+|            |            |            |           |           |           |           | goes to   |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | location, |
+|            |            |            |           |           |           |           | where she |
+|            |            |            |           |           |           |           | finds     |
+|            |            |            |           |           |           |           | Malus and |
+|            |            |            |           |           |           |           | the woman |
+|            |            |            |           |           |           |           | living    |
+|            |            |            |           |           |           |           | together. |
+|            |            |            |           |           |           |           | The       |
+|            |            |            |           |           |           |           | latter    |
+|            |            |            |           |           |           |           | claims to |
+|            |            |            |           |           |           |           | be        |
+|            |            |            |           |           |           |           | Jones's   |
+|            |            |            |           |           |           |           | mother.   |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://en | 20         | 7          | "AKA I    | Jennifer  | Hilly     | March 8,  | Years     |
+| .wikipedia |            |            | Want Your | Getzinger | Hicks Jr. | 2018      | earlier,  |
+| .org/wiki/ |            |            | Cray      |           |           |           | after     |
+| Jessica_Jo |            |            | Cray"     |           |           |           | Brian     |
+| nes_(seaso |            |            |           |           |           |           | Jones and |
+| n_2)       |            |            |           |           |           |           | his son   |
+|            |            |            |           |           |           |           | Phillip   |
+|            |            |            |           |           |           |           | are       |
+|            |            |            |           |           |           |           | killed in |
+|            |            |            |           |           |           |           | an        |
+|            |            |            |           |           |           |           | accident, |
+|            |            |            |           |           |           |           | his wife  |
+|            |            |            |           |           |           |           | Alisa and |
+|            |            |            |           |           |           |           | daughter  |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | are       |
+|            |            |            |           |           |           |           | rushed to |
+|            |            |            |           |           |           |           | hospital. |
+|            |            |            |           |           |           |           | Dr.       |
+|            |            |            |           |           |           |           | Leslie    |
+|            |            |            |           |           |           |           | Hansen    |
+|            |            |            |           |           |           |           | secretly  |
+|            |            |            |           |           |           |           | takes     |
+|            |            |            |           |           |           |           | them to   |
+|            |            |            |           |           |           |           | IGH.      |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | is saved  |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | returned  |
+|            |            |            |           |           |           |           | to        |
+|            |            |            |           |           |           |           | hospital  |
+|            |            |            |           |           |           |           | in 20     |
+|            |            |            |           |           |           |           | days, but |
+|            |            |            |           |           |           |           | Alisa's   |
+|            |            |            |           |           |           |           | injuries  |
+|            |            |            |           |           |           |           | are       |
+|            |            |            |           |           |           |           | severe    |
+|            |            |            |           |           |           |           | and her t |
+|            |            |            |           |           |           |           | reatments |
+|            |            |            |           |           |           |           | take      |
+|            |            |            |           |           |           |           | years,    |
+|            |            |            |           |           |           |           | altering  |
+|            |            |            |           |           |           |           | her looks |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | causing   |
+|            |            |            |           |           |           |           | increased |
+|            |            |            |           |           |           |           | strength  |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | extreme   |
+|            |            |            |           |           |           |           | mood      |
+|            |            |            |           |           |           |           | swings.   |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | is        |
+|            |            |            |           |           |           |           | adopted   |
+|            |            |            |           |           |           |           | by the    |
+|            |            |            |           |           |           |           | Walkers,  |
+|            |            |            |           |           |           |           | but grows |
+|            |            |            |           |           |           |           | away from |
+|            |            |            |           |           |           |           | her       |
+|            |            |            |           |           |           |           | foster    |
+|            |            |            |           |           |           |           | family    |
+|            |            |            |           |           |           |           | over time |
+|            |            |            |           |           |           |           | especiall |
+|            |            |            |           |           |           |           | y after   |
+|            |            |            |           |           |           |           | her       |
+|            |            |            |           |           |           |           | adopted   |
+|            |            |            |           |           |           |           | sister    |
+|            |            |            |           |           |           |           | Trish     |
+|            |            |            |           |           |           |           | becomes a |
+|            |            |            |           |           |           |           | drug      |
+|            |            |            |           |           |           |           | addict at |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | beginning |
+|            |            |            |           |           |           |           | of her    |
+|            |            |            |           |           |           |           | pop star  |
+|            |            |            |           |           |           |           | career.   |
+|            |            |            |           |           |           |           | Intent on |
+|            |            |            |           |           |           |           | seeing    |
+|            |            |            |           |           |           |           | Jessica,  |
+|            |            |            |           |           |           |           | Alisa     |
+|            |            |            |           |           |           |           | escapes   |
+|            |            |            |           |           |           |           | IGH by    |
+|            |            |            |           |           |           |           | killing a |
+|            |            |            |           |           |           |           | nurse and |
+|            |            |            |           |           |           |           | severely  |
+|            |            |            |           |           |           |           | injuring  |
+|            |            |            |           |           |           |           | Green.    |
+|            |            |            |           |           |           |           | She finds |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | living    |
+|            |            |            |           |           |           |           | with a    |
+|            |            |            |           |           |           |           | new boyfr |
+|            |            |            |           |           |           |           | iend,     |
+|            |            |            |           |           |           |           | Stirling  |
+|            |            |            |           |           |           |           | Adams,    |
+|            |            |            |           |           |           |           | but sees  |
+|            |            |            |           |           |           |           | him appar |
+|            |            |            |           |           |           |           | ently     |
+|            |            |            |           |           |           |           | attempt   |
+|            |            |            |           |           |           |           | to        |
+|            |            |            |           |           |           |           | exploit   |
+|            |            |            |           |           |           |           | her and   |
+|            |            |            |           |           |           |           | kills him |
+|            |            |            |           |           |           |           | in a fit  |
+|            |            |            |           |           |           |           | of rage.  |
+|            |            |            |           |           |           |           | Returning |
+|            |            |            |           |           |           |           | to IGH,   |
+|            |            |            |           |           |           |           | Malus     |
+|            |            |            |           |           |           |           | promises  |
+|            |            |            |           |           |           |           | Alisa     |
+|            |            |            |           |           |           |           | that he   |
+|            |            |            |           |           |           |           | will cure |
+|            |            |            |           |           |           |           | her of    |
+|            |            |            |           |           |           |           | the side  |
+|            |            |            |           |           |           |           | effects.  |
+|            |            |            |           |           |           |           | Adams'    |
+|            |            |            |           |           |           |           | death     |
+|            |            |            |           |           |           |           | leads to  |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | re-connec |
+|            |            |            |           |           |           |           | ting with |
+|            |            |            |           |           |           |           | Trish,    |
+|            |            |            |           |           |           |           | helping   |
+|            |            |            |           |           |           |           | her       |
+|            |            |            |           |           |           |           | become    |
+|            |            |            |           |           |           |           | sober.    |
+|            |            |            |           |           |           |           | Now,      |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | refuses   |
+|            |            |            |           |           |           |           | to        |
+|            |            |            |           |           |           |           | forgive   |
+|            |            |            |           |           |           |           | Alisa and |
+|            |            |            |           |           |           |           | attacks   |
+|            |            |            |           |           |           |           | her;      |
+|            |            |            |           |           |           |           | Malus     |
+|            |            |            |           |           |           |           | renders   |
+|            |            |            |           |           |           |           | Jessica u |
+|            |            |            |           |           |           |           | nconsciou |
+|            |            |            |           |           |           |           | s with a  |
+|            |            |            |           |           |           |           | sedative. |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://en | 21         | 8          | "AKA      | Zetna     | Gabe      | March 8,  | Trish     |
+| .wikipedia |            |            | Ain't We  | Fuentes   | Fonseca   | 2018      | sleeps    |
+| .org/wiki/ |            |            | Got Fun"  |           |           |           | with      |
+| Jessica_Jo |            |            |           |           |           |           | Ducasse,  |
+| nes_(seaso |            |            |           |           |           |           | and he    |
+| n_2)       |            |            |           |           |           |           | notices   |
+|            |            |            |           |           |           |           | that she  |
+|            |            |            |           |           |           |           | has       |
+|            |            |            |           |           |           |           | become    |
+|            |            |            |           |           |           |           | addicted  |
+|            |            |            |           |           |           |           | to the    |
+|            |            |            |           |           |           |           | IGH drug. |
+|            |            |            |           |           |           |           | When she  |
+|            |            |            |           |           |           |           | refuses   |
+|            |            |            |           |           |           |           | to admit  |
+|            |            |            |           |           |           |           | this, he  |
+|            |            |            |           |           |           |           | leaves    |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | decides   |
+|            |            |            |           |           |           |           | to        |
+|            |            |            |           |           |           |           | continue  |
+|            |            |            |           |           |           |           | Jessica's |
+|            |            |            |           |           |           |           | investiga |
+|            |            |            |           |           |           |           | tion into |
+|            |            |            |           |           |           |           | Hogarth's |
+|            |            |            |           |           |           |           | partners. |
+|            |            |            |           |           |           |           | He        |
+|            |            |            |           |           |           |           | discovers |
+|            |            |            |           |           |           |           | that      |
+|            |            |            |           |           |           |           | Benowitz  |
+|            |            |            |           |           |           |           | is        |
+|            |            |            |           |           |           |           | secretly  |
+|            |            |            |           |           |           |           | gay, and  |
+|            |            |            |           |           |           |           | frequents |
+|            |            |            |           |           |           |           | a gay bar |
+|            |            |            |           |           |           |           | unbeknown |
+|            |            |            |           |           |           |           | st to his |
+|            |            |            |           |           |           |           | wife.     |
+|            |            |            |           |           |           |           | Ducasse   |
+|            |            |            |           |           |           |           | tells     |
+|            |            |            |           |           |           |           | Benowitz  |
+|            |            |            |           |           |           |           | that Chou |
+|            |            |            |           |           |           |           | had hired |
+|            |            |            |           |           |           |           | him, and  |
+|            |            |            |           |           |           |           | Benowitz  |
+|            |            |            |           |           |           |           | gives     |
+|            |            |            |           |           |           |           | Ducasse   |
+|            |            |            |           |           |           |           | blackmail |
+|            |            |            |           |           |           |           | material  |
+|            |            |            |           |           |           |           | that he   |
+|            |            |            |           |           |           |           | has on    |
+|            |            |            |           |           |           |           | her.      |
+|            |            |            |           |           |           |           | Outside   |
+|            |            |            |           |           |           |           | of the    |
+|            |            |            |           |           |           |           | gay bar,  |
+|            |            |            |           |           |           |           | Ducasse   |
+|            |            |            |           |           |           |           | is        |
+|            |            |            |           |           |           |           | attacked  |
+|            |            |            |           |           |           |           | by homoph |
+|            |            |            |           |           |           |           | obic      |
+|            |            |            |           |           |           |           | thugs.    |
+|            |            |            |           |           |           |           | Trish     |
+|            |            |            |           |           |           |           | rescues   |
+|            |            |            |           |           |           |           | him, and  |
+|            |            |            |           |           |           |           | gives him |
+|            |            |            |           |           |           |           | some of   |
+|            |            |            |           |           |           |           | the IGH   |
+|            |            |            |           |           |           |           | drug to   |
+|            |            |            |           |           |           |           | help him  |
+|            |            |            |           |           |           |           | heal, but |
+|            |            |            |           |           |           |           | it is too |
+|            |            |            |           |           |           |           | much for  |
+|            |            |            |           |           |           |           | Ducasse   |
+|            |            |            |           |           |           |           | and he    |
+|            |            |            |           |           |           |           | runs off. |
+|            |            |            |           |           |           |           | Hogarth   |
+|            |            |            |           |           |           |           | visits    |
+|            |            |            |           |           |           |           | Shane     |
+|            |            |            |           |           |           |           | Ryback,   |
+|            |            |            |           |           |           |           | the man   |
+|            |            |            |           |           |           |           | who can   |
+|            |            |            |           |           |           |           | heal      |
+|            |            |            |           |           |           |           | people    |
+|            |            |            |           |           |           |           | with his  |
+|            |            |            |           |           |           |           | hands. He |
+|            |            |            |           |           |           |           | is in     |
+|            |            |            |           |           |           |           | prison,   |
+|            |            |            |           |           |           |           | but she   |
+|            |            |            |           |           |           |           | takes him |
+|            |            |            |           |           |           |           | on as a   |
+|            |            |            |           |           |           |           | client.   |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | calls the |
+|            |            |            |           |           |           |           | police to |
+|            |            |            |           |           |           |           | Malus'    |
+|            |            |            |           |           |           |           | house,    |
+|            |            |            |           |           |           |           | and he    |
+|            |            |            |           |           |           |           | flees.    |
+|            |            |            |           |           |           |           | Alisa     |
+|            |            |            |           |           |           |           | decides   |
+|            |            |            |           |           |           |           | to stay   |
+|            |            |            |           |           |           |           | with      |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | and hopes |
+|            |            |            |           |           |           |           | to prove  |
+|            |            |            |           |           |           |           | that she  |
+|            |            |            |           |           |           |           | is the    |
+|            |            |            |           |           |           |           | same      |
+|            |            |            |           |           |           |           | person    |
+|            |            |            |           |           |           |           | who       |
+|            |            |            |           |           |           |           | raised    |
+|            |            |            |           |           |           |           | Jessica,  |
+|            |            |            |           |           |           |           | despite   |
+|            |            |            |           |           |           |           | looking   |
+|            |            |            |           |           |           |           | different |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | having    |
+|            |            |            |           |           |           |           | extreme   |
+|            |            |            |           |           |           |           | mood      |
+|            |            |            |           |           |           |           | swings.   |
+|            |            |            |           |           |           |           | They go   |
+|            |            |            |           |           |           |           | to        |
+|            |            |            |           |           |           |           | Jessica's |
+|            |            |            |           |           |           |           | apartment |
+|            |            |            |           |           |           |           | , where   |
+|            |            |            |           |           |           |           | they are  |
+|            |            |            |           |           |           |           | shot at   |
+|            |            |            |           |           |           |           | from      |
+|            |            |            |           |           |           |           | outside.  |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | is hit,   |
+|            |            |            |           |           |           |           | enraging  |
+|            |            |            |           |           |           |           | Alisa.    |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://en | 22         | 9          | "AKA      | Rosemary  | Jenny     | March 8,  | Wanting   |
+| .wikipedia |            |            | Shark in  | Rodriguez | Klein     | 2018      | revenge   |
+| .org/wiki/ |            |            | the       |           |           |           | for the   |
+| Jessica_Jo |            |            | Bathtub,  |           |           |           | death of  |
+| nes_(seaso |            |            | Monster   |           |           |           | his man,  |
+| n_2)       |            |            | in the    |           |           |           | Cheng     |
+|            |            |            | Bed"      |           |           |           | tries to  |
+|            |            |            |           |           |           |           | kill      |
+|            |            |            |           |           |           |           | Alisa.    |
+|            |            |            |           |           |           |           | Shooting  |
+|            |            |            |           |           |           |           | at her    |
+|            |            |            |           |           |           |           | from      |
+|            |            |            |           |           |           |           | across    |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | street,   |
+|            |            |            |           |           |           |           | he only   |
+|            |            |            |           |           |           |           | hits      |
+|            |            |            |           |           |           |           | Jessica.  |
+|            |            |            |           |           |           |           | Alisa     |
+|            |            |            |           |           |           |           | races to  |
+|            |            |            |           |           |           |           | find and  |
+|            |            |            |           |           |           |           | kill      |
+|            |            |            |           |           |           |           | Cheng,    |
+|            |            |            |           |           |           |           | but       |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | is able   |
+|            |            |            |           |           |           |           | to render |
+|            |            |            |           |           |           |           | him uncon |
+|            |            |            |           |           |           |           | scious    |
+|            |            |            |           |           |           |           | first,    |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | convinces |
+|            |            |            |           |           |           |           | Alisa to  |
+|            |            |            |           |           |           |           | find a    |
+|            |            |            |           |           |           |           | solution  |
+|            |            |            |           |           |           |           | other     |
+|            |            |            |           |           |           |           | than      |
+|            |            |            |           |           |           |           | murder.   |
+|            |            |            |           |           |           |           | Ryback is |
+|            |            |            |           |           |           |           | released  |
+|            |            |            |           |           |           |           | from      |
+|            |            |            |           |           |           |           | prison,   |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | attempts  |
+|            |            |            |           |           |           |           | to heal   |
+|            |            |            |           |           |           |           | Hogarth,  |
+|            |            |            |           |           |           |           | but       |
+|            |            |            |           |           |           |           | cannot    |
+|            |            |            |           |           |           |           | promise   |
+|            |            |            |           |           |           |           | that it   |
+|            |            |            |           |           |           |           | will      |
+|            |            |            |           |           |           |           | work.     |
+|            |            |            |           |           |           |           | During a  |
+|            |            |            |           |           |           |           | live      |
+|            |            |            |           |           |           |           | broadcast |
+|            |            |            |           |           |           |           | of her    |
+|            |            |            |           |           |           |           | radio     |
+|            |            |            |           |           |           |           | show,     |
+|            |            |            |           |           |           |           | Trish,    |
+|            |            |            |           |           |           |           | under the |
+|            |            |            |           |           |           |           | influence |
+|            |            |            |           |           |           |           | of the    |
+|            |            |            |           |           |           |           | IGH drug, |
+|            |            |            |           |           |           |           | rails     |
+|            |            |            |           |           |           |           | against   |
+|            |            |            |           |           |           |           | the super |
+|            |            |            |           |           |           |           | ficiality |
+|            |            |            |           |           |           |           | of her    |
+|            |            |            |           |           |           |           | show's pr |
+|            |            |            |           |           |           |           | ogramming |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | quits.    |
+|            |            |            |           |           |           |           | She is    |
+|            |            |            |           |           |           |           | offered a |
+|            |            |            |           |           |           |           | desirable |
+|            |            |            |           |           |           |           | job on te |
+|            |            |            |           |           |           |           | levision, |
+|            |            |            |           |           |           |           | but       |
+|            |            |            |           |           |           |           | realizes  |
+|            |            |            |           |           |           |           | that she  |
+|            |            |            |           |           |           |           | has run   |
+|            |            |            |           |           |           |           | out of    |
+|            |            |            |           |           |           |           | the drug. |
+|            |            |            |           |           |           |           | Arocho,   |
+|            |            |            |           |           |           |           | whose rel |
+|            |            |            |           |           |           |           | ationship |
+|            |            |            |           |           |           |           | with      |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | has       |
+|            |            |            |           |           |           |           | become    |
+|            |            |            |           |           |           |           | less      |
+|            |            |            |           |           |           |           | hostile   |
+|            |            |            |           |           |           |           | and more  |
+|            |            |            |           |           |           |           | romantic, |
+|            |            |            |           |           |           |           | comes to  |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | when his  |
+|            |            |            |           |           |           |           | ex-wife   |
+|            |            |            |           |           |           |           | kidnaps   |
+|            |            |            |           |           |           |           | their son |
+|            |            |            |           |           |           |           | Vido.     |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | and Alisa |
+|            |            |            |           |           |           |           | race to   |
+|            |            |            |           |           |           |           | save      |
+|            |            |            |           |           |           |           | Vido,     |
+|            |            |            |           |           |           |           | using     |
+|            |            |            |           |           |           |           | their     |
+|            |            |            |           |           |           |           | abilities |
+|            |            |            |           |           |           |           | for good. |
+|            |            |            |           |           |           |           | Alisa     |
+|            |            |            |           |           |           |           | sees the  |
+|            |            |            |           |           |           |           | potential |
+|            |            |            |           |           |           |           | of a life |
+|            |            |            |           |           |           |           | with      |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | doing     |
+|            |            |            |           |           |           |           | good like |
+|            |            |            |           |           |           |           | this, but |
+|            |            |            |           |           |           |           | still     |
+|            |            |            |           |           |           |           | wants to  |
+|            |            |            |           |           |           |           | protect   |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | by        |
+|            |            |            |           |           |           |           | killing   |
+|            |            |            |           |           |           |           | Cheng and |
+|            |            |            |           |           |           |           | running   |
+|            |            |            |           |           |           |           | away.     |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | frees     |
+|            |            |            |           |           |           |           | Cheng,    |
+|            |            |            |           |           |           |           | and when  |
+|            |            |            |           |           |           |           | Alisa     |
+|            |            |            |           |           |           |           | gives     |
+|            |            |            |           |           |           |           | chase she |
+|            |            |            |           |           |           |           | is confro |
+|            |            |            |           |           |           |           | nted by   |
+|            |            |            |           |           |           |           | police,   |
+|            |            |            |           |           |           |           | and surre |
+|            |            |            |           |           |           |           | nders to  |
+|            |            |            |           |           |           |           | them.     |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://en | 23         | 10         | "AKA Pork | Neasa     | Aïda      | March 8,  | Hogarth   |
+| .wikipedia |            |            | Chop"     | Hardiman; | Mashaka   | 2018      | arranges  |
+| .org/wiki/ |            |            |           | Neasa     | Croal     |           | a plea    |
+| Jessica_Jo |            |            |           | Hardiman  |           |           | deal for  |
+| nes_(seaso |            |            |           |           |           |           | Alisa,    |
+| n_2)       |            |            |           |           |           |           | where she |
+|            |            |            |           |           |           |           | can avoid |
+|            |            |            |           |           |           |           | the Raft, |
+|            |            |            |           |           |           |           | a superhu |
+|            |            |            |           |           |           |           | man       |
+|            |            |            |           |           |           |           | prison,   |
+|            |            |            |           |           |           |           | if she    |
+|            |            |            |           |           |           |           | gives up  |
+|            |            |            |           |           |           |           | Malus.    |
+|            |            |            |           |           |           |           | Alisa     |
+|            |            |            |           |           |           |           | agrees    |
+|            |            |            |           |           |           |           | when      |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | promises  |
+|            |            |            |           |           |           |           | to keep   |
+|            |            |            |           |           |           |           | Malus     |
+|            |            |            |           |           |           |           | safe.     |
+|            |            |            |           |           |           |           | Trish     |
+|            |            |            |           |           |           |           | struggles |
+|            |            |            |           |           |           |           | with with |
+|            |            |            |           |           |           |           | drawals   |
+|            |            |            |           |           |           |           | during    |
+|            |            |            |           |           |           |           | her telev |
+|            |            |            |           |           |           |           | ision     |
+|            |            |            |           |           |           |           | audition, |
+|            |            |            |           |           |           |           | where she |
+|            |            |            |           |           |           |           | overhears |
+|            |            |            |           |           |           |           | that the  |
+|            |            |            |           |           |           |           | super-    |
+|            |            |            |           |           |           |           | powered   |
+|            |            |            |           |           |           |           | killer    |
+|            |            |            |           |           |           |           | has been  |
+|            |            |            |           |           |           |           | caught.   |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | explains  |
+|            |            |            |           |           |           |           | everythin |
+|            |            |            |           |           |           |           | g to      |
+|            |            |            |           |           |           |           | Trish and |
+|            |            |            |           |           |           |           | Ducasse,  |
+|            |            |            |           |           |           |           | but tells |
+|            |            |            |           |           |           |           | them to   |
+|            |            |            |           |           |           |           | stay      |
+|            |            |            |           |           |           |           | away. She |
+|            |            |            |           |           |           |           | finds     |
+|            |            |            |           |           |           |           | Malus and |
+|            |            |            |           |           |           |           | convinces |
+|            |            |            |           |           |           |           | him to go |
+|            |            |            |           |           |           |           | to a      |
+|            |            |            |           |           |           |           | country   |
+|            |            |            |           |           |           |           | with no e |
+|            |            |            |           |           |           |           | xtraditio |
+|            |            |            |           |           |           |           | n so      |
+|            |            |            |           |           |           |           | Alisa can |
+|            |            |            |           |           |           |           | talk      |
+|            |            |            |           |           |           |           | about him |
+|            |            |            |           |           |           |           | without   |
+|            |            |            |           |           |           |           | fear of   |
+|            |            |            |           |           |           |           | him being |
+|            |            |            |           |           |           |           | caught.   |
+|            |            |            |           |           |           |           | He first  |
+|            |            |            |           |           |           |           | waits for |
+|            |            |            |           |           |           |           | a new     |
+|            |            |            |           |           |           |           | passport  |
+|            |            |            |           |           |           |           | provided  |
+|            |            |            |           |           |           |           | by        |
+|            |            |            |           |           |           |           | Arocho,   |
+|            |            |            |           |           |           |           | and also  |
+|            |            |            |           |           |           |           | tells     |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | that he   |
+|            |            |            |           |           |           |           | never     |
+|            |            |            |           |           |           |           | treated   |
+|            |            |            |           |           |           |           | Ryback.   |
+|            |            |            |           |           |           |           | Hogarth   |
+|            |            |            |           |           |           |           | does not  |
+|            |            |            |           |           |           |           | believe   |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | when she  |
+|            |            |            |           |           |           |           | says      |
+|            |            |            |           |           |           |           | this, but |
+|            |            |            |           |           |           |           | arrives   |
+|            |            |            |           |           |           |           | home to   |
+|            |            |            |           |           |           |           | find      |
+|            |            |            |           |           |           |           | Green and |
+|            |            |            |           |           |           |           | Ryback    |
+|            |            |            |           |           |           |           | have      |
+|            |            |            |           |           |           |           | robbed    |
+|            |            |            |           |           |           |           | her (and  |
+|            |            |            |           |           |           |           | thus      |
+|            |            |            |           |           |           |           | realizes  |
+|            |            |            |           |           |           |           | she was   |
+|            |            |            |           |           |           |           | not       |
+|            |            |            |           |           |           |           | cured).   |
+|            |            |            |           |           |           |           | Trish and |
+|            |            |            |           |           |           |           | Ducasse   |
+|            |            |            |           |           |           |           | decide to |
+|            |            |            |           |           |           |           | track     |
+|            |            |            |           |           |           |           | down      |
+|            |            |            |           |           |           |           | Malus the |
+|            |            |            |           |           |           |           | mselves,  |
+|            |            |            |           |           |           |           | while     |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | discovers |
+|            |            |            |           |           |           |           | that      |
+|            |            |            |           |           |           |           | Alisa is  |
+|            |            |            |           |           |           |           | being     |
+|            |            |            |           |           |           |           | tormented |
+|            |            |            |           |           |           |           | by one of |
+|            |            |            |           |           |           |           | her       |
+|            |            |            |           |           |           |           | guards,   |
+|            |            |            |           |           |           |           | Dale      |
+|            |            |            |           |           |           |           | Holiday.  |
+|            |            |            |           |           |           |           | Investiga |
+|            |            |            |           |           |           |           | ting him, |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | finds     |
+|            |            |            |           |           |           |           | evidence  |
+|            |            |            |           |           |           |           | that he   |
+|            |            |            |           |           |           |           | has       |
+|            |            |            |           |           |           |           | murdered  |
+|            |            |            |           |           |           |           | inmates   |
+|            |            |            |           |           |           |           | before.   |
+|            |            |            |           |           |           |           | He        |
+|            |            |            |           |           |           |           | attacks   |
+|            |            |            |           |           |           |           | her, and  |
+|            |            |            |           |           |           |           | she accid |
+|            |            |            |           |           |           |           | entally   |
+|            |            |            |           |           |           |           | kills him |
+|            |            |            |           |           |           |           | in self-  |
+|            |            |            |           |           |           |           | defense.  |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://en | 24         | 11         | "AKA      | Jennifer  | Jack      | March 8,  | Jessica   |
+| .wikipedia |            |            | Three     | Lynch     | Kenny &   | 2018      | makes     |
+| .org/wiki/ |            |            | Lives and |           | Lisa      |           | Holiday's |
+| Jessica_Jo |            |            | Counting" |           | Randolph  |           | death     |
+| nes_(seaso |            |            |           |           |           |           | look like |
+| n_2)       |            |            |           |           |           |           | suicide,  |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | begins    |
+|            |            |            |           |           |           |           | having ha |
+|            |            |            |           |           |           |           | llucinati |
+|            |            |            |           |           |           |           | ons of    |
+|            |            |            |           |           |           |           | Kilgrave. |
+|            |            |            |           |           |           |           | Trish     |
+|            |            |            |           |           |           |           | knocks    |
+|            |            |            |           |           |           |           | Ducasse   |
+|            |            |            |           |           |           |           | out and   |
+|            |            |            |           |           |           |           | restrains |
+|            |            |            |           |           |           |           | him, and  |
+|            |            |            |           |           |           |           | asks      |
+|            |            |            |           |           |           |           | Malus to  |
+|            |            |            |           |           |           |           | give her  |
+|            |            |            |           |           |           |           | abilities |
+|            |            |            |           |           |           |           | like Jess |
+|            |            |            |           |           |           |           | ica's.    |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | arrives   |
+|            |            |            |           |           |           |           | with the  |
+|            |            |            |           |           |           |           | passport  |
+|            |            |            |           |           |           |           | from      |
+|            |            |            |           |           |           |           | Arocho to |
+|            |            |            |           |           |           |           | give to   |
+|            |            |            |           |           |           |           | Malus, to |
+|            |            |            |           |           |           |           | find him  |
+|            |            |            |           |           |           |           | gone. She |
+|            |            |            |           |           |           |           | tracks    |
+|            |            |            |           |           |           |           | them down |
+|            |            |            |           |           |           |           | just as   |
+|            |            |            |           |           |           |           | Ducasse   |
+|            |            |            |           |           |           |           | escapes,  |
+|            |            |            |           |           |           |           | but Trish |
+|            |            |            |           |           |           |           | manages   |
+|            |            |            |           |           |           |           | to get    |
+|            |            |            |           |           |           |           | away with |
+|            |            |            |           |           |           |           | Malus.    |
+|            |            |            |           |           |           |           | With      |
+|            |            |            |           |           |           |           | Holiday   |
+|            |            |            |           |           |           |           | dead,     |
+|            |            |            |           |           |           |           | Alisa     |
+|            |            |            |           |           |           |           | gets a    |
+|            |            |            |           |           |           |           | new guard |
+|            |            |            |           |           |           |           | who       |
+|            |            |            |           |           |           |           | treats    |
+|            |            |            |           |           |           |           | her well. |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | berates   |
+|            |            |            |           |           |           |           | Ducasse   |
+|            |            |            |           |           |           |           | for not   |
+|            |            |            |           |           |           |           | trusting  |
+|            |            |            |           |           |           |           | her, and  |
+|            |            |            |           |           |           |           | for       |
+|            |            |            |           |           |           |           | taking    |
+|            |            |            |           |           |           |           | advantage |
+|            |            |            |           |           |           |           | of their  |
+|            |            |            |           |           |           |           | working r |
+|            |            |            |           |           |           |           | elationsh |
+|            |            |            |           |           |           |           | ip. They  |
+|            |            |            |           |           |           |           | both      |
+|            |            |            |           |           |           |           | agree     |
+|            |            |            |           |           |           |           | that he   |
+|            |            |            |           |           |           |           | should no |
+|            |            |            |           |           |           |           | longer    |
+|            |            |            |           |           |           |           | work for  |
+|            |            |            |           |           |           |           | her.      |
+|            |            |            |           |           |           |           | Malus     |
+|            |            |            |           |           |           |           | takes     |
+|            |            |            |           |           |           |           | Trish to  |
+|            |            |            |           |           |           |           | the old   |
+|            |            |            |           |           |           |           | IGH       |
+|            |            |            |           |           |           |           | facility, |
+|            |            |            |           |           |           |           | where he  |
+|            |            |            |           |           |           |           | begins to |
+|            |            |            |           |           |           |           | put her   |
+|            |            |            |           |           |           |           | through   |
+|            |            |            |           |           |           |           | the same  |
+|            |            |            |           |           |           |           | process   |
+|            |            |            |           |           |           |           | that      |
+|            |            |            |           |           |           |           | changed   |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | Alisa.    |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | arrives   |
+|            |            |            |           |           |           |           | and stops |
+|            |            |            |           |           |           |           | the proce |
+|            |            |            |           |           |           |           | dure, and |
+|            |            |            |           |           |           |           | then is   |
+|            |            |            |           |           |           |           | almost    |
+|            |            |            |           |           |           |           | convinced |
+|            |            |            |           |           |           |           | by her ha |
+|            |            |            |           |           |           |           | llucinati |
+|            |            |            |           |           |           |           | on of     |
+|            |            |            |           |           |           |           | Kilgrave  |
+|            |            |            |           |           |           |           | to murder |
+|            |            |            |           |           |           |           | Malus.    |
+|            |            |            |           |           |           |           | She stops |
+|            |            |            |           |           |           |           | herself,  |
+|            |            |            |           |           |           |           | but he    |
+|            |            |            |           |           |           |           | decides   |
+|            |            |            |           |           |           |           | to end    |
+|            |            |            |           |           |           |           | his own   |
+|            |            |            |           |           |           |           | life.     |
+|            |            |            |           |           |           |           | Malus     |
+|            |            |            |           |           |           |           | destroys  |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | facility  |
+|            |            |            |           |           |           |           | with      |
+|            |            |            |           |           |           |           | himself   |
+|            |            |            |           |           |           |           | inside    |
+|            |            |            |           |           |           |           | it, while |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | gets      |
+|            |            |            |           |           |           |           | Trish to  |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | hospital. |
+|            |            |            |           |           |           |           | Alisa     |
+|            |            |            |           |           |           |           | learns of |
+|            |            |            |           |           |           |           | Malus'    |
+|            |            |            |           |           |           |           | death via |
+|            |            |            |           |           |           |           | a news    |
+|            |            |            |           |           |           |           | report,   |
+|            |            |            |           |           |           |           | kills her |
+|            |            |            |           |           |           |           | new guard |
+|            |            |            |           |           |           |           | and       |
+|            |            |            |           |           |           |           | escapes   |
+|            |            |            |           |           |           |           | from      |
+|            |            |            |           |           |           |           | prison.   |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://en | 25         | 12         | "AKA Pray | Liz Fried | Raelle    | March 8,  | Alisa     |
+| .wikipedia |            |            | for My    | lander    | Tucker &  | 2018      | goes      |
+| .org/wiki/ |            |            | Patsy"    |           | Hilly     |           | looking   |
+| Jessica_Jo |            |            |           |           | Hicks Jr. |           | for       |
+| nes_(seaso |            |            |           |           |           |           | Trish,    |
+| n_2)       |            |            |           |           |           |           | blaming   |
+|            |            |            |           |           |           |           | her for   |
+|            |            |            |           |           |           |           | Malus'    |
+|            |            |            |           |           |           |           | death.    |
+|            |            |            |           |           |           |           | She terro |
+|            |            |            |           |           |           |           | rizes the |
+|            |            |            |           |           |           |           | Trish     |
+|            |            |            |           |           |           |           | Talk      |
+|            |            |            |           |           |           |           | studio,   |
+|            |            |            |           |           |           |           | before    |
+|            |            |            |           |           |           |           | seeing    |
+|            |            |            |           |           |           |           | Trish's   |
+|            |            |            |           |           |           |           | mother in |
+|            |            |            |           |           |           |           | an        |
+|            |            |            |           |           |           |           | interview |
+|            |            |            |           |           |           |           | discussin |
+|            |            |            |           |           |           |           | g why     |
+|            |            |            |           |           |           |           | Trish is  |
+|            |            |            |           |           |           |           | now hospi |
+|            |            |            |           |           |           |           | talized.  |
+|            |            |            |           |           |           |           | She finds |
+|            |            |            |           |           |           |           | Jessica p |
+|            |            |            |           |           |           |           | rotecting |
+|            |            |            |           |           |           |           | Trish at  |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | hospital, |
+|            |            |            |           |           |           |           | but still |
+|            |            |            |           |           |           |           | attempts  |
+|            |            |            |           |           |           |           | to kill   |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | latter.   |
+|            |            |            |           |           |           |           | When      |
+|            |            |            |           |           |           |           | Costa and |
+|            |            |            |           |           |           |           | his       |
+|            |            |            |           |           |           |           | partner,  |
+|            |            |            |           |           |           |           | Ruth      |
+|            |            |            |           |           |           |           | Sunday,   |
+|            |            |            |           |           |           |           | arrive    |
+|            |            |            |           |           |           |           | they try  |
+|            |            |            |           |           |           |           | to arrest |
+|            |            |            |           |           |           |           | Alisa.    |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | tries to  |
+|            |            |            |           |           |           |           | talk      |
+|            |            |            |           |           |           |           | Alisa     |
+|            |            |            |           |           |           |           | down, but |
+|            |            |            |           |           |           |           | Alisa     |
+|            |            |            |           |           |           |           | grabs     |
+|            |            |            |           |           |           |           | Sunday    |
+|            |            |            |           |           |           |           | and jumps |
+|            |            |            |           |           |           |           | out of    |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | hospital, |
+|            |            |            |           |           |           |           | letting   |
+|            |            |            |           |           |           |           | Sunday    |
+|            |            |            |           |           |           |           | fall to   |
+|            |            |            |           |           |           |           | her       |
+|            |            |            |           |           |           |           | death.    |
+|            |            |            |           |           |           |           | Costa     |
+|            |            |            |           |           |           |           | tells     |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | to stay   |
+|            |            |            |           |           |           |           | out of    |
+|            |            |            |           |           |           |           | the way   |
+|            |            |            |           |           |           |           | of the    |
+|            |            |            |           |           |           |           | police,   |
+|            |            |            |           |           |           |           | but       |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | secretly  |
+|            |            |            |           |           |           |           | organizes |
+|            |            |            |           |           |           |           | to meet   |
+|            |            |            |           |           |           |           | with      |
+|            |            |            |           |           |           |           | Alisa at  |
+|            |            |            |           |           |           |           | Trish's a |
+|            |            |            |           |           |           |           | partment. |
+|            |            |            |           |           |           |           | Meanwhile |
+|            |            |            |           |           |           |           | , Trish   |
+|            |            |            |           |           |           |           | is angry  |
+|            |            |            |           |           |           |           | at        |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | for       |
+|            |            |            |           |           |           |           | stopping  |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | procedure |
+|            |            |            |           |           |           |           | early,    |
+|            |            |            |           |           |           |           | but soon  |
+|            |            |            |           |           |           |           | begins to |
+|            |            |            |           |           |           |           | have      |
+|            |            |            |           |           |           |           | violent c |
+|            |            |            |           |           |           |           | onvulsion |
+|            |            |            |           |           |           |           | s.        |
+|            |            |            |           |           |           |           | Hogarth   |
+|            |            |            |           |           |           |           | tracks    |
+|            |            |            |           |           |           |           | down      |
+|            |            |            |           |           |           |           | Green,    |
+|            |            |            |           |           |           |           | and tells |
+|            |            |            |           |           |           |           | her a fab |
+|            |            |            |           |           |           |           | ricated   |
+|            |            |            |           |           |           |           | story     |
+|            |            |            |           |           |           |           | about     |
+|            |            |            |           |           |           |           | Ryback    |
+|            |            |            |           |           |           |           | secretly  |
+|            |            |            |           |           |           |           | conning   |
+|            |            |            |           |           |           |           | multiple  |
+|            |            |            |           |           |           |           | women.    |
+|            |            |            |           |           |           |           | Giving    |
+|            |            |            |           |           |           |           | Green a   |
+|            |            |            |           |           |           |           | gun,      |
+|            |            |            |           |           |           |           | Hogarth   |
+|            |            |            |           |           |           |           | watches   |
+|            |            |            |           |           |           |           | her       |
+|            |            |            |           |           |           |           | confront  |
+|            |            |            |           |           |           |           | Ryback    |
+|            |            |            |           |           |           |           | and shoot |
+|            |            |            |           |           |           |           | him.      |
+|            |            |            |           |           |           |           | Hogarth   |
+|            |            |            |           |           |           |           | then      |
+|            |            |            |           |           |           |           | calls the |
+|            |            |            |           |           |           |           | police.   |
+|            |            |            |           |           |           |           | At        |
+|            |            |            |           |           |           |           | Trish's a |
+|            |            |            |           |           |           |           | partment, |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | considers |
+|            |            |            |           |           |           |           | killing   |
+|            |            |            |           |           |           |           | Alisa,    |
+|            |            |            |           |           |           |           | but is    |
+|            |            |            |           |           |           |           | unable to |
+|            |            |            |           |           |           |           | do it.    |
+|            |            |            |           |           |           |           | Alisa     |
+|            |            |            |           |           |           |           | knocks    |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | out and   |
+|            |            |            |           |           |           |           | kidnaps   |
+|            |            |            |           |           |           |           | her.      |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://en | 26         | 13         | "AKA      | Uta Bries | Story by  | March 8,  | Jessica   |
+| .wikipedia |            |            | Playland" | ewitz     | : Jesse   | 2018      | attempts  |
+| .org/wiki/ |            |            |           |           | Harris    |           | to resist |
+| Jessica_Jo |            |            |           |           |  Teleplay |           | Alisa,    |
+| nes_(seaso |            |            |           |           | by :      |           | but event |
+| n_2)       |            |            |           |           | Melissa   |           | ually     |
+|            |            |            |           |           | Rosenberg |           | decides   |
+|            |            |            |           |           |           |           | to work   |
+|            |            |            |           |           |           |           | with her. |
+|            |            |            |           |           |           |           | They      |
+|            |            |            |           |           |           |           | drive     |
+|            |            |            |           |           |           |           | towards   |
+|            |            |            |           |           |           |           | the Mexic |
+|            |            |            |           |           |           |           | o–U.S.    |
+|            |            |            |           |           |           |           | border,   |
+|            |            |            |           |           |           |           | saving a  |
+|            |            |            |           |           |           |           | family    |
+|            |            |            |           |           |           |           | caught in |
+|            |            |            |           |           |           |           | a traffic |
+|            |            |            |           |           |           |           | accident  |
+|            |            |            |           |           |           |           | on the    |
+|            |            |            |           |           |           |           | way.      |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | meets     |
+|            |            |            |           |           |           |           | with      |
+|            |            |            |           |           |           |           | Arocho to |
+|            |            |            |           |           |           |           | arrange   |
+|            |            |            |           |           |           |           | new       |
+|            |            |            |           |           |           |           | papers so |
+|            |            |            |           |           |           |           | they can  |
+|            |            |            |           |           |           |           | cross the |
+|            |            |            |           |           |           |           | border,   |
+|            |            |            |           |           |           |           | but he is |
+|            |            |            |           |           |           |           | followed  |
+|            |            |            |           |           |           |           | by the    |
+|            |            |            |           |           |           |           | police.   |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | and Alisa |
+|            |            |            |           |           |           |           | then      |
+|            |            |            |           |           |           |           | drive     |
+|            |            |            |           |           |           |           | towards   |
+|            |            |            |           |           |           |           | the Canad |
+|            |            |            |           |           |           |           | a–U.S.    |
+|            |            |            |           |           |           |           | border,   |
+|            |            |            |           |           |           |           | but are c |
+|            |            |            |           |           |           |           | onfronted |
+|            |            |            |           |           |           |           | with      |
+|            |            |            |           |           |           |           | police    |
+|            |            |            |           |           |           |           | road      |
+|            |            |            |           |           |           |           | blocks.   |
+|            |            |            |           |           |           |           | They then |
+|            |            |            |           |           |           |           | go to the |
+|            |            |            |           |           |           |           | nearby    |
+|            |            |            |           |           |           |           | amusement |
+|            |            |            |           |           |           |           | park      |
+|            |            |            |           |           |           |           | Playland, |
+|            |            |            |           |           |           |           | where     |
+|            |            |            |           |           |           |           | Alisa     |
+|            |            |            |           |           |           |           | decides   |
+|            |            |            |           |           |           |           | to wait   |
+|            |            |            |           |           |           |           | until the |
+|            |            |            |           |           |           |           | police    |
+|            |            |            |           |           |           |           | arrive.   |
+|            |            |            |           |           |           |           | Trish     |
+|            |            |            |           |           |           |           | sees a    |
+|            |            |            |           |           |           |           | news      |
+|            |            |            |           |           |           |           | report on |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | traffic   |
+|            |            |            |           |           |           |           | accident  |
+|            |            |            |           |           |           |           | and talks |
+|            |            |            |           |           |           |           | to Costa  |
+|            |            |            |           |           |           |           | about the |
+|            |            |            |           |           |           |           | road      |
+|            |            |            |           |           |           |           | blocks. R |
+|            |            |            |           |           |           |           | ememberin |
+|            |            |            |           |           |           |           | g that    |
+|            |            |            |           |           |           |           | the Jones |
+|            |            |            |           |           |           |           | family    |
+|            |            |            |           |           |           |           | had       |
+|            |            |            |           |           |           |           | visited   |
+|            |            |            |           |           |           |           | Playland  |
+|            |            |            |           |           |           |           | before    |
+|            |            |            |           |           |           |           | the       |
+|            |            |            |           |           |           |           | accident, |
+|            |            |            |           |           |           |           | Trish     |
+|            |            |            |           |           |           |           | goes      |
+|            |            |            |           |           |           |           | there and |
+|            |            |            |           |           |           |           | kills     |
+|            |            |            |           |           |           |           | Alisa.    |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | takes the |
+|            |            |            |           |           |           |           | blame,    |
+|            |            |            |           |           |           |           | but does  |
+|            |            |            |           |           |           |           | not       |
+|            |            |            |           |           |           |           | forgive   |
+|            |            |            |           |           |           |           | Trish.    |
+|            |            |            |           |           |           |           | Trish     |
+|            |            |            |           |           |           |           | later     |
+|            |            |            |           |           |           |           | discovers |
+|            |            |            |           |           |           |           | that her  |
+|            |            |            |           |           |           |           | reflexes  |
+|            |            |            |           |           |           |           | appear to |
+|            |            |            |           |           |           |           | be height |
+|            |            |            |           |           |           |           | ened.     |
+|            |            |            |           |           |           |           | Ducasse   |
+|            |            |            |           |           |           |           | gives the |
+|            |            |            |           |           |           |           | blackmail |
+|            |            |            |           |           |           |           | material  |
+|            |            |            |           |           |           |           | he found  |
+|            |            |            |           |           |           |           | to        |
+|            |            |            |           |           |           |           | Hogarth,  |
+|            |            |            |           |           |           |           | allowing  |
+|            |            |            |           |           |           |           | her to    |
+|            |            |            |           |           |           |           | leave the |
+|            |            |            |           |           |           |           | law firm  |
+|            |            |            |           |           |           |           | with      |
+|            |            |            |           |           |           |           | enough    |
+|            |            |            |           |           |           |           | money to  |
+|            |            |            |           |           |           |           | start her |
+|            |            |            |           |           |           |           | own.      |
+|            |            |            |           |           |           |           | Ducasse   |
+|            |            |            |           |           |           |           | then      |
+|            |            |            |           |           |           |           | begins    |
+|            |            |            |           |           |           |           | working   |
+|            |            |            |           |           |           |           | for       |
+|            |            |            |           |           |           |           | Hogarth   |
+|            |            |            |           |           |           |           | as part   |
+|            |            |            |           |           |           |           | of        |
+|            |            |            |           |           |           |           | Cheng's   |
+|            |            |            |           |           |           |           | agency.   |
+|            |            |            |           |           |           |           | Jessica   |
+|            |            |            |           |           |           |           | embraces  |
+|            |            |            |           |           |           |           | some      |
+|            |            |            |           |           |           |           | aspects   |
+|            |            |            |           |           |           |           | of normal |
+|            |            |            |           |           |           |           | life with |
+|            |            |            |           |           |           |           | Arocho.   |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+

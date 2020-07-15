@@ -1,0 +1,88 @@
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| url    | Result | Fighte | Fighte | Fighte | Fighte | Event_ | Event_ | Event_ | Date   | Method |
+|        |        | r_1    | r_2    | r_3    | r_3_li | Name_1 | Name_2 | Name_2 |        |        |
+|        |        |        |        |        | nk     |        |        | _link  |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| http:/ | NO CON | Brock  | Mark   | Mark   | http:/ | UFC    | UFC    | http:/ | Jul 9, | R3 Ove |
+| /www.u | TEST   | Lesnar | Hunt   | Hunt   | /www.u | 200    | 200    | /www.u | 2016   | rturne |
+| fc.com |        |        |        |        | fc.com | Tate   | Tate   | fc.com |        | d      |
+| /fight |        |        |        |        | /fight | vs Nun | vs Nun | /event |        |        |
+| er/Bro |        |        |        |        | er/mar | es:Liv | es:Liv | /UFC-2 |        |        |
+| ck-    |        |        |        |        | k-hunt | e on   | e on   | 00     |        |        |
+| Lesnar |        |        |        |        |        | Pay-   | Pay-   |        |        |        |
+|        |        |        |        |        |        | Per-   | Per-   |        |        |        |
+|        |        |        |        |        |        | View   | View   |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| http:/ | Loss   | Brock  | Alista | Alista | http:/ | UFC®   | UFC®   | http:/ | Dec    | R1     |
+| /www.u |        | Lesnar | ir Ove | ir Ove | /www.u | 141    | 141    | /www.u | 30,    | KO/TKO |
+| fc.com |        |        | reem   | reem   | fc.com | Live   | Live   | fc.com | 2011   |        |
+| /fight |        |        |        |        | /fight | on     | on     | /event |        |        |
+| er/Bro |        |        |        |        | er/Ali | Pay-   | Pay-   | /UFC14 |        |        |
+| ck-    |        |        |        |        | stair- | Per-Vi | Per-Vi | 1      |        |        |
+| Lesnar |        |        |        |        | Overee | ew:Les | ew:Les |        |        |        |
+|        |        |        |        |        | m      | nar    | nar    |        |        |        |
+|        |        |        |        |        |        | vs. Ov | vs. Ov |        |        |        |
+|        |        |        |        |        |        | ereem  | ereem  |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| http:/ |        | Brock  | Cain V | Cain V | http:/ | UFC® 1 | UFC® 1 | http:/ | Oct    | R1     |
+| /www.u |        | Lesnar | elasqu | elasqu | /www.u | 21:LES | 21:LES | /www.u | 23,    | KO/TKO |
+| fc.com |        |        | ez     | ez     | fc.com | NAR vs | NAR vs | fc.com | 2010   |        |
+| /fight |        |        |        |        | /fight | VELASQ | VELASQ | /event |        |        |
+| er/Bro |        |        |        |        | er/Cai | UEZ    | UEZ    | /UFC12 |        |        |
+| ck-    |        |        |        |        | n-Vela |        |        | 1      |        |        |
+| Lesnar |        |        |        |        | squez  |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| http:/ |        | Brock  | Shane  | Shane  | http:/ | UFC® 1 | UFC® 1 | http:/ | Jul 3, | R2 Sub |
+| /www.u |        | Lesnar | Carwin | Carwin | /www.u | 16:LES | 16:LES | /www.u | 2010   | missio |
+| fc.com |        |        |        |        | fc.com | NAR vs | NAR vs | fc.com |        | n      |
+| /fight |        |        |        |        | /fight | CARWIN | CARWIN | /event |        |        |
+| er/Bro |        |        |        |        | er/Sha |        |        | /UFC-1 |        |        |
+| ck-    |        |        |        |        | ne-    |        |        | 16-LES |        |        |
+| Lesnar |        |        |        |        | Carwin |        |        | NAR-   |        |        |
+|        |        |        |        |        |        |        |        | vs-    |        |        |
+|        |        |        |        |        |        |        |        | CARWIN |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| http:/ |        | Brock  | Frank  | Frank  | http:/ | UFC® 1 | UFC® 1 | http:/ | Jul    | R2     |
+| /www.u |        | Lesnar | Mir    | Mir    | /www.u | 00:Les | 00:Les | /www.u | 11,    | KO/TKO |
+| fc.com |        |        |        |        | fc.com | nar    | nar    | fc.com | 2009   |        |
+| /fight |        |        |        |        | /fight | vs.    | vs.    | /event |        |        |
+| er/Bro |        |        |        |        | er/Fra | Mir II | Mir II | /UFC-1 |        |        |
+| ck-    |        |        |        |        | nk-Mir |        |        | 00     |        |        |
+| Lesnar |        |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| http:/ |        | Brock  | Randy  | Randy  | http:/ | UFC® 9 | UFC® 9 | http:/ | Nov    | R2     |
+| /www.u |        | Lesnar | Coutur | Coutur | /www.u | 1:COUT | 1:COUT | /www.u | 15,    | KO/TKO |
+| fc.com |        |        | e      | e      | fc.com | URE vs | URE vs | fc.com | 2008   |        |
+| /fight |        |        |        |        | /fight | LESNAR | LESNAR | /event |        |        |
+| er/Bro |        |        |        |        | er/Ran |        |        | /UFC-9 |        |        |
+| ck-    |        |        |        |        | dy-Cou |        |        | 1-COUT |        |        |
+| Lesnar |        |        |        |        | ture   |        |        | URE-   |        |        |
+|        |        |        |        |        |        |        |        | vs-    |        |        |
+|        |        |        |        |        |        |        |        | LESNAR |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| http:/ | Win    | Brock  | Heath  | Heath  | http:/ | UFC® 8 | UFC® 8 | http:/ | Aug 9, | R3 Dec |
+| /www.u |        | Lesnar | Herrin | Herrin | /www.u | 7:SEEK | 7:SEEK | /www.u | 2008   | ision  |
+| fc.com |        |        | g      | g      | fc.com | AND DE | AND DE | fc.com |        | - Unan |
+| /fight |        |        |        |        | /fight | STROY  | STROY  | /event |        | imous  |
+| er/Bro |        |        |        |        | er/Hea |        |        | /UFC-8 |        |        |
+| ck-    |        |        |        |        | th-Her |        |        | 7-SEEK |        |        |
+| Lesnar |        |        |        |        | ring   |        |        | -AND-D |        |        |
+|        |        |        |        |        |        |        |        | ESTROY |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| http:/ | Loss   | Frank  | Brock  |        |        | UFC® 8 | UFC® 8 | http:/ | Feb 2, | R1 Sub |
+| /www.u |        | Mir    | Lesnar |        |        | 1:BREA | 1:BREA | /www.u | 2008   | missio |
+| fc.com |        |        |        |        |        | KING   | KING   | fc.com |        | n      |
+| /fight |        |        |        |        |        | POINT  | POINT  | /event |        |        |
+| er/Bro |        |        |        |        |        |        |        | /UFC-8 |        |        |
+| ck-    |        |        |        |        |        |        |        | 1-BREA |        |        |
+| Lesnar |        |        |        |        |        |        |        | KING-  |        |        |
+|        |        |        |        |        |        |        |        | POINT  |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| http:/ | Win    | Brock  | Min    |        |        | K-1 Dy |        |        | Jun 2, | R1     |
+| /www.u |        | Lesnar | Soo    |        |        | namite |        |        | 2007   | KO/TKO |
+| fc.com |        |        | Kim    |        |        | !! USA |        |        |        |        |
+| /fight |        |        |        |        |        |        |        |        |        |        |
+| er/Bro |        |        |        |        |        |        |        |        |        |        |
+| ck-    |        |        |        |        |        |        |        |        |        |        |
+| Lesnar |        |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+

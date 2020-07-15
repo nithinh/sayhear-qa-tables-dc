@@ -1,0 +1,91 @@
++----------------+---------------+----------------+----------------+---------------+---------------+
+| url            | Amazon_Store  | Amazon_Store_l | Country        | Monthly_Price | Annual_Price  |
+|                |               | ink            |                |               |               |
++----------------+---------------+----------------+----------------+---------------+---------------+
+| https://ebookf | Amazon.com    | https://www.am | United States  | USD 12.99     | USD 99        |
+| riendly.com/am |               | azon.com/prime |                |               |               |
+| azon-prime-    |               | ?tag=eflyus-20 |                |               |               |
+| membership-    |               |                |                |               |               |
+| price-         |               |                |                |               |               |
+| comparison/    |               |                |                |               |               |
++----------------+---------------+----------------+----------------+---------------+---------------+
+| https://ebookf | Amazon.co.uk  | http://links.e | United Kingdom | GBP 7.99      | GBP 79        |
+| riendly.com/am |               | bookfriendly.c |                |               |               |
+| azon-prime-    |               | om/?id=28128X8 |                |               |               |
+| membership-    |               | 62189&xs=1&url |                |               |               |
+| price-         |               | =https://www.a |                |               |               |
+| comparison/    |               | mazon.co.uk/pr |                |               |               |
+|                |               | ime            |                |               |               |
++----------------+---------------+----------------+----------------+---------------+---------------+
+| https://ebookf | Amazon.ca     | http://links.e | Canada         |               | CND 79        |
+| riendly.com/am |               | bookfriendly.c |                |               |               |
+| azon-prime-    |               | om/?id=28128X8 |                |               |               |
+| membership-    |               | 62189&xs=1&url |                |               |               |
+| price-         |               | =https://www.a |                |               |               |
+| comparison/    |               | mazon.ca/prime |                |               |               |
++----------------+---------------+----------------+----------------+---------------+---------------+
+| https://ebookf | Amazon.fr     | http://links.e | France         | EUR 5.99      | EUR 49        |
+| riendly.com/am |               | bookfriendly.c |                |               |               |
+| azon-prime-    |               | om/?id=28128X8 |                |               |               |
+| membership-    |               | 62189&xs=1&url |                |               |               |
+| price-         |               | =https://www.a |                |               |               |
+| comparison/    |               | mazon.fr/prime |                |               |               |
++----------------+---------------+----------------+----------------+---------------+---------------+
+| https://ebookf | Amazon.de     | http://links.e | Germany,       | EUR 7.99      | EUR 69        |
+| riendly.com/am |               | bookfriendly.c | Austria        |               |               |
+| azon-prime-    |               | om/?id=28128X8 |                |               |               |
+| membership-    |               | 62189&xs=1&url |                |               |               |
+| price-         |               | =https://www.a |                |               |               |
+| comparison/    |               | mazon.de/prime |                |               |               |
++----------------+---------------+----------------+----------------+---------------+---------------+
+| https://ebookf | Amazon.de     | http://links.e | The            | EUR 5.99      | EUR 49        |
+| riendly.com/am |               | bookfriendly.c | Netherlands,   |               |               |
+| azon-prime-    |               | om/?id=28128X8 | Belgium,       |               |               |
+| membership-    |               | 62189&xs=1&url | Luxembourg     |               |               |
+| price-         |               | =https://www.a |                |               |               |
+| comparison/    |               | mazon.de/prime |                |               |               |
++----------------+---------------+----------------+----------------+---------------+---------------+
+| https://ebookf | Amazon.it     | http://links.e | Italy          |               | EUR 19.99     |
+| riendly.com/am |               | bookfriendly.c |                |               |               |
+| azon-prime-    |               | om/?id=28128X8 |                |               |               |
+| membership-    |               | 62189&xs=1&url |                |               |               |
+| price-         |               | =https://www.a |                |               |               |
+| comparison/    |               | mazon.de/prime |                |               |               |
++----------------+---------------+----------------+----------------+---------------+---------------+
+| https://ebookf | Amazon.es     | http://links.e | Spain          |               | EUR 19.95     |
+| riendly.com/am |               | bookfriendly.c |                |               |               |
+| azon-prime-    |               | om/?id=28128X8 |                |               |               |
+| membership-    |               | 62189&xs=1&url |                |               |               |
+| price-         |               | =https://www.a |                |               |               |
+| comparison/    |               | mazon.es/prime |                |               |               |
++----------------+---------------+----------------+----------------+---------------+---------------+
+| https://ebookf | Amazon.com.mx | http://links.e | Mexico         |               | MXN 899       |
+| riendly.com/am |               | bookfriendly.c |                |               |  449 for      |
+| azon-prime-    |               | om/?id=28128X8 |                |               | first year    |
+| membership-    |               | 62189&xs=1&url |                |               |               |
+| price-         |               | =https://www.a |                |               |               |
+| comparison/    |               | mazon.com.mx/p |                |               |               |
+|                |               | rime           |                |               |               |
++----------------+---------------+----------------+----------------+---------------+---------------+
+| https://ebookf | Amazon.in     | http://links.e | India          |               | INR 999       |
+| riendly.com/am |               | bookfriendly.c |                |               |               |
+| azon-prime-    |               | om/?id=28128X8 |                |               |               |
+| membership-    |               | 62189&xs=1&url |                |               |               |
+| price-         |               | =https://www.a |                |               |               |
+| comparison/    |               | mazon.in/prime |                |               |               |
++----------------+---------------+----------------+----------------+---------------+---------------+
+| https://ebookf | Amazon.co.jp  | http://links.e | Japan          | JPY 400       | JPY 3,900     |
+| riendly.com/am |               | bookfriendly.c |                |               |               |
+| azon-prime-    |               | om/?id=28128X8 |                |               |               |
+| membership-    |               | 62189&xs=1&url |                |               |               |
+| price-         |               | =https://www.a |                |               |               |
+| comparison/    |               | mazon.co.jp/pr |                |               |               |
+|                |               | ime            |                |               |               |
++----------------+---------------+----------------+----------------+---------------+---------------+
+| https://ebookf | Amazon.cn     | http://links.e | China          |               | RMB 388       |
+| riendly.com/am |               | bookfriendly.c |                |               |  288 for      |
+| azon-prime-    |               | om/?id=28128X8 |                |               | first year    |
+| membership-    |               | 62189&xs=1&url |                |               |               |
+| price-         |               | =https://www.a |                |               |               |
+| comparison/    |               | mazon.cn/prime |                |               |               |
++----------------+---------------+----------------+----------------+---------------+---------------+

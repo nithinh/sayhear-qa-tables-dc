@@ -1,0 +1,94 @@
++----------------+----------------+----------------+---------------+---------------+---------------+
+| Name           | Date of        | Builders       | Date of       | Cause of      | Modern        |
+|                | Construction   |                | Destruction   | Destruction   | Location      |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| great pyramid  | 2584–2561 bc   | egyptians      | still in      | still in      | giza          |
+| of giza        |                |                | existence,    | existence,    | necropolis ,  |
+|                |                |                | majority of   | majority of   | egypt         |
+|                |                |                | façade gone   | façade gone   | 29°58′45.03″n |
+|                |                |                |               |               | 31°08′03.69″e |
+|                |                |                |               |               | ﻿ / ﻿         |
+|                |                |                |               |               | 29.9791750°n  |
+|                |                |                |               |               | 31.1343583°e  |
+|                |                |                |               |               | ﻿ /           |
+|                |                |                |               |               | 29.9791750;   |
+|                |                |                |               |               | 31.1343583 ﻿  |
+|                |                |                |               |               | ( great       |
+|                |                |                |               |               | pyramid of    |
+|                |                |                |               |               | giza )        |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| hanging        | c. 600 bc      | babylonians or | after 1st     | unknown       | hillah or     |
+| gardens of     | (evident)      | assyrians      | century ad    |               | nineveh ,     |
+| babylon        |                |                |               |               | iraq          |
+| (existence     |                |                |               |               | 32°32′08″n    |
+| unresolved)    |                |                |               |               | 44°25′39″e ﻿  |
+| [11]           |                |                |               |               | / ﻿ 32.5355°n |
+|                |                |                |               |               | 44.4275°e ﻿ / |
+|                |                |                |               |               | 32.5355;      |
+|                |                |                |               |               | 44.4275 ﻿ (   |
+|                |                |                |               |               | hanging       |
+|                |                |                |               |               | gardens of    |
+|                |                |                |               |               | babylon )     |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| temple of      | c. 550 bc; and | greeks ,       | 356 bc (by    | arson by      | near selçuk , |
+| artemis at     | again at 323   | lydians        | herostratus)  | herostratus , | turkey        |
+| ephesus        | bc             |                | ad 262 (by    | plundering    | 37°56′59″n    |
+|                |                |                | the goths)    |               | 27°21′50″e ﻿  |
+|                |                |                |               |               | / ﻿           |
+|                |                |                |               |               | 37.94972°n    |
+|                |                |                |               |               | 27.36389°e ﻿  |
+|                |                |                |               |               | / 37.94972;   |
+|                |                |                |               |               | 27.36389 ﻿ (  |
+|                |                |                |               |               | temple of     |
+|                |                |                |               |               | artemis at    |
+|                |                |                |               |               | ephesus )     |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| statue of zeus | 466–456 bc     | greeks         | 5th–6th       | disassembled  | olympia ,     |
+| at olympia     | (temple) 435   |                | centuries ad  | and           | greece        |
+|                | bc (statue)    |                |               | reassembled   | 37°38′16.3″n  |
+|                |                |                |               | at constantin | 21°37′48″e ﻿  |
+|                |                |                |               | ople; later   | / ﻿           |
+|                |                |                |               | destroyed by  | 37.637861°n   |
+|                |                |                |               | fire          | 21.63000°e ﻿  |
+|                |                |                |               |               | / 37.637861;  |
+|                |                |                |               |               | 21.63000 ﻿ (  |
+|                |                |                |               |               | statue of     |
+|                |                |                |               |               | zeus at       |
+|                |                |                |               |               | olympia )     |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| mausoleum at   | 351 bc         | greeks , [12]  | 12th–15th     | earthquakes   | bodrum ,      |
+| halicarnassus  |                | [13]  persians | century ad    |               | turkey        |
+|                |                | , carians      |               |               | 37°02′16″n    |
+|                |                |                |               |               | 27°25′27″e ﻿  |
+|                |                |                |               |               | / ﻿ 37.0379°n |
+|                |                |                |               |               | 27.4241°e ﻿ / |
+|                |                |                |               |               | 37.0379;      |
+|                |                |                |               |               | 27.4241 ﻿ (   |
+|                |                |                |               |               | mausoleum at  |
+|                |                |                |               |               | halicarnassus |
+|                |                |                |               |               | )             |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| colossus of    | 292–280 bc     | greeks         | 226 bc        | 226 bc rhodes | rhodes ,      |
+| rhodes         |                |                |               | earthquake    | greece        |
+|                |                |                |               |               | 36°27′04″n    |
+|                |                |                |               |               | 28°13′40″e ﻿  |
+|                |                |                |               |               | / ﻿           |
+|                |                |                |               |               | 36.45111°n    |
+|                |                |                |               |               | 28.22778°e ﻿  |
+|                |                |                |               |               | / 36.45111;   |
+|                |                |                |               |               | 28.22778 ﻿ (  |
+|                |                |                |               |               | colossus of   |
+|                |                |                |               |               | rhodes )      |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| lighthouse of  | c. 280 bc      | greeks ,       | ad 1303–1480  | 1303 crete    | alexandria ,  |
+| alexandria     |                | ptolemaic      |               | earthquake    | egypt         |
+|                |                | egyptians      |               |               | 31°12′50″n    |
+|                |                |                |               |               | 29°53′08″e ﻿  |
+|                |                |                |               |               | / ﻿           |
+|                |                |                |               |               | 31.21389°n    |
+|                |                |                |               |               | 29.88556°e ﻿  |
+|                |                |                |               |               | / 31.21389;   |
+|                |                |                |               |               | 29.88556 ﻿ (  |
+|                |                |                |               |               | lighthouse of |
+|                |                |                |               |               | alexandria )  |
++----------------+----------------+----------------+---------------+---------------+---------------+

@@ -1,0 +1,10 @@
++-----------------+-----------------+-----------------+----------+----------------+----------------+
+| initial release | developer       | genre           | series   | publisher      | platforms      |
+| date            |                 |                 |          |                |                |
++-----------------+-----------------+-----------------+----------+----------------+----------------+
+| august 14, 2018 | blizzard        | massively       | warcraft | blizzard       | microsoft      |
+|                 | entertainment   | multiplayer     |          | entertainment  | windows,       |
+|                 |                 | online role-    |          |                | macintosh      |
+|                 |                 | playing game    |          |                | operating      |
+|                 |                 |                 |          |                | systems        |
++-----------------+-----------------+-----------------+----------+----------------+----------------+

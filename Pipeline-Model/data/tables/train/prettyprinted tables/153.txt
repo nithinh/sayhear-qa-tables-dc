@@ -1,0 +1,62 @@
++---------------------------------------+------------------+---------------------------------------+
+| url                                   | Title            | Description                           |
++---------------------------------------+------------------+---------------------------------------+
+| https://seaworld.org/en/animal-       | Sexual Maturity  | Male manatees (bulls) are sexually    |
+| info/animal-                          |                  | mature by about nine to ten years,    |
+| infobooks/manatee/reproduction        |                  | although some have produced viable    |
+|                                       |                  | sperm at two to three years of age.;  |
+|                                       |                  | Female manatees (cows) are sexually   |
+|                                       |                  | mature as young as three years of     |
+|                                       |                  | age.; As manatee aging studies        |
+|                                       |                  | progress, sexual maturity may be      |
+|                                       |                  | estimated more precisely.; Although   |
+|                                       |                  | females are usually larger than       |
+|                                       |                  | males, it is very difficult to tell   |
+|                                       |                  | the sex of an individual animal       |
+|                                       |                  | without observing its underside.      |
+|                                       |                  | There is no marked sexual dimorphism  |
+|                                       |                  | other than the position of the        |
+|                                       |                  | genital openings.                     |
+|                                       |                  |                                       |
+|                                       |                  | The female's genital opening is       |
+|                                       |                  | located just in front of the anus.    |
+|                                       |                  | Two additional ways to identify a     |
+|                                       |                  | female are the presence of a suckling |
+|                                       |                  | calf, or an extremely round           |
+|                                       |                  | appearance during pregnancy.          |
+|                                       |                  |                                       |
+|                                       |                  | The male's genital opening lies just  |
+|                                       |                  | behind the umbilicus (navel), about   |
+|                                       |                  | midway down the underside of the      |
+|                                       |                  | body.                                 |
++---------------------------------------+------------------+---------------------------------------+
+| https://seaworld.org/en/animal-       | Mating Activity  | Mating takes place in the water in a  |
+| info/animal-                          |                  | variety of postures.; Breeding herds  |
+| infobooks/manatee/reproduction        |                  | consist of one cow in estrus          |
+|                                       |                  | accompanied by several bulls. An      |
+|                                       |                  | estrus female can be pursued for      |
+|                                       |                  | weeks by several males. The cow often |
+|                                       |                  | twists and turns violently,           |
+|                                       |                  | apparently to escape her suitors. The |
+|                                       |                  | bulls meanwhile attempt to remain     |
+|                                       |                  | adjacent to her, presumably competing |
+|                                       |                  | with each other to become the first   |
+|                                       |                  | to mate with her.; While in estrous,  |
+|                                       |                  | cows may mate with several bulls.     |
+|                                       |                  | Cows do not form permanent bonds with |
+|                                       |                  | bulls.                                |
++---------------------------------------+------------------+---------------------------------------+
+| https://seaworld.org/en/animal-       | Captive Breeding | Manatees breed well in captivity, but |
+| info/animal-                          |                  | it is not known how successful the    |
+| infobooks/manatee/reproduction        |                  | offspring would be if released. Since |
+|                                       |                  | space is limited at zoological        |
+|                                       |                  | facilities, emphasis is placed on the |
+|                                       |                  | rehabilitation and reintroduction of  |
+|                                       |                  | injured manatees instead of breeding  |
+|                                       |                  | them.; Zoological institutions in     |
+|                                       |                  | Florida are on a voluntary breeding   |
+|                                       |                  | hold. Until the numerous problems are |
+|                                       |                  | corrected in the manatee's natural    |
+|                                       |                  | environment, a breeding program will  |
+|                                       |                  | not be beneficial to them.            |
++---------------------------------------+------------------+---------------------------------------+

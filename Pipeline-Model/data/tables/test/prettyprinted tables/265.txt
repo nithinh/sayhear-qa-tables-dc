@@ -1,0 +1,59 @@
++--------------------------------------------------------+------------+----------------------------+
+| url                                                    | keys       | values                     |
++--------------------------------------------------------+------------+----------------------------+
+| https://katemiddletonstyle.org/category/get-kates-     | CLOTHING:  | L.K. Bennett               |
+| style/                                                 |            |  Reiss                     |
+|                                                        |            |  Whistles                  |
+|                                                        |            |  Topshop                   |
+|                                                        |            |  Alexander McQueen         |
+|                                                        |            |  Diane Von Furstenberg     |
+|                                                        |            |  Goat                      |
+|                                                        |            |  ME + EM                   |
+|                                                        |            |  Jenny Packham             |
+|                                                        |            |  Temperley London          |
+|                                                        |            |  Katherine Hooker          |
+|                                                        |            |  Beulah London             |
+|                                                        |            |  Dolce and Gabbana         |
+|                                                        |            |  Hobbs London              |
+|                                                        |            |  Erdem                     |
+|                                                        |            |  Jaeger                    |
+|                                                        |            |  Sportmax                  |
+|                                                        |            |  Maxmara                   |
+|                                                        |            |  Smythe                    |
+|                                                        |            |  Zara                      |
+|                                                        |            |  Tory Burch                |
+|                                                        |            |  Miu Miu                   |
+|                                                        |            |  Kate Spade                |
++--------------------------------------------------------+------------+----------------------------+
+| https://katemiddletonstyle.org/category/get-kates-     | STORES:    | Peter Jones / John Lewis   |
+| style/                                                 |            |  Bicester Shopping Village |
+|                                                        |            |  Net-A-Porter (I suspect!) |
+|                                                        |            |  The Outnet                |
++--------------------------------------------------------+------------+----------------------------+
+| https://katemiddletonstyle.org/category/get-kates-     | SHOES:     | L.K. Bennett               |
+| style/                                                 |            |  Jimmy Choo                |
+|                                                        |            |  Stuart Weitzman           |
+|                                                        |            |  Aquatalia                 |
+|                                                        |            |  Sebago                    |
+|                                                        |            |  Gianvito Rossi            |
+|                                                        |            |  Prada                     |
++--------------------------------------------------------+------------+----------------------------+
+| https://katemiddletonstyle.org/category/get-kates-     | GLOVES:    | Cornelia James             |
+| style/                                                 |            |                            |
++--------------------------------------------------------+------------+----------------------------+
+| https://katemiddletonstyle.org/category/get-kates-     | HANDBAGS:  | L.K. Bennett               |
+| style/                                                 |            |  Anya Hindmarch            |
+|                                                        |            |  Longchamp                 |
+|                                                        |            |  Mulberry                  |
+|                                                        |            |  Stuart Weitzman           |
++--------------------------------------------------------+------------+----------------------------+
+| https://katemiddletonstyle.org/category/get-kates-     | JEWELLERY: | Links of London            |
+| style/                                                 |            |  Monica Vinader            |
+|                                                        |            |  Kiki McDonough            |
+|                                                        |            |  Annoushka                 |
+|                                                        |            |  Mappin & Webb             |
++--------------------------------------------------------+------------+----------------------------+
+| https://katemiddletonstyle.org/category/get-kates-     | MATERNITY: | ASOS                       |
+| style/                                                 |            |  Seraphine                 |
+|                                                        |            |  JoJo Maman Bebe           |
++--------------------------------------------------------+------------+----------------------------+

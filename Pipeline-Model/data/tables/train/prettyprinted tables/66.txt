@@ -1,0 +1,1772 @@
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| url     | Number | Number_ | Start_o | End_of_ | Image   | Image_a | Image_l | Name    | Name_li |
+|         |        | link    | f_Presi | Preside |         | lt      | ink     |         | nk      |
+|         |        |         | dency   | ncy     |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 1      | https:/ | April   | March   | https:/ | Gilbert | https:/ | George  | https:/ |
+| /en.wik |        | /en.wik | 30,     | 4, 1797 | /upload | Stuart  | /en.wik | Washing | /en.wik |
+| ipedia. |        | ipedia. | 1789    |         | .wikime | William | ipedia. | ton     | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | stown P | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | ortrait | i/File: |         | i/Georg |
+| of_Pres |        | dency_o |         |         | dia/com | of      | Gilbert |         | e_Washi |
+| idents_ |        | f_Georg |         |         | mons/th | George  | _Stuart |         | ngton   |
+| of_the_ |        | e_Washi |         |         | umb/b/b | Washing | _Willia |         |         |
+| United_ |        | ngton   |         |         | 6/Gilbe | ton.jpg | mstown_ |         |         |
+| States  |        |         |         |         | rt_Stua |         | Portrai |         |         |
+|         |        |         |         |         | rt_Will |         | t_of_Ge |         |         |
+|         |        |         |         |         | iamstow |         | orge_Wa |         |         |
+|         |        |         |         |         | n_Portr |         | shingto |         |         |
+|         |        |         |         |         | ait_of_ |         | n.jpg   |         |         |
+|         |        |         |         |         | George_ |         |         |         |         |
+|         |        |         |         |         | Washing |         |         |         |         |
+|         |        |         |         |         | ton.jpg |         |         |         |         |
+|         |        |         |         |         | /165px- |         |         |         |         |
+|         |        |         |         |         | Gilbert |         |         |         |         |
+|         |        |         |         |         | _Stuart |         |         |         |         |
+|         |        |         |         |         | _Willia |         |         |         |         |
+|         |        |         |         |         | mstown_ |         |         |         |         |
+|         |        |         |         |         | Portrai |         |         |         |         |
+|         |        |         |         |         | t_of_Ge |         |         |         |         |
+|         |        |         |         |         | orge_Wa |         |         |         |         |
+|         |        |         |         |         | shingto |         |         |         |         |
+|         |        |         |         |         | n.jpg   |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 1      | https:/ | April   | March   | https:/ | Gilbert | https:/ | George  | https:/ |
+| /en.wik |        | /en.wik | 30,     | 4, 1797 | /upload | Stuart  | /en.wik | Washing | /en.wik |
+| ipedia. |        | ipedia. | 1789    |         | .wikime | William | ipedia. | ton     | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | stown P | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | ortrait | i/File: |         | i/Georg |
+| of_Pres |        | dency_o |         |         | dia/com | of      | Gilbert |         | e_Washi |
+| idents_ |        | f_Georg |         |         | mons/th | George  | _Stuart |         | ngton   |
+| of_the_ |        | e_Washi |         |         | umb/b/b | Washing | _Willia |         |         |
+| United_ |        | ngton   |         |         | 6/Gilbe | ton.jpg | mstown_ |         |         |
+| States  |        |         |         |         | rt_Stua |         | Portrai |         |         |
+|         |        |         |         |         | rt_Will |         | t_of_Ge |         |         |
+|         |        |         |         |         | iamstow |         | orge_Wa |         |         |
+|         |        |         |         |         | n_Portr |         | shingto |         |         |
+|         |        |         |         |         | ait_of_ |         | n.jpg   |         |         |
+|         |        |         |         |         | George_ |         |         |         |         |
+|         |        |         |         |         | Washing |         |         |         |         |
+|         |        |         |         |         | ton.jpg |         |         |         |         |
+|         |        |         |         |         | /165px- |         |         |         |         |
+|         |        |         |         |         | Gilbert |         |         |         |         |
+|         |        |         |         |         | _Stuart |         |         |         |         |
+|         |        |         |         |         | _Willia |         |         |         |         |
+|         |        |         |         |         | mstown_ |         |         |         |         |
+|         |        |         |         |         | Portrai |         |         |         |         |
+|         |        |         |         |         | t_of_Ge |         |         |         |         |
+|         |        |         |         |         | orge_Wa |         |         |         |         |
+|         |        |         |         |         | shingto |         |         |         |         |
+|         |        |         |         |         | n.jpg   |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 2      | https:/ | March   | March   | https:/ | John    | https:/ | John    | https:/ |
+| /en.wik |        | /en.wik | 4, 1797 | 4, 1801 | /upload | Adams,  | /en.wik | Adams   | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | Gilbert | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | Stuart, | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | c1800 1 | i/File: |         | i/John_ |
+| of_Pres |        | dency_o |         |         | dia/com | 815.jpg | John_Ad |         | Adams   |
+| idents_ |        | f_John_ |         |         | mons/th |         | ams,_Gi |         |         |
+| of_the_ |        | Adams   |         |         | umb/7/7 |         | lbert_S |         |         |
+| United_ |        |         |         |         | 0/John_ |         | tuart,_ |         |         |
+| States  |        |         |         |         | Adams%2 |         | c1800_1 |         |         |
+|         |        |         |         |         | C_Gilbe |         | 815.jpg |         |         |
+|         |        |         |         |         | rt_Stua |         |         |         |         |
+|         |        |         |         |         | rt%2C_c |         |         |         |         |
+|         |        |         |         |         | 1800_18 |         |         |         |         |
+|         |        |         |         |         | 15.jpg/ |         |         |         |         |
+|         |        |         |         |         | 165px-J |         |         |         |         |
+|         |        |         |         |         | ohn_Ada |         |         |         |         |
+|         |        |         |         |         | ms%2C_G |         |         |         |         |
+|         |        |         |         |         | ilbert_ |         |         |         |         |
+|         |        |         |         |         | Stuart% |         |         |         |         |
+|         |        |         |         |         | 2C_c180 |         |         |         |         |
+|         |        |         |         |         | 0_1815. |         |         |         |         |
+|         |        |         |         |         | jpg     |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 3      | https:/ | March   | March   | https:/ | Thomas  | https:/ | Thomas  | https:/ |
+| /en.wik |        | /en.wik | 4, 1801 | 4, 1809 | /upload | Jeffers | /en.wik | Jeffers | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | on by R | ipedia. | on      | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | embrand | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | t       | i/File: |         | i/Thoma |
+| of_Pres |        | dency_o |         |         | dia/com | Peale,  | Thomas_ |         | s_Jeffe |
+| idents_ |        | f_Thoma |         |         | mons/th | 1800.jp | Jeffers |         | rson    |
+| of_the_ |        | s_Jeffe |         |         | umb/1/1 | g       | on_by_R |         |         |
+| United_ |        | rson    |         |         | e/Thoma |         | embrand |         |         |
+| States  |        |         |         |         | s_Jeffe |         | t_Peale |         |         |
+|         |        |         |         |         | rson_by |         | ,_1800. |         |         |
+|         |        |         |         |         | _Rembra |         | jpg     |         |         |
+|         |        |         |         |         | ndt_Pea |         |         |         |         |
+|         |        |         |         |         | le%2C_1 |         |         |         |         |
+|         |        |         |         |         | 800.jpg |         |         |         |         |
+|         |        |         |         |         | /165px- |         |         |         |         |
+|         |        |         |         |         | Thomas_ |         |         |         |         |
+|         |        |         |         |         | Jeffers |         |         |         |         |
+|         |        |         |         |         | on_by_R |         |         |         |         |
+|         |        |         |         |         | embrand |         |         |         |         |
+|         |        |         |         |         | t_Peale |         |         |         |         |
+|         |        |         |         |         | %2C_180 |         |         |         |         |
+|         |        |         |         |         | 0.jpg   |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 3      | https:/ | March   | March   | https:/ | Thomas  | https:/ | Thomas  | https:/ |
+| /en.wik |        | /en.wik | 4, 1801 | 4, 1809 | /upload | Jeffers | /en.wik | Jeffers | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | on by R | ipedia. | on      | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | embrand | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | t       | i/File: |         | i/Thoma |
+| of_Pres |        | dency_o |         |         | dia/com | Peale,  | Thomas_ |         | s_Jeffe |
+| idents_ |        | f_Thoma |         |         | mons/th | 1800.jp | Jeffers |         | rson    |
+| of_the_ |        | s_Jeffe |         |         | umb/1/1 | g       | on_by_R |         |         |
+| United_ |        | rson    |         |         | e/Thoma |         | embrand |         |         |
+| States  |        |         |         |         | s_Jeffe |         | t_Peale |         |         |
+|         |        |         |         |         | rson_by |         | ,_1800. |         |         |
+|         |        |         |         |         | _Rembra |         | jpg     |         |         |
+|         |        |         |         |         | ndt_Pea |         |         |         |         |
+|         |        |         |         |         | le%2C_1 |         |         |         |         |
+|         |        |         |         |         | 800.jpg |         |         |         |         |
+|         |        |         |         |         | /165px- |         |         |         |         |
+|         |        |         |         |         | Thomas_ |         |         |         |         |
+|         |        |         |         |         | Jeffers |         |         |         |         |
+|         |        |         |         |         | on_by_R |         |         |         |         |
+|         |        |         |         |         | embrand |         |         |         |         |
+|         |        |         |         |         | t_Peale |         |         |         |         |
+|         |        |         |         |         | %2C_180 |         |         |         |         |
+|         |        |         |         |         | 0.jpg   |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 4      | https:/ | March   | March   | https:/ | James M | https:/ | James   | https:/ |
+| /en.wik |        | /en.wik | 4, 1809 | 4, 1817 | /upload | adison. | /en.wik | Madison | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | jpg     | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org |         | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/James |
+| of_Pres |        | dency_o |         |         | dia/com |         | James_M |         | _Madiso |
+| idents_ |        | f_James |         |         | mons/th |         | adison. |         | n       |
+| of_the_ |        | _Madiso |         |         | umb/1/1 |         | jpg     |         |         |
+| United_ |        | n       |         |         | d/James |         |         |         |         |
+| States  |        |         |         |         | _Madiso |         |         |         |         |
+|         |        |         |         |         | n.jpg/1 |         |         |         |         |
+|         |        |         |         |         | 65px-Ja |         |         |         |         |
+|         |        |         |         |         | mes_Mad |         |         |         |         |
+|         |        |         |         |         | ison.jp |         |         |         |         |
+|         |        |         |         |         | g       |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 4      | https:/ | March   | March   | https:/ | James M | https:/ | James   | https:/ |
+| /en.wik |        | /en.wik | 4, 1809 | 4, 1817 | /upload | adison. | /en.wik | Madison | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | jpg     | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org |         | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/James |
+| of_Pres |        | dency_o |         |         | dia/com |         | James_M |         | _Madiso |
+| idents_ |        | f_James |         |         | mons/th |         | adison. |         | n       |
+| of_the_ |        | _Madiso |         |         | umb/1/1 |         | jpg     |         |         |
+| United_ |        | n       |         |         | d/James |         |         |         |         |
+| States  |        |         |         |         | _Madiso |         |         |         |         |
+|         |        |         |         |         | n.jpg/1 |         |         |         |         |
+|         |        |         |         |         | 65px-Ja |         |         |         |         |
+|         |        |         |         |         | mes_Mad |         |         |         |         |
+|         |        |         |         |         | ison.jp |         |         |         |         |
+|         |        |         |         |         | g       |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 4      | https:/ | March   | March   | https:/ | James M | https:/ | James   | https:/ |
+| /en.wik |        | /en.wik | 4, 1809 | 4, 1817 | /upload | adison. | /en.wik | Madison | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | jpg     | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org |         | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/James |
+| of_Pres |        | dency_o |         |         | dia/com |         | James_M |         | _Madiso |
+| idents_ |        | f_James |         |         | mons/th |         | adison. |         | n       |
+| of_the_ |        | _Madiso |         |         | umb/1/1 |         | jpg     |         |         |
+| United_ |        | n       |         |         | d/James |         |         |         |         |
+| States  |        |         |         |         | _Madiso |         |         |         |         |
+|         |        |         |         |         | n.jpg/1 |         |         |         |         |
+|         |        |         |         |         | 65px-Ja |         |         |         |         |
+|         |        |         |         |         | mes_Mad |         |         |         |         |
+|         |        |         |         |         | ison.jp |         |         |         |         |
+|         |        |         |         |         | g       |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 4      | https:/ | March   | March   | https:/ | James M | https:/ | James   | https:/ |
+| /en.wik |        | /en.wik | 4, 1809 | 4, 1817 | /upload | adison. | /en.wik | Madison | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | jpg     | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org |         | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/James |
+| of_Pres |        | dency_o |         |         | dia/com |         | James_M |         | _Madiso |
+| idents_ |        | f_James |         |         | mons/th |         | adison. |         | n       |
+| of_the_ |        | _Madiso |         |         | umb/1/1 |         | jpg     |         |         |
+| United_ |        | n       |         |         | d/James |         |         |         |         |
+| States  |        |         |         |         | _Madiso |         |         |         |         |
+|         |        |         |         |         | n.jpg/1 |         |         |         |         |
+|         |        |         |         |         | 65px-Ja |         |         |         |         |
+|         |        |         |         |         | mes_Mad |         |         |         |         |
+|         |        |         |         |         | ison.jp |         |         |         |         |
+|         |        |         |         |         | g       |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 5      | https:/ | March   | March   | https:/ | James   | https:/ | James   | https:/ |
+| /en.wik |        | /en.wik | 4, 1817 | 4, 1825 | /upload | Monroe  | /en.wik | Monroe  | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | White   | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | House p | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | ortrait | i/File: |         | i/James |
+| of_Pres |        | dency_o |         |         | dia/com | 1819.gi | James_M |         | _Monroe |
+| idents_ |        | f_James |         |         | mons/th | f       | onroe_W |         |         |
+| of_the_ |        | _Monroe |         |         | umb/9/9 |         | hite_Ho |         |         |
+| United_ |        |         |         |         | 5/James |         | use_por |         |         |
+| States  |        |         |         |         | _Monroe |         | trait_1 |         |         |
+|         |        |         |         |         | _White_ |         | 819.gif |         |         |
+|         |        |         |         |         | House_p |         |         |         |         |
+|         |        |         |         |         | ortrait |         |         |         |         |
+|         |        |         |         |         | _1819.g |         |         |         |         |
+|         |        |         |         |         | if/165p |         |         |         |         |
+|         |        |         |         |         | x-James |         |         |         |         |
+|         |        |         |         |         | _Monroe |         |         |         |         |
+|         |        |         |         |         | _White_ |         |         |         |         |
+|         |        |         |         |         | House_p |         |         |         |         |
+|         |        |         |         |         | ortrait |         |         |         |         |
+|         |        |         |         |         | _1819.g |         |         |         |         |
+|         |        |         |         |         | if      |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 5      | https:/ | March   | March   | https:/ | James   | https:/ | James   | https:/ |
+| /en.wik |        | /en.wik | 4, 1817 | 4, 1825 | /upload | Monroe  | /en.wik | Monroe  | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | White   | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | House p | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | ortrait | i/File: |         | i/James |
+| of_Pres |        | dency_o |         |         | dia/com | 1819.gi | James_M |         | _Monroe |
+| idents_ |        | f_James |         |         | mons/th | f       | onroe_W |         |         |
+| of_the_ |        | _Monroe |         |         | umb/9/9 |         | hite_Ho |         |         |
+| United_ |        |         |         |         | 5/James |         | use_por |         |         |
+| States  |        |         |         |         | _Monroe |         | trait_1 |         |         |
+|         |        |         |         |         | _White_ |         | 819.gif |         |         |
+|         |        |         |         |         | House_p |         |         |         |         |
+|         |        |         |         |         | ortrait |         |         |         |         |
+|         |        |         |         |         | _1819.g |         |         |         |         |
+|         |        |         |         |         | if/165p |         |         |         |         |
+|         |        |         |         |         | x-James |         |         |         |         |
+|         |        |         |         |         | _Monroe |         |         |         |         |
+|         |        |         |         |         | _White_ |         |         |         |         |
+|         |        |         |         |         | House_p |         |         |         |         |
+|         |        |         |         |         | ortrait |         |         |         |         |
+|         |        |         |         |         | _1819.g |         |         |         |         |
+|         |        |         |         |         | if      |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 6      | https:/ | March   | March   | https:/ | John    | https:/ | John    | https:/ |
+| /en.wik |        | /en.wik | 4, 1825 | 4, 1829 | /upload | Quincy  | /en.wik | Quincy  | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | Adams c | ipedia. | Adams   | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | ropped. | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | jpg     | i/File: |         | i/John_ |
+| of_Pres |        | dency_o |         |         | dia/com |         | John_Qu |         | Quincy_ |
+| idents_ |        | f_John_ |         |         | mons/th |         | incy_Ad |         | Adams   |
+| of_the_ |        | Quincy_ |         |         | umb/2/2 |         | ams_cro |         |         |
+| United_ |        | Adams   |         |         | 5/John_ |         | pped.jp |         |         |
+| States  |        |         |         |         | Quincy_ |         | g       |         |         |
+|         |        |         |         |         | Adams_c |         |         |         |         |
+|         |        |         |         |         | ropped. |         |         |         |         |
+|         |        |         |         |         | jpg/165 |         |         |         |         |
+|         |        |         |         |         | px-John |         |         |         |         |
+|         |        |         |         |         | _Quincy |         |         |         |         |
+|         |        |         |         |         | _Adams_ |         |         |         |         |
+|         |        |         |         |         | cropped |         |         |         |         |
+|         |        |         |         |         | .jpg    |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 7      | https:/ | March   | March   | https:/ | Andrew  | https:/ | Andrew  | https:/ |
+| /en.wik |        | /en.wik | 4, 1829 | 4, 1837 | /upload | jackson | /en.wik | Jackson | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | head.jp | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | g       | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Andre |
+| of_Pres |        | dency_o |         |         | dia/com |         | Andrew_ |         | w_Jacks |
+| idents_ |        | f_Andre |         |         | mons/th |         | jackson |         | on      |
+| of_the_ |        | w_Jacks |         |         | umb/4/4 |         | _head.j |         |         |
+| United_ |        | on      |         |         | 3/Andre |         | pg      |         |         |
+| States  |        |         |         |         | w_jacks |         |         |         |         |
+|         |        |         |         |         | on_head |         |         |         |         |
+|         |        |         |         |         | .jpg/16 |         |         |         |         |
+|         |        |         |         |         | 5px-And |         |         |         |         |
+|         |        |         |         |         | rew_jac |         |         |         |         |
+|         |        |         |         |         | kson_he |         |         |         |         |
+|         |        |         |         |         | ad.jpg  |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 7      | https:/ | March   | March   | https:/ | Andrew  | https:/ | Andrew  | https:/ |
+| /en.wik |        | /en.wik | 4, 1829 | 4, 1837 | /upload | jackson | /en.wik | Jackson | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | head.jp | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | g       | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Andre |
+| of_Pres |        | dency_o |         |         | dia/com |         | Andrew_ |         | w_Jacks |
+| idents_ |        | f_Andre |         |         | mons/th |         | jackson |         | on      |
+| of_the_ |        | w_Jacks |         |         | umb/4/4 |         | _head.j |         |         |
+| United_ |        | on      |         |         | 3/Andre |         | pg      |         |         |
+| States  |        |         |         |         | w_jacks |         |         |         |         |
+|         |        |         |         |         | on_head |         |         |         |         |
+|         |        |         |         |         | .jpg/16 |         |         |         |         |
+|         |        |         |         |         | 5px-And |         |         |         |         |
+|         |        |         |         |         | rew_jac |         |         |         |         |
+|         |        |         |         |         | kson_he |         |         |         |         |
+|         |        |         |         |         | ad.jpg  |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 7      | https:/ | March   | March   | https:/ | Andrew  | https:/ | Andrew  | https:/ |
+| /en.wik |        | /en.wik | 4, 1829 | 4, 1837 | /upload | jackson | /en.wik | Jackson | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | head.jp | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | g       | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Andre |
+| of_Pres |        | dency_o |         |         | dia/com |         | Andrew_ |         | w_Jacks |
+| idents_ |        | f_Andre |         |         | mons/th |         | jackson |         | on      |
+| of_the_ |        | w_Jacks |         |         | umb/4/4 |         | _head.j |         |         |
+| United_ |        | on      |         |         | 3/Andre |         | pg      |         |         |
+| States  |        |         |         |         | w_jacks |         |         |         |         |
+|         |        |         |         |         | on_head |         |         |         |         |
+|         |        |         |         |         | .jpg/16 |         |         |         |         |
+|         |        |         |         |         | 5px-And |         |         |         |         |
+|         |        |         |         |         | rew_jac |         |         |         |         |
+|         |        |         |         |         | kson_he |         |         |         |         |
+|         |        |         |         |         | ad.jpg  |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 8      | https:/ | March   | March   | https:/ | Martin  | https:/ | Martin  | https:/ |
+| /en.wik |        | /en.wik | 4, 1837 | 4, 1841 | /upload | Van     | /en.wik | Van     | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | Buren e | ipedia. | Buren   | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | dit.jpg | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Marti |
+| of_Pres |        | dency_o |         |         | dia/com |         | Martin_ |         | n_Van_B |
+| idents_ |        | f_Marti |         |         | mons/th |         | Van_Bur |         | uren    |
+| of_the_ |        | n_Van_B |         |         | umb/9/9 |         | en_edit |         |         |
+| United_ |        | uren    |         |         | 4/Marti |         | .jpg    |         |         |
+| States  |        |         |         |         | n_Van_B |         |         |         |         |
+|         |        |         |         |         | uren_ed |         |         |         |         |
+|         |        |         |         |         | it.jpg/ |         |         |         |         |
+|         |        |         |         |         | 165px-M |         |         |         |         |
+|         |        |         |         |         | artin_V |         |         |         |         |
+|         |        |         |         |         | an_Bure |         |         |         |         |
+|         |        |         |         |         | n_edit. |         |         |         |         |
+|         |        |         |         |         | jpg     |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ |        |         | March   | April   | https:/ | William | https:/ | William | https:/ |
+| /en.wik |        |         | 4, 1841 | 4, 1841 | /upload | Henry H | /en.wik | Henry H | /en.wik |
+| ipedia. |        |         |         |         | .wikime | arrison | ipedia. | arrison | ipedia. |
+| org/wik |        |         |         |         | dia.org | daguerr | org/wik |         | org/wik |
+| i/List_ |        |         |         |         | /wikipe | eotype  | i/File: |         | i/Willi |
+| of_Pres |        |         |         |         | dia/com | edit.jp | William |         | am_Henr |
+| idents_ |        |         |         |         | mons/th | g       | _Henry_ |         | y_Harri |
+| of_the_ |        |         |         |         | umb/c/c |         | Harriso |         | son     |
+| United_ |        |         |         |         | 5/Willi |         | n_dague |         |         |
+| States  |        |         |         |         | am_Henr |         | rreotyp |         |         |
+|         |        |         |         |         | y_Harri |         | e_edit. |         |         |
+|         |        |         |         |         | son_dag |         | jpg     |         |         |
+|         |        |         |         |         | uerreot |         |         |         |         |
+|         |        |         |         |         | ype_edi |         |         |         |         |
+|         |        |         |         |         | t.jpg/1 |         |         |         |         |
+|         |        |         |         |         | 65px-Wi |         |         |         |         |
+|         |        |         |         |         | lliam_H |         |         |         |         |
+|         |        |         |         |         | enry_Ha |         |         |         |         |
+|         |        |         |         |         | rrison_ |         |         |         |         |
+|         |        |         |         |         | daguerr |         |         |         |         |
+|         |        |         |         |         | eotype_ |         |         |         |         |
+|         |        |         |         |         | edit.jp |         |         |         |         |
+|         |        |         |         |         | g       |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 10     | https:/ | April   | March   | https:/ | Tyler D | https:/ | John    | https:/ |
+| /en.wik |        | /en.wik | 4, 1841 | 4, 1845 | /upload | aguerre | /en.wik | Tyler   | /en.wik |
+| ipedia. |        | ipedia. |  [k]    |         | .wikime | otype   | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | crop (r | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | estorat | i/File: |         | i/John_ |
+| of_Pres |        | dency_o |         |         | dia/com | ion).jp | Tyler_D |         | Tyler   |
+| idents_ |        | f_John_ |         |         | mons/th | g       | aguerre |         |         |
+| of_the_ |        | Tyler   |         |         | umb/2/2 |         | otype_c |         |         |
+| United_ |        |         |         |         | f/Tyler |         | rop_(re |         |         |
+| States  |        |         |         |         | _Daguer |         | storati |         |         |
+|         |        |         |         |         | reotype |         | on).jpg |         |         |
+|         |        |         |         |         | _crop_% |         |         |         |         |
+|         |        |         |         |         | 28resto |         |         |         |         |
+|         |        |         |         |         | ration% |         |         |         |         |
+|         |        |         |         |         | 29.jpg/ |         |         |         |         |
+|         |        |         |         |         | 165px-T |         |         |         |         |
+|         |        |         |         |         | yler_Da |         |         |         |         |
+|         |        |         |         |         | guerreo |         |         |         |         |
+|         |        |         |         |         | type_cr |         |         |         |         |
+|         |        |         |         |         | op_%28r |         |         |         |         |
+|         |        |         |         |         | estorat |         |         |         |         |
+|         |        |         |         |         | ion%29. |         |         |         |         |
+|         |        |         |         |         | jpg     |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 10     | https:/ | April   | March   | https:/ | Tyler D | https:/ | John    | https:/ |
+| /en.wik |        | /en.wik | 4, 1841 | 4, 1845 | /upload | aguerre | /en.wik | Tyler   | /en.wik |
+| ipedia. |        | ipedia. |  [k]    |         | .wikime | otype   | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | crop (r | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | estorat | i/File: |         | i/John_ |
+| of_Pres |        | dency_o |         |         | dia/com | ion).jp | Tyler_D |         | Tyler   |
+| idents_ |        | f_John_ |         |         | mons/th | g       | aguerre |         |         |
+| of_the_ |        | Tyler   |         |         | umb/2/2 |         | otype_c |         |         |
+| United_ |        |         |         |         | f/Tyler |         | rop_(re |         |         |
+| States  |        |         |         |         | _Daguer |         | storati |         |         |
+|         |        |         |         |         | reotype |         | on).jpg |         |         |
+|         |        |         |         |         | _crop_% |         |         |         |         |
+|         |        |         |         |         | 28resto |         |         |         |         |
+|         |        |         |         |         | ration% |         |         |         |         |
+|         |        |         |         |         | 29.jpg/ |         |         |         |         |
+|         |        |         |         |         | 165px-T |         |         |         |         |
+|         |        |         |         |         | yler_Da |         |         |         |         |
+|         |        |         |         |         | guerreo |         |         |         |         |
+|         |        |         |         |         | type_cr |         |         |         |         |
+|         |        |         |         |         | op_%28r |         |         |         |         |
+|         |        |         |         |         | estorat |         |         |         |         |
+|         |        |         |         |         | ion%29. |         |         |         |         |
+|         |        |         |         |         | jpg     |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 11     | https:/ | March   | March   | https:/ | JKP.tif | https:/ | James   | https:/ |
+| /en.wik |        | /en.wik | 4, 1845 | 4, 1849 | /upload |         | /en.wik | K. Polk | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime |         | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org |         | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/James |
+| of_Pres |        | dency_o |         |         | dia/com |         | JKP.tif |         | _K._Pol |
+| idents_ |        | f_James |         |         | mons/th |         |         |         | k       |
+| of_the_ |        | _K._Pol |         |         | umb/3/3 |         |         |         |         |
+| United_ |        | k       |         |         | 2/JKP.t |         |         |         |         |
+| States  |        |         |         |         | if/loss |         |         |         |         |
+|         |        |         |         |         | y-page1 |         |         |         |         |
+|         |        |         |         |         | -165px- |         |         |         |         |
+|         |        |         |         |         | JKP.tif |         |         |         |         |
+|         |        |         |         |         | .jpg    |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ |        |         | March   | July 9, | https:/ | Zachary | https:/ | Zachary | https:/ |
+| /en.wik |        |         | 4, 1849 | 1850    | /upload | Taylor  | /en.wik | Taylor  | /en.wik |
+| ipedia. |        |         |         |         | .wikime | restore | ipedia. |         | ipedia. |
+| org/wik |        |         |         |         | dia.org | d and c | org/wik |         | org/wik |
+| i/List_ |        |         |         |         | /wikipe | ropped. | i/File: |         | i/Zacha |
+| of_Pres |        |         |         |         | dia/com | png     | Zachary |         | ry_Tayl |
+| idents_ |        |         |         |         | mons/th |         | _Taylor |         | or      |
+| of_the_ |        |         |         |         | umb/a/a |         | _restor |         |         |
+| United_ |        |         |         |         | 6/Zacha |         | ed_and_ |         |         |
+| States  |        |         |         |         | ry_Tayl |         | cropped |         |         |
+|         |        |         |         |         | or_rest |         | .png    |         |         |
+|         |        |         |         |         | ored_an |         |         |         |         |
+|         |        |         |         |         | d_cropp |         |         |         |         |
+|         |        |         |         |         | ed.png/ |         |         |         |         |
+|         |        |         |         |         | 165px-Z |         |         |         |         |
+|         |        |         |         |         | achary_ |         |         |         |         |
+|         |        |         |         |         | Taylor_ |         |         |         |         |
+|         |        |         |         |         | restore |         |         |         |         |
+|         |        |         |         |         | d_and_c |         |         |         |         |
+|         |        |         |         |         | ropped. |         |         |         |         |
+|         |        |         |         |         | png     |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 13     | https:/ | July 9, | March   | https:/ | Millard | https:/ | Millard | https:/ |
+| /en.wik |        | /en.wik | 1850    | 4, 1853 | /upload | Fillmor | /en.wik | Fillmor | /en.wik |
+| ipedia. |        | ipedia. |  [m]    |         | .wikime | e by    | ipedia. | e       | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | Brady   | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | Studio  | i/File: |         | i/Milla |
+| of_Pres |        | dency_o |         |         | dia/com | 1855-65 | Millard |         | rd_Fill |
+| idents_ |        | f_Milla |         |         | mons/th | -crop.j | _Fillmo |         | more    |
+| of_the_ |        | rd_Fill |         |         | umb/d/d | pg      | re_by_B |         |         |
+| United_ |        | more    |         |         | d/Milla |         | rady_St |         |         |
+| States  |        |         |         |         | rd_Fill |         | udio_18 |         |         |
+|         |        |         |         |         | more_by |         | 55-65-c |         |         |
+|         |        |         |         |         | _Brady_ |         | rop.jpg |         |         |
+|         |        |         |         |         | Studio_ |         |         |         |         |
+|         |        |         |         |         | 1855-65 |         |         |         |         |
+|         |        |         |         |         | -crop.j |         |         |         |         |
+|         |        |         |         |         | pg/165p |         |         |         |         |
+|         |        |         |         |         | x-Milla |         |         |         |         |
+|         |        |         |         |         | rd_Fill |         |         |         |         |
+|         |        |         |         |         | more_by |         |         |         |         |
+|         |        |         |         |         | _Brady_ |         |         |         |         |
+|         |        |         |         |         | Studio_ |         |         |         |         |
+|         |        |         |         |         | 1855-65 |         |         |         |         |
+|         |        |         |         |         | -crop.j |         |         |         |         |
+|         |        |         |         |         | pg      |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 14     | https:/ | March   | March   | https:/ | Frankli | https:/ | Frankli | https:/ |
+| /en.wik |        | /en.wik | 4, 1853 | 4, 1857 | /upload | n       | /en.wik | n       | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | Pierce  | ipedia. | Pierce  | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | - Cropp | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | ed.jpg  | i/File: |         | i/Frank |
+| of_Pres |        | dency_o |         |         | dia/com |         | Frankli |         | lin_Pie |
+| idents_ |        | f_Frank |         |         | mons/th |         | n_Pierc |         | rce     |
+| of_the_ |        | lin_Pie |         |         | umb/8/8 |         | e_-_Cro |         |         |
+| United_ |        | rce     |         |         | 7/Frank |         | pped.jp |         |         |
+| States  |        |         |         |         | lin_Pie |         | g       |         |         |
+|         |        |         |         |         | rce_-_C |         |         |         |         |
+|         |        |         |         |         | ropped. |         |         |         |         |
+|         |        |         |         |         | jpg/165 |         |         |         |         |
+|         |        |         |         |         | px-Fran |         |         |         |         |
+|         |        |         |         |         | klin_Pi |         |         |         |         |
+|         |        |         |         |         | erce_-_ |         |         |         |         |
+|         |        |         |         |         | Cropped |         |         |         |         |
+|         |        |         |         |         | .jpg    |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 14     | https:/ | March   | March   | https:/ | Frankli | https:/ | Frankli | https:/ |
+| /en.wik |        | /en.wik | 4, 1853 | 4, 1857 | /upload | n       | /en.wik | n       | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | Pierce  | ipedia. | Pierce  | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | - Cropp | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | ed.jpg  | i/File: |         | i/Frank |
+| of_Pres |        | dency_o |         |         | dia/com |         | Frankli |         | lin_Pie |
+| idents_ |        | f_Frank |         |         | mons/th |         | n_Pierc |         | rce     |
+| of_the_ |        | lin_Pie |         |         | umb/8/8 |         | e_-_Cro |         |         |
+| United_ |        | rce     |         |         | 7/Frank |         | pped.jp |         |         |
+| States  |        |         |         |         | lin_Pie |         | g       |         |         |
+|         |        |         |         |         | rce_-_C |         |         |         |         |
+|         |        |         |         |         | ropped. |         |         |         |         |
+|         |        |         |         |         | jpg/165 |         |         |         |         |
+|         |        |         |         |         | px-Fran |         |         |         |         |
+|         |        |         |         |         | klin_Pi |         |         |         |         |
+|         |        |         |         |         | erce_-_ |         |         |         |         |
+|         |        |         |         |         | Cropped |         |         |         |         |
+|         |        |         |         |         | .jpg    |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 15     | https:/ | March   | March   | https:/ | James B | https:/ | James B | https:/ |
+| /en.wik |        | /en.wik | 4, 1857 | 4, 1861 | /upload | uchanan | /en.wik | uchanan | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | .jpg    | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org |         | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/James |
+| of_Pres |        | dency_o |         |         | dia/com |         | James_B |         | _Buchan |
+| idents_ |        | f_James |         |         | mons/th |         | uchanan |         | an      |
+| of_the_ |        | _Buchan |         |         | umb/f/f |         | .jpg    |         |         |
+| United_ |        | an      |         |         | d/James |         |         |         |         |
+| States  |        |         |         |         | _Buchan |         |         |         |         |
+|         |        |         |         |         | an.jpg/ |         |         |         |         |
+|         |        |         |         |         | 165px-J |         |         |         |         |
+|         |        |         |         |         | ames_Bu |         |         |         |         |
+|         |        |         |         |         | chanan. |         |         |         |         |
+|         |        |         |         |         | jpg     |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 16     | https:/ | March   | April   | https:/ | Abraham | https:/ | Abraham | https:/ |
+| /en.wik |        | /en.wik | 4, 1861 | 15,     | /upload | Lincoln | /en.wik | Lincoln | /en.wik |
+| ipedia. |        | ipedia. |         | 1865    | .wikime | O-77    | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | matte c | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | ollodio | i/File: |         | i/Abrah |
+| of_Pres |        | dency_o |         |         | dia/com | n print | Abraham |         | am_Linc |
+| idents_ |        | f_Abrah |         |         | mons/th | .jpg    | _Lincol |         | oln     |
+| of_the_ |        | am_Linc |         |         | umb/a/a |         | n_O-77_ |         |         |
+| United_ |        | oln     |         |         | b/Abrah |         | matte_c |         |         |
+| States  |        |         |         |         | am_Linc |         | ollodio |         |         |
+|         |        |         |         |         | oln_O-7 |         | n_print |         |         |
+|         |        |         |         |         | 7_matte |         | .jpg    |         |         |
+|         |        |         |         |         | _collod |         |         |         |         |
+|         |        |         |         |         | ion_pri |         |         |         |         |
+|         |        |         |         |         | nt.jpg/ |         |         |         |         |
+|         |        |         |         |         | 165px-A |         |         |         |         |
+|         |        |         |         |         | braham_ |         |         |         |         |
+|         |        |         |         |         | Lincoln |         |         |         |         |
+|         |        |         |         |         | _O-77_m |         |         |         |         |
+|         |        |         |         |         | atte_co |         |         |         |         |
+|         |        |         |         |         | llodion |         |         |         |         |
+|         |        |         |         |         | _print. |         |         |         |         |
+|         |        |         |         |         | jpg     |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 16     | https:/ | March   | April   | https:/ | Abraham | https:/ | Abraham | https:/ |
+| /en.wik |        | /en.wik | 4, 1861 | 15,     | /upload | Lincoln | /en.wik | Lincoln | /en.wik |
+| ipedia. |        | ipedia. |         | 1865    | .wikime | O-77    | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | matte c | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | ollodio | i/File: |         | i/Abrah |
+| of_Pres |        | dency_o |         |         | dia/com | n print | Abraham |         | am_Linc |
+| idents_ |        | f_Abrah |         |         | mons/th | .jpg    | _Lincol |         | oln     |
+| of_the_ |        | am_Linc |         |         | umb/a/a |         | n_O-77_ |         |         |
+| United_ |        | oln     |         |         | b/Abrah |         | matte_c |         |         |
+| States  |        |         |         |         | am_Linc |         | ollodio |         |         |
+|         |        |         |         |         | oln_O-7 |         | n_print |         |         |
+|         |        |         |         |         | 7_matte |         | .jpg    |         |         |
+|         |        |         |         |         | _collod |         |         |         |         |
+|         |        |         |         |         | ion_pri |         |         |         |         |
+|         |        |         |         |         | nt.jpg/ |         |         |         |         |
+|         |        |         |         |         | 165px-A |         |         |         |         |
+|         |        |         |         |         | braham_ |         |         |         |         |
+|         |        |         |         |         | Lincoln |         |         |         |         |
+|         |        |         |         |         | _O-77_m |         |         |         |         |
+|         |        |         |         |         | atte_co |         |         |         |         |
+|         |        |         |         |         | llodion |         |         |         |         |
+|         |        |         |         |         | _print. |         |         |         |         |
+|         |        |         |         |         | jpg     |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 17     | https:/ | April   | March   | https:/ | Andrew  | https:/ | Andrew  | https:/ |
+| /en.wik |        | /en.wik | 15,     | 4, 1869 | /upload | Johnson | /en.wik | Johnson | /en.wik |
+| ipedia. |        | ipedia. | 1865    |         | .wikime | photo p | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | ortrait | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | head    | i/File: |         | i/Andre |
+| of_Pres |        | dency_o |         |         | dia/com | and sho | Andrew_ |         | w_Johns |
+| idents_ |        | f_Andre |         |         | mons/th | ulders, | Johnson |         | on      |
+| of_the_ |        | w_Johns |         |         | umb/e/e | c1870-1 | _photo_ |         |         |
+| United_ |        | on      |         |         | 6/Andre | 880-Edi | portrai |         |         |
+| States  |        |         |         |         | w_Johns | t1.jpg  | t_head_ |         |         |
+|         |        |         |         |         | on_phot |         | and_sho |         |         |
+|         |        |         |         |         | o_portr |         | ulders, |         |         |
+|         |        |         |         |         | ait_hea |         | _c1870- |         |         |
+|         |        |         |         |         | d_and_s |         | 1880-Ed |         |         |
+|         |        |         |         |         | houlder |         | it1.jpg |         |         |
+|         |        |         |         |         | s%2C_c1 |         |         |         |         |
+|         |        |         |         |         | 870-188 |         |         |         |         |
+|         |        |         |         |         | 0-Edit1 |         |         |         |         |
+|         |        |         |         |         | .jpg/16 |         |         |         |         |
+|         |        |         |         |         | 5px-And |         |         |         |         |
+|         |        |         |         |         | rew_Joh |         |         |         |         |
+|         |        |         |         |         | nson_ph |         |         |         |         |
+|         |        |         |         |         | oto_por |         |         |         |         |
+|         |        |         |         |         | trait_h |         |         |         |         |
+|         |        |         |         |         | ead_and |         |         |         |         |
+|         |        |         |         |         | _should |         |         |         |         |
+|         |        |         |         |         | ers%2C_ |         |         |         |         |
+|         |        |         |         |         | c1870-1 |         |         |         |         |
+|         |        |         |         |         | 880-Edi |         |         |         |         |
+|         |        |         |         |         | t1.jpg  |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 17     | https:/ | April   | March   | https:/ | Andrew  | https:/ | Andrew  | https:/ |
+| /en.wik |        | /en.wik | 15,     | 4, 1869 | /upload | Johnson | /en.wik | Johnson | /en.wik |
+| ipedia. |        | ipedia. | 1865    |         | .wikime | photo p | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | ortrait | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | head    | i/File: |         | i/Andre |
+| of_Pres |        | dency_o |         |         | dia/com | and sho | Andrew_ |         | w_Johns |
+| idents_ |        | f_Andre |         |         | mons/th | ulders, | Johnson |         | on      |
+| of_the_ |        | w_Johns |         |         | umb/e/e | c1870-1 | _photo_ |         |         |
+| United_ |        | on      |         |         | 6/Andre | 880-Edi | portrai |         |         |
+| States  |        |         |         |         | w_Johns | t1.jpg  | t_head_ |         |         |
+|         |        |         |         |         | on_phot |         | and_sho |         |         |
+|         |        |         |         |         | o_portr |         | ulders, |         |         |
+|         |        |         |         |         | ait_hea |         | _c1870- |         |         |
+|         |        |         |         |         | d_and_s |         | 1880-Ed |         |         |
+|         |        |         |         |         | houlder |         | it1.jpg |         |         |
+|         |        |         |         |         | s%2C_c1 |         |         |         |         |
+|         |        |         |         |         | 870-188 |         |         |         |         |
+|         |        |         |         |         | 0-Edit1 |         |         |         |         |
+|         |        |         |         |         | .jpg/16 |         |         |         |         |
+|         |        |         |         |         | 5px-And |         |         |         |         |
+|         |        |         |         |         | rew_Joh |         |         |         |         |
+|         |        |         |         |         | nson_ph |         |         |         |         |
+|         |        |         |         |         | oto_por |         |         |         |         |
+|         |        |         |         |         | trait_h |         |         |         |         |
+|         |        |         |         |         | ead_and |         |         |         |         |
+|         |        |         |         |         | _should |         |         |         |         |
+|         |        |         |         |         | ers%2C_ |         |         |         |         |
+|         |        |         |         |         | c1870-1 |         |         |         |         |
+|         |        |         |         |         | 880-Edi |         |         |         |         |
+|         |        |         |         |         | t1.jpg  |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 18     | https:/ | March   | March   | https:/ | Ulysses | https:/ | Ulysses | https:/ |
+| /en.wik |        | /en.wik | 4, 1869 | 4, 1877 | /upload | S Grant | /en.wik | S.      | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | by      | ipedia. | Grant   | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | Brady c | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | 1870-re | i/File: |         | i/Ulyss |
+| of_Pres |        | dency_o |         |         | dia/com | stored. | Ulysses |         | es_S._G |
+| idents_ |        | f_Ulyss |         |         | mons/th | jpg     | _S_Gran |         | rant    |
+| of_the_ |        | es_S._G |         |         | umb/7/7 |         | t_by_Br |         |         |
+| United_ |        | rant    |         |         | 5/Ulyss |         | ady_c18 |         |         |
+| States  |        |         |         |         | es_S_Gr |         | 70-rest |         |         |
+|         |        |         |         |         | ant_by_ |         | ored.jp |         |         |
+|         |        |         |         |         | Brady_c |         | g       |         |         |
+|         |        |         |         |         | 1870-re |         |         |         |         |
+|         |        |         |         |         | stored. |         |         |         |         |
+|         |        |         |         |         | jpg/165 |         |         |         |         |
+|         |        |         |         |         | px-Ulys |         |         |         |         |
+|         |        |         |         |         | ses_S_G |         |         |         |         |
+|         |        |         |         |         | rant_by |         |         |         |         |
+|         |        |         |         |         | _Brady_ |         |         |         |         |
+|         |        |         |         |         | c1870-r |         |         |         |         |
+|         |        |         |         |         | estored |         |         |         |         |
+|         |        |         |         |         | .jpg    |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 18     | https:/ | March   | March   | https:/ | Ulysses | https:/ | Ulysses | https:/ |
+| /en.wik |        | /en.wik | 4, 1869 | 4, 1877 | /upload | S Grant | /en.wik | S.      | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | by      | ipedia. | Grant   | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | Brady c | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | 1870-re | i/File: |         | i/Ulyss |
+| of_Pres |        | dency_o |         |         | dia/com | stored. | Ulysses |         | es_S._G |
+| idents_ |        | f_Ulyss |         |         | mons/th | jpg     | _S_Gran |         | rant    |
+| of_the_ |        | es_S._G |         |         | umb/7/7 |         | t_by_Br |         |         |
+| United_ |        | rant    |         |         | 5/Ulyss |         | ady_c18 |         |         |
+| States  |        |         |         |         | es_S_Gr |         | 70-rest |         |         |
+|         |        |         |         |         | ant_by_ |         | ored.jp |         |         |
+|         |        |         |         |         | Brady_c |         | g       |         |         |
+|         |        |         |         |         | 1870-re |         |         |         |         |
+|         |        |         |         |         | stored. |         |         |         |         |
+|         |        |         |         |         | jpg/165 |         |         |         |         |
+|         |        |         |         |         | px-Ulys |         |         |         |         |
+|         |        |         |         |         | ses_S_G |         |         |         |         |
+|         |        |         |         |         | rant_by |         |         |         |         |
+|         |        |         |         |         | _Brady_ |         |         |         |         |
+|         |        |         |         |         | c1870-r |         |         |         |         |
+|         |        |         |         |         | estored |         |         |         |         |
+|         |        |         |         |         | .jpg    |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 18     | https:/ | March   | March   | https:/ | Ulysses | https:/ | Ulysses | https:/ |
+| /en.wik |        | /en.wik | 4, 1869 | 4, 1877 | /upload | S Grant | /en.wik | S.      | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | by      | ipedia. | Grant   | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | Brady c | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | 1870-re | i/File: |         | i/Ulyss |
+| of_Pres |        | dency_o |         |         | dia/com | stored. | Ulysses |         | es_S._G |
+| idents_ |        | f_Ulyss |         |         | mons/th | jpg     | _S_Gran |         | rant    |
+| of_the_ |        | es_S._G |         |         | umb/7/7 |         | t_by_Br |         |         |
+| United_ |        | rant    |         |         | 5/Ulyss |         | ady_c18 |         |         |
+| States  |        |         |         |         | es_S_Gr |         | 70-rest |         |         |
+|         |        |         |         |         | ant_by_ |         | ored.jp |         |         |
+|         |        |         |         |         | Brady_c |         | g       |         |         |
+|         |        |         |         |         | 1870-re |         |         |         |         |
+|         |        |         |         |         | stored. |         |         |         |         |
+|         |        |         |         |         | jpg/165 |         |         |         |         |
+|         |        |         |         |         | px-Ulys |         |         |         |         |
+|         |        |         |         |         | ses_S_G |         |         |         |         |
+|         |        |         |         |         | rant_by |         |         |         |         |
+|         |        |         |         |         | _Brady_ |         |         |         |         |
+|         |        |         |         |         | c1870-r |         |         |         |         |
+|         |        |         |         |         | estored |         |         |         |         |
+|         |        |         |         |         | .jpg    |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 19     | https:/ | March   | March   | https:/ | Preside | https:/ | Rutherf | https:/ |
+| /en.wik |        | /en.wik | 4, 1877 | 4, 1881 | /upload | nt Ruth | /en.wik | ord B.  | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | erford  | ipedia. | Hayes   | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | Hayes   | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | 1870 -  | i/File: |         | i/Ruthe |
+| of_Pres |        | dency_o |         |         | dia/com | 1880 Re | Preside |         | rford_B |
+| idents_ |        | f_Ruthe |         |         | mons/th | stored. | nt_Ruth |         | ._Hayes |
+| of_the_ |        | rford_B |         |         | umb/5/5 | jpg     | erford_ |         |         |
+| United_ |        | ._Hayes |         |         | 0/Presi |         | Hayes_1 |         |         |
+| States  |        |         |         |         | dent_Ru |         | 870_-_1 |         |         |
+|         |        |         |         |         | therfor |         | 880_Res |         |         |
+|         |        |         |         |         | d_Hayes |         | tored.j |         |         |
+|         |        |         |         |         | _1870_- |         | pg      |         |         |
+|         |        |         |         |         | _1880_R |         |         |         |         |
+|         |        |         |         |         | estored |         |         |         |         |
+|         |        |         |         |         | .jpg/16 |         |         |         |         |
+|         |        |         |         |         | 5px-Pre |         |         |         |         |
+|         |        |         |         |         | sident_ |         |         |         |         |
+|         |        |         |         |         | Rutherf |         |         |         |         |
+|         |        |         |         |         | ord_Hay |         |         |         |         |
+|         |        |         |         |         | es_1870 |         |         |         |         |
+|         |        |         |         |         | _-_1880 |         |         |         |         |
+|         |        |         |         |         | _Restor |         |         |         |         |
+|         |        |         |         |         | ed.jpg  |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ |        |         | March   | Septemb | https:/ | James   | https:/ | James   | https:/ |
+| /en.wik |        |         | 4, 1881 | er 19,  | /upload | Abram G | /en.wik | A. Garf | /en.wik |
+| ipedia. |        |         |         | 1881    | .wikime | arfield | ipedia. | ield    | ipedia. |
+| org/wik |        |         |         |         | dia.org | , photo | org/wik |         | org/wik |
+| i/List_ |        |         |         |         | /wikipe | portrai | i/File: |         | i/James |
+| of_Pres |        |         |         |         | dia/com | t seate | James_A |         | _A._Gar |
+| idents_ |        |         |         |         | mons/th | d.jpg   | bram_Ga |         | field   |
+| of_the_ |        |         |         |         | umb/1/1 |         | rfield, |         |         |
+| United_ |        |         |         |         | f/James |         | _photo_ |         |         |
+| States  |        |         |         |         | _Abram_ |         | portrai |         |         |
+|         |        |         |         |         | Garfiel |         | t_seate |         |         |
+|         |        |         |         |         | d%2C_ph |         | d.jpg   |         |         |
+|         |        |         |         |         | oto_por |         |         |         |         |
+|         |        |         |         |         | trait_s |         |         |         |         |
+|         |        |         |         |         | eated.j |         |         |         |         |
+|         |        |         |         |         | pg/165p |         |         |         |         |
+|         |        |         |         |         | x-James |         |         |         |         |
+|         |        |         |         |         | _Abram_ |         |         |         |         |
+|         |        |         |         |         | Garfiel |         |         |         |         |
+|         |        |         |         |         | d%2C_ph |         |         |         |         |
+|         |        |         |         |         | oto_por |         |         |         |         |
+|         |        |         |         |         | trait_s |         |         |         |         |
+|         |        |         |         |         | eated.j |         |         |         |         |
+|         |        |         |         |         | pg      |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 21     | https:/ | Septemb | March   | https:/ | Chester | https:/ | Chester | https:/ |
+| /en.wik |        | /en.wik | er 19,  | 4, 1885 | /upload | Alan Ar | /en.wik | A.      | /en.wik |
+| ipedia. |        | ipedia. | 1881    |         | .wikime | thur.jp | ipedia. | Arthur  | ipedia. |
+| org/wik |        | org/wik |  [p]    |         | dia.org | g       | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Chest |
+| of_Pres |        | dency_o |         |         | dia/com |         | Chester |         | er_A._A |
+| idents_ |        | f_Chest |         |         | mons/th |         | _Alan_A |         | rthur   |
+| of_the_ |        | er_A._A |         |         | umb/7/7 |         | rthur.j |         |         |
+| United_ |        | rthur   |         |         | 9/Chest |         | pg      |         |         |
+| States  |        |         |         |         | er_Alan |         |         |         |         |
+|         |        |         |         |         | _Arthur |         |         |         |         |
+|         |        |         |         |         | .jpg/16 |         |         |         |         |
+|         |        |         |         |         | 5px-Che |         |         |         |         |
+|         |        |         |         |         | ster_Al |         |         |         |         |
+|         |        |         |         |         | an_Arth |         |         |         |         |
+|         |        |         |         |         | ur.jpg  |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 22     | https:/ | March   | March   | https:/ | Grover  | https:/ | Grover  | https:/ |
+| /en.wik |        | /en.wik | 4, 1885 | 4, 1889 | /upload | Clevela | /en.wik | Clevela | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | nd -    | ipedia. | nd      | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | NARA -  | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | 518139  | i/File: |         | i/Grove |
+| of_Pres |        | dencies |         |         | dia/com | (croppe | Grover_ |         | r_Cleve |
+| idents_ |        | _of_Gro |         |         | mons/th | d).jpg  | Clevela |         | land    |
+| of_the_ |        | ver_Cle |         |         | umb/f/f |         | nd_-_NA |         |         |
+| United_ |        | veland  |         |         | 3/Grove |         | RA_-_51 |         |         |
+| States  |        |         |         |         | r_Cleve |         | 8139_(c |         |         |
+|         |        |         |         |         | land_-_ |         | ropped) |         |         |
+|         |        |         |         |         | NARA_-_ |         | .jpg    |         |         |
+|         |        |         |         |         | 518139_ |         |         |         |         |
+|         |        |         |         |         | %28crop |         |         |         |         |
+|         |        |         |         |         | ped%29. |         |         |         |         |
+|         |        |         |         |         | jpg/165 |         |         |         |         |
+|         |        |         |         |         | px-Grov |         |         |         |         |
+|         |        |         |         |         | er_Clev |         |         |         |         |
+|         |        |         |         |         | eland_- |         |         |         |         |
+|         |        |         |         |         | _NARA_- |         |         |         |         |
+|         |        |         |         |         | _518139 |         |         |         |         |
+|         |        |         |         |         | _%28cro |         |         |         |         |
+|         |        |         |         |         | pped%29 |         |         |         |         |
+|         |        |         |         |         | .jpg    |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 22     | https:/ | March   | March   | https:/ | Grover  | https:/ | Grover  | https:/ |
+| /en.wik |        | /en.wik | 4, 1885 | 4, 1889 | /upload | Clevela | /en.wik | Clevela | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | nd -    | ipedia. | nd      | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | NARA -  | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | 518139  | i/File: |         | i/Grove |
+| of_Pres |        | dencies |         |         | dia/com | (croppe | Grover_ |         | r_Cleve |
+| idents_ |        | _of_Gro |         |         | mons/th | d).jpg  | Clevela |         | land    |
+| of_the_ |        | ver_Cle |         |         | umb/f/f |         | nd_-_NA |         |         |
+| United_ |        | veland  |         |         | 3/Grove |         | RA_-_51 |         |         |
+| States  |        |         |         |         | r_Cleve |         | 8139_(c |         |         |
+|         |        |         |         |         | land_-_ |         | ropped) |         |         |
+|         |        |         |         |         | NARA_-_ |         | .jpg    |         |         |
+|         |        |         |         |         | 518139_ |         |         |         |         |
+|         |        |         |         |         | %28crop |         |         |         |         |
+|         |        |         |         |         | ped%29. |         |         |         |         |
+|         |        |         |         |         | jpg/165 |         |         |         |         |
+|         |        |         |         |         | px-Grov |         |         |         |         |
+|         |        |         |         |         | er_Clev |         |         |         |         |
+|         |        |         |         |         | eland_- |         |         |         |         |
+|         |        |         |         |         | _NARA_- |         |         |         |         |
+|         |        |         |         |         | _518139 |         |         |         |         |
+|         |        |         |         |         | _%28cro |         |         |         |         |
+|         |        |         |         |         | pped%29 |         |         |         |         |
+|         |        |         |         |         | .jpg    |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 23     | https:/ | March   | March   | https:/ | Benjami | https:/ | Benjami | https:/ |
+| /en.wik |        | /en.wik | 4, 1889 | 4, 1893 | /upload | n Harri | /en.wik | n Harri | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | son,    | ipedia. | son     | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | head    | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | and sho | i/File: |         | i/Benja |
+| of_Pres |        | dency_o |         |         | dia/com | ulders  | Benjami |         | min_Har |
+| idents_ |        | f_Benja |         |         | mons/th | bw      | n_Harri |         | rison   |
+| of_the_ |        | min_Har |         |         | umb/f/f | photo,  | son,_he |         |         |
+| United_ |        | rison   |         |         | 8/Benja | 1896.jp | ad_and_ |         |         |
+| States  |        |         |         |         | min_Har | g       | shoulde |         |         |
+|         |        |         |         |         | rison%2 |         | rs_bw_p |         |         |
+|         |        |         |         |         | C_head_ |         | hoto,_1 |         |         |
+|         |        |         |         |         | and_sho |         | 896.jpg |         |         |
+|         |        |         |         |         | ulders_ |         |         |         |         |
+|         |        |         |         |         | bw_phot |         |         |         |         |
+|         |        |         |         |         | o%2C_18 |         |         |         |         |
+|         |        |         |         |         | 96.jpg/ |         |         |         |         |
+|         |        |         |         |         | 165px-B |         |         |         |         |
+|         |        |         |         |         | enjamin |         |         |         |         |
+|         |        |         |         |         | _Harris |         |         |         |         |
+|         |        |         |         |         | on%2C_h |         |         |         |         |
+|         |        |         |         |         | ead_and |         |         |         |         |
+|         |        |         |         |         | _should |         |         |         |         |
+|         |        |         |         |         | ers_bw_ |         |         |         |         |
+|         |        |         |         |         | photo%2 |         |         |         |         |
+|         |        |         |         |         | C_1896. |         |         |         |         |
+|         |        |         |         |         | jpg     |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 24     | https:/ | March   | March   | https:/ | Grover  | https:/ | Grover  | https:/ |
+| /en.wik |        | /en.wik | 4, 1893 | 4, 1897 | /upload | Clevela | /en.wik | Clevela | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | nd -    | ipedia. | nd      | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | NARA -  | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | 518139  | i/File: |         | i/Grove |
+| of_Pres |        | dencies |         |         | dia/com | (croppe | Grover_ |         | r_Cleve |
+| idents_ |        | _of_Gro |         |         | mons/th | d).jpg  | Clevela |         | land    |
+| of_the_ |        | ver_Cle |         |         | umb/f/f |         | nd_-_NA |         |         |
+| United_ |        | veland  |         |         | 3/Grove |         | RA_-_51 |         |         |
+| States  |        |         |         |         | r_Cleve |         | 8139_(c |         |         |
+|         |        |         |         |         | land_-_ |         | ropped) |         |         |
+|         |        |         |         |         | NARA_-_ |         | .jpg    |         |         |
+|         |        |         |         |         | 518139_ |         |         |         |         |
+|         |        |         |         |         | %28crop |         |         |         |         |
+|         |        |         |         |         | ped%29. |         |         |         |         |
+|         |        |         |         |         | jpg/165 |         |         |         |         |
+|         |        |         |         |         | px-Grov |         |         |         |         |
+|         |        |         |         |         | er_Clev |         |         |         |         |
+|         |        |         |         |         | eland_- |         |         |         |         |
+|         |        |         |         |         | _NARA_- |         |         |         |         |
+|         |        |         |         |         | _518139 |         |         |         |         |
+|         |        |         |         |         | _%28cro |         |         |         |         |
+|         |        |         |         |         | pped%29 |         |         |         |         |
+|         |        |         |         |         | .jpg    |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 25     | https:/ | March   | Septemb | https:/ | Mckinle | https:/ | William | https:/ |
+| /en.wik |        | /en.wik | 4, 1897 | er 14,  | /upload | y.jpg   | /en.wik | McKinle | /en.wik |
+| ipedia. |        | ipedia. |         | 1901    | .wikime |         | ipedia. | y       | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org |         | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Willi |
+| of_Pres |        | dency_o |         |         | dia/com |         | Mckinle |         | am_McKi |
+| idents_ |        | f_Willi |         |         | mons/th |         | y.jpg   |         | nley    |
+| of_the_ |        | am_McKi |         |         | umb/6/6 |         |         |         |         |
+| United_ |        | nley    |         |         | d/Mckin |         |         |         |         |
+| States  |        |         |         |         | ley.jpg |         |         |         |         |
+|         |        |         |         |         | /165px- |         |         |         |         |
+|         |        |         |         |         | Mckinle |         |         |         |         |
+|         |        |         |         |         | y.jpg   |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 25     | https:/ | March   | Septemb | https:/ | Mckinle | https:/ | William | https:/ |
+| /en.wik |        | /en.wik | 4, 1897 | er 14,  | /upload | y.jpg   | /en.wik | McKinle | /en.wik |
+| ipedia. |        | ipedia. |         | 1901    | .wikime |         | ipedia. | y       | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org |         | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Willi |
+| of_Pres |        | dency_o |         |         | dia/com |         | Mckinle |         | am_McKi |
+| idents_ |        | f_Willi |         |         | mons/th |         | y.jpg   |         | nley    |
+| of_the_ |        | am_McKi |         |         | umb/6/6 |         |         |         |         |
+| United_ |        | nley    |         |         | d/Mckin |         |         |         |         |
+| States  |        |         |         |         | ley.jpg |         |         |         |         |
+|         |        |         |         |         | /165px- |         |         |         |         |
+|         |        |         |         |         | Mckinle |         |         |         |         |
+|         |        |         |         |         | y.jpg   |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 25     | https:/ | March   | Septemb | https:/ | Mckinle | https:/ | William | https:/ |
+| /en.wik |        | /en.wik | 4, 1897 | er 14,  | /upload | y.jpg   | /en.wik | McKinle | /en.wik |
+| ipedia. |        | ipedia. |         | 1901    | .wikime |         | ipedia. | y       | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org |         | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Willi |
+| of_Pres |        | dency_o |         |         | dia/com |         | Mckinle |         | am_McKi |
+| idents_ |        | f_Willi |         |         | mons/th |         | y.jpg   |         | nley    |
+| of_the_ |        | am_McKi |         |         | umb/6/6 |         |         |         |         |
+| United_ |        | nley    |         |         | d/Mckin |         |         |         |         |
+| States  |        |         |         |         | ley.jpg |         |         |         |         |
+|         |        |         |         |         | /165px- |         |         |         |         |
+|         |        |         |         |         | Mckinle |         |         |         |         |
+|         |        |         |         |         | y.jpg   |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 26     | https:/ | Septemb | March   | https:/ | Preside | https:/ | Theodor | https:/ |
+| /en.wik |        | /en.wik | er 14,  | 4, 1909 | /upload | nt Roos | /en.wik | e Roose | /en.wik |
+| ipedia. |        | ipedia. | 1901    |         | .wikime | evelt - | ipedia. | velt    | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | Pach Br | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | os.tif  | i/File: |         | i/Theod |
+| of_Pres |        | dency_o |         |         | dia/com |         | Preside |         | ore_Roo |
+| idents_ |        | f_Theod |         |         | mons/th |         | nt_Roos |         | sevelt  |
+| of_the_ |        | ore_Roo |         |         | umb/4/4 |         | evelt_- |         |         |
+| United_ |        | sevelt  |         |         | 2/Presi |         | _Pach_B |         |         |
+| States  |        |         |         |         | dent_Ro |         | ros.tif |         |         |
+|         |        |         |         |         | osevelt |         |         |         |         |
+|         |        |         |         |         | _-_Pach |         |         |         |         |
+|         |        |         |         |         | _Bros.t |         |         |         |         |
+|         |        |         |         |         | if/loss |         |         |         |         |
+|         |        |         |         |         | y-page1 |         |         |         |         |
+|         |        |         |         |         | -165px- |         |         |         |         |
+|         |        |         |         |         | Preside |         |         |         |         |
+|         |        |         |         |         | nt_Roos |         |         |         |         |
+|         |        |         |         |         | evelt_- |         |         |         |         |
+|         |        |         |         |         | _Pach_B |         |         |         |         |
+|         |        |         |         |         | ros.tif |         |         |         |         |
+|         |        |         |         |         | .jpg    |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 26     | https:/ | Septemb | March   | https:/ | Preside | https:/ | Theodor | https:/ |
+| /en.wik |        | /en.wik | er 14,  | 4, 1909 | /upload | nt Roos | /en.wik | e Roose | /en.wik |
+| ipedia. |        | ipedia. | 1901    |         | .wikime | evelt - | ipedia. | velt    | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | Pach Br | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | os.tif  | i/File: |         | i/Theod |
+| of_Pres |        | dency_o |         |         | dia/com |         | Preside |         | ore_Roo |
+| idents_ |        | f_Theod |         |         | mons/th |         | nt_Roos |         | sevelt  |
+| of_the_ |        | ore_Roo |         |         | umb/4/4 |         | evelt_- |         |         |
+| United_ |        | sevelt  |         |         | 2/Presi |         | _Pach_B |         |         |
+| States  |        |         |         |         | dent_Ro |         | ros.tif |         |         |
+|         |        |         |         |         | osevelt |         |         |         |         |
+|         |        |         |         |         | _-_Pach |         |         |         |         |
+|         |        |         |         |         | _Bros.t |         |         |         |         |
+|         |        |         |         |         | if/loss |         |         |         |         |
+|         |        |         |         |         | y-page1 |         |         |         |         |
+|         |        |         |         |         | -165px- |         |         |         |         |
+|         |        |         |         |         | Preside |         |         |         |         |
+|         |        |         |         |         | nt_Roos |         |         |         |         |
+|         |        |         |         |         | evelt_- |         |         |         |         |
+|         |        |         |         |         | _Pach_B |         |         |         |         |
+|         |        |         |         |         | ros.tif |         |         |         |         |
+|         |        |         |         |         | .jpg    |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 27     | https:/ | March   | March   | https:/ | William | https:/ | William | https:/ |
+| /en.wik |        | /en.wik | 4, 1909 | 4, 1913 | /upload | Howard  | /en.wik | Howard  | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | Taft,   | ipedia. | Taft    | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | head-   | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | and-sho | i/File: |         | i/Willi |
+| of_Pres |        | dency_o |         |         | dia/com | ulders  | William |         | am_Howa |
+| idents_ |        | f_Willi |         |         | mons/th | portrai | _Howard |         | rd_Taft |
+| of_the_ |        | am_Howa |         |         | umb/e/e | t,      | _Taft,_ |         |         |
+| United_ |        | rd_Taft |         |         | 5/Willi | facing  | head-   |         |         |
+| States  |        |         |         |         | am_Howa | front.t | and-sho |         |         |
+|         |        |         |         |         | rd_Taft | if      | ulders_ |         |         |
+|         |        |         |         |         | %2C_hea |         | portrai |         |         |
+|         |        |         |         |         | d-and-s |         | t,_faci |         |         |
+|         |        |         |         |         | houlder |         | ng_fron |         |         |
+|         |        |         |         |         | s_portr |         | t.tif   |         |         |
+|         |        |         |         |         | ait%2C_ |         |         |         |         |
+|         |        |         |         |         | facing_ |         |         |         |         |
+|         |        |         |         |         | front.t |         |         |         |         |
+|         |        |         |         |         | if/loss |         |         |         |         |
+|         |        |         |         |         | y-page1 |         |         |         |         |
+|         |        |         |         |         | -165px- |         |         |         |         |
+|         |        |         |         |         | William |         |         |         |         |
+|         |        |         |         |         | _Howard |         |         |         |         |
+|         |        |         |         |         | _Taft%2 |         |         |         |         |
+|         |        |         |         |         | C_head- |         |         |         |         |
+|         |        |         |         |         | and-sho |         |         |         |         |
+|         |        |         |         |         | ulders_ |         |         |         |         |
+|         |        |         |         |         | portrai |         |         |         |         |
+|         |        |         |         |         | t%2C_fa |         |         |         |         |
+|         |        |         |         |         | cing_fr |         |         |         |         |
+|         |        |         |         |         | ont.tif |         |         |         |         |
+|         |        |         |         |         | .jpg    |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 27     | https:/ | March   | March   | https:/ | William | https:/ | William | https:/ |
+| /en.wik |        | /en.wik | 4, 1909 | 4, 1913 | /upload | Howard  | /en.wik | Howard  | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | Taft,   | ipedia. | Taft    | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | head-   | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | and-sho | i/File: |         | i/Willi |
+| of_Pres |        | dency_o |         |         | dia/com | ulders  | William |         | am_Howa |
+| idents_ |        | f_Willi |         |         | mons/th | portrai | _Howard |         | rd_Taft |
+| of_the_ |        | am_Howa |         |         | umb/e/e | t,      | _Taft,_ |         |         |
+| United_ |        | rd_Taft |         |         | 5/Willi | facing  | head-   |         |         |
+| States  |        |         |         |         | am_Howa | front.t | and-sho |         |         |
+|         |        |         |         |         | rd_Taft | if      | ulders_ |         |         |
+|         |        |         |         |         | %2C_hea |         | portrai |         |         |
+|         |        |         |         |         | d-and-s |         | t,_faci |         |         |
+|         |        |         |         |         | houlder |         | ng_fron |         |         |
+|         |        |         |         |         | s_portr |         | t.tif   |         |         |
+|         |        |         |         |         | ait%2C_ |         |         |         |         |
+|         |        |         |         |         | facing_ |         |         |         |         |
+|         |        |         |         |         | front.t |         |         |         |         |
+|         |        |         |         |         | if/loss |         |         |         |         |
+|         |        |         |         |         | y-page1 |         |         |         |         |
+|         |        |         |         |         | -165px- |         |         |         |         |
+|         |        |         |         |         | William |         |         |         |         |
+|         |        |         |         |         | _Howard |         |         |         |         |
+|         |        |         |         |         | _Taft%2 |         |         |         |         |
+|         |        |         |         |         | C_head- |         |         |         |         |
+|         |        |         |         |         | and-sho |         |         |         |         |
+|         |        |         |         |         | ulders_ |         |         |         |         |
+|         |        |         |         |         | portrai |         |         |         |         |
+|         |        |         |         |         | t%2C_fa |         |         |         |         |
+|         |        |         |         |         | cing_fr |         |         |         |         |
+|         |        |         |         |         | ont.tif |         |         |         |         |
+|         |        |         |         |         | .jpg    |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 28     | https:/ | March   | March   | https:/ | Woodrow | https:/ | Woodrow | https:/ |
+| /en.wik |        | /en.wik | 4, 1913 | 4, 1921 | /upload | Wilson- | /en.wik | Wilson  | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | H&E.jpg | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org |         | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Woodr |
+| of_Pres |        | dency_o |         |         | dia/com |         | Woodrow |         | ow_Wils |
+| idents_ |        | f_Woodr |         |         | mons/th |         | _Wilson |         | on      |
+| of_the_ |        | ow_Wils |         |         | umb/4/4 |         | -H%26E. |         |         |
+| United_ |        | on      |         |         | d/Woodr |         | jpg     |         |         |
+| States  |        |         |         |         | ow_Wils |         |         |         |         |
+|         |        |         |         |         | on-H%26 |         |         |         |         |
+|         |        |         |         |         | E.jpg/1 |         |         |         |         |
+|         |        |         |         |         | 65px-Wo |         |         |         |         |
+|         |        |         |         |         | odrow_W |         |         |         |         |
+|         |        |         |         |         | ilson-H |         |         |         |         |
+|         |        |         |         |         | %26E.jp |         |         |         |         |
+|         |        |         |         |         | g       |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 28     | https:/ | March   | March   | https:/ | Woodrow | https:/ | Woodrow | https:/ |
+| /en.wik |        | /en.wik | 4, 1913 | 4, 1921 | /upload | Wilson- | /en.wik | Wilson  | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | H&E.jpg | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org |         | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Woodr |
+| of_Pres |        | dency_o |         |         | dia/com |         | Woodrow |         | ow_Wils |
+| idents_ |        | f_Woodr |         |         | mons/th |         | _Wilson |         | on      |
+| of_the_ |        | ow_Wils |         |         | umb/4/4 |         | -H%26E. |         |         |
+| United_ |        | on      |         |         | d/Woodr |         | jpg     |         |         |
+| States  |        |         |         |         | ow_Wils |         |         |         |         |
+|         |        |         |         |         | on-H%26 |         |         |         |         |
+|         |        |         |         |         | E.jpg/1 |         |         |         |         |
+|         |        |         |         |         | 65px-Wo |         |         |         |         |
+|         |        |         |         |         | odrow_W |         |         |         |         |
+|         |        |         |         |         | ilson-H |         |         |         |         |
+|         |        |         |         |         | %26E.jp |         |         |         |         |
+|         |        |         |         |         | g       |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 29     | https:/ | March   | August  | https:/ | Warren  | https:/ | Warren  | https:/ |
+| /en.wik |        | /en.wik | 4, 1921 | 2, 1923 | /upload | G Hardi | /en.wik | G.      | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | ng-     | ipedia. | Harding | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | Harris  | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | & Ewing | i/File: |         | i/Warre |
+| of_Pres |        | dency_o |         |         | dia/com | .jpg    | Warren_ |         | n_G._Ha |
+| idents_ |        | f_Warre |         |         | mons/th |         | G_Hardi |         | rding   |
+| of_the_ |        | n_G._Ha |         |         | umb/c/c |         | ng-Harr |         |         |
+| United_ |        | rding   |         |         | 4/Warre |         | is_%26_ |         |         |
+| States  |        |         |         |         | n_G_Har |         | Ewing.j |         |         |
+|         |        |         |         |         | ding-Ha |         | pg      |         |         |
+|         |        |         |         |         | rris_%2 |         |         |         |         |
+|         |        |         |         |         | 6_Ewing |         |         |         |         |
+|         |        |         |         |         | .jpg/16 |         |         |         |         |
+|         |        |         |         |         | 5px-War |         |         |         |         |
+|         |        |         |         |         | ren_G_H |         |         |         |         |
+|         |        |         |         |         | arding- |         |         |         |         |
+|         |        |         |         |         | Harris_ |         |         |         |         |
+|         |        |         |         |         | %26_Ewi |         |         |         |         |
+|         |        |         |         |         | ng.jpg  |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 30     | https:/ | August  | March   | https:/ | Calvin  | https:/ | Calvin  | https:/ |
+| /en.wik |        | /en.wik | 2, 1923 | 4, 1929 | /upload | Coolidg | /en.wik | Coolidg | /en.wik |
+| ipedia. |        | ipedia. |  [q]    |         | .wikime | e, bw   | ipedia. | e       | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | head    | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | and sho | i/File: |         | i/Calvi |
+| of_Pres |        | dency_o |         |         | dia/com | ulders  | Calvin_ |         | n_Cooli |
+| idents_ |        | f_Calvi |         |         | mons/th | photo p | Coolidg |         | dge     |
+| of_the_ |        | n_Cooli |         |         | umb/3/3 | ortrait | e,_bw_h |         |         |
+| United_ |        | dge     |         |         | 7/Calvi | seated, | ead_and |         |         |
+| States  |        |         |         |         | n_Cooli | 1919.jp | _should |         |         |
+|         |        |         |         |         | dge%2C_ | g       | ers_pho |         |         |
+|         |        |         |         |         | bw_head |         | to_port |         |         |
+|         |        |         |         |         | _and_sh |         | rait_se |         |         |
+|         |        |         |         |         | oulders |         | ated,_1 |         |         |
+|         |        |         |         |         | _photo_ |         | 919.jpg |         |         |
+|         |        |         |         |         | portrai |         |         |         |         |
+|         |        |         |         |         | t_seate |         |         |         |         |
+|         |        |         |         |         | d%2C_19 |         |         |         |         |
+|         |        |         |         |         | 19.jpg/ |         |         |         |         |
+|         |        |         |         |         | 165px-C |         |         |         |         |
+|         |        |         |         |         | alvin_C |         |         |         |         |
+|         |        |         |         |         | oolidge |         |         |         |         |
+|         |        |         |         |         | %2C_bw_ |         |         |         |         |
+|         |        |         |         |         | head_an |         |         |         |         |
+|         |        |         |         |         | d_shoul |         |         |         |         |
+|         |        |         |         |         | ders_ph |         |         |         |         |
+|         |        |         |         |         | oto_por |         |         |         |         |
+|         |        |         |         |         | trait_s |         |         |         |         |
+|         |        |         |         |         | eated%2 |         |         |         |         |
+|         |        |         |         |         | C_1919. |         |         |         |         |
+|         |        |         |         |         | jpg     |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 30     | https:/ | August  | March   | https:/ | Calvin  | https:/ | Calvin  | https:/ |
+| /en.wik |        | /en.wik | 2, 1923 | 4, 1929 | /upload | Coolidg | /en.wik | Coolidg | /en.wik |
+| ipedia. |        | ipedia. |  [q]    |         | .wikime | e, bw   | ipedia. | e       | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | head    | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | and sho | i/File: |         | i/Calvi |
+| of_Pres |        | dency_o |         |         | dia/com | ulders  | Calvin_ |         | n_Cooli |
+| idents_ |        | f_Calvi |         |         | mons/th | photo p | Coolidg |         | dge     |
+| of_the_ |        | n_Cooli |         |         | umb/3/3 | ortrait | e,_bw_h |         |         |
+| United_ |        | dge     |         |         | 7/Calvi | seated, | ead_and |         |         |
+| States  |        |         |         |         | n_Cooli | 1919.jp | _should |         |         |
+|         |        |         |         |         | dge%2C_ | g       | ers_pho |         |         |
+|         |        |         |         |         | bw_head |         | to_port |         |         |
+|         |        |         |         |         | _and_sh |         | rait_se |         |         |
+|         |        |         |         |         | oulders |         | ated,_1 |         |         |
+|         |        |         |         |         | _photo_ |         | 919.jpg |         |         |
+|         |        |         |         |         | portrai |         |         |         |         |
+|         |        |         |         |         | t_seate |         |         |         |         |
+|         |        |         |         |         | d%2C_19 |         |         |         |         |
+|         |        |         |         |         | 19.jpg/ |         |         |         |         |
+|         |        |         |         |         | 165px-C |         |         |         |         |
+|         |        |         |         |         | alvin_C |         |         |         |         |
+|         |        |         |         |         | oolidge |         |         |         |         |
+|         |        |         |         |         | %2C_bw_ |         |         |         |         |
+|         |        |         |         |         | head_an |         |         |         |         |
+|         |        |         |         |         | d_shoul |         |         |         |         |
+|         |        |         |         |         | ders_ph |         |         |         |         |
+|         |        |         |         |         | oto_por |         |         |         |         |
+|         |        |         |         |         | trait_s |         |         |         |         |
+|         |        |         |         |         | eated%2 |         |         |         |         |
+|         |        |         |         |         | C_1919. |         |         |         |         |
+|         |        |         |         |         | jpg     |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 31     | https:/ | March   | March   | https:/ | Preside | https:/ | Herbert | https:/ |
+| /en.wik |        | /en.wik | 4, 1929 | 4, 1933 | /upload | nt      | /en.wik | Hoover  | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | Hoover  | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | portrai | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | t.tif   | i/File: |         | i/Herbe |
+| of_Pres |        | dency_o |         |         | dia/com |         | Preside |         | rt_Hoov |
+| idents_ |        | f_Herbe |         |         | mons/th |         | nt_Hoov |         | er      |
+| of_the_ |        | rt_Hoov |         |         | umb/3/3 |         | er_port |         |         |
+| United_ |        | er      |         |         | f/Presi |         | rait.ti |         |         |
+| States  |        |         |         |         | dent_Ho |         | f       |         |         |
+|         |        |         |         |         | over_po |         |         |         |         |
+|         |        |         |         |         | rtrait. |         |         |         |         |
+|         |        |         |         |         | tif/los |         |         |         |         |
+|         |        |         |         |         | sy-page |         |         |         |         |
+|         |        |         |         |         | 1-165px |         |         |         |         |
+|         |        |         |         |         | -Presid |         |         |         |         |
+|         |        |         |         |         | ent_Hoo |         |         |         |         |
+|         |        |         |         |         | ver_por |         |         |         |         |
+|         |        |         |         |         | trait.t |         |         |         |         |
+|         |        |         |         |         | if.jpg  |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 32     | https:/ |         |         | https:/ | FDR     | https:/ | Frankli | https:/ |
+| /en.wik |        | /en.wik |         |         | /upload | 1944    | /en.wik | n D. Ro | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | Color P | ipedia. | osevelt | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | ortrait | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | .tif    | i/File: |         | i/Frank |
+| of_Pres |        | dency_o |         |         | dia/com |         | FDR_194 |         | lin_D._ |
+| idents_ |        | f_Frank |         |         | mons/th |         | 4_Color |         | Rooseve |
+| of_the_ |        | lin_D._ |         |         | umb/3/3 |         | _Portra |         | lt      |
+| United_ |        | Rooseve |         |         | 0/FDR_1 |         | it.tif  |         |         |
+| States  |        | lt      |         |         | 944_Col |         |         |         |         |
+|         |        |         |         |         | or_Port |         |         |         |         |
+|         |        |         |         |         | rait.ti |         |         |         |         |
+|         |        |         |         |         | f/lossy |         |         |         |         |
+|         |        |         |         |         | -page1- |         |         |         |         |
+|         |        |         |         |         | 165px-F |         |         |         |         |
+|         |        |         |         |         | DR_1944 |         |         |         |         |
+|         |        |         |         |         | _Color_ |         |         |         |         |
+|         |        |         |         |         | Portrai |         |         |         |         |
+|         |        |         |         |         | t.tif.j |         |         |         |         |
+|         |        |         |         |         | pg      |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 32     | https:/ |         |         | https:/ | FDR     | https:/ | Frankli | https:/ |
+| /en.wik |        | /en.wik |         |         | /upload | 1944    | /en.wik | n D. Ro | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | Color P | ipedia. | osevelt | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | ortrait | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | .tif    | i/File: |         | i/Frank |
+| of_Pres |        | dency_o |         |         | dia/com |         | FDR_194 |         | lin_D._ |
+| idents_ |        | f_Frank |         |         | mons/th |         | 4_Color |         | Rooseve |
+| of_the_ |        | lin_D._ |         |         | umb/3/3 |         | _Portra |         | lt      |
+| United_ |        | Rooseve |         |         | 0/FDR_1 |         | it.tif  |         |         |
+| States  |        | lt      |         |         | 944_Col |         |         |         |         |
+|         |        |         |         |         | or_Port |         |         |         |         |
+|         |        |         |         |         | rait.ti |         |         |         |         |
+|         |        |         |         |         | f/lossy |         |         |         |         |
+|         |        |         |         |         | -page1- |         |         |         |         |
+|         |        |         |         |         | 165px-F |         |         |         |         |
+|         |        |         |         |         | DR_1944 |         |         |         |         |
+|         |        |         |         |         | _Color_ |         |         |         |         |
+|         |        |         |         |         | Portrai |         |         |         |         |
+|         |        |         |         |         | t.tif.j |         |         |         |         |
+|         |        |         |         |         | pg      |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 32     | https:/ |         |         | https:/ | FDR     | https:/ | Frankli | https:/ |
+| /en.wik |        | /en.wik |         |         | /upload | 1944    | /en.wik | n D. Ro | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | Color P | ipedia. | osevelt | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | ortrait | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | .tif    | i/File: |         | i/Frank |
+| of_Pres |        | dency_o |         |         | dia/com |         | FDR_194 |         | lin_D._ |
+| idents_ |        | f_Frank |         |         | mons/th |         | 4_Color |         | Rooseve |
+| of_the_ |        | lin_D._ |         |         | umb/3/3 |         | _Portra |         | lt      |
+| United_ |        | Rooseve |         |         | 0/FDR_1 |         | it.tif  |         |         |
+| States  |        | lt      |         |         | 944_Col |         |         |         |         |
+|         |        |         |         |         | or_Port |         |         |         |         |
+|         |        |         |         |         | rait.ti |         |         |         |         |
+|         |        |         |         |         | f/lossy |         |         |         |         |
+|         |        |         |         |         | -page1- |         |         |         |         |
+|         |        |         |         |         | 165px-F |         |         |         |         |
+|         |        |         |         |         | DR_1944 |         |         |         |         |
+|         |        |         |         |         | _Color_ |         |         |         |         |
+|         |        |         |         |         | Portrai |         |         |         |         |
+|         |        |         |         |         | t.tif.j |         |         |         |         |
+|         |        |         |         |         | pg      |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 32     | https:/ |         |         | https:/ | FDR     | https:/ | Frankli | https:/ |
+| /en.wik |        | /en.wik |         |         | /upload | 1944    | /en.wik | n D. Ro | /en.wik |
+| ipedia. |        | ipedia. |         |         | .wikime | Color P | ipedia. | osevelt | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | ortrait | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | .tif    | i/File: |         | i/Frank |
+| of_Pres |        | dency_o |         |         | dia/com |         | FDR_194 |         | lin_D._ |
+| idents_ |        | f_Frank |         |         | mons/th |         | 4_Color |         | Rooseve |
+| of_the_ |        | lin_D._ |         |         | umb/3/3 |         | _Portra |         | lt      |
+| United_ |        | Rooseve |         |         | 0/FDR_1 |         | it.tif  |         |         |
+| States  |        | lt      |         |         | 944_Col |         |         |         |         |
+|         |        |         |         |         | or_Port |         |         |         |         |
+|         |        |         |         |         | rait.ti |         |         |         |         |
+|         |        |         |         |         | f/lossy |         |         |         |         |
+|         |        |         |         |         | -page1- |         |         |         |         |
+|         |        |         |         |         | 165px-F |         |         |         |         |
+|         |        |         |         |         | DR_1944 |         |         |         |         |
+|         |        |         |         |         | _Color_ |         |         |         |         |
+|         |        |         |         |         | Portrai |         |         |         |         |
+|         |        |         |         |         | t.tif.j |         |         |         |         |
+|         |        |         |         |         | pg      |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 33     | https:/ | April   | January | https:/ | Truman  | https:/ | Harry   | https:/ |
+| /en.wik |        | /en.wik | 12,     | 20,     | /upload | 58-766- | /en.wik | S.      | /en.wik |
+| ipedia. |        | ipedia. | 1945    | 1953    | .wikime | 09.jpg  | ipedia. | Truman  | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org |         | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Harry |
+| of_Pres |        | dency_o |         |         | dia/com |         | Truman_ |         | _S._Tru |
+| idents_ |        | f_Harry |         |         | mons/th |         | 58-766- |         | man     |
+| of_the_ |        | _S._Tru |         |         | umb/1/1 |         | 09.jpg  |         |         |
+| United_ |        | man     |         |         | e/Truma |         |         |         |         |
+| States  |        |         |         |         | n_58-76 |         |         |         |         |
+|         |        |         |         |         | 6-09.jp |         |         |         |         |
+|         |        |         |         |         | g/165px |         |         |         |         |
+|         |        |         |         |         | -Truman |         |         |         |         |
+|         |        |         |         |         | _58-766 |         |         |         |         |
+|         |        |         |         |         | -09.jpg |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 33     | https:/ | April   | January | https:/ | Truman  | https:/ | Harry   | https:/ |
+| /en.wik |        | /en.wik | 12,     | 20,     | /upload | 58-766- | /en.wik | S.      | /en.wik |
+| ipedia. |        | ipedia. | 1945    | 1953    | .wikime | 09.jpg  | ipedia. | Truman  | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org |         | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Harry |
+| of_Pres |        | dency_o |         |         | dia/com |         | Truman_ |         | _S._Tru |
+| idents_ |        | f_Harry |         |         | mons/th |         | 58-766- |         | man     |
+| of_the_ |        | _S._Tru |         |         | umb/1/1 |         | 09.jpg  |         |         |
+| United_ |        | man     |         |         | e/Truma |         |         |         |         |
+| States  |        |         |         |         | n_58-76 |         |         |         |         |
+|         |        |         |         |         | 6-09.jp |         |         |         |         |
+|         |        |         |         |         | g/165px |         |         |         |         |
+|         |        |         |         |         | -Truman |         |         |         |         |
+|         |        |         |         |         | _58-766 |         |         |         |         |
+|         |        |         |         |         | -09.jpg |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 34     | https:/ | January | January | https:/ | Preside | https:/ | Dwight  | https:/ |
+| /en.wik |        | /en.wik | 20,     | 20,     | /upload | nt Eise | /en.wik | D. Eise | /en.wik |
+| ipedia. |        | ipedia. | 1953    | 1961    | .wikime | nhower  | ipedia. | nhower  | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | Portrai | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | t 1959. | i/File: |         | i/Dwigh |
+| of_Pres |        | dency_o |         |         | dia/com | tif     | Preside |         | t_D._Ei |
+| idents_ |        | f_Dwigh |         |         | mons/th |         | nt_Eise |         | senhowe |
+| of_the_ |        | t_D._Ei |         |         | umb/5/5 |         | nhower_ |         | r       |
+| United_ |        | senhowe |         |         | 2/Presi |         | Portrai |         |         |
+| States  |        | r       |         |         | dent_Ei |         | t_1959. |         |         |
+|         |        |         |         |         | senhowe |         | tif     |         |         |
+|         |        |         |         |         | r_Portr |         |         |         |         |
+|         |        |         |         |         | ait_195 |         |         |         |         |
+|         |        |         |         |         | 9.tif/l |         |         |         |         |
+|         |        |         |         |         | ossy-pa |         |         |         |         |
+|         |        |         |         |         | ge1-165 |         |         |         |         |
+|         |        |         |         |         | px-Pres |         |         |         |         |
+|         |        |         |         |         | ident_E |         |         |         |         |
+|         |        |         |         |         | isenhow |         |         |         |         |
+|         |        |         |         |         | er_Port |         |         |         |         |
+|         |        |         |         |         | rait_19 |         |         |         |         |
+|         |        |         |         |         | 59.tif. |         |         |         |         |
+|         |        |         |         |         | jpg     |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 34     | https:/ | January | January | https:/ | Preside | https:/ | Dwight  | https:/ |
+| /en.wik |        | /en.wik | 20,     | 20,     | /upload | nt Eise | /en.wik | D. Eise | /en.wik |
+| ipedia. |        | ipedia. | 1953    | 1961    | .wikime | nhower  | ipedia. | nhower  | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | Portrai | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | t 1959. | i/File: |         | i/Dwigh |
+| of_Pres |        | dency_o |         |         | dia/com | tif     | Preside |         | t_D._Ei |
+| idents_ |        | f_Dwigh |         |         | mons/th |         | nt_Eise |         | senhowe |
+| of_the_ |        | t_D._Ei |         |         | umb/5/5 |         | nhower_ |         | r       |
+| United_ |        | senhowe |         |         | 2/Presi |         | Portrai |         |         |
+| States  |        | r       |         |         | dent_Ei |         | t_1959. |         |         |
+|         |        |         |         |         | senhowe |         | tif     |         |         |
+|         |        |         |         |         | r_Portr |         |         |         |         |
+|         |        |         |         |         | ait_195 |         |         |         |         |
+|         |        |         |         |         | 9.tif/l |         |         |         |         |
+|         |        |         |         |         | ossy-pa |         |         |         |         |
+|         |        |         |         |         | ge1-165 |         |         |         |         |
+|         |        |         |         |         | px-Pres |         |         |         |         |
+|         |        |         |         |         | ident_E |         |         |         |         |
+|         |        |         |         |         | isenhow |         |         |         |         |
+|         |        |         |         |         | er_Port |         |         |         |         |
+|         |        |         |         |         | rait_19 |         |         |         |         |
+|         |        |         |         |         | 59.tif. |         |         |         |         |
+|         |        |         |         |         | jpg     |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 35     | https:/ | January | Novembe | https:/ | John F. | https:/ | John F. | https:/ |
+| /en.wik |        | /en.wik | 20,     | r 22,   | /upload | Kennedy | /en.wik | Kennedy | /en.wik |
+| ipedia. |        | ipedia. | 1961    | 1963    | .wikime | , White | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | House   | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | color   | i/File: |         | i/John_ |
+| of_Pres |        | dency_o |         |         | dia/com | photo p | John_F. |         | F._Kenn |
+| idents_ |        | f_John_ |         |         | mons/th | ortrait | _Kenned |         | edy     |
+| of_the_ |        | F._Kenn |         |         | umb/c/c | .jpg    | y,_Whit |         |         |
+| United_ |        | edy     |         |         | 3/John_ |         | e_House |         |         |
+| States  |        |         |         |         | F._Kenn |         | _color_ |         |         |
+|         |        |         |         |         | edy%2C_ |         | photo_p |         |         |
+|         |        |         |         |         | White_H |         | ortrait |         |         |
+|         |        |         |         |         | ouse_co |         | .jpg    |         |         |
+|         |        |         |         |         | lor_pho |         |         |         |         |
+|         |        |         |         |         | to_port |         |         |         |         |
+|         |        |         |         |         | rait.jp |         |         |         |         |
+|         |        |         |         |         | g/165px |         |         |         |         |
+|         |        |         |         |         | -John_F |         |         |         |         |
+|         |        |         |         |         | ._Kenne |         |         |         |         |
+|         |        |         |         |         | dy%2C_W |         |         |         |         |
+|         |        |         |         |         | hite_Ho |         |         |         |         |
+|         |        |         |         |         | use_col |         |         |         |         |
+|         |        |         |         |         | or_phot |         |         |         |         |
+|         |        |         |         |         | o_portr |         |         |         |         |
+|         |        |         |         |         | ait.jpg |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 36     | https:/ | Novembe | January | https:/ | 37      | https:/ | Lyndon  | https:/ |
+| /en.wik |        | /en.wik | r 22,   | 20,     | /upload | Lyndon  | /en.wik | B.      | /en.wik |
+| ipedia. |        | ipedia. | 1963    | 1969    | .wikime | Johnson | ipedia. | Johnson | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | 3x4.jpg | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Lyndo |
+| of_Pres |        | dency_o |         |         | dia/com |         | 37_Lynd |         | n_B._Jo |
+| idents_ |        | f_Lyndo |         |         | mons/th |         | on_John |         | hnson   |
+| of_the_ |        | n_B._Jo |         |         | umb/c/c |         | son_3x4 |         |         |
+| United_ |        | hnson   |         |         | 3/37_Ly |         | .jpg    |         |         |
+| States  |        |         |         |         | ndon_Jo |         |         |         |         |
+|         |        |         |         |         | hnson_3 |         |         |         |         |
+|         |        |         |         |         | x4.jpg/ |         |         |         |         |
+|         |        |         |         |         | 165px-3 |         |         |         |         |
+|         |        |         |         |         | 7_Lyndo |         |         |         |         |
+|         |        |         |         |         | n_Johns |         |         |         |         |
+|         |        |         |         |         | on_3x4. |         |         |         |         |
+|         |        |         |         |         | jpg     |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 36     | https:/ | Novembe | January | https:/ | 37      | https:/ | Lyndon  | https:/ |
+| /en.wik |        | /en.wik | r 22,   | 20,     | /upload | Lyndon  | /en.wik | B.      | /en.wik |
+| ipedia. |        | ipedia. | 1963    | 1969    | .wikime | Johnson | ipedia. | Johnson | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | 3x4.jpg | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Lyndo |
+| of_Pres |        | dency_o |         |         | dia/com |         | 37_Lynd |         | n_B._Jo |
+| idents_ |        | f_Lyndo |         |         | mons/th |         | on_John |         | hnson   |
+| of_the_ |        | n_B._Jo |         |         | umb/c/c |         | son_3x4 |         |         |
+| United_ |        | hnson   |         |         | 3/37_Ly |         | .jpg    |         |         |
+| States  |        |         |         |         | ndon_Jo |         |         |         |         |
+|         |        |         |         |         | hnson_3 |         |         |         |         |
+|         |        |         |         |         | x4.jpg/ |         |         |         |         |
+|         |        |         |         |         | 165px-3 |         |         |         |         |
+|         |        |         |         |         | 7_Lyndo |         |         |         |         |
+|         |        |         |         |         | n_Johns |         |         |         |         |
+|         |        |         |         |         | on_3x4. |         |         |         |         |
+|         |        |         |         |         | jpg     |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 37     | https:/ | January | August  | https:/ | Richard | https:/ | Richard | https:/ |
+| /en.wik |        | /en.wik | 20,     | 9, 1974 | /upload | M.      | /en.wik | Nixon   | /en.wik |
+| ipedia. |        | ipedia. | 1969    |         | .wikime | Nixon,  | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | ca.     | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | 1935 -  | i/File: |         | i/Richa |
+| of_Pres |        | dency_o |         |         | dia/com | 1982 -  | Richard |         | rd_Nixo |
+| idents_ |        | f_Richa |         |         | mons/th | NARA -  | _M._Nix |         | n       |
+| of_the_ |        | rd_Nixo |         |         | umb/9/9 | 530679. | on,_ca. |         |         |
+| United_ |        | n       |         |         | 8/Richa | tif     | _1935_- |         |         |
+| States  |        |         |         |         | rd_M._N |         | _1982_- |         |         |
+|         |        |         |         |         | ixon%2C |         | _NARA_- |         |         |
+|         |        |         |         |         | _ca._19 |         | _530679 |         |         |
+|         |        |         |         |         | 35_-_19 |         | .tif    |         |         |
+|         |        |         |         |         | 82_-_NA |         |         |         |         |
+|         |        |         |         |         | RA_-_53 |         |         |         |         |
+|         |        |         |         |         | 0679.ti |         |         |         |         |
+|         |        |         |         |         | f/lossy |         |         |         |         |
+|         |        |         |         |         | -page1- |         |         |         |         |
+|         |        |         |         |         | 165px-R |         |         |         |         |
+|         |        |         |         |         | ichard_ |         |         |         |         |
+|         |        |         |         |         | M._Nixo |         |         |         |         |
+|         |        |         |         |         | n%2C_ca |         |         |         |         |
+|         |        |         |         |         | ._1935_ |         |         |         |         |
+|         |        |         |         |         | -_1982_ |         |         |         |         |
+|         |        |         |         |         | -_NARA_ |         |         |         |         |
+|         |        |         |         |         | -_53067 |         |         |         |         |
+|         |        |         |         |         | 9.tif.j |         |         |         |         |
+|         |        |         |         |         | pg      |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 37     | https:/ | January | August  | https:/ | Richard | https:/ | Richard | https:/ |
+| /en.wik |        | /en.wik | 20,     | 9, 1974 | /upload | M.      | /en.wik | Nixon   | /en.wik |
+| ipedia. |        | ipedia. | 1969    |         | .wikime | Nixon,  | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | ca.     | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | 1935 -  | i/File: |         | i/Richa |
+| of_Pres |        | dency_o |         |         | dia/com | 1982 -  | Richard |         | rd_Nixo |
+| idents_ |        | f_Richa |         |         | mons/th | NARA -  | _M._Nix |         | n       |
+| of_the_ |        | rd_Nixo |         |         | umb/9/9 | 530679. | on,_ca. |         |         |
+| United_ |        | n       |         |         | 8/Richa | tif     | _1935_- |         |         |
+| States  |        |         |         |         | rd_M._N |         | _1982_- |         |         |
+|         |        |         |         |         | ixon%2C |         | _NARA_- |         |         |
+|         |        |         |         |         | _ca._19 |         | _530679 |         |         |
+|         |        |         |         |         | 35_-_19 |         | .tif    |         |         |
+|         |        |         |         |         | 82_-_NA |         |         |         |         |
+|         |        |         |         |         | RA_-_53 |         |         |         |         |
+|         |        |         |         |         | 0679.ti |         |         |         |         |
+|         |        |         |         |         | f/lossy |         |         |         |         |
+|         |        |         |         |         | -page1- |         |         |         |         |
+|         |        |         |         |         | 165px-R |         |         |         |         |
+|         |        |         |         |         | ichard_ |         |         |         |         |
+|         |        |         |         |         | M._Nixo |         |         |         |         |
+|         |        |         |         |         | n%2C_ca |         |         |         |         |
+|         |        |         |         |         | ._1935_ |         |         |         |         |
+|         |        |         |         |         | -_1982_ |         |         |         |         |
+|         |        |         |         |         | -_NARA_ |         |         |         |         |
+|         |        |         |         |         | -_53067 |         |         |         |         |
+|         |        |         |         |         | 9.tif.j |         |         |         |         |
+|         |        |         |         |         | pg      |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 37     | https:/ | January | August  | https:/ | Richard | https:/ | Richard | https:/ |
+| /en.wik |        | /en.wik | 20,     | 9, 1974 | /upload | M.      | /en.wik | Nixon   | /en.wik |
+| ipedia. |        | ipedia. | 1969    |         | .wikime | Nixon,  | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | ca.     | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | 1935 -  | i/File: |         | i/Richa |
+| of_Pres |        | dency_o |         |         | dia/com | 1982 -  | Richard |         | rd_Nixo |
+| idents_ |        | f_Richa |         |         | mons/th | NARA -  | _M._Nix |         | n       |
+| of_the_ |        | rd_Nixo |         |         | umb/9/9 | 530679. | on,_ca. |         |         |
+| United_ |        | n       |         |         | 8/Richa | tif     | _1935_- |         |         |
+| States  |        |         |         |         | rd_M._N |         | _1982_- |         |         |
+|         |        |         |         |         | ixon%2C |         | _NARA_- |         |         |
+|         |        |         |         |         | _ca._19 |         | _530679 |         |         |
+|         |        |         |         |         | 35_-_19 |         | .tif    |         |         |
+|         |        |         |         |         | 82_-_NA |         |         |         |         |
+|         |        |         |         |         | RA_-_53 |         |         |         |         |
+|         |        |         |         |         | 0679.ti |         |         |         |         |
+|         |        |         |         |         | f/lossy |         |         |         |         |
+|         |        |         |         |         | -page1- |         |         |         |         |
+|         |        |         |         |         | 165px-R |         |         |         |         |
+|         |        |         |         |         | ichard_ |         |         |         |         |
+|         |        |         |         |         | M._Nixo |         |         |         |         |
+|         |        |         |         |         | n%2C_ca |         |         |         |         |
+|         |        |         |         |         | ._1935_ |         |         |         |         |
+|         |        |         |         |         | -_1982_ |         |         |         |         |
+|         |        |         |         |         | -_NARA_ |         |         |         |         |
+|         |        |         |         |         | -_53067 |         |         |         |         |
+|         |        |         |         |         | 9.tif.j |         |         |         |         |
+|         |        |         |         |         | pg      |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 37     | https:/ | January | August  | https:/ | Richard | https:/ | Richard | https:/ |
+| /en.wik |        | /en.wik | 20,     | 9, 1974 | /upload | M.      | /en.wik | Nixon   | /en.wik |
+| ipedia. |        | ipedia. | 1969    |         | .wikime | Nixon,  | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | ca.     | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | 1935 -  | i/File: |         | i/Richa |
+| of_Pres |        | dency_o |         |         | dia/com | 1982 -  | Richard |         | rd_Nixo |
+| idents_ |        | f_Richa |         |         | mons/th | NARA -  | _M._Nix |         | n       |
+| of_the_ |        | rd_Nixo |         |         | umb/9/9 | 530679. | on,_ca. |         |         |
+| United_ |        | n       |         |         | 8/Richa | tif     | _1935_- |         |         |
+| States  |        |         |         |         | rd_M._N |         | _1982_- |         |         |
+|         |        |         |         |         | ixon%2C |         | _NARA_- |         |         |
+|         |        |         |         |         | _ca._19 |         | _530679 |         |         |
+|         |        |         |         |         | 35_-_19 |         | .tif    |         |         |
+|         |        |         |         |         | 82_-_NA |         |         |         |         |
+|         |        |         |         |         | RA_-_53 |         |         |         |         |
+|         |        |         |         |         | 0679.ti |         |         |         |         |
+|         |        |         |         |         | f/lossy |         |         |         |         |
+|         |        |         |         |         | -page1- |         |         |         |         |
+|         |        |         |         |         | 165px-R |         |         |         |         |
+|         |        |         |         |         | ichard_ |         |         |         |         |
+|         |        |         |         |         | M._Nixo |         |         |         |         |
+|         |        |         |         |         | n%2C_ca |         |         |         |         |
+|         |        |         |         |         | ._1935_ |         |         |         |         |
+|         |        |         |         |         | -_1982_ |         |         |         |         |
+|         |        |         |         |         | -_NARA_ |         |         |         |         |
+|         |        |         |         |         | -_53067 |         |         |         |         |
+|         |        |         |         |         | 9.tif.j |         |         |         |         |
+|         |        |         |         |         | pg      |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 38     | https:/ | August  | January | https:/ | Gerald  | https:/ | Gerald  | https:/ |
+| /en.wik |        | /en.wik | 9, 1974 | 20,     | /upload | Ford -  | /en.wik | Ford    | /en.wik |
+| ipedia. |        | ipedia. |         | 1977    | .wikime | NARA -  | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | 530680. | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | tif     | i/File: |         | i/Geral |
+| of_Pres |        | dency_o |         |         | dia/com |         | Gerald_ |         | d_Ford  |
+| idents_ |        | f_Geral |         |         | mons/th |         | Ford_-_ |         |         |
+| of_the_ |        | d_Ford  |         |         | umb/d/d |         | NARA_-_ |         |         |
+| United_ |        |         |         |         | 0/Geral |         | 530680. |         |         |
+| States  |        |         |         |         | d_Ford_ |         | tif     |         |         |
+|         |        |         |         |         | -_NARA_ |         |         |         |         |
+|         |        |         |         |         | -_53068 |         |         |         |         |
+|         |        |         |         |         | 0.tif/l |         |         |         |         |
+|         |        |         |         |         | ossy-pa |         |         |         |         |
+|         |        |         |         |         | ge1-165 |         |         |         |         |
+|         |        |         |         |         | px-Gera |         |         |         |         |
+|         |        |         |         |         | ld_Ford |         |         |         |         |
+|         |        |         |         |         | _-_NARA |         |         |         |         |
+|         |        |         |         |         | _-_5306 |         |         |         |         |
+|         |        |         |         |         | 80.tif. |         |         |         |         |
+|         |        |         |         |         | jpg     |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 38     | https:/ | August  | January | https:/ | Gerald  | https:/ | Gerald  | https:/ |
+| /en.wik |        | /en.wik | 9, 1974 | 20,     | /upload | Ford -  | /en.wik | Ford    | /en.wik |
+| ipedia. |        | ipedia. |         | 1977    | .wikime | NARA -  | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | 530680. | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | tif     | i/File: |         | i/Geral |
+| of_Pres |        | dency_o |         |         | dia/com |         | Gerald_ |         | d_Ford  |
+| idents_ |        | f_Geral |         |         | mons/th |         | Ford_-_ |         |         |
+| of_the_ |        | d_Ford  |         |         | umb/d/d |         | NARA_-_ |         |         |
+| United_ |        |         |         |         | 0/Geral |         | 530680. |         |         |
+| States  |        |         |         |         | d_Ford_ |         | tif     |         |         |
+|         |        |         |         |         | -_NARA_ |         |         |         |         |
+|         |        |         |         |         | -_53068 |         |         |         |         |
+|         |        |         |         |         | 0.tif/l |         |         |         |         |
+|         |        |         |         |         | ossy-pa |         |         |         |         |
+|         |        |         |         |         | ge1-165 |         |         |         |         |
+|         |        |         |         |         | px-Gera |         |         |         |         |
+|         |        |         |         |         | ld_Ford |         |         |         |         |
+|         |        |         |         |         | _-_NARA |         |         |         |         |
+|         |        |         |         |         | _-_5306 |         |         |         |         |
+|         |        |         |         |         | 80.tif. |         |         |         |         |
+|         |        |         |         |         | jpg     |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 39     | https:/ | January | January | https:/ | JimmyCa | https:/ | Jimmy   | https:/ |
+| /en.wik |        | /en.wik | 20,     | 20,     | /upload | rterPor | /en.wik | Carter  | /en.wik |
+| ipedia. |        | ipedia. | 1977    | 1981    | .wikime | trait2. | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | jpg     | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Jimmy |
+| of_Pres |        | dency_o |         |         | dia/com |         | JimmyCa |         | _Carter |
+| idents_ |        | f_Jimmy |         |         | mons/th |         | rterPor |         |         |
+| of_the_ |        | _Carter |         |         | umb/5/5 |         | trait2. |         |         |
+| United_ |        |         |         |         | a/Jimmy |         | jpg     |         |         |
+| States  |        |         |         |         | CarterP |         |         |         |         |
+|         |        |         |         |         | ortrait |         |         |         |         |
+|         |        |         |         |         | 2.jpg/1 |         |         |         |         |
+|         |        |         |         |         | 65px-Ji |         |         |         |         |
+|         |        |         |         |         | mmyCart |         |         |         |         |
+|         |        |         |         |         | erPortr |         |         |         |         |
+|         |        |         |         |         | ait2.jp |         |         |         |         |
+|         |        |         |         |         | g       |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 40     | https:/ | January | January | https:/ | Officia | https:/ | Ronald  | https:/ |
+| /en.wik |        | /en.wik | 20,     | 20,     | /upload | l Portr | /en.wik | Reagan  | /en.wik |
+| ipedia. |        | ipedia. | 1981    | 1989    | .wikime | ait of  | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | Preside | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | nt      | i/File: |         | i/Ronal |
+| of_Pres |        | dency_o |         |         | dia/com | Reagan  | Officia |         | d_Reaga |
+| idents_ |        | f_Ronal |         |         | mons/th | 1981.jp | l_Portr |         | n       |
+| of_the_ |        | d_Reaga |         |         | umb/1/1 | g       | ait_of_ |         |         |
+| United_ |        | n       |         |         | 6/Offic |         | Preside |         |         |
+| States  |        |         |         |         | ial_Por |         | nt_Reag |         |         |
+|         |        |         |         |         | trait_o |         | an_1981 |         |         |
+|         |        |         |         |         | f_Presi |         | .jpg    |         |         |
+|         |        |         |         |         | dent_Re |         |         |         |         |
+|         |        |         |         |         | agan_19 |         |         |         |         |
+|         |        |         |         |         | 81.jpg/ |         |         |         |         |
+|         |        |         |         |         | 165px-O |         |         |         |         |
+|         |        |         |         |         | fficial |         |         |         |         |
+|         |        |         |         |         | _Portra |         |         |         |         |
+|         |        |         |         |         | it_of_P |         |         |         |         |
+|         |        |         |         |         | residen |         |         |         |         |
+|         |        |         |         |         | t_Reaga |         |         |         |         |
+|         |        |         |         |         | n_1981. |         |         |         |         |
+|         |        |         |         |         | jpg     |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 40     | https:/ | January | January | https:/ | Officia | https:/ | Ronald  | https:/ |
+| /en.wik |        | /en.wik | 20,     | 20,     | /upload | l Portr | /en.wik | Reagan  | /en.wik |
+| ipedia. |        | ipedia. | 1981    | 1989    | .wikime | ait of  | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | Preside | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | nt      | i/File: |         | i/Ronal |
+| of_Pres |        | dency_o |         |         | dia/com | Reagan  | Officia |         | d_Reaga |
+| idents_ |        | f_Ronal |         |         | mons/th | 1981.jp | l_Portr |         | n       |
+| of_the_ |        | d_Reaga |         |         | umb/1/1 | g       | ait_of_ |         |         |
+| United_ |        | n       |         |         | 6/Offic |         | Preside |         |         |
+| States  |        |         |         |         | ial_Por |         | nt_Reag |         |         |
+|         |        |         |         |         | trait_o |         | an_1981 |         |         |
+|         |        |         |         |         | f_Presi |         | .jpg    |         |         |
+|         |        |         |         |         | dent_Re |         |         |         |         |
+|         |        |         |         |         | agan_19 |         |         |         |         |
+|         |        |         |         |         | 81.jpg/ |         |         |         |         |
+|         |        |         |         |         | 165px-O |         |         |         |         |
+|         |        |         |         |         | fficial |         |         |         |         |
+|         |        |         |         |         | _Portra |         |         |         |         |
+|         |        |         |         |         | it_of_P |         |         |         |         |
+|         |        |         |         |         | residen |         |         |         |         |
+|         |        |         |         |         | t_Reaga |         |         |         |         |
+|         |        |         |         |         | n_1981. |         |         |         |         |
+|         |        |         |         |         | jpg     |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 41     | https:/ | January | January | https:/ | George  | https:/ | George  | https:/ |
+| /en.wik |        | /en.wik | 20,     | 20,     | /upload | H. W.   | /en.wik | H. W.   | /en.wik |
+| ipedia. |        | ipedia. | 1989    | 1993    | .wikime | Bush, P | ipedia. | Bush    | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | residen | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | t of    | i/File: |         | i/Georg |
+| of_Pres |        | dency_o |         |         | dia/com | the     | George_ |         | e_H._W. |
+| idents_ |        | f_Georg |         |         | mons/th | United  | H._W._B |         | _Bush   |
+| of_the_ |        | e_H._W. |         |         | umb/f/f | States, | ush,_Pr |         |         |
+| United_ |        | _Bush   |         |         | f/Georg | 1989 of | esident |         |         |
+| States  |        |         |         |         | e_H._W. | ficial  | _of_the |         |         |
+|         |        |         |         |         | _Bush%2 | portrai | _United |         |         |
+|         |        |         |         |         | C_Presi | t cropp | _States |         |         |
+|         |        |         |         |         | dent_of | ed.jpg  | ,_1989_ |         |         |
+|         |        |         |         |         | _the_Un |         | officia |         |         |
+|         |        |         |         |         | ited_St |         | l_portr |         |         |
+|         |        |         |         |         | ates%2C |         | ait_cro |         |         |
+|         |        |         |         |         | _1989_o |         | pped.jp |         |         |
+|         |        |         |         |         | fficial |         | g       |         |         |
+|         |        |         |         |         | _portra |         |         |         |         |
+|         |        |         |         |         | it_crop |         |         |         |         |
+|         |        |         |         |         | ped.jpg |         |         |         |         |
+|         |        |         |         |         | /165px- |         |         |         |         |
+|         |        |         |         |         | George_ |         |         |         |         |
+|         |        |         |         |         | H._W._B |         |         |         |         |
+|         |        |         |         |         | ush%2C_ |         |         |         |         |
+|         |        |         |         |         | Preside |         |         |         |         |
+|         |        |         |         |         | nt_of_t |         |         |         |         |
+|         |        |         |         |         | he_Unit |         |         |         |         |
+|         |        |         |         |         | ed_Stat |         |         |         |         |
+|         |        |         |         |         | es%2C_1 |         |         |         |         |
+|         |        |         |         |         | 989_off |         |         |         |         |
+|         |        |         |         |         | icial_p |         |         |         |         |
+|         |        |         |         |         | ortrait |         |         |         |         |
+|         |        |         |         |         | _croppe |         |         |         |         |
+|         |        |         |         |         | d.jpg   |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 42     | https:/ | January | January | https:/ | Bill Cl | https:/ | Bill    | https:/ |
+| /en.wik |        | /en.wik | 20,     | 20,     | /upload | inton.j | /en.wik | Clinton | /en.wik |
+| ipedia. |        | ipedia. | 1993    | 2001    | .wikime | pg      | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org |         | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Bill_ |
+| of_Pres |        | dency_o |         |         | dia/com |         | Bill_Cl |         | Clinton |
+| idents_ |        | f_Bill_ |         |         | mons/th |         | inton.j |         |         |
+| of_the_ |        | Clinton |         |         | umb/d/d |         | pg      |         |         |
+| United_ |        |         |         |         | 3/Bill_ |         |         |         |         |
+| States  |        |         |         |         | Clinton |         |         |         |         |
+|         |        |         |         |         | .jpg/16 |         |         |         |         |
+|         |        |         |         |         | 5px-Bil |         |         |         |         |
+|         |        |         |         |         | l_Clint |         |         |         |         |
+|         |        |         |         |         | on.jpg  |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 42     | https:/ | January | January | https:/ | Bill Cl | https:/ | Bill    | https:/ |
+| /en.wik |        | /en.wik | 20,     | 20,     | /upload | inton.j | /en.wik | Clinton | /en.wik |
+| ipedia. |        | ipedia. | 1993    | 2001    | .wikime | pg      | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org |         | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Bill_ |
+| of_Pres |        | dency_o |         |         | dia/com |         | Bill_Cl |         | Clinton |
+| idents_ |        | f_Bill_ |         |         | mons/th |         | inton.j |         |         |
+| of_the_ |        | Clinton |         |         | umb/d/d |         | pg      |         |         |
+| United_ |        |         |         |         | 3/Bill_ |         |         |         |         |
+| States  |        |         |         |         | Clinton |         |         |         |         |
+|         |        |         |         |         | .jpg/16 |         |         |         |         |
+|         |        |         |         |         | 5px-Bil |         |         |         |         |
+|         |        |         |         |         | l_Clint |         |         |         |         |
+|         |        |         |         |         | on.jpg  |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 43     | https:/ | January | January | https:/ | George- | https:/ | George  | https:/ |
+| /en.wik |        | /en.wik | 20,     | 20,     | /upload | W-Bush. | /en.wik | W. Bush | /en.wik |
+| ipedia. |        | ipedia. | 2001    | 2009    | .wikime | jpeg    | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org |         | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Georg |
+| of_Pres |        | dency_o |         |         | dia/com |         | George- |         | e_W._Bu |
+| idents_ |        | f_Georg |         |         | mons/th |         | W-Bush. |         | sh      |
+| of_the_ |        | e_W._Bu |         |         | umb/d/d |         | jpeg    |         |         |
+| United_ |        | sh      |         |         | 4/Georg |         |         |         |         |
+| States  |        |         |         |         | e-W-Bus |         |         |         |         |
+|         |        |         |         |         | h.jpeg/ |         |         |         |         |
+|         |        |         |         |         | 165px-  |         |         |         |         |
+|         |        |         |         |         | George- |         |         |         |         |
+|         |        |         |         |         | W-Bush. |         |         |         |         |
+|         |        |         |         |         | jpeg    |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 43     | https:/ | January | January | https:/ | George- | https:/ | George  | https:/ |
+| /en.wik |        | /en.wik | 20,     | 20,     | /upload | W-Bush. | /en.wik | W. Bush | /en.wik |
+| ipedia. |        | ipedia. | 2001    | 2009    | .wikime | jpeg    | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org |         | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Georg |
+| of_Pres |        | dency_o |         |         | dia/com |         | George- |         | e_W._Bu |
+| idents_ |        | f_Georg |         |         | mons/th |         | W-Bush. |         | sh      |
+| of_the_ |        | e_W._Bu |         |         | umb/d/d |         | jpeg    |         |         |
+| United_ |        | sh      |         |         | 4/Georg |         |         |         |         |
+| States  |        |         |         |         | e-W-Bus |         |         |         |         |
+|         |        |         |         |         | h.jpeg/ |         |         |         |         |
+|         |        |         |         |         | 165px-  |         |         |         |         |
+|         |        |         |         |         | George- |         |         |         |         |
+|         |        |         |         |         | W-Bush. |         |         |         |         |
+|         |        |         |         |         | jpeg    |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 44     | https:/ | January | January | https:/ | Obama p | https:/ | Barack  | https:/ |
+| /en.wik |        | /en.wik | 20,     | 20,     | /upload | ortrait | /en.wik | Obama   | /en.wik |
+| ipedia. |        | ipedia. | 2009    | 2017    | .wikime | crop.jp | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | g       | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Barac |
+| of_Pres |        | dency_o |         |         | dia/com |         | Obama_p |         | k_Obama |
+| idents_ |        | f_Barac |         |         | mons/th |         | ortrait |         |         |
+| of_the_ |        | k_Obama |         |         | umb/f/f |         | _crop.j |         |         |
+| United_ |        |         |         |         | 9/Obama |         | pg      |         |         |
+| States  |        |         |         |         | _portra |         |         |         |         |
+|         |        |         |         |         | it_crop |         |         |         |         |
+|         |        |         |         |         | .jpg/16 |         |         |         |         |
+|         |        |         |         |         | 5px-Oba |         |         |         |         |
+|         |        |         |         |         | ma_port |         |         |         |         |
+|         |        |         |         |         | rait_cr |         |         |         |         |
+|         |        |         |         |         | op.jpg  |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 44     | https:/ | January | January | https:/ | Obama p | https:/ | Barack  | https:/ |
+| /en.wik |        | /en.wik | 20,     | 20,     | /upload | ortrait | /en.wik | Obama   | /en.wik |
+| ipedia. |        | ipedia. | 2009    | 2017    | .wikime | crop.jp | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | g       | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe |         | i/File: |         | i/Barac |
+| of_Pres |        | dency_o |         |         | dia/com |         | Obama_p |         | k_Obama |
+| idents_ |        | f_Barac |         |         | mons/th |         | ortrait |         |         |
+| of_the_ |        | k_Obama |         |         | umb/f/f |         | _crop.j |         |         |
+| United_ |        |         |         |         | 9/Obama |         | pg      |         |         |
+| States  |        |         |         |         | _portra |         |         |         |         |
+|         |        |         |         |         | it_crop |         |         |         |         |
+|         |        |         |         |         | .jpg/16 |         |         |         |         |
+|         |        |         |         |         | 5px-Oba |         |         |         |         |
+|         |        |         |         |         | ma_port |         |         |         |         |
+|         |        |         |         |         | rait_cr |         |         |         |         |
+|         |        |         |         |         | op.jpg  |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 45     | https:/ | January |         | https:/ | Donald  | https:/ | Donald  | https:/ |
+| /en.wik |        | /en.wik | 20,     |         | /upload | Trump o | /en.wik | Trump   | /en.wik |
+| ipedia. |        | ipedia. | 2017    |         | .wikime | fficial | ipedia. |         | ipedia. |
+| org/wik |        | org/wik |         |         | dia.org | portrai | org/wik |         | org/wik |
+| i/List_ |        | i/Presi |         |         | /wikipe | t (crop | i/File: |         | i/Donal |
+| of_Pres |        | dency_o |         |         | dia/com | ped).jp | Donald_ |         | d_Trump |
+| idents_ |        | f_Donal |         |         | mons/th | g       | Trump_o |         |         |
+| of_the_ |        | d_Trump |         |         | umb/5/5 |         | fficial |         |         |
+| United_ |        |         |         |         | 3/Donal |         | _portra |         |         |
+| States  |        |         |         |         | d_Trump |         | it_(cro |         |         |
+|         |        |         |         |         | _offici |         | pped).j |         |         |
+|         |        |         |         |         | al_port |         | pg      |         |         |
+|         |        |         |         |         | rait_%2 |         |         |         |         |
+|         |        |         |         |         | 8croppe |         |         |         |         |
+|         |        |         |         |         | d%29.jp |         |         |         |         |
+|         |        |         |         |         | g/165px |         |         |         |         |
+|         |        |         |         |         | -Donald |         |         |         |         |
+|         |        |         |         |         | _Trump_ |         |         |         |         |
+|         |        |         |         |         | officia |         |         |         |         |
+|         |        |         |         |         | l_portr |         |         |         |         |
+|         |        |         |         |         | ait_%28 |         |         |         |         |
+|         |        |         |         |         | cropped |         |         |         |         |
+|         |        |         |         |         | %29.jpg |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+

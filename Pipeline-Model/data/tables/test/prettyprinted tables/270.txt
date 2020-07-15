@@ -1,0 +1,243 @@
++---------------------------+---------------+---------------------------+--------------------------+
+| url                       | Key           | Key_link                  | Value                    |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Technology    | https://www.gsmarena.com/ | GSM / HSPA / LTE         |
+| apple_iphone_x-8858.php   |               | network-bands.php3        |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | 2G bands      | https://www.gsmarena.com/ | GSM 850 / 900 / 1800 /   |
+| apple_iphone_x-8858.php   |               | network-bands.php3        | 1900                     |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | 3G bands      | https://www.gsmarena.com/ | HSDPA 850 / 900 /        |
+| apple_iphone_x-8858.php   |               | network-bands.php3        | 1700(AWS) / 1900 / 2100  |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | 4G bands      | https://www.gsmarena.com/ | LTE band 1(2100),        |
+| apple_iphone_x-8858.php   |               | network-bands.php3        | 2(1900), 3(1800),        |
+|                           |               |                           | 4(1700/2100), 5(850),    |
+|                           |               |                           | 7(2600), 8(900),         |
+|                           |               |                           | 12(700), 13(700),        |
+|                           |               |                           | 17(700), 18(800),        |
+|                           |               |                           | 19(800), 20(800),        |
+|                           |               |                           | 25(1900), 26(850),       |
+|                           |               |                           | 28(700), 29(700),        |
+|                           |               |                           | 30(2300), 34(2000),      |
+|                           |               |                           | 38(2600), 39(1900),      |
+|                           |               |                           | 40(2300), 41(2500),      |
+|                           |               |                           | 66(1700/2100)            |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Speed         | https://www.gsmarena.com/ | HSPA 42.2/5.76 Mbps,     |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=3g     | LTE-A (3CA) Cat12        |
+|                           |               |                           | 600/150 Mbps, EV-DO      |
+|                           |               |                           | Rev.A 3.1 Mbps           |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | GPRS          | https://www.gsmarena.com/ | Yes                      |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=gprs   |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | EDGE          | https://www.gsmarena.com/ | Yes                      |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=edge   |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Announced     | https://www.gsmarena.com/ | 2017, September          |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=phone- |                          |
+|                           |               | life-cycle                |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Status        | https://www.gsmarena.com/ | Available. Released      |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=phone- | 2017, October            |
+|                           |               | life-cycle                |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Dimensions    |                           | 143.6 x 70.9 x 7.7 mm    |
+| apple_iphone_x-8858.php   |               |                           | (5.65 x 2.79 x 0.30 in)  |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Weight        |                           | 174 g (6.14 oz)          |
+| apple_iphone_x-8858.php   |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Build         | https://www.gsmarena.com/ | Front/back glass,        |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=build  | stainless steel frame    |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | SIM           | https://www.gsmarena.com/ | Nano-SIM                 |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=sim    |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ |               |                           | - IP67 certified - dust  |
+| apple_iphone_x-8858.php   |               |                           | and water resistant      |
+|                           |               |                           |  - Water resistant up to |
+|                           |               |                           | 1 meter and 30 minutes   |
+|                           |               |                           |  - Apple Pay (Visa,      |
+|                           |               |                           | MasterCard, AMEX         |
+|                           |               |                           | certified)               |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Type          | https://www.gsmarena.com/ | Super AMOLED capacitive  |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=displa | touchscreen, 16M colors  |
+|                           |               | y-type                    |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Size          |                           | 5.8 inches, 84.4 cm2     |
+| apple_iphone_x-8858.php   |               |                           | (~82.9% screen-to-body   |
+|                           |               |                           | ratio)                   |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Resolution    | https://www.gsmarena.com/ | 1125 x 2436 pixels,      |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=resolu | 19.5:9 ratio (~458 ppi   |
+|                           |               | tion                      | density)                 |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Multitouch    | https://www.gsmarena.com/ | Yes                      |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=multit |                          |
+|                           |               | ouch                      |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Protection    | https://www.gsmarena.com/ | Scratch-resistant glass, |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=screen | oleophobic coating       |
+|                           |               | -protection               |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ |               |                           | - Dolby Vision/HDR10     |
+| apple_iphone_x-8858.php   |               |                           | compliant                |
+|                           |               |                           |  - Wide color gamut      |
+|                           |               |                           | display                  |
+|                           |               |                           |  - 3D Touch display      |
+|                           |               |                           |  - True-tone display     |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | OS            | https://www.gsmarena.com/ | iOS 11.1.1, upgradable   |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=os     | to iOS 11.2.5            |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Chipset       | https://www.gsmarena.com/ | Apple A11 Bionic         |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=chipse |                          |
+|                           |               | t                         |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | CPU           | https://www.gsmarena.com/ | Hexa-core 2.39 GHz (2x   |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=cpu    | Monsoon + 4x Mistral)    |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | GPU           | https://www.gsmarena.com/ | Apple GPU (three-core    |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=gpu    | graphics)                |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Card slot     | https://www.gsmarena.com/ | No                       |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=memory |                          |
+|                           |               | -card-slot                |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Internal      | https://www.gsmarena.com/ | 64/256 GB, 3 GB RAM      |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=dynami |                          |
+|                           |               | c-memory                  |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Primary       | https://www.gsmarena.com/ | Dual: 12 MP (f/1.8,      |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=camera | 28mm) + 12 MP (f/2.4,    |
+|                           |               |                           | 52mm), OIS, phase        |
+|                           |               |                           | detection autofocus, 2x  |
+|                           |               |                           | optical zoom, quad-LED   |
+|                           |               |                           | dual-tone flash, check   |
+|                           |               |                           | quality                  |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Features      | https://www.gsmarena.com/ | Geo-tagging,             |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=camera | simultaneous 4K video    |
+|                           |               |                           | and 8MP image recording, |
+|                           |               |                           | touch focus, face/smile  |
+|                           |               |                           | detection, HDR           |
+|                           |               |                           | (photo/panorama)         |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Video         | https://www.gsmarena.com/ | 2160p@24/30/60fps,       |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=camera | 1080p@30/60/120/240fps,  |
+|                           |               |                           | check quality            |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Secondary     | https://www.gsmarena.com/ | 7 MP (f/2.2, 32mm),      |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=video- | 1080p@30fps,             |
+|                           |               | call                      | 720p@240fps, face        |
+|                           |               |                           | detection, HDR           |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Alert types   | https://www.gsmarena.com/ | Vibration, proprietary   |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=call-  | ringtones                |
+|                           |               | alerts                    |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Loudspeaker   | https://www.gsmarena.com/ | Yes, with stereo         |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=loudsp | speakers                 |
+|                           |               | eaker                     |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | 3.5mm jack    | https://www.gsmarena.com/ | No                       |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=audio- |                          |
+|                           |               | jack                      |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ |               |                           | - Active noise           |
+| apple_iphone_x-8858.php   |               |                           | cancellation with        |
+|                           |               |                           | dedicated mic            |
+|                           |               |                           |  - Lightning to 3.5 mm   |
+|                           |               |                           | headphone jack adapter   |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | WLAN          | https://www.gsmarena.com/ | Wi-Fi 802.11 a/b/g/n/ac, |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=wi-fi  | dual-band, hotspot       |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Bluetooth     | https://www.gsmarena.com/ | 5.0, A2DP, LE            |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=blueto |                          |
+|                           |               | oth                       |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | GPS           | https://www.gsmarena.com/ | Yes, with A-GPS,         |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=gps    | GLONASS, GALILEO, QZSS   |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | NFC           | https://www.gsmarena.com/ | Yes                      |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=nfc    |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Radio         | https://www.gsmarena.com/ | No                       |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=fm-    |                          |
+|                           |               | radio                     |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | USB           | https://www.gsmarena.com/ | 2.0, proprietary         |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=usb    | reversible connector     |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Sensors       | https://www.gsmarena.com/ | Face ID, accelerometer,  |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=sensor | gyro, proximity,         |
+|                           |               | s                         | compass, barometer       |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Messaging     | https://www.gsmarena.com/ | iMessage, SMS(threaded   |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=messag | view), MMS, Email, Push  |
+|                           |               | ing                       | Email                    |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Browser       | https://www.gsmarena.com/ | HTML5 (Safari)           |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=browse |                          |
+|                           |               | r                         |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ |               |                           | - Fast battery charging: |
+| apple_iphone_x-8858.php   |               |                           | 50% in 30 min            |
+|                           |               |                           |  - Qi wireless charging  |
+|                           |               |                           |  - Siri natural language |
+|                           |               |                           | commands and dictation   |
+|                           |               |                           |  - iCloud cloud service  |
+|                           |               |                           |  -                       |
+|                           |               |                           | MP3/WAV/AAX+/AIFF/Apple  |
+|                           |               |                           | Lossless player          |
+|                           |               |                           |  - MP4/H.265 player      |
+|                           |               |                           |  - Audio/video/photo     |
+|                           |               |                           | editor                   |
+|                           |               |                           |  - Document editor       |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ |               |                           | Non-removable Li-Ion     |
+| apple_iphone_x-8858.php   |               |                           | 2716 mAh battery (10.35  |
+|                           |               |                           | Wh)                      |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Talk time     | https://www.gsmarena.com/ | Up to 21 h (3G)          |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=talk-  |                          |
+|                           |               | time                      |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Music play    | https://www.gsmarena.com/ | Up to 60 h               |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=music- |                          |
+|                           |               | playback-time             |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Colors        |                           | Space Gray, Silver       |
+| apple_iphone_x-8858.php   |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Price         | https://www.gsmarena.com/ | About 1000 EUR           |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=price  |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Performance   | https://www.gsmarena.com/ | Basemark OS II 2.0: 4708 |
+| apple_iphone_x-8858.php   |               | glossary.php3?term=benchm |                          |
+|                           |               | arking                    |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Display       | https://www.gsmarena.com/ | Contrast ratio: Infinity |
+| apple_iphone_x-8858.php   |               | gsmarena_lab_tests-       | (nominal), 5.013         |
+|                           |               | review-751p2.php          | (sunlight)               |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Camera        | https://www.gsmarena.com/ | Photo / Video            |
+| apple_iphone_x-8858.php   |               | gsmarena_lab_tests-       |                          |
+|                           |               | review-751p5.php          |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Loudspeaker   | https://www.gsmarena.com/ | Voice 68dB / Noise 74dB  |
+| apple_iphone_x-8858.php   |               | gsmarena_lab_tests-       | / Ring 76dB              |
+|                           |               | review-751p3.php          |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Audio quality | https://www.gsmarena.com/ | Noise -93.7dB /          |
+| apple_iphone_x-8858.php   |               | gsmarena_lab_tests-       | Crosstalk -82.8dB        |
+|                           |               | review-751p4.php          |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Battery life  | https://www.gsmarena.com/ | Endurance rating 74h     |
+| apple_iphone_x-8858.php   |               | gsmarena_lab_tests-       |                          |
+|                           |               | review-751p6.php          |                          |
++---------------------------+---------------+---------------------------+--------------------------+

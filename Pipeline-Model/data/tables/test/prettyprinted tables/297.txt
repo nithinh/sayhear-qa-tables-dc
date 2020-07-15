@@ -1,0 +1,163 @@
++------------------------------------+------------------------+------------------------------------+
+| url                                | Key                    | New_column                         |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc |                        | Falcon Heavy on pad LC-39A, being  |
+| on_Heavy                           |                        | prepared for its first launch      |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Function               | Orbital heavy-lift launch vehicle  |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Manufacturer           | SpaceX; SpaceX                     |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Country of origin      | United States                      |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Cost per launch        | Reusable: $90M[1]                  |
+| on_Heavy                           |                        |                                    |
+|                                    |                        | Expendable: $150M[2]; Reusable:    |
+|                                    |                        | $90M[1]                            |
+|                                    |                        |                                    |
+|                                    |                        | Expendable: $150M[2]               |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Height                 | 70 m (230 ft)[3]                   |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Diameter               | 3.66 m (12.0 ft)[3]                |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Width                  | 12.2 m (40 ft)[3]                  |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Mass                   | 1,420,788 kg (3,132,301 lb)[3]     |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Stages                 | 2+                                 |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Payload to LEO (28.5°) | 63,800 kg (140,700 lb)[3];         |
+| on_Heavy                           |                        | 63,800 kg (140,700 lb)             |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Payload to GTO (27°)   | 26,700 kg (58,900 lb)[3]           |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Payload to Mars        | 16,800 kg (37,000 lb)[3];          |
+| on_Heavy                           |                        | 16,800 kg (37,000 lb)              |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Payload to Pluto       | 3,500 kg (7,700 lb)[3]             |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Family                 | Falcon 9                           |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Comparable             | Delta IV Heavy                     |
+| on_Heavy                           |                        |                                    |
+|                                    |                        | Long March 5                       |
+|                                    |                        |                                    |
+|                                    |                        | New Glenn                          |
+|                                    |                        |                                    |
+|                                    |                        | Saturn C-3                         |
+|                                    |                        |                                    |
+|                                    |                        | Vulcan                             |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Status                 | Active                             |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Launch sites           | Kennedy LC-39A                     |
+| on_Heavy                           |                        |                                    |
+|                                    |                        | Boca Chica (under construction);   |
+|                                    |                        | Kennedy LC-39A                     |
+|                                    |                        |                                    |
+|                                    |                        | Boca Chica (under construction)    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Total launches         | 1                                  |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Successes              | 1; 1                               |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Failures               | 0                                  |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Partial failures       | 0; 0                               |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Landings               | 2 / 3 attempts                     |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | First flight           | February 6, 2018[4][5]; February   |
+| on_Heavy                           |                        | 6, 2018                            |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | No. boosters           | 2                                  |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Engines                | 9 Merlin 1D per booster; 9         |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Thrust                 | Sea level: 7.6 MN (1,700,000 lbf)  |
+| on_Heavy                           |                        | (each)                             |
+|                                    |                        |  Vacuum: 8.2 MN (1,800,000 lbf)    |
+|                                    |                        | (each)                             |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Total thrust           | Sea level: 15.2 MN (3,400,000 lbf) |
+| on_Heavy                           |                        |  Vacuum: 16.4 MN (3,700,000 lbf);  |
+|                                    |                        | 15.2 MN (3,400,000 lb              |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Specific impulse       | Sea level: 282 seconds[6]          |
+| on_Heavy                           |                        |  Vacuum: 311 seconds[7]            |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Burn time              | 154 seconds; 154 seconds           |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Fuel                   | Subcooled LOX / Chilled RP-1[8]    |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Engines                | 9 Merlin 1D                        |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Thrust                 | Sea level: 7.6 MN (1,700,000 lbf)  |
+| on_Heavy                           |                        |  Vacuum: 8.2 MN (1,800,000 lbf);   |
+|                                    |                        | 7.6 MN (1,700,000 lb               |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Specific impulse       | Sea level: 282 seconds             |
+| on_Heavy                           |                        |  Vacuum: 311 seconds               |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Burn time              | 187 seconds; 187 seconds           |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Fuel                   | Subcooled LOX / Chilled RP-1       |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Engines                | 1 Merlin 1D Vacuum                 |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Thrust                 | 934 kN (210,000 lbf)[3]; 934 kN    |
+| on_Heavy                           |                        | (210,000 lb                        |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Specific impulse       | 348 seconds[3]                     |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Burn time              | 397 seconds[3]; 397 seconds        |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc | Fuel                   | LOX / RP-1                         |
+| on_Heavy                           |                        |                                    |
++------------------------------------+------------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Falc |                        | Falcon Heavy is a partially        |
+| on_Heavy                           |                        | reusable super heavy-lift launch   |
+|                                    |                        | vehicle[9] designed and            |
+|                                    |                        | manufactured by SpaceX. It is      |
+|                                    |                        | derived from the Falcon 9 vehicle  |
+|                                    |                        | and consists of a strengthened     |
+|                                    |                        | Falcon 9 first stage as a central  |
+|                                    |                        | core with two additional first     |
+|                                    |                        | stages as strap-on boosters.[10]   |
+|                                    |                        | Falcon Heavy has the highest       |
+|                                    |                        | payload capacity of any currently  |
+|                                    |                        | operational launch vehicle and has |
+|                                    |                        | the fourth-highest capacity of any |
+|                                    |                        | rocket ever built, trailing the    |
+|                                    |                        | American Saturn V, the Soviet      |
+|                                    |                        | Energia, and the never-successful  |
+|                                    |                        | Soviet N1.                         |
++------------------------------------+------------------------+------------------------------------+

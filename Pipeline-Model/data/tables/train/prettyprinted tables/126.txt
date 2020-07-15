@@ -1,0 +1,53 @@
++---------------+--------------+--------------+--------------+--------------+--------------+-------+
+| url           | Date         | Show         | Show_link    | Location     | City         | State |
++---------------+--------------+--------------+--------------+--------------+--------------+-------+
+| https://www.d | Apr 26, 2018 | Dare to      | https://www. | Lake Charles | Lake Charles | , LA  |
+| isneyonice.co | - Apr 29,    | Dream        | disneyonice. | Civic Center |              |       |
+| m/tickets/P10 | 2018         |              | com/dare-to- |              |              |       |
+|               |              |              | dream        |              |              |       |
++---------------+--------------+--------------+--------------+--------------+--------------+-------+
+| https://www.d | May 03, 2018 | Frozen       | https://www. | Valley View  | San Diego    | , CA  |
+| isneyonice.co | - May 06,    |              | disneyonice. | Casino       |              |       |
+| m/tickets/P10 | 2018         |              | com/frozen   | Center       |              |       |
++---------------+--------------+--------------+--------------+--------------+--------------+-------+
+| https://www.d | May 03, 2018 | Reach for    | https://www. | AmericanBank | Corpus       | , TX  |
+| isneyonice.co | - May 06,    | the Stars    | disneyonice. | Center       | Christi      |       |
+| m/tickets/P10 | 2018         |              | com/reach-   |              |              |       |
+|               |              |              | for-the-     |              |              |       |
+|               |              |              | stars        |              |              |       |
++---------------+--------------+--------------+--------------+--------------+--------------+-------+
+| https://www.d | May 03, 2018 | Dare to      | https://www. | Lakefront    | New Orleans  | , LA  |
+| isneyonice.co | - May 06,    | Dream        | disneyonice. | Arena        |              |       |
+| m/tickets/P10 | 2018         |              | com/dare-to- |              |              |       |
+|               |              |              | dream        |              |              |       |
++---------------+--------------+--------------+--------------+--------------+--------------+-------+
+| https://www.d | May 10, 2018 | Reach for    | https://www. | Raising      | Baton Rouge  | , LA  |
+| isneyonice.co | - May 13,    | the Stars    | disneyonice. | Cane's River |              |       |
+| m/tickets/P10 | 2018         |              | com/reach-   | Center       |              |       |
+|               |              |              | for-the-     |              |              |       |
+|               |              |              | stars        |              |              |       |
++---------------+--------------+--------------+--------------+--------------+--------------+-------+
+| https://www.d | May 11, 2018 | Dare to      | https://www. | Amway Center | Orlando      | , FL  |
+| isneyonice.co | - May 13,    | Dream        | disneyonice. |              |              |       |
+| m/tickets/P10 | 2018         |              | com/dare-to- |              |              |       |
+|               |              |              | dream        |              |              |       |
++---------------+--------------+--------------+--------------+--------------+--------------+-------+
+| https://www.d | May 11, 2018 | Frozen       | https://www. | Pensacola    | Pensacola    | , FL  |
+| isneyonice.co | - May 13,    |              | disneyonice. | Bay Center   |              |       |
+| m/tickets/P10 | 2018         |              | com/frozen   |              |              |       |
++---------------+--------------+--------------+--------------+--------------+--------------+-------+
+| https://www.d | May 16, 2018 | Reach for    | https://www. | Von Braun    | Huntsville   | , AL  |
+| isneyonice.co | - May 20,    | the Stars    | disneyonice. | Center       |              |       |
+| m/tickets/P10 | 2018         |              | com/reach-   |              |              |       |
+|               |              |              | for-the-     |              |              |       |
+|               |              |              | stars        |              |              |       |
++---------------+--------------+--------------+--------------+--------------+--------------+-------+
+| https://www.d | May 17, 2018 | Dare to      | https://www. | Alamodome    | San Antonio  | , TX  |
+| isneyonice.co | - May 20,    | Dream        | disneyonice. |              |              |       |
+| m/tickets/P10 | 2018         |              | com/dare-to- |              |              |       |
+|               |              |              | dream        |              |              |       |
++---------------+--------------+--------------+--------------+--------------+--------------+-------+
+| https://www.d | Sep 06, 2018 | Frozen       | https://www. | FedExForum   | Memphis      | , TN  |
+| isneyonice.co | - Sep 09,    |              | disneyonice. |              |              |       |
+| m/tickets/P10 | 2018         |              | com/frozen   |              |              |       |
++---------------+--------------+--------------+--------------+--------------+--------------+-------+

@@ -1,0 +1,71 @@
++----------------------------------+-----------------------------+---------------------------------+
+| url                              | Key                         | Value                           |
++----------------------------------+-----------------------------+---------------------------------+
+| http://macroeconomicanalysis.com | What is NAIRU?              | Non-Accelerating Inflation Rate |
+| /macroeconomics-wikipedia/nairu/ |                             | of Unemployment (NAIRU) is the  |
+|                                  |                             | unemployment rate consistent    |
+|                                  |                             | with maintaining stable         |
+|                                  |                             | inflation. According to the     |
+|                                  |                             | standard macroeconomic theory,  |
+|                                  |                             | inflation will tend to rise if  |
+|                                  |                             | the unemployment rate falls     |
+|                                  |                             | below the natural rate.         |
+|                                  |                             | Conversely, when the            |
+|                                  |                             | unemployment rate rises above   |
+|                                  |                             | the natural rate, inflation     |
+|                                  |                             | tends to fall. Thus, the        |
+|                                  |                             | natural rate and the NAIRU are  |
+|                                  |                             | often viewed as two names for   |
+|                                  |                             | the same thing, providing an    |
+|                                  |                             | important benchmark for gauging |
+|                                  |                             | the state of the business       |
+|                                  |                             | cycle, the outlook for future   |
+|                                  |                             | inflation, and the appropriate  |
+|                                  |                             | stance of monetary policy.      |
++----------------------------------+-----------------------------+---------------------------------+
+| http://macroeconomicanalysis.com | History of NAIRU            | During the severe recession of  |
+| /macroeconomics-wikipedia/nairu/ |                             | 1974-75 both the inflation rate |
+|                                  |                             | and the unemployment rate       |
+|                                  |                             | reached some of the highest     |
+|                                  |                             | levels in postwar U.S. history. |
+|                                  |                             | This experience shook public    |
+|                                  |                             | faith in Keynesianism and       |
+|                                  |                             | played a key role in shaping    |
+|                                  |                             | the subsequent debate about     |
+|                                  |                             | inflation. The warnings of      |
+|                                  |                             | Milton Friedman and other       |
+|                                  |                             | monetarists that attempts to    |
+|                                  |                             | “ride the Phillips curve” might |
+|                                  |                             | lead to accelerating inflation  |
+|                                  |                             | began to be heeded by more and  |
+|                                  |                             | more people, both inside and    |
+|                                  |                             | outside the ranks of            |
+|                                  |                             | professional economists. The    |
+|                                  |                             | credibility of the monetarist   |
+|                                  |                             | alternative to Keynesian theory |
+|                                  |                             | was greatly strengthened.       |
++----------------------------------+-----------------------------+---------------------------------+
+| http://macroeconomicanalysis.com | Different concepts of NAIRU | The simplest theoretical        |
+| /macroeconomics-wikipedia/nairu/ |                             | framework incorporating the     |
+|                                  |                             | NAIRU concept in a transparent  |
+|                                  |                             | fashion is the expectations-    |
+|                                  |                             | augmented Phillips curve, which |
+|                                  |                             | is also consistent with a       |
+|                                  |                             | variety of alternative          |
+|                                  |                             | structural models. The Phillips |
+|                                  |                             | curve also has a long empirical |
+|                                  |                             | tradition of being used as a    |
+|                                  |                             | means of estimating NAIRU       |
+|                                  |                             | indicators. Refinements of the  |
+|                                  |                             | empirical specification led     |
+|                                  |                             | Gordon (1997) to summarize it   |
+|                                  |                             | in terms of the so-called       |
+|                                  |                             | “triangle model” with inflation |
+|                                  |                             | being determined by three       |
+|                                  |                             | factors: built-in inflation,    |
+|                                  |                             | demand-pull inflation, and      |
+|                                  |                             | cost-push inflation.            |
++----------------------------------+-----------------------------+---------------------------------+
+| http://macroeconomicanalysis.com | RELATED CONCEPTS            | Phillips Curve                  |
+| /macroeconomics-wikipedia/nairu/ |                             |                                 |
++----------------------------------+-----------------------------+---------------------------------+

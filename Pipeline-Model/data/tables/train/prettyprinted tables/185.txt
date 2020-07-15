@@ -1,0 +1,216 @@
++-------------------------------------+-------+------------------------------------+---------------+
+| url                                 | Years | Years_link                         | Seconds       |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.000 | https://www.calculateme.com/time/y | 3,155.7       |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.0001             |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.000 | https://www.calculateme.com/time/y | 6,311.4       |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.0002             |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.000 | https://www.calculateme.com/time/y | 9,467.1       |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.0003             |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.000 | https://www.calculateme.com/time/y | 12,623        |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.0004             |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.001 | https://www.calculateme.com/time/y | 15,778        |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.0005             |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.001 | https://www.calculateme.com/time/y | 18,934        |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.0006             |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.001 | https://www.calculateme.com/time/y | 22,090        |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.0007             |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.001 | https://www.calculateme.com/time/y | 25,246        |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.0008             |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.001 | https://www.calculateme.com/time/y | 28,401        |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.0009             |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.001 | https://www.calculateme.com/time/y | 31,557        |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.001              |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.002 | https://www.calculateme.com/time/y | 63,114        |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.002              |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.003 | https://www.calculateme.com/time/y | 94,671        |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.003              |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.004 | https://www.calculateme.com/time/y | 126,228       |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.004              |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.005 | https://www.calculateme.com/time/y | 157,785       |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.005              |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.006 | https://www.calculateme.com/time/y | 189,342       |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.006              |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.007 | https://www.calculateme.com/time/y | 220,899       |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.007              |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.008 | https://www.calculateme.com/time/y | 252,456       |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.008              |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.009 | https://www.calculateme.com/time/y | 284,013       |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.009              |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.010 | https://www.calculateme.com/time/y | 315,570       |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.01               |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.020 | https://www.calculateme.com/time/y | 631,139       |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.02               |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.030 | https://www.calculateme.com/time/y | 946,709       |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.03               |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.040 | https://www.calculateme.com/time/y | 1,262,278     |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.04               |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.050 | https://www.calculateme.com/time/y | 1,577,848     |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.05               |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.060 | https://www.calculateme.com/time/y | 1,893,417     |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.06               |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.070 | https://www.calculateme.com/time/y | 2,208,987     |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.07               |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.080 | https://www.calculateme.com/time/y | 2,524,556     |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.08               |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.090 | https://www.calculateme.com/time/y | 2,840,126     |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.09               |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.100 | https://www.calculateme.com/time/y | 3,155,695     |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.1                |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.200 | https://www.calculateme.com/time/y | 6,311,390     |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.2                |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.300 | https://www.calculateme.com/time/y | 9,467,086     |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.3                |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.400 | https://www.calculateme.com/time/y | 12,622,781    |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.4                |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.500 | https://www.calculateme.com/time/y | 15,778,476    |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.5                |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.600 | https://www.calculateme.com/time/y | 18,934,171    |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.6                |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.700 | https://www.calculateme.com/time/y | 22,089,866    |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.7                |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.800 | https://www.calculateme.com/time/y | 25,245,562    |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.8                |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 0.900 | https://www.calculateme.com/time/y | 28,401,257    |
+| ars/toSeconds.htm                   |       | ears/to-seconds/0.9                |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 1     | https://www.calculateme.com/time/y | 31,556,952    |
+| ars/toSeconds.htm                   |       | ears/to-seconds/1                  |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 2     | https://www.calculateme.com/time/y | 63,113,904    |
+| ars/toSeconds.htm                   |       | ears/to-seconds/2                  |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 3     | https://www.calculateme.com/time/y | 94,670,856    |
+| ars/toSeconds.htm                   |       | ears/to-seconds/3                  |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 4     | https://www.calculateme.com/time/y | 126,227,808   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/4                  |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 5     | https://www.calculateme.com/time/y | 157,784,760   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/5                  |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 6     | https://www.calculateme.com/time/y | 189,341,712   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/6                  |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 7     | https://www.calculateme.com/time/y | 220,898,664   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/7                  |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 8     | https://www.calculateme.com/time/y | 252,455,616   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/8                  |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 9     | https://www.calculateme.com/time/y | 284,012,568   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/9                  |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 10    | https://www.calculateme.com/time/y | 315,569,520   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/10                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 11    | https://www.calculateme.com/time/y | 347,126,472   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/11                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 12    | https://www.calculateme.com/time/y | 378,683,424   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/12                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 13    | https://www.calculateme.com/time/y | 410,240,376   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/13                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 14    | https://www.calculateme.com/time/y | 441,797,328   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/14                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 15    | https://www.calculateme.com/time/y | 473,354,280   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/15                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 16    | https://www.calculateme.com/time/y | 504,911,232   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/16                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 17    | https://www.calculateme.com/time/y | 536,468,184   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/17                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 18    | https://www.calculateme.com/time/y | 568,025,136   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/18                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 19    | https://www.calculateme.com/time/y | 599,582,088   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/19                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 20    | https://www.calculateme.com/time/y | 631,139,040   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/20                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 21    | https://www.calculateme.com/time/y | 662,695,992   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/21                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 22    | https://www.calculateme.com/time/y | 694,252,944   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/22                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 23    | https://www.calculateme.com/time/y | 725,809,896   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/23                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 24    | https://www.calculateme.com/time/y | 757,366,848   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/24                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 25    | https://www.calculateme.com/time/y | 788,923,800   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/25                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 26    | https://www.calculateme.com/time/y | 820,480,752   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/26                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 27    | https://www.calculateme.com/time/y | 852,037,704   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/27                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 28    | https://www.calculateme.com/time/y | 883,594,656   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/28                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 29    | https://www.calculateme.com/time/y | 915,151,608   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/29                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 30    | https://www.calculateme.com/time/y | 946,708,560   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/30                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 31    | https://www.calculateme.com/time/y | 978,265,512   |
+| ars/toSeconds.htm                   |       | ears/to-seconds/31                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 32    | https://www.calculateme.com/time/y | 1,009,822,464 |
+| ars/toSeconds.htm                   |       | ears/to-seconds/32                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 33    | https://www.calculateme.com/time/y | 1,041,379,416 |
+| ars/toSeconds.htm                   |       | ears/to-seconds/33                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 34    | https://www.calculateme.com/time/y | 1,072,936,368 |
+| ars/toSeconds.htm                   |       | ears/to-seconds/34                 |               |
++-------------------------------------+-------+------------------------------------+---------------+
+| https://www.calculateme.com/Time/Ye | 35    | https://www.calculateme.com/time/y | 1,104,493,320 |
+| ars/toSeconds.htm                   |       | ears/to-seconds/35                 |               |
++-------------------------------------+-------+------------------------------------+---------------+

@@ -1,0 +1,166 @@
++---------------------+-------------+--------------------+--------------------+--------------------+
+| url                 | Vitamin     | What_It_Does       | Why_You_Need_It    | Best_Foods         |
++---------------------+-------------+--------------------+--------------------+--------------------+
+| http://www.promaxnu | Vitamin A   | Vitamin A promotes | Although vitamin A | Vitamin A can be   |
+| trition.com/differe |             | healthy vision and | deficiency is rare | found in both      |
+| nt-types-of-        |             | skin, and it also  | in North America,  | plant and animal   |
+| vitamins-and-their- |             | supports bone and  | it is still        | sources. Some good |
+| functions/          |             | tooth growth. In   | important to have  | foods to eat to    |
+|                     |             | addition, vitamin  | enough of it in    | get vitamin A are  |
+|                     |             | A helps your       | your diet. There   | milk, cheese, and  |
+|                     |             | immune system and  | are certain groups | butter. Sources    |
+|                     |             | is important in    | of people that are | that are lower in  |
+|                     |             | the reproductive   | at risk of having  | fat are carrots,   |
+|                     |             | process. Finally,  | low vitamin A      | pumpkins, and      |
+|                     |             | vitamin A enables  | levels, including  | apricots.          |
+|                     |             | your heart,        | premature infants  |                    |
+|                     |             | kidneys, lungs,    | and people with    |                    |
+|                     |             | and other organs   | cystic fibrosis.   |                    |
+|                     |             | to work properly.  | Vitamin A          |                    |
+|                     |             |                    | deficiency can     |                    |
+|                     |             |                    | lead to an eye     |                    |
+|                     |             |                    | condition called   |                    |
+|                     |             |                    | xerophthalmia,     |                    |
+|                     |             |                    | which can lead to  |                    |
+|                     |             |                    | blindness.         |                    |
++---------------------+-------------+--------------------+--------------------+--------------------+
+| http://www.promaxnu | Vitamin B12 | Vitamin B12        | Those that are     | Vitamin B12 is     |
+| trition.com/differe |             | promotes healthy   | deficient in       | among the types of |
+| nt-types-of-        |             | nerve function and | vitamin B12 can    | vitamins that      |
+| vitamins-and-their- |             | also helps your    | suffer from        | occurs naturally   |
+| functions/          |             | body make new      | fatigue, anemia,   | in foods and is    |
+|                     |             | cells. It can also | loss of appetite,  | also available as  |
+|                     |             | help you lower     | and constipation.  | a supplement. Some |
+|                     |             | your risk of heart | Not having enough  | foods that are     |
+|                     |             | disease because it | B12 in your system | rich in B12 are    |
+|                     |             | breaks down fatty  | can also lead to   | meats and dairy,   |
+|                     |             | and amino acids.   | neurological       | including poultry, |
+|                     |             |                    | consequences, such | fish, cheese,      |
+|                     |             |                    | as dementia and    | liver, and yogurt. |
+|                     |             |                    | depression.        |                    |
++---------------------+-------------+--------------------+--------------------+--------------------+
+| http://www.promaxnu | Vitamin C   | Vitamin C is       | Vitamin C is an    | Citrus is a main   |
+| trition.com/differe |             | important for      | antioxidant and    | source of vitamin  |
+| nt-types-of-        |             | preventing         | helps protect your | C, although it is  |
+| vitamins-and-their- |             | infections and     | cells from free    | also found in      |
+| functions/          |             | promoting a        | radicals in the    | vegetables. Some   |
+|                     |             | healthy immune     | body. It is also   | good foods to eat  |
+|                     |             | system. It also    | needed to create   | to get the vitamin |
+|                     |             | helps the body     | collagen, which    | C you need include |
+|                     |             | absorb iron, which | allows your wounds | broccoli,          |
+|                     |             | is a critical      | to heal. People    | tomatoes, spinach, |
+|                     |             | component in the   | who get little to  | and oranges.       |
+|                     |             | process of         | no vitamin C may   |                    |
+|                     |             | carrying oxygen    | develop scurvy,    |                    |
+|                     |             | through your blood | which can also     |                    |
+|                     |             | cells.             | bring about        |                    |
+|                     |             |                    | depression and     |                    |
+|                     |             |                    | anemia, although   |                    |
+|                     |             |                    | it is rare.        |                    |
++---------------------+-------------+--------------------+--------------------+--------------------+
+| http://www.promaxnu | Vitamin D   | Vitamin D promotes | : Vitamin D can be | Dairy is an        |
+| trition.com/differe |             | the absorption of  | absorbed naturally | excellent source   |
+| nt-types-of-        |             | calcium in the     | through sunlight.  | of vitamin D,      |
+| vitamins-and-their- |             | body, which is     | However, many      | which is not       |
+| functions/          |             | important for bone | people work long   | present in very    |
+|                     |             | health and         | hours indoors and  | many foods. In     |
+|                     |             | development as you | lack proper        | addition to being  |
+|                     |             | grow. It also      | vitamin D levels.  | able to get        |
+|                     |             | helps reduce       | Deficiency can     | vitamin D as a     |
+|                     |             | inflammation and   | lead to brittle    | supplement, it can |
+|                     |             | benefits your      | bones and          | be found in milk,  |
+|                     |             | immune system.     | osteoporosis.      | cheese, and fatty  |
+|                     |             |                    |                    | fish.              |
++---------------------+-------------+--------------------+--------------------+--------------------+
+| http://www.promaxnu | Vitamin E   | Vitamin E acts as  | Vitamin E does a   | Vitamin E is found |
+| trition.com/differe |             | an antioxidant to  | lot to keep your   | in a number of     |
+| nt-types-of-        |             | protect cells from | body healthy,      | healthy fats,      |
+| vitamins-and-their- |             | damage and may     | including          | including          |
+| functions/          |             | also help in the   | promoting healthy  | avocados,          |
+|                     |             | fight against      | blood flow to keep | vegetable oil, egg |
+|                     |             | cancer and         | it from clotting.  | yolks, nuts, and   |
+|                     |             | Alzheimer’s        | Being deficient in | whole grains.      |
+|                     |             | disease. It is     | vitamin E can lead |                    |
+|                     |             | also important to  | to nerve and       |                    |
+|                     |             | the immune system, | muscle damage, as  |                    |
+|                     |             | fighting off       | well as vision     |                    |
+|                     |             | bacteria and       | problems and       |                    |
+|                     |             | preventing         | overall weakness.  |                    |
+|                     |             | infections.        |                    |                    |
++---------------------+-------------+--------------------+--------------------+--------------------+
+| http://www.promaxnu | Vitamin K   | Vitamin K is       | If you are taking  | Vitamin K is best  |
+| trition.com/differe |             | important for      | a blood thinner    | found in leafy     |
+| nt-types-of-        |             | blood clotting and | for heart health,  | greens, such as    |
+| vitamins-and-their- |             | promotes bone      | it is critical to  | collards, kale,    |
+| functions/          |             | health. Scientists | get the right      | spinach, turnip    |
+|                     |             | are studying its   | amount of vitamin  | greens, cabbage,   |
+|                     |             | effect on reducing | K in your system   | and broccoli.      |
+|                     |             | the risk of        | each day. Without  |                    |
+|                     |             | coronary heart     | enough in your     |                    |
+|                     |             | disease and        | body, you may      |                    |
+|                     |             | osteoporosis.      | experience         |                    |
+|                     |             |                    | bruising and       |                    |
+|                     |             |                    | bleeding problems. |                    |
++---------------------+-------------+--------------------+--------------------+--------------------+
+| http://www.promaxnu | Biotin      | Biotin is crucial  | Without biotin,    | Biotin is produced |
+| trition.com/differe |             | to maintaining     | your body is       | naturally in your  |
+| nt-types-of-        |             | overall health     | unable to          | intestinal tract,  |
+| vitamins-and-their- |             | because it         | naturally process  | but can also be    |
+| functions/          |             | increases          | and break down the | found in egg       |
+|                     |             | absorption of      | foods you eat.     | yolks, soybeans,   |
+|                     |             | protein,           | While biotin       | whole grains, and  |
+|                     |             | carbohydrates, and | deficiency is very | organ meats.       |
+|                     |             | fat from food. It  | rare, it can occur |                    |
+|                     |             | keeps your bones   | in athletes who    |                    |
+|                     |             | strong and your    | consume raw egg    |                    |
+|                     |             | hair healthy and   | whites over a long |                    |
+|                     |             | growing.           | period of time.    |                    |
+|                     |             |                    | Deficiency can     |                    |
+|                     |             |                    | cause depression,  |                    |
+|                     |             |                    | nausea, loss of    |                    |
+|                     |             |                    | hair, and scaly    |                    |
+|                     |             |                    | dermatitis.        |                    |
++---------------------+-------------+--------------------+--------------------+--------------------+
+| http://www.promaxnu | Folic Acid  | Folic acid is      | Not having enough  | Though folic acid  |
+| trition.com/differe |             | responsible for    | folic acid in your | is now added to    |
+| nt-types-of-        |             | making DNA and new | diet can cause     | most refined       |
+| vitamins-and-their- |             | red blood cells.   | anemia, which can  | grains and foods   |
+| functions/          |             | It works to        | deprive your body  | like healthy       |
+|                     |             | prevent anemia as  | tissue of vital    | protein bars, it   |
+|                     |             | well.              | oxygen. Pregnant   | is naturally       |
+|                     |             |                    | women with a       | occurring in       |
+|                     |             |                    | deficiency may see | legumes, liver,    |
+|                     |             |                    | birth defects in   | seeds, and greens  |
+|                     |             |                    | their children.    | like broccoli,     |
+|                     |             |                    |                    | spinach, romaine,  |
+|                     |             |                    |                    | peas, and okra.    |
++---------------------+-------------+--------------------+--------------------+--------------------+
+| http://www.promaxnu |             | Incorporating      |                    |                    |
+| trition.com/differe |             | these important    |                    |                    |
+| nt-types-of-        |             | types of vitamins  |                    |                    |
+| vitamins-and-their- |             | into your diet     |                    |                    |
+| functions/          |             | will help you stay |                    |                    |
+|                     |             | healthy and        |                    |                    |
+|                     |             | increase your      |                    |                    |
+|                     |             | performance while  |                    |                    |
+|                     |             | exercising. For a  |                    |                    |
+|                     |             | workout bar that   |                    |                    |
+|                     |             | packs essential    |                    |                    |
+|                     |             | vitamins and none  |                    |                    |
+|                     |             | of the unnecessary |                    |                    |
+|                     |             | stuff like         |                    |                    |
+|                     |             | artificial         |                    |                    |
+|                     |             | sweeteners,; from  |                    |                    |
+|                     |             | Promax. We offer   |                    |                    |
+|                     |             | great tasting,     |                    |                    |
+|                     |             | high-protein       |                    |                    |
+|                     |             | energy bars for    |                    |                    |
+|                     |             | active people      |                    |                    |
+|                     |             | striving to        |                    |                    |
+|                     |             | achieve a healthy  |                    |                    |
+|                     |             | and fit lifestyle. |                    |                    |
+|                     |             | For more           |                    |                    |
+|                     |             | information, feel  |                    |                    |
+|                     |             | free to visit our; |                    |                    |
+|                     |             | .                  |                    |                    |
++---------------------+-------------+--------------------+--------------------+--------------------+

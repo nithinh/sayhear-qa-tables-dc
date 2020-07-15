@@ -1,0 +1,116 @@
++---------------------------------+------------------------------+---------------------------------+
+| url                             | key                          | value                           |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/V | Coordinates                  | 40°36′23″N 74°02′44″W /         |
+| errazano-Narrows_Bridge         |                              | 40.60639°N 74.04556°W /         |
+|                                 |                              | 40.60639; -74.04556Coordinates: |
+|                                 |                              | 40°36′23″N 74°02′44″W /         |
+|                                 |                              | 40.60639°N 74.04556°W /         |
+|                                 |                              | 40.60639; -74.04556;            |
+|                                 |                              | 40°36′23″N; 74°02′44″W          |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/V | Carries                      | 13 lanes of I-278               |
+| errazano-Narrows_Bridge         |                              |  (7 lanes on upper level: 6     |
+|                                 |                              | fixed-direction, 1 reversible   |
+|                                 |                              | HOV lane;                       |
+|                                 |                              |  6 lanes on lower level)        |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/V | Crosses                      | The Narrows; The Narrows        |
+| errazano-Narrows_Bridge         |                              |                                 |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/V | Locale                       | New York City (Staten           |
+| errazano-Narrows_Bridge         |                              | Island–Brooklyn), New York,     |
+|                                 |                              | U.S.                            |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/V | Other name(s)                | Verrazano Narrows Bridge        |
+| errazano-Narrows_Bridge         |                              |  Verrazano Bridge               |
+|                                 |                              |  Narrows Bridge                 |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/V | Maintained by                | MTA Bridges and Tunnels         |
+| errazano-Narrows_Bridge         |                              |                                 |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/V | Total length                 | 13,700 feet (4,176 m)           |
+| errazano-Narrows_Bridge         |                              |                                 |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/V | Width                        | 103 feet (31 m)                 |
+| errazano-Narrows_Bridge         |                              |                                 |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/V | Height                       | 649.68 feet (198 m)             |
+| errazano-Narrows_Bridge         |                              |                                 |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/V | Longest span                 | 4,260 feet (1,298 m)            |
+| errazano-Narrows_Bridge         |                              |                                 |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/V | Clearance above              | 15 feet (4.57 m) (upper level)  |
+| errazano-Narrows_Bridge         |                              |  14.4 feet (4.39 m) (lower      |
+|                                 |                              | level)                          |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/V | Clearance below              | 228 feet (69.5 m) at mean high  |
+| errazano-Narrows_Bridge         |                              | water[1]                        |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/V | Designer                     | Othmar Ammann; Othmar Ammann    |
+| errazano-Narrows_Bridge         |                              |                                 |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/V | Construction start           | August 13, 1959; 58 years ago   |
+| errazano-Narrows_Bridge         |                              | (1959-08-13)                    |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/V | Opened                       | November 21, 1964; 53 years ago |
+| errazano-Narrows_Bridge         |                              | (1964-11-21) (upper level)      |
+|                                 |                              |  June 28, 1969; 48 years ago    |
+|                                 |                              | (1969-06-28) (lower level)      |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/V | Daily traffic; Daily traffic | 189,962 (2008)[2]               |
+| errazano-Narrows_Bridge         |                              |                                 |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/V | Toll                         | As of March 19, 2017:           |
+| errazano-Narrows_Bridge         |                              |  $11.52 (New York E-ZPass users |
+|                                 |                              | outside Staten Island)          |
+|                                 |                              |  $5.50 (Staten Island           |
+|                                 |                              | residents)                      |
+|                                 |                              |  $17.00 (all others; billed by  |
+|                                 |                              | mail)                           |
++---------------------------------+------------------------------+---------------------------------+
+| https://en.wikipedia.org/wiki/V |                              | Verrazano-Narrows Bridge        |
+| errazano-Narrows_Bridge         |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              | Location                        |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              | Verrazano-Narrows Bridge        |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              | Verrazano-Narrows Bridge (New   |
+|                                 |                              | York)                           |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              | Verrazano-Narrows Bridge        |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              | Verrazano-Narrows Bridge (the   |
+|                                 |                              | US)                             |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |                                 |
+|                                 |                              |  Show map of New York CityShow  |
+|                                 |                              | map of New YorkShow map of the  |
+|                                 |                              | USShow all                      |
++---------------------------------+------------------------------+---------------------------------+

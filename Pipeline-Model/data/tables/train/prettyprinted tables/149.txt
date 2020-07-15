@@ -1,0 +1,47 @@
++---------------------------+--------------+---------------------------+---------------------------+
+| url                       | key          | value                     | value_link                |
++---------------------------+--------------+---------------------------+---------------------------+
+| http://marvelcinematicuni | Director(s)  | Ryan Coogler              | http://marvelcinematicuni |
+| verse.wikia.com/wiki/Blac |              |                           | verse.wikia.com/wiki/Ryan |
+| k_Panther_(film)          |              |                           | _Coogler                  |
++---------------------------+--------------+---------------------------+---------------------------+
+| http://marvelcinematicuni | Writer(s)    | Joe Robert Cole; Ryan     | http://marvelcinematicuni |
+| verse.wikia.com/wiki/Blac |              | Coogler; Donald Glover;   | verse.wikia.com/wiki/Joe_ |
+| k_Panther_(film)          |              | Stephen Glover            | Robert_Cole; http://marve |
+|                           |              |                           | lcinematicuniverse.wikia. |
+|                           |              |                           | com/wiki/Ryan_Coogler; ht |
+|                           |              |                           | tp://marvelcinematicunive |
+|                           |              |                           | rse.wikia.com/wiki/Donald |
+|                           |              |                           | _Glover; http://marvelcin |
+|                           |              |                           | ematicuniverse.wikia.com/ |
+|                           |              |                           | wiki/Stephen_Glover       |
++---------------------------+--------------+---------------------------+---------------------------+
+| http://marvelcinematicuni | Producer(s)  | Kevin Feige; Victoria     | http://marvelcinematicuni |
+| verse.wikia.com/wiki/Blac |              | Alonso; Nate Moore;       | verse.wikia.com/wiki/Kevi |
+| k_Panther_(film)          |              | Jeffrey Chernov; Stan Lee | n_Feige; http://marvelcin |
+|                           |              |                           | ematicuniverse.wikia.com/ |
+|                           |              |                           | wiki/Victoria_Alonso; htt |
+|                           |              |                           | p://marvelcinematicuniver |
+|                           |              |                           | se.wikia.com/wiki/Nate_Mo |
+|                           |              |                           | ore; http://marvelcinemat |
+|                           |              |                           | icuniverse.wikia.com/wiki |
+|                           |              |                           | /Jeffrey_Chernov; http:// |
+|                           |              |                           | marvelcinematicuniverse.w |
+|                           |              |                           | ikia.com/wiki/Stan_Lee    |
++---------------------------+--------------+---------------------------+---------------------------+
+| http://marvelcinematicuni | Composer     | Ludwig Göransson          | http://marvelcinematicuni |
+| verse.wikia.com/wiki/Blac |              |                           | verse.wikia.com/wiki/Ludw |
+| k_Panther_(film)          |              |                           | ig_G%C3%B6ransson         |
++---------------------------+--------------+---------------------------+---------------------------+
+| http://marvelcinematicuni | Release Date | February 16, 2018         |                           |
+| verse.wikia.com/wiki/Blac |              |                           |                           |
+| k_Panther_(film)          |              |                           |                           |
++---------------------------+--------------+---------------------------+---------------------------+
+| http://marvelcinematicuni | Running Time | 134 minutes               |                           |
+| verse.wikia.com/wiki/Blac |              |                           |                           |
+| k_Panther_(film)          |              |                           |                           |
++---------------------------+--------------+---------------------------+---------------------------+
+| http://marvelcinematicuni | Box Office   | $1.345 billion            |                           |
+| verse.wikia.com/wiki/Blac |              |                           |                           |
+| k_Panther_(film)          |              |                           |                           |
++---------------------------+--------------+---------------------------+---------------------------+

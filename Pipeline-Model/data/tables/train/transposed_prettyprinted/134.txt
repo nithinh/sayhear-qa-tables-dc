@@ -1,0 +1,12 @@
++--------------------+-------------------+-------------------+---------+---------------+-----------+
+| observed by        | significance      | celebrations      | date    | next time     | frequency |
++--------------------+-------------------+-------------------+---------+---------------+-----------+
+| utah , united      | commemorates the  | parades,          | july 24 | july 24, 2018 | annual    |
+| states             | entry of brigham  | fireworks,        |         |               |           |
+|                    | young and the     | rodeos, and other |         |               |           |
+|                    | first group of    | festivities       |         |               |           |
+|                    | mormon pioneers   |                   |         |               |           |
+|                    | into the salt     |                   |         |               |           |
+|                    | lake valley on    |                   |         |               |           |
+|                    | july 24, 1847     |                   |         |               |           |
++--------------------+-------------------+-------------------+---------+---------------+-----------+

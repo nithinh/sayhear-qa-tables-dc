@@ -1,0 +1,27 @@
++----------------------------------------------------------------------------------+---------------+
+| Key                                                                              | Value         |
++----------------------------------------------------------------------------------+---------------+
+| issue sub type                                                                   | common stock  |
++----------------------------------------------------------------------------------+---------------+
+|  52 week high   "52 week high" is the highest sales price the stock has achieved | 97.240        |
+| during the regular trading hours during the most recent 52 week period.          |               |
++----------------------------------------------------------------------------------+---------------+
+|  dividend yield   "dividend yield" is the indicated yield represents annual      | 1.88 %        |
+| dividends divided by current stock price.                                        |               |
++----------------------------------------------------------------------------------+---------------+
+|  p/e ratio   "p/e ratio" is the current stock price divided by trailing annual   | 61.880        |
+| earnings per share or expected annual earnings per share.                        |               |
++----------------------------------------------------------------------------------+---------------+
+| exchange   "exchange" is a marketplace in which shares, options and futures on   | nasdaq-gs     |
+| stocks, bonds, commodities, and indexes are traded. principal u.s. stock         |               |
+| exchanges are: new york stock exchange (nyse), american stock exchange (amex),   |               |
+| and national association of securities dealers automatic quotation system        |               |
+| (nasdaq).                                                                        |               |
++----------------------------------------------------------------------------------+---------------+
+| 52 week low   "52 week low" is the lowest sales price the stock has fallen to    | 64.850        |
+| during the regular trading hours during the most recent 52 week period.          |               |
++----------------------------------------------------------------------------------+---------------+
+| annual dividend                                                                  | $ 1.68        |
++----------------------------------------------------------------------------------+---------------+
+| shares outstanding                                                               | 7,699,793,000 |
++----------------------------------------------------------------------------------+---------------+

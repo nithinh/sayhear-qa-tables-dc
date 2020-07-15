@@ -1,0 +1,269 @@
++----------------+----------------+----------------+---------------+---------------+---------------+
+| url            | Currency       | From_Euro_to_C | From_Euro_to_ | From_Currency | From_Currency |
+|                |                | urrency        | Currency_link | _to_Euro      | _to_Euro_link |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Argentine Peso | 24.791         | http://x-rate | 0.040         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=A |               | from=ARS&to=E |
+| =1             |                |                | RS            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Australian     | 1.602          | http://x-rate | 0.624         | http://x-rate |
+| s.com/table/?f | Dollar         |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=A |               | from=AUD&to=E |
+| =1             |                |                | UD            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Bahraini Dinar | 0.462          | http://x-rate | 2.164         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=B |               | from=BHD&to=E |
+| =1             |                |                | HD            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Botswana Pula  | 11.815         | http://x-rate | 0.085         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=B |               | from=BWP&to=E |
+| =1             |                |                | WP            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Brazilian Real | 4.188          | http://x-rate | 0.239         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=B |               | from=BRL&to=E |
+| =1             |                |                | RL            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | British Pound  | 0.877          | http://x-rate | 1.140         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=G |               | from=GBP&to=E |
+| =1             |                |                | BP            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Bruneian       | 1.617          | http://x-rate | 0.618         | http://x-rate |
+| s.com/table/?f | Dollar         |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=B |               | from=BND&to=E |
+| =1             |                |                | ND            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Bulgarian Lev  | 1.956          | http://x-rate | 0.511         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=B |               | from=BGN&to=E |
+| =1             |                |                | GN            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Canadian       | 1.567          | http://x-rate | 0.638         | http://x-rate |
+| s.com/table/?f | Dollar         |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=C |               | from=CAD&to=E |
+| =1             |                |                | AD            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Chilean Peso   | 732.751        | http://x-rate | 0.001         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=C |               | from=CLP&to=E |
+| =1             |                |                | LP            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Chinese Yuan   | 7.736          | http://x-rate | 0.129         | http://x-rate |
+| s.com/table/?f | Renminbi       |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=C |               | from=CNY&to=E |
+| =1             |                |                | NY            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Colombian Peso | 3392.736       | http://x-rate | 0.000         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=C |               | from=COP&to=E |
+| =1             |                |                | OP            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Croatian Kuna  | 7.416          | http://x-rate | 0.135         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=H |               | from=HRK&to=E |
+| =1             |                |                | RK            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Czech Koruna   | 25.354         | http://x-rate | 0.039         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=C |               | from=CZK&to=E |
+| =1             |                |                | ZK            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Danish Krone   | 7.448          | http://x-rate | 0.134         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=D |               | from=DKK&to=E |
+| =1             |                |                | KK            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Emirati Dirham | 4.513          | http://x-rate | 0.222         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=A |               | from=AED&to=E |
+| =1             |                |                | ED            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Hong Kong      | 9.638          | http://x-rate | 0.104         | http://x-rate |
+| s.com/table/?f | Dollar         |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=H |               | from=HKD&to=E |
+| =1             |                |                | KD            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Hungarian      | 310.828        | http://x-rate | 0.003         | http://x-rate |
+| s.com/table/?f | Forint         |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=H |               | from=HUF&to=E |
+| =1             |                |                | UF            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Icelandic      | 123.253        | http://x-rate | 0.008         | http://x-rate |
+| s.com/table/?f | Krona          |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=I |               | from=ISK&to=E |
+| =1             |                |                | SK            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Indian Rupee   | 81.352         | http://x-rate | 0.012         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=I |               | from=INR&to=E |
+| =1             |                |                | NR            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Indonesian     | 17060.642      | http://x-rate | 0.000         | http://x-rate |
+| s.com/table/?f | Rupiah         |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=I |               | from=IDR&to=E |
+| =1             |                |                | DR            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Iranian Rial   | 51758.171      | http://x-rate | 0.000         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=I |               | from=IRR&to=E |
+| =1             |                |                | RR            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Israeli Shekel | 4.333          | http://x-rate | 0.231         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=I |               | from=ILS&to=E |
+| =1             |                |                | LS            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Japanese Yen   | 132.219        | http://x-rate | 0.008         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=J |               | from=JPY&to=E |
+| =1             |                |                | PY            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Kazakhstani    | 401.110        | http://x-rate | 0.002         | http://x-rate |
+| s.com/table/?f | Tenge          |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=K |               | from=KZT&to=E |
+| =1             |                |                | ZT            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Kuwaiti Dinar  | 0.369          | http://x-rate | 2.709         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=K |               | from=KWD&to=E |
+| =1             |                |                | WD            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Libyan Dinar   | 1.628          | http://x-rate | 0.614         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=L |               | from=LYD&to=E |
+| =1             |                |                | YD            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Malaysian      | 4.791          | http://x-rate | 0.209         | http://x-rate |
+| s.com/table/?f | Ringgit        |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=M |               | from=MYR&to=E |
+| =1             |                |                | YR            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Mauritian      | 41.885         | http://x-rate | 0.024         | http://x-rate |
+| s.com/table/?f | Rupee          |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=M |               | from=MUR&to=E |
+| =1             |                |                | UR            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Mexican Peso   | 22.767         | http://x-rate | 0.044         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=M |               | from=MXN&to=E |
+| =1             |                |                | XN            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Nepalese Rupee | 130.774        | http://x-rate | 0.008         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=N |               | from=NPR&to=E |
+| =1             |                |                | PR            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | New Zealand    | 1.704          | http://x-rate | 0.587         | http://x-rate |
+| s.com/table/?f | Dollar         |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=N |               | from=NZD&to=E |
+| =1             |                |                | ZD            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Norwegian      | 9.612          | http://x-rate | 0.104         | http://x-rate |
+| s.com/table/?f | Krone          |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=N |               | from=NOK&to=E |
+| =1             |                |                | OK            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Omani Rial     | 0.472          | http://x-rate | 2.117         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=O |               | from=OMR&to=E |
+| =1             |                |                | MR            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Pakistani      | 142.269        | http://x-rate | 0.007         | http://x-rate |
+| s.com/table/?f | Rupee          |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=P |               | from=PKR&to=E |
+| =1             |                |                | KR            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Philippine     | 64.141         | http://x-rate | 0.016         | http://x-rate |
+| s.com/table/?f | Peso           |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=P |               | from=PHP&to=E |
+| =1             |                |                | HP            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Polish Zloty   | 4.173          | http://x-rate | 0.240         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=P |               | from=PLN&to=E |
+| =1             |                |                | LN            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Qatari Riyal   | 4.473          | http://x-rate | 0.224         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=Q |               | from=QAR&to=E |
+| =1             |                |                | AR            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Romanian New   | 4.659          | http://x-rate | 0.215         | http://x-rate |
+| s.com/table/?f | Leu            |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=R |               | from=RON&to=E |
+| =1             |                |                | ON            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Russian Ruble  | 75.386         | http://x-rate | 0.013         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=R |               | from=RUB&to=E |
+| =1             |                |                | UB            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Saudi Arabian  | 4.608          | http://x-rate | 0.217         | http://x-rate |
+| s.com/table/?f | Riyal          |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=S |               | from=SAR&to=E |
+| =1             |                |                | AR            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Singapore      | 1.617          | http://x-rate | 0.618         | http://x-rate |
+| s.com/table/?f | Dollar         |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=S |               | from=SGD&to=E |
+| =1             |                |                | GD            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | South African  | 14.867         | http://x-rate | 0.067         | http://x-rate |
+| s.com/table/?f | Rand           |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=Z |               | from=ZAR&to=E |
+| =1             |                |                | AR            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | South Korean   | 1316.034       | http://x-rate | 0.001         | http://x-rate |
+| s.com/table/?f | Won            |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=K |               | from=KRW&to=E |
+| =1             |                |                | RW            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Sri Lankan     | 192.115        | http://x-rate | 0.005         | http://x-rate |
+| s.com/table/?f | Rupee          |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=L |               | from=LKR&to=E |
+| =1             |                |                | KR            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Swedish Krona  | 10.374         | http://x-rate | 0.096         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=S |               | from=SEK&to=E |
+| =1             |                |                | EK            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Swiss Franc    | 1.198          | http://x-rate | 0.835         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=C |               | from=CHF&to=E |
+| =1             |                |                | HF            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Taiwan New     | 36.208         | http://x-rate | 0.028         | http://x-rate |
+| s.com/table/?f | Dollar         |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=T |               | from=TWD&to=E |
+| =1             |                |                | WD            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Thai Baht      | 38.503         | http://x-rate | 0.026         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=T |               | from=THB&to=E |
+| =1             |                |                | HB            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Trinidadian    | 8.319          | http://x-rate | 0.120         | http://x-rate |
+| s.com/table/?f | Dollar         |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=T |               | from=TTD&to=E |
+| =1             |                |                | TD            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Turkish Lira   | 5.008          | http://x-rate | 0.200         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=T |               | from=TRY&to=E |
+| =1             |                |                | RY            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | US Dollar      | 1.229          | http://x-rate | 0.814         | http://x-rate |
+| s.com/table/?f |                |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=U |               | from=USD&to=E |
+| =1             |                |                | SD            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+
+| https://x-rate | Venezuelan     | 12.272         | http://x-rate | 0.081         | http://x-rate |
+| s.com/table/?f | Bolivar        |                | s.com/graph/? |               | s.com/graph/? |
+| rom=EUR&amount |                |                | from=EUR&to=V |               | from=VEF&to=E |
+| =1             |                |                | EF            |               | UR            |
++----------------+----------------+----------------+---------------+---------------+---------------+

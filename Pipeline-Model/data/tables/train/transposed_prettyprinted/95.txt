@@ -1,0 +1,342 @@
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| url    | Produc | Produc | Produc | Regula | Produc | Produc | Coolin | Noise  | NVIDIA | AMD    |
+|        | t_Imag | t_Imag | t_Imag | r_Pric | t_Name | t_Name | g_Capa |        |        |        |
+|        | e      | e_alt  | e_link | e      |        | _link  | city   |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | https: | Accele | https: | USD    | Accele | https: | 300W   | 0.3    | Titan  | RX     |
+| //www. | //stat | ro     | //www. | 119.99 | ro     | //www. |        | Sone   | Xp,    | 580,   |
+| arctic | ic.arc | Hybrid | arctic |        | Hybrid | arctic |        |        | Titan  | 570,   |
+| .ac/us | tic.ac | III-12 | .ac/us |        | III-12 | .ac/us |        |        | X(Pasc | 480,   |
+| _en/pr | /media | 0      | _en/ac |        | 0      | _en/ac |        |        | al),   | 470,   |
+| oducts | /catal |        | celero |        |        | celero |        |        | GTX 10 | R9 390 |
+| /cooli | og/pro |        | -hybri |        |        | -hybri |        |        | 80(Ti) | (X), 3 |
+| ng/vga | duct/c |        | d-iii- |        |        | d-iii- |        |        | , 1070 | 80(X), |
+| .html  | ache/4 |        | 120.ht |        |        | 120.ht |        |        | (Ti),  | 370X,  |
+|        | /small |        | ml     |        |        | ml     |        |        | 1060;  | 290(X) |
+|        | _image |        |        |        |        |        |        |        | ,      | ,      |
+|        | /300x1 |        |        |        |        |        |        |        | Titan  | 285,;  |
+|        | 50/9df |        |        |        |        |        |        |        | X, 980 | 280(X) |
+|        | 78eab3 |        |        |        |        |        |        |        | (Ti),  | *; , 2 |
+|        | 3525d0 |        |        |        |        |        |        |        | 970,   | 70(X), |
+|        | 8d6e5f |        |        |        |        |        |        |        | 960, T | R7     |
+|        | b8d271 |        |        |        |        |        |        |        | itan(B | 370,   |
+|        | 36e95/ |        |        |        |        |        |        |        | lack), | 265,   |
+|        | a/c/ac |        |        |        |        |        |        |        | 780(Ti | HD 787 |
+|        | celero |        |        |        |        |        |        |        | ),     | 0(XT,  |
+|        | _hybri |        |        |        |        |        |        |        | 770,;  | GHz),; |
+|        | d_iii_ |        |        |        |        |        |        |        | ...    | ...    |
+|        | 120_b0 |        |        |        |        |        |        |        |        |        |
+|        | 0.png  |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | https: | Accele | https: | USD    | Accele | https: | 300W   | 0.4    | Titan  | RX     |
+| //www. | //stat | ro     | //www. | 89.99  | ro     | //www. |        | Sone @ | Xp,    | 580,   |
+| arctic | ic.arc | Xtreme | arctic |        | Xtreme | arctic |        | 2,000  | Titan  | 570,   |
+| .ac/us | tic.ac | IV     | .ac/us |        | IV     | .ac/us |        | RPM    | X(Pasc | 480,   |
+| _en/pr | /media |        | _en/ac |        |        | _en/ac |        |        | al),   | 470,   |
+| oducts | /catal |        | celero |        |        | celero |        |        | GTX 10 | R9 390 |
+| /cooli | og/pro |        | -xtrem |        |        | -xtrem |        |        | 80(Ti) | (X), 3 |
+| ng/vga | duct/c |        | e-iv.h |        |        | e-iv.h |        |        | , 1070 | 80(X), |
+| .html  | ache/4 |        | tml    |        |        | tml    |        |        | (Ti),  | 370X,  |
+|        | /small |        |        |        |        |        |        |        | 1060;  | 290(X) |
+|        | _image |        |        |        |        |        |        |        | ,      | ,      |
+|        | /300x1 |        |        |        |        |        |        |        | Titan  | 285,;  |
+|        | 50/9df |        |        |        |        |        |        |        | X, 980 | 280(X) |
+|        | 78eab3 |        |        |        |        |        |        |        | (Ti),  | *; ,   |
+|        | 3525d0 |        |        |        |        |        |        |        | 970,   | 270(X) |
+|        | 8d6e5f |        |        |        |        |        |        |        | Titan  | ,R7    |
+|        | b8d271 |        |        |        |        |        |        |        | (Black | 370,   |
+|        | 36e95/ |        |        |        |        |        |        |        | ), 780 | 265,   |
+|        | a/c/ac |        |        |        |        |        |        |        | (Ti),  | HD     |
+|        | celero |        |        |        |        |        |        |        | 770,;  | 8870,; |
+|        | _xtrem |        |        |        |        |        |        |        | …      | ...    |
+|        | e_iv_b |        |        |        |        |        |        |        |        |        |
+|        | 00_3.p |        |        |        |        |        |        |        |        |        |
+|        | ng     |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | https: | Accele | https: | USD    | Accele | https: | 300W   | 0.4    | Titan  | Titan  |
+| //www. | //stat | ro     | //www. | 89.99  | ro     | //www. |        | Sone @ | Xp,    | Xp,    |
+| arctic | ic.arc | Xtreme | arctic |        | Xtreme | arctic |        | 2,000  | Titan  | Titan  |
+| .ac/us | tic.ac | IV     | .ac/us |        | IV     | .ac/us |        | RPM    | X(Pasc | X(Pasc |
+| _en/pr | /media | 280(X) | _en/ac |        | 280(X) | _en/ac |        |        | al),   | al),   |
+| oducts | /catal |        | celero |        |        | celero |        |        | GTX 10 | GTX 10 |
+| /cooli | og/pro |        | -xtrem |        |        | -xtrem |        |        | 80(Ti) | 80(Ti) |
+| ng/vga | duct/c |        | e-iv-2 |        |        | e-iv-2 |        |        | , 1070 | , 1070 |
+| .html  | ache/4 |        | 80-x.h |        |        | 80-x.h |        |        | (Ti),  | (Ti),  |
+|        | /small |        | tml    |        |        | tml    |        |        | 1060;  | 1060;  |
+|        | _image |        |        |        |        |        |        |        | ,      | ,      |
+|        | /300x1 |        |        |        |        |        |        |        | Titan  | Titan  |
+|        | 50/9df |        |        |        |        |        |        |        | X, 980 | X, 980 |
+|        | 78eab3 |        |        |        |        |        |        |        | (Ti),  | (Ti),  |
+|        | 3525d0 |        |        |        |        |        |        |        | 970,   | 970,   |
+|        | 8d6e5f |        |        |        |        |        |        |        | Titan  | Titan  |
+|        | b8d271 |        |        |        |        |        |        |        | (Black | (Black |
+|        | 36e95/ |        |        |        |        |        |        |        | ), 780 | ), 780 |
+|        | a/c/ac |        |        |        |        |        |        |        | (Ti),  | (Ti),  |
+|        | celero |        |        |        |        |        |        |        | 770,   | 770,   |
+|        | _xtrem |        |        |        |        |        |        |        | 760,;  | 760,;  |
+|        | e_iv_2 |        |        |        |        |        |        |        | ...;   | ...;   |
+|        | 80x_b0 |        |        |        |        |        |        |        | RX     | RX     |
+|        | 0_1.pn |        |        |        |        |        |        |        | 580,   | 580,   |
+|        | g      |        |        |        |        |        |        |        | 570,   | 570,   |
+|        |        |        |        |        |        |        |        |        | 480,   | 480,   |
+|        |        |        |        |        |        |        |        |        | 470,   | 470,   |
+|        |        |        |        |        |        |        |        |        | R9 390 | R9 390 |
+|        |        |        |        |        |        |        |        |        | (X), 3 | (X), 3 |
+|        |        |        |        |        |        |        |        |        | 80(X), | 80(X), |
+|        |        |        |        |        |        |        |        |        | 370X,  | 370X,  |
+|        |        |        |        |        |        |        |        |        | 290(X) | 290(X) |
+|        |        |        |        |        |        |        |        |        | , 285, | , 285, |
+|        |        |        |        |        |        |        |        |        | 280(X) | 280(X) |
+|        |        |        |        |        |        |        |        |        | ,270(X | ,270(X |
+|        |        |        |        |        |        |        |        |        | ), R7  | ), R7  |
+|        |        |        |        |        |        |        |        |        | 370,   | 370,   |
+|        |        |        |        |        |        |        |        |        | 265,   | 265,   |
+|        |        |        |        |        |        |        |        |        | HD     | HD     |
+|        |        |        |        |        |        |        |        |        | 8970,  | 8970,  |
+|        |        |        |        |        |        |        |        |        | 8950,; | 8950,; |
+|        |        |        |        |        |        |        |        |        | ...    | ...    |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | https: | Accele | https: | USD    | Accele | https: | 300W   | 0.4    | Titan  | R9 390 |
+| //www. | //stat | ro     | //www. | 89.99  | ro     | //www. |        | Sone @ | Xp,    | (X), 3 |
+| arctic | ic.arc | Xtreme | arctic |        | Xtreme | arctic |        | 2,000  | Titan  | 80(X), |
+| .ac/us | tic.ac | III    | .ac/us |        | III    | .ac/us |        | RPM    | X(Pasc | 370X,  |
+| _en/pr | /media |        | _en/ac |        |        | _en/ac |        |        | al),   | 290(X) |
+| oducts | /catal |        | celero |        |        | celero |        |        | GTX 10 | ,      |
+| /cooli | og/pro |        | -xtrem |        |        | -xtrem |        |        | 80(Ti) | 285,;  |
+| ng/vga | duct/c |        | e-iii. |        |        | e-iii. |        |        | , 1070 | 280(X) |
+| .html  | ache/4 |        | html   |        |        | html   |        |        | (Ti),  | *; , 2 |
+|        | /small |        |        |        |        |        |        |        | 1060;  | 70(X), |
+|        | _image |        |        |        |        |        |        |        | ,      | R7     |
+|        | /300x1 |        |        |        |        |        |        |        | Titan  | 370,   |
+|        | 50/9df |        |        |        |        |        |        |        | X, 980 | 265,   |
+|        | 78eab3 |        |        |        |        |        |        |        | (Ti),  | HD     |
+|        | 3525d0 |        |        |        |        |        |        |        | 970, T | 8870,  |
+|        | 8d6e5f |        |        |        |        |        |        |        | itan(B | 7970   |
+|        | b8d271 |        |        |        |        |        |        |        | lack), | (GHz), |
+|        | 36e95/ |        |        |        |        |        |        |        | 780(Ti | 7950 ( |
+|        | a/c/ac |        |        |        |        |        |        |        | ),     | Boost) |
+|        | celero |        |        |        |        |        |        |        | 770, 7 | ,; ... |
+|        | _xtrem |        |        |        |        |        |        |        | 60(Ti) |        |
+|        | e_iii_ |        |        |        |        |        |        |        | ,; …   |        |
+|        | b00_2. |        |        |        |        |        |        |        |        |        |
+|        | png    |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | https: | Accele | https: | USD    | Accele | https: | 250W   | 0.3    | Titan  | RX     |
+| //www. | //stat | ro     | //www. | 89.99  | ro     | //www. |        | Sone @ | Xp,    | 580,   |
+| arctic | ic.arc | Twin   | arctic |        | Twin   | arctic |        | 2,000  | Titan  | 570,   |
+| .ac/us | tic.ac | Turbo  | .ac/us |        | Turbo  | .ac/us |        | RPM    | X(Pasc | 480,   |
+| _en/pr | /media | III    | _en/ac |        | III    | _en/ac |        |        | al),   | 470,   |
+| oducts | /catal |        | celero |        |        | celero |        |        | GTX 10 | 460; , |
+| /cooli | og/pro |        | -twin- |        |        | -twin- |        |        | 80(Ti) | R9 380 |
+| ng/vga | duct/c |        | turbo- |        |        | turbo- |        |        | , 1070 | (X),   |
+| .html  | ache/4 |        | iii.ht |        |        | iii.ht |        |        | (Ti),  | 370X,  |
+|        | /small |        | ml     |        |        | ml     |        |        | 1060;  | 285, 2 |
+|        | _image |        |        |        |        |        |        |        | , 1050 | 70(X), |
+|        | /300x1 |        |        |        |        |        |        |        | (Ti),  | R7     |
+|        | 50/9df |        |        |        |        |        |        |        | Titan  | 370,   |
+|        | 78eab3 |        |        |        |        |        |        |        | X, 980 | 360,   |
+|        | 3525d0 |        |        |        |        |        |        |        | (Ti),  | 265, 2 |
+|        | 8d6e5f |        |        |        |        |        |        |        | 970,   | 60(X), |
+|        | b8d271 |        |        |        |        |        |        |        | 960, T | 250(X) |
+|        | 36e95/ |        |        |        |        |        |        |        | itan*( | , 240, |
+|        | a/c/ac |        |        |        |        |        |        |        | Black* | HD     |
+|        | celero |        |        |        |        |        |        |        | ),;    | 8870,  |
+|        | _twin_ |        |        |        |        |        |        |        | ,...   | 8760,. |
+|        | turbo_ |        |        |        |        |        |        |        |        | ..     |
+|        | iii_b0 |        |        |        |        |        |        |        |        |        |
+|        | 0.png  |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | https: | Accele | https: | USD    | Accele | https: | 250W   | 0.3    | GTX    | RX     |
+| //www. | //stat | ro     | //www. | 59.99  | ro     | //www. |        | Sone @ | 1080,  | 460; , |
+| arctic | ic.arc | Twin   | arctic |        | Twin   | arctic |        | 2,000  | 1070   | R9 380 |
+| .ac/us | tic.ac | Turbo  | .ac/us |        | Turbo  | .ac/us |        | RPM    | (Ti),  | (X),   |
+| _en/pr | /media | II     | _en/ac |        | II     | _en/ac |        |        | 1060;  | 370X,  |
+| oducts | /catal |        | celero |        |        | celero |        |        | , 1050 | 285, 2 |
+| /cooli | og/pro |        | -twin- |        |        | -twin- |        |        | (Ti),9 | 70(X), |
+| ng/vga | duct/c |        | turbo- |        |        | turbo- |        |        | 80,    | R7     |
+| .html  | ache/4 |        | ii.htm |        |        | ii.htm |        |        | 970,   | 370,   |
+|        | /small |        | l      |        |        | l      |        |        | 960,   | 360,   |
+|        | _image |        |        |        |        |        |        |        | 770,   | 265, 2 |
+|        | /300x1 |        |        |        |        |        |        |        | 760, 7 | 60(X), |
+|        | 50/9df |        |        |        |        |        |        |        | 50(Ti) | 250(X) |
+|        | 78eab3 |        |        |        |        |        |        |        | , 680, | , 240, |
+|        | 3525d0 |        |        |        |        |        |        |        | 670, 6 | HD     |
+|        | 8d6e5f |        |        |        |        |        |        |        | 60(Ti) | 8870,  |
+|        | b8d271 |        |        |        |        |        |        |        | , 650( | 8760,. |
+|        | 36e95/ |        |        |        |        |        |        |        | Ti, Ti | ..     |
+|        | a/c/ac |        |        |        |        |        |        |        | boost) |        |
+|        | celero |        |        |        |        |        |        |        | ,      |        |
+|        | _twin_ |        |        |        |        |        |        |        | 580,;  |        |
+|        | turbo_ |        |        |        |        |        |        |        | …      |        |
+|        | ii_b00 |        |        |        |        |        |        |        |        |        |
+|        | .png   |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | https: | Accele | https: | USD    | Accele | https: | 400W   | 0.4    | HD     | HD     |
+| //www. | //stat | ro     | //www. | 99.99  | ro     | //www. |        | Sone @ | 6990   | 6990   |
+| arctic | ic.arc | Twin   | arctic |        | Twin   | arctic |        | 1,500  |        |        |
+| .ac/us | tic.ac | Turbo  | .ac/us |        | Turbo  | .ac/us |        | RPM    |        |        |
+| _en/pr | /media | 6990   | _en/ac |        | 6990   | _en/ac |        |        |        |        |
+| oducts | /catal |        | celero |        |        | celero |        |        |        |        |
+| /cooli | og/pro |        | -twin- |        |        | -twin- |        |        |        |        |
+| ng/vga | duct/c |        | turbo- |        |        | turbo- |        |        |        |        |
+| .html  | ache/4 |        | 6990.h |        |        | 6990.h |        |        |        |        |
+|        | /small |        | tml    |        |        | tml    |        |        |        |        |
+|        | _image |        |        |        |        |        |        |        |        |        |
+|        | /300x1 |        |        |        |        |        |        |        |        |        |
+|        | 50/9df |        |        |        |        |        |        |        |        |        |
+|        | 78eab3 |        |        |        |        |        |        |        |        |        |
+|        | 3525d0 |        |        |        |        |        |        |        |        |        |
+|        | 8d6e5f |        |        |        |        |        |        |        |        |        |
+|        | b8d271 |        |        |        |        |        |        |        |        |        |
+|        | 36e95/ |        |        |        |        |        |        |        |        |        |
+|        | a/c/ac |        |        |        |        |        |        |        |        |        |
+|        | celero |        |        |        |        |        |        |        |        |        |
+|        | _twint |        |        |        |        |        |        |        |        |        |
+|        | urbo_6 |        |        |        |        |        |        |        |        |        |
+|        | 990_b0 |        |        |        |        |        |        |        |        |        |
+|        | 0.png  |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | https: | Accele | https: | USD    | Accele | https: | 400W   | 0.4    | GTX    | GTX    |
+| //www. | //stat | ro     | //www. | 99.99  | ro     | //www. |        | Sone @ | 690    | 690    |
+| arctic | ic.arc | Twin   | arctic |        | Twin   | arctic |        | 1,500  |        |        |
+| .ac/us | tic.ac | Turbo  | .ac/us |        | Turbo  | .ac/us |        | RPM    |        |        |
+| _en/pr | /media | 690    | _en/ac |        | 690    | _en/ac |        |        |        |        |
+| oducts | /catal |        | celero |        |        | celero |        |        |        |        |
+| /cooli | og/pro |        | -twin- |        |        | -twin- |        |        |        |        |
+| ng/vga | duct/c |        | turbo- |        |        | turbo- |        |        |        |        |
+| .html  | ache/4 |        | 690.ht |        |        | 690.ht |        |        |        |        |
+|        | /small |        | ml     |        |        | ml     |        |        |        |        |
+|        | _image |        |        |        |        |        |        |        |        |        |
+|        | /300x1 |        |        |        |        |        |        |        |        |        |
+|        | 50/9df |        |        |        |        |        |        |        |        |        |
+|        | 78eab3 |        |        |        |        |        |        |        |        |        |
+|        | 3525d0 |        |        |        |        |        |        |        |        |        |
+|        | 8d6e5f |        |        |        |        |        |        |        |        |        |
+|        | b8d271 |        |        |        |        |        |        |        |        |        |
+|        | 36e95/ |        |        |        |        |        |        |        |        |        |
+|        | a/c/ac |        |        |        |        |        |        |        |        |        |
+|        | celero |        |        |        |        |        |        |        |        |        |
+|        | _twin_ |        |        |        |        |        |        |        |        |        |
+|        | turbo_ |        |        |        |        |        |        |        |        |        |
+|        | 690_b0 |        |        |        |        |        |        |        |        |        |
+|        | 0.png  |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | https: | Accele | https: | USD    | Accele | https: | 135W   | 0 Sone | GTX    | RX     |
+| //www. | //stat | ro S3  | //www. | 39.99  | ro S3  | //www. |        |        | 1070** | 580**, |
+| arctic | ic.arc |        | arctic |        |        | arctic |        |        | (Ti**) | 570**, |
+| .ac/us | tic.ac |        | .ac/us |        |        | .ac/us |        |        | ,      | 480**, |
+| _en/pr | /media |        | _en/ac |        |        | _en/ac |        |        | 1060;  | 470*,  |
+| oducts | /catal |        | celero |        |        | celero |        |        | , 1050 | 460; , |
+| /cooli | og/pro |        | -s3.ht |        |        | -s3.ht |        |        | (Ti),  | R9 370 |
+| ng/vga | duct/c |        | ml     |        |        | ml     |        |        | 960,   | X**,;  |
+| .html  | ache/4 |        |        |        |        |        |        |        | 760**, | 280**; |
+|        | /small |        |        |        |        |        |        |        | 750(Ti | , 270* |
+|        | _image |        |        |        |        |        |        |        | ),     | *(X**) |
+|        | /300x1 |        |        |        |        |        |        |        | 680**, | , R7   |
+|        | 50/9df |        |        |        |        |        |        |        | 670**, | 370*,  |
+|        | 78eab3 |        |        |        |        |        |        |        | 660(Ti | 360*,  |
+|        | 3525d0 |        |        |        |        |        |        |        | **), 6 | 265**, |
+|        | 8d6e5f |        |        |        |        |        |        |        | 50(Ti* | 260(X* |
+|        | b8d271 |        |        |        |        |        |        |        | ,Ti bo | ), 250 |
+|        | 36e95/ |        |        |        |        |        |        |        | ost**) | (X),   |
+|        | a/c/ac |        |        |        |        |        |        |        | , 560* | 240,;  |
+|        | celero |        |        |        |        |        |        |        | *(Ti** | ...    |
+|        | _s3_b0 |        |        |        |        |        |        |        | ,SE**) |        |
+|        | 0_2.pn |        |        |        |        |        |        |        | ,; ... |        |
+|        | g      |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | https: | S3     | https: | USD    | S3     | https: | 0.25   |        |        |        |
+| //www. | //stat | Turbo  | //www. | 12.99  | Turbo  | //www. | Sone   |        |        |        |
+| arctic | ic.arc | Module | arctic |        | Module | arctic |        |        |        |        |
+| .ac/us | tic.ac |        | .ac/us |        |        | .ac/us |        |        |        |        |
+| _en/pr | /media |        | _en/s3 |        |        | _en/s3 |        |        |        |        |
+| oducts | /catal |        | -turbo |        |        | -turbo |        |        |        |        |
+| /cooli | og/pro |        | -modul |        |        | -modul |        |        |        |        |
+| ng/vga | duct/c |        | e.html |        |        | e.html |        |        |        |        |
+| .html  | ache/4 |        |        |        |        |        |        |        |        |        |
+|        | /small |        |        |        |        |        |        |        |        |        |
+|        | _image |        |        |        |        |        |        |        |        |        |
+|        | /300x1 |        |        |        |        |        |        |        |        |        |
+|        | 50/9df |        |        |        |        |        |        |        |        |        |
+|        | 78eab3 |        |        |        |        |        |        |        |        |        |
+|        | 3525d0 |        |        |        |        |        |        |        |        |        |
+|        | 8d6e5f |        |        |        |        |        |        |        |        |        |
+|        | b8d271 |        |        |        |        |        |        |        |        |        |
+|        | 36e95/ |        |        |        |        |        |        |        |        |        |
+|        | s/3/s3 |        |        |        |        |        |        |        |        |        |
+|        | _turbo |        |        |        |        |        |        |        |        |        |
+|        | _modul |        |        |        |        |        |        |        |        |        |
+|        | e_b00. |        |        |        |        |        |        |        |        |        |
+|        | png    |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | https: | Accele | https: | USD    | Accele | https: | 200W   | 0.4    | GTX    | RX     |
+| //www. | //stat | ro     | //www. | 54.99  | ro     | //www. |        | Sone @ | 1080,  | 460; , |
+| arctic | ic.arc | Mono   | arctic |        | Mono   | arctic |        | 1,500  | 1070   | R9     |
+| .ac/us | tic.ac | PLUS   | .ac/us |        | PLUS   | .ac/us |        | RPM    | (Ti),  | 380,   |
+| _en/pr | /media |        | _en/ac |        |        | _en/ac |        |        | 1060;  | 370X,  |
+| oducts | /catal |        | celero |        |        | celero |        |        | , 1050 | 285, 2 |
+| /cooli | og/pro |        | -mono- |        |        | -mono- |        |        | (Ti),  | 70(X), |
+| ng/vga | duct/c |        | plus.h |        |        | plus.h |        |        | 970,   | R7     |
+| .html  | ache/4 |        | tml    |        |        | tml    |        |        | 960,   | 370,   |
+|        | /small |        |        |        |        |        |        |        | 950,   | 360,   |
+|        | _image |        |        |        |        |        |        |        | 760, 7 | 265, 2 |
+|        | /300x1 |        |        |        |        |        |        |        | 50(Ti) | 60(X), |
+|        | 50/9df |        |        |        |        |        |        |        | , 670, | 250(X) |
+|        | 78eab3 |        |        |        |        |        |        |        | 660(Ti | ,      |
+|        | 3525d0 |        |        |        |        |        |        |        | ), 650 | 240,HD |
+|        | 8d6e5f |        |        |        |        |        |        |        | (Ti,   | 8870,  |
+|        | b8d271 |        |        |        |        |        |        |        | Ti boo | 8760,; |
+|        | 36e95/ |        |        |        |        |        |        |        | st),   | ...    |
+|        | a/c/ac |        |        |        |        |        |        |        | 640, 5 |        |
+|        | celero |        |        |        |        |        |        |        | 60(Ti, |        |
+|        | _mono_ |        |        |        |        |        |        |        | SE),;  |        |
+|        | plus_b |        |        |        |        |        |        |        | ...    |        |
+|        | 00.png |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | https: | Accele | https: | USD    | Accele | https: | 120W   | 0.4    | GTX 10 | RX     |
+| //www. | //stat | ro L2  | //www. | 21.99  | ro L2  | //www. |        | Sone @ | 50(Ti) | 460; , |
+| arctic | ic.arc | PLUS   | arctic |        | PLUS   | arctic |        | 2,000  | , 750  | R7     |
+| .ac/us | tic.ac |        | .ac/us |        |        | .ac/us |        | RPM    | (Ti),  | 370,   |
+| _en/pr | /media |        | _en/ac |        |        | _en/ac |        |        | 650    | 360, 2 |
+| oducts | /catal |        | celero |        |        | celero |        |        | (Ti),  | 60(X), |
+| /cooli | og/pro |        | -l2-pl |        |        | -l2-pl |        |        | GTS    | 250(X) |
+| ng/vga | duct/c |        | us.htm |        |        | us.htm |        |        | 450,   | , 240, |
+| .html  | ache/4 |        | l      |        |        | l      |        |        | 240    | HD     |
+|        | /small |        |        |        |        |        |        |        | (OEM), | 8760,  |
+|        | _image |        |        |        |        |        |        |        | GT     | 8740,  |
+|        | /300x1 |        |        |        |        |        |        |        | 740,   | 7850,  |
+|        | 50/9df |        |        |        |        |        |        |        | 640,   | 7790,  |
+|        | 78eab3 |        |        |        |        |        |        |        | 630,   | 7770(G |
+|        | 3525d0 |        |        |        |        |        |        |        | 440,   | Hz),   |
+|        | 8d6e5f |        |        |        |        |        |        |        | 340,   | 7750,  |
+|        | b8d271 |        |        |        |        |        |        |        | 330,   | 7730,  |
+|        | 36e95/ |        |        |        |        |        |        |        | 320,   | 6850,  |
+|        | a/c/ac |        |        |        |        |        |        |        | 240,…  | 6770,  |
+|        | celero |        |        |        |        |        |        |        |        | 6750,… |
+|        | _l2_pl |        |        |        |        |        |        |        |        |        |
+|        | us_b00 |        |        |        |        |        |        |        |        |        |
+|        | .png   |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | https: | Turbo  | https: | USD    | Turbo  | https: |        |        |        |        |
+| //www. | //stat | Module | //www. | 9.99   | Module | //www. |        |        |        |        |
+| arctic | ic.arc | V1     | arctic |        | V1     | arctic |        |        |        |        |
+| .ac/us | tic.ac |        | .ac/us |        |        | .ac/us |        |        |        |        |
+| _en/pr | /media |        | _en/tu |        |        | _en/tu |        |        |        |        |
+| oducts | /catal |        | rbo-mo |        |        | rbo-mo |        |        |        |        |
+| /cooli | og/pro |        | dule.h |        |        | dule.h |        |        |        |        |
+| ng/vga | duct/c |        | tml    |        |        | tml    |        |        |        |        |
+| .html  | ache/4 |        |        |        |        |        |        |        |        |        |
+|        | /small |        |        |        |        |        |        |        |        |        |
+|        | _image |        |        |        |        |        |        |        |        |        |
+|        | /300x1 |        |        |        |        |        |        |        |        |        |
+|        | 50/9df |        |        |        |        |        |        |        |        |        |
+|        | 78eab3 |        |        |        |        |        |        |        |        |        |
+|        | 3525d0 |        |        |        |        |        |        |        |        |        |
+|        | 8d6e5f |        |        |        |        |        |        |        |        |        |
+|        | b8d271 |        |        |        |        |        |        |        |        |        |
+|        | 36e95/ |        |        |        |        |        |        |        |        |        |
+|        | t/u/tu |        |        |        |        |        |        |        |        |        |
+|        | rbo_mo |        |        |        |        |        |        |        |        |        |
+|        | dule_b |        |        |        |        |        |        |        |        |        |
+|        | 00.png |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+

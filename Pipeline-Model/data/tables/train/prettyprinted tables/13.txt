@@ -1,0 +1,30 @@
++----------------------+-----------------+---------------------+-------------+---------------------+
+| url                  | Time            | Time_link           | Temperature | Forecast            |
++----------------------+-----------------+---------------------+-------------+---------------------+
+| https://www.accuweat | Current Weather | https://www.accuwea | 84°         | Thunderstorm        |
+| her.com/en/us/pittsb |                 | ther.com/en/us/pitt |             |                     |
+| urgh-                |                 | sburgh-             |             |                     |
+| pa/15219/weather-    |                 | pa/15219/current-   |             |                     |
+| forecast/1310        |                 | weather/1310        |             |                     |
++----------------------+-----------------+---------------------+-------------+---------------------+
+| https://www.accuweat | Today           | https://www.accuwea | 86°         | A shower or t-storm |
+| her.com/en/us/pittsb |                 | ther.com/en/us/pitt |             | in spots            |
+| urgh-                |                 | sburgh-             |             |                     |
+| pa/15219/weather-    |                 | pa/15219/daily-     |             |                     |
+| forecast/1310        |                 | weather-            |             |                     |
+|                      |                 | forecast/1310?day=1 |             |                     |
++----------------------+-----------------+---------------------+-------------+---------------------+
+| https://www.accuweat | Tonight         | https://www.accuwea | 66°         | Clouds, a t-storm   |
+| her.com/en/us/pittsb |                 | ther.com/en/us/pitt |             | in spots            |
+| urgh-                |                 | sburgh-             |             |                     |
+| pa/15219/weather-    |                 | pa/15219/daily-     |             |                     |
+| forecast/1310        |                 | weather-            |             |                     |
+|                      |                 | forecast/1310?day=1 |             |                     |
++----------------------+-----------------+---------------------+-------------+---------------------+
+| https://www.accuweat | Tomorrow        | https://www.accuwea | 77°         | A shower and        |
+| her.com/en/us/pittsb |                 | ther.com/en/us/pitt |             | t-storm around      |
+| urgh-                |                 | sburgh-             |             |                     |
+| pa/15219/weather-    |                 | pa/15219/daily-     |             |                     |
+| forecast/1310        |                 | weather-            |             |                     |
+|                      |                 | forecast/1310?day=2 |             |                     |
++----------------------+-----------------+---------------------+-------------+---------------------+

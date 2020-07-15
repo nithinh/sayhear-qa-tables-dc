@@ -1,0 +1,260 @@
++----------+----------+---------+---------+---------+---------+---------+---------+------+---------+
+| url      | Image_1  | Image_1 | Image_1 | Search_ | Name    | Name_li | Review_ | Cost | Categor |
+|          |          | _alt    | _link   | Result  |         | nk      | Count   |      | y_1     |
++----------+----------+---------+---------+---------+---------+---------+---------+------+---------+
+| https:// | https:// | Spice   | https:/ | Ad      | Spice   | https:/ | 10      | $$   | Adult   |
+| www.yelp | s3-media | of Life | /www.ye |         | of Life | /www.ye | reviews |      |         |
+| .com/sea | 3.fl.yel | - The U | lp.com/ |         | - The U | lp.com/ |         |      |         |
+| rch?find | pcdn.com | ltimate | adredir |         | ltimate | adredir |         |      |         |
+| _desc=co | /bphoto/ | Adult   | ?ad_bus |         | Adult   | ?ad_bus |         |      |         |
+| ndoms&fi | 3qOROp1A | Store   | iness_i |         | Store   | iness_i |         |      |         |
+| nd_loc=M | b35wcJUK |         | d=Bouod |         |         | d=Bouod |         |      |         |
+| iami%2C+ | eMelPw/9 |         | YeloiCj |         |         | YeloiCj |         |      |         |
+| FL       | 0s.jpg   |         | 9rIQTnK |         |         | 9rIQTnK |         |      |         |
+|          |          |         | kYQ&cam |         |         | kYQ&cam |         |      |         |
+|          |          |         | paign_i |         |         | paign_i |         |      |         |
+|          |          |         | d=D4bwO |         |         | d=D4bwO |         |      |         |
+|          |          |         | 9RDRdpE |         |         | 9RDRdpE |         |      |         |
+|          |          |         | OE6_M4U |         |         | OE6_M4U |         |      |         |
+|          |          |         | YXQ&cli |         |         | YXQ&cli |         |      |         |
+|          |          |         | ck_orig |         |         | ck_orig |         |      |         |
+|          |          |         | in=sear |         |         | in=sear |         |      |         |
+|          |          |         | ch_resu |         |         | ch_resu |         |      |         |
+|          |          |         | lts&pla |         |         | lts&pla |         |      |         |
+|          |          |         | cement= |         |         | cement= |         |      |         |
+|          |          |         | above_s |         |         | above_s |         |      |         |
+|          |          |         | earch&r |         |         | earch&r |         |      |         |
+|          |          |         | edirect |         |         | edirect |         |      |         |
+|          |          |         | _url=ht |         |         | _url=ht |         |      |         |
+|          |          |         | tps%3A% |         |         | tps%3A% |         |      |         |
+|          |          |         | 2F%2Fww |         |         | 2F%2Fww |         |      |         |
+|          |          |         | w.yelp. |         |         | w.yelp. |         |      |         |
+|          |          |         | com%2Fb |         |         | com%2Fb |         |      |         |
+|          |          |         | iz%2Fsp |         |         | iz%2Fsp |         |      |         |
+|          |          |         | ice-of- |         |         | ice-of- |         |      |         |
+|          |          |         | life-   |         |         | life-   |         |      |         |
+|          |          |         | the-ult |         |         | the-ult |         |      |         |
+|          |          |         | imate-  |         |         | imate-  |         |      |         |
+|          |          |         | adult-  |         |         | adult-  |         |      |         |
+|          |          |         | store-h |         |         | store-h |         |      |         |
+|          |          |         | allanda |         |         | allanda |         |      |         |
+|          |          |         | le&requ |         |         | le&requ |         |      |         |
+|          |          |         | est_id= |         |         | est_id= |         |      |         |
+|          |          |         | 726775b |         |         | 726775b |         |      |         |
+|          |          |         | 8d0f5ca |         |         | 8d0f5ca |         |      |         |
+|          |          |         | 9b&sign |         |         | 9b&sign |         |      |         |
+|          |          |         | ature=5 |         |         | ature=5 |         |      |         |
+|          |          |         | 8643276 |         |         | 8643276 |         |      |         |
+|          |          |         | db74ca3 |         |         | db74ca3 |         |      |         |
+|          |          |         | 71de80a |         |         | 71de80a |         |      |         |
+|          |          |         | 2943659 |         |         | 2943659 |         |      |         |
+|          |          |         | ca5ec03 |         |         | ca5ec03 |         |      |         |
+|          |          |         | 6cdd741 |         |         | 6cdd741 |         |      |         |
+|          |          |         | a7fb65f |         |         | a7fb65f |         |      |         |
+|          |          |         | 7106533 |         |         | 7106533 |         |      |         |
+|          |          |         | 64bd375 |         |         | 64bd375 |         |      |         |
+|          |          |         | &slot=0 |         |         | &slot=0 |         |      |         |
++----------+----------+---------+---------+---------+---------+---------+---------+------+---------+
+| https:// | https:// | Hustler | https:/ | Ad      | Hustler | https:/ | 41      | $$   | Lingeri |
+| www.yelp | s3-media | Hollywo | /www.ye |         | Hollywo | /www.ye | reviews |      | e       |
+| .com/sea | 2.fl.yel | od      | lp.com/ |         | od      | lp.com/ |         |      |         |
+| rch?find | pcdn.com |         | adredir |         |         | adredir |         |      |         |
+| _desc=co | /bphoto/ |         | ?ad_bus |         |         | ?ad_bus |         |      |         |
+| ndoms&fi | A1uI7GGp |         | iness_i |         |         | iness_i |         |      |         |
+| nd_loc=M | qFA_dKSA |         | d=hCOrR |         |         | d=hCOrR |         |      |         |
+| iami%2C+ | N4U8BA/9 |         | 7vW8334 |         |         | 7vW8334 |         |      |         |
+| FL       | 0s.jpg   |         | QnNo7L2 |         |         | QnNo7L2 |         |      |         |
+|          |          |         | TMA&cam |         |         | TMA&cam |         |      |         |
+|          |          |         | paign_i |         |         | paign_i |         |      |         |
+|          |          |         | d=rE24z |         |         | d=rE24z |         |      |         |
+|          |          |         | rv1RtVS |         |         | rv1RtVS |         |      |         |
+|          |          |         | ypK9wR4 |         |         | ypK9wR4 |         |      |         |
+|          |          |         | HtA&cli |         |         | HtA&cli |         |      |         |
+|          |          |         | ck_orig |         |         | ck_orig |         |      |         |
+|          |          |         | in=sear |         |         | in=sear |         |      |         |
+|          |          |         | ch_resu |         |         | ch_resu |         |      |         |
+|          |          |         | lts&pla |         |         | lts&pla |         |      |         |
+|          |          |         | cement= |         |         | cement= |         |      |         |
+|          |          |         | above_s |         |         | above_s |         |      |         |
+|          |          |         | earch&r |         |         | earch&r |         |      |         |
+|          |          |         | edirect |         |         | edirect |         |      |         |
+|          |          |         | _url=ht |         |         | _url=ht |         |      |         |
+|          |          |         | tps%3A% |         |         | tps%3A% |         |      |         |
+|          |          |         | 2F%2Fww |         |         | 2F%2Fww |         |      |         |
+|          |          |         | w.yelp. |         |         | w.yelp. |         |      |         |
+|          |          |         | com%2Fb |         |         | com%2Fb |         |      |         |
+|          |          |         | iz%2Fhu |         |         | iz%2Fhu |         |      |         |
+|          |          |         | stler-h |         |         | stler-h |         |      |         |
+|          |          |         | ollywoo |         |         | ollywoo |         |      |         |
+|          |          |         | d-fort- |         |         | d-fort- |         |      |         |
+|          |          |         | lauderd |         |         | lauderd |         |      |         |
+|          |          |         | ale&req |         |         | ale&req |         |      |         |
+|          |          |         | uest_id |         |         | uest_id |         |      |         |
+|          |          |         | =726775 |         |         | =726775 |         |      |         |
+|          |          |         | b8d0f5c |         |         | b8d0f5c |         |      |         |
+|          |          |         | a9b&sig |         |         | a9b&sig |         |      |         |
+|          |          |         | nature= |         |         | nature= |         |      |         |
+|          |          |         | e611704 |         |         | e611704 |         |      |         |
+|          |          |         | 42f3255 |         |         | 42f3255 |         |      |         |
+|          |          |         | 0a42fbc |         |         | 0a42fbc |         |      |         |
+|          |          |         | 723fc93 |         |         | 723fc93 |         |      |         |
+|          |          |         | f45f165 |         |         | f45f165 |         |      |         |
+|          |          |         | f560eed |         |         | f560eed |         |      |         |
+|          |          |         | 628ed23 |         |         | 628ed23 |         |      |         |
+|          |          |         | c869dbe |         |         | c869dbe |         |      |         |
+|          |          |         | 1f6ea8f |         |         | 1f6ea8f |         |      |         |
+|          |          |         | 0&slot= |         |         | 0&slot= |         |      |         |
+|          |          |         | 1       |         |         | 1       |         |      |         |
++----------+----------+---------+---------+---------+---------+---------+---------+------+---------+
+| https:// | https:// | Happy S | https:/ | 1       | Happy S | https:/ | 1       | $    | Grocery |
+| www.yelp | s3-media | upermar | /www.ye |         | upermar | /www.ye | review  |      |         |
+| .com/sea | 4.fl.yel | ket     | lp.com/ |         | ket     | lp.com/ |         |      |         |
+| rch?find | pcdn.com |         | biz/hap |         |         | biz/hap |         |      |         |
+| _desc=co | /bphoto/ |         | py-supe |         |         | py-supe |         |      |         |
+| ndoms&fi | pQ7OWMNs |         | rmarket |         |         | rmarket |         |      |         |
+| nd_loc=M | 8OXvupOe |         | -miami? |         |         | -miami? |         |      |         |
+| iami%2C+ | ZGK7ww/9 |         | osq=con |         |         | osq=con |         |      |         |
+| FL       | 0s.jpg   |         | doms    |         |         | doms    |         |      |         |
++----------+----------+---------+---------+---------+---------+---------+---------+------+---------+
+| https:// | https:// | Walgree | https:/ | 2       | Walgree | https:/ | 36      | $    | Drugsto |
+| www.yelp | s3-media | ns      | /www.ye |         | ns      | /www.ye | reviews |      | res     |
+| .com/sea | 3.fl.yel |         | lp.com/ |         |         | lp.com/ |         |      |         |
+| rch?find | pcdn.com |         | biz/wal |         |         | biz/wal |         |      |         |
+| _desc=co | /bphoto/ |         | greens- |         |         | greens- |         |      |         |
+| ndoms&fi | IRiHuetV |         | miami-b |         |         | miami-b |         |      |         |
+| nd_loc=M | bJdwJrBg |         | each-3? |         |         | each-3? |         |      |         |
+| iami%2C+ | a-tLwA/9 |         | osq=con |         |         | osq=con |         |      |         |
+| FL       | 0s.jpg   |         | doms    |         |         | doms    |         |      |         |
++----------+----------+---------+---------+---------+---------+---------+---------+------+---------+
+| https:// | https:// | Out of  | https:/ | 3       | Out of  | https:/ | 33      | $    | Thrift  |
+| www.yelp | s3-media | the     | /www.ye |         | the     | /www.ye | reviews |      | Stores  |
+| .com/sea | 1.fl.yel | Closet  | lp.com/ |         | Closet  | lp.com/ |         |      |         |
+| rch?find | pcdn.com | - Miami | biz/out |         | - Miami | biz/out |         |      |         |
+| _desc=co | /bphoto/ |         | -of-    |         |         | -of-    |         |      |         |
+| ndoms&fi | e_v4pNLs |         | the-    |         |         | the-    |         |      |         |
+| nd_loc=M | H1x0Gn-n |         | closet- |         |         | closet- |         |      |         |
+| iami%2C+ | NtyxpQ/9 |         | miami-m |         |         | miami-m |         |      |         |
+| FL       | 0s.jpg   |         | iami?os |         |         | iami?os |         |      |         |
+|          |          |         | q=condo |         |         | q=condo |         |      |         |
+|          |          |         | ms      |         |         | ms      |         |      |         |
++----------+----------+---------+---------+---------+---------+---------+---------+------+---------+
+| https:// | https:// | Pharm-  | https:/ | 4       | Pharm-  | https:/ | 1       |      | Wholesa |
+| www.yelp | s3-media | Aid     | /www.ye |         | Aid     | /www.ye | review  |      | le      |
+| .com/sea | 4.fl.yel |         | lp.com/ |         |         | lp.com/ |         |      | Stores  |
+| rch?find | pcdn.com |         | biz/pha |         |         | biz/pha |         |      |         |
+| _desc=co | /bphoto/ |         | rm-aid- |         |         | rm-aid- |         |      |         |
+| ndoms&fi | HTR4jcMW |         | pembrok |         |         | pembrok |         |      |         |
+| nd_loc=M | hvQZGZ3T |         | e-pines |         |         | e-pines |         |      |         |
+| iami%2C+ | 3yMv1g/9 |         | ?osq=co |         |         | ?osq=co |         |      |         |
+| FL       | 0s.jpg   |         | ndoms   |         |         | ndoms   |         |      |         |
++----------+----------+---------+---------+---------+---------+---------+---------+------+---------+
+| https:// | https:// | CVS     | https:/ | 5       | CVS     | https:/ | 27      | $    | Drugsto |
+| www.yelp | s3-media |         | /www.ye |         |         | /www.ye | reviews |      | res     |
+| .com/sea | 4.fl.yel |         | lp.com/ |         |         | lp.com/ |         |      |         |
+| rch?find | pcdn.com |         | biz/cvs |         |         | biz/cvs |         |      |         |
+| _desc=co | /bphoto/ |         | -miami- |         |         | -miami- |         |      |         |
+| ndoms&fi | QXhJoHXB |         | beach-3 |         |         | beach-3 |         |      |         |
+| nd_loc=M | CIKmrViq |         | ?osq=co |         |         | ?osq=co |         |      |         |
+| iami%2C+ | k0vQtw/9 |         | ndoms   |         |         | ndoms   |         |      |         |
+| FL       | 0s.jpg   |         |         |         |         |         |         |      |         |
++----------+----------+---------+---------+---------+---------+---------+---------+------+---------+
+| https:// | https:// | Walgree | https:/ | 6       | Walgree | https:/ | 26      | $$   | Drugsto |
+| www.yelp | s3-media | ns      | /www.ye |         | ns      | /www.ye | reviews |      | res     |
+| .com/sea | 2.fl.yel |         | lp.com/ |         |         | lp.com/ |         |      |         |
+| rch?find | pcdn.com |         | biz/wal |         |         | biz/wal |         |      |         |
+| _desc=co | /bphoto/ |         | greens- |         |         | greens- |         |      |         |
+| ndoms&fi | j1SmDTYG |         | north-m |         |         | north-m |         |      |         |
+| nd_loc=M | zYtxev6K |         | iami-3? |         |         | iami-3? |         |      |         |
+| iami%2C+ | TTnJdw/9 |         | osq=con |         |         | osq=con |         |      |         |
+| FL       | 0s.jpg   |         | doms    |         |         | doms    |         |      |         |
++----------+----------+---------+---------+---------+---------+---------+---------+------+---------+
+| https:// | https:// | Walgree | https:/ | 7       | Walgree | https:/ | 29      | $$   | Drugsto |
+| www.yelp | s3-media | ns      | /www.ye |         | ns      | /www.ye | reviews |      | res     |
+| .com/sea | 2.fl.yel |         | lp.com/ |         |         | lp.com/ |         |      |         |
+| rch?find | pcdn.com |         | biz/wal |         |         | biz/wal |         |      |         |
+| _desc=co | /bphoto/ |         | greens- |         |         | greens- |         |      |         |
+| ndoms&fi | kqbsE3Rr |         | miami-b |         |         | miami-b |         |      |         |
+| nd_loc=M | HguGRpZ3 |         | each-13 |         |         | each-13 |         |      |         |
+| iami%2C+ | OlG8KQ/9 |         | ?osq=co |         |         | ?osq=co |         |      |         |
+| FL       | 0s.jpg   |         | ndoms   |         |         | ndoms   |         |      |         |
++----------+----------+---------+---------+---------+---------+---------+---------+------+---------+
+| https:// | https:// | Walgree | https:/ | 8       | Walgree | https:/ | 5       | $    | Drugsto |
+| www.yelp | s3-media | ns      | /www.ye |         | ns      | /www.ye | reviews |      | res     |
+| .com/sea | 3.fl.yel |         | lp.com/ |         |         | lp.com/ |         |      |         |
+| rch?find | pcdn.com |         | biz/wal |         |         | biz/wal |         |      |         |
+| _desc=co | /bphoto/ |         | greens- |         |         | greens- |         |      |         |
+| ndoms&fi | iCvZKMQr |         | hialeah |         |         | hialeah |         |      |         |
+| nd_loc=M | GwF5kbrH |         | -2?osq= |         |         | -2?osq= |         |      |         |
+| iami%2C+ | MLEWkw/9 |         | condoms |         |         | condoms |         |      |         |
+| FL       | 0s.jpg   |         |         |         |         |         |         |      |         |
++----------+----------+---------+---------+---------+---------+---------+---------+------+---------+
+| https:// | https:// | Target  | https:/ | 9       | Target  | https:/ | 128     | $$   | Departm |
+| www.yelp | s3-media |         | /www.ye |         |         | /www.ye | reviews |      | ent     |
+| .com/sea | 2.fl.yel |         | lp.com/ |         |         | lp.com/ |         |      | Stores  |
+| rch?find | pcdn.com |         | biz/tar |         |         | biz/tar |         |      |         |
+| _desc=co | /bphoto/ |         | get-mia |         |         | get-mia |         |      |         |
+| ndoms&fi | Ar62bV0Z |         | mi?osq= |         |         | mi?osq= |         |      |         |
+| nd_loc=M | _WQcblk8 |         | condoms |         |         | condoms |         |      |         |
+| iami%2C+ | IC6LBA/9 |         |         |         |         |         |         |      |         |
+| FL       | 0s.jpg   |         |         |         |         |         |         |      |         |
++----------+----------+---------+---------+---------+---------+---------+---------+------+---------+
+| https:// | https:// | Walgree | https:/ | 10      | Walgree | https:/ | 30      | $    | Drugsto |
+| www.yelp | s3-media | ns      | /www.ye |         | ns      | /www.ye | reviews |      | res     |
+| .com/sea | 3.fl.yel |         | lp.com/ |         |         | lp.com/ |         |      |         |
+| rch?find | pcdn.com |         | biz/wal |         |         | biz/wal |         |      |         |
+| _desc=co | /bphoto/ |         | greens- |         |         | greens- |         |      |         |
+| ndoms&fi | 2TegiMGa |         | miami-b |         |         | miami-b |         |      |         |
+| nd_loc=M | eFa88IyK |         | each-4? |         |         | each-4? |         |      |         |
+| iami%2C+ | SAUbyQ/9 |         | osq=con |         |         | osq=con |         |      |         |
+| FL       | 0s.jpg   |         | doms    |         |         | doms    |         |      |         |
++----------+----------+---------+---------+---------+---------+---------+---------+------+---------+
+| https:// | https:// | Guilty  | https:/ | Ad      | Guilty  | https:/ |         | $$$  | Lingeri |
+| www.yelp | s3-media | Pleasur | /www.ye |         | Pleasur | /www.ye |         |      | e       |
+| .com/sea | 1.fl.yel | es      | lp.com/ |         | es      | lp.com/ |         |      |         |
+| rch?find | pcdn.com |         | adredir |         |         | adredir |         |      |         |
+| _desc=co | /bphoto/ |         | ?ad_bus |         |         | ?ad_bus |         |      |         |
+| ndoms&fi | nBfdXVjP |         | iness_i |         |         | iness_i |         |      |         |
+| nd_loc=M | Odqy_FhQ |         | d=q29Lp |         |         | d=q29Lp |         |      |         |
+| iami%2C+ | Cd3WYA/9 |         | WYOY7Py |         |         | WYOY7Py |         |      |         |
+| FL       | 0s.jpg   |         | ZQwHewH |         |         | ZQwHewH |         |      |         |
+|          |          |         | QdA&cam |         |         | QdA&cam |         |      |         |
+|          |          |         | paign_i |         |         | paign_i |         |      |         |
+|          |          |         | d=9cw56 |         |         | d=9cw56 |         |      |         |
+|          |          |         | paJJ1x7 |         |         | paJJ1x7 |         |      |         |
+|          |          |         | gZT_cTX |         |         | gZT_cTX |         |      |         |
+|          |          |         | WxQ&cli |         |         | WxQ&cli |         |      |         |
+|          |          |         | ck_orig |         |         | ck_orig |         |      |         |
+|          |          |         | in=sear |         |         | in=sear |         |      |         |
+|          |          |         | ch_resu |         |         | ch_resu |         |      |         |
+|          |          |         | lts&pla |         |         | lts&pla |         |      |         |
+|          |          |         | cement= |         |         | cement= |         |      |         |
+|          |          |         | below_s |         |         | below_s |         |      |         |
+|          |          |         | earch&r |         |         | earch&r |         |      |         |
+|          |          |         | edirect |         |         | edirect |         |      |         |
+|          |          |         | _url=ht |         |         | _url=ht |         |      |         |
+|          |          |         | tps%3A% |         |         | tps%3A% |         |      |         |
+|          |          |         | 2F%2Fww |         |         | 2F%2Fww |         |      |         |
+|          |          |         | w.yelp. |         |         | w.yelp. |         |      |         |
+|          |          |         | com%2Fb |         |         | com%2Fb |         |      |         |
+|          |          |         | iz%2Fgu |         |         | iz%2Fgu |         |      |         |
+|          |          |         | ilty-pl |         |         | ilty-pl |         |      |         |
+|          |          |         | easures |         |         | easures |         |      |         |
+|          |          |         | -hollyw |         |         | -hollyw |         |      |         |
+|          |          |         | ood&req |         |         | ood&req |         |      |         |
+|          |          |         | uest_id |         |         | uest_id |         |      |         |
+|          |          |         | =726775 |         |         | =726775 |         |      |         |
+|          |          |         | b8d0f5c |         |         | b8d0f5c |         |      |         |
+|          |          |         | a9b&sig |         |         | a9b&sig |         |      |         |
+|          |          |         | nature= |         |         | nature= |         |      |         |
+|          |          |         | 4be088c |         |         | 4be088c |         |      |         |
+|          |          |         | 921fe97 |         |         | 921fe97 |         |      |         |
+|          |          |         | be1e601 |         |         | be1e601 |         |      |         |
+|          |          |         | 77cf221 |         |         | 77cf221 |         |      |         |
+|          |          |         | b25bcb3 |         |         | b25bcb3 |         |      |         |
+|          |          |         | f1077b3 |         |         | f1077b3 |         |      |         |
+|          |          |         | 63cd5e4 |         |         | 63cd5e4 |         |      |         |
+|          |          |         | 07adc06 |         |         | 07adc06 |         |      |         |
+|          |          |         | d012d94 |         |         | d012d94 |         |      |         |
+|          |          |         | 6&slot= |         |         | 6&slot= |         |      |         |
+|          |          |         | 0       |         |         | 0       |         |      |         |
++----------+----------+---------+---------+---------+---------+---------+---------+------+---------+

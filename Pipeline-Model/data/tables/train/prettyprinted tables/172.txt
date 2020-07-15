@@ -1,0 +1,40 @@
++--------------------------------+--------------------------------+--------------------------------+
+| url                            | Key                            | Value                          |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Birth name                     | Sean Price                     |
+| Sean_Price                     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Also known as                  | Ruck, Scagnetti, Tha           |
+| Sean_Price                     |                                | Inflicsta, Ruckus, Sean P,     |
+|                                |                                | Decepticon Sean, Tawl Sean,    |
+|                                |                                | Kimbo Price, Mic Tyson, Donkey |
+|                                |                                | Sean, Jesus Price, Sean Da     |
+|                                |                                | Barbarian                      |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Born                           | (1972-03-17)March 17, 1972     |
+| Sean_Price                     |                                |  Brooklyn, New York, New York, |
+|                                |                                | U.S.                           |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Died                           | August 8, 2015(2015-08-08)     |
+| Sean_Price                     |                                | (aged 43)                      |
+|                                |                                |  Brooklyn, New York, New York, |
+|                                |                                | U.S.                           |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Genres                         | Hip hop                        |
+| Sean_Price                     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Occupation(s); Occupation(s)   | Rapper, producer               |
+| Sean_Price                     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Years active; Years active     | 1993–2015                      |
+| Sean_Price                     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Labels                         | Duck Down                      |
+| Sean_Price                     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Associated acts; Associated    | Boot Camp Clik, Heltah         |
+| Sean_Price                     | acts                           | Skeltah, Random Axe, Agallah,  |
+|                                |                                | 9th Wonder, Termanology, Ruste |
+|                                |                                | Juxx, Buckshot, Jedi Mind      |
+|                                |                                | Tricks                         |
++--------------------------------+--------------------------------+--------------------------------+

@@ -1,0 +1,118 @@
+{
+	"questions_on_tables":
+	{
+		"1":{
+			"foler": "http___www_hourspostoffice_com_USPS+Post+Office+[...]_lcallebe_14_5_2018@11_55_55",
+			"question_turker" : "Siri, what are the Moreno Valley post office hours?",
+			"question_lucile": "Is the post office in Moreno Valley opened on Sunday?",
+			"question_MSstudent": "Is the USPS Post Office open on Sunday?"
+		},
+		"2":{
+			"folder": "http/\\\\www.synonym.com\\synonyms\\develop_sayanc_24\\3\\2018@22/6/9",
+			"question_turker": "What is a synonym for develop?",
+			"question_lucile": "What is a synonym of develop?",
+			"question_MSstudent": "What is the meaning of \"develop\"?"
+		},
+		"3":{
+			"folder": "https___en_wikipedia_org_wiki_Groundhog_Day_lcallebe_16_5_2018@13_57_26",
+			"question_turker": "What does the groundhog predict again?",
+			"question_lucile": "Where is groundhog day celebrated?",
+			"question_MSstudent": "When do people celebrate Groundhog Day?"
+		},
+		"4":{
+			"folder": "https___en_wikipedia_org_wiki_Jessica_Jones_(season_2)_sayanc_18_4_2018@13_57_2",
+			"question_turker": "Alexa, when does season 2 of Jessica Jones come out on Netflix?",
+			"question_lucile": "Who wrote the episode called The Octopus?",
+			"question_MSstudent": "How many episodes are in Jessica Jones Season 2?"
+		},
+		"5":{
+			"folder": "https___en_wikipedia_org_wiki_Grammy_Award_records#Most_Grammys_won_sayanc_1_5_2018@16_48_3",
+			"question_turker": "Who has the most Grammys?",
+			"question_lucile": "How many granny awards did Pierre Boulez get?",
+			"question_MSstudent": "Who won the most Grammys?"
+		},
+		"6":{
+			"folder": "https___brickset_com_sets_list-9322_page-1_sstritte_17_4_2018@20_55_50",
+			"question_turker": "Alexa, what is the largest lego set?",
+			"question_lucile": "Give me a list of lego sets about star wars.",
+			"question_MSstudent": "how many legos do I need to build the statue of liberty ?"
+		},
+		"7":{
+			"folder": "https___en_wikipedia_org_wiki_List_of_Apollo_astronauts_lcallebe_7_5_2018@13_12_13",
+			"question_turker": "Alexa, when was the moon landing?",
+			"question_lucile": "What Apollo mission was David Scott part of?",
+			"question_MSstudent": "when did buzz aldrin die ?"
+		},
+		"8":{
+			"folder": "https___en_wikipedia_org_wiki_Sean_Price_sayanc_8_5_2018@17_43_59",
+			"question_turker": "Alexa, when did Sean price die?",
+			"question_lucile": "When was Sean Price born?",
+			"question_MSstudent": "what kind of music does sean price play ?"
+		},
+		"9":{
+			"folder": "https___my_clevelandclinic_org_health_articles_12273-hypertension-glossary_sstritte_10_4_2018@17_43_20",
+			"question_turker": "Alexa, what is hypertension?",
+			"question_lucile": "What are diuretics?",
+			"question_MSstudent": "what is an echocardiogram"
+		},
+		"10":{
+			"folder": "https___weather_com_weather_tenday_l_Nashville+TN+USTN0357_1_US_lcallebe_30_4_2018@18_3_18",
+			"question_turker": "Alexa, will it rain this weekend in Nashville?",
+			"question_lucile": "Will the weather in Nashville be good this weekend?",
+			"question_MSstudent": "what will the weather be monday in nashville ?"
+		},
+		"11":{
+			"folder": "https___www_healthline_com_nutrition_salicylate-sensitivity#section4_lcallebe_18_4_2018@9_49_2",
+			"question_turker": "Which foods have salicylates in them?",
+			"question_lucile": "What are some common spices for cooking?",
+			"question_MSstudent": "Which fruits have the highest salicylates?"
+		},
+		"12":{
+			"folder": "https___www_rapidtables_com_math_symbols_Basic_Math_Symbols_html_lcallebe_9_5_2018@12_11_26",
+			"question_turker": "What does / mean in math",
+			"question_lucile": "What does ≥ mean?",
+			"question_MSstudent": "What does the symbol < mean?"
+		},
+		"13":{
+			"folder": "https___www_techradar_com_news_iphone-8-deals-in-usa-what-price-should-you-expect-to-pay_pavvaru_18_4_2018@16_4_36",
+			"question_turker": "How much is an iPhone 8?",
+			"question_lucile": "How much is an Iphone 8?",
+			"question_MSstudent": "How much does an iPhone 8 cost at Best Buy?"
+		},
+		"14":{
+			"folder": "https/\\\\en.wikipedia.org\\wiki\\List_of_solar_eclipses_visible_from_the_United_States#2001%E2%80%932050_xiyangz_21\\3\\2018@13/29/53",
+			"question_turker": "Alexa, when is the next solar eclipse in USA?",
+			"question_lucile": "When was the last solar eclipse in the US?",
+			"question_MSstudent": "When is the next total solar eclipse visible from the United States?"
+		},
+		"15":{
+			"folder": "https/\\\\www.nerdwallet.com\\blog\\taxes\\federal-income-tax-brackets\\_shayati_23\\3\\2018@11/50/37",
+			"question_turker": "What is the 2017 tax brackets for $75,000",
+			"question_lucile": "What is the tax rate when you make $65,000 a year?",
+			"question_MSstudent": "What is the federal income tax rate for a taxable income of $9,000?"
+		}
+	},
+	"questions_on_whatever":{
+		"1": "What is a good and easy recipe with brussel sprouts?",
+		"2": "How much fabric do I need for the Rosa dress from Anna Rose patten?",
+		"3": "Where is a good place in Pittsburgh to buy maternity clothes?",
+		"4": "How long is the gestation for elephants?",
+		"5": "What animal can live the longest?",
+		"6": "When was Incredibles 2 released?",
+		"7": "How many masters programs does CMU School of Computer Science have?",
+		"8": "Is there any Indonesian restaurants in Pittsburgh?",
+		"9": "What are top-tier conferences for Natural Language Processing research area?",
+		"10": "What makes hands dry in the winter?",
+		"11": "Which national team has won the most World Cup titles?",
+		"12": "Who is the current president of CMU?",
+		"13": "When was the last leap year?",
+		"14": "How many babies were born last year?",
+		"15": "Which country has the most emigrant population?",
+		"16": "how big was the diplodocus ?",
+		"17": "where can I buy a new mac ?",
+		"18": "how many calories are there in a nutella jar ?",
+		"19": "who invented the telephone ?",
+		"20": "Can you study medicine in Carnegie Mellon ?"
+	}
+}
+

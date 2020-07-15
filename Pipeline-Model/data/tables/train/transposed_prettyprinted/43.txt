@@ -1,0 +1,164 @@
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| url           | Rank | Building      | Location     | Height_in_Fe | Height_in_Me | Year_Complet |
+|               |      |               |              | et           | ters         | ed           |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 1    | Burj Khalifa  | Dubai,       | 2,717        | 828          | 2010         |
+| orldatlas.com |      |               | United Arab  |              |              |              |
+| /articles/10- |      |               | Emirates     |              |              |              |
+| tallest-      |      |               |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 2    | Shanghai      | Shanghai,    | 2,073        | 632          | 2015         |
+| orldatlas.com |      | Tower         | China        |              |              |              |
+| /articles/10- |      |               |              |              |              |              |
+| tallest-      |      |               |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 3    | Makkah Royal  | Mecca, Saudi | 1,971        | 601          | 2012         |
+| orldatlas.com |      | Clock Tower   | Arabia       |              |              |              |
+| /articles/10- |      | (Abraj Al     |              |              |              |              |
+| tallest-      |      | Bait)         |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 4    | Pang An       | Shenzhen,    | 1,965        | 599          | 2016         |
+| orldatlas.com |      | International | China        |              |              |              |
+| /articles/10- |      | Financial     |              |              |              |              |
+| tallest-      |      | Centre        |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 5    | Lotte World   | Seoul, South | 1,819        | 544.500      | 2017         |
+| orldatlas.com |      | Tower         | Korea        |              |              |              |
+| /articles/10- |      |               |              |              |              |              |
+| tallest-      |      |               |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 6    | One World     | New York,    | 1,776        | 541.300      | 2014         |
+| orldatlas.com |      | Trade Center  | United       |              |              |              |
+| /articles/10- |      |               | States       |              |              |              |
+| tallest-      |      |               |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 7    | Guangzhou CTF | Guangzhou,   | 1,739        | 530          | 2016         |
+| orldatlas.com |      | Fiance Centre | China        |              |              |              |
+| /articles/10- |      |               |              |              |              |              |
+| tallest-      |      |               |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 8    | Taipei 101    | Taipei,      | 1,667        | 508          | 2004         |
+| orldatlas.com |      |               | Taiwan       |              |              |              |
+| /articles/10- |      |               |              |              |              |              |
+| tallest-      |      |               |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 9    | Shanghai      | Shanghai,    | 1,614        | 492          | 2008         |
+| orldatlas.com |      | World         | China        |              |              |              |
+| /articles/10- |      | Financial     |              |              |              |              |
+| tallest-      |      | Centre        |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 10   | International | Hong Kong    | 1,588        | 484          | 2010         |
+| orldatlas.com |      | Commerce      |              |              |              |              |
+| /articles/10- |      | Centre        |              |              |              |              |
+| tallest-      |      |               |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 11   | Petronas Twin | Kuala        | 1,483        | 451.900      | 1998         |
+| orldatlas.com |      | Tower 1       | Lumpur,      |              |              |              |
+| /articles/10- |      |               | Malaysia     |              |              |              |
+| tallest-      |      |               |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 12   | Petronas Twin | Kuala        | 1,483        | 451.900      | 1998         |
+| orldatlas.com |      | Tower 2       | Lumpur,      |              |              |              |
+| /articles/10- |      |               | Malaysia     |              |              |              |
+| tallest-      |      |               |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 13   | Zifeng Tower  | Nanjing,     | 1,476        | 450          | 2010         |
+| orldatlas.com |      |               | China        |              |              |              |
+| /articles/10- |      |               |              |              |              |              |
+| tallest-      |      |               |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 14   | Willis Tower  | Chicago,     | 1,451        | 442.100      | 1974         |
+| orldatlas.com |      | (Sears Tower) | United       |              |              |              |
+| /articles/10- |      |               | States       |              |              |              |
+| tallest-      |      |               |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 15   | KK100         | Shenzhen,    | 1,449        | 441.800      | 2011         |
+| orldatlas.com |      |               | China        |              |              |              |
+| /articles/10- |      |               |              |              |              |              |
+| tallest-      |      |               |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 16   | Guangzhou     | Guangzhou,   | 1,439        | 438.600      | 2010         |
+| orldatlas.com |      | International | China        |              |              |              |
+| /articles/10- |      | Finance       |              |              |              |              |
+| tallest-      |      | Center        |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 17   | 432 Park      | New York,    | 1,396        | 425.500      | 2015         |
+| orldatlas.com |      | Avenue        | United       |              |              |              |
+| /articles/10- |      |               | States       |              |              |              |
+| tallest-      |      |               |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 18   | Marina 101    | Dubai,       | 1,394        | 425          | 2017         |
+| orldatlas.com |      |               | United Arab  |              |              |              |
+| /articles/10- |      |               | Emirates     |              |              |              |
+| tallest-      |      |               |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 19   | Trump         | Chicago,     | 1,389        | 423.200      | 2009         |
+| orldatlas.com |      | International | United       |              |              |              |
+| /articles/10- |      | Hotel and     | States       |              |              |              |
+| tallest-      |      | Tower         |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+
+| https://www.w | 20   | Jin Mao Tower | Shanghai,    | 1,380        | 420.500      | 1999         |
+| orldatlas.com |      |               | China        |              |              |              |
+| /articles/10- |      |               |              |              |              |              |
+| tallest-      |      |               |              |              |              |              |
+| buildings-in- |      |               |              |              |              |              |
+| the-          |      |               |              |              |              |              |
+| world.html    |      |               |              |              |              |              |
++---------------+------+---------------+--------------+--------------+--------------+--------------+

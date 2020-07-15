@@ -1,0 +1,192 @@
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| url    | Charac | Actor  | Actor_ | Rank1  | Rank2  | Rank2_ | Role1  | Role2  | Role2_ | Appear |
+|        | ter    |        | link   |        |        | link   |        |        | link   | ances  |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | Hawkey | Alan   | https: | Captai | Captai | https: | Chief  | Chief  | https: | 251    |
+| //en.w | e Pier | Alda   | //en.w | n      | n      | //en.w | surgeo | surgeo | //en.w |        |
+| ikiped | ce; Ha |        | ikiped |        |        | ikiped | n      | n      | ikiped |        |
+| ia.org | wkeye  |        | ia.org |        |        | ia.org |        |        | ia.org |        |
+| /wiki/ | Pierce |        | /wiki/ |        |        | /wiki/ |        |        | /wiki/ |        |
+| M*A*S* |        |        | Alan_A |        |        | Captai |        |        | Surger |        |
+| H_(TV_ |        |        | lda    |        |        | n_(Uni |        |        | y      |        |
+| series |        |        |        |        |        | ted_St |        |        |        |        |
+| )      |        |        |        |        |        | ates_O |        |        |        |        |
+|        |        |        |        |        |        | -3)    |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | Margar | Lorett | https: | Major  | Major  | https: | Head   | nurse; | https: | 243    |
+| //en.w | et     | a Swit | //en.w |        |        | //en.w | nurse, | adjuta | //en.w |        |
+| ikiped | "Hot   |        | ikiped |        |        | ikiped |  tempo | nt     | ikiped |        |
+| ia.org | Lips"  |        | ia.org |        |        | ia.org | rary a |        | ia.org |        |
+| /wiki/ | Houlih |        | /wiki/ |        |        | /wiki/ | djutan |        | /wiki/ |        |
+| M*A*S* | an; Ma |        | Lorett |        |        | Major_ | t      |        | Nurse; |        |
+| H_(TV_ | rgaret |        | a_Swit |        |        | (Unite |        |        | https: |        |
+| series | "Hot   |        |        |        |        | d_Stat |        |        | //en.w |        |
+| )      | Lips"  |        |        |        |        | es)    |        |        | ikiped |        |
+|        | Houlih |        |        |        |        |        |        |        | ia.org |        |
+|        | an     |        |        |        |        |        |        |        | /wiki/ |        |
+|        |        |        |        |        |        |        |        |        | Adjuta |        |
+|        |        |        |        |        |        |        |        |        | nt     |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | Max Kl | Jamie  | https: | Corpor | Corpor | https: | Corpsm |        |        | 219    |
+| //en.w | inger  | Farr   | //en.w | al,    | al; se | //en.w | an,    |        |        |        |
+| ikiped |  (Recu |        | ikiped |  later | rgeant | ikiped |  later |        |        |        |
+| ia.org | rring  |        | ia.org | sergea |        | ia.org | compan |        |        |        |
+| /wiki/ | season |        | /wiki/ | nt     |        | /wiki/ | y      |        |        |        |
+| M*A*S* | s 1–3, |        | Jamie_ |        |        | Corpor | clerk  |        |        |        |
+| H_(TV_ | regula |        | Farr   |        |        | al; ht |        |        |        |        |
+| series | r      |        |        |        |        | tps:// |        |        |        |        |
+| )      | 4–11); |        |        |        |        | en.wik |        |        |        |        |
+|        | Max Kl |        |        |        |        | ipedia |        |        |        |        |
+|        | inger; |        |        |        |        | .org/w |        |        |        |        |
+|        | (Recur |        |        |        |        | iki/Se |        |        |        |        |
+|        | ring s |        |        |        |        | rgeant |        |        |        |        |
+|        | easons |        |        |        |        |        |        |        |        |        |
+|        | 1–3, r |        |        |        |        |        |        |        |        |        |
+|        | egular |        |        |        |        |        |        |        |        |        |
+|        | 4–11)  |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | Father | Willia | https: | First  | First  | https: | Chapla | Chapla | https: | 218    |
+| //en.w | Mulcah | m Chri | //en.w | lieute | lieute | //en.w | in     | in     | //en.w |        |
+| ikiped | y      | stophe | ikiped | nant,  | nant;  | ikiped |        |        | ikiped |        |
+| ia.org |  (recu | r      | ia.org |  later | captai | ia.org |        |        | ia.org |        |
+| /wiki/ | rring  |        | /wiki/ | captai | n      | /wiki/ |        |        | /wiki/ |        |
+| M*A*S* | season |        | Willia | n      |        | First_ |        |        | Chapla |        |
+| H_(TV_ | s 1–4, |        | m_Chri |        |        | lieute |        |        | in     |        |
+| series | regula |        | stophe |        |        | nant;  |        |        |        |        |
+| )      | r      |        | r      |        |        | https: |        |        |        |        |
+|        | 5–11); |        |        |        |        | //en.w |        |        |        |        |
+|        | Father |        |        |        |        | ikiped |        |        |        |        |
+|        | Mulcah |        |        |        |        | ia.org |        |        |        |        |
+|        | y; (re |        |        |        |        | /wiki/ |        |        |        |        |
+|        | currin |        |        |        |        | Captai |        |        |        |        |
+|        | g seas |        |        |        |        | n_(Uni |        |        |        |        |
+|        | ons    |        |        |        |        | ted_St |        |        |        |        |
+|        | 1–4, r |        |        |        |        | ates_O |        |        |        |        |
+|        | egular |        |        |        |        | -3)    |        |        |        |        |
+|        | 5–11)  |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | Trappe | Wayne  | https: | Captai |        |        | Surgeo |        |        | 72 + 1 |
+| //en.w | r John | Rogers | //en.w | n      |        |        | n      |        |        | uncred |
+| ikiped | McInty |        | ikiped |        |        |        |        |        |        | ited v |
+| ia.org | re     |        | ia.org |        |        |        |        |        |        | oiceov |
+| /wiki/ |  (seas |        | /wiki/ |        |        |        |        |        |        | er ("W |
+| M*A*S* | ons    |        | Wayne_ |        |        |        |        |        |        | elcome |
+| H_(TV_ | 1–3);  |        | Rogers |        |        |        |        |        |        | to Kor |
+| series | Trappe |        |        |        |        |        |        |        |        | ea")   |
+| )      | r John |        |        |        |        |        |        |        |        |        |
+|        | McInty |        |        |        |        |        |        |        |        |        |
+|        | re; (s |        |        |        |        |        |        |        |        |        |
+|        | easons |        |        |        |        |        |        |        |        |        |
+|        | 1–3)   |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | Henry  | McLean | https: | Lieute | Lieute | https: | Comman | Comman | https: | 70     |
+| //en.w | Blake  | Steven | //en.w | nant c | nant c | //en.w | ding o | ding o | //en.w |        |
+| ikiped |  (seas | son    | ikiped | olonel | olonel | ikiped | fficer | fficer | ikiped |        |
+| ia.org | ons    |        | ia.org |        |        | ia.org | ,      |        | ia.org |        |
+| /wiki/ | 1–3);  |        | /wiki/ |        |        | /wiki/ |  surge |        | /wiki/ |        |
+| M*A*S* | Henry  |        | McLean |        |        | Lieute | on     |        | Comman |        |
+| H_(TV_ | Blake; |        | _Steve |        |        | nant_c |        |        | ding_o |        |
+| series | (seaso |        | nson   |        |        | olonel |        |        | fficer |        |
+| )      | ns     |        |        |        |        | _(Unit |        |        |        |        |
+|        | 1–3)   |        |        |        |        | ed_Sta |        |        |        |        |
+|        |        |        |        |        |        | tes)   |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | Frank  | Larry  | https: | Major, |        |        | Surgeo | execut | https: | 118    |
+| //en.w | Burns  | Linvil | //en.w |  later |        |        | n, exe | ive of | //en.w |        |
+| ikiped |  (seas | le     | ikiped | lieute |        |        | cutive | ficer  | ikiped |        |
+| ia.org | ons    |        | ia.org | nant c |        |        | office |        | ia.org |        |
+| /wiki/ | 1–5);  |        | /wiki/ | olonel |        |        | r      |        | /wiki/ |        |
+| M*A*S* | Frank  |        | Larry_ | (off-s |        |        |  tempo |        | Execut |        |
+| H_(TV_ | Burns; |        | Linvil | creen) |        |        | rary c |        | ive_of |        |
+| series | (seaso |        | le     |        |        |        | ommand |        | ficer  |        |
+| )      | ns     |        |        |        |        |        | ing of |        |        |        |
+|        | 1–5)   |        |        |        |        |        | ficer  |        |        |        |
+|        |        |        |        |        |        |        | (follo |        |        |        |
+|        |        |        |        |        |        |        | wing   |        |        |        |
+|        |        |        |        |        |        |        | the    |        |        |        |
+|        |        |        |        |        |        |        | death  |        |        |        |
+|        |        |        |        |        |        |        | of     |        |        |        |
+|        |        |        |        |        |        |        | Henry  |        |        |        |
+|        |        |        |        |        |        |        | Blake) |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | Radar  | Gary B | https: | Corpor | second | https: | Compan | bugler | https: | 156    |
+| //en.w | O'Reil | urghof | //en.w | al     | lieute | //en.w | y      |        | //en.w |        |
+| ikiped | ly     | f      | ikiped |  (one  | nant   | ikiped | clerk, |        | ikiped |        |
+| ia.org |  (seas |        | ia.org | episod |        | ia.org | bugler |        | ia.org |        |
+| /wiki/ | ons    |        | /wiki/ | e as   |        | /wiki/ |        |        | /wiki/ |        |
+| M*A*S* | 1–8);  |        | Gary_B | second |        | Second |        |        | Bugler |        |
+| H_(TV_ | Radar  |        | urghof | lieute |        | _lieut |        |        |        |        |
+| series | O'Reil |        | f      | nant   |        | enant  |        |        |        |        |
+| )      | ly; (s |        |        | due to |        |        |        |        |        |        |
+|        | easons |        |        | falsif |        |        |        |        |        |        |
+|        | 1–8)   |        |        | ied pr |        |        |        |        |        |        |
+|        |        |        |        | omotio |        |        |        |        |        |        |
+|        |        |        |        | n)     |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | B. J.  | Mike F | https: | Captai |        |        | Surgeo |        |        | 187    |
+| //en.w | Hunnic | arrell | //en.w | n      |        |        | n      |        |        |        |
+| ikiped | utt    |        | ikiped |        |        |        |        |        |        |        |
+| ia.org |  (repl |        | ia.org |        |        |        |        |        |        |        |
+| /wiki/ | aced T |        | /wiki/ |        |        |        |        |        |        |        |
+| M*A*S* | rapper |        | Mike_F |        |        |        |        |        |        |        |
+| H_(TV_ | ;      |        | arrell |        |        |        |        |        |        |        |
+| series |  seaso |        |        |        |        |        |        |        |        |        |
+| )      | ns     |        |        |        |        |        |        |        |        |        |
+|        | 4–11); |        |        |        |        |        |        |        |        |        |
+|        | B. J.  |        |        |        |        |        |        |        |        |        |
+|        | Hunnic |        |        |        |        |        |        |        |        |        |
+|        | utt; ( |        |        |        |        |        |        |        |        |        |
+|        | replac |        |        |        |        |        |        |        |        |        |
+|        | ed Tra |        |        |        |        |        |        |        |        |        |
+|        | pper;; |        |        |        |        |        |        |        |        |        |
+|        | season |        |        |        |        |        |        |        |        |        |
+|        | s      |        |        |        |        |        |        |        |        |        |
+|        | 4–11)  |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | Sherma | Harry  | https: | Colone | Colone | https: | Comman |        |        | 188    |
+| //en.w | n      | Morgan | //en.w | l      | l      | //en.w | ding o |        |        |        |
+| ikiped | Potter |        | ikiped |        |        | ikiped | fficer |        |        |        |
+| ia.org |  (repl |        | ia.org |        |        | ia.org | (after |        |        |        |
+| /wiki/ | aced   |        | /wiki/ |        |        | /wiki/ | Lt.    |        |        |        |
+| M*A*S* | Henry  |        | Harry_ |        |        | Colone | Col. B |        |        |        |
+| H_(TV_ | Blake; |        | Morgan |        |        | l_(Uni | lake), |        |        |        |
+| series |  Seaso |        |        |        |        | ted_St |  surge |        |        |        |
+| )      | ns     |        |        |        |        | ates)  | on     |        |        |        |
+|        | 4–11); |        |        |        |        |        |        |        |        |        |
+|        | Sherma |        |        |        |        |        |        |        |        |        |
+|        | n Pott |        |        |        |        |        |        |        |        |        |
+|        | er; (r |        |        |        |        |        |        |        |        |        |
+|        | eplace |        |        |        |        |        |        |        |        |        |
+|        | d      |        |        |        |        |        |        |        |        |        |
+|        | Henry  |        |        |        |        |        |        |        |        |        |
+|        | Blake; |        |        |        |        |        |        |        |        |        |
+|        | ; Seas |        |        |        |        |        |        |        |        |        |
+|        | ons    |        |        |        |        |        |        |        |        |        |
+|        | 4–11)  |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| https: | Charle | David  | https: | Major  |        |        | Surgeo |        |        | 137    |
+| //en.w | s Emer | Ogden  | //en.w |        |        |        | n, exe |        |        |        |
+| ikiped | son Wi | Stiers | ikiped |        |        |        | cutive |        |        |        |
+| ia.org | nchest |        | ia.org |        |        |        | office |        |        |        |
+| /wiki/ | er III |        | /wiki/ |        |        |        | r      |        |        |        |
+| M*A*S* |  (repl |        | David_ |        |        |        | (after |        |        |        |
+| H_(TV_ | aced   |        | Ogden_ |        |        |        | Major  |        |        |        |
+| series | Frank  |        | Stiers |        |        |        | Burns) |        |        |        |
+| )      | Burns; |        |        |        |        |        |        |        |        |        |
+|        |  seaso |        |        |        |        |        |        |        |        |        |
+|        | ns     |        |        |        |        |        |        |        |        |        |
+|        | 6–11); |        |        |        |        |        |        |        |        |        |
+|        | Charle |        |        |        |        |        |        |        |        |        |
+|        | s Emer |        |        |        |        |        |        |        |        |        |
+|        | son Wi |        |        |        |        |        |        |        |        |        |
+|        | nchest |        |        |        |        |        |        |        |        |        |
+|        | er     |        |        |        |        |        |        |        |        |        |
+|        | III; ( |        |        |        |        |        |        |        |        |        |
+|        | replac |        |        |        |        |        |        |        |        |        |
+|        | ed     |        |        |        |        |        |        |        |        |        |
+|        | Frank  |        |        |        |        |        |        |        |        |        |
+|        | Burns; |        |        |        |        |        |        |        |        |        |
+|        | ; seas |        |        |        |        |        |        |        |        |        |
+|        | ons    |        |        |        |        |        |        |        |        |        |
+|        | 6–11)  |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+

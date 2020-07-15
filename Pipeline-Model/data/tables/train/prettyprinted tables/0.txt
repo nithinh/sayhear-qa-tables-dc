@@ -1,0 +1,77 @@
++----------------------------------------+----------------+----------------------------------------+
+| url                                    | Key            | Value                                  |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Fifty_Sh | Directed by    | James Foley                            |
+| ades_Freed_(film)                      |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Fifty_Sh | Produced by    | Michael De Luca                        |
+| ades_Freed_(film)                      |                |                                        |
+|                                        |                | E. L. James                            |
+|                                        |                |                                        |
+|                                        |                | Dana Brunetti                          |
+|                                        |                |                                        |
+|                                        |                | Marcus Viscidi                         |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Fifty_Sh | Screenplay by  | Niall Leonard                          |
+| ades_Freed_(film)                      |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Fifty_Sh | Based on       | Fifty Shades Freed                     |
+| ades_Freed_(film)                      |                |  by E. L. James                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Fifty_Sh | Starring       | Dakota Johnson                         |
+| ades_Freed_(film)                      |                |                                        |
+|                                        |                | Jamie Dornan                           |
+|                                        |                |                                        |
+|                                        |                | Eric Johnson                           |
+|                                        |                |                                        |
+|                                        |                | Rita Ora                               |
+|                                        |                |                                        |
+|                                        |                | Luke Grimes                            |
+|                                        |                |                                        |
+|                                        |                | Victor Rasuk                           |
+|                                        |                |                                        |
+|                                        |                | Jennifer Ehle                          |
+|                                        |                |                                        |
+|                                        |                | Arielle Kebbel                         |
+|                                        |                |                                        |
+|                                        |                | Marcia Gay Harden                      |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Fifty_Sh | Music by       | Danny Elfman                           |
+| ades_Freed_(film)                      |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Fifty_Sh | Cinematography | John Schwartzman                       |
+| ades_Freed_(film)                      |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Fifty_Sh | Edited by      | Richard Francis-Bruce                  |
+| ades_Freed_(film)                      |                |                                        |
+|                                        |                | Debra Neil-Fisher                      |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Fifty_Sh | Production     | Perfect World Pictures                 |
+| ades_Freed_(film)                      |  company       |                                        |
+|                                        |                | Michael De Luca Productions            |
+|                                        |                |                                        |
+|                                        |                | Trigger Street Productions             |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Fifty_Sh | Distributed by | Universal Pictures                     |
+| ades_Freed_(film)                      |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Fifty_Sh | Release date   | February 6, 2018 (2018-02-06) (Paris)  |
+| ades_Freed_(film)                      |                |                                        |
+|                                        |                | February 9, 2018 (2018-02-09) (United  |
+|                                        |                | States)                                |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Fifty_Sh | Running time   | 105 minutes (rated)                    |
+| ades_Freed_(film)                      |                |  110 minutes (unrated)[1]              |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Fifty_Sh | Country        | United States                          |
+| ades_Freed_(film)                      |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Fifty_Sh | Language       | English                                |
+| ades_Freed_(film)                      |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Fifty_Sh | Budget         | $55 million[2]                         |
+| ades_Freed_(film)                      |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Fifty_Sh | Box office     | $370.1 million[2]                      |
+| ades_Freed_(film)                      |                |                                        |
++----------------------------------------+----------------+----------------------------------------+

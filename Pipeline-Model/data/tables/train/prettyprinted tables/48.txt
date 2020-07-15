@@ -1,0 +1,91 @@
++---------------------------------------+-------------------+--------------------------------------+
+| url                                   | 2018_Deadline     | Activity                             |
++---------------------------------------+-------------------+--------------------------------------+
+| http://www.savingtoinvest.com/when-   | January 1, 2018   | First day to file a federal tax      |
+| can-i-file-my-taxes-and-other-key-    |                   | return, though the IRS generally     |
+| tax-filing-extension-and-refund-      |                   | will not accept e-file and free file |
+| dates/                                |                   | returns until the date below. Even   |
+|                                       |                   | paper based filings won't be         |
+|                                       |                   | processed till later in the month    |
++---------------------------------------+-------------------+--------------------------------------+
+| http://www.savingtoinvest.com/when-   | January 29, 2018  | IRS E-file to go live, allowing      |
+| can-i-file-my-taxes-and-other-key-    |                   | submission of electronic tax returns |
+| tax-filing-extension-and-refund-      |                   | for the vast majority of tax filers. |
+| dates/                                |                   | Paper tax returns will begin         |
+|                                       |                   | processing later in mid-February as  |
+|                                       |                   | IRS system updates continue (IRS     |
+|                                       |                   | recommends e-filing for faster       |
+|                                       |                   | refunds)                             |
++---------------------------------------+-------------------+--------------------------------------+
+| http://www.savingtoinvest.com/when-   | February 9, 2018  | Date by which you should have        |
+| can-i-file-my-taxes-and-other-key-    |                   | received a W-2 from employers you    |
+| tax-filing-extension-and-refund-      |                   | worked for during the tax year. If   |
+| dates/                                |                   | not, contact their HR/Payroll        |
+|                                       |                   | department to resend tax documents   |
++---------------------------------------+-------------------+--------------------------------------+
+| http://www.savingtoinvest.com/when-   | February 9, 2018  | Deadline for 1099 statements         |
+| can-i-file-my-taxes-and-other-key-    |                   | (factors in your AGI income) that    |
+| tax-filing-extension-and-refund-      |                   | report non-employee compensation,    |
+| dates/                                |                   | bank interest, dividends and         |
+|                                       |                   | distributions from a retirement      |
+|                                       |                   | plan. This date is also the deadline |
+|                                       |                   | for self-employed individuals to     |
+|                                       |                   | file and pay in full their fourth-   |
+|                                       |                   | quarter estimated tax payment        |
++---------------------------------------+-------------------+--------------------------------------+
+| http://www.savingtoinvest.com/when-   | February 23, 2018 | Financial institutions (e.g          |
+| can-i-file-my-taxes-and-other-key-    |                   | Vanguard, Fidelity) must mail out    |
+| tax-filing-extension-and-refund-      |                   | 1099-B, 1099-S and 1099-MISC forms   |
+| dates/                                |                   | by this date. See what these forms   |
+|                                       |                   | are and if you will need one for     |
+|                                       |                   | your return                          |
++---------------------------------------+-------------------+--------------------------------------+
+| http://www.savingtoinvest.com/when-   | March 17, 2018    | S Corporation and Partnership tax    |
+| can-i-file-my-taxes-and-other-key-    |                   | returns due                          |
+| tax-filing-extension-and-refund-      |                   |                                      |
+| dates/                                |                   |                                      |
++---------------------------------------+-------------------+--------------------------------------+
+| http://www.savingtoinvest.com/when-   | April 17, 2018    | *Tax Day* Last day for filing        |
+| can-i-file-my-taxes-and-other-key-    |                   | federal income tax returns and       |
+| tax-filing-extension-and-refund-      |                   | extension requests. Since April 15th |
+| dates/                                |                   | is a Saturday and Monday is the      |
+|                                       |                   | Emancipation Day holiday the due     |
+|                                       |                   | date has been shifted out to         |
+|                                       |                   | Tuesday, April 18th.                 |
++---------------------------------------+-------------------+--------------------------------------+
+| http://www.savingtoinvest.com/when-   | April 17, 2018    | Deadline for filing state income tax |
+| can-i-file-my-taxes-and-other-key-    |                   | returns (for most states) and        |
+| tax-filing-extension-and-refund-      |                   | extension requests. Last day to make |
+| dates/                                |                   | a contribution to a Traditional or   |
+|                                       |                   | Roth IRA, Health Savings Account     |
+|                                       |                   | (HSA), SEP-IRA or 401(k)             |
++---------------------------------------+-------------------+--------------------------------------+
+| http://www.savingtoinvest.com/when-   | April 17, 2018    | FBAR (Foreign Bank Account Report)   |
+| can-i-file-my-taxes-and-other-key-    |                   | forms due for taxpayers who have     |
+| tax-filing-extension-and-refund-      |                   | signature authority over $10,000 in  |
+| dates/                                |                   | total in foreign bank accounts in    |
+|                                       |                   | the prior year. Laws enacted last    |
+|                                       |                   | year change the standard FBAR due    |
+|                                       |                   | date to "tax day" (vs June 30th as   |
+|                                       |                   | in years past). No extensions are    |
+|                                       |                   | allowed and forms must be filed      |
+|                                       |                   | electronically.                      |
++---------------------------------------+-------------------+--------------------------------------+
+| http://www.savingtoinvest.com/when-   | June 17, 2018     | U.S. citizens or resident aliens     |
+| can-i-file-my-taxes-and-other-key-    |                   | living abroad must file tax returns  |
+| tax-filing-extension-and-refund-      |                   | and pay any taxes due by this date   |
+| dates/                                |                   | (or file for a four-month extension) |
++---------------------------------------+-------------------+--------------------------------------+
+| http://www.savingtoinvest.com/when-   | October 17, 2018  | Filing approved extended federal,    |
+| can-i-file-my-taxes-and-other-key-    |                   | state and S-Corp/Partnership income  |
+| tax-filing-extension-and-refund-      |                   | tax returns Note: you still need to  |
+| dates/                                |                   | file for an extension request by     |
+|                                       |                   | April 17th                           |
++---------------------------------------+-------------------+--------------------------------------+
+| http://www.savingtoinvest.com/when-   | April 15, 2021    | Filing a 2017 tax amendment. You can |
+| can-i-file-my-taxes-and-other-key-    |                   | file an amended or previous year     |
+| tax-filing-extension-and-refund-      |                   | return anytime, but you have a       |
+| dates/                                |                   | deadline of 3 years from the         |
+|                                       |                   | original due date to claim any tax   |
+|                                       |                   | refund.                              |
++---------------------------------------+-------------------+--------------------------------------+

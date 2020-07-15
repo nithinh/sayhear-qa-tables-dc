@@ -1,0 +1,610 @@
++-------------------------------------+------------------------------------+-----------------------+
+| url                                 | Event                              | Date                  |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Summer term on-line check-in       | June 21-26            |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Summer term classes begin          | June 22               |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | First week of schedule adjustment. | June 22-28            |
+| dar/term/17_18_term_calendars.html# | Permission to add is not necessary |                       |
+| spring18                            | unless normally required           |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Fall Term course change period     | June 22-August 23     |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Special Day of classes; courses    | June 24               |
+| dar/term/17_18_term_calendars.html# | meeting 10A period 10:00 to 11:50, |                       |
+| spring18                            | 2A period 12:00 to 1:50 3A/3B      |                       |
+|                                     | periods 2:00 to 3:50               |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Deadline to complete check-in      | June 26               |
+| dar/term/17_18_term_calendars.html# | without a $50 late registration    |                       |
+| spring18                            | fee - check-in must be completed   |                       |
+|                                     | by 11:59 p.m.                      |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Deadline for prospective summer    | June 28               |
+| dar/term/17_18_term_calendars.html# | term graduates in residence to     |                       |
+| spring18                            | elect or change a major or minor   |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Second week of schedule            | June 29-July 5        |
+| dar/term/17_18_term_calendars.html# | adjustment. All courses require    |                       |
+| spring18                            | Instructor permission in order to  |                       |
+|                                     | add courses                        |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for delayed check-in     | July 1                |
+| dar/term/17_18_term_calendars.html# | (with $50 late fee). Any student   |                       |
+| spring18                            | not checked-in by the end of this  |                       |
+|                                     | day, but still listed with the     |                       |
+|                                     | enrollment pattern letter R        |                       |
+|                                     | (Residence) for the summer term is |                       |
+|                                     | liable for administrative          |                       |
+|                                     | withdrawal                         |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Independence Day, College Holiday  | July 4                |
+| dar/term/17_18_term_calendars.html# | (no classes held)                  |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for each undergraduate   | July 5                |
+| dar/term/17_18_term_calendars.html# | to establish official and final    |                       |
+| spring18                            | two-, three-, or four-course load. |                       |
+|                                     | Any registered student not         |                       |
+|                                     | officially enrolled in at least    |                       |
+|                                     | two courses becomes liable for     |                       |
+|                                     | administrative withdrawal.         |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for electing use of the  | July 6                |
+| dar/term/17_18_term_calendars.html# | Non-Recording Option (NRO)         |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Enrollment Census                  | July 19               |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Interim housing applications due   | July 28               |
+| dar/term/17_18_term_calendars.html# | for the break between summer and   |                       |
+| spring18                            | fall terms                         |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for dropping a fourth    | August 2              |
+| dar/term/17_18_term_calendars.html# | course without a grade notation of |                       |
+| spring18                            | "W." (Acknowledgment of instructor |                       |
+|                                     | required. If dropping a fourth     |                       |
+|                                     | course after this date, one of     |                       |
+|                                     | four eligibilities for a fourth    |                       |
+|                                     | course without extra tuition is    |                       |
+|                                     | exhausted by such action.)         |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Date for submission of degree      | August 3              |
+| dar/term/17_18_term_calendars.html# | applications by prospective summer |                       |
+| spring18                            | term graduates                     |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day to withdraw from a       | August 9              |
+| dar/term/17_18_term_calendars.html# | course; any later request to       |                       |
+| spring18                            | withdraw from a course requires    |                       |
+|                                     | petition to a special committee.   |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day to alter grade limit     | August 15             |
+| dar/term/17_18_term_calendars.html# | filed under the Non-Recording      |                       |
+| spring18                            | Option (NRO)                       |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Last day in term for holding a     | August 15             |
+| dar/term/17_18_term_calendars.html# | major quiz or an hour examination  |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Summer term classes end            | August 23             |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day, prior to the start of   | August 23             |
+| dar/term/17_18_term_calendars.html# | fall term classes, for students to |                       |
+| spring18                            | make changes in fall term          |                       |
+|                                     | elections                          |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Pre-Examination Break              | August 24-25          |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final examinations begin           | August 26             |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Scheduled Final Examinations end   | August 28             |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final examination period ends      | August 29             |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Grades and medians available on    | September 11          |
+| dar/term/17_18_term_calendars.html# | the web                            |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Fall term on-line check-in         | September 10-13       |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Fall term classes begin            | September 11          |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | First week of schedule adjustment. | September 11-17       |
+| dar/term/17_18_term_calendars.html# | Permission to add is not necessary |                       |
+| spring18                            | unless normally required           |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Deadline to complete check-in      | September 13          |
+| dar/term/17_18_term_calendars.html# | without a $50 late registration    |                       |
+| spring18                            | fee - check-in must be completed   |                       |
+|                                     | by 11:59 p.m.                      |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for delayed check-in     | September 20          |
+| dar/term/17_18_term_calendars.html# | (with $50 late fee). Any student   |                       |
+| spring18                            | not checked in by the end of this  |                       |
+|                                     | day, but still listed with the     |                       |
+|                                     | enrollment pattern letter R        |                       |
+|                                     | (residence) for the fall term is   |                       |
+|                                     | liable for administrative          |                       |
+|                                     | withdrawal.                        |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Deadline for prospective fall term | September 18          |
+| dar/term/17_18_term_calendars.html# | graduates in residence to elect or |                       |
+| spring18                            | change a major or minor            |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Second week of schedule            | September 18-24       |
+| dar/term/17_18_term_calendars.html# | adjustment. All courses require    |                       |
+| spring18                            | Instructor permission to add       |                       |
+|                                     | courses                            |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for each undergraduate   | September 24          |
+| dar/term/17_18_term_calendars.html# | to establish official and final    |                       |
+| spring18                            | two-, three-, or four-course load. |                       |
+|                                     | Any registered student not         |                       |
+|                                     | officially enrolled in at least    |                       |
+|                                     | two courses becomes liable for     |                       |
+|                                     | administrative withdrawal.         |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for electing use of the  | September 25          |
+| dar/term/17_18_term_calendars.html# | Non-Recording Option (NRO)         |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Deadline to file completed         | October 2             |
+| dar/term/17_18_term_calendars.html# | transfer term applications for     |                       |
+| spring18                            | winter and spring terms            |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Homecoming Weekend                 | October 6-7           |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Enrollment Census                  | October 15            |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for students to change   | October 16            |
+| dar/term/17_18_term_calendars.html# | their enrollment pattern for       |                       |
+| spring18                            | winter term                        |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day to be eligible for on-   | October 16            |
+| dar/term/17_18_term_calendars.html# | time college housing assignment    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Winter term housing applications   | October 16            |
+| dar/term/17_18_term_calendars.html# | due                                |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Date for submission of degree      | October 16            |
+| dar/term/17_18_term_calendars.html# | applications by prospective fall   |                       |
+| spring18                            | term graduates                     |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Course Timetable available for the | October 20            |
+| dar/term/17_18_term_calendars.html# | winter term                        |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Interim housing applications due   | October 20            |
+| dar/term/17_18_term_calendars.html# | for the break between fall and     |                       |
+| spring18                            | winter                             |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for dropping a fourth    | October 23            |
+| dar/term/17_18_term_calendars.html# | course without a grade notation of |                       |
+| spring18                            | "W." (Acknowledgment of instructor |                       |
+|                                     | required. If dropping a fourth     |                       |
+|                                     | course after this date, one of     |                       |
+|                                     | four eligibilities for a fourth    |                       |
+|                                     | course without extra tuition is    |                       |
+|                                     | exhausted by such action.)         |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Winter term course election period | October 25-November 2 |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day to withdraw from a       | October 31            |
+| dar/term/17_18_term_calendars.html# | course; any later request to       |                       |
+| spring18                            | withdraw from a course requires    |                       |
+|                                     | petition to a special committee.   |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day of winter term course    | November 2            |
+| dar/term/17_18_term_calendars.html# | election period                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day to alter grade limit     | November 6            |
+| dar/term/17_18_term_calendars.html# | filed under the Non-Recording      |                       |
+| spring18                            | Option (NRO)                       |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Last day in term for holding a     | November 6            |
+| dar/term/17_18_term_calendars.html# | major test or examination          |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Winter term course change period   | November 10-14        |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Fall term classes end              | November 14           |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day, prior to the start of   | November 14           |
+| dar/term/17_18_term_calendars.html# | winter term classes, for making    |                       |
+| spring18                            | changes in winter term course      |                       |
+|                                     | elections                          |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Pre-Examination Break              | November 15-16        |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final examinations begin           | November 17           |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final examinations suspended       | November 18           |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Scheduled Final examinations end   | November 21           |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final examination period ends      | November 22           |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Grades and medians available on    | December 5            |
+| dar/term/17_18_term_calendars.html# | the web                            |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Winter term on-line check-in       | January 2-5           |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Winter term classes begin          | January 3             |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | First week of schedule adjustment. | January 3-9           |
+| dar/term/17_18_term_calendars.html# | Permission to add is not necessary |                       |
+| spring18                            | unless normally required           |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Deadline to complete check-in      | January 5             |
+| dar/term/17_18_term_calendars.html# | without a $50 late registration    |                       |
+| spring18                            | fee - check-in must be completed   |                       |
+|                                     | by 11:59 p.m.                      |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Deadline for winter term           | January 10            |
+| dar/term/17_18_term_calendars.html# | prospective graduates in residence |                       |
+| spring18                            | to elect or change a major or      |                       |
+|                                     | minor                              |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Second week of schedule            | January 10-16         |
+| dar/term/17_18_term_calendars.html# | adjustment. All courses require    |                       |
+| spring18                            | Instructor permission to add       |                       |
+|                                     | courses                            |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for delayed check-in     | January 12            |
+| dar/term/17_18_term_calendars.html# | (with $50 late fee). Any student   |                       |
+| spring18                            | not checked-in by the end of this  |                       |
+|                                     | day, but still listed with the     |                       |
+|                                     | enrollment pattern letter R        |                       |
+|                                     | (Residence) for the winter term is |                       |
+|                                     | liable for administrative          |                       |
+|                                     | withdrawal                         |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Martin Luther King Jr. Day.        | January 15            |
+| dar/term/17_18_term_calendars.html# | Courses regularly held in the 8-,  |                       |
+| spring18                            | 9-, 10-, 11-, 12-, and 2-sequences |                       |
+|                                     | moved to their x-periods. Courses  |                       |
+|                                     | held in the 3A-period moved to the |                       |
+|                                     | 3B-period on Tuesday, January 16.  |                       |
+|                                     | Laboratory sections meet as        |                       |
+|                                     | scheduled (unless otherwise        |                       |
+|                                     | notified by the instructor)        |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for each undergraduate   | January 16            |
+| dar/term/17_18_term_calendars.html# | to establish official and final    |                       |
+| spring18                            | two-, three-, or four-course load. |                       |
+|                                     | Any registered student not         |                       |
+|                                     | officially enrolled in at least    |                       |
+|                                     | two courses becomes liable for     |                       |
+|                                     | administrative withdrawal.         |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for electing use of the  | January 17            |
+| dar/term/17_18_term_calendars.html# | Non-Recording Option (NRO)         |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Enrollment Census                  | January 30            |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Course Timetable available for the | February 2            |
+| dar/term/17_18_term_calendars.html# | spring term                        |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Spring term course election period | February 7-15         |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Spring term housing applications   | February 12           |
+| dar/term/17_18_term_calendars.html# | due                                |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Date for submission of degree      | February 12           |
+| dar/term/17_18_term_calendars.html# | applications by prospective winter |                       |
+| spring18                            | and spring graduates               |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for students to change   | February 12           |
+| dar/term/17_18_term_calendars.html# | their enrollment pattern for       |                       |
+| spring18                            | spring term                        |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day to be eligible for on-   | February 12           |
+| dar/term/17_18_term_calendars.html# | time college housing assignment    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for dropping a fourth    | February 12           |
+| dar/term/17_18_term_calendars.html# | course without a grade notation of |                       |
+| spring18                            | "W." (Acknowledgment of instructor |                       |
+|                                     | required. If dropping a fourth     |                       |
+|                                     | course after this date, one of     |                       |
+|                                     | four eligibilities for a fourth    |                       |
+|                                     | course without extra tuition is    |                       |
+|                                     | exhausted by such action.)         |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day of spring term course    | February 15           |
+| dar/term/17_18_term_calendars.html# | election period                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Interim housing applications due   | February 16           |
+| dar/term/17_18_term_calendars.html# | for the break between winter and   |                       |
+| spring18                            | spring terms                       |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day to withdraw from a       | February 20           |
+| dar/term/17_18_term_calendars.html# | course; any later request to       |                       |
+| spring18                            | withdraw from a course requires    |                       |
+|                                     | petition to a special committee.   |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Spring term course change period   | February 23-March 6   |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day to alter grade limit     | February 26           |
+| dar/term/17_18_term_calendars.html# | filed under the Non-Recording      |                       |
+| spring18                            | Option (NRO)                       |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Last day in term for holding a     | February 26           |
+| dar/term/17_18_term_calendars.html# | major test or examination          |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Winter term classes end            | March 6               |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day, prior to the start of   | March 6               |
+| dar/term/17_18_term_calendars.html# | spring term classes, for making    |                       |
+| spring18                            | changes in spring term course      |                       |
+|                                     | elections                          |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Pre-Examination Break              | March 7-8             |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final examinations begin           | March 9               |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Scheduled Final examinations end   | March 12              |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final examination period ends      | March 13              |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Grades and medians available on    | March 22              |
+| dar/term/17_18_term_calendars.html# | the web                            |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Spring term on-line check-in       | March 25-28           |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Spring term classes begin          | March 26              |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | First week of schedule adjustment. | March 26-April 1      |
+| dar/term/17_18_term_calendars.html# | Permission to add is not necessary |                       |
+| spring18                            | unless normally required           |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Deadline to complete check-in      | March 28              |
+| dar/term/17_18_term_calendars.html# | without a $50 late registration    |                       |
+| spring18                            | fee - check-in must be completed   |                       |
+|                                     | by 11:59 p.m.                      |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Deadline for spring term           | April 2               |
+| dar/term/17_18_term_calendars.html# | prospective graduates in residence |                       |
+| spring18                            | to elect or change a major or      |                       |
+|                                     | minor                              |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Deadline for return of degree      | April 2               |
+| dar/term/17_18_term_calendars.html# | applications by prospective June   |                       |
+| spring18                            | graduates who were not in          |                       |
+|                                     | residence during the winter term   |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Second week of schedule            | April 2-8             |
+| dar/term/17_18_term_calendars.html# | adjustment. All courses require    |                       |
+| spring18                            | Instructor permission to add       |                       |
+|                                     | courses                            |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for delayed check-in     | April 4               |
+| dar/term/17_18_term_calendars.html# | (with $50 late fee). Any student   |                       |
+| spring18                            | not checked-in by the end of this  |                       |
+|                                     | day, but still listed with the     |                       |
+|                                     | enrollment pattern letter R        |                       |
+|                                     | (Residence) for the spring term is |                       |
+|                                     | liable for administrative          |                       |
+|                                     | withdrawal                         |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for sophomores to        | April 4               |
+| dar/term/17_18_term_calendars.html# | declare majors online and, if      |                       |
+| spring18                            | appropriate, revise enrollment     |                       |
+|                                     | patterns                           |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for each undergraduate   | April 8               |
+| dar/term/17_18_term_calendars.html# | to establish official and final    |                       |
+| spring18                            | two-, three-, or four-course load. |                       |
+|                                     | Any registered student not         |                       |
+|                                     | officially enrolled in at least    |                       |
+|                                     | two courses becomes liable for     |                       |
+|                                     | administrative withdrawal.         |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for electing use of the  | April 9               |
+| dar/term/17_18_term_calendars.html# | Non-Recording Option (NRO)         |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for first-year students  | April 12              |
+| dar/term/17_18_term_calendars.html# | to submit enrollment patterns      |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Deadline to file completed         | April 16              |
+| dar/term/17_18_term_calendars.html# | transfer term applications for     |                       |
+| spring18                            | summer and fall terms              |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Course Timetable available for     | April 20              |
+| dar/term/17_18_term_calendars.html# | summer term                        |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Enrollment Census                  | April 23              |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for students to change   | April 23              |
+| dar/term/17_18_term_calendars.html# | their enrollment pattern for       |                       |
+| spring18                            | summer and/or fall terms           |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day to be eligible for on-   | April 23              |
+| dar/term/17_18_term_calendars.html# | time college housing assignment    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Room draw for fall term housing    | April 23              |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Summer term course election period | April 25-May 3        |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day of summer term course    | May 3                 |
+| dar/term/17_18_term_calendars.html# | election period                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Course Timetable available for     | May 4                 |
+| dar/term/17_18_term_calendars.html# | fall term                          |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day for dropping a fourth    | May 7                 |
+| dar/term/17_18_term_calendars.html# | course without a grade notation of |                       |
+| spring18                            | "W." (Acknowledgment of instructor |                       |
+|                                     | required. If dropping a fourth     |                       |
+|                                     | course after this date, one of     |                       |
+|                                     | four eligibilities for a fourth    |                       |
+|                                     | course without extra tuition is    |                       |
+|                                     | exhausted by such action. )        |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Summer term housing applications   | May 7                 |
+| dar/term/17_18_term_calendars.html# | due                                |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Fall term course election period   | May 9-17              |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Interim housing applications due   | May 11                |
+| dar/term/17_18_term_calendars.html# | for the break between spring and   |                       |
+| spring18                            | summer terms                       |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Summer term course change period   | May 11-30             |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day to withdraw from a       | May 16                |
+| dar/term/17_18_term_calendars.html# | course; any later request to       |                       |
+| spring18                            | withdraw from a course requires    |                       |
+|                                     | petition to a special committee.   |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day of fall term course      | May 17                |
+| dar/term/17_18_term_calendars.html# | election period                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day to alter grade limit     | May 23                |
+| dar/term/17_18_term_calendars.html# | filed under the Non-Recording      |                       |
+| spring18                            | Option (NRO)                       |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Last day in term for holding a     | May 23                |
+| dar/term/17_18_term_calendars.html# | major test or examination          |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Fall term course change period     | May 25-30             |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Memorial Day Holiday (no classes   | May 28                |
+| dar/term/17_18_term_calendars.html# | held)                              |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Spring term classes end            | May 30                |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final day, prior to the start of   | May 30                |
+| dar/term/17_18_term_calendars.html# | summer term classes, for making    |                       |
+| spring18                            | changes in summer and fall term    |                       |
+|                                     | course elections                   |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Pre-Examination Break              | May 31                |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final examination period begin     | June 1                |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Scheduled Final examinations end   | June 4                |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Final examination period ends      | June 5                |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Class Day                          | June 9                |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Commencement                       | June 10               |
+| dar/term/17_18_term_calendars.html# |                                    |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+
+| http://www.dartmouth.edu/~reg/calen | Grades and medians available on    | June 15               |
+| dar/term/17_18_term_calendars.html# | the web                            |                       |
+| spring18                            |                                    |                       |
++-------------------------------------+------------------------------------+-----------------------+

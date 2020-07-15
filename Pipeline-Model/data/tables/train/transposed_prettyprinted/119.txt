@@ -1,0 +1,22 @@
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| Born   | Occupa | Years  | Spouse | Childr | Origin | Genres | Instru | Labels | Associ | Websit |
+|        | tion   | active | (s)    | en     |        |        | ments  |        | ated   | e      |
+|        |        |        |        |        |        |        |        |        | acts   |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+
+| Alecia | Singer | 1995–p | Carey  | 2      | Philad | Pop    | Vocals | LaFace | You+Me | pinksp |
+| Beth   |        | resent | Hart   |        | elphia |        |        |        |        | age.co |
+| Moore  | songwr |        | (m.    |        | , Penn | pop    | guitar | Arista | Eminem | m      |
+|  (1979 | iter   |        | 2006)  |        | sylvan | rock   |        |        |        |        |
+| -09-08 |        |        |        |        | ia     |        | piano  | Jive   | Nate   |        |
+| ) Sept | dancer |        |        |        |        | R&B    |        |        | Ruess  |        |
+| ember  |        |        |        |        |        |        | drums  | RCA    |        |        |
+| 8,     | actres |        |        |        |        |        |        |        |        |        |
+| 1979   | s      |        |        |        |        |        |        | Legacy |        |        |
+| (age   |        |        |        |        |        |        |        |        |        |        |
+| 38)    |        |        |        |        |        |        |        |        |        |        |
+|  Doyle |        |        |        |        |        |        |        |        |        |        |
+| stown, |        |        |        |        |        |        |        |        |        |        |
+| Pennsy |        |        |        |        |        |        |        |        |        |        |
+| lvania |        |        |        |        |        |        |        |        |        |        |
+| , U.S. |        |        |        |        |        |        |        |        |        |        |
++--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+--------+

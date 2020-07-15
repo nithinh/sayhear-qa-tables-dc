@@ -1,0 +1,395 @@
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| url         | Ranking | Car         | Car_link    | Review_sni | Score | Msrp       | Mpg        |
+|             |         |             |             | ppet       |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| https://car | #1      | 2018 Toyota | https://car | With more  | 9.300 | $23,645 -  | 28 City /  |
+| s.usnews.co |         | Camry       | s.usnews.co | safety     |       | $35,100    | 39 Hwy     |
+| m/cars-truc |         |             | m/cars-truc | features,  |       |            |            |
+| ks/rankings |         |             | ks/toyota/c | better tec |       |            |            |
+| /midsize-   |         |             | amry        | hnology,   |       |            |            |
+| cars        |         |             |             | and        |       |            |            |
+|             |         |             |             | improved   |       |            |            |
+|             |         |             |             | handling   |       |            |            |
+|             |         |             |             | dynamics,  |       |            |            |
+|             |         |             |             | the        |       |            |            |
+|             |         |             |             | redesigned |       |            |            |
+|             |         |             |             | 2018       |       |            |            |
+|             |         |             |             | Toyota     |       |            |            |
+|             |         |             |             | Camry      |       |            |            |
+|             |         |             |             | earns a    |       |            |            |
+|             |         |             |             | place near |       |            |            |
+|             |         |             |             | the top of |       |            |            |
+|             |         |             |             | our        |       |            |            |
+|             |         |             |             | rankings.  |       |            |            |
+|             |         |             |             | Read full  |       |            |            |
+|             |         |             |             | review »   |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| https://car | #2      | 2018 Honda  | https://car | The        | 9.100 | $23,570 -  | 30 City /  |
+| s.usnews.co |         | Accord      | s.usnews.co | completely |       | $35,800    | 38 Hwy     |
+| m/cars-truc |         |             | m/cars-truc | redesigned |       |            |            |
+| ks/rankings |         |             | ks/honda/ac | Honda      |       |            |            |
+| /midsize-   |         |             | cord        | Accord is  |       |            |            |
+| cars        |         |             |             | a          |       |            |            |
+|             |         |             |             | practical  |       |            |            |
+|             |         |             |             | family car |       |            |            |
+|             |         |             |             | that’s     |       |            |            |
+|             |         |             |             | enjoyable  |       |            |            |
+|             |         |             |             | to drive.  |       |            |            |
+|             |         |             |             | It fits    |       |            |            |
+|             |         |             |             | the bill   |       |            |            |
+|             |         |             |             | for many   |       |            |            |
+|             |         |             |             | drivers    |       |            |            |
+|             |         |             |             | and has    |       |            |            |
+|             |         |             |             | few flaws, |       |            |            |
+|             |         |             |             | ... Read   |       |            |            |
+|             |         |             |             | full       |       |            |            |
+|             |         |             |             | review »   |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| https://car | #3      | 2018 Toyota | https://car | The Toyota | 9     | $27,800 -  | 51 City /  |
+| s.usnews.co |         | Camry       | s.usnews.co | Camry      |       | $32,250    | 53 Hwy     |
+| m/cars-truc |         | Hybrid      | m/cars-truc | Hybrid is  |       |            |            |
+| ks/rankings |         |             | ks/toyota/c | fully      |       |            |            |
+| /midsize-   |         |             | amry-hybrid | redesigned |       |            |            |
+| cars        |         |             |             | for 2018.  |       |            |            |
+|             |         |             |             | It has     |       |            |            |
+|             |         |             |             | great perf |       |            |            |
+|             |         |             |             | ormance    |       |            |            |
+|             |         |             |             | for a      |       |            |            |
+|             |         |             |             | hybrid,    |       |            |            |
+|             |         |             |             | impressive |       |            |            |
+|             |         |             |             | fuel effic |       |            |            |
+|             |         |             |             | iency, and |       |            |            |
+|             |         |             |             | a spacious |       |            |            |
+|             |         |             |             | and comfor |       |            |            |
+|             |         |             |             | table ...  |       |            |            |
+|             |         |             |             | Read full  |       |            |            |
+|             |         |             |             | review »   |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| https://car | #4      | 2017 Mazda  | https://car | If you     | 8.600 | $21,945 -  | 24 City /  |
+| s.usnews.co |         | Mazda6      | s.usnews.co | think of   |       | $30,695    | 34 Hwy     |
+| m/cars-truc |         |             | m/cars-truc | midsize    |       |            |            |
+| ks/rankings |         |             | ks/mazda/ma | sedans as  |       |            |            |
+| /midsize-   |         |             | zda6        | only       |       |            |            |
+| cars        |         |             |             | boring     |       |            |            |
+|             |         |             |             | family     |       |            |            |
+|             |         |             |             | cars, the  |       |            |            |
+|             |         |             |             | 2017       |       |            |            |
+|             |         |             |             | Mazda6 may |       |            |            |
+|             |         |             |             | change     |       |            |            |
+|             |         |             |             | your mind. |       |            |            |
+|             |         |             |             | Its        |       |            |            |
+|             |         |             |             | incredibly |       |            |            |
+|             |         |             |             | sharp      |       |            |            |
+|             |         |             |             | handling,  |       |            |            |
+|             |         |             |             | responsive |       |            |            |
+|             |         |             |             | steering,  |       |            |            |
+|             |         |             |             | ... Read   |       |            |            |
+|             |         |             |             | full       |       |            |            |
+|             |         |             |             | review »   |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| https://car | #4      | 2018        | https://car | The 2018   | 8.600 | $22,050 -  | 25 City /  |
+| s.usnews.co |         | Hyundai     | s.usnews.co | Hyundai    |       | $32,450    | 36 Hwy     |
+| m/cars-truc |         | Sonata      | m/cars-truc | Sonata     |       |            |            |
+| ks/rankings |         |             | ks/hyundai/ | sits near  |       |            |            |
+| /midsize-   |         |             | sonata      | the top of |       |            |            |
+| cars        |         |             |             | our        |       |            |            |
+|             |         |             |             | midsize    |       |            |            |
+|             |         |             |             | car        |       |            |            |
+|             |         |             |             | rankings   |       |            |            |
+|             |         |             |             | thanks to  |       |            |            |
+|             |         |             |             | its        |       |            |            |
+|             |         |             |             | overall co |       |            |            |
+|             |         |             |             | mpetence:  |       |            |            |
+|             |         |             |             | It has     |       |            |            |
+|             |         |             |             | generous   |       |            |            |
+|             |         |             |             | storage,   |       |            |            |
+|             |         |             |             | user-      |       |            |            |
+|             |         |             |             | friendly   |       |            |            |
+|             |         |             |             | tech, ...  |       |            |            |
+|             |         |             |             | Read full  |       |            |            |
+|             |         |             |             | review »   |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| https://car | #4      | 2018 Ford   | https://car | The 2018   | 8.600 | $22,215 -  | 21 City /  |
+| s.usnews.co |         | Fusion      | s.usnews.co | Ford       |       | $38,990    | 32 Hwy     |
+| m/cars-truc |         |             | m/cars-truc | Fusion     |       |            |            |
+| ks/rankings |         |             | ks/ford/fus | scores in  |       |            |            |
+| /midsize-   |         |             | ion         | the upper  |       |            |            |
+| cars        |         |             |             | tier of    |       |            |            |
+|             |         |             |             | the        |       |            |            |
+|             |         |             |             | midsize    |       |            |            |
+|             |         |             |             | car class. |       |            |            |
+|             |         |             |             | It has a   |       |            |            |
+|             |         |             |             | very good  |       |            |            |
+|             |         |             |             | predicated |       |            |            |
+|             |         |             |             | reliabilit |       |            |            |
+|             |         |             |             | y score    |       |            |            |
+|             |         |             |             | and some   |       |            |            |
+|             |         |             |             | ... Read   |       |            |            |
+|             |         |             |             | full       |       |            |            |
+|             |         |             |             | review »   |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| https://car | #7      | 2018 Ford   | https://car | The 2018   | 8.500 | $25,390 -  | 43 City /  |
+| s.usnews.co |         | Fusion      | s.usnews.co | Ford       |       | $37,370    | 41 Hwy     |
+| m/cars-truc |         | Hybrid      | m/cars-truc | Fusion     |       |            |            |
+| ks/rankings |         |             | ks/ford/fus | Hybrid     |       |            |            |
+| /midsize-   |         |             | ion-hybrid  | sits in    |       |            |            |
+| cars        |         |             |             | the top    |       |            |            |
+|             |         |             |             | third of   |       |            |            |
+|             |         |             |             | the        |       |            |            |
+|             |         |             |             | midsize    |       |            |            |
+|             |         |             |             | car class. |       |            |            |
+|             |         |             |             | It boasts  |       |            |            |
+|             |         |             |             | agile      |       |            |            |
+|             |         |             |             | handling,  |       |            |            |
+|             |         |             |             | high-      |       |            |            |
+|             |         |             |             | quality ac |       |            |            |
+|             |         |             |             | commodatio |       |            |            |
+|             |         |             |             | ns, and a  |       |            |            |
+|             |         |             |             | range ...  |       |            |            |
+|             |         |             |             | Read full  |       |            |            |
+|             |         |             |             | review »   |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| https://car | #8      | 2018 Honda  | https://car | The newly  | 8.400 | $25,100 -  | 47 City /  |
+| s.usnews.co |         | Accord      | s.usnews.co | redesigned |       | $34,710    | 47 Hwy     |
+| m/cars-truc |         | Hybrid      | m/cars-truc | 2018 Honda |       |            |            |
+| ks/rankings |         |             | ks/honda/ac | Accord     |       |            |            |
+| /midsize-   |         |             | cord-hybrid | Hybrid     |       |            |            |
+| cars        |         |             |             | finishes   |       |            |            |
+|             |         |             |             | in the     |       |            |            |
+|             |         |             |             | middle of  |       |            |            |
+|             |         |             |             | our        |       |            |            |
+|             |         |             |             | midsize    |       |            |            |
+|             |         |             |             | car        |       |            |            |
+|             |         |             |             | rankings.  |       |            |            |
+|             |         |             |             | It's       |       |            |            |
+|             |         |             |             | efficient  |       |            |            |
+|             |         |             |             | and        |       |            |            |
+|             |         |             |             | practical, |       |            |            |
+|             |         |             |             | but many   |       |            |            |
+|             |         |             |             | classmates |       |            |            |
+|             |         |             |             | are ...    |       |            |            |
+|             |         |             |             | Read full  |       |            |            |
+|             |         |             |             | review »   |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| https://car | #9      | 2018 Kia    | https://car | With a     | 8.300 | $22,600 -  | 25 City /  |
+| s.usnews.co |         | Optima      | s.usnews.co | user-      |       | $30,600    | 36 Hwy     |
+| m/cars-truc |         |             | m/cars-truc | friendly i |       |            |            |
+| ks/rankings |         |             | ks/kia/opti | nfotainmen |       |            |            |
+| /midsize-   |         |             | ma          | t system,  |       |            |            |
+| cars        |         |             |             | an array   |       |            |            |
+|             |         |             |             | of safety  |       |            |            |
+|             |         |             |             | and        |       |            |            |
+|             |         |             |             | technology |       |            |            |
+|             |         |             |             | features,  |       |            |            |
+|             |         |             |             | and good   |       |            |            |
+|             |         |             |             | gas        |       |            |            |
+|             |         |             |             | mileage,   |       |            |            |
+|             |         |             |             | the 2018   |       |            |            |
+|             |         |             |             | Kia Optima |       |            |            |
+|             |         |             |             | sits in    |       |            |            |
+|             |         |             |             | the top    |       |            |            |
+|             |         |             |             | ... Read   |       |            |            |
+|             |         |             |             | full       |       |            |            |
+|             |         |             |             | review »   |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| https://car | #9      | 2017        | https://car | The 2017   | 8.300 | $26,000 -  | 39 City /  |
+| s.usnews.co |         | Hyundai     | s.usnews.co | Hyundai    |       | $38,600    | 45 Hwy     |
+| m/cars-truc |         | Sonata      | m/cars-truc | Sonata     |       |            |            |
+| ks/rankings |         | Hybrid      | ks/hyundai/ | Hybrid     |       |            |            |
+| /midsize-   |         |             | sonata-     | features   |       |            |            |
+| cars        |         |             | hybrid      | good fuel  |       |            |            |
+|             |         |             |             | economy, a |       |            |            |
+|             |         |             |             | comfortabl |       |            |            |
+|             |         |             |             | e and      |       |            |            |
+|             |         |             |             | well-      |       |            |            |
+|             |         |             |             | equipped   |       |            |            |
+|             |         |             |             | interior,  |       |            |            |
+|             |         |             |             | and decent |       |            |            |
+|             |         |             |             | performanc |       |            |            |
+|             |         |             |             | e. Its     |       |            |            |
+|             |         |             |             | lower      |       |            |            |
+|             |         |             |             | ranking is |       |            |            |
+|             |         |             |             | less       |       |            |            |
+|             |         |             |             | indicative |       |            |            |
+|             |         |             |             | of ...     |       |            |            |
+|             |         |             |             | Read full  |       |            |            |
+|             |         |             |             | review »   |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| https://car | #9      | 2018        | https://car | The 2018   | 8.300 | $27,920    | 49 City /  |
+| s.usnews.co |         | Chevrolet   | s.usnews.co | Chevrolet  |       |            | 43 Hwy     |
+| m/cars-truc |         | Malibu      | m/cars-truc | Malibu     |       |            |            |
+| ks/rankings |         | Hybrid      | ks/chevrole | Hybrid has |       |            |            |
+| /midsize-   |         |             | t/malibu-   | a spacious |       |            |            |
+| cars        |         |             | hybrid      | interior,  |       |            |            |
+|             |         |             |             | user-      |       |            |            |
+|             |         |             |             | friendly   |       |            |            |
+|             |         |             |             | features,  |       |            |            |
+|             |         |             |             | and solid  |       |            |            |
+|             |         |             |             | performanc |       |            |            |
+|             |         |             |             | e. An      |       |            |            |
+|             |         |             |             | average    |       |            |            |
+|             |         |             |             | predicted  |       |            |            |
+|             |         |             |             | reliabilit |       |            |            |
+|             |         |             |             | y rating,  |       |            |            |
+|             |         |             |             | however,   |       |            |            |
+|             |         |             |             | keeps this |       |            |            |
+|             |         |             |             | Chevy in   |       |            |            |
+|             |         |             |             | ... Read   |       |            |            |
+|             |         |             |             | full       |       |            |            |
+|             |         |             |             | review »   |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| https://car | #9      | 2018        | https://car | The 2018   | 8.300 | $21,680 -  | 27 City /  |
+| s.usnews.co |         | Chevrolet   | s.usnews.co | Chevrolet  |       | $31,020    | 36 Hwy     |
+| m/cars-truc |         | Malibu      | m/cars-truc | Malibu     |       |            |            |
+| ks/rankings |         |             | ks/chevrole | shines in  |       |            |            |
+| /midsize-   |         |             | t/malibu    | the areas  |       |            |            |
+| cars        |         |             |             | of safety, |       |            |            |
+|             |         |             |             | passenger  |       |            |            |
+|             |         |             |             | room, and  |       |            |            |
+|             |         |             |             | value.     |       |            |            |
+|             |         |             |             | Still, its |       |            |            |
+|             |         |             |             | small      |       |            |            |
+|             |         |             |             | standard   |       |            |            |
+|             |         |             |             | features   |       |            |            |
+|             |         |             |             | list and   |       |            |            |
+|             |         |             |             | merely     |       |            |            |
+|             |         |             |             | average    |       |            |            |
+|             |         |             |             | predicted  |       |            |            |
+|             |         |             |             | ... Read   |       |            |            |
+|             |         |             |             | full       |       |            |            |
+|             |         |             |             | review »   |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| https://car | #13     | 2018 Honda  | https://car | The 2018   | 8.200 | $33,400 -  | 44 (Est)   |
+| s.usnews.co |         | Clarity     | s.usnews.co | Honda      |       | $36,600    | City / 40  |
+| m/cars-truc |         |             | m/cars-truc | Clarity    |       |            | (Est) Hwy  |
+| ks/rankings |         |             | ks/honda/cl | has an     |       |            |            |
+| /midsize-   |         |             | arity       | upscale    |       |            |            |
+| cars        |         |             |             | interior   |       |            |            |
+|             |         |             |             | and highly |       |            |            |
+|             |         |             |             | efficient  |       |            |            |
+|             |         |             |             | powertrain |       |            |            |
+|             |         |             |             | s, but it  |       |            |            |
+|             |         |             |             | can't keep |       |            |            |
+|             |         |             |             | up with    |       |            |            |
+|             |         |             |             | the perfor |       |            |            |
+|             |         |             |             | mance of   |       |            |            |
+|             |         |             |             | class      |       |            |            |
+|             |         |             |             | rivals.    |       |            |            |
+|             |         |             |             | With ...   |       |            |            |
+|             |         |             |             | Read full  |       |            |            |
+|             |         |             |             | review »   |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| https://car | #14     | 2018        | https://car | The 2018   | 8.100 | $22,995 -  | 25 City /  |
+| s.usnews.co |         | Volkswagen  | s.usnews.co | Volkswagen |       | $34,650    | 36 Hwy     |
+| m/cars-truc |         | Passat      | m/cars-truc | Passat is  |       |            |            |
+| ks/rankings |         |             | ks/volkswag | a solid    |       |            |            |
+| /midsize-   |         |             | en/passat   | car in a   |       |            |            |
+| cars        |         |             |             | class      |       |            |            |
+|             |         |             |             | filled     |       |            |            |
+|             |         |             |             | with great |       |            |            |
+|             |         |             |             | cars.      |       |            |            |
+|             |         |             |             | Though it  |       |            |            |
+|             |         |             |             | has loads  |       |            |            |
+|             |         |             |             | of room    |       |            |            |
+|             |         |             |             | and a      |       |            |            |
+|             |         |             |             | smooth ... |       |            |            |
+|             |         |             |             | Read full  |       |            |            |
+|             |         |             |             | review »   |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| https://car | #15     | 2018 Buick  | https://car | Even with  | 8     | $24,990 -  | 22 City /  |
+| s.usnews.co |         | Regal       | s.usnews.co | a full     |       | $39,070    | 32 Hwy     |
+| m/cars-truc |         |             | m/cars-truc | redesign,  |       |            |            |
+| ks/rankings |         |             | ks/buick/re | the 2018   |       |            |            |
+| /midsize-   |         |             | gal         | Buick      |       |            |            |
+| cars        |         |             |             | Regal      |       |            |            |
+|             |         |             |             | finishes   |       |            |            |
+|             |         |             |             | close to   |       |            |            |
+|             |         |             |             | the bottom |       |            |            |
+|             |         |             |             | of the     |       |            |            |
+|             |         |             |             | midsize    |       |            |            |
+|             |         |             |             | car class. |       |            |            |
+|             |         |             |             | Though it  |       |            |            |
+|             |         |             |             | has more   |       |            |            |
+|             |         |             |             | cargo ...  |       |            |            |
+|             |         |             |             | Read full  |       |            |            |
+|             |         |             |             | review »   |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| https://car | #15     | 2018 Kia    | https://car | The 2018   | 8     | $25,995 -  | 39 (Est)   |
+| s.usnews.co |         | Optima      | s.usnews.co | Kia Optima |       | $35,210    | City / 46  |
+| m/cars-truc |         | Hybrid      | m/cars-truc | Hybrid     |       |            | (Est) Hwy  |
+| ks/rankings |         |             | ks/kia/opti | sits near  |       |            |            |
+| /midsize-   |         |             | ma-hybrid   | the bottom |       |            |            |
+| cars        |         |             |             | of our     |       |            |            |
+|             |         |             |             | midsize    |       |            |            |
+|             |         |             |             | sedan      |       |            |            |
+|             |         |             |             | rankings.  |       |            |            |
+|             |         |             |             | There's a  |       |            |            |
+|             |         |             |             | lot to     |       |            |            |
+|             |         |             |             | like about |       |            |            |
+|             |         |             |             | this Kia,  |       |            |            |
+|             |         |             |             | but it ... |       |            |            |
+|             |         |             |             | Read full  |       |            |            |
+|             |         |             |             | review »   |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| https://car | #15     | 2018 Nissan | https://car | The 2018   | 8     | $23,260 -  | 27 City /  |
+| s.usnews.co |         | Altima      | s.usnews.co | Nissan     |       | $33,630    | 38 Hwy     |
+| m/cars-truc |         |             | m/cars-truc | Altima     |       |            |            |
+| ks/rankings |         |             | ks/nissan/a | offers     |       |            |            |
+| /midsize-   |         |             | ltima       | excellent  |       |            |            |
+| cars        |         |             |             | fuel       |       |            |            |
+|             |         |             |             | economy    |       |            |            |
+|             |         |             |             | and comfy  |       |            |            |
+|             |         |             |             | seats.     |       |            |            |
+|             |         |             |             | Still, it  |       |            |            |
+|             |         |             |             | ranks near |       |            |            |
+|             |         |             |             | the back   |       |            |            |
+|             |         |             |             | of the     |       |            |            |
+|             |         |             |             | midsize    |       |            |            |
+|             |         |             |             | car class  |       |            |            |
+|             |         |             |             | due to ... |       |            |            |
+|             |         |             |             | Read full  |       |            |            |
+|             |         |             |             | review »   |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| https://car | #18     | 2018 Ford   | https://car | With its   | 7.900 | $33,400 -  | N/A        |
+| s.usnews.co |         | Fusion      | s.usnews.co | low        |       | $41,400    |            |
+| m/cars-truc |         | Energi      | m/cars-truc | electric   |       |            |            |
+| ks/rankings |         |             | ks/ford/fus | range,     |       |            |            |
+| /midsize-   |         |             | ion-energi  | small      |       |            |            |
+| cars        |         |             |             | trunk      |       |            |            |
+|             |         |             |             | area, and  |       |            |            |
+|             |         |             |             | lethargic  |       |            |            |
+|             |         |             |             | highway ac |       |            |            |
+|             |         |             |             | celeration |       |            |            |
+|             |         |             |             | , the 2018 |       |            |            |
+|             |         |             |             | Ford       |       |            |            |
+|             |         |             |             | Fusion     |       |            |            |
+|             |         |             |             | Energi     |       |            |            |
+|             |         |             |             | sits near  |       |            |            |
+|             |         |             |             | the bottom |       |            |            |
+|             |         |             |             | of our     |       |            |            |
+|             |         |             |             | midsize    |       |            |            |
+|             |         |             |             | ... Read   |       |            |            |
+|             |         |             |             | full       |       |            |            |
+|             |         |             |             | review »   |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+
+| https://car | #19     | 2018 Subaru | https://car | The 2018   | 7.800 | $22,195 -  | 25 City /  |
+| s.usnews.co |         | Legacy      | s.usnews.co | Subaru     |       | $31,945    | 34 Hwy     |
+| m/cars-truc |         |             | m/cars-truc | Legacy     |       |            |            |
+| ks/rankings |         |             | ks/subaru/l | finishes   |       |            |            |
+| /midsize-   |         |             | egacy       | near the   |       |            |            |
+| cars        |         |             |             | bottom of  |       |            |            |
+|             |         |             |             | our        |       |            |            |
+|             |         |             |             | midsize    |       |            |            |
+|             |         |             |             | car        |       |            |            |
+|             |         |             |             | rankings.  |       |            |            |
+|             |         |             |             | This       |       |            |            |
+|             |         |             |             | Subaru has |       |            |            |
+|             |         |             |             | a quality  |       |            |            |
+|             |         |             |             | interior,  |       |            |            |
+|             |         |             |             | but its pe |       |            |            |
+|             |         |             |             | rformance  |       |            |            |
+|             |         |             |             | isn’t as   |       |            |            |
+|             |         |             |             | ... Read   |       |            |            |
+|             |         |             |             | full       |       |            |            |
+|             |         |             |             | review »   |       |            |            |
++-------------+---------+-------------+-------------+------------+-------+------------+------------+

@@ -1,0 +1,227 @@
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| url               | Date         | Holiday           | Holiday_link     | Day       | Days_To_Go |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | January 1    | New Year's Day    | http://www.calen | Monday    | -          |
+| dar-365.com/holid |              | 2018              | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/new-year%27 |           |            |
+|                   |              |                   | s-day.html       |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | January 15   | Martin Luther     | http://www.calen | Monday    | -          |
+| dar-365.com/holid |              | King Day 2018     | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/martin-     |           |            |
+|                   |              |                   | luther-king-     |           |            |
+|                   |              |                   | day.html         |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | January 24   | Belly Laugh Day   | http://www.calen | Wednesday | -          |
+| dar-365.com/holid |              | 2018              | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/belly-      |           |            |
+|                   |              |                   | laugh-day.html   |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | February 2   | Groundhog Day     | http://www.calen | Friday    | -          |
+| dar-365.com/holid |              | 2018              | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/groundhog-  |           |            |
+|                   |              |                   | day.html         |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | February 12  | Lincoln's         | http://www.calen | Monday    | -          |
+| dar-365.com/holid |              | Birthday 2018     | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/lincoln%27s |           |            |
+|                   |              |                   | -birthday.html   |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | February 13  | Mardi Gras        | http://www.calen | Tuesday   | -          |
+| dar-365.com/holid |              | Carnival 2018     | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/mardi-gras- |           |            |
+|                   |              |                   | carnival-%28new- |           |            |
+|                   |              |                   | orleans%29.html  |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | February 14  | Valentine's Day   | http://www.calen | Wednesday | -          |
+| dar-365.com/holid |              | 2018              | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/valentine%2 |           |            |
+|                   |              |                   | 7s-day.html      |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | February 19  | Presidents Day    | http://www.calen | Monday    | -          |
+| dar-365.com/holid |              | and Washington's  | dar-365.com/holi |           |            |
+| ays/2018.html     |              | Birthday 2018     | days/presidents- |           |            |
+|                   |              |                   | day-and-washingt |           |            |
+|                   |              |                   | on%27s-birthday. |           |            |
+|                   |              |                   | html             |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | March 11     | Daylight Saving   | http://www.calen | Sunday    | -          |
+| dar-365.com/holid |              | 2018              | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/daylight-sa |           |            |
+|                   |              |                   | ving-%28start%29 |           |            |
+|                   |              |                   | .html            |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | March 17     | St. Patrick's Day | http://www.calen | Saturday  | -          |
+| dar-365.com/holid |              | 2018              | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/st.-patrick |           |            |
+|                   |              |                   | %27s-day.html    |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | March 30     | Good Friday 2018  | http://www.calen | Friday    | 3          |
+| dar-365.com/holid |              |                   | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/good-       |           |            |
+|                   |              |                   | friday.html      |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | April 1      | April Fool's Day  | http://www.calen | Sunday    | 5          |
+| dar-365.com/holid |              | 2018              | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/april-fool% |           |            |
+|                   |              |                   | 27s-day.html     |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | April 1      | Easter 2018       | http://www.calen | Sunday    | 5          |
+| dar-365.com/holid |              |                   | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/easter.html |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | April 2      | Easter Monday     | http://www.calen | Monday    | 6          |
+| dar-365.com/holid |              | 2018              | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/easter-     |           |            |
+|                   |              |                   | monday.html      |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | April 22     | Earth Day 2018    | http://www.calen | Sunday    | 26         |
+| dar-365.com/holid |              |                   | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/earth-      |           |            |
+|                   |              |                   | day.html         |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | May 5        | Cinco de Mayo     | http://www.calen | Saturday  | 39         |
+| dar-365.com/holid |              | 2018              | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/cinco-de-   |           |            |
+|                   |              |                   | mayo.html        |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | May 13       | Mother's Day 2018 | http://www.calen | Sunday    | 47         |
+| dar-365.com/holid |              |                   | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/mother%27s- |           |            |
+|                   |              |                   | day.html         |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | May 19       | Armed Forces Day  | http://www.calen | Saturday  | 53         |
+| dar-365.com/holid |              | 2018              | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/armed-      |           |            |
+|                   |              |                   | forces-day.html  |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | May 20       | Pentecost 2018    | http://www.calen | Sunday    | 54         |
+| dar-365.com/holid |              |                   | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/pentecost.h |           |            |
+|                   |              |                   | tml              |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | May 21       | Pentecost Monday  | http://www.calen | Monday    | 55         |
+| dar-365.com/holid |              | 2018              | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/pentecost-  |           |            |
+|                   |              |                   | monday.html      |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | May 28       | Memorial Day 2018 | http://www.calen | Monday    | 62         |
+| dar-365.com/holid |              |                   | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/memorial-   |           |            |
+|                   |              |                   | day.html         |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | June 14      | Flag Day 2018     | http://www.calen | Thursday  | 79         |
+| dar-365.com/holid |              |                   | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/flag-       |           |            |
+|                   |              |                   | day.html         |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | June 17      | Father's Day 2018 | http://www.calen | Sunday    | 82         |
+| dar-365.com/holid |              |                   | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/father%27s- |           |            |
+|                   |              |                   | day.html         |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | July 4       | Independence Day  | http://www.calen | Wednesday | 99         |
+| dar-365.com/holid |              | 2018              | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/independenc |           |            |
+|                   |              |                   | e-day.html       |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | July 22      | Parents' Day 2018 | http://www.calen | Sunday    | 117        |
+| dar-365.com/holid |              |                   | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/parents%27- |           |            |
+|                   |              |                   | day.html         |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | September 3  | Labor Day 2018    | http://www.calen | Monday    | 160        |
+| dar-365.com/holid |              |                   | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/labor-      |           |            |
+|                   |              |                   | day.html         |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | September 9  | Grandparents' Day | http://www.calen | Sunday    | 166        |
+| dar-365.com/holid |              | 2018              | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/grandparent |           |            |
+|                   |              |                   | s%27-day.html    |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | September 11 | Patriot Day or    | http://www.calen | Tuesday   | 168        |
+| dar-365.com/holid |              | September 11th    | dar-365.com/holi |           |            |
+| ays/2018.html     |              | 2018              | days/patriot-    |           |            |
+|                   |              |                   | day-or-september |           |            |
+|                   |              |                   | -11th.html       |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | September 16 | Stepfamily Day    | http://www.calen | Sunday    | 173        |
+| dar-365.com/holid |              | 2018              | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/stepfamily- |           |            |
+|                   |              |                   | day.html         |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | September 17 | Citizenship Day   | http://www.calen | Monday    | 174        |
+| dar-365.com/holid |              | 2018              | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/citizenship |           |            |
+|                   |              |                   | -day.html        |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | September 28 | Native American   | http://www.calen | Friday    | 185        |
+| dar-365.com/holid |              | Day 2018          | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/native-     |           |            |
+|                   |              |                   | american-        |           |            |
+|                   |              |                   | day.html         |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | October 8    | Columbus Day 2018 | http://www.calen | Monday    | 195        |
+| dar-365.com/holid |              |                   | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/columbus-   |           |            |
+|                   |              |                   | day.html         |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | October 16   | Boss's Day 2018   | http://www.calen | Tuesday   | 203        |
+| dar-365.com/holid |              |                   | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/boss%27s-da |           |            |
+|                   |              |                   | y.html           |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | October 20   | Sweetest Day 2018 | http://www.calen | Saturday  | 207        |
+| dar-365.com/holid |              |                   | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/sweetest-   |           |            |
+|                   |              |                   | day.html         |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | October 31   | Halloween 2018    | http://www.calen | Wednesday | 218        |
+| dar-365.com/holid |              |                   | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/halloween.h |           |            |
+|                   |              |                   | tml              |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | November 4   | Daylight Saving   | http://www.calen | Sunday    | 222        |
+| dar-365.com/holid |              | 2018              | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/daylight-sa |           |            |
+|                   |              |                   | ving-%28end%29.h |           |            |
+|                   |              |                   | tml              |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | November 11  | Veterans' Day     | http://www.calen | Sunday    | 229        |
+| dar-365.com/holid |              | 2018              | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/veterans%27 |           |            |
+|                   |              |                   | -day.html        |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | November 22  | Thanksgiving 2018 | http://www.calen | Thursday  | 240        |
+| dar-365.com/holid |              |                   | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/thanksgivin |           |            |
+|                   |              |                   | g.html           |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | November 23  | Black Friday 2018 | http://www.calen | Friday    | 241        |
+| dar-365.com/holid |              |                   | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/black-      |           |            |
+|                   |              |                   | friday.html      |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | November 26  | Cyber Monday 2018 | http://www.calen | Monday    | 244        |
+| dar-365.com/holid |              |                   | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/cyber-      |           |            |
+|                   |              |                   | monday.html      |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | December 7   | Pearl Harbor      | http://www.calen | Friday    | 255        |
+| dar-365.com/holid |              | Remembrance Day   | dar-365.com/holi |           |            |
+| ays/2018.html     |              | 2018              | days/pearl-      |           |            |
+|                   |              |                   | harbor-          |           |            |
+|                   |              |                   | remembrance-     |           |            |
+|                   |              |                   | day.html         |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | December 25  | Christmas Day     | http://www.calen | Tuesday   | 273        |
+| dar-365.com/holid |              | 2018              | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/christmas-  |           |            |
+|                   |              |                   | day.html         |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+
+| https://www.calen | December 31  | New Year's Eve    | http://www.calen | Monday    | 279        |
+| dar-365.com/holid |              | 2018              | dar-365.com/holi |           |            |
+| ays/2018.html     |              |                   | days/new-year%27 |           |            |
+|                   |              |                   | s-eve.html       |           |            |
++-------------------+--------------+-------------------+------------------+-----------+------------+

@@ -1,0 +1,27 @@
++------------------------------------------+-------------+-----------------------------------------+
+| url                                      | keys        | values                                  |
++------------------------------------------+-------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Death_of_J | Date        | September 18, 1970; 47 years ago        |
+| imi_Hendrix                              |             | (1970-09-18)                            |
++------------------------------------------+-------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Death_of_J | Location    | Samarkand Hotel, 22 Lansdowne Crescent, |
+| imi_Hendrix                              |             | Notting Hill, London, United Kingdom    |
++------------------------------------------+-------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Death_of_J | Coordinates | Coordinates: 51°30′45″N 0°12′25″W /     |
+| imi_Hendrix                              |             | 51.5125°N 0.207°W / 51.5125; -0.207     |
++------------------------------------------+-------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Death_of_J | Cause       | Asphyxia due to aspiration of vomit,    |
+| imi_Hendrix                              |             | contributed to by drug intoxication     |
++------------------------------------------+-------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Death_of_J | Burial      | October 1, 1970, at Greenwood Cemetery, |
+| imi_Hendrix                              |             | Renton, Washington, US                  |
++------------------------------------------+-------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Death_of_J | Inquest     | September 28, 1970, in London, England  |
+| imi_Hendrix                              |             |                                         |
++------------------------------------------+-------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Death_of_J | Coroner     | Gavin Thurston                          |
+| imi_Hendrix                              |             |                                         |
++------------------------------------------+-------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Death_of_J | Verdict     | Open                                    |
+| imi_Hendrix                              |             |                                         |
++------------------------------------------+-------------+-----------------------------------------+

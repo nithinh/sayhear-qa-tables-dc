@@ -1,0 +1,22 @@
++------------------+-----------------+----------------+--------+-----------------+-----------------+
+| url              | Baggage_Type    | Size           | Weight | Fee             | More_Informatio |
+|                  |                 |                |        |                 | n               |
++------------------+-----------------+----------------+--------+-----------------+-----------------+
+| https://www.unib | Cabin Baggage   | 55 x 40 x 24cm | 10kg   | N/A             | Airport fees    |
+| aggage.com/shipp |                 |                |        |                 | apply if        |
+| ing/airlines/aer |                 |                |        |                 | oversized or    |
+| -lingus-baggage- |                 |                |        |                 | overweight      |
+| allowance/       |                 |                |        |                 |                 |
++------------------+-----------------+----------------+--------+-----------------+-----------------+
+| https://www.unib | Checked Baggage | 158cm          | 23kg   | €20 - €85       | €10 per extra   |
+| aggage.com/shipp |                 |                |        | depending on    | bag             |
+| ing/airlines/aer |                 |                |        | route and       |                 |
+| -lingus-baggage- |                 |                |        | booking         |                 |
+| allowance/       |                 |                |        |                 |                 |
++------------------+-----------------+----------------+--------+-----------------+-----------------+
+| https://www.unib | Excess Baggage  | 158cm          | 32kg   | €10 per kg -    | N/A             |
+| aggage.com/shipp |                 |                |        | varies          |                 |
+| ing/airlines/aer |                 |                |        | depending on    |                 |
+| -lingus-baggage- |                 |                |        | route           |                 |
+| allowance/       |                 |                |        |                 |                 |
++------------------+-----------------+----------------+--------+-----------------+-----------------+

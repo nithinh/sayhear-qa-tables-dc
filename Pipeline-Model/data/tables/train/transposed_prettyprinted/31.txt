@@ -1,0 +1,629 @@
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| url   | Rank | Mall_ | Mall_ | Locat | Locat | Metro | Metro | Retai | Stor | Anch | Year | Owne |
+|       |      | Name  | Name_ | ion   | ion_l | _Area | _Area | l_Spa | es   | or_S | _Ope | rshi |
+|       |      |       | link  |       | ink   |       | _link | ce_(s |      | tore | ned  | p    |
+|       |      |       |       |       |       |       |       | q._ft |      | s/En |      |      |
+|       |      |       |       |       |       |       |       | _/_m^ |      | tert |      |      |
+|       |      |       |       |       |       |       |       | s)    |      | ainm |      |      |
+|       |      |       |       |       |       |       |       |       |      | ent_ |      |      |
+|       |      |       |       |       |       |       |       |       |      | Venu |      |      |
+|       |      |       |       |       |       |       |       |       |      | es   |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 1    | King  | https | King  | https | Phila | https | 2,900 | 450; | Macy | 1963 | King |
+| ://en |      | of Pr | ://en | of Pr | ://en | delph | ://en | ,000  | 450  | 's,  |      | of P |
+| .wiki |      | ussia | .wiki | ussia | .wiki | ia    | .wiki | squar |      | Nord |      | russ |
+| pedia |      |       | pedia | , Pen | pedia |       | pedia | e     |      | stro |      | ia A |
+| .org/ |      |       | .org/ | nsylv | .org/ |       | .org/ | feet  |      | m, P |      | ssoc |
+| wiki/ |      |       | wiki/ | ania  | wiki/ |       | wiki/ | (270, |      | rima |      | iate |
+| List_ |      |       | King_ |       | King_ |       | Phila | 000 m |      | rk,  |      | s, S |
+| of_la |      |       | of_Pr |       | of_Pr |       | delph |       |      | Dick |      | imon |
+| rgest |      |       | ussia |       | ussia |       | ia    |       |      | 's S |      | Prop |
+| _shop |      |       | _Mall |       | ,_Pen |       |       |       |      | port |      | erty |
+| ping_ |      |       |       |       | nsylv |       |       |       |      | ing  |      | Grou |
+| malls |      |       |       |       | ania  |       |       |       |      | Good |      | p    |
+| _in_t |      |       |       |       |       |       |       |       |      | s, B |      |      |
+| he_Un |      |       |       |       |       |       |       |       |      | loom |      |      |
+| ited_ |      |       |       |       |       |       |       |       |      | ingd |      |      |
+| State |      |       |       |       |       |       |       |       |      | ale' |      |      |
+| s     |      |       |       |       |       |       |       |       |      | s,   |      |      |
+|       |      |       |       |       |       |       |       |       |      | Lord |      |      |
+|       |      |       |       |       |       |       |       |       |      | & Ta |      |      |
+|       |      |       |       |       |       |       |       |       |      | ylor |      |      |
+|       |      |       |       |       |       |       |       |       |      | , Ne |      |      |
+|       |      |       |       |       |       |       |       |       |      | iman |      |      |
+|       |      |       |       |       |       |       |       |       |      | Marc |      |      |
+|       |      |       |       |       |       |       |       |       |      | us   |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 2    | Avent | https | Avent | https | Miami | https | 2,700 | 300+ | Nord | 1983 | Turn |
+| ://en |      | ura   | ://en | ura,  | ://en |       | ://en | ,000  | [3]; | stro |      | berr |
+| .wiki |      | Mall  | .wiki | Flori | .wiki |       | .wiki | squar | 300+ | m, B |      | y As |
+| pedia |      |       | pedia | da    | pedia |       | pedia | e     |      | loom |      | soci |
+| .org/ |      |       | .org/ |       | .org/ |       | .org/ | feet  |      | ingd |      | ates |
+| wiki/ |      |       | wiki/ |       | wiki/ |       | wiki/ | (250, |      | ale’ |      | , Si |
+| List_ |      |       | Avent |       | Avent |       | Miami | 000 m |      | s, M |      | mon  |
+| of_la |      |       | ura_M |       | ura,_ |       |       |       |      | acy' |      | Prop |
+| rgest |      |       | all   |       | Flori |       |       |       |      | s (2 |      | erty |
+| _shop |      |       |       |       | da    |       |       |       |      | Stor |      | Grou |
+| ping_ |      |       |       |       |       |       |       |       |      | es), |      | p    |
+| malls |      |       |       |       |       |       |       |       |      | JCPe |      |      |
+| _in_t |      |       |       |       |       |       |       |       |      | nney |      |      |
+| he_Un |      |       |       |       |       |       |       |       |      | ,    |      |      |
+| ited_ |      |       |       |       |       |       |       |       |      | AMC  |      |      |
+| State |      |       |       |       |       |       |       |       |      | Thea |      |      |
+| s     |      |       |       |       |       |       |       |       |      | ters |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 3    | Mall  | https | Bloom | https | Minne | https | 2,500 | 500; | Macy | 1992 | Trip |
+| ://en |      | of Am | ://en | ingto | ://en | apoli | ://en | ,000  | 500  | 's,  |      | le   |
+| .wiki |      | erica | .wiki | n, Mi | .wiki | s     | .wiki | squar |      | Sear |      | Five |
+| pedia |      |       | pedia | nneso | pedia |       | pedia | e     |      | s, N |      | Grou |
+| .org/ |      |       | .org/ | ta    | .org/ |       | .org/ | feet  |      | ords |      | p    |
+| wiki/ |      |       | wiki/ |       | wiki/ |       | wiki/ | (230, |      | trom |      |      |
+| List_ |      |       | Mall_ |       | Bloom |       | Minne | 000 m |      | (Rac |      |      |
+| of_la |      |       | of_Am |       | ingto |       | apoli |       |      | k),  |      |      |
+| rgest |      |       | erica |       | n,_Mi |       | s     |       |      | Best |      |      |
+| _shop |      |       |       |       | nneso |       |       |       |      | Buy, |      |      |
+| ping_ |      |       |       |       | ta    |       |       |       |      | Fore |      |      |
+| malls |      |       |       |       |       |       |       |       |      | ver2 |      |      |
+| _in_t |      |       |       |       |       |       |       |       |      | 1, M |      |      |
+| he_Un |      |       |       |       |       |       |       |       |      | arsh |      |      |
+| ited_ |      |       |       |       |       |       |       |       |      | all' |      |      |
+| State |      |       |       |       |       |       |       |       |      | s, N |      |      |
+| s     |      |       |       |       |       |       |       |       |      | icke |      |      |
+|       |      |       |       |       |       |       |       |       |      | lode |      |      |
+|       |      |       |       |       |       |       |       |       |      | on U |      |      |
+|       |      |       |       |       |       |       |       |       |      | nive |      |      |
+|       |      |       |       |       |       |       |       |       |      | rse, |      |      |
+|       |      |       |       |       |       |       |       |       |      | LEGO |      |      |
+|       |      |       |       |       |       |       |       |       |      | Worl |      |      |
+|       |      |       |       |       |       |       |       |       |      | d, A |      |      |
+|       |      |       |       |       |       |       |       |       |      | meri |      |      |
+|       |      |       |       |       |       |       |       |       |      | can  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Girl |      |      |
+|       |      |       |       |       |       |       |       |       |      | ,    |      |      |
+|       |      |       |       |       |       |       |       |       |      | Sea  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Life |      |      |
+|       |      |       |       |       |       |       |       |       |      | Minn |      |      |
+|       |      |       |       |       |       |       |       |       |      | esot |      |      |
+|       |      |       |       |       |       |       |       |       |      | a Aq |      |      |
+|       |      |       |       |       |       |       |       |       |      | uari |      |      |
+|       |      |       |       |       |       |       |       |       |      | um,  |      |      |
+|       |      |       |       |       |       |       |       |       |      | FlyO |      |      |
+|       |      |       |       |       |       |       |       |       |      | ver  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Amer |      |      |
+|       |      |       |       |       |       |       |       |       |      | ica, |      |      |
+|       |      |       |       |       |       |       |       |       |      | JW M |      |      |
+|       |      |       |       |       |       |       |       |       |      | arri |      |      |
+|       |      |       |       |       |       |       |       |       |      | ott, |      |      |
+|       |      |       |       |       |       |       |       |       |      | Radi |      |      |
+|       |      |       |       |       |       |       |       |       |      | sson |      |      |
+|       |      |       |       |       |       |       |       |       |      | Blu  |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 4    | South | https | Costa | https | Los A | https | 2,600 | 280; | Macy | 1967 | Sege |
+| ://en |      | Coast | ://en | Mesa, | ://en | ngele | ://en | ,000  | 280  | 's   |      | rstr |
+| .wiki |      | Plaza | .wiki | Calif | .wiki | s     | .wiki | squar |      | (3 s |      | om f |
+| pedia |      |       | pedia | ornia | pedia |       | pedia | e     |      | tore |      | amil |
+| .org/ |      |       | .org/ |       | .org/ |       | .org/ | feet  |      | s –  |      | y    |
+| wiki/ |      |       | wiki/ |       | wiki/ |       | wiki/ | (240, |      | Main |      |      |
+| List_ |      |       | South |       | Costa |       | Los_A | 000 m |      | , Me |      |      |
+| of_la |      |       | _Coas |       | _Mesa |       | ngele |       |      | n's, |      |      |
+| rgest |      |       | t_Pla |       | ,_Cal |       | s     |       |      | Home |      |      |
+| _shop |      |       | za    |       | iforn |       |       |       |      | ), S |      |      |
+| ping_ |      |       |       |       | ia    |       |       |       |      | ears |      |      |
+| malls |      |       |       |       |       |       |       |       |      | , No |      |      |
+| _in_t |      |       |       |       |       |       |       |       |      | rdst |      |      |
+| he_Un |      |       |       |       |       |       |       |       |      | rom, |      |      |
+| ited_ |      |       |       |       |       |       |       |       |      | Saks |      |      |
+| State |      |       |       |       |       |       |       |       |      | Fift |      |      |
+| s     |      |       |       |       |       |       |       |       |      | h Av |      |      |
+|       |      |       |       |       |       |       |       |       |      | enue |      |      |
+|       |      |       |       |       |       |       |       |       |      | , Bl |      |      |
+|       |      |       |       |       |       |       |       |       |      | oomi |      |      |
+|       |      |       |       |       |       |       |       |       |      | ngda |      |      |
+|       |      |       |       |       |       |       |       |       |      | le's |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 5    | Del   | https | Torra | https | Los A | https | 2,600 | 200+ | Nord | 1961 | Simo |
+| ://en |      | Amo F | ://en | nce,  | ://en | ngele | ://en | ,000  | ;    | stro |      | n Pr |
+| .wiki |      | ashio | .wiki | Calif | .wiki | s     | .wiki | squar | 200+ | m, M |      | oper |
+| pedia |      | n Cen | pedia | ornia | pedia |       | pedia | e     |      | acy' |      | ty G |
+| .org/ |      | ter   | .org/ |       | .org/ |       | .org/ | feet  |      | s (2 |      | roup |
+| wiki/ |      |       | wiki/ |       | wiki/ |       | wiki/ | (240, |      | stor |      |      |
+| List_ |      |       | Del_A |       | Torra |       | Los_A | 000 m |      | es – |      |      |
+| of_la |      |       | mo_Fa |       | nce,_ |       | ngele |       |      | Main |      |      |
+| rgest |      |       | shion |       | Calif |       | s_Cou |       |      | and  |      |      |
+| _shop |      |       | _Cent |       | ornia |       | nty   |       |      | Men, |      |      |
+| ping_ |      |       | er    |       |       |       |       |       |      | Home |      |      |
+| malls |      |       |       |       |       |       |       |       |      | ,    |      |      |
+| _in_t |      |       |       |       |       |       |       |       |      | and  |      |      |
+| he_Un |      |       |       |       |       |       |       |       |      | Furn |      |      |
+| ited_ |      |       |       |       |       |       |       |       |      | itur |      |      |
+| State |      |       |       |       |       |       |       |       |      | e),  |      |      |
+| s     |      |       |       |       |       |       |       |       |      | JCPe |      |      |
+|       |      |       |       |       |       |       |       |       |      | nney |      |      |
+|       |      |       |       |       |       |       |       |       |      | , Se |      |      |
+|       |      |       |       |       |       |       |       |       |      | ars, |      |      |
+|       |      |       |       |       |       |       |       |       |      | T.J. |      |      |
+|       |      |       |       |       |       |       |       |       |      | Maxx |      |      |
+|       |      |       |       |       |       |       |       |       |      | , Ma |      |      |
+|       |      |       |       |       |       |       |       |       |      | rsha |      |      |
+|       |      |       |       |       |       |       |       |       |      | lls, |      |      |
+|       |      |       |       |       |       |       |       |       |      | Burl |      |      |
+|       |      |       |       |       |       |       |       |       |      | ingt |      |      |
+|       |      |       |       |       |       |       |       |       |      | on   |      |      |
+|       |      |       |       |       |       |       |       |       |      | Coat |      |      |
+|       |      |       |       |       |       |       |       |       |      | Fact |      |      |
+|       |      |       |       |       |       |       |       |       |      | ory, |      |      |
+|       |      |       |       |       |       |       |       |       |      | JO-  |      |      |
+|       |      |       |       |       |       |       |       |       |      | ANN  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Fabr |      |      |
+|       |      |       |       |       |       |       |       |       |      | ic   |      |      |
+|       |      |       |       |       |       |       |       |       |      | and  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Craf |      |      |
+|       |      |       |       |       |       |       |       |       |      | t,   |      |      |
+|       |      |       |       |       |       |       |       |       |      | AMC  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Thea |      |      |
+|       |      |       |       |       |       |       |       |       |      | ters |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 6    | Desti | https | Syrac | https | Syrac | https | 2,450 | 250+ | Macy | 1990 | The  |
+| ://en |      | ny    | ://en | use,  | ://en | use   | ://en | ,000  | ;    | 's,  | (exp | Pyra |
+| .wiki |      | USA   | .wiki | New   | .wiki |       | .wiki | squar | 250+ | JCPe | ande | mid  |
+| pedia |      |       | pedia | York  | pedia |       | pedia | e     |      | nney | d in | Comp |
+| .org/ |      |       | .org/ |       | .org/ |       | .org/ | feet  |      | ,    | 2012 | anie |
+| wiki/ |      |       | wiki/ |       | wiki/ |       | wiki/ | (228, |      | Best | whic | s    |
+| List_ |      |       | Desti |       | Syrac |       | Syrac | 000 m |      | Buy, | h ad |      |
+| of_la |      |       | ny_US |       | use,_ |       | use_m |       |      | Lord | ded  |      |
+| rgest |      |       | A     |       | New_Y |       | etrop |       |      | & Ta | 40+  |      |
+| _shop |      |       |       |       | ork   |       | olita |       |      | ylor | stor |      |
+| ping_ |      |       |       |       |       |       | n_are |       |      | ,    | es)  |      |
+| malls |      |       |       |       |       |       | a     |       |      | H&M, |      |      |
+| _in_t |      |       |       |       |       |       |       |       |      | Dave |      |      |
+| he_Un |      |       |       |       |       |       |       |       |      | & Bu |      |      |
+| ited_ |      |       |       |       |       |       |       |       |      | ster |      |      |
+| State |      |       |       |       |       |       |       |       |      | 's,  |      |      |
+| s     |      |       |       |       |       |       |       |       |      | Off  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Broa |      |      |
+|       |      |       |       |       |       |       |       |       |      | dway |      |      |
+|       |      |       |       |       |       |       |       |       |      | Shoe |      |      |
+|       |      |       |       |       |       |       |       |       |      | s, N |      |      |
+|       |      |       |       |       |       |       |       |       |      | ords |      |      |
+|       |      |       |       |       |       |       |       |       |      | trom |      |      |
+|       |      |       |       |       |       |       |       |       |      | Rack |      |      |
+|       |      |       |       |       |       |       |       |       |      | ,    |      |      |
+|       |      |       |       |       |       |       |       |       |      | Saks |      |      |
+|       |      |       |       |       |       |       |       |       |      | Off  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Fift |      |      |
+|       |      |       |       |       |       |       |       |       |      | h,   |      |      |
+|       |      |       |       |       |       |       |       |       |      | DSW  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Shoe |      |      |
+|       |      |       |       |       |       |       |       |       |      | Ware |      |      |
+|       |      |       |       |       |       |       |       |       |      | hous |      |      |
+|       |      |       |       |       |       |       |       |       |      | e, D |      |      |
+|       |      |       |       |       |       |       |       |       |      | ICK' |      |      |
+|       |      |       |       |       |       |       |       |       |      | S Sp |      |      |
+|       |      |       |       |       |       |       |       |       |      | orti |      |      |
+|       |      |       |       |       |       |       |       |       |      | ng G |      |      |
+|       |      |       |       |       |       |       |       |       |      | oods |      |      |
+|       |      |       |       |       |       |       |       |       |      | , Fo |      |      |
+|       |      |       |       |       |       |       |       |       |      | reve |      |      |
+|       |      |       |       |       |       |       |       |       |      | r    |      |      |
+|       |      |       |       |       |       |       |       |       |      | 21,  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Old  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Navy |      |      |
+|       |      |       |       |       |       |       |       |       |      | , Bu |      |      |
+|       |      |       |       |       |       |       |       |       |      | rlin |      |      |
+|       |      |       |       |       |       |       |       |       |      | gton |      |      |
+|       |      |       |       |       |       |       |       |       |      | Coat |      |      |
+|       |      |       |       |       |       |       |       |       |      | Fact |      |      |
+|       |      |       |       |       |       |       |       |       |      | ory, |      |      |
+|       |      |       |       |       |       |       |       |       |      | At H |      |      |
+|       |      |       |       |       |       |       |       |       |      | ome, |      |      |
+|       |      |       |       |       |       |       |       |       |      | T.J. |      |      |
+|       |      |       |       |       |       |       |       |       |      | Maxx |      |      |
+|       |      |       |       |       |       |       |       |       |      | , Se |      |      |
+|       |      |       |       |       |       |       |       |       |      | ars  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Outl |      |      |
+|       |      |       |       |       |       |       |       |       |      | et,  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Pole |      |      |
+|       |      |       |       |       |       |       |       |       |      | Posi |      |      |
+|       |      |       |       |       |       |       |       |       |      | tion |      |      |
+|       |      |       |       |       |       |       |       |       |      | Race |      |      |
+|       |      |       |       |       |       |       |       |       |      | way, |      |      |
+|       |      |       |       |       |       |       |       |       |      | Rega |      |      |
+|       |      |       |       |       |       |       |       |       |      | l    |      |      |
+|       |      |       |       |       |       |       |       |       |      | IMAX |      |      |
+|       |      |       |       |       |       |       |       |       |      | thea |      |      |
+|       |      |       |       |       |       |       |       |       |      | ter, |      |      |
+|       |      |       |       |       |       |       |       |       |      | Rega |      |      |
+|       |      |       |       |       |       |       |       |       |      | l Ci |      |      |
+|       |      |       |       |       |       |       |       |       |      | nema |      |      |
+|       |      |       |       |       |       |       |       |       |      | s, D |      |      |
+|       |      |       |       |       |       |       |       |       |      | esti |      |      |
+|       |      |       |       |       |       |       |       |       |      | ny   |      |      |
+|       |      |       |       |       |       |       |       |       |      | USA  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Hote |      |      |
+|       |      |       |       |       |       |       |       |       |      | l    |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 7    | The G | https | Houst | https | Houst | https | 2,400 | 375; | Nord | 1970 | Simo |
+| ://en |      | aller | ://en | on,   | ://en | on    | ://en | ,000  | 375  | stro |      | n Pr |
+| .wiki |      | ia    | .wiki | Texas | .wiki |       | .wiki | squar |      | m, M |      | oper |
+| pedia |      |       | pedia |       | pedia |       | pedia | e     |      | acy' |      | ty G |
+| .org/ |      |       | .org/ |       | .org/ |       | .org/ | feet  |      | s, N |      | roup |
+| wiki/ |      |       | wiki/ |       | wiki/ |       | wiki/ | (220, |      | eima |      | , Wa |
+| List_ |      |       | The_G |       | Houst |       | Houst | 000 m |      | n Ma |      | lton |
+| of_la |      |       | aller |       | on,_T |       | on,_T |       |      | rcus |      | Stre |
+| rgest |      |       | ia    |       | exas  |       | exas  |       |      | ,    |      | et   |
+| _shop |      |       |       |       |       |       |       |       |      | Saks |      | Real |
+| ping_ |      |       |       |       |       |       |       |       |      | Fift |      | Esta |
+| malls |      |       |       |       |       |       |       |       |      | h Av |      | te F |
+| _in_t |      |       |       |       |       |       |       |       |      | enue |      | unds |
+| he_Un |      |       |       |       |       |       |       |       |      |      |      | ,    |
+| ited_ |      |       |       |       |       |       |       |       |      |      |      | Sony |
+| State |      |       |       |       |       |       |       |       |      |      |      | Corp |
+| s     |      |       |       |       |       |       |       |       |      |      |      | orat |
+|       |      |       |       |       |       |       |       |       |      |      |      | ion  |
+|       |      |       |       |       |       |       |       |       |      |      |      | & Ca |
+|       |      |       |       |       |       |       |       |       |      |      |      | lPER |
+|       |      |       |       |       |       |       |       |       |      |      |      | S    |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 8    | Ala   | https | Honol | https | Honol | https | 2,400 | 330+ | Macy | 1959 | Gene |
+| ://en |      | Moana | ://en | ulu,  | ://en | ulu   | ://en | ,000  | ;    | ’s,  |      | ral  |
+| .wiki |      | Cente | .wiki | Hawai | .wiki |       | .wiki | squar | 330+ | Nord |      | Grow |
+| pedia |      | r     | pedia | i     | pedia |       | pedia | e     |      | stro |      | th P |
+| .org/ |      |       | .org/ |       | .org/ |       | .org/ | feet  |      | m, N |      | rope |
+| wiki/ |      |       | wiki/ |       | wiki/ |       | wiki/ | (220, |      | eima |      | rtie |
+| List_ |      |       | Ala_M |       | Honol |       | Honol | 000 m |      | n Ma |      | s    |
+| of_la |      |       | oana_ |       | ulu,_ |       | ulu   |       |      | rcus |      |      |
+| rgest |      |       | Cente |       | Hawai |       |       |       |      | , Sh |      |      |
+| _shop |      |       | r     |       | i     |       |       |       |      | irok |      |      |
+| ping_ |      |       |       |       |       |       |       |       |      | iya, |      |      |
+| malls |      |       |       |       |       |       |       |       |      | Bloo |      |      |
+| _in_t |      |       |       |       |       |       |       |       |      | ming |      |      |
+| he_Un |      |       |       |       |       |       |       |       |      | dale |      |      |
+| ited_ |      |       |       |       |       |       |       |       |      | 's,  |      |      |
+| State |      |       |       |       |       |       |       |       |      | Fore |      |      |
+| s     |      |       |       |       |       |       |       |       |      | ver  |      |      |
+|       |      |       |       |       |       |       |       |       |      | 21,  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Saks |      |      |
+|       |      |       |       |       |       |       |       |       |      | Fift |      |      |
+|       |      |       |       |       |       |       |       |       |      | h Av |      |      |
+|       |      |       |       |       |       |       |       |       |      | enue |      |      |
+|       |      |       |       |       |       |       |       |       |      | Off  |      |      |
+|       |      |       |       |       |       |       |       |       |      | 5th  |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 9    | Tyson | https | McLea | https | Washi | https | 2,400 | 300; | Bloo | 1968 | Mace |
+| ://en |      | s Cor | ://en | n, Vi | ://en | ngton | ://en | ,000  | 300  | ming |      | rich |
+| .wiki |      | ner C | .wiki | rgini | .wiki | ,     | .wiki | squar |      | dale |      |      |
+| pedia |      | enter | pedia | a     | pedia | D.C.  | pedia | e     |      | ’s,  |      |      |
+| .org/ |      |       | .org/ |       | .org/ |       | .org/ | feet  |      | Macy |      |      |
+| wiki/ |      |       | wiki/ |       | wiki/ |       | wiki/ | (220, |      | ’s,  |      |      |
+| List_ |      |       | Tyson |       | McLea |       | Washi | 000 m |      | Nord |      |      |
+| of_la |      |       | s_Cor |       | n,_Vi |       | ngton |       |      | stro |      |      |
+| rgest |      |       | ner_C |       | rgini |       | ,_D.C |       |      | m,   |      |      |
+| _shop |      |       | enter |       | a     |       | .     |       |      | Lord |      |      |
+| ping_ |      |       |       |       |       |       |       |       |      | & Ta |      |      |
+| malls |      |       |       |       |       |       |       |       |      | ylor |      |      |
+| _in_t |      |       |       |       |       |       |       |       |      | ,    |      |      |
+| he_Un |      |       |       |       |       |       |       |       |      | AMC  |      |      |
+| ited_ |      |       |       |       |       |       |       |       |      | Thea |      |      |
+| State |      |       |       |       |       |       |       |       |      | tres |      |      |
+| s     |      |       |       |       |       |       |       |       |      | , L. |      |      |
+|       |      |       |       |       |       |       |       |       |      | L. B |      |      |
+|       |      |       |       |       |       |       |       |       |      | ean, |      |      |
+|       |      |       |       |       |       |       |       |       |      | Barn |      |      |
+|       |      |       |       |       |       |       |       |       |      | es   |      |      |
+|       |      |       |       |       |       |       |       |       |      | and  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Nobl |      |      |
+|       |      |       |       |       |       |       |       |       |      | e, A |      |      |
+|       |      |       |       |       |       |       |       |       |      | meri |      |      |
+|       |      |       |       |       |       |       |       |       |      | can  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Girl |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 10   | Roose | https | Garde | https | New   | https | 2,400 | 294; | Macy | 1956 | Simo |
+| ://en |      | velt  | ://en | n     | ://en | York  | ://en | ,000  | 294  | ’s,  |      | n Pr |
+| .wiki |      | Field | .wiki | City, | .wiki | City  | .wiki | squar |      | Bloo |      | oper |
+| pedia |      |       | pedia | New   | pedia |       | pedia | e     |      | ming |      | ty G |
+| .org/ |      |       | .org/ | York  | .org/ |       | .org/ | feet  |      | dale |      | roup |
+| wiki/ |      |       | wiki/ |       | wiki/ |       | wiki/ | (220, |      | ’s,  |      |      |
+| List_ |      |       | Roose |       | Garde |       | New_Y | 000 m |      | Nord |      |      |
+| of_la |      |       | velt_ |       | n_Cit |       | ork_m |       |      | stro |      |      |
+| rgest |      |       | Field |       | y,_Ne |       | etrop |       |      | m, J |      |      |
+| _shop |      |       | _(Sho |       | w_Yor |       | olita |       |      | CPen |      |      |
+| ping_ |      |       | pping |       | k     |       | n_are |       |      | ney, |      |      |
+| malls |      |       | _Mall |       |       |       | a     |       |      | Dick |      |      |
+| _in_t |      |       | )     |       |       |       |       |       |      | 's S |      |      |
+| he_Un |      |       |       |       |       |       |       |       |      | port |      |      |
+| ited_ |      |       |       |       |       |       |       |       |      | ing  |      |      |
+| State |      |       |       |       |       |       |       |       |      | Good |      |      |
+| s     |      |       |       |       |       |       |       |       |      | s, N |      |      |
+|       |      |       |       |       |       |       |       |       |      | eima |      |      |
+|       |      |       |       |       |       |       |       |       |      | n Ma |      |      |
+|       |      |       |       |       |       |       |       |       |      | rcus |      |      |
+|       |      |       |       |       |       |       |       |       |      | ,    |      |      |
+|       |      |       |       |       |       |       |       |       |      | AMC, |      |      |
+|       |      |       |       |       |       |       |       |       |      | X Sp |      |      |
+|       |      |       |       |       |       |       |       |       |      | ort  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Fitn |      |      |
+|       |      |       |       |       |       |       |       |       |      | ess, |      |      |
+|       |      |       |       |       |       |       |       |       |      | Capi |      |      |
+|       |      |       |       |       |       |       |       |       |      | tal  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Gril |      |      |
+|       |      |       |       |       |       |       |       |       |      | l, S |      |      |
+|       |      |       |       |       |       |       |       |       |      | easo |      |      |
+|       |      |       |       |       |       |       |       |       |      | n's  |      |      |
+|       |      |       |       |       |       |       |       |       |      | 52,  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Gran |      |      |
+|       |      |       |       |       |       |       |       |       |      | de   |      |      |
+|       |      |       |       |       |       |       |       |       |      | Lux  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Café |      |      |
+|       |      |       |       |       |       |       |       |       |      | , Ha |      |      |
+|       |      |       |       |       |       |       |       |       |      | vana |      |      |
+|       |      |       |       |       |       |       |       |       |      | Cent |      |      |
+|       |      |       |       |       |       |       |       |       |      | ral, |      |      |
+|       |      |       |       |       |       |       |       |       |      | Le   |      |      |
+|       |      |       |       |       |       |       |       |       |      | Pain |      |      |
+|       |      |       |       |       |       |       |       |       |      | Quot |      |      |
+|       |      |       |       |       |       |       |       |       |      | idie |      |      |
+|       |      |       |       |       |       |       |       |       |      | n,   |      |      |
+|       |      |       |       |       |       |       |       |       |      | Game |      |      |
+|       |      |       |       |       |       |       |       |       |      | Stop |      |      |
+|       |      |       |       |       |       |       |       |       |      | ,    |      |      |
+|       |      |       |       |       |       |       |       |       |      | Hot  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Topi |      |      |
+|       |      |       |       |       |       |       |       |       |      | c    |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 11   | Sawgr | https | Sunri | https | Fort  | https | 2,383 | 350; | P.F. | 1990 | Simo |
+| ://en |      | ass   | ://en | se, F | ://en | Laude | ://en | ,906  | 350  | Chan |      | n Pr |
+| .wiki |      | Mills | .wiki | lorid | .wiki | rdale | .wiki | squar |      | g's  |      | oper |
+| pedia |      |       | pedia | a     | pedia |       | pedia | e     |      | Chin |      | ty G |
+| .org/ |      |       | .org/ |       | .org/ |       | .org/ | feet  |      | a Bi |      | roup |
+| wiki/ |      |       | wiki/ |       | wiki/ |       | wiki/ | (221, |      | stro |      |      |
+| List_ |      |       | Sawgr |       | Sunri |       | Fort_ | 472.1 |      | , Vi |      |      |
+| of_la |      |       | ass_M |       | se,_F |       | Laude |  m    |      | llag |      |      |
+| rgest |      |       | ills  |       | lorid |       | rdale |       |      | o, G |      |      |
+| _shop |      |       |       |       | a     |       |       |       |      | rand |      |      |
+| ping_ |      |       |       |       |       |       |       |       |      | Lux  |      |      |
+| malls |      |       |       |       |       |       |       |       |      | Cafe |      |      |
+| _in_t |      |       |       |       |       |       |       |       |      | , Ma |      |      |
+| he_Un |      |       |       |       |       |       |       |       |      | tchb |      |      |
+| ited_ |      |       |       |       |       |       |       |       |      | ox,  |      |      |
+| State |      |       |       |       |       |       |       |       |      | Last |      |      |
+| s     |      |       |       |       |       |       |       |       |      | Call |      |      |
+|       |      |       |       |       |       |       |       |       |      | by N |      |      |
+|       |      |       |       |       |       |       |       |       |      | eima |      |      |
+|       |      |       |       |       |       |       |       |       |      | n Ma |      |      |
+|       |      |       |       |       |       |       |       |       |      | rcus |      |      |
+|       |      |       |       |       |       |       |       |       |      | , Ma |      |      |
+|       |      |       |       |       |       |       |       |       |      | rsha |      |      |
+|       |      |       |       |       |       |       |       |       |      | lls, |      |      |
+|       |      |       |       |       |       |       |       |       |      | Dick |      |      |
+|       |      |       |       |       |       |       |       |       |      | 's S |      |      |
+|       |      |       |       |       |       |       |       |       |      | port |      |      |
+|       |      |       |       |       |       |       |       |       |      | ing  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Good |      |      |
+|       |      |       |       |       |       |       |       |       |      | s, B |      |      |
+|       |      |       |       |       |       |       |       |       |      | loom |      |      |
+|       |      |       |       |       |       |       |       |       |      | ingd |      |      |
+|       |      |       |       |       |       |       |       |       |      | ale' |      |      |
+|       |      |       |       |       |       |       |       |       |      | s -  |      |      |
+|       |      |       |       |       |       |       |       |       |      | The  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Outl |      |      |
+|       |      |       |       |       |       |       |       |       |      | et S |      |      |
+|       |      |       |       |       |       |       |       |       |      | tore |      |      |
+|       |      |       |       |       |       |       |       |       |      | , Ra |      |      |
+|       |      |       |       |       |       |       |       |       |      | info |      |      |
+|       |      |       |       |       |       |       |       |       |      | rest |      |      |
+|       |      |       |       |       |       |       |       |       |      | Cafe |      |      |
+|       |      |       |       |       |       |       |       |       |      | , Ce |      |      |
+|       |      |       |       |       |       |       |       |       |      | ntur |      |      |
+|       |      |       |       |       |       |       |       |       |      | y 21 |      |      |
+|       |      |       |       |       |       |       |       |       |      | Depa |      |      |
+|       |      |       |       |       |       |       |       |       |      | rtme |      |      |
+|       |      |       |       |       |       |       |       |       |      | nt S |      |      |
+|       |      |       |       |       |       |       |       |       |      | tore |      |      |
+|       |      |       |       |       |       |       |       |       |      | ,    |      |      |
+|       |      |       |       |       |       |       |       |       |      | Off  |      |      |
+|       |      |       |       |       |       |       |       |       |      | 5th  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Saks |      |      |
+|       |      |       |       |       |       |       |       |       |      | Fift |      |      |
+|       |      |       |       |       |       |       |       |       |      | h Av |      |      |
+|       |      |       |       |       |       |       |       |       |      | enue |      |      |
+|       |      |       |       |       |       |       |       |       |      | ,    |      |      |
+|       |      |       |       |       |       |       |       |       |      | Gap  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Outl |      |      |
+|       |      |       |       |       |       |       |       |       |      | et,  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Fore |      |      |
+|       |      |       |       |       |       |       |       |       |      | ver  |      |      |
+|       |      |       |       |       |       |       |       |       |      | 21,  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Supe |      |      |
+|       |      |       |       |       |       |       |       |       |      | r Ta |      |      |
+|       |      |       |       |       |       |       |       |       |      | rget |      |      |
+|       |      |       |       |       |       |       |       |       |      | , Br |      |      |
+|       |      |       |       |       |       |       |       |       |      | ands |      |      |
+|       |      |       |       |       |       |       |       |       |      | mart |      |      |
+|       |      |       |       |       |       |       |       |       |      | USA, |      |      |
+|       |      |       |       |       |       |       |       |       |      | Tren |      |      |
+|       |      |       |       |       |       |       |       |       |      | dmax |      |      |
+|       |      |       |       |       |       |       |       |       |      | Outl |      |      |
+|       |      |       |       |       |       |       |       |       |      | et S |      |      |
+|       |      |       |       |       |       |       |       |       |      | tore |      |      |
+|       |      |       |       |       |       |       |       |       |      | , Bu |      |      |
+|       |      |       |       |       |       |       |       |       |      | rlin |      |      |
+|       |      |       |       |       |       |       |       |       |      | gton |      |      |
+|       |      |       |       |       |       |       |       |       |      | Coat |      |      |
+|       |      |       |       |       |       |       |       |       |      | Fact |      |      |
+|       |      |       |       |       |       |       |       |       |      | ory, |      |      |
+|       |      |       |       |       |       |       |       |       |      | Rega |      |      |
+|       |      |       |       |       |       |       |       |       |      | l Ci |      |      |
+|       |      |       |       |       |       |       |       |       |      | nema |      |      |
+|       |      |       |       |       |       |       |       |       |      | s, I |      |      |
+|       |      |       |       |       |       |       |       |       |      | MAX. |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 12   | Woodf | https | Schau | https | Chica | https | 2,224 | 300; | Sear | 1971 | Simo |
+| ://en |      | ield  | ://en | mburg | ://en | go    | ://en | ,000  | 300  | s, J |      | n Pr |
+| .wiki |      | Mall  | .wiki | , Ill | .wiki |       | .wiki | squar |      | CPen |      | oper |
+| pedia |      |       | pedia | inois | pedia |       | pedia | e     |      | ney, |      | ty G |
+| .org/ |      |       | .org/ |       | .org/ |       | .org/ | feet  |      | Macy |      | roup |
+| wiki/ |      |       | wiki/ |       | wiki/ |       | wiki/ | (206, |      | 's,  |      |      |
+| List_ |      |       | Woodf |       | Schau |       | Chica | 600 m |      | Nord |      |      |
+| of_la |      |       | ield_ |       | mburg |       | go    |       |      | stro |      |      |
+| rgest |      |       | Mall  |       | ,_Ill |       |       |       |      | m,   |      |      |
+| _shop |      |       |       |       | inois |       |       |       |      | Lord |      |      |
+| ping_ |      |       |       |       |       |       |       |       |      | & Ta |      |      |
+| malls |      |       |       |       |       |       |       |       |      | ylor |      |      |
+| _in_t |      |       |       |       |       |       |       |       |      |      |      |      |
+| he_Un |      |       |       |       |       |       |       |       |      |      |      |      |
+| ited_ |      |       |       |       |       |       |       |       |      |      |      |      |
+| State |      |       |       |       |       |       |       |       |      |      |      |      |
+| s     |      |       |       |       |       |       |       |       |      |      |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 13   | Palis | https | West  | https | New   | https | 2,217 | 400; | Lord | 1998 | The  |
+| ://en |      | ades  | ://en | Nyack | ://en | York  | ://en | ,322  | 400  | & Ta |      | Pyra |
+| .wiki |      | Cente | .wiki | , New | .wiki | City  | .wiki | squar |      | ylor |      | mid  |
+| pedia |      | r     | pedia | York  | pedia |       | pedia | e     |      | , Ba |      | Comp |
+| .org/ |      |       | .org/ |       | .org/ |       | .org/ | feet  |      | rnes |      | anie |
+| wiki/ |      |       | wiki/ |       | wiki/ |       | wiki/ | (205, |      | & No |      | s    |
+| List_ |      |       | Palis |       | West_ |       | New_Y | 996.0 |      | ble, |      |      |
+| of_la |      |       | ades_ |       | Nyack |       | ork_m |  m    |      | Macy |      |      |
+| rgest |      |       | Cente |       | ,_New |       | etrop |       |      | 's,  |      |      |
+| _shop |      |       | r     |       | _York |       | olita |       |      | Targ |      |      |
+| ping_ |      |       |       |       |       |       | n_are |       |      | et,  |      |      |
+| malls |      |       |       |       |       |       | a     |       |      | AMC  |      |      |
+| _in_t |      |       |       |       |       |       |       |       |      | Thea |      |      |
+| he_Un |      |       |       |       |       |       |       |       |      | ters |      |      |
+| ited_ |      |       |       |       |       |       |       |       |      |      |      |      |
+| State |      |       |       |       |       |       |       |       |      |      |      |      |
+| s     |      |       |       |       |       |       |       |       |      |      |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 14   | Millc | https | Erie, | https | Erie  | https | 2,200 | 175; | Macy | 1975 | Cafa |
+| ://en |      | reek  | ://en | Penns | ://en | Count | ://en | ,000  | 175  | 's,  |      | ro C |
+| .wiki |      | Mall  | .wiki | ylvan | .wiki | y     | .wiki | squar |      | JCPe |      | ompa |
+| pedia |      |       | pedia | ia    | pedia |       | pedia | e     |      | nney |      | ny   |
+| .org/ |      |       | .org/ |       | .org/ |       | .org/ | feet  |      | , Bo |      |      |
+| wiki/ |      |       | wiki/ |       | wiki/ |       | wiki/ | (200, |      | scov |      |      |
+| List_ |      |       | Millc |       | Erie, |       | Erie_ | 000 m |      | 's,  |      |      |
+| of_la |      |       | reek_ |       | _Penn |       | Count |       |      | Bon- |      |      |
+| rgest |      |       | Mall  |       | sylva |       | y,_Pe |       |      | Ton, |      |      |
+| _shop |      |       |       |       | nia   |       | nnsyl |       |      | H&M  |      |      |
+| ping_ |      |       |       |       |       |       | vania |       |      |      |      |      |
+| malls |      |       |       |       |       |       |       |       |      |      |      |      |
+| _in_t |      |       |       |       |       |       |       |       |      |      |      |      |
+| he_Un |      |       |       |       |       |       |       |       |      |      |      |      |
+| ited_ |      |       |       |       |       |       |       |       |      |      |      |      |
+| State |      |       |       |       |       |       |       |       |      |      |      |      |
+| s     |      |       |       |       |       |       |       |       |      |      |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 15   | Plaza | https | San   | https | San   | https | 2,173 | 300+ | Macy | 1968 | Plaz |
+| ://en |      | Las A | ://en | Juan, | ://en | Juan  | ://en | ,000  | ;    | 's,  |      | a    |
+| .wiki |      | méric | .wiki | Puert | .wiki |       | .wiki | squar | 300+ | Sear |      | Las  |
+| pedia |      | as    | pedia | o     | pedia |       | pedia | e     |      | s, J |      | Amér |
+| .org/ |      |       | .org/ | Rico  | .org/ |       | .org/ | feet  |      | CPen |      | icas |
+| wiki/ |      |       | wiki/ |       | wiki/ |       | wiki/ | (201, |      | ney, |      | ,    |
+| List_ |      |       | Plaza |       | San_J |       | San_J | 900 m |      | Old  |      | Inc, |
+| of_la |      |       | _Las_ |       | uan,_ |       | uan,_ |       |      | Navy |      | Empr |
+| rgest |      |       | Am%C3 |       | Puert |       | Puert |       |      | , Ca |      | esas |
+| _shop |      |       | %A9ri |       | o_Ric |       | o_Ric |       |      | ribb |      | Fona |
+| ping_ |      |       | cas   |       | o     |       | o     |       |      | ean  |      | lled |
+| malls |      |       |       |       |       |       |       |       |      | Cine |      | as,  |
+| _in_t |      |       |       |       |       |       |       |       |      | mas, |      | Inc. |
+| he_Un |      |       |       |       |       |       |       |       |      | Kmar |      |      |
+| ited_ |      |       |       |       |       |       |       |       |      | t,   |      |      |
+| State |      |       |       |       |       |       |       |       |      | Toys |      |      |
+| s     |      |       |       |       |       |       |       |       |      | "R"  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Us,  |      |      |
+|       |      |       |       |       |       |       |       |       |      | Fore |      |      |
+|       |      |       |       |       |       |       |       |       |      | ver  |      |      |
+|       |      |       |       |       |       |       |       |       |      | 21   |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 16   | South | https | Brain | https | Bosto | https | 2,165 | 225; | Macy | 1961 | Simo |
+| ://en |      | Shore | ://en | tree, | ://en | n     | ://en | ,000  | 225  | 's,  |      | n Pr |
+| .wiki |      | Plaza | .wiki | Massa | .wiki |       | .wiki | squar |      | Lord |      | oper |
+| pedia |      |       | pedia | chuse | pedia |       | pedia | e     |      | & Ta |      | ty G |
+| .org/ |      |       | .org/ | tts   | .org/ |       | .org/ | feet  |      | ylor |      | roup |
+| wiki/ |      |       | wiki/ |       | wiki/ |       | wiki/ | (201, |      | , Se |      |      |
+| List_ |      |       | South |       | Brain |       | Bosto | 100 m |      | ars, |      |      |
+| of_la |      |       | _Shor |       | tree, |       | n     |       |      | Nord |      |      |
+| rgest |      |       | e_Pla |       | _Mass |       |       |       |      | stro |      |      |
+| _shop |      |       | za    |       | achus |       |       |       |      | m, T |      |      |
+| ping_ |      |       |       |       | etts  |       |       |       |      | arge |      |      |
+| malls |      |       |       |       |       |       |       |       |      | t    |      |      |
+| _in_t |      |       |       |       |       |       |       |       |      |      |      |      |
+| he_Un |      |       |       |       |       |       |       |       |      |      |      |      |
+| ited_ |      |       |       |       |       |       |       |       |      |      |      |      |
+| State |      |       |       |       |       |       |       |       |      |      |      |      |
+| s     |      |       |       |       |       |       |       |       |      |      |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 17   | Westf | https | Param | https | New   | https | 2,132 | 346; | Macy | 1957 | West |
+| ://en |      | ield  | ://en | us,   | ://en | York  | ://en | ,112  | 346  | ’s,  |      | fiel |
+| .wiki |      | Garde | .wiki | New J | .wiki | City  | .wiki | squar |      | Nord |      | d Co |
+| pedia |      | n     | pedia | ersey | pedia |       | pedia | e     |      | stro |      | rpor |
+| .org/ |      | State | .org/ |       | .org/ |       | .org/ | feet  |      | m, N |      | atio |
+| wiki/ |      | Plaza | wiki/ |       | wiki/ |       | wiki/ | (198, |      | eima |      | n    |
+| List_ |      |       | Westf |       | Param |       | New_Y | 079.7 |      | n Ma |      |      |
+| of_la |      |       | ield_ |       | us,_N |       | ork_m |  m    |      | rcus |      |      |
+| rgest |      |       | Garde |       | ew_Je |       | etrop |       |      | ,    |      |      |
+| _shop |      |       | n_Sta |       | rsey  |       | olita |       |      | Lord |      |      |
+| ping_ |      |       | te_Pl |       |       |       | n_are |       |      | & Ta |      |      |
+| malls |      |       | aza   |       |       |       | a     |       |      | ylor |      |      |
+| _in_t |      |       |       |       |       |       |       |       |      | ,    |      |      |
+| he_Un |      |       |       |       |       |       |       |       |      | AMC  |      |      |
+| ited_ |      |       |       |       |       |       |       |       |      | Thea |      |      |
+| State |      |       |       |       |       |       |       |       |      | tres |      |      |
+| s     |      |       |       |       |       |       |       |       |      |      |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 18   | Lakew | https | Lakew | https | Los A | https | 2,092 | 255; | Macy | 1951 | Mace |
+| ://en |      | ood C | ://en | ood,  | ://en | ngele | ://en | ,710  | 255  | 's,  |      | rich |
+| .wiki |      | enter | .wiki | Calif | .wiki | s     | .wiki | squar |      | Targ |      |      |
+| pedia |      |       | pedia | ornia | pedia |       | pedia | e     |      | et,  |      |      |
+| .org/ |      |       | .org/ |       | .org/ |       | .org/ | feet  |      | Fore |      |      |
+| wiki/ |      |       | wiki/ |       | wiki/ |       | wiki/ | (194, |      | ver  |      |      |
+| List_ |      |       | Lakew |       | Lakew |       | Los_A | 419 m |      | 21,  |      |      |
+| of_la |      |       | ood_C |       | ood,_ |       | ngele |       |      | JCPe |      |      |
+| rgest |      |       | enter |       | Calif |       | s     |       |      | nney |      |      |
+| _shop |      |       |       |       | ornia |       |       |       |      | , Pa |      |      |
+| ping_ |      |       |       |       |       |       |       |       |      | cifi |      |      |
+| malls |      |       |       |       |       |       |       |       |      | c Th |      |      |
+| _in_t |      |       |       |       |       |       |       |       |      | eatr |      |      |
+| he_Un |      |       |       |       |       |       |       |       |      | es,  |      |      |
+| ited_ |      |       |       |       |       |       |       |       |      | Cost |      |      |
+| State |      |       |       |       |       |       |       |       |      | co   |      |      |
+| s     |      |       |       |       |       |       |       |       |      |      |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 19   | Scott | https | Scott | https | Phoen | https | 2,049 | 250+ | Macy | 1961 | Mace |
+| ://en |      | sdale | ://en | sdale | ://en | ix    | ://en | ,169  | ;    | ’s,  |      | rich |
+| .wiki |      | Fashi | .wiki | , Ari | .wiki |       | .wiki | squar | 250+ | Dick |      |      |
+| pedia |      | on Sq | pedia | zona  | pedia |       | pedia | e     |      | 's S |      |      |
+| .org/ |      | uare  | .org/ |       | .org/ |       | .org/ | feet  |      | port |      |      |
+| wiki/ |      |       | wiki/ |       | wiki/ |       | wiki/ | (190, |      | ing  |      |      |
+| List_ |      |       | Scott |       | Scott |       | Phoen | 374.0 |      | Good |      |      |
+| of_la |      |       | sdale |       | sdale |       | ix,_A |  m    |      | s, D |      |      |
+| rgest |      |       | _Fash |       | ,_Ari |       | rizon |       |      | illa |      |      |
+| _shop |      |       | ion_S |       | zona  |       | a     |       |      | rd's |      |      |
+| ping_ |      |       | quare |       |       |       |       |       |      | , Fo |      |      |
+| malls |      |       |       |       |       |       |       |       |      | reve |      |      |
+| _in_t |      |       |       |       |       |       |       |       |      | r    |      |      |
+| he_Un |      |       |       |       |       |       |       |       |      | 21,  |      |      |
+| ited_ |      |       |       |       |       |       |       |       |      | H&M, |      |      |
+| State |      |       |       |       |       |       |       |       |      | Nord |      |      |
+| s     |      |       |       |       |       |       |       |       |      | stro |      |      |
+|       |      |       |       |       |       |       |       |       |      | m, N |      |      |
+|       |      |       |       |       |       |       |       |       |      | eima |      |      |
+|       |      |       |       |       |       |       |       |       |      | n Ma |      |      |
+|       |      |       |       |       |       |       |       |       |      | rcus |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+
+| https | 20   | Oakbr | https | Oak B | https | Chica | https | 2,018 | 175; | Macy | 1962 | Gene |
+| ://en |      | ook C | ://en | rook, | ://en | go    | ://en | ,000  | 175  | ’s,  |      | ral  |
+| .wiki |      | enter | .wiki | Illin | .wiki |       | .wiki | squar |      | Sear |      | Grow |
+| pedia |      |       | pedia | ois   | pedia |       | pedia | e     |      | s, N |      | th P |
+| .org/ |      |       | .org/ |       | .org/ |       | .org/ | feet  |      | ords |      | rope |
+| wiki/ |      |       | wiki/ |       | wiki/ |       | wiki/ | (187, |      | trom |      | rtie |
+| List_ |      |       | Oakbr |       | Oak_B |       | Chica | 500 m |      | , Ne |      | s, C |
+| of_la |      |       | ook_C |       | rook, |       | go    |       |      | iman |      | alPE |
+| rgest |      |       | enter |       | _Illi |       |       |       |      | Marc |      | RS   |
+| _shop |      |       |       |       | nois  |       |       |       |      | us,  |      |      |
+| ping_ |      |       |       |       |       |       |       |       |      | Lord |      |      |
+| malls |      |       |       |       |       |       |       |       |      | & Ta |      |      |
+| _in_t |      |       |       |       |       |       |       |       |      | ylor |      |      |
+| he_Un |      |       |       |       |       |       |       |       |      |      |      |      |
+| ited_ |      |       |       |       |       |       |       |       |      |      |      |      |
+| State |      |       |       |       |       |       |       |       |      |      |      |      |
+| s     |      |       |       |       |       |       |       |       |      |      |      |      |
++-------+------+-------+-------+-------+-------+-------+-------+-------+------+------+------+------+

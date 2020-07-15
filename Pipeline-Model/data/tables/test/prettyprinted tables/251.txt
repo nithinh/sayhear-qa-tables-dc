@@ -1,0 +1,46 @@
++-------------------------------------+-----------------------+------------------------------------+
+| url                                 | Key                   | Value                              |
++-------------------------------------+-----------------------+------------------------------------+
+| https://simple.wikipedia.org/wiki/W | URL                   | wikipedia.org                      |
+| ikipedia                            |                       |                                    |
++-------------------------------------+-----------------------+------------------------------------+
+| https://simple.wikipedia.org/wiki/W | Slogan                | The Free Encyclopedia              |
+| ikipedia                            |                       |                                    |
++-------------------------------------+-----------------------+------------------------------------+
+| https://simple.wikipedia.org/wiki/W | Commercial?           | No                                 |
+| ikipedia                            |                       |                                    |
++-------------------------------------+-----------------------+------------------------------------+
+| https://simple.wikipedia.org/wiki/W | Type of site          | Internet encyclopedia              |
+| ikipedia                            |                       |                                    |
++-------------------------------------+-----------------------+------------------------------------+
+| https://simple.wikipedia.org/wiki/W | Registration          | Optional, but needed to upload     |
+| ikipedia                            |                       | files, edit protected pages, or    |
+|                                     |                       | create pages in the English        |
+|                                     |                       | Wikipedia.                         |
++-------------------------------------+-----------------------+------------------------------------+
+| https://simple.wikipedia.org/wiki/W | Available language(s) | 284 active editions (295 in total) |
+| ikipedia                            |                       |                                    |
++-------------------------------------+-----------------------+------------------------------------+
+| https://simple.wikipedia.org/wiki/W | Users                 | 65,000,000+ (total registered in   |
+| ikipedia                            |                       | all editions)[1]                   |
++-------------------------------------+-----------------------+------------------------------------+
+| https://simple.wikipedia.org/wiki/W | Content license       | Creative Commons Attribution/      |
+| ikipedia                            |                       |  Share-Alike 3.0 (most text also   |
+|                                     |                       | dual-licensed under GFDL)          |
+|                                     |                       |  Media licensing varies            |
++-------------------------------------+-----------------------+------------------------------------+
+| https://simple.wikipedia.org/wiki/W | Owner                 | Wikimedia Foundation (non-profit)  |
+| ikipedia                            |                       |                                    |
++-------------------------------------+-----------------------+------------------------------------+
+| https://simple.wikipedia.org/wiki/W | Created by            | Jimmy Wales (founder)              |
+| ikipedia                            |                       |  Larry Sanger (co-founder)         |
++-------------------------------------+-----------------------+------------------------------------+
+| https://simple.wikipedia.org/wiki/W | Launched              | January 15, 2001 (2001-01-15) (17  |
+| ikipedia                            |                       | years ago)                         |
++-------------------------------------+-----------------------+------------------------------------+
+| https://simple.wikipedia.org/wiki/W | Alexa rank            | 6 (August 2016[update])[2]         |
+| ikipedia                            |                       |                                    |
++-------------------------------------+-----------------------+------------------------------------+
+| https://simple.wikipedia.org/wiki/W | Current status        | Active                             |
+| ikipedia                            |                       |                                    |
++-------------------------------------+-----------------------+------------------------------------+

@@ -1,0 +1,76 @@
++----------------------------------------+-----------------+---------------------------------------+
+| url                                    | Property        | Value                                 |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Justin_T | Born            | Justin Randall Timberlake             |
+| imberlake                              |                 |  (1981-01-31) January 31, 1981 (age   |
+|                                        |                 | 37)                                   |
+|                                        |                 |  Memphis, Tennessee, U.S.             |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Justin_T | Residence       | Los Angeles, California, U.S.         |
+| imberlake                              |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Justin_T | Occupation      | Singer-songwriter                     |
+| imberlake                              |                 |                                       |
+|                                        |                 | actor                                 |
+|                                        |                 |                                       |
+|                                        |                 | dancer                                |
+|                                        |                 |                                       |
+|                                        |                 | record producer                       |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Justin_T | Years active    | 1992–present                          |
+| imberlake                              |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Justin_T | Spouse(s)       | Jessica Biel (m. 2012)                |
+| imberlake                              |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Justin_T | Children        | 1                                     |
+| imberlake                              |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Justin_T | Awards          | List of awards and nominations        |
+| imberlake                              |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Justin_T | Genres          | R&B                                   |
+| imberlake                              |                 |                                       |
+|                                        |                 | pop                                   |
+|                                        |                 |                                       |
+|                                        |                 | neo soul                              |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Justin_T | Instruments     | Vocals                                |
+| imberlake                              |                 |                                       |
+|                                        |                 | guitar                                |
+|                                        |                 |                                       |
+|                                        |                 | bass guitar                           |
+|                                        |                 |                                       |
+|                                        |                 | keyboards                             |
+|                                        |                 |                                       |
+|                                        |                 | beatboxing                            |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Justin_T | Labels          | Jive                                  |
+| imberlake                              |                 |                                       |
+|                                        |                 | Zomba                                 |
+|                                        |                 |                                       |
+|                                        |                 | RCA                                   |
+|                                        |                 |                                       |
+|                                        |                 | Tennman                               |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Justin_T | Associated acts | NSYNC                                 |
+| imberlake                              |                 |                                       |
+|                                        |                 | Chris Stapleton                       |
+|                                        |                 |                                       |
+|                                        |                 | Danja                                 |
+|                                        |                 |                                       |
+|                                        |                 | James Fauntleroy                      |
+|                                        |                 |                                       |
+|                                        |                 | Jay-Z                                 |
+|                                        |                 |                                       |
+|                                        |                 | The Lonely Island                     |
+|                                        |                 |                                       |
+|                                        |                 | The Neptunes                          |
+|                                        |                 |                                       |
+|                                        |                 | The Tennessee Kids                    |
+|                                        |                 |                                       |
+|                                        |                 | Timbaland                             |
++----------------------------------------+-----------------+---------------------------------------+
+| https://en.wikipedia.org/wiki/Justin_T | Website         | justintimberlake.com                  |
+| imberlake                              |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+

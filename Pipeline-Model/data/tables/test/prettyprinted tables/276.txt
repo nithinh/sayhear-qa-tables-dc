@@ -1,0 +1,63 @@
++-------------------------------------------------+--------------------------+---------------------+
+| url                                             | Country                  | Leader              |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | Russian Empire           | Nicholas II         |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | Russian SFSR             | Vladimir Lenin      |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | France                   | Raymond Poincaré    |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | United Kingdom           | H. H. Asquith       |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | Australia                | Andrew Fisher       |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | Canada                   | Robert Borden       |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | South Africa             | Louis Botha         |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | China                    | Duan Qirui          |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | Serbia                   | Peter I             |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | Belgium                  | Albert I of Belgium |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | Italy                    | Victor Emmanuel III |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | Romania                  | Ferdinand I         |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | United States of America | Woodrow Wilson      |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | Japan                    | Emperor Taishō      |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | Brazil                   | Venceslau Brás      |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | Greece                   | Constantine I       |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | Siam                     | Rama VI             |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | Portugal                 | Afonso Costa        |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | See also                 |                     |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+
+| https://en.wikipedia.org/wiki/Allied_leaders_of | References               |                     |
+| _World_War_I#Russian_Empire                     |                          |                     |
++-------------------------------------------------+--------------------------+---------------------+

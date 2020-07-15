@@ -1,0 +1,36 @@
++--------+--------+--------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Born   | Reside | Occupa | Years | Spous | Child | Award | Genre | Instr | Label | Assoc | Websi |
+|        | nce    | tion   | activ | e(s)  | ren   | s     | s     | ument | s     | iated | te    |
+|        |        |        | e     |       |       |       |       | s     |       | acts  |       |
++--------+--------+--------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Justin | Los An | Singer | 1992– | Jessi | 1     | List  | R&B   | Vocal | Jive  | NSYNC | justi |
+| Randal | geles, | -songw | prese | ca    |       | of aw |       | s     |       |       | ntimb |
+| l Timb | Califo | riter  | nt    | Biel  |       | ards  | pop   |       | Zomba | Chris | erlak |
+| erlake | rnia,  |        |       | (m.   |       | and n |       | guita |       | Stapl | e.com |
+|  (1981 | U.S.   | actor  |       | 2012) |       | omina | neo   | r     | RCA   | eton  |       |
+| -01-31 |        |        |       |       |       | tions | soul  |       |       |       |       |
+| ) Janu |        | dancer |       |       |       |       |       | bass  | Tennm | Danja |       |
+| ary    |        |        |       |       |       |       |       | guita | an    |       |       |
+| 31,    |        | record |       |       |       |       |       | r     |       | James |       |
+| 1981   |        | produc |       |       |       |       |       |       |       | Faunt |       |
+| (age   |        | er     |       |       |       |       |       | keybo |       | leroy |       |
+| 37)    |        |        |       |       |       |       |       | ards  |       |       |       |
+|  Memph |        |        |       |       |       |       |       |       |       | Jay-Z |       |
+| is, Te |        |        |       |       |       |       |       | beatb |       |       |       |
+| nnesse |        |        |       |       |       |       |       | oxing |       | The L |       |
+| e,     |        |        |       |       |       |       |       |       |       | onely |       |
+| U.S.   |        |        |       |       |       |       |       |       |       | Islan |       |
+|        |        |        |       |       |       |       |       |       |       | d     |       |
+|        |        |        |       |       |       |       |       |       |       |       |       |
+|        |        |        |       |       |       |       |       |       |       | The N |       |
+|        |        |        |       |       |       |       |       |       |       | eptun |       |
+|        |        |        |       |       |       |       |       |       |       | es    |       |
+|        |        |        |       |       |       |       |       |       |       |       |       |
+|        |        |        |       |       |       |       |       |       |       | The T |       |
+|        |        |        |       |       |       |       |       |       |       | ennes |       |
+|        |        |        |       |       |       |       |       |       |       | see   |       |
+|        |        |        |       |       |       |       |       |       |       | Kids  |       |
+|        |        |        |       |       |       |       |       |       |       |       |       |
+|        |        |        |       |       |       |       |       |       |       | Timba |       |
+|        |        |        |       |       |       |       |       |       |       | land  |       |
++--------+--------+--------+-------+-------+-------+-------+-------+-------+-------+-------+-------+

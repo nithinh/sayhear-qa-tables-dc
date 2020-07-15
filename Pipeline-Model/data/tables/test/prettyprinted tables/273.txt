@@ -1,0 +1,27 @@
++-------------------------+---------------------+-------------------------+------------------------+
+| url                     | info                | Personal_Loan           | 401kloan               |
++-------------------------+---------------------+-------------------------+------------------------+
+| https://www.finder.com/ | Interest rate       | Varies among lenders,   | None                   |
+| personal-loan-          |                     | usually between 3.99%   |                        |
+| vs-401k-loan            |                     | to 36%                  |                        |
++-------------------------+---------------------+-------------------------+------------------------+
+| https://www.finder.com/ | Maximum loan amount | Up to $100,000,         | $50,000 or 50% of your |
+| personal-loan-          |                     | depending on the lender | 401(k) balance,        |
+| vs-401k-loan            |                     | and your eligibility    | whichever is less      |
++-------------------------+---------------------+-------------------------+------------------------+
+| https://www.finder.com/ | Repayment terms     | Usually fixed, monthly  | Typically taken out of |
+| personal-loan-          |                     | repayments              | your paycheck; if you  |
+| vs-401k-loan            |                     |                         | leave your place of    |
+|                         |                     |                         | employment, the entire |
+|                         |                     |                         | amount becomes due     |
+|                         |                     |                         | within 60 days         |
++-------------------------+---------------------+-------------------------+------------------------+
+| https://www.finder.com/ | Tax implications    | None                    | A period of 90 days    |
+| personal-loan-          |                     |                         | without a repayment    |
+| vs-401k-loan            |                     |                         | results in the amount  |
+|                         |                     |                         | taxed as income, with  |
+|                         |                     |                         | a potential 10%        |
+|                         |                     |                         | penalty on top if      |
+|                         |                     |                         | you’re under 59.5      |
+|                         |                     |                         | years old              |
++-------------------------+---------------------+-------------------------+------------------------+

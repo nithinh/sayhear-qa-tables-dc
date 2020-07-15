@@ -1,0 +1,153 @@
++-------------------+-------------------+-------------------+-------------------+------------------+
+| url               | iPhone            | Prices            | Colors            | Description      |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://www.theve | iPhone SE         | : 32GB for $349,  | : Silver, gold,   | The iPhone SE is |
+| rge.com/circuitbr |                   | or 128GB for $449 | space gray, or    | the smallest     |
+| eaker/2017/9/13/1 |                   |                   | rose gold         | iPhone in the    |
+| 6300850/iphone-   |                   |                   |                   | lineup, with a   |
+| price-cuts-apple- |                   |                   |                   | 4-inch display   |
+| event-se-6s-7-8-x |                   |                   |                   | and a design     |
+| -differences      |                   |                   |                   | that resembles   |
+|                   |                   |                   |                   | the original     |
+|                   |                   |                   |                   | iPhone 5. But    |
+|                   |                   |                   |                   | internally, it   |
+|                   |                   |                   |                   | offers the same  |
+|                   |                   |                   |                   | A9 processor and |
+|                   |                   |                   |                   | improved camera  |
+|                   |                   |                   |                   | as the iPhone    |
+|                   |                   |                   |                   | 6S, making it a  |
+|                   |                   |                   |                   | pretty good deal |
+|                   |                   |                   |                   | for those who    |
+|                   |                   |                   |                   | don’t mind (or   |
+|                   |                   |                   |                   | even prefer) the |
+|                   |                   |                   |                   | smaller size.    |
+|                   |                   |                   |                   | The screen isn’t |
+|                   |                   |                   |                   | quite as nice as |
+|                   |                   |                   |                   | larger-sized     |
+|                   |                   |                   |                   | iPhones and      |
+|                   |                   |                   |                   | Touch ID is      |
+|                   |                   |                   |                   | slower, but the  |
+|                   |                   |                   |                   | iPhone X doesn’t |
+|                   |                   |                   |                   | even have Touch  |
+|                   |                   |                   |                   | ID, so something |
+|                   |                   |                   |                   | is better than   |
+|                   |                   |                   |                   | nothing.         |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://www.theve | iPhone 6S / 6S    | : iPhone 6S: 32GB | : Silver, gold,   | The iPhone 6S    |
+| rge.com/circuitbr | Plus              | for $449, or      | space gray, or    | and 6S Plus are  |
+| eaker/2017/9/13/1 |                   | 128GB for $549    | rose gold         | upgraded         |
+| 6300850/iphone-   |                   |                   |                   | versions of the  |
+| price-cuts-apple- |                   |                   |                   | iPhone 6. It’s   |
+| event-se-6s-7-8-x |                   |                   |                   | got the same     |
+| -differences      |                   |                   |                   | design, with a   |
+|                   |                   |                   |                   | choice of a      |
+|                   |                   |                   |                   | 4.7-inch screen  |
+|                   |                   |                   |                   | on the 6S, or a  |
+|                   |                   |                   |                   | 5.5-inch display |
+|                   |                   |                   |                   | on the 6S Plus.  |
+|                   |                   |                   |                   | There’s also     |
+|                   |                   |                   |                   | support for      |
+|                   |                   |                   |                   | Apple’s 3D Touch |
+|                   |                   |                   |                   | feature, and you |
+|                   |                   |                   |                   | get the ability  |
+|                   |                   |                   |                   | to take animated |
+|                   |                   |                   |                   | Live Photos.     |
+|                   |                   |                   |                   | Those two        |
+|                   |                   |                   |                   | things, combined |
+|                   |                   |                   |                   | with a faster    |
+|                   |                   |                   |                   | processor, are   |
+|                   |                   |                   |                   | the main         |
+|                   |                   |                   |                   | differentiators  |
+|                   |                   |                   |                   | compared to the  |
+|                   |                   |                   |                   | older 6.         |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://www.theve | iPhone 7 / 7 Plus | : iPhone 7: 32GB  | : Silver, gold,   | The iPhone 7 and |
+| rge.com/circuitbr |                   | for $549, or      | black, jet black, | 7 Plus were      |
+| eaker/2017/9/13/1 |                   | 128GB for $649    | or rose gold      | released last    |
+| 6300850/iphone-   |                   |                   |                   | year,            |
+| price-cuts-apple- |                   |                   |                   | overhauling the  |
+| event-se-6s-7-8-x |                   |                   |                   | camera from the  |
+| -differences      |                   |                   |                   | 6S, with the 7   |
+|                   |                   |                   |                   | Plus getting a   |
+|                   |                   |                   |                   | dual-camera      |
+|                   |                   |                   |                   | system and a     |
+|                   |                   |                   |                   | wide and         |
+|                   |                   |                   |                   | telephoto lens.  |
+|                   |                   |                   |                   | Along with the   |
+|                   |                   |                   |                   | processor boost  |
+|                   |                   |                   |                   | (to an A10       |
+|                   |                   |                   |                   | Fusion chip),    |
+|                   |                   |                   |                   | the 7 line also  |
+|                   |                   |                   |                   | added IP67 water |
+|                   |                   |                   |                   | resistance.      |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://www.theve | iPhone 8 / 8 Plus | : iPhone 8: 64GB  | : Silver, gold,   | Of the new       |
+| rge.com/circuitbr |                   | for $699, or      | black             | models announced |
+| eaker/2017/9/13/1 |                   | 256GB for $849    |                   | yesterday, the   |
+| 6300850/iphone-   |                   |                   |                   | iPhone 8 and 8   |
+| price-cuts-apple- |                   |                   |                   | Plus look pretty |
+| event-se-6s-7-8-x |                   |                   |                   | similar to the   |
+| -differences      |                   |                   |                   | last few         |
+|                   |                   |                   |                   | generations of   |
+|                   |                   |                   |                   | iPhones, but     |
+|                   |                   |                   |                   | they swap the    |
+|                   |                   |                   |                   | all-aluminum     |
+|                   |                   |                   |                   | shell for a      |
+|                   |                   |                   |                   | glass back to    |
+|                   |                   |                   |                   | facilitate the   |
+|                   |                   |                   |                   | new wireless     |
+|                   |                   |                   |                   | charging,        |
+|                   |                   |                   |                   | upgrade the      |
+|                   |                   |                   |                   | screen to a True |
+|                   |                   |                   |                   | Tone display for |
+|                   |                   |                   |                   | better color     |
+|                   |                   |                   |                   | accuracy, and    |
+|                   |                   |                   |                   | offer the usual  |
+|                   |                   |                   |                   | camera and       |
+|                   |                   |                   |                   | processor        |
+|                   |                   |                   |                   | improvements     |
+|                   |                   |                   |                   | (this time, to   |
+|                   |                   |                   |                   | the new A11      |
+|                   |                   |                   |                   | Bionic six-core  |
+|                   |                   |                   |                   | chip). At        |
+|                   |                   |                   |                   | starting prices  |
+|                   |                   |                   |                   | of $699 and      |
+|                   |                   |                   |                   | $799,            |
+|                   |                   |                   |                   | respectively,    |
+|                   |                   |                   |                   | they’re the most |
+|                   |                   |                   |                   | expensive base   |
+|                   |                   |                   |                   | costs for any    |
+|                   |                   |                   |                   | iPhone yet.      |
++-------------------+-------------------+-------------------+-------------------+------------------+
+| https://www.theve | iPhone X          | : 64GB for $999,  | : Silver, black   | The iPhone X is  |
+| rge.com/circuitbr |                   | or 256GB for      |                   | the new flagship |
+| eaker/2017/9/13/1 |                   | $1,149            |                   | iPhone, with a   |
+| 6300850/iphone-   |                   |                   |                   | radical new      |
+| price-cuts-apple- |                   |                   |                   | design, a new    |
+| event-se-6s-7-8-x |                   |                   |                   | Face ID system   |
+| -differences      |                   |                   |                   | for unlocking    |
+|                   |                   |                   |                   | your phone, and  |
+|                   |                   |                   |                   | an edge-to-edge  |
+|                   |                   |                   |                   | bezel-free OLED  |
+|                   |                   |                   |                   | display. It also |
+|                   |                   |                   |                   | has the          |
+|                   |                   |                   |                   | improvements of  |
+|                   |                   |                   |                   | the iPhone 8,    |
+|                   |                   |                   |                   | including        |
+|                   |                   |                   |                   | wireless         |
+|                   |                   |                   |                   | charging and the |
+|                   |                   |                   |                   | new A11 Bionic   |
+|                   |                   |                   |                   | chip. But at a   |
+|                   |                   |                   |                   | starting price   |
+|                   |                   |                   |                   | of $999 (not     |
+|                   |                   |                   |                   | including        |
+|                   |                   |                   |                   | taxes),          |
+|                   |                   |                   |                   | customers on a   |
+|                   |                   |                   |                   | budget might     |
+|                   |                   |                   |                   | want to consider |
+|                   |                   |                   |                   | some of Apple’s  |
+|                   |                   |                   |                   | older — and far, |
+|                   |                   |                   |                   | far cheaper —    |
+|                   |                   |                   |                   | options instead. |
+|                   |                   |                   |                   | Or at least      |
++-------------------+-------------------+-------------------+-------------------+------------------+

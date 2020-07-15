@@ -1,0 +1,231 @@
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| url     | Flag_im | Flag_im | Flag_im | State   | State_l | Type    | Type_li | Success | Succes |
+|         | age     | age_alt | age_lin |         | ink     |         | nk      | ion     | sion_l |
+|         |         |         | k       |         |         |         |         |         | ink    |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ |         |         | Princip | https:/ | Constit | https:/ | Ex      | https: |
+| /en.wik | /upload |         |         | ality   | /en.wik | utional | /en.wik | officio | //en.w |
+| ipedia. | .wikime |         |         | of      | ipedia. |         | ipedia. |         | ikiped |
+| org/wik | dia.org |         |         | Andorra | org/wik |         | org/wik |         | ia.org |
+| i/Monar | /wikipe |         |         |         | i/Andor |         | i/Const |         | /wiki/ |
+| chies_i | dia/com |         |         |         | ra      |         | itution |         | Ex_off |
+| n_Europ | mons/th |         |         |         |         |         | al_mona |         | icio   |
+| e       | umb/1/1 |         |         |         |         |         | rchy    |         |        |
+|         | 9/Flag_ |         |         |         |         |         |         |         |        |
+|         | of_Ando |         |         |         |         |         |         |         |        |
+|         | rra.svg |         |         |         |         |         |         |         |        |
+|         | /22px-F |         |         |         |         |         |         |         |        |
+|         | lag_of_ |         |         |         |         |         |         |         |        |
+|         | Andorra |         |         |         |         |         |         |         |        |
+|         | .svg.pn |         |         |         |         |         |         |         |        |
+|         | g       |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ |         |         | Princip | https:/ | Constit | https:/ | Ex      | https: |
+| /en.wik | /upload |         |         | ality   | /en.wik | utional | /en.wik | officio | //en.w |
+| ipedia. | .wikime |         |         | of      | ipedia. |         | ipedia. |         | ikiped |
+| org/wik | dia.org |         |         | Andorra | org/wik |         | org/wik |         | ia.org |
+| i/Monar | /wikipe |         |         |         | i/Andor |         | i/Const |         | /wiki/ |
+| chies_i | dia/com |         |         |         | ra      |         | itution |         | Ex_off |
+| n_Europ | mons/th |         |         |         |         |         | al_mona |         | icio   |
+| e       | umb/1/1 |         |         |         |         |         | rchy    |         |        |
+|         | 9/Flag_ |         |         |         |         |         |         |         |        |
+|         | of_Ando |         |         |         |         |         |         |         |        |
+|         | rra.svg |         |         |         |         |         |         |         |        |
+|         | /22px-F |         |         |         |         |         |         |         |        |
+|         | lag_of_ |         |         |         |         |         |         |         |        |
+|         | Andorra |         |         |         |         |         |         |         |        |
+|         | .svg.pn |         |         |         |         |         |         |         |        |
+|         | g       |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ |         |         | Kingdom | https:/ | Constit | https:/ | Heredit | https: |
+| /en.wik | /upload |         |         | of      | /en.wik | utional | /en.wik | ary     | //en.w |
+| ipedia. | .wikime |         |         | Belgium | ipedia. |         | ipedia. |         | ikiped |
+| org/wik | dia.org |         |         |         | org/wik |         | org/wik |         | ia.org |
+| i/Monar | /wikipe |         |         |         | i/Belgi |         | i/Realm |         | /wiki/ |
+| chies_i | dia/com |         |         |         | um      |         |         |         | Line_o |
+| n_Europ | mons/th |         |         |         |         |         |         |         | f_succ |
+| e       | umb/9/9 |         |         |         |         |         |         |         | ession |
+|         | 2/Flag_ |         |         |         |         |         |         |         | _to_th |
+|         | of_Belg |         |         |         |         |         |         |         | e_Belg |
+|         | ium_%28 |         |         |         |         |         |         |         | ian_th |
+|         | civil%2 |         |         |         |         |         |         |         | rone   |
+|         | 9.svg/2 |         |         |         |         |         |         |         |        |
+|         | 3px-Fla |         |         |         |         |         |         |         |        |
+|         | g_of_Be |         |         |         |         |         |         |         |        |
+|         | lgium_% |         |         |         |         |         |         |         |        |
+|         | 28civil |         |         |         |         |         |         |         |        |
+|         | %29.svg |         |         |         |         |         |         |         |        |
+|         | .png    |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Denmark | https:/ | Kingdom | https:/ | Constit | https:/ | Heredit | https: |
+| /en.wik | /upload |         | /en.wik | of      | /en.wik | utional | /en.wik | ary     | //en.w |
+| ipedia. | .wikime |         | ipedia. | Denmark | ipedia. |         | ipedia. |         | ikiped |
+| org/wik | dia.org |         | org/wik |         | org/wik |         | org/wik |         | ia.org |
+| i/Monar | /wikipe |         | i/Denma |         | i/Kingd |         | i/Realm |         | /wiki/ |
+| chies_i | dia/com |         | rk      |         | om_of_D |         |         |         | Line_o |
+| n_Europ | mons/th |         |         |         | enmark  |         |         |         | f_succ |
+| e       | umb/9/9 |         |         |         |         |         |         |         | ession |
+|         | c/Flag_ |         |         |         |         |         |         |         | _to_th |
+|         | of_Denm |         |         |         |         |         |         |         | e_Dani |
+|         | ark.svg |         |         |         |         |         |         |         | sh_thr |
+|         | /20px-F |         |         |         |         |         |         |         | one    |
+|         | lag_of_ |         |         |         |         |         |         |         |        |
+|         | Denmark |         |         |         |         |         |         |         |        |
+|         | .svg.pn |         |         |         |         |         |         |         |        |
+|         | g       |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ |         |         | Princip | https:/ | Constit | https:/ | Heredit | https: |
+| /en.wik | /upload |         |         | ality   | /en.wik | utional | /en.wik | ary     | //en.w |
+| ipedia. | .wikime |         |         | of Liec | ipedia. |         | ipedia. |         | ikiped |
+| org/wik | dia.org |         |         | htenste | org/wik |         | org/wik |         | ia.org |
+| i/Monar | /wikipe |         |         | in      | i/Liech |         | i/Princ |         | /wiki/ |
+| chies_i | dia/com |         |         |         | tenstei |         | ipality |         | Line_o |
+| n_Europ | mons/th |         |         |         | n       |         |         |         | f_succ |
+| e       | umb/4/4 |         |         |         |         |         |         |         | ession |
+|         | 7/Flag_ |         |         |         |         |         |         |         | _to_th |
+|         | of_Liec |         |         |         |         |         |         |         | e_Liec |
+|         | htenste |         |         |         |         |         |         |         | htenst |
+|         | in.svg/ |         |         |         |         |         |         |         | einer_ |
+|         | 23px-Fl |         |         |         |         |         |         |         | throne |
+|         | ag_of_L |         |         |         |         |         |         |         |        |
+|         | iechten |         |         |         |         |         |         |         |        |
+|         | stein.s |         |         |         |         |         |         |         |        |
+|         | vg.png  |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ |         |         | Grand   | https:/ | Constit | https:/ | Heredit | https: |
+| /en.wik | /upload |         |         | Duchy   | /en.wik | utional | /en.wik | ary     | //en.w |
+| ipedia. | .wikime |         |         | of Luxe | ipedia. |         | ipedia. |         | ikiped |
+| org/wik | dia.org |         |         | mbourg  | org/wik |         | org/wik |         | ia.org |
+| i/Monar | /wikipe |         |         |         | i/Luxem |         | i/Grand |         | /wiki/ |
+| chies_i | dia/com |         |         |         | bourg   |         | _duchy  |         | Line_o |
+| n_Europ | mons/th |         |         |         |         |         |         |         | f_succ |
+| e       | umb/d/d |         |         |         |         |         |         |         | ession |
+|         | a/Flag_ |         |         |         |         |         |         |         | _to_th |
+|         | of_Luxe |         |         |         |         |         |         |         | e_Luxe |
+|         | mbourg. |         |         |         |         |         |         |         | mbourg |
+|         | svg/23p |         |         |         |         |         |         |         | er_thr |
+|         | x-Flag_ |         |         |         |         |         |         |         | one    |
+|         | of_Luxe |         |         |         |         |         |         |         |        |
+|         | mbourg. |         |         |         |         |         |         |         |        |
+|         | svg.png |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ |         |         | Princip | https:/ | Constit | https:/ | Heredit | https: |
+| /en.wik | /upload |         |         | ality   | /en.wik | utional | /en.wik | ary     | //en.w |
+| ipedia. | .wikime |         |         | of      | ipedia. |         | ipedia. |         | ikiped |
+| org/wik | dia.org |         |         | Monaco  | org/wik |         | org/wik |         | ia.org |
+| i/Monar | /wikipe |         |         |         | i/Monac |         | i/Princ |         | /wiki/ |
+| chies_i | dia/com |         |         |         | o       |         | ipality |         | Line_o |
+| n_Europ | mons/th |         |         |         |         |         |         |         | f_succ |
+| e       | umb/e/e |         |         |         |         |         |         |         | ession |
+|         | a/Flag_ |         |         |         |         |         |         |         | _to_th |
+|         | of_Mona |         |         |         |         |         |         |         | e_Mone |
+|         | co.svg/ |         |         |         |         |         |         |         | gasque |
+|         | 19px-Fl |         |         |         |         |         |         |         | _thron |
+|         | ag_of_M |         |         |         |         |         |         |         | e      |
+|         | onaco.s |         |         |         |         |         |         |         |        |
+|         | vg.png  |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ |         |         | Kingdom | https:/ | Constit | https:/ | Heredit | https: |
+| /en.wik | /upload |         |         | of the  | /en.wik | utional | /en.wik | ary     | //en.w |
+| ipedia. | .wikime |         |         | Netherl | ipedia. |         | ipedia. |         | ikiped |
+| org/wik | dia.org |         |         | ands    | org/wik |         | org/wik |         | ia.org |
+| i/Monar | /wikipe |         |         |         | i/Kingd |         | i/Realm |         | /wiki/ |
+| chies_i | dia/com |         |         |         | om_of_t |         |         |         | Line_o |
+| n_Europ | mons/th |         |         |         | he_Neth |         |         |         | f_succ |
+| e       | umb/2/2 |         |         |         | erlands |         |         |         | ession |
+|         | 0/Flag_ |         |         |         |         |         |         |         | _to_th |
+|         | of_the_ |         |         |         |         |         |         |         | e_Dutc |
+|         | Netherl |         |         |         |         |         |         |         | h_thro |
+|         | ands.sv |         |         |         |         |         |         |         | ne     |
+|         | g/23px- |         |         |         |         |         |         |         |        |
+|         | Flag_of |         |         |         |         |         |         |         |        |
+|         | _the_Ne |         |         |         |         |         |         |         |        |
+|         | therlan |         |         |         |         |         |         |         |        |
+|         | ds.svg. |         |         |         |         |         |         |         |        |
+|         | png     |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ |         |         | Kingdom | https:/ | Constit | https:/ | Heredit | https: |
+| /en.wik | /upload |         |         | of      | /en.wik | utional | /en.wik | ary     | //en.w |
+| ipedia. | .wikime |         |         | Norway  | ipedia. |         | ipedia. |         | ikiped |
+| org/wik | dia.org |         |         |         | org/wik |         | org/wik |         | ia.org |
+| i/Monar | /wikipe |         |         |         | i/Norwa |         | i/Realm |         | /wiki/ |
+| chies_i | dia/com |         |         |         | y       |         |         |         | Line_o |
+| n_Europ | mons/th |         |         |         |         |         |         |         | f_succ |
+| e       | umb/d/d |         |         |         |         |         |         |         | ession |
+|         | 9/Flag_ |         |         |         |         |         |         |         | _to_th |
+|         | of_Norw |         |         |         |         |         |         |         | e_Norw |
+|         | ay.svg/ |         |         |         |         |         |         |         | egian_ |
+|         | 21px-Fl |         |         |         |         |         |         |         | throne |
+|         | ag_of_N |         |         |         |         |         |         |         |        |
+|         | orway.s |         |         |         |         |         |         |         |        |
+|         | vg.png  |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ |         |         | Kingdom | https:/ | Constit | https:/ | Heredit | https: |
+| /en.wik | /upload |         |         | of      | /en.wik | utional | /en.wik | ary     | //en.w |
+| ipedia. | .wikime |         |         | Spain   | ipedia. |         | ipedia. |         | ikiped |
+| org/wik | dia.org |         |         |         | org/wik |         | org/wik |         | ia.org |
+| i/Monar | /wikipe |         |         |         | i/Spain |         | i/Realm |         | /wiki/ |
+| chies_i | dia/en/ |         |         |         |         |         |         |         | Line_o |
+| n_Europ | thumb/9 |         |         |         |         |         |         |         | f_succ |
+| e       | /9a/Fla |         |         |         |         |         |         |         | ession |
+|         | g_of_Sp |         |         |         |         |         |         |         | _to_th |
+|         | ain.svg |         |         |         |         |         |         |         | e_Span |
+|         | /23px-F |         |         |         |         |         |         |         | ish_th |
+|         | lag_of_ |         |         |         |         |         |         |         | rone   |
+|         | Spain.s |         |         |         |         |         |         |         |        |
+|         | vg.png  |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ |         |         | Kingdom | https:/ | Constit | https:/ | Heredit | https: |
+| /en.wik | /upload |         |         | of      | /en.wik | utional | /en.wik | ary     | //en.w |
+| ipedia. | .wikime |         |         | Sweden  | ipedia. |         | ipedia. |         | ikiped |
+| org/wik | dia.org |         |         |         | org/wik |         | org/wik |         | ia.org |
+| i/Monar | /wikipe |         |         |         | i/Swede |         | i/Realm |         | /wiki/ |
+| chies_i | dia/en/ |         |         |         | n       |         |         |         | Line_o |
+| n_Europ | thumb/4 |         |         |         |         |         |         |         | f_succ |
+| e       | /4c/Fla |         |         |         |         |         |         |         | ession |
+|         | g_of_Sw |         |         |         |         |         |         |         | _to_th |
+|         | eden.sv |         |         |         |         |         |         |         | e_Swed |
+|         | g/23px- |         |         |         |         |         |         |         | ish_th |
+|         | Flag_of |         |         |         |         |         |         |         | rone   |
+|         | _Sweden |         |         |         |         |         |         |         |        |
+|         | .svg.pn |         |         |         |         |         |         |         |        |
+|         | g       |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ |         |         | United  | https:/ | Constit | https:/ | Heredit | https: |
+| /en.wik | /upload |         |         | Kingdom | /en.wik | utional | /en.wik | ary     | //en.w |
+| ipedia. | .wikime |         |         | of      | ipedia. |         | ipedia. |         | ikiped |
+| org/wik | dia.org |         |         | Great   | org/wik |         | org/wik |         | ia.org |
+| i/Monar | /wikipe |         |         | Britain | i/Unite |         | i/Realm |         | /wiki/ |
+| chies_i | dia/en/ |         |         | and Nor | d_Kingd |         |         |         | Succes |
+| n_Europ | thumb/a |         |         | thern   | om      |         |         |         | sion_t |
+| e       | /ae/Fla |         |         | Ireland |         |         |         |         | o_the_ |
+|         | g_of_th |         |         |         |         |         |         |         | Britis |
+|         | e_Unite |         |         |         |         |         |         |         | h_thro |
+|         | d_Kingd |         |         |         |         |         |         |         | ne     |
+|         | om.svg/ |         |         |         |         |         |         |         |        |
+|         | 23px-Fl |         |         |         |         |         |         |         |        |
+|         | ag_of_t |         |         |         |         |         |         |         |        |
+|         | he_Unit |         |         |         |         |         |         |         |        |
+|         | ed_King |         |         |         |         |         |         |         |        |
+|         | dom.svg |         |         |         |         |         |         |         |        |
+|         | .png    |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ |         |         | Vatican | https:/ | Absolut | https:/ | Electiv | https: |
+| /en.wik | /upload |         |         | City    | /en.wik | e       | /en.wik | e       | //en.w |
+| ipedia. | .wikime |         |         | State   | ipedia. |         | ipedia. |         | ikiped |
+| org/wik | dia.org |         |         |         | org/wik |         | org/wik |         | ia.org |
+| i/Monar | /wikipe |         |         |         | i/Vatic |         | i/Absol |         | /wiki/ |
+| chies_i | dia/com |         |         |         | an_City |         | ute_mon |         | Electi |
+| n_Europ | mons/th |         |         |         |         |         | archy   |         | ve_mon |
+| e       | umb/0/0 |         |         |         |         |         |         |         | archy  |
+|         | 0/Flag_ |         |         |         |         |         |         |         |        |
+|         | of_the_ |         |         |         |         |         |         |         |        |
+|         | Vatican |         |         |         |         |         |         |         |        |
+|         | _City.s |         |         |         |         |         |         |         |        |
+|         | vg/16px |         |         |         |         |         |         |         |        |
+|         | -Flag_o |         |         |         |         |         |         |         |        |
+|         | f_the_V |         |         |         |         |         |         |         |        |
+|         | atican_ |         |         |         |         |         |         |         |        |
+|         | City.sv |         |         |         |         |         |         |         |        |
+|         | g.png   |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+

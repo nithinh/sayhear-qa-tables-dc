@@ -1,0 +1,154 @@
++--------------------------------+--------------------------------+--------------------------------+
+| url                            | English                        | German                         |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | Onwards and upwards! [also:    | Immer vorwärts! [Aufforderung  |
+| %20vorw%C3%A4rts               | Onward and upward!]            | nach einer unangenehmen        |
+|                                | [encouragement]                | Erfahrung]                     |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | ahead {adv}                    | vorwärts                       |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | along {adv}                    | vorwärts                       |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | forrader {adv} [mainly Br.]    | vorwärts                       |
+| %20vorw%C3%A4rts               | [more forward]                 |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | forrard {adv} [forward]        | vorwärts                       |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | forth {adv} [dated] [forward]  | vorwärts                       |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | forwards {adv}                 | vorwärts                       |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | frontwards {adv}               | vorwärts                       |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | onward {adv}                   | vorwärts                       |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | onwards {adv}                  | vorwärts                       |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | pol. Forward [USA] [Wisconsin  | Vorwärts                       |
+| %20vorw%C3%A4rts               | state motto]                   |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | forward {adv} <fwd, fwrd, fw>  | vorwärts                       |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | forward {adj}                  | Vorwärts                       |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | forwards {adv}                 | Vorwärts                       |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | Come along!                    | Vorwärts                       |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | Come on!                       | Vorwärts                       |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | dead ahead                     | genau vorwärts                 |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | fast forward {adj}             | Schnell-Vorwärts-              |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | made progress {past-p}         | vorwärts gekommen [alt]        |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | onwardly {adv}                 | vorwärts schreitend [alt]      |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | propulsive {adj}               | vorwärts treibend [alt]        |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | mil. Forward march!            | Vorwärts, marsch!              |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to bull                        | (vorwärts) drängen             |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to bend forward                | vorwärts beugen [alt]          |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to advance                     | vorwärts bewegen [alt]         |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to move forward                | vorwärts bewegen [alt]         |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to put forward                 | vorwärts bewegen [alt]         |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to page down                   | vorwärts blättern [alt]        |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to advance                     | vorwärts bringen [alt]         |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to bring forward               | vorwärts bringen [alt]         |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to press forward               | vorwärts drängen [alt]         |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to advance                     | vorwärts gehen [alt]           |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to come on                     | vorwärts gehen [alt]           |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to move forward                | vorwärts gehen [alt]           |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to progress                    | vorwärts gehen [alt]           |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to proceed                     | vorwärts gehen [alt]           |
+| %20vorw%C3%A4rts               |                                | [fortschreiten]                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to help on                     | vorwärts helfen [alt]          |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to forge ahead                 | vorwärts kommen [alt]          |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to get ahead                   | vorwärts kommen [alt]          |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to get on [to advance]         | vorwärts kommen [alt]          |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to make progress               | vorwärts kommen [alt]          |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to tilt forwards               | vorwärts neigen [alt]          |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to look forward [fig.] [not    | vorwärts schauen [fig.] [in    |
+| %20vorw%C3%A4rts               | back]                          | die Zukunft]                   |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to dash forward                | vorwärts schießen [alt]        |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | to bring forward               | vorwärts tragen [alt]          |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | sports scorpion kick           | Fallrückzieher {m} vorwärts    |
+| %20vorw%C3%A4rts               |                                | [Scorpion-Kick]                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | sports front handspring        | Handstützüberschlag {m}        |
+| %20vorw%C3%A4rts               |                                | vorwärts [Turnen]              |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | dance forward lock             | Kreuzschritt {m} vorwärts      |
+| %20vorw%C3%A4rts               |                                | [Quickstep]                    |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | sports forward roll            | Rolle {f} vorwärts             |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://de-en.dict.cc/?s=Immer | sports roll forwards           | Rolle {f} vorwärts             |
+| %20vorw%C3%A4rts               |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+

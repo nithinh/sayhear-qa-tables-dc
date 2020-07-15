@@ -1,0 +1,29 @@
++-----------------------------+----------------------------+----------------------------+----------+
+| url                         | Distance_from_Los_Angeles  | Distance_from_Los_Angeles_ | Distance |
+|                             |                            | link                       |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://www.distancefromto. | Distance from Los Angeles  | https://www.distancefromto | 559 km   |
+| net/distance-from-los-      | to San Francisco           | .net/distance-from-los-    |          |
+| angeles-us-to-san-          |                            | angeles-us-to-san-         |          |
+| francisco-us                |                            | francisco-us               |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://www.distancefromto. | Distance from Los Angeles  | https://www.distancefromto | 23 km    |
+| net/distance-from-los-      | to Santa Monica            | .net/distance-from-los-    |          |
+| angeles-us-to-san-          |                            | angeles-us-to-santa-       |          |
+| francisco-us                |                            | monica-us                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://www.distancefromto. | Distance from Los Angeles  | https://www.distancefromto | 56 km    |
+| net/distance-from-los-      | to Newport Beach           | .net/distance-from-los-    |          |
+| angeles-us-to-san-          |                            | angeles-us-to-newport-     |          |
+| francisco-us                |                            | beach-us                   |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://www.distancefromto. | Distance from Los Angeles  | https://www.distancefromto | 492 km   |
+| net/distance-from-los-      | to San Jose                | .net/distance-from-los-    |          |
+| angeles-us-to-san-          |                            | angeles-us-to-san-jose-us  |          |
+| francisco-us                |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://www.distancefromto. | Distance from Los Angeles  | https://www.distancefromto | 472 km   |
+| net/distance-from-los-      | to Santa Cruz              | .net/distance-from-los-    |          |
+| angeles-us-to-san-          |                            | angeles-us-to-santa-cruz-  |          |
+| francisco-us                |                            | us                         |          |
++-----------------------------+----------------------------+----------------------------+----------+

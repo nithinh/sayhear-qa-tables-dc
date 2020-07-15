@@ -1,0 +1,174 @@
++----------+------+----------+----------+-------+----------+---------+---------+---------+---------+
+| url      | Rank | Name     | Review_C | Price | Category | Neighbo | Address | Address | Phone_N |
+|          |      |          | ount     |       | _List_Te | rhood   | _1      | _2      | umber   |
+|          |      |          |          |       | xt       |         |         |         |         |
++----------+------+----------+----------+-------+----------+---------+---------+---------+---------+
+| https:// | Ad   | Tucanos  | 313      | $$    | Buffets, | St      | 1520 S  | St. Cha | (636) 7 |
+| www.yelp |      | Brazilia | reviews  |       | Brazilia | Charles | 5th St  | rles,   | 24-4499 |
+| .com/sea |      | n Grill  |          |       | n        |         |         | MO      |         |
+| rch?find |      |          |          |       |          |         |         | 63303   |         |
+| _desc=Ve |      |          |          |       |          |         |         |         |         |
+| gan+Rest |      |          |          |       |          |         |         |         |         |
+| aurants& |      |          |          |       |          |         |         |         |         |
+| find_loc |      |          |          |       |          |         |         |         |         |
+| =St+Char |      |          |          |       |          |         |         |         |         |
+| les%2C+S |      |          |          |       |          |         |         |         |         |
+| aint+Lou |      |          |          |       |          |         |         |         |         |
+| is%2C+MO |      |          |          |       |          |         |         |         |         |
++----------+------+----------+----------+-------+----------+---------+---------+---------+---------+
+| https:// | Ad   | Lion’s   | 11       | $     | Sandwich | St      | 3140    | St. Cha | (636) 9 |
+| www.yelp |      | Choice   | reviews  |       | es, Fast | Charles | Elm     | rles,   | 47-7638 |
+| .com/sea |      |          |          |       | Food,    |         | Point I | MO      |         |
+| rch?find |      |          |          |       | American |         | ndustri | 63301   |         |
+| _desc=Ve |      |          |          |       | (Traditi |         | al Dr   |         |         |
+| gan+Rest |      |          |          |       | onal)    |         |         |         |         |
+| aurants& |      |          |          |       |          |         |         |         |         |
+| find_loc |      |          |          |       |          |         |         |         |         |
+| =St+Char |      |          |          |       |          |         |         |         |         |
+| les%2C+S |      |          |          |       |          |         |         |         |         |
+| aint+Lou |      |          |          |       |          |         |         |         |         |
+| is%2C+MO |      |          |          |       |          |         |         |         |         |
++----------+------+----------+----------+-------+----------+---------+---------+---------+---------+
+| https:// | 1    | Bike     | 139      | $     | Vegetari | St      | 701 S R | St Char | (636) 7 |
+| www.yelp |      | Stop     | reviews  |       | an, Brea | Charles | iversid | les, MO | 24-9900 |
+| .com/sea |      | Cafe     |          |       | kfast &  |         | e Dr    | 63301   |         |
+| rch?find |      |          |          |       | Brunch,  |         |         |         |         |
+| _desc=Ve |      |          |          |       | Vegan    |         |         |         |         |
+| gan+Rest |      |          |          |       |          |         |         |         |         |
+| aurants& |      |          |          |       |          |         |         |         |         |
+| find_loc |      |          |          |       |          |         |         |         |         |
+| =St+Char |      |          |          |       |          |         |         |         |         |
+| les%2C+S |      |          |          |       |          |         |         |         |         |
+| aint+Lou |      |          |          |       |          |         |         |         |         |
+| is%2C+MO |      |          |          |       |          |         |         |         |         |
++----------+------+----------+----------+-------+----------+---------+---------+---------+---------+
+| https:// | 2    | Symbowl  | 13       | $$    | Specialt | St      | 1456    | Saint C | (636) 4 |
+| www.yelp |      |          | reviews  |       | y Food,  | Charles | Bass    | harles, | 93-1138 |
+| .com/sea |      |          |          |       | Juice    |         | Pro     | MO      |         |
+| rch?find |      |          |          |       | Bars & S |         | Shop Dr | 63301   |         |
+| _desc=Ve |      |          |          |       | moothies |         |         |         |         |
+| gan+Rest |      |          |          |       |          |         |         |         |         |
+| aurants& |      |          |          |       |          |         |         |         |         |
+| find_loc |      |          |          |       |          |         |         |         |         |
+| =St+Char |      |          |          |       |          |         |         |         |         |
+| les%2C+S |      |          |          |       |          |         |         |         |         |
+| aint+Lou |      |          |          |       |          |         |         |         |         |
+| is%2C+MO |      |          |          |       |          |         |         |         |         |
++----------+------+----------+----------+-------+----------+---------+---------+---------+---------+
+| https:// | 3    | Prasino  | 557      | $$    | American | St      | 1520 S  | St. Cha | (636) 2 |
+| www.yelp |      |          | reviews  |       | (New),   | Charles | 5th St  | rles,   | 77-0202 |
+| .com/sea |      |          |          |       | Bars     |         |         | MO      |         |
+| rch?find |      |          |          |       |          |         |         | 63303   |         |
+| _desc=Ve |      |          |          |       |          |         |         |         |         |
+| gan+Rest |      |          |          |       |          |         |         |         |         |
+| aurants& |      |          |          |       |          |         |         |         |         |
+| find_loc |      |          |          |       |          |         |         |         |         |
+| =St+Char |      |          |          |       |          |         |         |         |         |
+| les%2C+S |      |          |          |       |          |         |         |         |         |
+| aint+Lou |      |          |          |       |          |         |         |         |         |
+| is%2C+MO |      |          |          |       |          |         |         |         |         |
++----------+------+----------+----------+-------+----------+---------+---------+---------+---------+
+| https:// | 4    | Fred and | 25       | $     | Vegan, V |         | 64      | Marylan | (314) 9 |
+| www.yelp |      | Ricky’s  | reviews  |       | egetaria |         | Weldon  | d Heigh | 42-8900 |
+| .com/sea |      | Plant De |          |       | n,       |         | Pkwy    | ts, MO  |         |
+| rch?find |      | licious  |          |       | American |         |         | 63043   |         |
+| _desc=Ve |      | Foods    |          |       | (Traditi |         |         |         |         |
+| gan+Rest |      |          |          |       | onal)    |         |         |         |         |
+| aurants& |      |          |          |       |          |         |         |         |         |
+| find_loc |      |          |          |       |          |         |         |         |         |
+| =St+Char |      |          |          |       |          |         |         |         |         |
+| les%2C+S |      |          |          |       |          |         |         |         |         |
+| aint+Lou |      |          |          |       |          |         |         |         |         |
+| is%2C+MO |      |          |          |       |          |         |         |         |         |
++----------+------+----------+----------+-------+----------+---------+---------+---------+---------+
+| https:// | 5    | Fred and | 22       | $$    | American |         | 11252   | Creve   | (314) 9 |
+| www.yelp |      | Ricky’s  | reviews  |       | (Traditi |         | Olive   | Coeur,  | 42-3100 |
+| .com/sea |      | Plant De |          |       | onal),   |         | Blvd    | MO      |         |
+| rch?find |      | licious  |          |       | Vegan, V |         |         | 63141   |         |
+| _desc=Ve |      | Foods    |          |       | egetaria |         |         |         |         |
+| gan+Rest |      |          |          |       | n        |         |         |         |         |
+| aurants& |      |          |          |       |          |         |         |         |         |
+| find_loc |      |          |          |       |          |         |         |         |         |
+| =St+Char |      |          |          |       |          |         |         |         |         |
+| les%2C+S |      |          |          |       |          |         |         |         |         |
+| aint+Lou |      |          |          |       |          |         |         |         |         |
+| is%2C+MO |      |          |          |       |          |         |         |         |         |
++----------+------+----------+----------+-------+----------+---------+---------+---------+---------+
+| https:// | 6    | Mario’s  | 106      | $     | Cafes,   | St      | 2786    | St Char | (636) 4 |
+| www.yelp |      | Donuts & | reviews  |       | Donuts,  | Charles | Muegge  | les, MO | 47-4515 |
+| .com/sea |      | Cafe     |          |       | Breakfas |         | Rd      | 63303   |         |
+| rch?find |      |          |          |       | t &      |         |         |         |         |
+| _desc=Ve |      |          |          |       | Brunch   |         |         |         |         |
+| gan+Rest |      |          |          |       |          |         |         |         |         |
+| aurants& |      |          |          |       |          |         |         |         |         |
+| find_loc |      |          |          |       |          |         |         |         |         |
+| =St+Char |      |          |          |       |          |         |         |         |         |
+| les%2C+S |      |          |          |       |          |         |         |         |         |
+| aint+Lou |      |          |          |       |          |         |         |         |         |
+| is%2C+MO |      |          |          |       |          |         |         |         |         |
++----------+------+----------+----------+-------+----------+---------+---------+---------+---------+
+| https:// | 7    | Bombay   | 76       | $$    | Indian,  | St Ann  | 3578    | Saint   | (573) 5 |
+| www.yelp |      | Food     | reviews  |       | Vegan, V |         | Adie Rd | Louis,  | 78-6583 |
+| .com/sea |      | Junkies  |          |       | egetaria |         |         | MO      |         |
+| rch?find |      |          |          |       | n        |         |         | 63074   |         |
+| _desc=Ve |      |          |          |       |          |         |         |         |         |
+| gan+Rest |      |          |          |       |          |         |         |         |         |
+| aurants& |      |          |          |       |          |         |         |         |         |
+| find_loc |      |          |          |       |          |         |         |         |         |
+| =St+Char |      |          |          |       |          |         |         |         |         |
+| les%2C+S |      |          |          |       |          |         |         |         |         |
+| aint+Lou |      |          |          |       |          |         |         |         |         |
+| is%2C+MO |      |          |          |       |          |         |         |         |         |
++----------+------+----------+----------+-------+----------+---------+---------+---------+---------+
+| https:// | 8    | Frida’s  | 170      | $$    | Vegetari |         | 622 N   | Univers | (314) 7 |
+| www.yelp |      |          | reviews  |       | an       |         | And S   | ity     | 27-6500 |
+| .com/sea |      |          |          |       |          |         | Rd      | City,   |         |
+| rch?find |      |          |          |       |          |         |         | MO      |         |
+| _desc=Ve |      |          |          |       |          |         |         | 63130   |         |
+| gan+Rest |      |          |          |       |          |         |         |         |         |
+| aurants& |      |          |          |       |          |         |         |         |         |
+| find_loc |      |          |          |       |          |         |         |         |         |
+| =St+Char |      |          |          |       |          |         |         |         |         |
+| les%2C+S |      |          |          |       |          |         |         |         |         |
+| aint+Lou |      |          |          |       |          |         |         |         |         |
+| is%2C+MO |      |          |          |       |          |         |         |         |         |
++----------+------+----------+----------+-------+----------+---------+---------+---------+---------+
+| https:// | 9    | Picasso’ | 170      | $$    | Cafes, B | St      | 101 N   | Saint C | (636) 9 |
+| www.yelp |      | s Coffee | reviews  |       | reakfast | Charles | Main St | harles, | 25-2911 |
+| .com/sea |      | House    |          |       | &        |         |         | MO      |         |
+| rch?find |      |          |          |       | Brunch,  |         |         | 63301   |         |
+| _desc=Ve |      |          |          |       | Sandwich |         |         |         |         |
+| gan+Rest |      |          |          |       | es       |         |         |         |         |
+| aurants& |      |          |          |       |          |         |         |         |         |
+| find_loc |      |          |          |       |          |         |         |         |         |
+| =St+Char |      |          |          |       |          |         |         |         |         |
+| les%2C+S |      |          |          |       |          |         |         |         |         |
+| aint+Lou |      |          |          |       |          |         |         |         |         |
+| is%2C+MO |      |          |          |       |          |         |         |         |         |
++----------+------+----------+----------+-------+----------+---------+---------+---------+---------+
+| https:// | 10   | Pangea   | 22       | $$$   | Desserts |         | 3245    | Saint C | (636) 4 |
+| www.yelp |      |          | reviews  |       | , Bars,  |         | Rue     | harles, | 42-4044 |
+| .com/sea |      |          |          |       | American |         | Royale  | MO      |         |
+| rch?find |      |          |          |       | (New)    |         |         | 63301   |         |
+| _desc=Ve |      |          |          |       |          |         |         |         |         |
+| gan+Rest |      |          |          |       |          |         |         |         |         |
+| aurants& |      |          |          |       |          |         |         |         |         |
+| find_loc |      |          |          |       |          |         |         |         |         |
+| =St+Char |      |          |          |       |          |         |         |         |         |
+| les%2C+S |      |          |          |       |          |         |         |         |         |
+| aint+Lou |      |          |          |       |          |         |         |         |         |
+| is%2C+MO |      |          |          |       |          |         |         |         |         |
++----------+------+----------+----------+-------+----------+---------+---------+---------+---------+
+| https:// | Ad   | Balaban’ | 71       | $$    | American |         | 1772 Cl | Chester | (636) 4 |
+| www.yelp |      | s        | reviews  |       | (Traditi |         | arkson  | field,  | 49-6700 |
+| .com/sea |      |          |          |       | onal), B |         | Rd      | MO      |         |
+| rch?find |      |          |          |       | reakfast |         |         | 63017   |         |
+| _desc=Ve |      |          |          |       | &        |         |         |         |         |
+| gan+Rest |      |          |          |       | Brunch,  |         |         |         |         |
+| aurants& |      |          |          |       | Wine     |         |         |         |         |
+| find_loc |      |          |          |       | Bars     |         |         |         |         |
+| =St+Char |      |          |          |       |          |         |         |         |         |
+| les%2C+S |      |          |          |       |          |         |         |         |         |
+| aint+Lou |      |          |          |       |          |         |         |         |         |
+| is%2C+MO |      |          |          |       |          |         |         |         |         |
++----------+------+----------+----------+-------+----------+---------+---------+---------+---------+

@@ -1,0 +1,246 @@
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| url      | Rank | Mall_Nam | Mall_Na | Locatio | Locatio | Metro_A | Metro_A | Retail_ | Stores  |
+|          |      | e        | me_link | n       | n_link  | rea     | rea_lin | Space_( |         |
+|          |      |          |         |         |         |         | k       | sq._ft_ |         |
+|          |      |          |         |         |         |         |         | /_m^s)  |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 1    | King of  | https:/ | King of | https:/ | Philade | https:/ | 2,900,0 | 450;    |
+| en.wikip |      | Prussia  | /en.wik | Prussia | /en.wik | lphia   | /en.wik | 00      | 450     |
+| edia.org |      |          | ipedia. | , Penns | ipedia. |         | ipedia. | square  |         |
+| /wiki/Li |      |          | org/wik | ylvania | org/wik |         | org/wik | feet (2 |         |
+| st_of_la |      |          | i/King_ |         | i/King_ |         | i/Phila | 70,000  |         |
+| rgest_sh |      |          | of_Prus |         | of_Prus |         | delphia | m       |         |
+| opping_m |      |          | sia_Mal |         | sia,_Pe |         |         |         |         |
+| alls_in_ |      |          | l       |         | nnsylva |         |         |         |         |
+| the_Unit |      |          |         |         | nia     |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 2    | Aventura | https:/ | Aventur | https:/ | Miami   | https:/ | 2,700,0 | 300+[3] |
+| en.wikip |      | Mall     | /en.wik | a,      | /en.wik |         | /en.wik | 00      | ; 300+  |
+| edia.org |      |          | ipedia. | Florida | ipedia. |         | ipedia. | square  |         |
+| /wiki/Li |      |          | org/wik |         | org/wik |         | org/wik | feet (2 |         |
+| st_of_la |      |          | i/Avent |         | i/Avent |         | i/Miami | 50,000  |         |
+| rgest_sh |      |          | ura_Mal |         | ura,_Fl |         |         | m       |         |
+| opping_m |      |          | l       |         | orida   |         |         |         |         |
+| alls_in_ |      |          |         |         |         |         |         |         |         |
+| the_Unit |      |          |         |         |         |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 3    | Mall of  | https:/ | Bloomin | https:/ | Minneap | https:/ | 2,500,0 | 500;    |
+| en.wikip |      | America  | /en.wik | gton, M | /en.wik | olis    | /en.wik | 00      | 500     |
+| edia.org |      |          | ipedia. | innesot | ipedia. |         | ipedia. | square  |         |
+| /wiki/Li |      |          | org/wik | a       | org/wik |         | org/wik | feet (2 |         |
+| st_of_la |      |          | i/Mall_ |         | i/Bloom |         | i/Minne | 30,000  |         |
+| rgest_sh |      |          | of_Amer |         | ington, |         | apolis  | m       |         |
+| opping_m |      |          | ica     |         | _Minnes |         |         |         |         |
+| alls_in_ |      |          |         |         | ota     |         |         |         |         |
+| the_Unit |      |          |         |         |         |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 4    | South    | https:/ | Costa   | https:/ | Los     | https:/ | 2,600,0 | 280;    |
+| en.wikip |      | Coast    | /en.wik | Mesa, C | /en.wik | Angeles | /en.wik | 00      | 280     |
+| edia.org |      | Plaza    | ipedia. | aliforn | ipedia. |         | ipedia. | square  |         |
+| /wiki/Li |      |          | org/wik | ia      | org/wik |         | org/wik | feet (2 |         |
+| st_of_la |      |          | i/South |         | i/Costa |         | i/Los_A | 40,000  |         |
+| rgest_sh |      |          | _Coast_ |         | _Mesa,_ |         | ngeles  | m       |         |
+| opping_m |      |          | Plaza   |         | Califor |         |         |         |         |
+| alls_in_ |      |          |         |         | nia     |         |         |         |         |
+| the_Unit |      |          |         |         |         |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 5    | Del Amo  | https:/ | Torranc | https:/ | Los     | https:/ | 2,600,0 | 200+;   |
+| en.wikip |      | Fashion  | /en.wik | e, Cali | /en.wik | Angeles | /en.wik | 00      | 200+    |
+| edia.org |      | Center   | ipedia. | fornia  | ipedia. |         | ipedia. | square  |         |
+| /wiki/Li |      |          | org/wik |         | org/wik |         | org/wik | feet (2 |         |
+| st_of_la |      |          | i/Del_A |         | i/Torra |         | i/Los_A | 40,000  |         |
+| rgest_sh |      |          | mo_Fash |         | nce,_Ca |         | ngeles_ | m       |         |
+| opping_m |      |          | ion_Cen |         | liforni |         | County  |         |         |
+| alls_in_ |      |          | ter     |         | a       |         |         |         |         |
+| the_Unit |      |          |         |         |         |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 6    | Destiny  | https:/ | Syracus | https:/ | Syracus | https:/ | 2,450,0 | 250+;   |
+| en.wikip |      | USA      | /en.wik | e, New  | /en.wik | e       | /en.wik | 00      | 250+    |
+| edia.org |      |          | ipedia. | York    | ipedia. |         | ipedia. | square  |         |
+| /wiki/Li |      |          | org/wik |         | org/wik |         | org/wik | feet (2 |         |
+| st_of_la |      |          | i/Desti |         | i/Syrac |         | i/Syrac | 28,000  |         |
+| rgest_sh |      |          | ny_USA  |         | use,_Ne |         | use_met | m       |         |
+| opping_m |      |          |         |         | w_York  |         | ropolit |         |         |
+| alls_in_ |      |          |         |         |         |         | an_area |         |         |
+| the_Unit |      |          |         |         |         |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 7    | The      | https:/ | Houston | https:/ | Houston | https:/ | 2,400,0 | 375;    |
+| en.wikip |      | Galleria | /en.wik | , Texas | /en.wik |         | /en.wik | 00      | 375     |
+| edia.org |      |          | ipedia. |         | ipedia. |         | ipedia. | square  |         |
+| /wiki/Li |      |          | org/wik |         | org/wik |         | org/wik | feet (2 |         |
+| st_of_la |      |          | i/The_G |         | i/Houst |         | i/Houst | 20,000  |         |
+| rgest_sh |      |          | alleria |         | on,_Tex |         | on,_Tex | m       |         |
+| opping_m |      |          |         |         | as      |         | as      |         |         |
+| alls_in_ |      |          |         |         |         |         |         |         |         |
+| the_Unit |      |          |         |         |         |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 8    | Ala      | https:/ | Honolul | https:/ | Honolul | https:/ | 2,400,0 | 330+;   |
+| en.wikip |      | Moana    | /en.wik | u,      | /en.wik | u       | /en.wik | 00      | 330+    |
+| edia.org |      | Center   | ipedia. | Hawaii  | ipedia. |         | ipedia. | square  |         |
+| /wiki/Li |      |          | org/wik |         | org/wik |         | org/wik | feet (2 |         |
+| st_of_la |      |          | i/Ala_M |         | i/Honol |         | i/Honol | 20,000  |         |
+| rgest_sh |      |          | oana_Ce |         | ulu,_Ha |         | ulu     | m       |         |
+| opping_m |      |          | nter    |         | waii    |         |         |         |         |
+| alls_in_ |      |          |         |         |         |         |         |         |         |
+| the_Unit |      |          |         |         |         |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 9    | Tysons   | https:/ | McLean, | https:/ | Washing | https:/ | 2,400,0 | 300;    |
+| en.wikip |      | Corner   | /en.wik | Virgini | /en.wik | ton,    | /en.wik | 00      | 300     |
+| edia.org |      | Center   | ipedia. | a       | ipedia. | D.C.    | ipedia. | square  |         |
+| /wiki/Li |      |          | org/wik |         | org/wik |         | org/wik | feet (2 |         |
+| st_of_la |      |          | i/Tyson |         | i/McLea |         | i/Washi | 20,000  |         |
+| rgest_sh |      |          | s_Corne |         | n,_Virg |         | ngton,_ | m       |         |
+| opping_m |      |          | r_Cente |         | inia    |         | D.C.    |         |         |
+| alls_in_ |      |          | r       |         |         |         |         |         |         |
+| the_Unit |      |          |         |         |         |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 10   | Roosevel | https:/ | Garden  | https:/ | New     | https:/ | 2,400,0 | 294;    |
+| en.wikip |      | t Field  | /en.wik | City,   | /en.wik | York    | /en.wik | 00      | 294     |
+| edia.org |      |          | ipedia. | New     | ipedia. | City    | ipedia. | square  |         |
+| /wiki/Li |      |          | org/wik | York    | org/wik |         | org/wik | feet (2 |         |
+| st_of_la |      |          | i/Roose |         | i/Garde |         | i/New_Y | 20,000  |         |
+| rgest_sh |      |          | velt_Fi |         | n_City, |         | ork_met | m       |         |
+| opping_m |      |          | eld_(Sh |         | _New_Yo |         | ropolit |         |         |
+| alls_in_ |      |          | opping_ |         | rk      |         | an_area |         |         |
+| the_Unit |      |          | Mall)   |         |         |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 11   | Sawgrass | https:/ | Sunrise | https:/ | Fort La | https:/ | 2,383,9 | 350;    |
+| en.wikip |      | Mills    | /en.wik | ,       | /en.wik | uderdal | /en.wik | 06      | 350     |
+| edia.org |      |          | ipedia. | Florida | ipedia. | e       | ipedia. | square  |         |
+| /wiki/Li |      |          | org/wik |         | org/wik |         | org/wik | feet (2 |         |
+| st_of_la |      |          | i/Sawgr |         | i/Sunri |         | i/Fort_ | 21,472. |         |
+| rgest_sh |      |          | ass_Mil |         | se,_Flo |         | Lauderd | 1 m     |         |
+| opping_m |      |          | ls      |         | rida    |         | ale     |         |         |
+| alls_in_ |      |          |         |         |         |         |         |         |         |
+| the_Unit |      |          |         |         |         |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 12   | Woodfiel | https:/ | Schaumb | https:/ | Chicago | https:/ | 2,224,0 | 300;    |
+| en.wikip |      | d Mall   | /en.wik | urg, Il | /en.wik |         | /en.wik | 00      | 300     |
+| edia.org |      |          | ipedia. | linois  | ipedia. |         | ipedia. | square  |         |
+| /wiki/Li |      |          | org/wik |         | org/wik |         | org/wik | feet (2 |         |
+| st_of_la |      |          | i/Woodf |         | i/Schau |         | i/Chica | 06,600  |         |
+| rgest_sh |      |          | ield_Ma |         | mburg,_ |         | go      | m       |         |
+| opping_m |      |          | ll      |         | Illinoi |         |         |         |         |
+| alls_in_ |      |          |         |         | s       |         |         |         |         |
+| the_Unit |      |          |         |         |         |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 13   | Palisade | https:/ | West    | https:/ | New     | https:/ | 2,217,3 | 400;    |
+| en.wikip |      | s Center | /en.wik | Nyack,  | /en.wik | York    | /en.wik | 22      | 400     |
+| edia.org |      |          | ipedia. | New     | ipedia. | City    | ipedia. | square  |         |
+| /wiki/Li |      |          | org/wik | York    | org/wik |         | org/wik | feet (2 |         |
+| st_of_la |      |          | i/Palis |         | i/West_ |         | i/New_Y | 05,996. |         |
+| rgest_sh |      |          | ades_Ce |         | Nyack,_ |         | ork_met | 0 m     |         |
+| opping_m |      |          | nter    |         | New_Yor |         | ropolit |         |         |
+| alls_in_ |      |          |         |         | k       |         | an_area |         |         |
+| the_Unit |      |          |         |         |         |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 14   | Millcree | https:/ | Erie, P | https:/ | Erie    | https:/ | 2,200,0 | 175;    |
+| en.wikip |      | k Mall   | /en.wik | ennsylv | /en.wik | County  | /en.wik | 00      | 175     |
+| edia.org |      |          | ipedia. | ania    | ipedia. |         | ipedia. | square  |         |
+| /wiki/Li |      |          | org/wik |         | org/wik |         | org/wik | feet (2 |         |
+| st_of_la |      |          | i/Millc |         | i/Erie, |         | i/Erie_ | 00,000  |         |
+| rgest_sh |      |          | reek_Ma |         | _Pennsy |         | County, | m       |         |
+| opping_m |      |          | ll      |         | lvania  |         | _Pennsy |         |         |
+| alls_in_ |      |          |         |         |         |         | lvania  |         |         |
+| the_Unit |      |          |         |         |         |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 15   | Plaza    | https:/ | San     | https:/ | San     | https:/ | 2,173,0 | 300+;   |
+| en.wikip |      | Las      | /en.wik | Juan,   | /en.wik | Juan    | /en.wik | 00      | 300+    |
+| edia.org |      | Américas | ipedia. | Puerto  | ipedia. |         | ipedia. | square  |         |
+| /wiki/Li |      |          | org/wik | Rico    | org/wik |         | org/wik | feet (2 |         |
+| st_of_la |      |          | i/Plaza |         | i/San_J |         | i/San_J | 01,900  |         |
+| rgest_sh |      |          | _Las_Am |         | uan,_Pu |         | uan,_Pu | m       |         |
+| opping_m |      |          | %C3%A9r |         | erto_Ri |         | erto_Ri |         |         |
+| alls_in_ |      |          | icas    |         | co      |         | co      |         |         |
+| the_Unit |      |          |         |         |         |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 16   | South    | https:/ | Braintr | https:/ | Boston  | https:/ | 2,165,0 | 225;    |
+| en.wikip |      | Shore    | /en.wik | ee, Mas | /en.wik |         | /en.wik | 00      | 225     |
+| edia.org |      | Plaza    | ipedia. | sachuse | ipedia. |         | ipedia. | square  |         |
+| /wiki/Li |      |          | org/wik | tts     | org/wik |         | org/wik | feet (2 |         |
+| st_of_la |      |          | i/South |         | i/Brain |         | i/Bosto | 01,100  |         |
+| rgest_sh |      |          | _Shore_ |         | tree,_M |         | n       | m       |         |
+| opping_m |      |          | Plaza   |         | assachu |         |         |         |         |
+| alls_in_ |      |          |         |         | setts   |         |         |         |         |
+| the_Unit |      |          |         |         |         |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 17   | Westfiel | https:/ | Paramus | https:/ | New     | https:/ | 2,132,1 | 346;    |
+| en.wikip |      | d Garden | /en.wik | , New   | /en.wik | York    | /en.wik | 12      | 346     |
+| edia.org |      | State    | ipedia. | Jersey  | ipedia. | City    | ipedia. | square  |         |
+| /wiki/Li |      | Plaza    | org/wik |         | org/wik |         | org/wik | feet (1 |         |
+| st_of_la |      |          | i/Westf |         | i/Param |         | i/New_Y | 98,079. |         |
+| rgest_sh |      |          | ield_Ga |         | us,_New |         | ork_met | 7 m     |         |
+| opping_m |      |          | rden_St |         | _Jersey |         | ropolit |         |         |
+| alls_in_ |      |          | ate_Pla |         |         |         | an_area |         |         |
+| the_Unit |      |          | za      |         |         |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 18   | Lakewood | https:/ | Lakewoo | https:/ | Los     | https:/ | 2,092,7 | 255;    |
+| en.wikip |      | Center   | /en.wik | d, Cali | /en.wik | Angeles | /en.wik | 10      | 255     |
+| edia.org |      |          | ipedia. | fornia  | ipedia. |         | ipedia. | square  |         |
+| /wiki/Li |      |          | org/wik |         | org/wik |         | org/wik | feet (1 |         |
+| st_of_la |      |          | i/Lakew |         | i/Lakew |         | i/Los_A | 94,419  |         |
+| rgest_sh |      |          | ood_Cen |         | ood,_Ca |         | ngeles  | m       |         |
+| opping_m |      |          | ter     |         | liforni |         |         |         |         |
+| alls_in_ |      |          |         |         | a       |         |         |         |         |
+| the_Unit |      |          |         |         |         |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 19   | Scottsda | https:/ | Scottsd | https:/ | Phoenix | https:/ | 2,049,1 | 250+;   |
+| en.wikip |      | le       | /en.wik | ale,    | /en.wik |         | /en.wik | 69      | 250+    |
+| edia.org |      | Fashion  | ipedia. | Arizona | ipedia. |         | ipedia. | square  |         |
+| /wiki/Li |      | Square   | org/wik |         | org/wik |         | org/wik | feet (1 |         |
+| st_of_la |      |          | i/Scott |         | i/Scott |         | i/Phoen | 90,374. |         |
+| rgest_sh |      |          | sdale_F |         | sdale,_ |         | ix,_Ari | 0 m     |         |
+| opping_m |      |          | ashion_ |         | Arizona |         | zona    |         |         |
+| alls_in_ |      |          | Square  |         |         |         |         |         |         |
+| the_Unit |      |          |         |         |         |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+
+| https:// | 20   | Oakbrook | https:/ | Oak     | https:/ | Chicago | https:/ | 2,018,0 | 175;    |
+| en.wikip |      | Center   | /en.wik | Brook,  | /en.wik |         | /en.wik | 00      | 175     |
+| edia.org |      |          | ipedia. | Illinoi | ipedia. |         | ipedia. | square  |         |
+| /wiki/Li |      |          | org/wik | s       | org/wik |         | org/wik | feet (1 |         |
+| st_of_la |      |          | i/Oakbr |         | i/Oak_B |         | i/Chica | 87,500  |         |
+| rgest_sh |      |          | ook_Cen |         | rook,_I |         | go      | m       |         |
+| opping_m |      |          | ter     |         | llinois |         |         |         |         |
+| alls_in_ |      |          |         |         |         |         |         |         |         |
+| the_Unit |      |          |         |         |         |         |         |         |         |
+| ed_State |      |          |         |         |         |         |         |         |         |
+| s        |      |          |         |         |         |         |         |         |         |
++----------+------+----------+---------+---------+---------+---------+---------+---------+---------+

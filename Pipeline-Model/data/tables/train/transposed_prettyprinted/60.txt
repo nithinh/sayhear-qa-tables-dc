@@ -1,0 +1,10 @@
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| genre    | begins   | ends     | venue    | location | country  | previous | organize | filing s |
+|          |          |          |          | (s)      |          | event    | d by     | tatus    |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| video    | june 12, | june 14, | los      | los      | united   | electron | entertai | non-     |
+| games    | 2018     | 2018     | angeles  | angeles  | states   | ic enter | nment    | profit   |
+|          |          |          | conventi | , califo |          | tainment | software |          |
+|          |          |          | on       | rnia     |          | expo     | associat |          |
+|          |          |          | center   |          |          | 2017     | ion      |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+

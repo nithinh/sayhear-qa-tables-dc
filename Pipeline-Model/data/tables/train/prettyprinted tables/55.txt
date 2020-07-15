@@ -1,0 +1,67 @@
++----------------------------------------+----------------+----------------------------------------+
+| url                                    | Key            | Value                                  |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/The_Note |                | Theatrical release poster              |
+| book                                   |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/The_Note | Directed by    | Nick Cassavetes; Nick Cassavetes       |
+| book                                   |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/The_Note | Produced by    | Lynn Harris                            |
+| book                                   |                |  Mark Johnson                          |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/The_Note | Screenplay by  | Jeremy Leven; Jeremy Leven             |
+| book                                   |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/The_Note | Story by       | Jan Sardi (adaptation)                 |
+| book                                   |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/The_Note | Based on       | The Notebook                           |
+| book                                   |                |  by Nicholas Sparks                    |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/The_Note | Starring       | Ryan Gosling                           |
+| book                                   |                |  Rachel McAdams                        |
+|                                        |                |  James Garner                          |
+|                                        |                |  Gena Rowlands                         |
+|                                        |                |  Sam Shepard                           |
+|                                        |                |  James Marsden                         |
+|                                        |                |  Joan Allen                            |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/The_Note | Narrated by    | James Garner                           |
+| book                                   |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/The_Note | Music by       | Aaron Zigman                           |
+| book                                   |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/The_Note | Cinematography | Robert Fraisse                         |
+| book                                   |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/The_Note | Edited by      | Alan Heim                              |
+| book                                   |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/The_Note | Production     | Avery Pix                              |
+| book                                   |  company       |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/The_Note | Distributed by | New Line Cinema                        |
+| book                                   |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/The_Note | Release date   | May 20, 2004 (2004-05-20) (SIFF)       |
+| book                                   |                |                                        |
+|                                        |                | June 25, 2004 (2004-06-25) (United     |
+|                                        |                | States)                                |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/The_Note | Running time   | 124 minutes[1]                         |
+| book                                   |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/The_Note | Country        | United States                          |
+| book                                   |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/The_Note | Language       | English                                |
+| book                                   |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/The_Note | Budget         | $29 million[2]                         |
+| book                                   |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/The_Note | Box office     | $115.6 million[2]                      |
+| book                                   |                |                                        |
++----------------------------------------+----------------+----------------------------------------+

@@ -1,0 +1,10 @@
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| Genre    | Begins   | Ends     | Venue    | Location | Country  | Previous | Organize | Filing   |
+|          |          |          |          | (s)      |          | event    | d by     | status   |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| Video    | June 12, | June 14, | Los      | Los      | United   | Electron | Entertai | Non-     |
+| games    | 2018     | 2018     | Angeles  | Angeles, | States   | ic Enter | nment    | profit   |
+|          |          |          | Conventi | Californ |          | tainment | Software |          |
+|          |          |          | on       | ia       |          | Expo     | Associat |          |
+|          |          |          | Center   |          |          | 2017     | ion      |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+

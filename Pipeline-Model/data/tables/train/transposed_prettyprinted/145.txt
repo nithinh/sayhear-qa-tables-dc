@@ -1,0 +1,111 @@
++-------------------------------+-------------+---------------------+------------------------------+
+| url                           | Date        | Market              | Building                     |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | May 8       | Glendale, AZ        | University of Phoenix        |
+| sports/nfl/dallas-            |             |                     | Stadium                      |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | May 12      | Santa Clara, CA     | Levi’s Stadium               |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | May 19      | Pasadena, CA        | Rose Bowl                    |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | May 22      | Seattle, WA         | CenturyLink Field            |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | May 25      | Denver, CO          | Sports Authority Field At    |
+| sports/nfl/dallas-            |             |                     | Mile High                    |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | June 2      | Chicago, IL         | Soldier Field                |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | June 30     | Louisville, KY      | Papa John’s Cardinal Stadium |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | July 7      | Columbus, OH        | Ohio Stadium                 |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | July 10     | Washington, DC      | FedEx Field                  |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | July 14     | Philadelphia, PA    | Lincoln Financial Field      |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | July 17     | Cleveland, OH       | First Energy Stadium         |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | July 21     | East Rutherford, NJ | MetLife Stadium              |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | July 28     | Foxborough, MA      | Gillette Stadium             |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | August 4    | Toronto, ON         | Rogers Centre                |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | August 7    | Pittsburgh, PA      | Heinz Field                  |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | August 11   | Atlanta, GA         | Mercedes-Benz Stadium        |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | August 14   | Tampa, FL           | Raymond James Stadium        |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | August 18   | Miami, FL           | Hard Rock Stadium            |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | August 25   | Nashville, TN       | Nissan Stadium               |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | August 28   | Detroit, MI         | Ford Field                   |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | September 1 | Minneapolis, MN     | U.S. Bank Stadium            |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | September 8 | Kansas City, MO     | Arrowhead Stadium            |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | Sept. 15    | Indianapolis, IN    | Lucas Oil Stadium            |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | Sept. 18    | St. Louis, MO       | The Dome at America’s Center |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | Sept. 22    | New Orleans, LA     | Mercedes-Benz Superdome      |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | Sept. 29    | Houston, TX         | NRG Stadium                  |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+
+| http://www.star-telegram.com/ | October 6   | Arlington, TX       | AT&T Stadium                 |
+| sports/nfl/dallas-            |             |                     |                              |
+| cowboys/article184314943.html |             |                     |                              |
++-------------------------------+-------------+---------------------+------------------------------+

@@ -1,0 +1,25 @@
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| Born     | Citizens | Occupati | Years    | Spouse(s | Partner( | Children | Parent(s | Relative |
+|          | hip      | on       | active   | )        | s)       |          | )        | s        |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| Jane     | American | Actress, | 1960–pre | Roger    | Richard  | 3, inclu | Henry    | Peter    |
+| Seymour  |          | writer,  | sent     | Vadim    | Perry (2 | ding:    | Fonda    | Fonda (b |
+| Fonda    |          | activist |          |  (m.     | 009–2017 |  Troy    |  Frances | rother)  |
+|  (1937-1 |          |          |          | 1965;    | )        | Garity   | Ford     |  Bridget |
+| 2-21)    |          |          |          | div.     |          |  Mary    | Seymour  | Fonda    |
+| December |          |          |          | 1973)    |          | Luana    |          | (niece)  |
+| 21, 1937 |          |          |          |          |          | Williams |          |          |
+| (age 80) |          |          |          | Tom      |          | (unoffic |          |          |
+|  New     |          |          |          | Hayden   |          | ial adop |          |          |
+| York     |          |          |          |  (m.     |          | tion)    |          |          |
+| City,    |          |          |          | 1973;    |          |          |          |          |
+| New      |          |          |          | div.     |          |          |          |          |
+| York,    |          |          |          | 1990)    |          |          |          |          |
+| U.S.     |          |          |          |          |          |          |          |          |
+|          |          |          |          | Ted      |          |          |          |          |
+|          |          |          |          | Turner   |          |          |          |          |
+|          |          |          |          |  (m.     |          |          |          |          |
+|          |          |          |          | 1991;    |          |          |          |          |
+|          |          |          |          | div.     |          |          |          |          |
+|          |          |          |          | 2001)    |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+

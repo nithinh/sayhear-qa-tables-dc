@@ -1,0 +1,262 @@
++---------------------------+---------------+---------------------------+--------------------------+
+| url                       | Key           | Key_link                  | Value                    |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Technology    | https://www.gsmarena.com/ | GSM / HSPA / LTE         |
+| samsung_galaxy_note8-8505 |               | network-bands.php3        |                          |
+| .php                      |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | 2G bands      | https://www.gsmarena.com/ |                          |
+| samsung_galaxy_note8-8505 |               | network-bands.php3        |                          |
+| .php                      |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | 3G bands      | https://www.gsmarena.com/ |                          |
+| samsung_galaxy_note8-8505 |               | network-bands.php3        |                          |
+| .php                      |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | 4G bands      | https://www.gsmarena.com/ |                          |
+| samsung_galaxy_note8-8505 |               | network-bands.php3        |                          |
+| .php                      |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Speed         | https://www.gsmarena.com/ |                          |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=3g     |                          |
+| .php                      |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | GPRS          | https://www.gsmarena.com/ |                          |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=gprs   |                          |
+| .php                      |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | EDGE          | https://www.gsmarena.com/ |                          |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=edge   |                          |
+| .php                      |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Announced     | https://www.gsmarena.com/ | 2017, August             |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=phone- |                          |
+| .php                      |               | life-cycle                |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Status        | https://www.gsmarena.com/ | Available. Released      |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=phone- | 2017, September          |
+| .php                      |               | life-cycle                |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Dimensions    |                           | 162.5 x 74.8 x 8.6 mm    |
+| samsung_galaxy_note8-8505 |               |                           | (6.40 x 2.94 x 0.34 in)  |
+| .php                      |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Weight        |                           | 195 g (6.88 oz)          |
+| samsung_galaxy_note8-8505 |               |                           |                          |
+| .php                      |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Build         | https://www.gsmarena.com/ | Front/back glass         |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=build  | (Gorilla Glass 5),       |
+| .php                      |               |                           | aluminum frame           |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | SIM           | https://www.gsmarena.com/ | Single SIM (Nano-SIM) or |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=sim    | Hybrid Dual SIM (Nano-   |
+| .php                      |               |                           | SIM, dual stand-by)      |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ |               |                           | - Samsung Pay (Visa,     |
+| samsung_galaxy_note8-8505 |               |                           | MasterCard certified)    |
+| .php                      |               |                           |  - IP68 certified -      |
+|                           |               |                           | dust/water proof (up to  |
+|                           |               |                           | 1.5m for 30 mins)        |
+|                           |               |                           |  - Stylus                |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Type          | https://www.gsmarena.com/ | Super AMOLED capacitive  |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=displa | touchscreen, 16M colors  |
+| .php                      |               | y-type                    |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Size          |                           | 6.3 inches, 101.1 cm2    |
+| samsung_galaxy_note8-8505 |               |                           | (~83.2% screen-to-body   |
+| .php                      |               |                           | ratio)                   |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Resolution    | https://www.gsmarena.com/ | 1440 x 2960 pixels,      |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=resolu | 18.5:9 ratio (~521 ppi   |
+| .php                      |               | tion                      | density)                 |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Multitouch    | https://www.gsmarena.com/ | Yes                      |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=multit |                          |
+| .php                      |               | ouch                      |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Protection    | https://www.gsmarena.com/ | Corning Gorilla Glass 5  |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=screen |                          |
+| .php                      |               | -protection               |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ |               |                           | - HDR10 compliant        |
+| samsung_galaxy_note8-8505 |               |                           |  - 3D Touch (home button |
+| .php                      |               |                           | only)                    |
+|                           |               |                           |  - Always-on display     |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | OS            | https://www.gsmarena.com/ | Android 7.1.1 (Nougat),  |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=os     | upgradable to Android    |
+| .php                      |               |                           | 8.0 (Oreo)               |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Chipset       | https://www.gsmarena.com/ | Exynos 8895 Octa - EMEA  |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=chipse | Qualcomm MSM8998         |
+| .php                      |               | t                         | Snapdragon 835 - USA &   |
+|                           |               |                           | China                    |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | CPU           | https://www.gsmarena.com/ | Octa-core (4x2.3 GHz     |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=cpu    | Mongoose M2 & 4x1.7 GHz  |
+| .php                      |               |                           | Cortex-A53) - EMEA       |
+|                           |               |                           | Octa-core (4x2.35 GHz    |
+|                           |               |                           | Kryo & 4x1.9 GHz Kryo) - |
+|                           |               |                           | USA & China              |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | GPU           | https://www.gsmarena.com/ | Mali-G71 MP20 - EMEA     |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=gpu    | Adreno 540 - USA & China |
+| .php                      |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Card slot     | https://www.gsmarena.com/ | microSD, up to 400 GB    |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=memory | (uses SIM 2 slot) - dual |
+| .php                      |               | -card-slot                | SIM model only           |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Internal      | https://www.gsmarena.com/ | 64/128/256 GB, 6 GB RAM  |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=dynami |                          |
+| .php                      |               | c-memory                  |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Primary       | https://www.gsmarena.com/ | Dual: 12 MP (f/1.7,      |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=camera | 26mm, 1/2.5", 1.4µm,     |
+| .php                      |               |                           | Dual Pixel PDAF) + 12MP  |
+|                           |               |                           | (f/2.4, 52mm, 1/3.6",    |
+|                           |               |                           | 1µm, AF), OIS, phase     |
+|                           |               |                           | detection autofocus, 2x  |
+|                           |               |                           | optical zoom, LED flash, |
+|                           |               |                           | check quality            |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Features      | https://www.gsmarena.com/ | Geo-tagging,             |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=camera | simultaneous 4K video    |
+| .php                      |               |                           | and 9MP image recording, |
+|                           |               |                           | touch focus, face/smile  |
+|                           |               |                           | detection, Auto HDR,     |
+|                           |               |                           | panorama                 |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Video         | https://www.gsmarena.com/ | 2160p@30fps,             |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=camera | 1080p@60fps,             |
+| .php                      |               |                           | 720p@240fps, HDR, dual-  |
+|                           |               |                           | video rec., check        |
+|                           |               |                           | quality                  |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Secondary     | https://www.gsmarena.com/ | 8 MP (f/1.7, 25mm,       |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=video- | 1/3.6", 1.22µm),         |
+| .php                      |               | call                      | autofocus, 1440p@30fps,  |
+|                           |               |                           | dual video call, Auto    |
+|                           |               |                           | HDR                      |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Alert types   | https://www.gsmarena.com/ | Vibration; MP3, WAV      |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=call-  | ringtones                |
+| .php                      |               | alerts                    |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Loudspeaker   | https://www.gsmarena.com/ | Yes                      |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=loudsp |                          |
+| .php                      |               | eaker                     |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | 3.5mm jack    | https://www.gsmarena.com/ | Yes                      |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=audio- |                          |
+| .php                      |               | jack                      |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ |               |                           | - 32-bit/384kHz audio    |
+| samsung_galaxy_note8-8505 |               |                           |  - Active noise          |
+| .php                      |               |                           | cancellation with        |
+|                           |               |                           | dedicated mic            |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | WLAN          | https://www.gsmarena.com/ | Wi-Fi 802.11 a/b/g/n/ac, |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=wi-fi  | dual-band, Wi-Fi Direct, |
+| .php                      |               |                           | hotspot                  |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Bluetooth     | https://www.gsmarena.com/ | 5.0, A2DP, LE, aptX      |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=blueto |                          |
+| .php                      |               | oth                       |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | GPS           | https://www.gsmarena.com/ | Yes, with A-GPS,         |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=gps    | GLONASS, BDS, GALILEO    |
+| .php                      |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | NFC           | https://www.gsmarena.com/ | Yes                      |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=nfc    |                          |
+| .php                      |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Radio         | https://www.gsmarena.com/ | No                       |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=fm-    |                          |
+| .php                      |               | radio                     |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | USB           | https://www.gsmarena.com/ | 3.1, Type-C 1.0          |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=usb    | reversible connector     |
+| .php                      |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Sensors       | https://www.gsmarena.com/ | Iris scanner,            |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=sensor | fingerprint (rear-       |
+| .php                      |               | s                         | mounted), accelerometer, |
+|                           |               |                           | gyro, proximity,         |
+|                           |               |                           | compass, barometer,      |
+|                           |               |                           | heart rate, SpO2         |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Messaging     | https://www.gsmarena.com/ | SMS(threaded view), MMS, |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=messag | Email, Push Email, IM    |
+| .php                      |               | ing                       |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Browser       | https://www.gsmarena.com/ | HTML5                    |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=browse |                          |
+| .php                      |               | r                         |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ |               |                           | - Samsung DeX (desktop   |
+| samsung_galaxy_note8-8505 |               |                           | experience support)      |
+| .php                      |               |                           |  - Fast battery charging |
+|                           |               |                           | (Quick Charge 2.0)       |
+|                           |               |                           |  - Qi/PMA wireless       |
+|                           |               |                           | charging (market         |
+|                           |               |                           | dependent)               |
+|                           |               |                           |  - ANT+ support          |
+|                           |               |                           |  - Bixby natural         |
+|                           |               |                           | language commands and    |
+|                           |               |                           | dictation                |
+|                           |               |                           |  - MP4/DivX/XviD/H.265   |
+|                           |               |                           | player                   |
+|                           |               |                           |  - MP3/WAV/eAAC+/FLAC    |
+|                           |               |                           | player                   |
+|                           |               |                           |  - Photo/video editor    |
+|                           |               |                           |  - Document editor       |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ |               |                           | Non-removable Li-Ion     |
+| samsung_galaxy_note8-8505 |               |                           | 3300 mAh battery         |
+| .php                      |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Talk time     | https://www.gsmarena.com/ | Up to 22 h (3G)          |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=talk-  |                          |
+| .php                      |               | time                      |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Music play    | https://www.gsmarena.com/ | Up to 74 h               |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=music- |                          |
+| .php                      |               | playback-time             |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Colors        | https://www.gsmarena.com/ | Midnight Black, Maple    |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=build  | Gold, Orchid Gray, Deep  |
+| .php                      |               |                           | Sea Blue, Star Pink      |
+|                           |               |                           | (Taiwan only)            |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Price         | https://www.gsmarena.com/ | About 750 EUR            |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=price  |                          |
+| .php                      |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Performance   | https://www.gsmarena.com/ | Basemark OS II: 3374 /   |
+| samsung_galaxy_note8-8505 |               | glossary.php3?term=benchm | Basemark OS II 2.0: 3333 |
+| .php                      |               | arking                    | Basemark X: 40890        |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Display       | https://www.gsmarena.com/ | Contrast ratio: Infinite |
+| samsung_galaxy_note8-8505 |               | gsmarena_lab_tests-       | (nominal),               |
+| .php                      |               | review-751p2.php          | 4.148(sunlight)          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Camera        | https://www.gsmarena.com/ | Photo / Video            |
+| samsung_galaxy_note8-8505 |               | gsmarena_lab_tests-       |                          |
+| .php                      |               | review-751p5.php          |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Loudspeaker   | https://www.gsmarena.com/ | Voice 67dB / Noise 69dB  |
+| samsung_galaxy_note8-8505 |               | gsmarena_lab_tests-       | / Ring 71dB              |
+| .php                      |               | review-751p3.php          |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Audio quality | https://www.gsmarena.com/ | Noise -92.5dB /          |
+| samsung_galaxy_note8-8505 |               | gsmarena_lab_tests-       | Crosstalk -93.2dB        |
+| .php                      |               | review-751p4.php          |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Battery life  | https://www.gsmarena.com/ | Endurance rating 89h     |
+| samsung_galaxy_note8-8505 |               | gsmarena_lab_tests-       |                          |
+| .php                      |               | review-751p6.php          |                          |
++---------------------------+---------------+---------------------------+--------------------------+

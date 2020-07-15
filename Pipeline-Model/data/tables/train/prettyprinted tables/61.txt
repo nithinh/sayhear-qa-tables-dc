@@ -1,0 +1,30 @@
++-----------------------------------------+---------------+----------------------------------------+
+| url                                     | key           | value                                  |
++-----------------------------------------+---------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Valerie_P | Born          | Valerie Elise Plame; August 13, 1963;  |
+| lame                                    |               | (age 54); Anchorage, Alaska; , U.S.    |
++-----------------------------------------+---------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Valerie_P | Occupation    | Writer,; Spy Novelist; ,; CIA;         |
+| lame                                    |               | officer; (1985–2006)                   |
++-----------------------------------------+---------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Valerie_P | Nationality   | United States                          |
+| lame                                    |               |                                        |
++-----------------------------------------+---------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Valerie_P | Alma mater    | Pennsylvania State University; (B.A.,  |
+| lame                                    |               | Advertising, 1985); College of Europe; |
+|                                         |               | (M.A.); London School of Economics;    |
+|                                         |               | (M.A.)                                 |
++-----------------------------------------+---------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Valerie_P | Genre         | Autobiography; ,; memoir; ,; political |
+| lame                                    |               | criticism                              |
++-----------------------------------------+---------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Valerie_P | Notable works | Fair Game: My Life as a Spy, My        |
+| lame                                    |               | Betrayal by the White House            |
++-----------------------------------------+---------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Valerie_P | Spouse        | Todd Sesler (; m.; 1987;               |
+| lame                                    |               | divorce 1989); Joseph C. Wilson; (;    |
+|                                         |               | m.; 1998)                              |
++-----------------------------------------+---------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Valerie_P | Children      | 2                                      |
+| lame                                    |               |                                        |
++-----------------------------------------+---------------+----------------------------------------+

@@ -1,0 +1,34 @@
++----------------------------------+----------------------------+-------+------+----------+--------+
+| url                              | Generation_Name            | Start | End  | Youngest | Oldest |
++----------------------------------+----------------------------+-------+------+----------+--------+
+| https://www.careerplanner.com/Ca | The Lost Generation -      | 1890  | 1915 | 103      | 128    |
+| reer-Articles/Generations.cfm    |  The Generation of 1914    |       |      |          |        |
++----------------------------------+----------------------------+-------+------+----------+--------+
+| https://www.careerplanner.com/Ca | The Interbellum Generation | 1901  | 1913 | 105      | 117    |
+| reer-Articles/Generations.cfm    |                            |       |      |          |        |
++----------------------------------+----------------------------+-------+------+----------+--------+
+| https://www.careerplanner.com/Ca | The Greatest Generation    | 1910  | 1924 | 94       | 108    |
+| reer-Articles/Generations.cfm    |                            |       |      |          |        |
++----------------------------------+----------------------------+-------+------+----------+--------+
+| https://www.careerplanner.com/Ca | The Silent Generation      | 1925  | 1945 | 73       | 93     |
+| reer-Articles/Generations.cfm    |                            |       |      |          |        |
++----------------------------------+----------------------------+-------+------+----------+--------+
+| https://www.careerplanner.com/Ca | Baby Boomer Generation     | 1946  | 1964 | 54       | 72     |
+| reer-Articles/Generations.cfm    |                            |       |      |          |        |
++----------------------------------+----------------------------+-------+------+----------+--------+
+| https://www.careerplanner.com/Ca | Generation X (Baby Bust)   | 1965  | 1979 | 39       | 53     |
+| reer-Articles/Generations.cfm    |                            |       |      |          |        |
++----------------------------------+----------------------------+-------+------+----------+--------+
+| https://www.careerplanner.com/Ca | Xennials -                 | 1975  | 1985 | 33       | 43     |
+| reer-Articles/Generations.cfm    |                            |       |      |          |        |
++----------------------------------+----------------------------+-------+------+----------+--------+
+| https://www.careerplanner.com/Ca | Generation Y -             | 1980  | 1994 | 24       | 38     |
+| reer-Articles/Generations.cfm    |  The Millennials -         |       |      |          |        |
+|                                  |  Gen Next                  |       |      |          |        |
++----------------------------------+----------------------------+-------+------+----------+--------+
+| https://www.careerplanner.com/Ca | iGen / Gen Z               | 1995  | 2012 | 6        | 23     |
+| reer-Articles/Generations.cfm    |                            |       |      |          |        |
++----------------------------------+----------------------------+-------+------+----------+--------+
+| https://www.careerplanner.com/Ca | Gen Alpha                  | 2013  | 2025 | 1        | 5      |
+| reer-Articles/Generations.cfm    |                            |       |      |          |        |
++----------------------------------+----------------------------+-------+------+----------+--------+

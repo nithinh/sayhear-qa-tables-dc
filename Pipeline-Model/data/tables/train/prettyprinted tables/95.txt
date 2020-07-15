@@ -1,0 +1,313 @@
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| url     | Product | Product | Product | Regular | Product | Product | Cooling | Noise   | NVIDIA |
+|         | _Image  | _Image_ | _Image_ | _Price  | _Name   | _Name_l | _Capaci |         |        |
+|         |         | alt     | link    |         |         | ink     | ty      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Acceler | https:/ | USD     | Acceler | https:/ | 300W    | 0.3     | Titan  |
+| /www.ar | /static | o       | /www.ar | 119.99  | o       | /www.ar |         | Sone    | Xp,    |
+| ctic.ac | .arctic | Hybrid  | ctic.ac |         | Hybrid  | ctic.ac |         |         | Titan  |
+| /us_en/ | .ac/med | III-120 | /us_en/ |         | III-120 | /us_en/ |         |         | X(Pasc |
+| product | ia/cata |         | acceler |         |         | acceler |         |         | al),   |
+| s/cooli | log/pro |         | o-      |         |         | o-      |         |         | GTX 10 |
+| ng/vga. | duct/ca |         | hybrid- |         |         | hybrid- |         |         | 80(Ti) |
+| html    | che/4/s |         | iii-120 |         |         | iii-120 |         |         | , 1070 |
+|         | mall_im |         | .html   |         |         | .html   |         |         | (Ti),  |
+|         | age/300 |         |         |         |         |         |         |         | 1060;  |
+|         | x150/9d |         |         |         |         |         |         |         | ,      |
+|         | f78eab3 |         |         |         |         |         |         |         | Titan  |
+|         | 3525d08 |         |         |         |         |         |         |         | X, 980 |
+|         | d6e5fb8 |         |         |         |         |         |         |         | (Ti),  |
+|         | d27136e |         |         |         |         |         |         |         | 970,   |
+|         | 95/a/c/ |         |         |         |         |         |         |         | 960, T |
+|         | acceler |         |         |         |         |         |         |         | itan(B |
+|         | o_hybri |         |         |         |         |         |         |         | lack), |
+|         | d_iii_1 |         |         |         |         |         |         |         | 780(Ti |
+|         | 20_b00. |         |         |         |         |         |         |         | ),     |
+|         | png     |         |         |         |         |         |         |         | 770,;  |
+|         |         |         |         |         |         |         |         |         | ...    |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Acceler | https:/ | USD     | Acceler | https:/ | 300W    | 0.4     | Titan  |
+| /www.ar | /static | o       | /www.ar | 89.99   | o       | /www.ar |         | Sone @  | Xp,    |
+| ctic.ac | .arctic | Xtreme  | ctic.ac |         | Xtreme  | ctic.ac |         | 2,000   | Titan  |
+| /us_en/ | .ac/med | IV      | /us_en/ |         | IV      | /us_en/ |         | RPM     | X(Pasc |
+| product | ia/cata |         | acceler |         |         | acceler |         |         | al),   |
+| s/cooli | log/pro |         | o-      |         |         | o-      |         |         | GTX 10 |
+| ng/vga. | duct/ca |         | xtreme- |         |         | xtreme- |         |         | 80(Ti) |
+| html    | che/4/s |         | iv.html |         |         | iv.html |         |         | , 1070 |
+|         | mall_im |         |         |         |         |         |         |         | (Ti),  |
+|         | age/300 |         |         |         |         |         |         |         | 1060;  |
+|         | x150/9d |         |         |         |         |         |         |         | ,      |
+|         | f78eab3 |         |         |         |         |         |         |         | Titan  |
+|         | 3525d08 |         |         |         |         |         |         |         | X, 980 |
+|         | d6e5fb8 |         |         |         |         |         |         |         | (Ti),  |
+|         | d27136e |         |         |         |         |         |         |         | 970,   |
+|         | 95/a/c/ |         |         |         |         |         |         |         | Titan  |
+|         | acceler |         |         |         |         |         |         |         | (Black |
+|         | o_xtrem |         |         |         |         |         |         |         | ), 780 |
+|         | e_iv_b0 |         |         |         |         |         |         |         | (Ti),  |
+|         | 0_3.png |         |         |         |         |         |         |         | 770,;  |
+|         |         |         |         |         |         |         |         |         | …      |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Acceler | https:/ | USD     | Acceler | https:/ | 300W    | 0.4     | Titan  |
+| /www.ar | /static | o       | /www.ar | 89.99   | o       | /www.ar |         | Sone @  | Xp,    |
+| ctic.ac | .arctic | Xtreme  | ctic.ac |         | Xtreme  | ctic.ac |         | 2,000   | Titan  |
+| /us_en/ | .ac/med | IV      | /us_en/ |         | IV      | /us_en/ |         | RPM     | X(Pasc |
+| product | ia/cata | 280(X)  | acceler |         | 280(X)  | acceler |         |         | al),   |
+| s/cooli | log/pro |         | o-      |         |         | o-      |         |         | GTX 10 |
+| ng/vga. | duct/ca |         | xtreme- |         |         | xtreme- |         |         | 80(Ti) |
+| html    | che/4/s |         | iv-280- |         |         | iv-280- |         |         | , 1070 |
+|         | mall_im |         | x.html  |         |         | x.html  |         |         | (Ti),  |
+|         | age/300 |         |         |         |         |         |         |         | 1060;  |
+|         | x150/9d |         |         |         |         |         |         |         | ,      |
+|         | f78eab3 |         |         |         |         |         |         |         | Titan  |
+|         | 3525d08 |         |         |         |         |         |         |         | X, 980 |
+|         | d6e5fb8 |         |         |         |         |         |         |         | (Ti),  |
+|         | d27136e |         |         |         |         |         |         |         | 970,   |
+|         | 95/a/c/ |         |         |         |         |         |         |         | Titan  |
+|         | acceler |         |         |         |         |         |         |         | (Black |
+|         | o_xtrem |         |         |         |         |         |         |         | ), 780 |
+|         | e_iv_28 |         |         |         |         |         |         |         | (Ti),  |
+|         | 0x_b00_ |         |         |         |         |         |         |         | 770,   |
+|         | 1.png   |         |         |         |         |         |         |         | 760,;  |
+|         |         |         |         |         |         |         |         |         | ...;   |
+|         |         |         |         |         |         |         |         |         | RX     |
+|         |         |         |         |         |         |         |         |         | 580,   |
+|         |         |         |         |         |         |         |         |         | 570,   |
+|         |         |         |         |         |         |         |         |         | 480,   |
+|         |         |         |         |         |         |         |         |         | 470,   |
+|         |         |         |         |         |         |         |         |         | R9 390 |
+|         |         |         |         |         |         |         |         |         | (X), 3 |
+|         |         |         |         |         |         |         |         |         | 80(X), |
+|         |         |         |         |         |         |         |         |         | 370X,  |
+|         |         |         |         |         |         |         |         |         | 290(X) |
+|         |         |         |         |         |         |         |         |         | , 285, |
+|         |         |         |         |         |         |         |         |         | 280(X) |
+|         |         |         |         |         |         |         |         |         | ,270(X |
+|         |         |         |         |         |         |         |         |         | ), R7  |
+|         |         |         |         |         |         |         |         |         | 370,   |
+|         |         |         |         |         |         |         |         |         | 265,   |
+|         |         |         |         |         |         |         |         |         | HD     |
+|         |         |         |         |         |         |         |         |         | 8970,  |
+|         |         |         |         |         |         |         |         |         | 8950,; |
+|         |         |         |         |         |         |         |         |         | ...    |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Acceler | https:/ | USD     | Acceler | https:/ | 300W    | 0.4     | Titan  |
+| /www.ar | /static | o       | /www.ar | 89.99   | o       | /www.ar |         | Sone @  | Xp,    |
+| ctic.ac | .arctic | Xtreme  | ctic.ac |         | Xtreme  | ctic.ac |         | 2,000   | Titan  |
+| /us_en/ | .ac/med | III     | /us_en/ |         | III     | /us_en/ |         | RPM     | X(Pasc |
+| product | ia/cata |         | acceler |         |         | acceler |         |         | al),   |
+| s/cooli | log/pro |         | o-      |         |         | o-      |         |         | GTX 10 |
+| ng/vga. | duct/ca |         | xtreme- |         |         | xtreme- |         |         | 80(Ti) |
+| html    | che/4/s |         | iii.htm |         |         | iii.htm |         |         | , 1070 |
+|         | mall_im |         | l       |         |         | l       |         |         | (Ti),  |
+|         | age/300 |         |         |         |         |         |         |         | 1060;  |
+|         | x150/9d |         |         |         |         |         |         |         | ,      |
+|         | f78eab3 |         |         |         |         |         |         |         | Titan  |
+|         | 3525d08 |         |         |         |         |         |         |         | X, 980 |
+|         | d6e5fb8 |         |         |         |         |         |         |         | (Ti),  |
+|         | d27136e |         |         |         |         |         |         |         | 970, T |
+|         | 95/a/c/ |         |         |         |         |         |         |         | itan(B |
+|         | acceler |         |         |         |         |         |         |         | lack), |
+|         | o_xtrem |         |         |         |         |         |         |         | 780(Ti |
+|         | e_iii_b |         |         |         |         |         |         |         | ),     |
+|         | 00_2.pn |         |         |         |         |         |         |         | 770, 7 |
+|         | g       |         |         |         |         |         |         |         | 60(Ti) |
+|         |         |         |         |         |         |         |         |         | ,; …   |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Acceler | https:/ | USD     | Acceler | https:/ | 250W    | 0.3     | Titan  |
+| /www.ar | /static | o Twin  | /www.ar | 89.99   | o Twin  | /www.ar |         | Sone @  | Xp,    |
+| ctic.ac | .arctic | Turbo   | ctic.ac |         | Turbo   | ctic.ac |         | 2,000   | Titan  |
+| /us_en/ | .ac/med | III     | /us_en/ |         | III     | /us_en/ |         | RPM     | X(Pasc |
+| product | ia/cata |         | acceler |         |         | acceler |         |         | al),   |
+| s/cooli | log/pro |         | o-twin- |         |         | o-twin- |         |         | GTX 10 |
+| ng/vga. | duct/ca |         | turbo-i |         |         | turbo-i |         |         | 80(Ti) |
+| html    | che/4/s |         | ii.html |         |         | ii.html |         |         | , 1070 |
+|         | mall_im |         |         |         |         |         |         |         | (Ti),  |
+|         | age/300 |         |         |         |         |         |         |         | 1060;  |
+|         | x150/9d |         |         |         |         |         |         |         | , 1050 |
+|         | f78eab3 |         |         |         |         |         |         |         | (Ti),  |
+|         | 3525d08 |         |         |         |         |         |         |         | Titan  |
+|         | d6e5fb8 |         |         |         |         |         |         |         | X, 980 |
+|         | d27136e |         |         |         |         |         |         |         | (Ti),  |
+|         | 95/a/c/ |         |         |         |         |         |         |         | 970,   |
+|         | acceler |         |         |         |         |         |         |         | 960, T |
+|         | o_twin_ |         |         |         |         |         |         |         | itan*( |
+|         | turbo_i |         |         |         |         |         |         |         | Black* |
+|         | ii_b00. |         |         |         |         |         |         |         | ),;    |
+|         | png     |         |         |         |         |         |         |         | ,...   |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Acceler | https:/ | USD     | Acceler | https:/ | 250W    | 0.3     | GTX    |
+| /www.ar | /static | o Twin  | /www.ar | 59.99   | o Twin  | /www.ar |         | Sone @  | 1080,  |
+| ctic.ac | .arctic | Turbo   | ctic.ac |         | Turbo   | ctic.ac |         | 2,000   | 1070   |
+| /us_en/ | .ac/med | II      | /us_en/ |         | II      | /us_en/ |         | RPM     | (Ti),  |
+| product | ia/cata |         | acceler |         |         | acceler |         |         | 1060;  |
+| s/cooli | log/pro |         | o-twin- |         |         | o-twin- |         |         | , 1050 |
+| ng/vga. | duct/ca |         | turbo-  |         |         | turbo-  |         |         | (Ti),9 |
+| html    | che/4/s |         | ii.html |         |         | ii.html |         |         | 80,    |
+|         | mall_im |         |         |         |         |         |         |         | 970,   |
+|         | age/300 |         |         |         |         |         |         |         | 960,   |
+|         | x150/9d |         |         |         |         |         |         |         | 770,   |
+|         | f78eab3 |         |         |         |         |         |         |         | 760, 7 |
+|         | 3525d08 |         |         |         |         |         |         |         | 50(Ti) |
+|         | d6e5fb8 |         |         |         |         |         |         |         | , 680, |
+|         | d27136e |         |         |         |         |         |         |         | 670, 6 |
+|         | 95/a/c/ |         |         |         |         |         |         |         | 60(Ti) |
+|         | acceler |         |         |         |         |         |         |         | , 650( |
+|         | o_twin_ |         |         |         |         |         |         |         | Ti, Ti |
+|         | turbo_i |         |         |         |         |         |         |         | boost) |
+|         | i_b00.p |         |         |         |         |         |         |         | ,      |
+|         | ng      |         |         |         |         |         |         |         | 580,;  |
+|         |         |         |         |         |         |         |         |         | …      |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Acceler | https:/ | USD     | Acceler | https:/ | 400W    | 0.4     | HD     |
+| /www.ar | /static | o Twin  | /www.ar | 99.99   | o Twin  | /www.ar |         | Sone @  | 6990   |
+| ctic.ac | .arctic | Turbo   | ctic.ac |         | Turbo   | ctic.ac |         | 1,500   |        |
+| /us_en/ | .ac/med | 6990    | /us_en/ |         | 6990    | /us_en/ |         | RPM     |        |
+| product | ia/cata |         | acceler |         |         | acceler |         |         |        |
+| s/cooli | log/pro |         | o-twin- |         |         | o-twin- |         |         |        |
+| ng/vga. | duct/ca |         | turbo-6 |         |         | turbo-6 |         |         |        |
+| html    | che/4/s |         | 990.htm |         |         | 990.htm |         |         |        |
+|         | mall_im |         | l       |         |         | l       |         |         |        |
+|         | age/300 |         |         |         |         |         |         |         |        |
+|         | x150/9d |         |         |         |         |         |         |         |        |
+|         | f78eab3 |         |         |         |         |         |         |         |        |
+|         | 3525d08 |         |         |         |         |         |         |         |        |
+|         | d6e5fb8 |         |         |         |         |         |         |         |        |
+|         | d27136e |         |         |         |         |         |         |         |        |
+|         | 95/a/c/ |         |         |         |         |         |         |         |        |
+|         | acceler |         |         |         |         |         |         |         |        |
+|         | o_twint |         |         |         |         |         |         |         |        |
+|         | urbo_69 |         |         |         |         |         |         |         |        |
+|         | 90_b00. |         |         |         |         |         |         |         |        |
+|         | png     |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Acceler | https:/ | USD     | Acceler | https:/ | 400W    | 0.4     | GTX    |
+| /www.ar | /static | o Twin  | /www.ar | 99.99   | o Twin  | /www.ar |         | Sone @  | 690    |
+| ctic.ac | .arctic | Turbo   | ctic.ac |         | Turbo   | ctic.ac |         | 1,500   |        |
+| /us_en/ | .ac/med | 690     | /us_en/ |         | 690     | /us_en/ |         | RPM     |        |
+| product | ia/cata |         | acceler |         |         | acceler |         |         |        |
+| s/cooli | log/pro |         | o-twin- |         |         | o-twin- |         |         |        |
+| ng/vga. | duct/ca |         | turbo-6 |         |         | turbo-6 |         |         |        |
+| html    | che/4/s |         | 90.html |         |         | 90.html |         |         |        |
+|         | mall_im |         |         |         |         |         |         |         |        |
+|         | age/300 |         |         |         |         |         |         |         |        |
+|         | x150/9d |         |         |         |         |         |         |         |        |
+|         | f78eab3 |         |         |         |         |         |         |         |        |
+|         | 3525d08 |         |         |         |         |         |         |         |        |
+|         | d6e5fb8 |         |         |         |         |         |         |         |        |
+|         | d27136e |         |         |         |         |         |         |         |        |
+|         | 95/a/c/ |         |         |         |         |         |         |         |        |
+|         | acceler |         |         |         |         |         |         |         |        |
+|         | o_twin_ |         |         |         |         |         |         |         |        |
+|         | turbo_6 |         |         |         |         |         |         |         |        |
+|         | 90_b00. |         |         |         |         |         |         |         |        |
+|         | png     |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Acceler | https:/ | USD     | Acceler | https:/ | 135W    | 0 Sone  | GTX    |
+| /www.ar | /static | o S3    | /www.ar | 39.99   | o S3    | /www.ar |         |         | 1070** |
+| ctic.ac | .arctic |         | ctic.ac |         |         | ctic.ac |         |         | (Ti**) |
+| /us_en/ | .ac/med |         | /us_en/ |         |         | /us_en/ |         |         | ,      |
+| product | ia/cata |         | acceler |         |         | acceler |         |         | 1060;  |
+| s/cooli | log/pro |         | o-s3.ht |         |         | o-s3.ht |         |         | , 1050 |
+| ng/vga. | duct/ca |         | ml      |         |         | ml      |         |         | (Ti),  |
+| html    | che/4/s |         |         |         |         |         |         |         | 960,   |
+|         | mall_im |         |         |         |         |         |         |         | 760**, |
+|         | age/300 |         |         |         |         |         |         |         | 750(Ti |
+|         | x150/9d |         |         |         |         |         |         |         | ),     |
+|         | f78eab3 |         |         |         |         |         |         |         | 680**, |
+|         | 3525d08 |         |         |         |         |         |         |         | 670**, |
+|         | d6e5fb8 |         |         |         |         |         |         |         | 660(Ti |
+|         | d27136e |         |         |         |         |         |         |         | **), 6 |
+|         | 95/a/c/ |         |         |         |         |         |         |         | 50(Ti* |
+|         | acceler |         |         |         |         |         |         |         | ,Ti bo |
+|         | o_s3_b0 |         |         |         |         |         |         |         | ost**) |
+|         | 0_2.png |         |         |         |         |         |         |         | , 560* |
+|         |         |         |         |         |         |         |         |         | *(Ti** |
+|         |         |         |         |         |         |         |         |         | ,SE**) |
+|         |         |         |         |         |         |         |         |         | ,; ... |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | S3      | https:/ | USD     | S3      | https:/ | 0.25    |         |        |
+| /www.ar | /static | Turbo   | /www.ar | 12.99   | Turbo   | /www.ar | Sone    |         |        |
+| ctic.ac | .arctic | Module  | ctic.ac |         | Module  | ctic.ac |         |         |        |
+| /us_en/ | .ac/med |         | /us_en/ |         |         | /us_en/ |         |         |        |
+| product | ia/cata |         | s3-turb |         |         | s3-turb |         |         |        |
+| s/cooli | log/pro |         | o-modul |         |         | o-modul |         |         |        |
+| ng/vga. | duct/ca |         | e.html  |         |         | e.html  |         |         |        |
+| html    | che/4/s |         |         |         |         |         |         |         |        |
+|         | mall_im |         |         |         |         |         |         |         |        |
+|         | age/300 |         |         |         |         |         |         |         |        |
+|         | x150/9d |         |         |         |         |         |         |         |        |
+|         | f78eab3 |         |         |         |         |         |         |         |        |
+|         | 3525d08 |         |         |         |         |         |         |         |        |
+|         | d6e5fb8 |         |         |         |         |         |         |         |        |
+|         | d27136e |         |         |         |         |         |         |         |        |
+|         | 95/s/3/ |         |         |         |         |         |         |         |        |
+|         | s3_turb |         |         |         |         |         |         |         |        |
+|         | o_modul |         |         |         |         |         |         |         |        |
+|         | e_b00.p |         |         |         |         |         |         |         |        |
+|         | ng      |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Acceler | https:/ | USD     | Acceler | https:/ | 200W    | 0.4     | GTX    |
+| /www.ar | /static | o Mono  | /www.ar | 54.99   | o Mono  | /www.ar |         | Sone @  | 1080,  |
+| ctic.ac | .arctic | PLUS    | ctic.ac |         | PLUS    | ctic.ac |         | 1,500   | 1070   |
+| /us_en/ | .ac/med |         | /us_en/ |         |         | /us_en/ |         | RPM     | (Ti),  |
+| product | ia/cata |         | acceler |         |         | acceler |         |         | 1060;  |
+| s/cooli | log/pro |         | o-mono- |         |         | o-mono- |         |         | , 1050 |
+| ng/vga. | duct/ca |         | plus.ht |         |         | plus.ht |         |         | (Ti),  |
+| html    | che/4/s |         | ml      |         |         | ml      |         |         | 970,   |
+|         | mall_im |         |         |         |         |         |         |         | 960,   |
+|         | age/300 |         |         |         |         |         |         |         | 950,   |
+|         | x150/9d |         |         |         |         |         |         |         | 760, 7 |
+|         | f78eab3 |         |         |         |         |         |         |         | 50(Ti) |
+|         | 3525d08 |         |         |         |         |         |         |         | , 670, |
+|         | d6e5fb8 |         |         |         |         |         |         |         | 660(Ti |
+|         | d27136e |         |         |         |         |         |         |         | ), 650 |
+|         | 95/a/c/ |         |         |         |         |         |         |         | (Ti,   |
+|         | acceler |         |         |         |         |         |         |         | Ti boo |
+|         | o_mono_ |         |         |         |         |         |         |         | st),   |
+|         | plus_b0 |         |         |         |         |         |         |         | 640, 5 |
+|         | 0.png   |         |         |         |         |         |         |         | 60(Ti, |
+|         |         |         |         |         |         |         |         |         | SE),;  |
+|         |         |         |         |         |         |         |         |         | ...    |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Acceler | https:/ | USD     | Acceler | https:/ | 120W    | 0.4     | GTX 10 |
+| /www.ar | /static | o L2    | /www.ar | 21.99   | o L2    | /www.ar |         | Sone @  | 50(Ti) |
+| ctic.ac | .arctic | PLUS    | ctic.ac |         | PLUS    | ctic.ac |         | 2,000   | , 750  |
+| /us_en/ | .ac/med |         | /us_en/ |         |         | /us_en/ |         | RPM     | (Ti),  |
+| product | ia/cata |         | acceler |         |         | acceler |         |         | 650    |
+| s/cooli | log/pro |         | o-l2-pl |         |         | o-l2-pl |         |         | (Ti),  |
+| ng/vga. | duct/ca |         | us.html |         |         | us.html |         |         | GTS    |
+| html    | che/4/s |         |         |         |         |         |         |         | 450,   |
+|         | mall_im |         |         |         |         |         |         |         | 240    |
+|         | age/300 |         |         |         |         |         |         |         | (OEM), |
+|         | x150/9d |         |         |         |         |         |         |         | GT     |
+|         | f78eab3 |         |         |         |         |         |         |         | 740,   |
+|         | 3525d08 |         |         |         |         |         |         |         | 640,   |
+|         | d6e5fb8 |         |         |         |         |         |         |         | 630,   |
+|         | d27136e |         |         |         |         |         |         |         | 440,   |
+|         | 95/a/c/ |         |         |         |         |         |         |         | 340,   |
+|         | acceler |         |         |         |         |         |         |         | 330,   |
+|         | o_l2_pl |         |         |         |         |         |         |         | 320,   |
+|         | us_b00. |         |         |         |         |         |         |         | 240,…  |
+|         | png     |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Turbo   | https:/ | USD     | Turbo   | https:/ |         |         |        |
+| /www.ar | /static | Module  | /www.ar | 9.99    | Module  | /www.ar |         |         |        |
+| ctic.ac | .arctic | V1      | ctic.ac |         | V1      | ctic.ac |         |         |        |
+| /us_en/ | .ac/med |         | /us_en/ |         |         | /us_en/ |         |         |        |
+| product | ia/cata |         | turbo-m |         |         | turbo-m |         |         |        |
+| s/cooli | log/pro |         | odule.h |         |         | odule.h |         |         |        |
+| ng/vga. | duct/ca |         | tml     |         |         | tml     |         |         |        |
+| html    | che/4/s |         |         |         |         |         |         |         |        |
+|         | mall_im |         |         |         |         |         |         |         |        |
+|         | age/300 |         |         |         |         |         |         |         |        |
+|         | x150/9d |         |         |         |         |         |         |         |        |
+|         | f78eab3 |         |         |         |         |         |         |         |        |
+|         | 3525d08 |         |         |         |         |         |         |         |        |
+|         | d6e5fb8 |         |         |         |         |         |         |         |        |
+|         | d27136e |         |         |         |         |         |         |         |        |
+|         | 95/t/u/ |         |         |         |         |         |         |         |        |
+|         | turbo_m |         |         |         |         |         |         |         |        |
+|         | odule_b |         |         |         |         |         |         |         |        |
+|         | 00.png  |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+

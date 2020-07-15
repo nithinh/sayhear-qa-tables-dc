@@ -1,0 +1,153 @@
++-------------------------------------+----------------+----------------+--------------------------+
+| url                                 | State          | Capital        | Nickname                 |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Alabama        | Montgomery     | The Yellowhammer State   |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Alaska         | Juneau         | The Last Frontier        |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Arizona        | Phoenix        | The Grand Canyon State   |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Arkansas       | Little Rock    | The Natural State        |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | California     | Sacramento     | The Golden State         |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Colorado       | Denver         | The Centennial State     |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Connecticut    | Hartford       | The Constitution State   |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Delaware       | Dover          | The First State          |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Florida        | Tallahassee    | The Sunshine State       |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Georgia        | Atlanta        | The Peach State          |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Hawaii         | Honolulu       | The Aloha State          |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Idaho          | Boise          | The Gem State            |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Illinois       | Springfield    | Land of Lincoln          |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Indiana        | Indianapolis   | The Hoosier State        |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Iowa           | Des Moines     | The Hawkeye State        |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Kansas         | Topeka         | The Sunflower State      |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Kentucky       | Frankfort      | The Bluegrass State      |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Louisiana      | Baton Rouge    | The Pelican State        |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Maine          | Augusta        | The Pine Tree State      |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Maryland       | Annapolis      | The Old Line State       |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Massachusetts  | Boston         | The Bay State            |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Michigan       | Lansing        | The Great Lakes State    |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Minnesota      | Saint Paul     | The North Star State     |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Mississippi    | Jackson        | The Magnolia State       |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Missouri       | Jefferson City | The Show Me State        |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Montana        | Helena         | The Treasure State       |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Nebraska       | Lincoln        | The Cornhusker State     |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Nevada         | Carson City    | The Silver State         |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | New Hampshire  | Concord        | The Granite State        |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | New Jersey     | Trenton        | The Garden State         |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | New Mexico     | Santa Fe       | The Land of Enchantment  |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | New York       | Albany         | The Empire State         |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | North Carolina | Raleigh        | The Tar Heel State       |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | North Dakota   | Bismarck       | The Peace Garden State   |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Ohio           | Columbus       | The Buckeye State        |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Oklahoma       | Oklahoma City  | The Sooner State         |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Oregon         | Salem          | The Beaver State         |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Pennsylvania   | Harrisburg     | The Keystone State       |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Rhode Island   | Providence     | The Ocean State          |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | South Carolina | Columbia       | The Palmetto State       |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | South Dakota   | Pierre         | Mount Rushmore State     |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Tennessee      | Nashville      | The Volunteer State      |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Texas          | Austin         | The Lone Star State      |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Utah           | Salt Lake City | The Beehive State        |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Vermont        | Montpelier     | The Green Mountain State |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Virginia       | Richmond       | The Old Dominion State   |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Washington     | Olympia        | The Evergreen State      |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | West Virginia  | Charleston     | The Mountain State       |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Wisconsin      | Madison        | The Badger State         |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+
+| http://www.theus50.com/fastfacts/ca | Wyoming        | Cheyenne       | The Equality State       |
+| pital.php                           |                |                |                          |
++-------------------------------------+----------------+----------------+--------------------------+

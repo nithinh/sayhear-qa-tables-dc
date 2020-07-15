@@ -1,0 +1,308 @@
++---------------------+---------------------+---------------------+--------------------+-----------+
+| url                 | Fruit               | Fruit_link          | Amount             | Calories  |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Apples              | http://www.caloriek | 2 extra small      | 105       |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-apples-with- |                    |           |
+|                     |                     | skin-raw_f-Y2lkPTM3 |                    |           |
+|                     |                     | MDY4JmJpZD0xJmZpZD0 |                    |           |
+|                     |                     | 2Mzg3OCZlaWQ9NTU5Mj |                    |           |
+|                     |                     | U4ODQ4JnBvcz0xJnBhc |                    |           |
+|                     |                     | j0ma2V5PWFwcGxlcw.h |                    |           |
+|                     |                     | tml                 |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Apricots            | http://www.caloriek | 6 whole            | 101       |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-apricots-raw |                    |           |
+|                     |                     | _f-Y2lkPTM3MDY4JmJp |                    |           |
+|                     |                     | ZD0xJmZpZD02Mzg3NCZ |                    |           |
+|                     |                     | laWQ9NTU5MjU5ODQzJn |                    |           |
+|                     |                     | Bvcz0zJnBhcj0ma2V5P |                    |           |
+|                     |                     | UFwcmljb3Rz.html    |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Bananas             | http://www.caloriek | 1 medium           | 105       |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-banana-raw_f |                    |           |
+|                     |                     | -Y2lkPTM3MDY4JmJpZD |                    |           |
+|                     |                     | 0xJmZpZD03MzMyOSZla |                    |           |
+|                     |                     | WQ9NTU5MjYwMTIzJnBv |                    |           |
+|                     |                     | cz0xJnBhcj0ma2V5PUJ |                    |           |
+|                     |                     | hbmFuYXM.html       |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Blackberries        | http://www.livestro | 100 berries (or 1  | 100 (93)  |
+| r.com/fitness/Calor |                     | ng.com/thedailyplat | 1/2 cups)          |           |
+| ies-Fresh-          |                     | e/nutrition-calorie |                    |           |
+| Fruit-8500460       |                     | s/food/generic/blac |                    |           |
+|                     |                     | kberries-2/         |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Blueberries         | http://www.caloriek | 125 berries (or 1  | 97 (103)  |
+| r.com/fitness/Calor |                     | ing.com/foods/calor | 1/4 cup)           |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-blueberries- |                    |           |
+|                     |                     | raw_f-Y2lkPTM3MDY4J |                    |           |
+|                     |                     | mJpZD0xJmZpZD02Mzgy |                    |           |
+|                     |                     | NSZlaWQ9NTU5MjYyNDE |                    |           |
+|                     |                     | 1JnBvcz0xJnBhcj0ma2 |                    |           |
+|                     |                     | V5PUJsdWViZXJyaWVz. |                    |           |
+|                     |                     | html                |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Cantaloupe          | http://www.caloriek | 2 cups, diced      | 106       |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-cantaloupe-  |                    |           |
+|                     |                     | melon-raw_f-Y2lkPTM |                    |           |
+|                     |                     | 3MDY4JmJpZD0xJmZpZD |                    |           |
+|                     |                     | 02Mzc0NCZlaWQ9NTU5M |                    |           |
+|                     |                     | jYzMjAxJnBvcz0xJnBh |                    |           |
+|                     |                     | cj0ma2V5PUNhbnRhbG9 |                    |           |
+|                     |                     | 1cGU.html           |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Cherries            | http://www.caloriek | 20                 | 103       |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-cherries-    |                    |           |
+|                     |                     | sweet-raw_f-Y2lkPTM |                    |           |
+|                     |                     | 3MDY4JmJpZD0xJmZpZD |                    |           |
+|                     |                     | 02MzgwMyZlaWQ9NTU5M |                    |           |
+|                     |                     | jY5ODk3JnBvcz0xJnBh |                    |           |
+|                     |                     | cj0ma2V5PUNoZXJyaWV |                    |           |
+|                     |                     | z.html              |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Clementines         | http://www.caloriek | 3 whole            | 104       |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-clementines- |                    |           |
+|                     |                     | raw_f-Y2lkPTM3MDY4J |                    |           |
+|                     |                     | mJpZD0xJmZpZD03OTE3 |                    |           |
+|                     |                     | MSZlaWQ9NTU5MjcwNDM |                    |           |
+|                     |                     | 4JnBvcz0xJnBhcj0ma2 |                    |           |
+|                     |                     | V5PUNsZW1lbnRpbmVz. |                    |           |
+|                     |                     | html                |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Cranberries, raw    | http://www.caloriek | 2 1/4 cups         | 98        |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-cranberries- |                    |           |
+|                     |                     | raw-edible-portion_ |                    |           |
+|                     |                     | f-Y2lkPTM3MDY4JmJpZ |                    |           |
+|                     |                     | D0xJmZpZD02MzgxMSZl |                    |           |
+|                     |                     | aWQ9NTU5MjcwNzE3JnB |                    |           |
+|                     |                     | vcz0yJnBhcj0ma2V5PU |                    |           |
+|                     |                     | NyYW5iZXJyaWVz.html |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Dates, medjool      | http://www.caloriek | 1 1/2 whole        | 100       |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-dates-       |                    |           |
+|                     |                     | medjool-edible-port |                    |           |
+|                     |                     | ion_f-Y2lkPTM3MDY4J |                    |           |
+|                     |                     | mJpZD0xJmZpZD0xNTgx |                    |           |
+|                     |                     | ODgmZWlkPTU1OTI3MDk |                    |           |
+|                     |                     | 4NiZwb3M9MSZwYXI9Jm |                    |           |
+|                     |                     | tleT1EYXRlcw.html   |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Grapes, red or      | http://www.caloriek | 30                 | 101       |
+| r.com/fitness/Calor | green               | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-grapes-red-  |                    |           |
+|                     |                     | or-green-european-  |                    |           |
+|                     |                     | type-such-as-       |                    |           |
+|                     |                     | thompson-seedless-r |                    |           |
+|                     |                     | aw_f-Y2lkPTM3MDY4Jm |                    |           |
+|                     |                     | JpZD0xJmZpZD02Mzc0O |                    |           |
+|                     |                     | CZlaWQ9NTU5MjcxMjQ5 |                    |           |
+|                     |                     | JnBvcz0xJnBhcj0ma2V |                    |           |
+|                     |                     | 5PUdyYXBlcw.html    |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Grapefruit, pink or | http://www.caloriek | 1 1/4 whole        | 95        |
+| r.com/fitness/Calor | white               | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fruit-       |                    |           |
+| Fruit-8500460       |                     | vegetable-juices-   |                    |           |
+|                     |                     | grapefruit-pink-or- |                    |           |
+|                     |                     | white-fresh_f-Y2lkP |                    |           |
+|                     |                     | TI2Nzg2JmJpZD0xJmZp |                    |           |
+|                     |                     | ZD02OTQ2OCZlaWQ9NTU |                    |           |
+|                     |                     | 5Mjc0NDg5JnBvcz0yJn |                    |           |
+|                     |                     | Bhcj0ma2V5PWdyYXBlZ |                    |           |
+|                     |                     | nJ1aXQ.html         |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Honeydew            | http://www.caloriek | 1 3/4 cups, diced; | 98        |
+| r.com/fitness/Calor |                     | ing.com/foods/calor | about 35 pieces    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-honeydew-    |                    |           |
+|                     |                     | melon-raw_f-Y2lkPTM |                    |           |
+|                     |                     | 3MDY4JmJpZD0xJmZpZD |                    |           |
+|                     |                     | 02Mzc0NiZlaWQ9NTU5M |                    |           |
+|                     |                     | jc0OTg1JnBvcz0xJnBh |                    |           |
+|                     |                     | cj0ma2V5PUhvbmV5ZGV |                    |           |
+|                     |                     | 3.html              |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Kiwi                | http://www.caloriek | 2 whole            | 93        |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-kiwi-fruit-  |                    |           |
+|                     |                     | chinese-            |                    |           |
+|                     |                     | gooseberries-raw-   |                    |           |
+|                     |                     | edible-portion_f-Y2 |                    |           |
+|                     |                     | lkPTM3MDY4JmJpZD0xJ |                    |           |
+|                     |                     | mZpZD02Mzc2MiZlaWQ9 |                    |           |
+|                     |                     | NTU5Mjc1NjgwJnBvcz0 |                    |           |
+|                     |                     | xJnBhcj0ma2V5PUtpd2 |                    |           |
+|                     |                     | k.html              |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Mango               | http://www.caloriek | 1 cup, sliced (or  | 107 (101) |
+| r.com/fitness/Calor |                     | ing.com/foods/calor | 3/4 whole fruit)   |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-mangos-raw_f |                    |           |
+|                     |                     | -Y2lkPTM3MDY4JmJpZD |                    |           |
+|                     |                     | 0xJmZpZD02Mzc0MiZla |                    |           |
+|                     |                     | WQ9NTU5Mjc2NDYwJnBv |                    |           |
+|                     |                     | cz0xJnBhcj0ma2V5PU1 |                    |           |
+|                     |                     | hbmdv.html          |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Nectarine           | http://www.caloriek | 1 1/2 medium       | 94        |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-nectarines-r |                    |           |
+|                     |                     | aw_f-Y2lkPTM3MDY4Jm |                    |           |
+|                     |                     | JpZD0xJmZpZD02MzcxN |                    |           |
+|                     |                     | SZlaWQ9NTU5Mjc3MDQ0 |                    |           |
+|                     |                     | JnBvcz0xJnBhcj0ma2V |                    |           |
+|                     |                     | 5PU5lY3RhcmluZQ.htm |                    |           |
+|                     |                     | l                   |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Orange              | http://www.caloriek | 2 small            | 90        |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-oranges-     |                    |           |
+|                     |                     | average-all-        |                    |           |
+|                     |                     | varieties-raw_f-Y2l |                    |           |
+|                     |                     | kPTM3MDY4JmJpZD0xJm |                    |           |
+|                     |                     | ZpZD02MzcxOSZlaWQ9N |                    |           |
+|                     |                     | TU5Mjc3Mzg3JnBvcz0x |                    |           |
+|                     |                     | JnBhcj0ma2V5PU9yYW5 |                    |           |
+|                     |                     | nZQ.html            |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Papaya              | http://www.caloriek | 2 cups, cubed      | 109       |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-papayas-     |                    |           |
+|                     |                     | edible-portion_f-Y2 |                    |           |
+|                     |                     | lkPTM3MDY4JmJpZD0xJ |                    |           |
+|                     |                     | mZpZD02MzcwMiZlaWQ9 |                    |           |
+|                     |                     | NTU5Mjc4MDM0JnBvcz0 |                    |           |
+|                     |                     | xJnBhcj0ma2V5PVBhcG |                    |           |
+|                     |                     | F5YQ.html           |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Peach               | http://www.caloriek | 2 1/2 medium       | 96        |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-peaches-raw_ |                    |           |
+|                     |                     | f-Y2lkPTM3MDY4JmJpZ |                    |           |
+|                     |                     | D0xJmZpZD02MzcwNyZl |                    |           |
+|                     |                     | aWQ9NTU5Mjc4NDYxJnB |                    |           |
+|                     |                     | vcz0xJnBhcj0ma2V5PV |                    |           |
+|                     |                     | BlYWNo.html         |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Pear                | http://www.caloriek | 1 medium           | 96        |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-pears-       |                    |           |
+|                     |                     | average-all-        |                    |           |
+|                     |                     | varieties-raw-      |                    |           |
+|                     |                     | edible-portion_f-Y2 |                    |           |
+|                     |                     | lkPTM3MDY4JmJpZD0xJ |                    |           |
+|                     |                     | mZpZD02MzY4NiZlaWQ9 |                    |           |
+|                     |                     | NTU5MjkyMjI1JnBvcz0 |                    |           |
+|                     |                     | xJnBhcj0ma2V5PXBlYX |                    |           |
+|                     |                     | I.html              |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Plum                | http://www.caloriek | 3 whole            | 91        |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-plums-raw_f- |                    |           |
+|                     |                     | Y2lkPTM3MDY4JmJpZD0 |                    |           |
+|                     |                     | xJmZpZD02MzYzOCZlaW |                    |           |
+|                     |                     | Q9NTU5MjkyNjgyJnBvc |                    |           |
+|                     |                     | z0xJnBhcj0ma2V5PVBs |                    |           |
+|                     |                     | dW0.html            |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Pluot               | http://www.caloriek | 2 1/2 medium       | 100       |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-pluot-plum-a |                    |           |
+|                     |                     | pricot_f-Y2lkPTM3MD |                    |           |
+|                     |                     | Y4JmJpZD0xJmZpZD04O |                    |           |
+|                     |                     | TE5NiZlaWQ9NTU5MjU5 |                    |           |
+|                     |                     | MDg5JnBvcz0xJnBhcj0 |                    |           |
+|                     |                     | ma2V5PUFwcmljb3Rz.h |                    |           |
+|                     |                     | tml                 |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Pineapple           | http://www.caloriek | 1 1/4 cups, chunks | 103       |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-pineapple-ra |                    |           |
+|                     |                     | w_f-Y2lkPTM3MDY4JmJ |                    |           |
+|                     |                     | pZD0xJmZpZD02MzY2My |                    |           |
+|                     |                     | ZlaWQ9NTU5MjkzMDkwJ |                    |           |
+|                     |                     | nBvcz0xJnBhcj0ma2V5 |                    |           |
+|                     |                     | PVBpbmVhcHBsZQ.html |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Pomegranate         | http://www.caloriek | 1/2 whole          | 117       |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-             |                    |           |
+|                     |                     | pomegranates-raw_f- |                    |           |
+|                     |                     | Y2lkPTM3MDY4JmJpZD0 |                    |           |
+|                     |                     | xJmZpZD02MzY0NCZlaW |                    |           |
+|                     |                     | Q9NTU5MjkzNjEwJnBvc |                    |           |
+|                     |                     | z0xJnBhcj0ma2V5PVBv |                    |           |
+|                     |                     | bWVncmFuYXRl.html   |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Raspberries         | http://www.caloriek | 100 berries (or 1  | 99 (96)   |
+| r.com/fitness/Calor |                     | ing.com/foods/calor | 1/2 cups)          |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-raspberries- |                    |           |
+|                     |                     | raw_f-Y2lkPTM3MDY4J |                    |           |
+|                     |                     | mJpZD0xJmZpZD02MzYw |                    |           |
+|                     |                     | MyZlaWQ9NTU5Mjk2NjA |                    |           |
+|                     |                     | 5JnBvcz0xJnBhcj0ma2 |                    |           |
+|                     |                     | V5PVJhc3BiZXJyaWVz. |                    |           |
+|                     |                     | html                |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Strawberries        | http://www.caloriek | 25 medium          | 96        |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-             |                    |           |
+|                     |                     | strawberries-raw_f- |                    |           |
+|                     |                     | Y2lkPTM3MDY4JmJpZD0 |                    |           |
+|                     |                     | xJmZpZD02MzYzMiZlaW |                    |           |
+|                     |                     | Q9NTU5Mjk0NzMzJnBvc |                    |           |
+|                     |                     | z0xJnBhcj0ma2V5PVN0 |                    |           |
+|                     |                     | cmF3YmVycmllcw.html |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Tangerine           | http://www.caloriek | 2 medium           | 100       |
+| r.com/fitness/Calor |                     | ing.com/foods/calor |                    |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-tangerines-  |                    |           |
+|                     |                     | mandarin-oranges-ra |                    |           |
+|                     |                     | w_f-Y2lkPTM3MDY4JmJ |                    |           |
+|                     |                     | pZD0xJmZpZD02MzY5NS |                    |           |
+|                     |                     | ZlaWQ9NTU5Mjk1MTM3J |                    |           |
+|                     |                     | nBvcz0xJnBhcj0ma2V5 |                    |           |
+|                     |                     | PVRhbmdlcmluZQ.html |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+
+| https://www.popsuga | Watermelon          | http://www.caloriek | 30 balls (or 2     | 110 (91)  |
+| r.com/fitness/Calor |                     | ing.com/foods/calor | cups, diced)       |           |
+| ies-Fresh-          |                     | ies-in-fresh-       |                    |           |
+| Fruit-8500460       |                     | fruits-watermelon-r |                    |           |
+|                     |                     | aw_f-Y2lkPTM3MDY4Jm |                    |           |
+|                     |                     | JpZD0xJmZpZD02MzYwN |                    |           |
+|                     |                     | SZlaWQ9NTU5Mjk1NDQ2 |                    |           |
+|                     |                     | JnBvcz0xJnBhcj0ma2V |                    |           |
+|                     |                     | 5PVdhdGVybWVsb24.ht |                    |           |
+|                     |                     | ml                  |                    |           |
++---------------------+---------------------+---------------------+--------------------+-----------+

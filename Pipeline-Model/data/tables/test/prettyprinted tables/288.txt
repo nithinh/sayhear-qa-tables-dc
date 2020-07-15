@@ -1,0 +1,35 @@
++---------------------------------------+---------------------+------------------------------------+
+| url                                   | key                 | value                              |
++---------------------------------------+---------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Nationa | Formed              | 1955                               |
+| l_Institute_of_Allergy_and_Infectious |                     |                                    |
+| _Diseases                             |                     |                                    |
++---------------------------------------+---------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Nationa | Preceding Institute | National Microbiological Institute |
+| l_Institute_of_Allergy_and_Infectious |                     |                                    |
+| _Diseases                             |                     |                                    |
++---------------------------------------+---------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Nationa | Jurisdiction        | United States Government           |
+| l_Institute_of_Allergy_and_Infectious |                     |                                    |
+| _Diseases                             |                     |                                    |
++---------------------------------------+---------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Nationa | Headquarters        | Bethesda, Maryland                 |
+| l_Institute_of_Allergy_and_Infectious |                     |                                    |
+| _Diseases                             |                     |                                    |
++---------------------------------------+---------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Nationa | Institute executive | Anthony S. Fauci; , Director       |
+| l_Institute_of_Allergy_and_Infectious |                     |                                    |
+| _Diseases                             |                     |                                    |
++---------------------------------------+---------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Nationa | Parent department   | Health and Human Services          |
+| l_Institute_of_Allergy_and_Infectious |                     |                                    |
+| _Diseases                             |                     |                                    |
++---------------------------------------+---------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Nationa | Parent Institute    | National Institutes of Health      |
+| l_Institute_of_Allergy_and_Infectious |                     |                                    |
+| _Diseases                             |                     |                                    |
++---------------------------------------+---------------------+------------------------------------+
+| https://en.wikipedia.org/wiki/Nationa | Website             | www.niaid.nih.gov                  |
+| l_Institute_of_Allergy_and_Infectious |                     |                                    |
+| _Diseases                             |                     |                                    |
++---------------------------------------+---------------------+------------------------------------+

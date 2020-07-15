@@ -1,0 +1,771 @@
++-----------------------------+----------------------------+----------------------------+----------+
+| url                         | Key                        | Key_link                   | Value    |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Total alcohol consumption  | https://tradingeconomics.c | 1        |
+| m/iran/fertility-rate-      | per capita (liters of pure | om/iran/total-alcohol-     |          |
+| total-births-per-woman-wb-  | alcohol, projected         | consumption-per-capita-    |          |
+| data.html                   | estimates, 15+ years of    | liters-of-pure-alcohol-    |          |
+|                             | age)                       | projected-                 |          |
+|                             |                            | estimates-15-years-of-age- |          |
+|                             |                            | wb-data.html               |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Prevalence of anemia among | https://tradingeconomics.c | 30.500   |
+| m/iran/fertility-rate-      | women of reproductive age  | om/iran/prevalence-of-     |          |
+| total-births-per-woman-wb-  | (% of women ages 15-49)    | anemia-among-women-of-     |          |
+| data.html                   |                            | reproductive-age-percent-  |          |
+|                             |                            | of-women-ages-15-49-wb-    |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Prevalence of anemia among | https://tradingeconomics.c | 28.200   |
+| m/iran/fertility-rate-      | children (% of children    | om/iran/prevalence-of-     |          |
+| total-births-per-woman-wb-  | under 5)                   | anemia-among-children-     |          |
+| data.html                   |                            | percent-of-children-       |          |
+|                             |                            | under-5-wb-data.html       |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Prevalence of anemia among | https://tradingeconomics.c | 30.300   |
+| m/iran/fertility-rate-      | non-pregnant women (% of   | om/iran/prevalence-of-     |          |
+| total-births-per-woman-wb-  | women ages 15-49)          | anemia-among-non-pregnant- |          |
+| data.html                   |                            | women-percent-of-women-    |          |
+|                             |                            | ages-15-49-wb-data.html    |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co |                            |                            | 3344     |
+| m/iran/fertility-rate-      |                            |                            |          |
+| total-births-per-woman-wb-  |                            |                            |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Cause of death, by         | https://tradingeconomics.c | 8.500    |
+| m/iran/fertility-rate-      | communicable diseases and  | om/iran/cause-of-death-by- |          |
+| total-births-per-woman-wb-  | maternal, prenatal and     | communicable-diseases-and- |          |
+| data.html                   | nutrition conditions (% of | maternal-prenatal-and-     |          |
+|                             | total)                     | nutrition-conditions-      |          |
+|                             |                            | percent-of-total-wb-       |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Number of infant deaths    | https://tradingeconomics.c | 17381    |
+| m/iran/fertility-rate-      |                            | om/iran/number-of-infant-  |          |
+| total-births-per-woman-wb-  |                            | deaths-wb-data.html        |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Cause of death, by injury  | https://tradingeconomics.c | 11       |
+| m/iran/fertility-rate-      | (% of total)               | om/iran/cause-of-death-by- |          |
+| total-births-per-woman-wb-  |                            | injury-percent-of-total-   |          |
+| data.html                   |                            | wb-data.html               |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Number of under-five       | https://tradingeconomics.c | 20278    |
+| m/iran/fertility-rate-      | deaths                     | om/iran/number-of-under-   |          |
+| total-births-per-woman-wb-  |                            | five-deaths-wb-data.html   |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Cause of death, by non-    | https://tradingeconomics.c | 80.500   |
+| m/iran/fertility-rate-      | communicable diseases (%   | om/iran/cause-of-death-by- |          |
+| total-births-per-woman-wb-  | of total)                  | non-communicable-diseases- |          |
+| data.html                   |                            | percent-of-total-wb-       |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Number of neonatal deaths  | https://tradingeconomics.c | 12731    |
+| m/iran/fertility-rate-      |                            | om/iran/number-of-         |          |
+| total-births-per-woman-wb-  |                            | neonatal-deaths-wb-        |          |
+| data.html                   |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co |                            |                            | 2.700    |
+| m/iran/fertility-rate-      |                            |                            |          |
+| total-births-per-woman-wb-  |                            |                            |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Adults (ages 15+) living   | https://tradingeconomics.c | 65000    |
+| m/iran/fertility-rate-      | with HIV                   | om/iran/adults-            |          |
+| total-births-per-woman-wb-  |                            | ages-15-living-with-hiv-   |          |
+| data.html                   |                            | wb-data.html               |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | AIDS estimated deaths      | https://tradingeconomics.c | 4000     |
+| m/iran/fertility-rate-      | (UNAIDS estimates)         | om/iran/aids-estimated-    |          |
+| total-births-per-woman-wb-  |                            | deaths-unaids-estimates-   |          |
+| data.html                   |                            | wb-data.html               |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Female adults with HIV (%  | https://tradingeconomics.c | 23.060   |
+| m/iran/fertility-rate-      | of population ages 15+     | om/iran/female-adults-     |          |
+| total-births-per-woman-wb-  | with HIV)                  | with-hiv-percent-of-       |          |
+| data.html                   |                            | population-ages-15-with-   |          |
+|                             |                            | hiv-wb-data.html           |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Prevalence of HIV, total   | https://tradingeconomics.c | 0.100    |
+| m/iran/fertility-rate-      | (% of population ages      | om/iran/prevalence-of-hiv- |          |
+| total-births-per-woman-wb-  | 15-49)                     | total-percent-of-          |          |
+| data.html                   |                            | population-ages-15-49-wb-  |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Mortality rate, under-5    | https://tradingeconomics.c | 15.100   |
+| m/iran/fertility-rate-      | (per 1,000)                | om/iran/mortality-rate-    |          |
+| total-births-per-woman-wb-  |                            | under-5-per-1-000-wb-      |          |
+| data.html                   |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Mortality rate, under-5,   | https://tradingeconomics.c | 14.500   |
+| m/iran/fertility-rate-      | female (per 1,000 live     | om/iran/mortality-rate-    |          |
+| total-births-per-woman-wb-  | births)                    | under-5-female-            |          |
+| data.html                   |                            | per-1000-live-births-wb-   |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Mortality rate, under-5,   | https://tradingeconomics.c | 15.800   |
+| m/iran/fertility-rate-      | male (per 1,000 live       | om/iran/mortality-rate-    |          |
+| total-births-per-woman-wb-  | births)                    | under-5-male-              |          |
+| data.html                   |                            | per-1000-live-births-wb-   |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Mortality from CVD,        | https://tradingeconomics.c | 15       |
+| m/iran/fertility-rate-      | cancer, diabetes or CRD    | om/iran/mortality-from-    |          |
+| total-births-per-woman-wb-  | between exact ages 30 and  | cvd-cancer-diabetes-or-    |          |
+| data.html                   | 70                         | crd-between-exact-         |          |
+|                             |                            | ages-30-and-70-percent-wb- |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Mortality rate; neonatal   | https://tradingeconomics.c | 9.600    |
+| m/iran/fertility-rate-      | (per 1;000 live births)    | om/iran/mortality-rate-    |          |
+| total-births-per-woman-wb-  |                            | neonatal-per-1-000-live-   |          |
+| data.html                   |                            | births-wb-data.html        |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Demand for family planning | https://tradingeconomics.c | 68.600   |
+| m/iran/fertility-rate-      | satisfied by modern        | om/iran/demand-for-family- |          |
+| total-births-per-woman-wb-  | methods (% of married      | planning-satisfied-by-     |          |
+| data.html                   | women with demand for      | modern-methods-percent-of- |          |
+|                             | family planning)           | married-women-with-demand- |          |
+|                             |                            | for-family-planning-wb-    |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Children (0-14) living     | https://tradingeconomics.c | 1000     |
+| m/iran/fertility-rate-      | with HIV                   | om/iran/children-0-14-livi |          |
+| total-births-per-woman-wb-  |                            | ng-with-hiv-wb-data.html   |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Prevalence of HIV, female  | https://tradingeconomics.c | 0.100    |
+| m/iran/fertility-rate-      | (% ages 15-24)             | om/iran/prevalence-of-hiv- |          |
+| total-births-per-woman-wb-  |                            | female-percent-            |          |
+| data.html                   |                            | ages-15-24-wb-data.html    |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Comprehensive correct      | https://tradingeconomics.c | 19.620   |
+| m/iran/fertility-rate-      | knowledge of HIV/AIDS,     | om/iran/comprehensive-     |          |
+| total-births-per-woman-wb-  | ages 15-24, female (2      | correct-knowledge-of-hiv-  |          |
+| data.html                   | prevent ways and reject 3  | aids-ages-15-24-female-2-p |          |
+|                             | misconceptions)            | revent-ways-and-           |          |
+|                             |                            | reject-3-misconceptions-   |          |
+|                             |                            | wb-data.html               |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Prevalence of HIV, male (% | https://tradingeconomics.c | 0.100    |
+| m/iran/fertility-rate-      | ages 15-24)                | om/iran/prevalence-of-hiv- |          |
+| total-births-per-woman-wb-  |                            | male-percent-              |          |
+| data.html                   |                            | ages-15-24-wb-data.html    |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Antiretroviral therapy     | https://tradingeconomics.c | 14       |
+| m/iran/fertility-rate-      | coverage (% of people with | om/iran/antiretroviral-    |          |
+| total-births-per-woman-wb-  | advanced HIV infection)    | therapy-coverage-percent-  |          |
+| data.html                   |                            | of-people-with-advanced-   |          |
+|                             |                            | hiv-infection-wb-data.html |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Adults (ages 15+) newly    | https://tradingeconomics.c | 4900     |
+| m/iran/fertility-rate-      | infected with HIV          | om/iran/adults-            |          |
+| total-births-per-woman-wb-  |                            | ages-15-newly-infected-    |          |
+| data.html                   |                            | with-hiv-wb-data.html      |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Children (ages 0-14) newly | https://tradingeconomics.c | 100      |
+| m/iran/fertility-rate-      | infected with HIV          | om/iran/children-          |          |
+| total-births-per-woman-wb-  |                            | ages-0-14-newly-infected-  |          |
+| data.html                   |                            | with-hiv-wb-data.html      |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Adults (ages 15+) and      | https://tradingeconomics.c | 5000     |
+| m/iran/fertility-rate-      | children (ages 0-14) newly | om/iran/adults-            |          |
+| total-births-per-woman-wb-  | infected with HIV          | ages-15-and-children-      |          |
+| data.html                   |                            | ages-0-14-newly-infected-  |          |
+|                             |                            | with-hiv-wb-data.html      |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Incidence of HIV (% of     | https://tradingeconomics.c | 0.010    |
+| m/iran/fertility-rate-      | uninfected population ages | om/iran/incidence-of-hiv-  |          |
+| total-births-per-woman-wb-  | 15-49)                     | percent-of-uninfected-     |          |
+| data.html                   |                            | population-ages-15-49-wb-  |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Children orphaned by       | https://tradingeconomics.c | 24000    |
+| m/iran/fertility-rate-      | HIV/AIDS                   | om/iran/children-orphaned- |          |
+| total-births-per-woman-wb-  |                            | by-hiv-aids-wb-data.html   |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Antiretroviral therapy     | https://tradingeconomics.c | 51       |
+| m/iran/fertility-rate-      | coverage for PMTCT (% of   | om/iran/antiretroviral-    |          |
+| total-births-per-woman-wb-  | pregnant women living with | therapy-coverage-for-      |          |
+| data.html                   | HIV)                       | pmtct-percent-of-pregnant- |          |
+|                             |                            | women-living-with-hiv-wb-  |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Adults (ages 15+) and      | https://tradingeconomics.c | 66000    |
+| m/iran/fertility-rate-      | children (0-14 years)      | om/iran/adults-            |          |
+| total-births-per-woman-wb-  | living with HIV            | ages-15-and-               |          |
+| data.html                   |                            | children-0-14-years-       |          |
+|                             |                            | living-with-hiv-wb-        |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Immunization, Hib3 (% of   | https://tradingeconomics.c | 99       |
+| m/iran/fertility-rate-      | children ages 12-23        | om/iran/immunization-      |          |
+| total-births-per-woman-wb-  | months)                    | hib3-percent-of-children-  |          |
+| data.html                   |                            | ages-12-23-months-wb-      |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Immunization, BCG (% of    | https://tradingeconomics.c | 99       |
+| m/iran/fertility-rate-      | one-year-old children)     | om/iran/immunization-bcg-  |          |
+| total-births-per-woman-wb-  |                            | percent-of-one-year-old-   |          |
+| data.html                   |                            | children-wb-data.html      |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Immunization, DPT (% of    | https://tradingeconomics.c | 99       |
+| m/iran/fertility-rate-      | children ages 12-23        | om/iran/immunization-dpt-  |          |
+| total-births-per-woman-wb-  | months)                    | percent-of-children-       |          |
+| data.html                   |                            | ages-12-23-months-wb-      |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Immunization, measles (%   | https://tradingeconomics.c | 99       |
+| m/iran/fertility-rate-      | of children ages 12-23     | om/iran/immunization-      |          |
+| total-births-per-woman-wb-  | months)                    | measles-percent-of-        |          |
+| data.html                   |                            | children-                  |          |
+|                             |                            | ages-12-23-months-wb-      |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Immunization, Pol3 (% of   | https://tradingeconomics.c | 99       |
+| m/iran/fertility-rate-      | one-year-old children)     | om/iran/immunization-      |          |
+| total-births-per-woman-wb-  |                            | pol3-percent-of-one-year-  |          |
+| data.html                   |                            | old-children-wb-data.html  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Hospital beds              | https://tradingeconomics.c | 0.100    |
+| m/iran/fertility-rate-      |                            | om/iran/hospital-beds-     |          |
+| total-births-per-woman-wb-  |                            | per-1-000-people-wb-       |          |
+| data.html                   |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Community health workers   | https://tradingeconomics.c | 0.364    |
+| m/iran/fertility-rate-      |                            | om/iran/community-health-  |          |
+| total-births-per-woman-wb-  |                            | workers-per-1-000-people-  |          |
+| data.html                   |                            | wb-data.html               |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Nurses and midwives        | https://tradingeconomics.c | 1.550    |
+| m/iran/fertility-rate-      |                            | om/iran/nurses-and-        |          |
+| total-births-per-woman-wb-  |                            | midwives-per-1-000-people- |          |
+| data.html                   |                            | wb-data.html               |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Physicians                 | https://tradingeconomics.c | 1.490    |
+| m/iran/fertility-rate-      |                            | om/iran/physicians-        |          |
+| total-births-per-woman-wb-  |                            | per-1-000-people-wb-       |          |
+| data.html                   |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Specialist surgical        | https://tradingeconomics.c | 4.980    |
+| m/iran/fertility-rate-      | workforce (per 100,000     | om/iran/specialist-        |          |
+| total-births-per-woman-wb-  | population)                | surgical-workforce-        |          |
+| data.html                   |                            | per-100000-population-wb-  |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Notified cases of malaria  | https://tradingeconomics.c | 162      |
+| m/iran/fertility-rate-      | (per 100;000 people)       | om/iran/notified-cases-of- |          |
+| total-births-per-woman-wb-  |                            | malaria-                   |          |
+| data.html                   |                            | per-100-000-people-wb-     |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Incidence of malaria (per  | https://tradingeconomics.c | 0.500    |
+| m/iran/fertility-rate-      | 1,000 population at risk)  | om/iran/incidence-of-      |          |
+| total-births-per-woman-wb-  |                            | malaria-                   |          |
+| data.html                   |                            | per-1000-population-at-    |          |
+|                             |                            | risk-wb-data.html          |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Number of maternal         | https://tradingeconomics.c | 340      |
+| m/iran/fertility-rate-      | mortality deaths           | om/iran/number-of-         |          |
+| total-births-per-woman-wb-  |                            | maternal-deaths-wb-        |          |
+| data.html                   |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Lifetime risk of maternal  | https://tradingeconomics.c | 2000     |
+| m/iran/fertility-rate-      | death (1 in: rate varies   | om/iran/lifetime-risk-of-  |          |
+| total-births-per-woman-wb-  | by country)                | maternal-death-1-in-rate-  |          |
+| data.html                   |                            | varies-by-country-wb-      |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Lifetime risk of maternal  | https://tradingeconomics.c | 0.050    |
+| m/iran/fertility-rate-      | death                      | om/iran/lifetime-risk-of-  |          |
+| total-births-per-woman-wb-  |                            | maternal-death-percent-wb- |          |
+| data.html                   |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Prevalence of anemia among | https://tradingeconomics.c | 34.100   |
+| m/iran/fertility-rate-      | pregnant women             | om/iran/prevalence-of-     |          |
+| total-births-per-woman-wb-  |                            | anemia-among-pregnant-     |          |
+| data.html                   |                            | women-percent-wb-data.html |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Prevalence of syphilis (%  | https://tradingeconomics.c | 0        |
+| m/iran/fertility-rate-      | of women attending         | om/iran/prevalence-of-     |          |
+| total-births-per-woman-wb-  | antenatal care)            | syphilis-percent-of-women- |          |
+| data.html                   |                            | attending-antenatal-care-  |          |
+|                             |                            | wb-data.html               |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Smoking prevalence,        | https://tradingeconomics.c | 0.700    |
+| m/iran/fertility-rate-      | females (% of adults)      | om/iran/smoking-           |          |
+| total-births-per-woman-wb-  |                            | prevalence-females-        |          |
+| data.html                   |                            | percent-of-adults-wb-      |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Smoking prevalence, males  | https://tradingeconomics.c | 21.500   |
+| m/iran/fertility-rate-      | (% of adults)              | om/iran/smoking-           |          |
+| total-births-per-woman-wb-  |                            | prevalence-males-percent-  |          |
+| data.html                   |                            | of-adults-wb-data.html     |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Risk of catastrophic       | https://tradingeconomics.c | 53.900   |
+| m/iran/fertility-rate-      | expenditure for surgical   | om/iran/risk-of-           |          |
+| total-births-per-woman-wb-  | care (% of people at risk) | catastrophic-expenditure-  |          |
+| data.html                   |                            | for-surgical-care-percent- |          |
+|                             |                            | of-people-at-risk-wb-      |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Risk of impoverishing      | https://tradingeconomics.c | 37.600   |
+| m/iran/fertility-rate-      | expenditure for surgical   | om/iran/risk-of-           |          |
+| total-births-per-woman-wb-  | care (% of people at risk) | impoverishing-expenditure- |          |
+| data.html                   |                            | for-surgical-care-percent- |          |
+|                             |                            | of-people-at-risk-wb-      |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Improved sanitation        | https://tradingeconomics.c | 90       |
+| m/iran/fertility-rate-      | facilities (% of           | om/iran/improved-          |          |
+| total-births-per-woman-wb-  | population with access)    | sanitation-facilities-     |          |
+| data.html                   |                            | percent-of-population-     |          |
+|                             |                            | with-access-wb-data.html   |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Improved sanitation        | https://tradingeconomics.c | 92.800   |
+| m/iran/fertility-rate-      | facilities, urban (% of    | om/iran/improved-          |          |
+| total-births-per-woman-wb-  | urban population with      | sanitation-facilities-     |          |
+| data.html                   | access)                    | urban-percent-of-urban-    |          |
+|                             |                            | population-with-access-wb- |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Pregnant women receiving   | https://tradingeconomics.c | 94.300   |
+| m/iran/fertility-rate-      | prenatal care of at least  | om/iran/pregnant-women-    |          |
+| total-births-per-woman-wb-  | four visits (% of pregnant | receiving-prenatal-care-   |          |
+| data.html                   | women)                     | of-at-least-four-visits-   |          |
+|                             |                            | percent-of-pregnant-women- |          |
+|                             |                            | wb-data.html               |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Pregnant women receiving   | https://tradingeconomics.c | 96.900   |
+| m/iran/fertility-rate-      | prenatal care              | om/iran/pregnant-women-    |          |
+| total-births-per-woman-wb-  |                            | receiving-prenatal-care-   |          |
+| data.html                   |                            | percent-wb-data.html       |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | ARI treatment (% of        | https://tradingeconomics.c | 75.900   |
+| m/iran/fertility-rate-      | children under 5 taken to  | om/iran/ari-treatment-     |          |
+| total-births-per-woman-wb-  | a health provider)         | percent-of-children-       |          |
+| data.html                   |                            | under-5-taken-to-a-health- |          |
+|                             |                            | provider-wb-data.html      |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Exclusive breastfeeding (% | https://tradingeconomics.c | 53.100   |
+| m/iran/fertility-rate-      | of children under 6        | om/iran/exclusive-         |          |
+| total-births-per-woman-wb-  | months)                    | breastfeeding-percent-of-  |          |
+| data.html                   |                            | children-under-6-months-   |          |
+|                             |                            | wb-data.html               |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Births attended by skilled | https://tradingeconomics.c | 96.400   |
+| m/iran/fertility-rate-      | health staff (% of total)  | om/iran/births-attended-   |          |
+| total-births-per-woman-wb-  |                            | by-skilled-health-staff-   |          |
+| data.html                   |                            | percent-of-total-wb-       |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Low-birthweight babies (%  | https://tradingeconomics.c | 7.700    |
+| m/iran/fertility-rate-      | of births)                 | om/iran/low-birthweight-   |          |
+| total-births-per-woman-wb-  |                            | babies-percent-of-births-  |          |
+| data.html                   |                            | wb-data.html               |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Malnutrition prevalence,   | https://tradingeconomics.c | 4.600    |
+| m/iran/fertility-rate-      | weight for age (% of       | om/iran/malnutrition-      |          |
+| total-births-per-woman-wb-  | children under 5)          | prevalence-weight-for-age- |          |
+| data.html                   |                            | percent-of-children-       |          |
+|                             |                            | under-5-wb-data.html       |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Malaria cases reported     | https://tradingeconomics.c | 1378     |
+| m/iran/fertility-rate-      |                            | om/iran/malaria-cases-     |          |
+| total-births-per-woman-wb-  |                            | reported-wb-data.html      |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Maternal mortality ratio   | https://tradingeconomics.c | 25       |
+| m/iran/fertility-rate-      | (modeled estimate, per     | om/iran/maternal-          |          |
+| total-births-per-woman-wb-  | 100,000 live births)       | mortality-ratio-modeled-   |          |
+| data.html                   |                            | estimate-per-100-000-live- |          |
+|                             |                            | births-wb-data.html        |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Maternal mortality ratio   | https://tradingeconomics.c | 25       |
+| m/iran/fertility-rate-      | (national estimate; per    | om/iran/maternal-          |          |
+| total-births-per-woman-wb-  | 100;000 live births)       | mortality-ratio-national-  |          |
+| data.html                   |                            | estimate-per-100-000-live- |          |
+|                             |                            | births-wb-data.html        |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Diarrhea treatment (% of   | https://tradingeconomics.c | 68.930   |
+| m/iran/fertility-rate-      | children under 5 receiving | om/iran/diarrhea-          |          |
+| total-births-per-woman-wb-  | oral rehydration and       | treatment-percent-of-      |          |
+| data.html                   | continued feeding)         | children-                  |          |
+|                             |                            | under-5-receiving-oral-    |          |
+|                             |                            | rehydration-and-continued- |          |
+|                             |                            | feeding-wb-data.html       |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Diarrhea treatment (% of   | https://tradingeconomics.c | 61.380   |
+| m/iran/fertility-rate-      | children under 5 who       | om/iran/diarrhea-          |          |
+| total-births-per-woman-wb-  | received ORS packet)       | treatment-percent-of-      |          |
+| data.html                   |                            | children-under-5-who-      |          |
+|                             |                            | received-ors-packet-wb-    |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Prevalence of overweight,  | https://tradingeconomics.c | 65.400   |
+| m/iran/fertility-rate-      | female (% of female        | om/iran/prevalence-of-     |          |
+| total-births-per-woman-wb-  | adults)                    | overweight-female-percent- |          |
+| data.html                   |                            | of-female-adults-wb-       |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Prevalence of overweight,  | https://tradingeconomics.c | 57.700   |
+| m/iran/fertility-rate-      | male (% of male adults)    | om/iran/prevalence-of-     |          |
+| total-births-per-woman-wb-  |                            | overweight-male-percent-   |          |
+| data.html                   |                            | of-male-adults-wb-         |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co |                            |                            | 61.600   |
+| m/iran/fertility-rate-      |                            |                            |          |
+| total-births-per-woman-wb-  |                            |                            |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Prevalence of overweight   | https://tradingeconomics.c | 6.900    |
+| m/iran/fertility-rate-      | (% of children under 5)    | om/iran/prevalence-of-     |          |
+| total-births-per-woman-wb-  |                            | overweight-percent-of-     |          |
+| data.html                   |                            | children-under-5-wb-       |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Malnutrition prevalence,   | https://tradingeconomics.c | 7.100    |
+| m/iran/fertility-rate-      | height for age (% of       | om/iran/malnutrition-      |          |
+| total-births-per-woman-wb-  | children under 5)          | prevalence-height-for-age- |          |
+| data.html                   |                            | percent-of-children-       |          |
+|                             |                            | under-5-wb-data.html       |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Suicide mortality rate     | https://tradingeconomics.c | 3.600    |
+| m/iran/fertility-rate-      | (per 100,000 population)   | om/iran/suicide-mortality- |          |
+| total-births-per-woman-wb-  |                            | rate-                      |          |
+| data.html                   |                            | per-100000-population-wb-  |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Mortality caused by road   | https://tradingeconomics.c | 28       |
+| m/iran/fertility-rate-      | traffic injury (per        | om/iran/mortality-caused-  |          |
+| total-births-per-woman-wb-  | 100,000 people)            | by-road-traffic-injury-    |          |
+| data.html                   |                            | per-100000-people-wb-      |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Prevalence of wasting (%   | https://tradingeconomics.c | 4.800    |
+| m/iran/fertility-rate-      | of children under 5)       | om/iran/prevalence-of-     |          |
+| total-births-per-woman-wb-  |                            | wasting-percent-of-        |          |
+| data.html                   |                            | children-under-5-wb-       |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Tuberculosis treatment     | https://tradingeconomics.c | 87       |
+| m/iran/fertility-rate-      | success rate (% of         | om/iran/tuberculosis-      |          |
+| total-births-per-woman-wb-  | registered cases)          | treatment-success-rate-    |          |
+| data.html                   |                            | percent-of-registered-     |          |
+|                             |                            | cases-wb-data.html         |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Tuberculosis case          | https://tradingeconomics.c | 80       |
+| m/iran/fertility-rate-      | detection rate (all forms) | om/iran/tuberculosis-case- |          |
+| total-births-per-woman-wb-  |                            | detection-rate-all-forms-  |          |
+| data.html                   |                            | wb-data.html               |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Incidence of tuberculosis  | https://tradingeconomics.c | 14       |
+| m/iran/fertility-rate-      | (per 100,000 people)       | om/iran/incidence-of-      |          |
+| total-births-per-woman-wb-  |                            | tuberculosis-              |          |
+| data.html                   |                            | per-100-000-people-wb-     |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Tuberculosis death rate    | https://tradingeconomics.c | 1.100    |
+| m/iran/fertility-rate-      | (per 100,000 people)       | om/iran/tuberculosis-      |          |
+| total-births-per-woman-wb-  |                            | death-rate-                |          |
+| data.html                   |                            | per-100000-people-wb-      |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co |                            |                            | 0.001    |
+| m/iran/fertility-rate-      |                            |                            |          |
+| total-births-per-woman-wb-  |                            |                            |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co |                            |                            | 9000     |
+| m/iran/fertility-rate-      |                            |                            |          |
+| total-births-per-woman-wb-  |                            |                            |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co |                            |                            | 0.000    |
+| m/iran/fertility-rate-      |                            |                            |          |
+| total-births-per-woman-wb-  |                            |                            |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co |                            |                            | 0.012    |
+| m/iran/fertility-rate-      |                            |                            |          |
+| total-births-per-woman-wb-  |                            |                            |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co |                            |                            | 0.000    |
+| m/iran/fertility-rate-      |                            |                            |          |
+| total-births-per-woman-wb-  |                            |                            |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co |                            |                            | 130000   |
+| m/iran/fertility-rate-      |                            |                            |          |
+| total-births-per-woman-wb-  |                            |                            |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co |                            |                            | 0.000    |
+| m/iran/fertility-rate-      |                            |                            |          |
+| total-births-per-woman-wb-  |                            |                            |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co |                            |                            | 0.167    |
+| m/iran/fertility-rate-      |                            |                            |          |
+| total-births-per-woman-wb-  |                            |                            |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co |                            |                            | 12200000 |
+| m/iran/fertility-rate-      |                            |                            |          |
+| total-births-per-woman-wb-  |                            |                            |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co |                            |                            | 15.810   |
+| m/iran/fertility-rate-      |                            |                            |          |
+| total-births-per-woman-wb-  |                            |                            |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co |                            |                            | 2913000  |
+| m/iran/fertility-rate-      |                            |                            |          |
+| total-births-per-woman-wb-  |                            |                            |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co |                            |                            | 3.760    |
+| m/iran/fertility-rate-      |                            |                            |          |
+| total-births-per-woman-wb-  |                            |                            |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co |                            |                            | 2195000  |
+| m/iran/fertility-rate-      |                            |                            |          |
+| total-births-per-woman-wb-  |                            |                            |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co |                            |                            | 2.830    |
+| m/iran/fertility-rate-      |                            |                            |          |
+| total-births-per-woman-wb-  |                            |                            |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co |                            |                            | 65       |
+| m/iran/fertility-rate-      |                            |                            |          |
+| total-births-per-woman-wb-  |                            |                            |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Newborns protected against | https://tradingeconomics.c | 95       |
+| m/iran/fertility-rate-      | tetanus                    | om/iran/newborns-          |          |
+| total-births-per-woman-wb-  |                            | protected-against-tetanus- |          |
+| data.html                   |                            | percent-wb-data.html       |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | External resources for     | https://tradingeconomics.c | 0.031    |
+| m/iran/fertility-rate-      | health (% of total         | om/iran/external-          |          |
+| total-births-per-woman-wb-  | expenditure on health)     | resources-for-health-      |          |
+| data.html                   |                            | percent-of-total-          |          |
+|                             |                            | expenditure-on-health-wb-  |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Out-of-pocket health       | https://tradingeconomics.c | 47.800   |
+| m/iran/fertility-rate-      | expenditure (% of total    | om/iran/out-of-pocket-     |          |
+| total-births-per-woman-wb-  | expenditure on health)     | health-expenditure-        |          |
+| data.html                   |                            | percent-of-total-          |          |
+|                             |                            | expenditure-on-health-wb-  |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Out-of-pocket health       | https://tradingeconomics.c | 81.300   |
+| m/iran/fertility-rate-      | expenditure (% of private  | om/iran/out-of-pocket-     |          |
+| total-births-per-woman-wb-  | expenditure on health)     | health-expenditure-        |          |
+| data.html                   |                            | percent-of-private-        |          |
+|                             |                            | expenditure-on-health-wb-  |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Health expenditure per     | https://tradingeconomics.c | 351      |
+| m/iran/fertility-rate-      | capita                     | om/iran/health-            |          |
+| total-births-per-woman-wb-  |                            | expenditure-per-capita-us- |          |
+| data.html                   |                            | dollar-wb-data.html        |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Health expenditure per     | https://tradingeconomics.c | 1082     |
+| m/iran/fertility-rate-      | capita, PPP (constant 2005 | om/iran/health-            |          |
+| total-births-per-woman-wb-  | international $)           | expenditure-per-capita-    |          |
+| data.html                   |                            | ppp-constant-2005-internat |          |
+|                             |                            | ional-dollar-wb-data.html  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co |                            |                            | 58.800   |
+| m/iran/fertility-rate-      |                            |                            |          |
+| total-births-per-woman-wb-  |                            |                            |          |
+| data.html                   |                            |                            |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Health expenditure,        | https://tradingeconomics.c | 4.050    |
+| m/iran/fertility-rate-      | private (% of GDP)         | om/iran/health-            |          |
+| total-births-per-woman-wb-  |                            | expenditure-private-       |          |
+| data.html                   |                            | percent-of-gdp-wb-         |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Health expenditure, public | https://tradingeconomics.c | 41.200   |
+| m/iran/fertility-rate-      | (% of total health         | om/iran/health-            |          |
+| total-births-per-woman-wb-  | expenditure)               | expenditure-public-        |          |
+| data.html                   |                            | percent-of-total-health-   |          |
+|                             |                            | expenditure-wb-data.html   |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Health expenditure, public | https://tradingeconomics.c | 17.530   |
+| m/iran/fertility-rate-      | (% of government           | om/iran/health-            |          |
+| total-births-per-woman-wb-  | expenditure)               | expenditure-public-        |          |
+| data.html                   |                            | percent-of-government-     |          |
+|                             |                            | expenditure-wb-data.html   |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Health expenditure, public | https://tradingeconomics.c | 2.840    |
+| m/iran/fertility-rate-      | (% of GDP)                 | om/iran/health-            |          |
+| total-births-per-woman-wb-  |                            | expenditure-public-        |          |
+| data.html                   |                            | percent-of-gdp-wb-         |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Health expenditure, total  | https://tradingeconomics.c | 6.890    |
+| m/iran/fertility-rate-      | (% of GDP)                 | om/iran/health-            |          |
+| total-births-per-woman-wb-  |                            | expenditure-total-percent- |          |
+| data.html                   |                            | of-gdp-wb-data.html        |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Number of people who are   | https://tradingeconomics.c | 4300000  |
+| m/iran/fertility-rate-      | undernourished             | om/iran/number-of-people-  |          |
+| total-births-per-woman-wb-  |                            | who-are-undernourished-wb- |          |
+| data.html                   |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Depth of the food deficit  | https://tradingeconomics.c | 31       |
+| m/iran/fertility-rate-      | (kilocalories per person   | om/iran/depth-of-the-food- |          |
+| total-births-per-woman-wb-  | per day)                   | deficit-kilocalories-per-  |          |
+| data.html                   |                            | person-per-day-wb-         |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Depth of hunger            | https://tradingeconomics.c | 180      |
+| m/iran/fertility-rate-      | (kilocalories per person   | om/iran/depth-of-hunger-   |          |
+| total-births-per-woman-wb-  | per day)                   | kilocalories-per-person-   |          |
+| data.html                   |                            | per-day-wb-data.html       |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Consumption of iodized     | https://tradingeconomics.c | 98.700   |
+| m/iran/fertility-rate-      | salt (% of households)     | om/iran/consumption-of-    |          |
+| total-births-per-woman-wb-  |                            | iodized-salt-percent-of-   |          |
+| data.html                   |                            | households-wb-data.html    |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Adolescent fertility rate  | https://tradingeconomics.c | 26.340   |
+| m/iran/fertility-rate-      | (births per 1,000 women    | om/iran/adolescent-        |          |
+| total-births-per-woman-wb-  | ages 15-19)                | fertility-rate-births-     |          |
+| data.html                   |                            | per-1-000-women-           |          |
+|                             |                            | ages-15-19-wb-data.html    |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Completeness of total      | https://tradingeconomics.c | 100      |
+| m/iran/fertility-rate-      | death reporting (% of      | om/iran/completeness-of-   |          |
+| total-births-per-woman-wb-  | reported total deaths to   | total-death-reporting-     |          |
+| data.html                   | estimated total deaths)    | percent-of-reported-total- |          |
+|                             |                            | deaths-to-estimated-total- |          |
+|                             |                            | deaths-wb-data.html        |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Mortality rate, adult,     | https://tradingeconomics.c | 62.010   |
+| m/iran/fertility-rate-      | female (per 1,000 female   | om/iran/mortality-rate-    |          |
+| total-births-per-woman-wb-  | adults)                    | adult-female-              |          |
+| data.html                   |                            | per-1-000-female-adults-   |          |
+|                             |                            | wb-data.html               |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Mortality rate, adult,     | https://tradingeconomics.c | 102      |
+| m/iran/fertility-rate-      | male (per 1,000 male       | om/iran/mortality-rate-    |          |
+| total-births-per-woman-wb-  | adults)                    | adult-male-per-1-000-male- |          |
+| data.html                   |                            | adults-wb-data.html        |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Birth rate, crude          | https://tradingeconomics.c | 17.100   |
+| m/iran/fertility-rate-      |                            | om/iran/birth-rate-crude-  |          |
+| total-births-per-woman-wb-  |                            | per-1-000-people-wb-       |          |
+| data.html                   |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Death rate, crude          | https://tradingeconomics.c | 4.550    |
+| m/iran/fertility-rate-      |                            | om/iran/death-rate-crude-  |          |
+| total-births-per-woman-wb-  |                            | per-1-000-people-wb-       |          |
+| data.html                   |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Contraceptive prevalence,  | https://tradingeconomics.c | 57       |
+| m/iran/fertility-rate-      | modern methods (% of women | om/iran/contraceptive-     |          |
+| total-births-per-woman-wb-  | ages 15-49)                | prevalence-modern-methods- |          |
+| data.html                   |                            | percent-of-women-          |          |
+|                             |                            | ages-15-49-wb-data.html    |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Contraceptive prevalence   | https://tradingeconomics.c | 77.400   |
+| m/iran/fertility-rate-      | (% of women ages 15-49)    | om/iran/contraceptive-     |          |
+| total-births-per-woman-wb-  |                            | prevalence-percent-of-     |          |
+| data.html                   |                            | women-ages-15-49-wb-       |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Mortality rate, infant,    | https://tradingeconomics.c | 12.300   |
+| m/iran/fertility-rate-      | female (per 1,000 live     | om/iran/mortality-rate-    |          |
+| total-births-per-woman-wb-  | births)                    | infant-female-             |          |
+| data.html                   |                            | per-1000-live-births-wb-   |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Mortality rate, infant     | https://tradingeconomics.c | 13       |
+| m/iran/fertility-rate-      | (per 1,000 live births)    | om/iran/mortality-rate-    |          |
+| total-births-per-woman-wb-  |                            | infant-per-1-000-live-     |          |
+| data.html                   |                            | births-wb-data.html        |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Mortality rate, infant,    | https://tradingeconomics.c | 13.700   |
+| m/iran/fertility-rate-      | male (per 1,000 live       | om/iran/mortality-rate-    |          |
+| total-births-per-woman-wb-  | births)                    | infant-male-per-1000-live- |          |
+| data.html                   |                            | births-wb-data.html        |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Life expectancy at birth,  | https://tradingeconomics.c | 76.870   |
+| m/iran/fertility-rate-      | female (years)             | om/iran/life-expectancy-   |          |
+| total-births-per-woman-wb-  |                            | at-birth-female-years-wb-  |          |
+| data.html                   |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Life expectancy at birth,  | https://tradingeconomics.c | 75.740   |
+| m/iran/fertility-rate-      | total (years)              | om/iran/life-expectancy-   |          |
+| total-births-per-woman-wb-  |                            | at-birth-total-years-wb-   |          |
+| data.html                   |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Life expectancy at birth,  | https://tradingeconomics.c | 74.670   |
+| m/iran/fertility-rate-      | male (years)               | om/iran/life-expectancy-   |          |
+| total-births-per-woman-wb-  |                            | at-birth-male-years-wb-    |          |
+| data.html                   |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Fertility rate, total      | https://tradingeconomics.c | 1.690    |
+| m/iran/fertility-rate-      | (births per woman)         | om/iran/fertility-rate-    |          |
+| total-births-per-woman-wb-  |                            | total-births-per-woman-wb- |          |
+| data.html                   |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Survival to age 65, female | https://tradingeconomics.c | 88.140   |
+| m/iran/fertility-rate-      | (% of cohort)              | om/iran/survival-to-       |          |
+| total-births-per-woman-wb-  |                            | age-65-female-percent-of-  |          |
+| data.html                   |                            | cohort-wb-data.html        |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Survival to age 65, male   | https://tradingeconomics.c | 83.510   |
+| m/iran/fertility-rate-      | (% of cohort)              | om/iran/survival-to-       |          |
+| total-births-per-woman-wb-  |                            | age-65-male-percent-of-    |          |
+| data.html                   |                            | cohort-wb-data.html        |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Women who were first       | https://tradingeconomics.c | 17       |
+| m/iran/fertility-rate-      | married by age 18 (% of    | om/iran/women-who-were-    |          |
+| total-births-per-woman-wb-  | women ages 20-24)          | first-married-by-          |          |
+| data.html                   |                            | age-18-percent-of-women-   |          |
+|                             |                            | ages-20-24-wb-data.html    |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Completeness of birth      | https://tradingeconomics.c | 98.100   |
+| m/iran/fertility-rate-      | registration, rural        | om/iran/completeness-of-   |          |
+| total-births-per-woman-wb-  |                            | birth-registration-rural-  |          |
+| data.html                   |                            | percent-wb-data.html       |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Completeness of birth      | https://tradingeconomics.c | 98.900   |
+| m/iran/fertility-rate-      | registration, urban        | om/iran/completeness-of-   |          |
+| total-births-per-woman-wb-  |                            | birth-registration-urban-  |          |
+| data.html                   |                            | percent-wb-data.html       |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Completeness of birth      | https://tradingeconomics.c | 98.600   |
+| m/iran/fertility-rate-      | registration               | om/iran/completeness-of-   |          |
+| total-births-per-woman-wb-  |                            | birth-registration-        |          |
+| data.html                   |                            | percent-wb-data.html       |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Completeness of death      | https://tradingeconomics.c | 68.300   |
+| m/iran/fertility-rate-      | registration with cause-   | om/iran/completeness-of-   |          |
+| total-births-per-woman-wb-  | of-death information       | death-registration-with-   |          |
+| data.html                   |                            | cause-of-death-            |          |
+|                             |                            | information-percent-wb-    |          |
+|                             |                            | data.html                  |          |
++-----------------------------+----------------------------+----------------------------+----------+
+| https://tradingeconomics.co | Unmet need for             | https://tradingeconomics.c | 5.700    |
+| m/iran/fertility-rate-      | contraception (% of        | om/iran/unmet-need-for-    |          |
+| total-births-per-woman-wb-  | married women ages 15-49)  | contraception-percent-of-  |          |
+| data.html                   |                            | married-women-             |          |
+|                             |                            | ages-15-49-wb-data.html    |          |
++-----------------------------+----------------------------+----------------------------+----------+

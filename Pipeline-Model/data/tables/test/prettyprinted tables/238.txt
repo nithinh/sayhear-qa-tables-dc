@@ -1,0 +1,120 @@
++----------+----+----------+----------+----------+---------+---------+---------+---------+---------+
+| url      | #  | Name     | Born_(ag | Died_(ag | Age_at_ | Mission | Lunar_E | Service | Alma_Ma |
+|          |    |          | e)       | e)       | first_s |         | VA_date |         | ter     |
+|          |    |          |          |          | tep     |         | s       |         |         |
++----------+----+----------+----------+----------+---------+---------+---------+---------+---------+
+| https:// | 1  | Neil Arm | (1930-08 | August   | 38y 11m | Apollo  | July    | NASA    | Purdue  |
+| en.wikip |    | strong   | -05)Augu | 25,      | 15d     | 11      | 21,     |         | Univers |
+| edia.org |    |          | st 5,    | 2012; (a |         |         | 1969[6] |         | ity, Un |
+| /wiki/Li |    |          | 1930     | ged 82)  |         |         |         |         | iversit |
+| st_of_Ap |    |          |          |          |         |         |         |         | y of So |
+| ollo_ast |    |          |          |          |         |         |         |         | uthern  |
+| ronauts  |    |          |          |          |         |         |         |         | Califor |
+|          |    |          |          |          |         |         |         |         | nia     |
++----------+----+----------+----------+----------+---------+---------+---------+---------+---------+
+| https:// | 2  | Buzz     | (1930-01 |          | 39y 6m  |         |         | Air     | United  |
+| en.wikip |    | Aldrin   | -20)     |          | 0d      |         |         | Force   | States  |
+| edia.org |    |          | January  |          |         |         |         |         | Militar |
+| /wiki/Li |    |          | 20, 1930 |          |         |         |         |         | y Acade |
+| st_of_Ap |    |          | (age 88) |          |         |         |         |         | my, MIT |
+| ollo_ast |    |          |          |          |         |         |         |         |         |
+| ronauts  |    |          |          |          |         |         |         |         |         |
++----------+----+----------+----------+----------+---------+---------+---------+---------+---------+
+| https:// | 3  | Pete     | (1930-06 | July 8,  | 39y 5m  | Apollo  | Novembe | Navy    | Princet |
+| en.wikip |    | Conrad   | -02)June | 1999; (a | 17d     | 12      | r       |         | on Univ |
+| edia.org |    |          | 2, 1930  | ged 69)  |         |         | 19–20,  |         | ersity  |
+| /wiki/Li |    |          |          |          |         |         | 1969    |         |         |
+| st_of_Ap |    |          |          |          |         |         |         |         |         |
+| ollo_ast |    |          |          |          |         |         |         |         |         |
+| ronauts  |    |          |          |          |         |         |         |         |         |
++----------+----+----------+----------+----------+---------+---------+---------+---------+---------+
+| https:// | 4  | Alan     | (1932-03 |          | 37y 8m  |         |         | Navy    | Univers |
+| en.wikip |    | Bean     | -15)     |          | 4d      |         |         |         | ity of  |
+| edia.org |    |          | March    |          |         |         |         |         | Texas,  |
+| /wiki/Li |    |          | 15, 1932 |          |         |         |         |         | Austin  |
+| st_of_Ap |    |          | (age 86) |          |         |         |         |         |         |
+| ollo_ast |    |          |          |          |         |         |         |         |         |
+| ronauts  |    |          |          |          |         |         |         |         |         |
++----------+----+----------+----------+----------+---------+---------+---------+---------+---------+
+| https:// | 5  | Alan     | (1923-11 | July 21, | 47y 2m  | Apollo  | Februar | Navy    | United  |
+| en.wikip |    | Shepard  | -18)Nove | 1998; (a | 18d     | 14      | y 5–6,  |         | States  |
+| edia.org |    |          | mber 18, | ged 74)  |         |         | 1971    |         | Naval A |
+| /wiki/Li |    |          | 1923     |          |         |         |         |         | cademy, |
+| st_of_Ap |    |          |          |          |         |         |         |         | Naval   |
+| ollo_ast |    |          |          |          |         |         |         |         | War     |
+| ronauts  |    |          |          |          |         |         |         |         | College |
++----------+----+----------+----------+----------+---------+---------+---------+---------+---------+
+| https:// | 6  | Edgar    | (1930-09 | February | 40y 4m  |         |         | Navy    | Carnegi |
+| en.wikip |    | Mitchell | -17)Sept | 4, 2016; | 19d     |         |         |         | e       |
+| edia.org |    |          | ember    | (aged 85 |         |         |         |         | Mellon  |
+| /wiki/Li |    |          | 17, 1930 | )        |         |         |         |         | Univers |
+| st_of_Ap |    |          |          |          |         |         |         |         | ity,    |
+| ollo_ast |    |          |          |          |         |         |         |         | Naval P |
+| ronauts  |    |          |          |          |         |         |         |         | ostgrad |
+|          |    |          |          |          |         |         |         |         | uate    |
+|          |    |          |          |          |         |         |         |         | School, |
+|          |    |          |          |          |         |         |         |         | MIT     |
++----------+----+----------+----------+----------+---------+---------+---------+---------+---------+
+| https:// | 7  | David    | (1932-06 |          | 39y 1m  | Apollo  | July 31 | Air     | Univers |
+| en.wikip |    | Scott    | -06)     |          | 25d     | 15      | –       | Force   | ity of  |
+| edia.org |    |          | June 6,  |          |         |         | August  |         | Michiga |
+| /wiki/Li |    |          | 1932     |          |         |         | 2, 1971 |         | n (fres |
+| st_of_Ap |    |          | (age 85) |          |         |         |         |         | hman    |
+| ollo_ast |    |          |          |          |         |         |         |         | year,   |
+| ronauts  |    |          |          |          |         |         |         |         | and     |
+|          |    |          |          |          |         |         |         |         | later,  |
+|          |    |          |          |          |         |         |         |         | an hono |
+|          |    |          |          |          |         |         |         |         | rary do |
+|          |    |          |          |          |         |         |         |         | ctorate |
+|          |    |          |          |          |         |         |         |         | ),      |
+|          |    |          |          |          |         |         |         |         | United  |
+|          |    |          |          |          |         |         |         |         | States  |
+|          |    |          |          |          |         |         |         |         | Militar |
+|          |    |          |          |          |         |         |         |         | y Acade |
+|          |    |          |          |          |         |         |         |         | my, MIT |
++----------+----+----------+----------+----------+---------+---------+---------+---------+---------+
+| https:// | 8  | James    | (1930-03 | August   | 41y 4m  |         |         | Air     | United  |
+| en.wikip |    | Irwin    | -17)Marc | 8, 1991; | 14d     |         |         | Force   | States  |
+| edia.org |    |          | h 17,    | (aged 61 |         |         |         |         | Naval A |
+| /wiki/Li |    |          | 1930     | )        |         |         |         |         | cademy, |
+| st_of_Ap |    |          |          |          |         |         |         |         | Univers |
+| ollo_ast |    |          |          |          |         |         |         |         | ity of  |
+| ronauts  |    |          |          |          |         |         |         |         | Michiga |
+|          |    |          |          |          |         |         |         |         | n       |
++----------+----+----------+----------+----------+---------+---------+---------+---------+---------+
+| https:// | 9  | John     | (1930-09 | January  | 41y 6m  | Apollo  | April   | Navy    | Georgia |
+| en.wikip |    | Young    | -24)Sept | 5, 2018; | 28d     | 16      | 21–23,  |         | Institu |
+| edia.org |    |          | ember    | (aged 87 |         |         | 1972    |         | te of T |
+| /wiki/Li |    |          | 24, 1930 | )        |         |         |         |         | echnolo |
+| st_of_Ap |    |          |          |          |         |         |         |         | gy      |
+| ollo_ast |    |          |          |          |         |         |         |         |         |
+| ronauts  |    |          |          |          |         |         |         |         |         |
++----------+----+----------+----------+----------+---------+---------+---------+---------+---------+
+| https:// | 10 | Charles  | (1935-10 |          | 36y 6m  |         |         | Air     | United  |
+| en.wikip |    | Duke     | -03)     |          | 18d     |         |         | Force   | States  |
+| edia.org |    |          | October  |          |         |         |         |         | Naval A |
+| /wiki/Li |    |          | 3, 1935  |          |         |         |         |         | cademy, |
+| st_of_Ap |    |          | (age 82) |          |         |         |         |         | MIT     |
+| ollo_ast |    |          |          |          |         |         |         |         |         |
+| ronauts  |    |          |          |          |         |         |         |         |         |
++----------+----+----------+----------+----------+---------+---------+---------+---------+---------+
+| https:// | 11 | Eugene   | (1934-03 | January  | 38y 9m  | Apollo  | Decembe | Navy    | Purdue  |
+| en.wikip |    | Cernan   | -14)Marc | 16,      | 7d      | 17      | r       |         | Univers |
+| edia.org |    |          | h 14,    | 2017; (a |         |         | 11–14,  |         | ity,    |
+| /wiki/Li |    |          | 1934     | ged 82)  |         |         | 1972    |         | Naval P |
+| st_of_Ap |    |          |          |          |         |         |         |         | ostgrad |
+| ollo_ast |    |          |          |          |         |         |         |         | uate    |
+| ronauts  |    |          |          |          |         |         |         |         | School  |
++----------+----+----------+----------+----------+---------+---------+---------+---------+---------+
+| https:// | 12 | Harrison | (1935-07 |          | 37y 5m  |         |         | NASA    | Caltech |
+| en.wikip |    | Schmitt  | -03)     |          | 8d      |         |         |         | , Unive |
+| edia.org |    |          | July 3,  |          |         |         |         |         | rsity   |
+| /wiki/Li |    |          | 1935     |          |         |         |         |         | of Oslo |
+| st_of_Ap |    |          | (age 82) |          |         |         |         |         | (exchan |
+| ollo_ast |    |          |          |          |         |         |         |         | ge),    |
+| ronauts  |    |          |          |          |         |         |         |         | Harvard |
+|          |    |          |          |          |         |         |         |         | Univers |
+|          |    |          |          |          |         |         |         |         | ity     |
+|          |    |          |          |          |         |         |         |         | (PhD Ge |
+|          |    |          |          |          |         |         |         |         | ology)  |
++----------+----+----------+----------+----------+---------+---------+---------+---------+---------+

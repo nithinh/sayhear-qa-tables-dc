@@ -1,0 +1,33 @@
++---------------------------------------+-------------------+--------------------------------------+
+| url                                   | key               | value                                |
++---------------------------------------+-------------------+--------------------------------------+
+| https://en.wikipedia.org/wiki/Gail_Sh | Born              | Gail Henion; November 27, 1937; (age |
+| eehy                                  |                   | 80); Mamaroneck; ,; New York; ,      |
+|                                       |                   | United States                        |
++---------------------------------------+-------------------+--------------------------------------+
+| https://en.wikipedia.org/wiki/Gail_Sh | Occupation        | Journalist, author                   |
+| eehy                                  |                   |                                      |
++---------------------------------------+-------------------+--------------------------------------+
+| https://en.wikipedia.org/wiki/Gail_Sh | Language          | English                              |
+| eehy                                  |                   |                                      |
++---------------------------------------+-------------------+--------------------------------------+
+| https://en.wikipedia.org/wiki/Gail_Sh | Nationality       | American                             |
+| eehy                                  |                   |                                      |
++---------------------------------------+-------------------+--------------------------------------+
+| https://en.wikipedia.org/wiki/Gail_Sh | Alma mater        | University of Vermont, Columbia      |
+| eehy                                  |                   | University                           |
++---------------------------------------+-------------------+--------------------------------------+
+| https://en.wikipedia.org/wiki/Gail_Sh | Literary movement | New Journalism                       |
+| eehy                                  |                   |                                      |
++---------------------------------------+-------------------+--------------------------------------+
+| https://en.wikipedia.org/wiki/Gail_Sh | Notable works     | Passages; The Silent Passage;        |
+| eehy                                  |                   | Understanding Men's Passages;        |
+|                                       |                   | Hillary's Choice; New Passages;      |
+|                                       |                   | Passages in Caregiving               |
++---------------------------------------+-------------------+--------------------------------------+
+| https://en.wikipedia.org/wiki/Gail_Sh | Website           |                                      |
+| eehy                                  |                   |                                      |
++---------------------------------------+-------------------+--------------------------------------+
+| https://en.wikipedia.org/wiki/Gail_Sh |                   | gailsheehy.com                       |
+| eehy                                  |                   |                                      |
++---------------------------------------+-------------------+--------------------------------------+

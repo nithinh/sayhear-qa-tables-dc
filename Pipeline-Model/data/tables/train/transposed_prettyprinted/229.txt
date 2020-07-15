@@ -1,0 +1,102 @@
++-------------------------------------------------------------+----------+-------------------------+
+| url                                                         | time     | show                    |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 5:00 AM  | Local/Various           |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 5:30 AM  | Local/Various           |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 6:00 AM  | Page Six TV             |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 6:30 AM  | Cops                    |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 7:00 AM  | Maury                   |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 8:00 AM  | The Steve Wilkos Show   |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 9:00 AM  | The Steve Wilkos Show   |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 10:00 AM | The Jerry Springer Show |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 11:00 AM | The Jerry Springer Show |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 12:00 PM | Local/Various           |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 12:30 PM | Local/Various           |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 1:00 PM  | Local/Varous            |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 1:30 PM  | Local/Various           |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 2:00 PM  | Maury                   |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 3:00 PM  | The Robert Irvine Show  |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 4:00 PM  | The Goldbergs           |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 4:30 PM  | The Goldbergs           |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 5:00 PM  | American Dad            |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 5:30 PM  | American Dad            |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 6:00 PM  | Family Guy              |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 6:30 PM  | Family Guy              |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 7:00 PM  | The Flash               |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 8:00 PM  | The 100                 |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 9:00 PM  | Page Six TV             |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 9:30 PM  | Seinfeld                |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 10:00 PM | Seinfeld                |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 10:30 PM | Rules of Engagement     |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 11:00 PM | Rules of Engagement     |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 11:30 PM | The King of Queens      |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 12:00 AM | King of the Hill        |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 12:30 AM | Cops                    |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 1:00 AM  | Top 30                  |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+
+| http://yourcwtv.com/partners/wausau/schedule.php?curDate=04 | 1:30 AM  | Local/Various           |
+| /24/2018&cday=TUESDAY                                       |          |                         |
++-------------------------------------------------------------+----------+-------------------------+

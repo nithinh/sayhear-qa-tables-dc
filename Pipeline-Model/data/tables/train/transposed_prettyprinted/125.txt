@@ -1,0 +1,17 @@
++------------+------------+----------+------------+------------+-----------+-----------+-----------+
+| Developer( | Publisher( | Series   | Engine;    | Platform(s | Release   | Genre(s); | Mode(s)   |
+| s); Develo | s); Publis |          | Engine     | ); Platfor |           | Genre(s)  |           |
+| per(s)     | her(s)     |          |            | m(s)       |           |           |           |
++------------+------------+----------+------------+------------+-----------+-----------+-----------+
+| ; https:// | ; https:// |          | ; https:// | ; https:// |           | ; https:/ |           |
+| en.wikiped | en.wikiped |          | en.wikiped | en.wikiped |           | /en.wikip |           |
+| ia.org/wik | ia.org/wik |          | ia.org/wik | ia.org/wik |           | edia.org/ |           |
+| i/Video_ga | i/Video_ga |          | i/Game_eng | i/Computin |           | wiki/Vide |           |
+| me_develop | me_publish |          | ine        | g_platform |           | o_game_ge |           |
+| er         | er         |          |            |            |           | nre       |           |
++------------+------------+----------+------------+------------+-----------+-----------+-----------+
+| Rockstar   | Rockstar   | Red Dead | RAGE       | PlayStatio | October   | Action-   | Single-   |
+| Studios    | Games      |          |            | n 4        | 26, 2018  | adventure | player, m |
+|            |            |          |            |            |           |           | ultiplaye |
+|            |            |          |            | Xbox One   |           |           | r         |
++------------+------------+----------+------------+------------+-----------+-----------+-----------+

@@ -1,0 +1,242 @@
++------------------------+------------------------+------------------------+-----------------------+
+| url                    | State                  | State_link             | Area_code             |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Alabama                | https://www.allareacod | 205, 251, 256, 334,   |
+| es.com/area_code_listi |                        | es.com/alabama_area_co | 938                   |
+| ngs_by_state.htm       |                        | des.htm                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Alaska                 | https://www.allareacod | 907                   |
+| es.com/area_code_listi |                        | es.com/alaska_area_cod |                       |
+| ngs_by_state.htm       |                        | es.htm                 |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | American Samoa         | https://www.allareacod | 684                   |
+| es.com/area_code_listi |                        | es.com/american_samoa_ |                       |
+| ngs_by_state.htm       |                        | area_codes.htm         |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Arizona                | https://www.allareacod | 480, 520, 602, 623,   |
+| es.com/area_code_listi |                        | es.com/arizona_area_co | 928                   |
+| ngs_by_state.htm       |                        | des.htm                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Arkansas               | https://www.allareacod | 479, 501, 870         |
+| es.com/area_code_listi |                        | es.com/arkansas_area_c |                       |
+| ngs_by_state.htm       |                        | odes.htm               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | California             | https://www.allareacod | 209, 213, 310, 323,   |
+| es.com/area_code_listi |                        | es.com/california_area | 408, 415, 424, 442,   |
+| ngs_by_state.htm       |                        | _codes.htm             | 510, 530, 559, 562,   |
+|                        |                        |                        | 619, 626, 628, 650,   |
+|                        |                        |                        | 657, 661, 669, 707,   |
+|                        |                        |                        | 714, 747, 760, 805,   |
+|                        |                        |                        | 818, 831, 858, 909,   |
+|                        |                        |                        | 916, 925, 949, 951    |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Colorado               | https://www.allareacod | 303, 719, 720, 970    |
+| es.com/area_code_listi |                        | es.com/colorado_area_c |                       |
+| ngs_by_state.htm       |                        | odes.htm               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Connecticut            | https://www.allareacod | 203, 475, 860, 959    |
+| es.com/area_code_listi |                        | es.com/connecticut_are |                       |
+| ngs_by_state.htm       |                        | a_codes.htm            |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Delaware               | https://www.allareacod | 302                   |
+| es.com/area_code_listi |                        | es.com/delaware_area_c |                       |
+| ngs_by_state.htm       |                        | odes.htm               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Florida                | https://www.allareacod | 239, 305, 321, 352,   |
+| es.com/area_code_listi |                        | es.com/florida_area_co | 386, 407, 561, 727,   |
+| ngs_by_state.htm       |                        | des.htm                | 754, 772, 786, 813,   |
+|                        |                        |                        | 850, 863, 904, 941,   |
+|                        |                        |                        | 954                   |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Georgia                | https://www.allareacod | 229, 404, 470, 478,   |
+| es.com/area_code_listi |                        | es.com/georgia_area_co | 678, 706, 762, 770,   |
+| ngs_by_state.htm       |                        | des.htm                | 912                   |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Guam                   | https://www.allareacod | 671                   |
+| es.com/area_code_listi |                        | es.com/guam_area_codes |                       |
+| ngs_by_state.htm       |                        | .htm                   |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Hawaii                 | https://www.allareacod | 808                   |
+| es.com/area_code_listi |                        | es.com/hawaii_area_cod |                       |
+| ngs_by_state.htm       |                        | es.htm                 |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Idaho                  | https://www.allareacod | 208                   |
+| es.com/area_code_listi |                        | es.com/idaho_area_code |                       |
+| ngs_by_state.htm       |                        | s.htm                  |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Illinois               | https://www.allareacod | 217, 224, 309, 312,   |
+| es.com/area_code_listi |                        | es.com/illinois_area_c | 331, 618, 630, 708,   |
+| ngs_by_state.htm       |                        | odes.htm               | 773, 779, 815, 847,   |
+|                        |                        |                        | 872                   |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Indiana                | https://www.allareacod | 219, 260, 317, 463,   |
+| es.com/area_code_listi |                        | es.com/indiana_area_co | 574, 765, 812, 930    |
+| ngs_by_state.htm       |                        | des.htm                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Iowa                   | https://www.allareacod | 319, 515, 563, 641,   |
+| es.com/area_code_listi |                        | es.com/iowa_area_codes | 712                   |
+| ngs_by_state.htm       |                        | .htm                   |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Kansas                 | https://www.allareacod | 316, 620, 785, 913    |
+| es.com/area_code_listi |                        | es.com/kansas_area_cod |                       |
+| ngs_by_state.htm       |                        | es.htm                 |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Kentucky               | https://www.allareacod | 270, 364, 502, 606,   |
+| es.com/area_code_listi |                        | es.com/kentucky_area_c | 859                   |
+| ngs_by_state.htm       |                        | odes.htm               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Louisiana              | https://www.allareacod | 225, 318, 337, 504,   |
+| es.com/area_code_listi |                        | es.com/louisiana_area_ | 985                   |
+| ngs_by_state.htm       |                        | codes.htm              |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Maine                  | https://www.allareacod | 207                   |
+| es.com/area_code_listi |                        | es.com/maine_area_code |                       |
+| ngs_by_state.htm       |                        | s.htm                  |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Maryland               | https://www.allareacod | 240, 301, 410, 443,   |
+| es.com/area_code_listi |                        | es.com/maryland_area_c | 667                   |
+| ngs_by_state.htm       |                        | odes.htm               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Massachusetts          | https://www.allareacod | 339, 351, 413, 508,   |
+| es.com/area_code_listi |                        | es.com/massachusetts_a | 617, 774, 781, 857,   |
+| ngs_by_state.htm       |                        | rea_codes.htm          | 978                   |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Michigan               | https://www.allareacod | 231, 248, 269, 313,   |
+| es.com/area_code_listi |                        | es.com/michigan_area_c | 517, 586, 616, 734,   |
+| ngs_by_state.htm       |                        | odes.htm               | 810, 906, 947, 989    |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Minnesota              | https://www.allareacod | 218, 320, 507, 612,   |
+| es.com/area_code_listi |                        | es.com/minnesota_area_ | 651, 763, 952         |
+| ngs_by_state.htm       |                        | codes.htm              |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Mississippi            | https://www.allareacod | 228, 601, 662, 769    |
+| es.com/area_code_listi |                        | es.com/mississippi_are |                       |
+| ngs_by_state.htm       |                        | a_codes.htm            |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Missouri               | https://www.allareacod | 314, 417, 573, 636,   |
+| es.com/area_code_listi |                        | es.com/missouri_area_c | 660, 816              |
+| ngs_by_state.htm       |                        | odes.htm               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Montana                | https://www.allareacod | 406                   |
+| es.com/area_code_listi |                        | es.com/montana_area_co |                       |
+| ngs_by_state.htm       |                        | des.htm                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Nebraska               | https://www.allareacod | 308, 402, 531         |
+| es.com/area_code_listi |                        | es.com/nebraska_area_c |                       |
+| ngs_by_state.htm       |                        | odes.htm               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Nevada                 | https://www.allareacod | 702, 725, 775         |
+| es.com/area_code_listi |                        | es.com/nevada_area_cod |                       |
+| ngs_by_state.htm       |                        | es.htm                 |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | New Hampshire          | https://www.allareacod | 603                   |
+| es.com/area_code_listi |                        | es.com/new_hampshire_a |                       |
+| ngs_by_state.htm       |                        | rea_codes.htm          |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | New Jersey             | https://www.allareacod | 201, 551, 609, 732,   |
+| es.com/area_code_listi |                        | es.com/new_jersey_area | 848, 856, 862, 908,   |
+| ngs_by_state.htm       |                        | _codes.htm             | 973                   |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | New Mexico             | https://www.allareacod | 505, 575              |
+| es.com/area_code_listi |                        | es.com/new_mexico_area |                       |
+| ngs_by_state.htm       |                        | _codes.htm             |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | New York               | https://www.allareacod | 212, 315, 332, 347,   |
+| es.com/area_code_listi |                        | es.com/new_york_area_c | 516, 518, 585, 607,   |
+| ngs_by_state.htm       |                        | odes.htm               | 631, 646, 680, 716,   |
+|                        |                        |                        | 718, 845, 914, 917,   |
+|                        |                        |                        | 929, 934              |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | North Carolina         | https://www.allareacod | 252, 336, 704, 743,   |
+| es.com/area_code_listi |                        | es.com/north_carolina_ | 828, 910, 919, 980,   |
+| ngs_by_state.htm       |                        | area_codes.htm         | 984                   |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | North Dakota           | https://www.allareacod | 701                   |
+| es.com/area_code_listi |                        | es.com/north_dakota_ar |                       |
+| ngs_by_state.htm       |                        | ea_codes.htm           |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Northern Mariana       | https://www.allareacod | 670                   |
+| es.com/area_code_listi | Islands                | es.com/northern_marian |                       |
+| ngs_by_state.htm       |                        | a_islands_area_codes.h |                       |
+|                        |                        | tm                     |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Ohio                   | https://www.allareacod | 216, 220, 234, 330,   |
+| es.com/area_code_listi |                        | es.com/ohio_area_codes | 380, 419, 440, 513,   |
+| ngs_by_state.htm       |                        | .htm                   | 567, 614, 740, 937    |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Oklahoma               | https://www.allareacod | 405, 539, 580, 918    |
+| es.com/area_code_listi |                        | es.com/oklahoma_area_c |                       |
+| ngs_by_state.htm       |                        | odes.htm               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Oregon                 | https://www.allareacod | 458, 503, 541, 971    |
+| es.com/area_code_listi |                        | es.com/oregon_area_cod |                       |
+| ngs_by_state.htm       |                        | es.htm                 |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Pennsylvania           | https://www.allareacod | 215, 267, 272, 412,   |
+| es.com/area_code_listi |                        | es.com/pennsylvania_ar | 484, 570, 610, 717,   |
+| ngs_by_state.htm       |                        | ea_codes.htm           | 724, 814, 878         |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Puerto Rico            | https://www.allareacod | 787, 939              |
+| es.com/area_code_listi |                        | es.com/puerto_rico_are |                       |
+| ngs_by_state.htm       |                        | a_codes.htm            |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Rhode Island           | https://www.allareacod | 401                   |
+| es.com/area_code_listi |                        | es.com/rhode_island_ar |                       |
+| ngs_by_state.htm       |                        | ea_codes.htm           |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | South Carolina         | https://www.allareacod | 803, 843, 854, 864    |
+| es.com/area_code_listi |                        | es.com/south_carolina_ |                       |
+| ngs_by_state.htm       |                        | area_codes.htm         |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | South Dakota           | https://www.allareacod | 605                   |
+| es.com/area_code_listi |                        | es.com/south_dakota_ar |                       |
+| ngs_by_state.htm       |                        | ea_codes.htm           |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Tennessee              | https://www.allareacod | 423, 615, 629, 731,   |
+| es.com/area_code_listi |                        | es.com/tennessee_area_ | 865, 901, 931         |
+| ngs_by_state.htm       |                        | codes.htm              |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Texas                  | https://www.allareacod | 210, 214, 254, 281,   |
+| es.com/area_code_listi |                        | es.com/texas_area_code | 325, 346, 361, 409,   |
+| ngs_by_state.htm       |                        | s.htm                  | 430, 432, 469, 512,   |
+|                        |                        |                        | 682, 713, 737, 806,   |
+|                        |                        |                        | 817, 830, 832, 903,   |
+|                        |                        |                        | 915, 936, 940, 956,   |
+|                        |                        |                        | 972, 979              |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Utah                   | https://www.allareacod | 385, 435, 801         |
+| es.com/area_code_listi |                        | es.com/utah_area_codes |                       |
+| ngs_by_state.htm       |                        | .htm                   |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Vermont                | https://www.allareacod | 802                   |
+| es.com/area_code_listi |                        | es.com/vermont_area_co |                       |
+| ngs_by_state.htm       |                        | des.htm                |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Virgin Islands         | https://www.allareacod | 340                   |
+| es.com/area_code_listi |                        | es.com/virgin_islands_ |                       |
+| ngs_by_state.htm       |                        | area_codes.htm         |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Virginia               | https://www.allareacod | 276, 434, 540, 571,   |
+| es.com/area_code_listi |                        | es.com/virginia_area_c | 703, 757, 804         |
+| ngs_by_state.htm       |                        | odes.htm               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Washington             | https://www.allareacod | 206, 253, 360, 425,   |
+| es.com/area_code_listi |                        | es.com/washington_area | 509                   |
+| ngs_by_state.htm       |                        | _codes.htm             |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Washington, DC         | https://www.allareacod | 202                   |
+| es.com/area_code_listi |                        | es.com/washington_dc_a |                       |
+| ngs_by_state.htm       |                        | rea_codes.htm          |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | West Virginia          | https://www.allareacod | 304, 681              |
+| es.com/area_code_listi |                        | es.com/west_virginia_a |                       |
+| ngs_by_state.htm       |                        | rea_codes.htm          |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Wisconsin              | https://www.allareacod | 262, 414, 534, 608,   |
+| es.com/area_code_listi |                        | es.com/wisconsin_area_ | 715, 920              |
+| ngs_by_state.htm       |                        | codes.htm              |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://www.allareacod | Wyoming                | https://www.allareacod | 307                   |
+| es.com/area_code_listi |                        | es.com/wyoming_area_co |                       |
+| ngs_by_state.htm       |                        | des.htm                |                       |
++------------------------+------------------------+------------------------+-----------------------+

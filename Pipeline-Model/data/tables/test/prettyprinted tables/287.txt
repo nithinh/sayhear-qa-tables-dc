@@ -1,0 +1,1364 @@
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| url        | Title      | Title_link | Company    | Location   | Rating | Descriptio | Salary    |
+|            |            |            |            |            |        | n          |           |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | Quality    | https://ww | DuPont     | Rochester, |        | You have a | Estimated |
+| w.simplyhi | Control    | w.simplyhi |            | NY         |        | minimum of | : $48,000 |
+| red.com/se | Lab        | red.com/jo |            |            |        | Associates | - $64,000 |
+| arch?q=sci | Technician | b/eN9qPX6R |            |            |        | degree in  | a year    |
+| ence&l=roc |            | EZIAFp0DSh |            |            |        | biology, b | Please    |
+| hester%2C+ |            | F5_0BRrY7v |            |            |        | iotechnolo | note that |
+| ny&job=eN9 |            | -QBpKTgg1Z |            |            |        | gy, microb | all       |
+| qPX6REZIAF |            | ScULkFlJDM |            |            |        | iology,    | salary    |
+| p0DShF5_0B |            | AUTwbg     |            |            |        | chemistry  | figures   |
+| RrY7v-QBpK |            |            |            |            |        | (or equiva | are appro |
+| Tgg1ZScULk |            |            |            |            |        | lent) and  | ximations |
+| FlJDMAUTwb |            |            |            |            |        | at least   | based     |
+| g          |            |            |            |            |        | 1-2 years  | upon      |
+|            |            |            |            |            |        | related    | third     |
+|            |            |            |            |            |        | work       | party sub |
+|            |            |            |            |            |        | experience | missions  |
+|            |            |            |            |            |        | ...        | to Simply |
+|            |            |            |            |            |        |            | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | Project    | https://ww | IRON SWORD | Rochester, |        | Demonstrat | Estimated |
+| w.simplyhi | Manager, C | w.simplyhi |            | NY         |        | ed         | : $85,000 |
+| red.com/se | onstructio | red.com/jo |            |            |        | experience | -         |
+| arch?q=sci | n          | b/PocwHXgJ |            |            |        | in healthc | $120,000  |
+| ence&l=roc |            | h_Wefn1PiA |            |            |        | are,       | a year    |
+| hester%2C+ |            | Cu6IhlvixF |            |            |        | science    | Please    |
+| ny&job=eN9 |            | xL3HhZ4SiK |            |            |        | and techno | note that |
+| qPX6REZIAF |            | Q-Qm6IkCZ4 |            |            |        | logy.      | all       |
+| p0DShF5_0B |            | Z-qGAQ     |            |            |        | Great oppo | salary    |
+| RrY7v-QBpK |            |            |            |            |        | rtunity to | figures   |
+| Tgg1ZScULk |            |            |            |            |        | join a     | are appro |
+| FlJDMAUTwb |            |            |            |            |        | successful | ximations |
+| g          |            |            |            |            |        | veteran-   | based     |
+|            |            |            |            |            |        | owned cons | upon      |
+|            |            |            |            |            |        | truction   | third     |
+|            |            |            |            |            |        | firm!...   | party sub |
+|            |            |            |            |            |        |            | missions  |
+|            |            |            |            |            |        |            | to Simply |
+|            |            |            |            |            |        |            | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | R&D Lab    | https://ww | Trison     | Rochester, |        | A          | Estimated |
+| w.simplyhi | Scientist  | w.simplyhi | Business   | NY         |        | Bachelor’s | : $38,000 |
+| red.com/se |            | red.com/jo | Solutions  |            |        | Degree in  | - $51,000 |
+| arch?q=sci |            | b/SNAhZ6BU |            |            |        | Chemistry/ | a year    |
+| ence&l=roc |            | SetnZIRCbY |            |            |        | Biology,   | Please    |
+| hester%2C+ |            | ff2Z360xhq |            |            |        | Medical    | note that |
+| ny&job=eN9 |            | Ma9JO033TI |            |            |        | Technology | all       |
+| qPX6REZIAF |            | PUM6lkgMHP |            |            |        | or related | salary    |
+| p0DShF5_0B |            | a10qQQ     |            |            |        | sciences   | figures   |
+| RrY7v-QBpK |            |            |            |            |        | field is   | are appro |
+| Tgg1ZScULk |            |            |            |            |        | preferred. | ximations |
+| FlJDMAUTwb |            |            |            |            |        | A minimum  | based     |
+| g          |            |            |            |            |        | of an      | upon      |
+|            |            |            |            |            |        | Associate  | third     |
+|            |            |            |            |            |        | degree in  | party sub |
+|            |            |            |            |            |        | Chemistry/ | missions  |
+|            |            |            |            |            |        | Biology    | to Simply |
+|            |            |            |            |            |        | or...      | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | Staff      | https://ww | CME        | Rochester, |        | Bachelor   | Estimated |
+| w.simplyhi | Engineer,  | w.simplyhi | Associates | NY         |        | of Science | : $76,000 |
+| red.com/se | E.I.T.     | red.com/jo |            |            |        | in Civil   | -         |
+| arch?q=sci |            | b/GoULJMuS |            |            |        | or         | $100,000  |
+| ence&l=roc |            | k_qXz64Ivb |            |            |        | Structural | a year    |
+| hester%2C+ |            | _5ae9ZPUQk |            |            |        | Engineerin | Please    |
+| ny&job=eN9 |            | 9gyFxEkuzG |            |            |        | g (or      | note that |
+| qPX6REZIAF |            | G2jUvr6j_6 |            |            |        | related).  | all       |
+| p0DShF5_0B |            | l9DZKw     |            |            |        | The Staff  | salary    |
+| RrY7v-QBpK |            |            |            |            |        | Engineer,  | figures   |
+| Tgg1ZScULk |            |            |            |            |        | under the  | are appro |
+| FlJDMAUTwb |            |            |            |            |        | supervisio | ximations |
+| g          |            |            |            |            |        | n of a     | based     |
+|            |            |            |            |            |        | Senior Pro | upon      |
+|            |            |            |            |            |        | fessional  | third     |
+|            |            |            |            |            |        | Engineer   | party sub |
+|            |            |            |            |            |        | (P.E.),    | missions  |
+|            |            |            |            |            |        | is...      | to Simply |
+|            |            |            |            |            |        |            | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | QC         | https://ww | American   | W          |        | Or Associa | Estimated |
+| w.simplyhi | Laboratory | w.simplyhi | Red Cross  | Henrietta, |        | te's       | : $35,000 |
+| red.com/se | Technologi | red.com/jo |            | NY         |        | degree in  | - $48,000 |
+| arch?q=sci | st         | b/LZNfvmXb |            |            |        | science    | a year    |
+| ence&l=roc |            | gB0fVHcfEk |            |            |        | plus       | Please    |
+| hester%2C+ |            | gYTRycag7y |            |            |        | three.     | note that |
+| ny&job=eN9 |            | QAC4VPfP0l |            |            |        | Associates | all       |
+| qPX6REZIAF |            | kDguRVYn1i |            |            |        | degree in  | salary    |
+| p0DShF5_0B |            | zBcL2g     |            |            |        | science,   | figures   |
+| RrY7v-QBpK |            |            |            |            |        | Medical    | are appro |
+| Tgg1ZScULk |            |            |            |            |        | Laboratory | ximations |
+| FlJDMAUTwb |            |            |            |            |        | Technician | based     |
+| g          |            |            |            |            |        | (certified | upon      |
+|            |            |            |            |            |        | through... | third     |
+|            |            |            |            |            |        | .          | party sub |
+|            |            |            |            |            |        |            | missions  |
+|            |            |            |            |            |        |            | to Simply |
+|            |            |            |            |            |        |            | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | Calibratio | https://ww | Transcat   | Rochester, |        | The        | Estimated |
+| w.simplyhi | n          | w.simplyhi |            | NY         |        | employee   | : $34,000 |
+| red.com/se | Technician | red.com/jo |            |            |        | must       | - $46,000 |
+| arch?q=sci | II         | b/Hl2R9Xw7 |            |            |        | regularly  | a year    |
+| ence&l=roc |            | 7raZeIZD_Z |            |            |        | lift       | Please    |
+| hester%2C+ |            | 1z1VTzwLQ8 |            |            |        | and/or     | note that |
+| ny&job=eN9 |            | HhJKY49eGo |            |            |        | move up to | all       |
+| qPX6REZIAF |            | RMekiMdcWE |            |            |        | 10 pounds, | salary    |
+| p0DShF5_0B |            | mRixiw     |            |            |        | frequently | figures   |
+| RrY7v-QBpK |            |            |            |            |        | lift       | are appro |
+| Tgg1ZScULk |            |            |            |            |        | and/or     | ximations |
+| FlJDMAUTwb |            |            |            |            |        | move up to | based     |
+| g          |            |            |            |            |        | 50 pounds  | upon      |
+|            |            |            |            |            |        | and occasi | third     |
+|            |            |            |            |            |        | onally     | party sub |
+|            |            |            |            |            |        | lift       | missions  |
+|            |            |            |            |            |        | and/or     | to Simply |
+|            |            |            |            |            |        | move more  | Hired or  |
+|            |            |            |            |            |        | than 100   | its affil |
+|            |            |            |            |            |        | pounds...  | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | BioAnalyti | https://ww | DuPont     | Rochester, |        | Basic      | Estimated |
+| w.simplyhi | cal Lab    | w.simplyhi |            | NY         |        | Analytical | : $33,000 |
+| red.com/se | Technician | red.com/jo |            |            |        | Chemistry, | - $48,000 |
+| arch?q=sci |            | b/wjthgpZU |            |            |        | Enzymology | a year    |
+| ence&l=roc |            | f_8n1QMB0E |            |            |        | , Protein  | Please    |
+| hester%2C+ |            | Zfa3L43rB0 |            |            |        | Chemistry. | note that |
+| ny&job=eN9 |            | VEDixsnt-6 |            |            |        | Ordering   | all       |
+| qPX6REZIAF |            | 2Ni-ufGxef |            |            |        | and        | salary    |
+| p0DShF5_0B |            | HKstAw     |            |            |        | purchasing | figures   |
+| RrY7v-QBpK |            |            |            |            |        | of lab     | are appro |
+| Tgg1ZScULk |            |            |            |            |        | chemicals  | ximations |
+| FlJDMAUTwb |            |            |            |            |        | and suppli | based     |
+| g          |            |            |            |            |        | es....     | upon      |
+|            |            |            |            |            |        |            | third     |
+|            |            |            |            |            |        |            | party sub |
+|            |            |            |            |            |        |            | missions  |
+|            |            |            |            |            |        |            | to Simply |
+|            |            |            |            |            |        |            | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | Pharmaceut | https://ww | Sanofi US  | Rochester, |        | Demonstrat | Estimated |
+| w.simplyhi | ical Sales | w.simplyhi |            | NY         |        | e a        | : $87,000 |
+| red.com/se | -          | red.com/jo |            |            |        | passion    | -         |
+| arch?q=sci | Biologics  | b/4XY_pVOz |            |            |        | and        | $120,000  |
+| ence&l=roc | (Dupixent) | gcVH4o_egH |            |            |        | learning   | a year    |
+| hester%2C+ | ,          | bad4Tv3O2R |            |            |        | aptitude   | Please    |
+| ny&job=eN9 | Rochester, | bY-YY-aRV_ |            |            |        | for        | note that |
+| qPX6REZIAF | NY         | OhzJCpNxvA |            |            |        | science    | all       |
+| p0DShF5_0B |            | 6-Y4NQ     |            |            |        | and is     | salary    |
+| RrY7v-QBpK |            |            |            |            |        | proactive  | figures   |
+| Tgg1ZScULk |            |            |            |            |        | in strengt | are appro |
+| FlJDMAUTwb |            |            |            |            |        | hening     | ximations |
+| g          |            |            |            |            |        | knowledge  | based     |
+|            |            |            |            |            |        | related to | upon      |
+|            |            |            |            |            |        | disease-   | third     |
+|            |            |            |            |            |        | state,     | party sub |
+|            |            |            |            |            |        | treatment  | missions  |
+|            |            |            |            |            |        | options    | to Simply |
+|            |            |            |            |            |        | and health | Hired or  |
+|            |            |            |            |            |        | care...    | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | Components | https://ww | American   | W          |        | College    | Estimated |
+| w.simplyhi | Lab        | w.simplyhi | Red Cross  | Henrietta, |        | studies or | : $31,000 |
+| red.com/se | Technician | red.com/jo |            | NY         |        | technical  | - $38,000 |
+| arch?q=sci |            | b/mhr1RCc1 |            |            |        | training   | a year    |
+| ence&l=roc |            | pZU9diyLB2 |            |            |        | in science | Please    |
+| hester%2C+ |            | cDA3TPs0od |            |            |        | or medical | note that |
+| ny&job=eN9 |            | SYPUnQCcJT |            |            |        | technology | all       |
+| qPX6REZIAF |            | m7jWu7UamX |            |            |        | or the     | salary    |
+| p0DShF5_0B |            | 4zV_WA     |            |            |        | equivalent | figures   |
+| RrY7v-QBpK |            |            |            |            |        | is         | are appro |
+| Tgg1ZScULk |            |            |            |            |        | preferred. | ximations |
+| FlJDMAUTwb |            |            |            |            |        | Physical r | based     |
+| g          |            |            |            |            |        | equirement | upon      |
+|            |            |            |            |            |        | s may      | third     |
+|            |            |            |            |            |        | include    | party sub |
+|            |            |            |            |            |        | standing,  | missions  |
+|            |            |            |            |            |        | stretching | to Simply |
+|            |            |            |            |            |        | ,...       | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | Compenents | https://ww | American   | W          |        | College    | Estimated |
+| w.simplyhi | Lab        | w.simplyhi | Red Cross  | Henrietta, |        | studies or | : $28,000 |
+| red.com/se | Technician | red.com/jo |            | NY         |        | technical  | - $40,000 |
+| arch?q=sci |            | b/YokL5czF |            |            |        | training   | a year    |
+| ence&l=roc |            | nJkyvauojS |            |            |        | in science | Please    |
+| hester%2C+ |            | Y5-fY0OQQ6 |            |            |        | or medical | note that |
+| ny&job=eN9 |            | XQSl-u-BzU |            |            |        | technology | all       |
+| qPX6REZIAF |            | U4n4-TQfYu |            |            |        | or the     | salary    |
+| p0DShF5_0B |            | tzH06Q     |            |            |        | equivalent | figures   |
+| RrY7v-QBpK |            |            |            |            |        | is         | are appro |
+| Tgg1ZScULk |            |            |            |            |        | preferred. | ximations |
+| FlJDMAUTwb |            |            |            |            |        | Physical r | based     |
+| g          |            |            |            |            |        | equirement | upon      |
+|            |            |            |            |            |        | s may      | third     |
+|            |            |            |            |            |        | include    | party sub |
+|            |            |            |            |            |        | standing,  | missions  |
+|            |            |            |            |            |        | stretching | to Simply |
+|            |            |            |            |            |        | ,...       | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | Wetland    | https://ww | Fisher     | Rochester, |        | Associates | Estimated |
+| w.simplyhi | Scientist  | w.simplyhi | Associates | NY         |        | of Science | : $82,000 |
+| red.com/se |            | red.com/jo |            |            |        | in         | -         |
+| arch?q=sci |            | b/Z6LSV4YX |            |            |        | Surveying  | $110,000  |
+| ence&l=roc |            | c1A2lBkZ5- |            |            |        | (or        | a year    |
+| hester%2C+ |            | hc-okodPYQ |            |            |        | equivalent | Please    |
+| ny&job=eN9 |            | ICphw_jEGA |            |            |        | experience | note that |
+| qPX6REZIAF |            | TiT-5l5bRq |            |            |        | .). In Env | all       |
+| p0DShF5_0B |            | uOtP4g     |            |            |        | ironmental | salary    |
+| RrY7v-QBpK |            |            |            |            |        | Science ,  | figures   |
+| Tgg1ZScULk |            |            |            |            |        | Biology,   | are appro |
+| FlJDMAUTwb |            |            |            |            |        | or related | ximations |
+| g          |            |            |            |            |        | field      | based     |
+|            |            |            |            |            |        | required,  | upon      |
+|            |            |            |            |            |        | M.S....    | third     |
+|            |            |            |            |            |        |            | party sub |
+|            |            |            |            |            |        |            | missions  |
+|            |            |            |            |            |        |            | to Simply |
+|            |            |            |            |            |        |            | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | CNO,       | https://ww | Rochester  | Rochester, |        | Facilitate | Estimated |
+| w.simplyhi | Rochester  | w.simplyhi | Regional   | NY         |        | s both     | : $65,000 |
+| red.com/se | Regional   | red.com/jo | Health     |            |        | clinical   | - $82,000 |
+| arch?q=sci | Health     | b/uVpe2IEU |            |            |        | education  | a year    |
+| ence&l=roc | Medical    | M0hW9CoNkz |            |            |        | and        | Please    |
+| hester%2C+ | Groups     | TYmLMkdvS6 |            |            |        | clinical i | note that |
+| ny&job=eN9 |            | F8cIQjiC65 |            |            |        | nvestigati | all       |
+| qPX6REZIAF |            | 9y_bgmyDak |            |            |        | on to      | salary    |
+| p0DShF5_0B |            | RYS32g     |            |            |        | advance    | figures   |
+| RrY7v-QBpK |            |            |            |            |        | the art    | are appro |
+| Tgg1ZScULk |            |            |            |            |        | and        | ximations |
+| FlJDMAUTwb |            |            |            |            |        | science of | based     |
+| g          |            |            |            |            |        | profession | upon      |
+|            |            |            |            |            |        | al nursing | third     |
+|            |            |            |            |            |        | practices. | party sub |
+|            |            |            |            |            |        | ...        | missions  |
+|            |            |            |            |            |        |            | to Simply |
+|            |            |            |            |            |        |            | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | Entry      | https://ww | Syneos     | Rochester, |        | A competit | Estimated |
+| w.simplyhi | Level Phar | w.simplyhi | Health     | NY         |        | ive drive  | : $58,000 |
+| red.com/se | maceutical | red.com/jo | Commerical |            |        | coupled    | - $77,000 |
+| arch?q=sci | Sales Repr | b/rJbUP2Dr | Solutions  |            |        | with the e | a year    |
+| ence&l=roc | esentative | awh6a9-ChT |            |            |        | xceptional | Please    |
+| hester%2C+ |            | vSe8Kr4MJB |            |            |        | ability to | note that |
+| ny&job=eN9 |            | oLbEyPla0Z |            |            |        | communicat | all       |
+| qPX6REZIAF |            | cv7WjRKIEX |            |            |        | e the      | salary    |
+| p0DShF5_0B |            | 0BpJqw     |            |            |        | science    | figures   |
+| RrY7v-QBpK |            |            |            |            |        | behind our | are appro |
+| Tgg1ZScULk |            |            |            |            |        | client's   | ximations |
+| FlJDMAUTwb |            |            |            |            |        | products   | based     |
+| g          |            |            |            |            |        | and build  | upon      |
+|            |            |            |            |            |        | lasting    | third     |
+|            |            |            |            |            |        | business r | party sub |
+|            |            |            |            |            |        | elationshi | missions  |
+|            |            |            |            |            |        | ps....     | to Simply |
+|            |            |            |            |            |        |            | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | Scientist  | https://ww | Ortho      | Rochester, |        | A          | Estimated |
+| w.simplyhi | 1          | w.simplyhi | Clinical D | NY         |        | Bachelors  | : $69,000 |
+| red.com/se |            | red.com/jo | iagnostics |            |        | Degree in  | - $91,000 |
+| arch?q=sci |            | b/WWwJrgx2 |            |            |        | Chemistry/ | a year    |
+| ence&l=roc |            | fFgBGPqckx |            |            |        | Biology,   | Please    |
+| hester%2C+ |            | w_WHz8Ni5a |            |            |        | Medical    | note that |
+| ny&job=eN9 |            | JBf-wXFByz |            |            |        | Technology | all       |
+| qPX6REZIAF |            | u85fd4Qa5N |            |            |        | or related | salary    |
+| p0DShF5_0B |            | H7JtWg     |            |            |        | sciences   | figures   |
+| RrY7v-QBpK |            |            |            |            |        | field is   | are appro |
+| Tgg1ZScULk |            |            |            |            |        | preferred. | ximations |
+| FlJDMAUTwb |            |            |            |            |        | A minimum  | based     |
+| g          |            |            |            |            |        | of an      | upon      |
+|            |            |            |            |            |        | Associate  | third     |
+|            |            |            |            |            |        | degree in  | party sub |
+|            |            |            |            |            |        | Chemistry/ | missions  |
+|            |            |            |            |            |        | Biology    | to Simply |
+|            |            |            |            |            |        | or...      | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | Pathologis | https://ww | Rochester  | Rochester, |        | Bachelor's | Estimated |
+| w.simplyhi | t          | w.simplyhi | Regional   | NY         |        | Degree in  | : $50,000 |
+| red.com/se | Assistant  | red.com/jo | Health     |            |        | Biology or | - $69,000 |
+| arch?q=sci |            | b/fM4VEl-J |            |            |        | related    | a year    |
+| ence&l=roc |            | NToqHws0nP |            |            |        | sciences.  | Please    |
+| hester%2C+ |            | P_itIuLatx |            |            |        | BS degree  | note that |
+| ny&job=eN9 |            | j-LYNleAeZ |            |            |        | in a       | all       |
+| qPX6REZIAF |            | wiUHPpzCwV |            |            |        | related    | salary    |
+| p0DShF5_0B |            | lTjgwQ     |            |            |        | science    | figures   |
+| RrY7v-QBpK |            |            |            |            |        | and a      | are appro |
+| Tgg1ZScULk |            |            |            |            |        | graduate   | ximations |
+| FlJDMAUTwb |            |            |            |            |        | of         | based     |
+| g          |            |            |            |            |        | accredited | upon      |
+|            |            |            |            |            |        | Pathologis | third     |
+|            |            |            |            |            |        | t          | party sub |
+|            |            |            |            |            |        | Assistant  | missions  |
+|            |            |            |            |            |        | Program    | to Simply |
+|            |            |            |            |            |        | with....   | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | SCIENCE    | https://ww | Penfield   | Penfield,  |        | Must be    | Estimated |
+| w.simplyhi | TEACHER    | w.simplyhi | Central    | NY         |        | NYS        | : $40,000 |
+| red.com/se |            | red.com/jo | School     |            |        | certified  | - $53,000 |
+| arch?q=sci |            | b/vDVMJzDI | District   |            |        | in Biology | a year    |
+| ence&l=roc |            | 2T4lZOZoZ0 |            |            |        | AND        | Please    |
+| hester%2C+ |            | 34dESGGFoz |            |            |        | General    | note that |
+| ny&job=eN9 |            | 8GSiwjCjMS |            |            |        | Science.   | all       |
+| qPX6REZIAF |            | adN0B4zFKT |            |            |        | Bay Trail  | salary    |
+| p0DShF5_0B |            | mC4sdA     |            |            |        | Middle     | figures   |
+| RrY7v-QBpK |            |            |            |            |        | School.... | are appro |
+| Tgg1ZScULk |            |            |            |            |        |            | ximations |
+| FlJDMAUTwb |            |            |            |            |        |            | based     |
+| g          |            |            |            |            |        |            | upon      |
+|            |            |            |            |            |        |            | third     |
+|            |            |            |            |            |        |            | party sub |
+|            |            |            |            |            |        |            | missions  |
+|            |            |            |            |            |        |            | to Simply |
+|            |            |            |            |            |        |            | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | Research   | https://ww | Rochester  | Rochester, |        | College of | Estimated |
+| w.simplyhi | Technician | w.simplyhi | Institute  | NY         |        | Imaging    | : $23,000 |
+| red.com/se |            | red.com/jo | of         |            |        | Arts and   | - $32,000 |
+| arch?q=sci |            | b/sR7mwaHJ | Technology |            |        | Sciences.  | a year    |
+| ence&l=roc |            | XM4kG9Ee1L |            |            |        | IPI is an  | Please    |
+| hester%2C+ |            | JAvRKKsPgo |            |            |        | academic   | note that |
+| ny&job=eN9 |            | 6j-qe8cNgV |            |            |        | research   | all       |
+| qPX6REZIAF |            | QgpzQwp0o3 |            |            |        | laboratory | salary    |
+| p0DShF5_0B |            | rZotlQ     |            |            |        | within the | figures   |
+| RrY7v-QBpK |            |            |            |            |        | College of | are appro |
+| Tgg1ZScULk |            |            |            |            |        | Imaging    | ximations |
+| FlJDMAUTwb |            |            |            |            |        | Arts and   | based     |
+| g          |            |            |            |            |        | Sciences   | upon      |
+|            |            |            |            |            |        | at RIT     | third     |
+|            |            |            |            |            |        | focused on | party sub |
+|            |            |            |            |            |        | research   | missions  |
+|            |            |            |            |            |        | that...    | to Simply |
+|            |            |            |            |            |        |            | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | Quality    | https://ww | DuPont     | Rochester, |        | You have a | Estimated |
+| w.simplyhi | Assurance  | w.simplyhi |            | NY         |        | minimum of | : $38,000 |
+| red.com/se | Technician | red.com/jo |            |            |        | a          | - $52,000 |
+| arch?q=sci |            | b/-kBelNeu |            |            |        | Bachelors  | a year    |
+| ence&l=roc |            | n7VwgCxe8p |            |            |        | degree in  | Please    |
+| hester%2C+ |            | pBJGb3nm8U |            |            |        | biology or | note that |
+| ny&job=eN9 |            | 29xzfNQHFT |            |            |        | microbiolo | all       |
+| qPX6REZIAF |            | 8om2qYlDq_ |            |            |        | gy,        | salary    |
+| p0DShF5_0B |            | RnbGzQ     |            |            |        | chemistry  | figures   |
+| RrY7v-QBpK |            |            |            |            |        | (or equiva | are appro |
+| Tgg1ZScULk |            |            |            |            |        | lent) and  | ximations |
+| FlJDMAUTwb |            |            |            |            |        | at least   | based     |
+| g          |            |            |            |            |        | 1-2 years  | upon      |
+|            |            |            |            |            |        | related    | third     |
+|            |            |            |            |            |        | work exper | party sub |
+|            |            |            |            |            |        | ience....  | missions  |
+|            |            |            |            |            |        |            | to Simply |
+|            |            |            |            |            |        |            | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | R&D Lab    | https://ww | Trison     | Rochester, |        | A          | Estimated |
+| w.simplyhi | Scientist  | w.simplyhi | Business   | NY         |        | Bachelor’s | : $38,000 |
+| red.com/se |            | red.com/jo | Solutions  |            |        | Degree in  | - $51,000 |
+| arch?q=sci |            | b/SNAhZ6BU |            |            |        | Chemistry/ | a year    |
+| ence&l=roc |            | SetnZIRCbY |            |            |        | Biology,   | Please    |
+| hester%2C+ |            | ff2Z360xhq |            |            |        | Medical    | note that |
+| ny&job=eN9 |            | Ma9JO033TI |            |            |        | Technology | all       |
+| qPX6REZIAF |            | PUM6lkgMHP |            |            |        | or related | salary    |
+| p0DShF5_0B |            | a10qQQ     |            |            |        | sciences   | figures   |
+| RrY7v-QBpK |            |            |            |            |        | field is   | are appro |
+| Tgg1ZScULk |            |            |            |            |        | preferred. | ximations |
+| FlJDMAUTwb |            |            |            |            |        | A minimum  | based     |
+| g          |            |            |            |            |        | of an      | upon      |
+|            |            |            |            |            |        | Associate  | third     |
+|            |            |            |            |            |        | degree in  | party sub |
+|            |            |            |            |            |        | Chemistry/ | missions  |
+|            |            |            |            |            |        | Biology    | to Simply |
+|            |            |            |            |            |        | or...      | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | Records    | https://ww | Rochester  | Rochester, |        | RIT has    | Estimated |
+| w.simplyhi | and        | w.simplyhi | Institute  | NY         |        | been named | : $33,000 |
+| red.com/se | Customer   | red.com/jo | of         |            |        | by the     | - $43,000 |
+| arch?q=sci | Service Re | b/MEbmh4t- | Technology |            |        | Chronicle  | a year    |
+| ence&l=roc | presentati | z5OCu_eI99 |            |            |        | of Higher  | Please    |
+| hester%2C+ | ve         | Zark9OyYA7 |            |            |        | Education  | note that |
+| ny&job=eN9 |            | Ephufx-OCz |            |            |        | as one of  | all       |
+| qPX6REZIAF |            | 9ixQO4D452 |            |            |        | the “Great | salary    |
+| p0DShF5_0B |            | I4l2_w     |            |            |        | Colleges   | figures   |
+| RrY7v-QBpK |            |            |            |            |        | to Work    | are appro |
+| Tgg1ZScULk |            |            |            |            |        | For.” RIT  | ximations |
+| FlJDMAUTwb |            |            |            |            |        | is a       | based     |
+| g          |            |            |            |            |        | National   | upon      |
+|            |            |            |            |            |        | Science    | third     |
+|            |            |            |            |            |        | Foundation | party sub |
+|            |            |            |            |            |        | ADVANCE In | missions  |
+|            |            |            |            |            |        | stitutiona | to Simply |
+|            |            |            |            |            |        | l...       | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | Quality    | https://ww | Love Beets | Rochester, |        | *_JOB      | Estimated |
+| w.simplyhi | Technician | w.simplyhi | Production | NY         |        | SUMMARY_*  | : $49,000 |
+| red.com/se |            | red.com/jo | , LLC      |            |        | _: _       | - $65,000 |
+| arch?q=sci |            | b/wJA08lH6 |            |            |        | Provide    | a year    |
+| ence&l=roc |            | Z2pf6zf81t |            |            |        | support    | Please    |
+| hester%2C+ |            | Bc79cizoce |            |            |        | and        | note that |
+| ny&job=eN9 |            | q2yYkR2TuS |            |            |        | direction  | all       |
+| qPX6REZIAF |            | 4uL001MVdt |            |            |        | to quality | salary    |
+| p0DShF5_0B |            | gUbMOQ     |            |            |        | efforts    | figures   |
+| RrY7v-QBpK |            |            |            |            |        | for the    | are appro |
+| Tgg1ZScULk |            |            |            |            |        | Love Beets | ximations |
+| FlJDMAUTwb |            |            |            |            |        | Production | based     |
+| g          |            |            |            |            |        | facility   | upon      |
+|            |            |            |            |            |        | acting as  | third     |
+|            |            |            |            |            |        | primary    | party sub |
+|            |            |            |            |            |        | technical  | missions  |
+|            |            |            |            |            |        | consultant | to Simply |
+|            |            |            |            |            |        | to the...  | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | Laboratory | https://ww | University | Rochester, |        | This       | Estimated |
+| w.simplyhi | Technician | w.simplyhi | of         | NY         |        | position   | : $32,000 |
+| red.com/se | III (S)    | red.com/jo | Rochester  |            |        | may entail | - $44,000 |
+| arch?q=sci |            | b/6Y58fe73 |            |            |        | prolonged  | a year    |
+| ence&l=roc |            | O0n19pocu1 |            |            |        | periods of | Please    |
+| hester%2C+ |            | iLN-ET_4x1 |            |            |        | standing.  | note that |
+| ny&job=eN9 |            | qkaJLUot9I |            |            |        | The        | all       |
+| qPX6REZIAF |            | FwargbSonq |            |            |        | Department | salary    |
+| p0DShF5_0B |            | 4knUiA     |            |            |        | of Microbi | figures   |
+| RrY7v-QBpK |            |            |            |            |        | ology and  | are appro |
+| Tgg1ZScULk |            |            |            |            |        | Immunology | ximations |
+| FlJDMAUTwb |            |            |            |            |        | is seeking | based     |
+| g          |            |            |            |            |        | a Full-    | upon      |
+|            |            |            |            |            |        | Time       | third     |
+|            |            |            |            |            |        | Laboratory | party sub |
+|            |            |            |            |            |        | Technician | missions  |
+|            |            |            |            |            |        | III to     | to Simply |
+|            |            |            |            |            |        | work...    | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | BioTelemet | https://ww | BioTelemet | Rochester, |        | O Two year | Estimated |
+| w.simplyhi | ry         | w.simplyhi | ry, Inc.   | NY         |        | degree in  | : $51,000 |
+| red.com/se | Research - | red.com/jo |            |            |        | life       | - $74,000 |
+| arch?q=sci | Incoming   | b/b45WrBl7 |            |            |        | sciences   | a year    |
+| ence&l=roc | Image      | hKEEPiBvcq |            |            |        | or data ma | Please    |
+| hester%2C+ | Processing | Ik4GHh2xIk |            |            |        | nagement.  | note that |
+| ny&job=eN9 | Technologi | 6eaDj9ytLp |            |            |        | Incoming   | all       |
+| qPX6REZIAF | st         | 7dakHsVJ0q |            |            |        | Image      | salary    |
+| p0DShF5_0B |            | 3Q9G_g     |            |            |        | Processing | figures   |
+| RrY7v-QBpK |            |            |            |            |        | Technologi | are appro |
+| Tgg1ZScULk |            |            |            |            |        | st....     | ximations |
+| FlJDMAUTwb |            |            |            |            |        |            | based     |
+| g          |            |            |            |            |        |            | upon      |
+|            |            |            |            |            |        |            | third     |
+|            |            |            |            |            |        |            | party sub |
+|            |            |            |            |            |        |            | missions  |
+|            |            |            |            |            |        |            | to Simply |
+|            |            |            |            |            |        |            | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | Inside Sal | https://ww | Rotork     | Rochester, |        | Bachelors  | Estimated |
+| w.simplyhi | es/Applica | w.simplyhi | Controls   | NY         |        | of         | : $75,000 |
+| red.com/se | tion       | red.com/jo | Inc        |            |        | Sciences   | -         |
+| arch?q=sci | Engineer   | b/9a0zh_hG |            |            |        | (B.S.).    | $100,000  |
+| ence&l=roc |            | Kd1fjejQfH |            |            |        | The Inside | a year    |
+| hester%2C+ |            | pFQMS5mfUy |            |            |        | Sales / Ap | Please    |
+| ny&job=eN9 |            | er3ZXZiw5I |            |            |        | plications | note that |
+| qPX6REZIAF |            | uShvv6JNW8 |            |            |        | engineer   | all       |
+| p0DShF5_0B |            | a0xsow     |            |            |        | will be re | salary    |
+| RrY7v-QBpK |            |            |            |            |        | sponsible  | figures   |
+| Tgg1ZScULk |            |            |            |            |        | for        | are appro |
+| FlJDMAUTwb |            |            |            |            |        | supporting | ximations |
+| g          |            |            |            |            |        | the        | based     |
+|            |            |            |            |            |        | quotation  | upon      |
+|            |            |            |            |            |        | process by | third     |
+|            |            |            |            |            |        | reviewing  | party sub |
+|            |            |            |            |            |        | customer r | missions  |
+|            |            |            |            |            |        | equests... | to Simply |
+|            |            |            |            |            |        |            | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | Electrical | https://ww | D3 Enginee | Rochester, |        | Bachelor   | Estimated |
+| w.simplyhi | Engineer-  | w.simplyhi | ring       | NY         |        | of Science | : $75,000 |
+| red.com/se | Hardware   | red.com/jo |            |            |        | in         | -         |
+| arch?q=sci |            | b/uQM8AhqB |            |            |        | Electrical | $100,000  |
+| ence&l=roc |            | cVcxoZsup- |            |            |        | Engineerin | a year    |
+| hester%2C+ |            | oGFVk-lXm_ |            |            |        | g /        | Please    |
+| ny&job=eN9 |            | hK6nhn-Uv7 |            |            |        | Computer E | note that |
+| qPX6REZIAF |            | G7xfDviStu |            |            |        | ngineering | all       |
+| p0DShF5_0B |            | Z16Z1w     |            |            |        | discipline | salary    |
+| RrY7v-QBpK |            |            |            |            |        | along with | figures   |
+| Tgg1ZScULk |            |            |            |            |        | 3+ years   | are appro |
+| FlJDMAUTwb |            |            |            |            |        | of         | ximations |
+| g          |            |            |            |            |        | directly   | based     |
+|            |            |            |            |            |        | related    | upon      |
+|            |            |            |            |            |        | experience | third     |
+|            |            |            |            |            |        | and/or     | party sub |
+|            |            |            |            |            |        | equivalent | missions  |
+|            |            |            |            |            |        | combinatio | to Simply |
+|            |            |            |            |            |        | n...       | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+
+| https://ww | Senior     | https://ww | D3 Enginee | Rochester, |        | Bachelor   | Estimated |
+| w.simplyhi | Electrical | w.simplyhi | ring       | NY         |        | of Science | :         |
+| red.com/se | Engineer-  | red.com/jo |            |            |        | in         | $110,000  |
+| arch?q=sci | Hardware   | b/q3-vuJCg |            |            |        | Electrical | -         |
+| ence&l=roc |            | B8Pl-exBxq |            |            |        | Engineerin | $140,000  |
+| hester%2C+ |            | UutG7SAjSN |            |            |        | g /        | a year    |
+| ny&job=eN9 |            | lLWPVarSza |            |            |        | Computer E | Please    |
+| qPX6REZIAF |            | 5IpL4EMd4U |            |            |        | ngineering | note that |
+| p0DShF5_0B |            | ZMHw3Q     |            |            |        | discipline | all       |
+| RrY7v-QBpK |            |            |            |            |        | along with | salary    |
+| Tgg1ZScULk |            |            |            |            |        | 7+ years   | figures   |
+| FlJDMAUTwb |            |            |            |            |        | of         | are appro |
+| g          |            |            |            |            |        | directly   | ximations |
+|            |            |            |            |            |        | related    | based     |
+|            |            |            |            |            |        | experience | upon      |
+|            |            |            |            |            |        | and/or     | third     |
+|            |            |            |            |            |        | equivalent | party sub |
+|            |            |            |            |            |        | combinatio | missions  |
+|            |            |            |            |            |        | n...       | to Simply |
+|            |            |            |            |            |        |            | Hired or  |
+|            |            |            |            |            |        |            | its affil |
+|            |            |            |            |            |        |            | iates.    |
+|            |            |            |            |            |        |            | These     |
+|            |            |            |            |            |        |            | figures   |
+|            |            |            |            |            |        |            | are given |
+|            |            |            |            |            |        |            | to the Si |
+|            |            |            |            |            |        |            | mplyHired |
+|            |            |            |            |            |        |            | users for |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | purpose   |
+|            |            |            |            |            |        |            | of genera |
+|            |            |            |            |            |        |            | lized com |
+|            |            |            |            |            |        |            | parison   |
+|            |            |            |            |            |        |            | only.     |
+|            |            |            |            |            |        |            | Minimum   |
+|            |            |            |            |            |        |            | wage may  |
+|            |            |            |            |            |        |            | differ by |
+|            |            |            |            |            |        |            | jurisdict |
+|            |            |            |            |            |        |            | ion and   |
+|            |            |            |            |            |        |            | you       |
+|            |            |            |            |            |        |            | should    |
+|            |            |            |            |            |        |            | consult   |
+|            |            |            |            |            |        |            | the       |
+|            |            |            |            |            |        |            | employer  |
+|            |            |            |            |            |        |            | for       |
+|            |            |            |            |            |        |            | actual    |
+|            |            |            |            |            |        |            | salary    |
+|            |            |            |            |            |        |            | figures.  |
+|            |            |            |            |            |        |            | Send      |
+|            |            |            |            |            |        |            | feedback  |
+|            |            |            |            |            |        |            | or report |
+|            |            |            |            |            |        |            | inaccurac |
+|            |            |            |            |            |        |            | y         |
++------------+------------+------------+------------+------------+--------+------------+-----------+

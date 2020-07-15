@@ -1,0 +1,100 @@
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| definiti | recent   | recent   | recent   | origin   | definiti | medical  | biograph | learn    |
+| on of    | examples | examples | examples | and etym | on of    | definiti | ical     | more     |
+| cesarean | of       | of       | of       | ology of | cesarean | on of    | note for | about    |
+| section  | cesarean | cesarean | cesarean | cesarean | section  | cesarean | cesarean | cesarean |
+|          | section  | section  | section  | section  | for      | section  | section  | section  |
+|          | from the | from the | from the |          | english  |          |          |          |
+|          | web      | web.1    | web.2    |          | language |          |          |          |
+|          |          |          |          |          | learners |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+|  : a     | the 11   | but      | another  | from the | medical  |  : a     | roman    | britanni |
+| surgical | female   | today in | idea is  | legendar | : a      | surgical | general  | ca.com:  |
+| procedur | dogs, in | the      | that     | y associ | surgical | procedur | and stat | encyclop |
+| e involv | cluding  | u.s.,    | after    | ation of | operatio | e involv | esman.   | edia     |
+| ing      | some     | about    | some sur | such a   | n for    | ing      | caesar's | article  |
+| incision | that cur | half of  | geries   | delivery | giving   | incision | connecti | about    |
+| of the   | rently   | all      | —a hyste | with the | birth in | of the   | on with  | cesarean |
+| walls of | were     | births   | rectomy  | roman    | which a  | walls of | the      | section  |
+| the      | nursing, | are      | or       | cognomen | cut is   | the      | cesarean |          |
+| abdomen  | had      | cesarean | cesarean | caesar   | made in  | abdomen  | section  |          |
+| and      | evidence | sections | section  |          | the      | and      | is       |          |
+| uterus   | of       | presched | , for    |          | mother's | uterus   | unclear. |          |
+| for      | cesarean | uled by  | example  |          | body so  | for      | it is    |          |
+| delivery | sections | mom or d | — endome |          | that the | delivery | thought  |          |
+| of offsp | .        | eliverie | trial    |          | baby can | of offsp | by some  |          |
+| ring     |          | s        | cells    |          | be       | ring     | that the |          |
+|          |          | induced  | may some |          | removed  | even a   | operatio |          |
+|          |          | by       | times    |          | through  | history  | n was    |          |
+|          |          | doctors  | attach   |          | the      | of       | named    |          |
+|          |          | concerne | to a     |          | opening  | multiple | after    |          |
+|          |          | d about  | surgical |          |          | cesarean | caesar   |          |
+|          |          | the      | incision |          |          | sections | himself  |          |
+|          |          | mother's | .        |          |          | need not | because  |          |
+|          |          | or       |          |          |          | exclude  | of the   |          |
+|          |          | baby's   |          |          |          | a        | popular, |          |
+|          |          | health.  |          |          |          | pregnant | although |          |
+|          |          |          |          |          |          | woman    | probably |          |
+|          |          |          |          |          |          | from att | erroneou |          |
+|          |          |          |          |          |          | empting  | s,       |          |
+|          |          |          |          |          |          | a        | belief   |          |
+|          |          |          |          |          |          | vaginal  | that he  |          |
+|          |          |          |          |          |          | delivery | was born |          |
+|          |          |          |          |          |          | , new    | by this  |          |
+|          |          |          |          |          |          | research | means.   |          |
+|          |          |          |          |          |          | indicate | on the   |          |
+|          |          |          |          |          |          | s. —     | other    |          |
+|          |          |          |          |          |          | science  | hand, it |          |
+|          |          |          |          |          |          | news ,   | is       |          |
+|          |          |          |          |          |          | 27 aug.  | argued   |          |
+|          |          |          |          |          |          | 1988   — | that the |          |
+|          |          |          |          |          |          | called   | general' |          |
+|          |          |          |          |          |          | also     | s        |          |
+|          |          |          |          |          |          | cesarean | family,  |          |
+|          |          |          |          |          |          | , c-sect | the      |          |
+|          |          |          |          |          |          | ion      | julii,   |          |
+|          |          |          |          |          |          |          | acquired |          |
+|          |          |          |          |          |          |          | the      |          |
+|          |          |          |          |          |          |          | cognomen |          |
+|          |          |          |          |          |          |          | caesar   |          |
+|          |          |          |          |          |          |          | (from    |          |
+|          |          |          |          |          |          |          | latin    |          |
+|          |          |          |          |          |          |          | caedere, |          |
+|          |          |          |          |          |          |          | to cut)  |          |
+|          |          |          |          |          |          |          | because  |          |
+|          |          |          |          |          |          |          | the oper |          |
+|          |          |          |          |          |          |          | ation    |          |
+|          |          |          |          |          |          |          | was once |          |
+|          |          |          |          |          |          |          | performe |          |
+|          |          |          |          |          |          |          | d on a f |          |
+|          |          |          |          |          |          |          | orebear. |          |
+|          |          |          |          |          |          |          | it is    |          |
+|          |          |          |          |          |          |          | also     |          |
+|          |          |          |          |          |          |          | thought  |          |
+|          |          |          |          |          |          |          | that     |          |
+|          |          |          |          |          |          |          | cesarean |          |
+|          |          |          |          |          |          |          | section  |          |
+|          |          |          |          |          |          |          | may      |          |
+|          |          |          |          |          |          |          | derive   |          |
+|          |          |          |          |          |          |          | from lex |          |
+|          |          |          |          |          |          |          | caesaria |          |
+|          |          |          |          |          |          |          | , the    |          |
+|          |          |          |          |          |          |          | name,    |          |
+|          |          |          |          |          |          |          | under    |          |
+|          |          |          |          |          |          |          | the      |          |
+|          |          |          |          |          |          |          | caesars, |          |
+|          |          |          |          |          |          |          | for the  |          |
+|          |          |          |          |          |          |          | law that |          |
+|          |          |          |          |          |          |          | ordered  |          |
+|          |          |          |          |          |          |          | the oper |          |
+|          |          |          |          |          |          |          | ation be |          |
+|          |          |          |          |          |          |          | performe |          |
+|          |          |          |          |          |          |          | d on     |          |
+|          |          |          |          |          |          |          | women    |          |
+|          |          |          |          |          |          |          | dying in |          |
+|          |          |          |          |          |          |          | late pre |          |
+|          |          |          |          |          |          |          | gnancy   |          |
+|          |          |          |          |          |          |          | or in ch |          |
+|          |          |          |          |          |          |          | ildbirth |          |
+|          |          |          |          |          |          |          | .        |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+

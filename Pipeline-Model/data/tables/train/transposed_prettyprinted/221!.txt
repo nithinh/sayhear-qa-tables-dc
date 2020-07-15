@@ -1,0 +1,45 @@
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| Total   | Prevale | Prevale | Prevale | Unnamed | Cause   | Number  | Cause   | Number  | Cause  |
+| alcohol | nce of  | nce of  | nce of  | : 5     | of      | of      | of      | of      | of     |
+| consump | anemia  | anemia  | anemia  |         | death,  | infant  | death,  | under-  | death, |
+| tion    | among   | among c | among   |         | by comm | deaths  | by      | five    | by     |
+| per     | women   | hildren | non-pre |         | unicabl |         | injury  | deaths  | non-co |
+| capita  | of repr | (% of c | gnant   |         | e disea |         | (% of   |         | mmunic |
+| (liters | oductiv | hildren | women   |         | ses and |         | total)  |         | able d |
+| of pure | e age   | under   | (% of   |         | materna |         |         |         | isease |
+| alcohol | (% of   | 5)      | women   |         | l, pren |         |         |         | s (%   |
+| , proje | women   |         | ages    |         | atal    |         |         |         | of     |
+| cted es | ages    |         | 15-49)  |         | and nut |         |         |         | total) |
+| timates | 15-49)  |         |         |         | rition  |         |         |         |        |
+| , 15+   |         |         |         |         | conditi |         |         |         |        |
+| years   |         |         |         |         | ons (%  |         |         |         |        |
+| of age) |         |         |         |         | of      |         |         |         |        |
+|         |         |         |         |         | total)  |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | https:/ | https:/ |         | https:/ | https:/ | https:/ | https:/ | https: |
+| /tradin | /tradin | /tradin | /tradin |         | /tradin | /tradin | /tradin | /tradin | //trad |
+| geconom | geconom | geconom | geconom |         | geconom | geconom | geconom | geconom | ingeco |
+| ics.com | ics.com | ics.com | ics.com |         | ics.com | ics.com | ics.com | ics.com | nomics |
+| /iran/t | /iran/p | /iran/p | /iran/p |         | /iran/c | /iran/n | /iran/c | /iran/n | .com/i |
+| otal-al | revalen | revalen | revalen |         | ause-   | umber-  | ause-   | umber-  | ran/ca |
+| cohol-c | ce-of-  | ce-of-  | ce-of-  |         | of-     | of-     | of-     | of-     | use-   |
+| onsumpt | anemia- | anemia- | anemia- |         | death-  | infant- | death-  | under-  | of-    |
+| ion-    | among-  | among-c | among-  |         | by-comm | deaths- | by-     | five-   | death- |
+| per-    | women-  | hildren | non-pre |         | unicabl | wb-data | injury- | deaths- | by-    |
+| capita- | of-repr | -percen | gnant-  |         | e-disea | .html   | percent | wb-data | non-co |
+| liters- | oductiv | t-of-ch | women-p |         | ses-    |         | -of-    | .html   | mmunic |
+| of-     | e-age-p | ildren- | ercent- |         | and-mat |         | total-  |         | able-d |
+| pure-al | ercent- | under-5 | of-     |         | ernal-p |         | wb-data |         | isease |
+| cohol-p | of-     | -wb-dat | women-a |         | renatal |         | .html   |         | s-perc |
+| rojecte | women-a | a.html  | ges-15- |         | -and-nu |         |         |         | ent-   |
+| d-estim | ges-15- |         | 49-wb-d |         | trition |         |         |         | of-    |
+| ates-15 | 49-wb-d |         | ata.htm |         | -condit |         |         |         | total- |
+| -years- | ata.htm |         | l       |         | ions-pe |         |         |         | wb-dat |
+| of-age- | l       |         |         |         | rcent-  |         |         |         | a.html |
+| wb-data |         |         |         |         | of-     |         |         |         |        |
+| .html   |         |         |         |         | total-  |         |         |         |        |
+|         |         |         |         |         | wb-data |         |         |         |        |
+|         |         |         |         |         | .html   |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| 1       | 30.500  | 28.200  | 30.300  | 3344    | 8.500   | 17381   | 11      | 20278   | 80.500 |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+

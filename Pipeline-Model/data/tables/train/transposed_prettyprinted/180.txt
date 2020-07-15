@@ -1,0 +1,22 @@
++-------+------+------+------+------+------+------+------+------+------+------+------+------+------+
+| Forme | Type | Indu | Genr | Pred | Foun | Foun | Head | Area | Key  | Prod | Pare | Subs | Webs |
+| rly c |      | stry | e    | eces | ded  | der  | quar | serv | peop | ucts | nt   | idia | ite  |
+| alled |      |      |      | sor  |      |      | ters | ed   | le   |      |      | ries |      |
++-------+------+------+------+------+------+------+------+------+------+------+------+------+------+
+| Marve | Subs | Film | Supe | Marv | 1993 | Avi  | 500  | Worl | Kevi | Moti | Walt | Marv | marv |
+| l     | idia |      | rher | el P | ; 25 | Arad | S. B | dwid | n Fe | on p | Disn | el M | el.c |
+| Films | ry   |      | o fi | rodu | year | ; To | uena | e    | ige  | ictu | ey S | usic | om/m |
+| (1993 |      |      | ctio | ctio | s    | yBiz | Vist |      |      | res  | tudi | ;    | ovie |
+| –1996 |      |      | n    | ns   | ago  | ; Ma | a St |      |      |      | os   | MVL  | s/   |
+| )     |      |      |      |      | (199 | rvel | reet |      |      |      | (The | Prod |      |
+|       |      |      |      |      | 3)   | Ente | ,    |      |      |      | Walt | ucti |      |
+|       |      |      |      |      |      | rtai |  Bur |      |      |      | Disn | ons  |      |
+|       |      |      |      |      |      | nmen | bank |      |      |      | ey C | LLC  |      |
+|       |      |      |      |      |      | t Gr | , Ca |      |      |      | ompa |      |      |
+|       |      |      |      |      |      | oup  | lifo |      |      |      | ny); |      |      |
+|       |      |      |      |      |      |      | rnia |      |      |      | Walt |      |      |
+|       |      |      |      |      |      |      | [1]  |      |      |      | Disn |      |      |
+|       |      |      |      |      |      |      |      |      |      |      | ey S |      |      |
+|       |      |      |      |      |      |      |      |      |      |      | tudi |      |      |
+|       |      |      |      |      |      |      |      |      |      |      | os   |      |      |
++-------+------+------+------+------+------+------+------+------+------+------+------+------+------+

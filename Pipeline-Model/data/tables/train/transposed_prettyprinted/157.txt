@@ -1,0 +1,131 @@
++------------------------------------------------------+------+----------------------+-------------+
+| url                                                  | Rank | Team                 | 2017_Record |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 1    | Philadelphia Eagles  | 13-3        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 2    | New England Patriots | 13-3        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 3    | Minnesota Vikings    | 13-3        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 4    | New Orleans Saints   | 11-5        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 5    | Pittsburgh Steelers  | 13-3        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 6    | Los Angeles Rams     | 11-5        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 7    | Atlanta Falcons      | 10-6        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 8    | Jacksonville Jaguars | 10-6        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 9    | Green Bay Packers    | 7-9         |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 10   | Houston Texans       | 4-12        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 11   | San Francisco 49ers  | 6-10        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 12   | Carolina Panthers    | 11-5        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 13   | Seattle Seahawks     | 9-7         |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 14   | Kansas City Chiefs   | 10-6        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 15   | Los Angeles Chargers | 9-7         |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 16   | Tennessee Titans     | 9-7         |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 17   | Dallas Cowboys       | 9-7         |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 18   | Detroit Lions        | 9-7         |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 19   | Denver Broncos       | 5-11        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 20   | Washington Redskins  | 7-9         |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 21   | Oakland Raiders      | 6-10        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 22   | Cincinnati Bengals   | 7-9         |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 23   | Buffalo Bills        | 9-7         |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 24   | Baltimore Ravens     | 9-7         |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 25   | Tampa Bay Buccaneers | 5-11        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 26   | New York Jets        | 5-11        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 27   | New York Giants      | 3-13        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 28   | Chicago Bears        | 5-11        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 29   | Arizona Cardinals    | 8-8         |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 30   | Cleveland Browns     | 0-16        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 31   | Indianapolis Colts   | 4-12        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+
+| http://www.espn.com/nfl/story/_/page/NFLpowerranking | 32   | Miami Dolphins       | 6-10        |
+| sx180327/2018-nfl-power-rankings-risers-fallers-     |      |                      |             |
+| free-agency                                          |      |                      |             |
++------------------------------------------------------+------+----------------------+-------------+

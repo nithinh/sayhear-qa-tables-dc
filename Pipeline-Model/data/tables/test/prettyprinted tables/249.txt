@@ -1,0 +1,14 @@
++---------------+----------------------------------------------------------------------------------+
+| Key           | Value                                                                            |
++---------------+----------------------------------------------------------------------------------+
+| similarities: | a double coat heavy seasonal shedders high prey drive friendly with people needs |
+|               | a firm leader                                                                    |
++---------------+----------------------------------------------------------------------------------+
+| differences:  | the alaskan malamute is much larger and stronger than the siberian husky. the    |
+|               | malamute never has blue eyes like the siberian husky. the siberian husky has a   |
+|               | longer lifespan on average. the siberian husky is a faster runner. the siberian  |
+|               | husky needs lots more vigorous exercise (e.g. hiking, jogging). the siberian     |
+|               | husky is more intelligent than the malamute. the alaskan malamute is calmer      |
+|               | indoors than the siberian husky. the siberian husky is more sociable with other  |
+|               | dogs. the siberian husky prefers to live with other dogs.                        |
++---------------+----------------------------------------------------------------------------------+

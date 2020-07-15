@@ -1,0 +1,23 @@
++----------------------+---------------+----------------------+--------+-----+---------------------+
+| url                  | Name          | Name_link            | Date   | Day | Description         |
++----------------------+---------------+----------------------+--------+-----+---------------------+
+| https://www.hebcal.c | Tu BiShvat    | https://www.hebcal.c | Jan 31 | W   | New Year for Trees  |
+| om/holidays/2018     |               | om/holidays/tu-      |        |     |                     |
+|                      |               | bishvat              |        |     |                     |
++----------------------+---------------+----------------------+--------+-----+---------------------+
+| https://www.hebcal.c | Shushan Purim | https://www.hebcal.c | Mar 2  | F   | Purim celebrated in |
+| om/holidays/2018     |               | om/holidays/shushan- |        |     | Jerusalem and       |
+|                      |               | purim                |        |     | walled cities       |
++----------------------+---------------+----------------------+--------+-----+---------------------+
+| https://www.hebcal.c | Pesach Sheni  | https://www.hebcal.c | Apr 29 | Su  | Second Passover,    |
+| om/holidays/2018     |               | om/holidays/pesach-  |        |     | one month after     |
+|                      |               | sheni                |        |     | Passover            |
++----------------------+---------------+----------------------+--------+-----+---------------------+
+| https://www.hebcal.c | Lag BaOmer    | https://www.hebcal.c | May 3  | Th  | 33rd day of         |
+| om/holidays/2018     |               | om/holidays/lag-     |        |     | counting the Omer   |
+|                      |               | baomer               |        |     |                     |
++----------------------+---------------+----------------------+--------+-----+---------------------+
+| https://www.hebcal.c | Tu B'Av       | https://www.hebcal.c | Jul 27 | F   | Jewish holiday of   |
+| om/holidays/2018     |               | om/holidays/tu-bav   |        |     | love, similar to    |
+|                      |               |                      |        |     | Valentine's Day     |
++----------------------+---------------+----------------------+--------+-----+---------------------+

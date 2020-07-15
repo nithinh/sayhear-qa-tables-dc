@@ -1,0 +1,318 @@
++-------------------------------------+------+-----------------------------------------------------+
+| url                                 | Year | Result                                              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1887 | Shadow; first official trip to Gobbler's Knob.      |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1888 | Shadow (Six more weeks of Winter!)                  |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1889 | no record                                           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1890 | NO Shadow (early Spring!)                           |
+|                                     |      | [Birthdate: Charles Correll ("Andy" on radio's Amos |
+|                                     |      | & Andy)]                                            |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1891 | no record                                           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1892 | no record                                           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1893 | no record                                           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1894 | no record                                           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1895 | no record                                           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1896 | no record                                           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1897 | no record                                           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1898 | Shadow                                              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1899 | no record                                           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1900 | Shadow                                              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1901 | Shadow [Birthdate: Jascha Heifetz, violinist]       |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1902 | NO Shadow                                           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1903 | Shadow                                              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1904 | Shadow                                              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1905 | Shadow [Birthdate: Ayn Rand, novelist-philosopher]  |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1906 | Shadow [Birthdate: Gale Gordon, actor]              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1907 | Shadow                                              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1908 | Shadow [Birthdate: Clarence "Buster" Crabbe,        |
+|                                     |      | Olympic swimmer/actor]                              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1909 | Shadow                                              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1910 | Shadow                                              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1911 | Shadow                                              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1912 | Shadow [Birthdate: Burton Lane, Broadway composer]  |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1913 | Shadow at 8:08 AM; first newspaper photo of         |
+|                                     |      | Groundhog Day by John Frampton.                     |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1914 | Shadow at 9:34 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1915 | Shadow at 11:45 AM; named Wiley William Woodchuck!  |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1916 | Shadow at 9:07 AM; first movie film of Groundhog    |
+|                                     |      | Day ceremony (17.5mm Birtac).                       |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1917 | Shadow                                              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1918 | Shadow; 18 degrees below zero.                      |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1919 | Shadow [Birthdate: Forrest Tucker, actor]           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1920 | Shadow                                              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1921 | Shadow at 7:17 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1922 | Shadow at 7:11 AM; Groundhog Holiday Dance.         |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1923 | Shadow [Birthdate: Liz Smith, gossip columnist]     |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1924 | Shadow at 7:13 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1925 | Shadow at 8:13 AM; [Birthdate: Elaine Stritch,      |
+|                                     |      | actress]                                            |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1926 | Shadow at 9:17 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1927 | Shadow at 8:35 AM; [Birthdate: Stan Getz, jazz      |
+|                                     |      | saxophonist]                                        |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1928 | Shadow at 10:00 AM; program with Punx'y Rotary Club |
+|                                     |      | on KDKA Radio.                                      |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1929 | Shadow                                              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1930 | Shadow at 7:11 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1931 | Shadow at 12:27 PM                                  |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1932 | Shadow at 9:11 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1933 | Shadow                                              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1934 | NO Shadow.                                          |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1935 | Shadow at 9:11 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1936 | Shadow at 10:27 AM                                  |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1937 | Shadow at 9:09 AM; early morning encounter with a   |
+|                                     |      | skunk!                                              |
+|                                     |      | [Birthdate: Tom Smothers, comedian]                 |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1938 | Shadow at 9:05 AM; "darkest shadow in history"      |
+|                                     |      | (The Spirit, Feb. 2, 1938)                          |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1939 | Shadow at 9:10 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1940 | Shadow at 9:00 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1941 | Shadow at 4:25 PM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1942 | Partial Shadow at 7:40 AM; "War clouds have blacked |
+|                                     |      | out parts of the shadow."                           |
+|                                     |      | (The Spirit, Feb. 2, 1942) [Birthdate: Graham Nash, |
+|                                     |      | guitarist, singer]                                  |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1943 | Groundhog did not appear; relied on Quarryville's   |
+|                                     |      | prediction - NO Shadow                              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1944 | Shadow at 9:10 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1945 | Shadow at 9:00 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1946 | Shadow at 7:52 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1947 | Shadow at 7:37 AM; first newspaper photo of         |
+|                                     |      | Groundhog Club at Gobbler's Knob                    |
+|                                     |      | [Birthdate: Farrah Fawcett, actress, model]         |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1948 | Shadow at 8:46 AM; [Birthdate: Jessica Savitch, NBC |
+|                                     |      | news anchor]                                        |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1949 | Shadow at 7:32 AM; [Birthdate: Brent Spiner, actor] |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1950 | NO Shadow                                           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1951 | Shadow at 8:41 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1952 | Shadow at 7:52 AM; on NBC's Today Show on Monday,   |
+|                                     |      | February 4                                          |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1953 | Shadow at 7:38 AM; [Birthdate: Penny Pulz, LPGA     |
+|                                     |      | golfer]                                             |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1954 | Shadow at 8:03 AM; [Birthdate: Christie Brinkley,   |
+|                                     |      | Cover Girl model]                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1955 | Shadow at 8:51 AM; 4" of snow on Groundhog Day;     |
+|                                     |      | [Birthdate: Kim Zimmer, soap opera actress]         |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1956 | Shadow at 8:33 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1957 | Shadow at 7:47 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1958 | Shadow at 8:27 AM; [Birthdate: Holly Hunter,        |
+|                                     |      | actress]                                            |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1959 | Shadow at 8:23 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1960 | Shadow at 7:33 AM; forecasts extremely bad weather  |
+|                                     |      | on the Today show.                                  |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1961 | Shadow at 7:41 AM; 25 below zero.                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1962 | Shadow at 7:29 AM; [Birthdate: Garth Brooks,        |
+|                                     |      | singer]                                             |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1963 | Shadow at 7:41 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1964 | Shadow at 7:35 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1965 | Shadow at 7:58 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1966 | Shadow at 7:21 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1967 | Shadow at 7:25 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1968 | Shadow at 7:29 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1969 | Shadow at 7:29 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1970 | NO Shadow                                           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1971 | Shadow at 7:29 AM; 14 below zero.                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1972 | Shadow at 7:30 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1973 | Shadow at 7:29 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1974 | Shadow at 7:28 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1975 | NO Shadow                                           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1976 | Shadow at 7:29 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1977 | Shadow at 7:27; in midst of the energy crisis.      |
+|                                     |      | [Birthdate: Shakira, singer]                        |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1978 | Shadow at 7:28 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1979 | Shadow at 7:28 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1980 | Shadow at 7:29 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1981 | Shadow at 7:27 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1982 | Shadow at 7:26 AM; coldest January this Century.    |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1983 | NO Shadow; predicted an early Spring after a mild   |
+|                                     |      | El Nino Winter.                                     |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1984 | Shadow at 7:04 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1985 | Shadow at 7:28 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1986 | NO Shadow; visited President Reagan at the White    |
+|                                     |      | House in March.                                     |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1987 | Shadow at 7:29 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1988 | NO Shadow                                           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1989 | Shadow                                              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1990 | NO Shadow                                           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1991 | Shadow                                              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1992 | Shadow                                              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1993 | Shadow; the movie Groundhog Day with Bill Murray is |
+|                                     |      | released.                                           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1994 | Shadow at 7:28 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1995 | NO Shadow; afternoon guest on the "Oprah Winfrey"   |
+|                                     |      | TV Show.                                            |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1996 | Shadow at 7:21 AM                                   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1997 | NO Shadow; 35,000 watched at Gobbler's Knob         |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1998 | Shadow at 7:20 AM; predicting six more weeks of a   |
+|                                     |      | mild El Nino Winter!                                |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 1999 | NO Shadow at 7:23 AM; 37º rain                      |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 2000 | Shadow at 7:28 AM; 12º overcast skies with flurries |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 2001 | Shadow at 7:27 AM; 28º cloudy skies with light snow |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 2002 | Shadow at 7:25 AM; 19º mist with a record 38,000    |
+|                                     |      | visitors driven to Gobbler's Knob by bus for        |
+|                                     |      | security.                                           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 2003 | Shadow at 7:27 AM; 30º overcast skies with PA       |
+|                                     |      | Governor Ed Rendell attending the ceremony.         |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 2004 | Shadow at 7:27 AM; 17º clear skies with snow on the |
+|                                     |      | ground, crowd boos the forecast!                    |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 2005 | Shadow at 7:31 AM; 14º clear skies with a wind      |
+|                                     |      | chill of 3ºF.                                       |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 2006 | Shadow at 7:23 AM; 36º overcast skies with the      |
+|                                     |      | crowd cheering the Steelers in Super Bowl XL.       |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 2007 | NO Shadow at 7:28 AM; 26º overcast skies with light |
+|                                     |      | snow and mist under a Full Moon.                    |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 2008 | Shadow at 7:27 AM; 28º fog and mist with the crowd  |
+|                                     |      | booing six more weeks of Winter.                    |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 2009 | Shadow at 7:30 AM; 29º overcast skies as the crowd  |
+|                                     |      | cheers the Steelers' Super Bowl XLIII victory.      |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 2010 | Shadow at 7:23 AM; 15º hazy sun and a visit from    |
+|                                     |      | actor Stephen Tobolowsky (Ned Ryerson).             |
+|                                     |      |  Animal rights group PETA demands Punxsy Phil be    |
+|                                     |      | replaced by a robot. LOL!                           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 2011 | NO Shadow at 7:25 AM; 34º with rain, snow, and ice  |
+|                                     |      | covering Gobbler's Knob.                            |
+|                                     |      |  The crowd cheers for Spring and Super Bowl XLV     |
+|                                     |      | with the Steelers!                                  |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 2012 | Shadow at 7:24 AM; 30º overcast skies with PA       |
+|                                     |      | Governor Tom Corbett attending the ceremony.        |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 2013 | NO Shadow at 7:28 AM; 8º overcast skies with a      |
+|                                     |      | Saturday crowd of more than 30,000.                 |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 2014 | Shadow at 7:28 AM; 39º overcast skies with fog.     |
+|                                     |      | It's Super Bowl XLVIII Sunday.                      |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 2015 | Shadow at 7:23 AM; 34º freezing rain and drizzle.   |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 2016 | NO Shadow at 7:25 AM; 24º clear skies.              |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 2017 | Shadow at 7:23 AM; 27º overcast skies with snow     |
+|                                     |      | flurries.                                           |
++-------------------------------------+------+-----------------------------------------------------+
+| http://www.stormfax.com/ghogday.htm | 2018 | Shadow at 7:20 AM; 9º cloudy skies with -7º Wind    |
+|                                     |      | Chill.                                              |
++-------------------------------------+------+-----------------------------------------------------+

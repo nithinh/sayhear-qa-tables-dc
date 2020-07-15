@@ -1,0 +1,904 @@
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| url     | Number | Preside | Preside | Preside | Preside | Dates_b | Lived   | Prior_o | Party   |
+|         |        | ncy_-   | ncy_-   | nt      | nt_link | irth_an |         | ffice   |         |
+|         |        | _begin  | _end    |         |         | d_death |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 1      | April   | March   | George  | https:/ | 1732–17 | (Lived: | Command |         |
+| /en.wik |        | 30,     | 4, 1797 | Washing | /en.wik | 99      | 67      | er-in-  |         |
+| ipedia. |        | 1789    |         | ton     | ipedia. |         | years)  | Chief   |         |
+| org/wik |        |         |         |         | org/wik |         |         |  of the |         |
+| i/List_ |        |         |         |         | i/Georg |         |         |  Contin |         |
+| of_Pres |        |         |         |         | e_Washi |         |         | ental   |         |
+| idents_ |        |         |         |         | ngton   |         |         | Army    |         |
+| of_the_ |        |         |         |         |         |         |         |  (1775– |         |
+| United_ |        |         |         |         |         |         |         | 1783)   |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 1      | April   | March   | George  | https:/ | 1732–17 | (Lived: | Command |         |
+| /en.wik |        | 30,     | 4, 1797 | Washing | /en.wik | 99      | 67      | er-in-  |         |
+| ipedia. |        | 1789    |         | ton     | ipedia. |         | years)  | Chief   |         |
+| org/wik |        |         |         |         | org/wik |         |         |  of the |         |
+| i/List_ |        |         |         |         | i/Georg |         |         |  Contin |         |
+| of_Pres |        |         |         |         | e_Washi |         |         | ental   |         |
+| idents_ |        |         |         |         | ngton   |         |         | Army    |         |
+| of_the_ |        |         |         |         |         |         |         |  (1775– |         |
+| United_ |        |         |         |         |         |         |         | 1783)   |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 2      | March   | March   | John    | https:/ | 1735–18 | (Lived: | 1st     | Federal |
+| /en.wik |        | 4, 1797 | 4, 1801 | Adams   | /en.wik | 26      | 90      |  Vice P | ist     |
+| ipedia. |        |         |         |         | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/John_ |         |         | the     |         |
+| of_Pres |        |         |         |         | Adams   |         |         | United  |         |
+| idents_ |        |         |         |         |         |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 3      | March   | March   | Thomas  | https:/ | 1743–18 | (Lived: | 2nd     | Democra |
+| /en.wik |        | 4, 1801 | 4, 1809 | Jeffers | /en.wik | 26      | 83      |  Vice P | tic-    |
+| ipedia. |        |         |         | on      | ipedia. |         | years)  | residen |  Republ |
+| org/wik |        |         |         |         | org/wik |         |         | t of    | ican    |
+| i/List_ |        |         |         |         | i/Thoma |         |         | the     |         |
+| of_Pres |        |         |         |         | s_Jeffe |         |         | United  |         |
+| idents_ |        |         |         |         | rson    |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 3      | March   | March   | Thomas  | https:/ | 1743–18 | (Lived: | 2nd     | Democra |
+| /en.wik |        | 4, 1801 | 4, 1809 | Jeffers | /en.wik | 26      | 83      |  Vice P | tic-    |
+| ipedia. |        |         |         | on      | ipedia. |         | years)  | residen |  Republ |
+| org/wik |        |         |         |         | org/wik |         |         | t of    | ican    |
+| i/List_ |        |         |         |         | i/Thoma |         |         | the     |         |
+| of_Pres |        |         |         |         | s_Jeffe |         |         | United  |         |
+| idents_ |        |         |         |         | rson    |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 4      | March   | March   | James   | https:/ | 1751–18 | (Lived: | 5th     | Democra |
+| /en.wik |        | 4, 1809 | 4, 1817 | Madison | /en.wik | 36      | 85      |  United | tic-    |
+| ipedia. |        |         |         |         | ipedia. |         | years)  | States  |  Republ |
+| org/wik |        |         |         |         | org/wik |         |         | Secreta | ican    |
+| i/List_ |        |         |         |         | i/James |         |         | ry of   |         |
+| of_Pres |        |         |         |         | _Madiso |         |         | State   |         |
+| idents_ |        |         |         |         | n       |         |         |  (1801– |         |
+| of_the_ |        |         |         |         |         |         |         | 1809)   |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 4      | March   | March   | James   | https:/ | 1751–18 | (Lived: | 5th     | Democra |
+| /en.wik |        | 4, 1809 | 4, 1817 | Madison | /en.wik | 36      | 85      |  United | tic-    |
+| ipedia. |        |         |         |         | ipedia. |         | years)  | States  |  Republ |
+| org/wik |        |         |         |         | org/wik |         |         | Secreta | ican    |
+| i/List_ |        |         |         |         | i/James |         |         | ry of   |         |
+| of_Pres |        |         |         |         | _Madiso |         |         | State   |         |
+| idents_ |        |         |         |         | n       |         |         |  (1801– |         |
+| of_the_ |        |         |         |         |         |         |         | 1809)   |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 4      | March   | March   | James   | https:/ | 1751–18 | (Lived: | 5th     | Democra |
+| /en.wik |        | 4, 1809 | 4, 1817 | Madison | /en.wik | 36      | 85      |  United | tic-    |
+| ipedia. |        |         |         |         | ipedia. |         | years)  | States  |  Republ |
+| org/wik |        |         |         |         | org/wik |         |         | Secreta | ican    |
+| i/List_ |        |         |         |         | i/James |         |         | ry of   |         |
+| of_Pres |        |         |         |         | _Madiso |         |         | State   |         |
+| idents_ |        |         |         |         | n       |         |         |  (1801– |         |
+| of_the_ |        |         |         |         |         |         |         | 1809)   |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 4      | March   | March   | James   | https:/ | 1751–18 | (Lived: | 5th     | Democra |
+| /en.wik |        | 4, 1809 | 4, 1817 | Madison | /en.wik | 36      | 85      |  United | tic-    |
+| ipedia. |        |         |         |         | ipedia. |         | years)  | States  |  Republ |
+| org/wik |        |         |         |         | org/wik |         |         | Secreta | ican    |
+| i/List_ |        |         |         |         | i/James |         |         | ry of   |         |
+| of_Pres |        |         |         |         | _Madiso |         |         | State   |         |
+| idents_ |        |         |         |         | n       |         |         |  (1801– |         |
+| of_the_ |        |         |         |         |         |         |         | 1809)   |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 5      | March   | March   | James   | https:/ | 1758–18 | (Lived: | 7th     | Democra |
+| /en.wik |        | 4, 1817 | 4, 1825 | Monroe  | /en.wik | 31      | 73      |  United | tic-    |
+| ipedia. |        |         |         |         | ipedia. |         | years)  | States  |  Republ |
+| org/wik |        |         |         |         | org/wik |         |         | Secreta | ican    |
+| i/List_ |        |         |         |         | i/James |         |         | ry of   |         |
+| of_Pres |        |         |         |         | _Monroe |         |         | State   |         |
+| idents_ |        |         |         |         |         |         |         |  (1811– |         |
+| of_the_ |        |         |         |         |         |         |         | 1817)   |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 5      | March   | March   | James   | https:/ | 1758–18 | (Lived: | 7th     | Democra |
+| /en.wik |        | 4, 1817 | 4, 1825 | Monroe  | /en.wik | 31      | 73      |  United | tic-    |
+| ipedia. |        |         |         |         | ipedia. |         | years)  | States  |  Republ |
+| org/wik |        |         |         |         | org/wik |         |         | Secreta | ican    |
+| i/List_ |        |         |         |         | i/James |         |         | ry of   |         |
+| of_Pres |        |         |         |         | _Monroe |         |         | State   |         |
+| idents_ |        |         |         |         |         |         |         |  (1811– |         |
+| of_the_ |        |         |         |         |         |         |         | 1817)   |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 6      | March   | March   | John    | https:/ | 1767–18 | (Lived: | 8th     | Democra |
+| /en.wik |        | 4, 1825 | 4, 1829 | Quincy  | /en.wik | 48      | 80      |  United | tic-    |
+| ipedia. |        |         |         | Adams   | ipedia. |         | years)  | States  |  Republ |
+| org/wik |        |         |         |         | org/wik |         |         | Secreta | ican    |
+| i/List_ |        |         |         |         | i/John_ |         |         | ry of   |         |
+| of_Pres |        |         |         |         | Quincy_ |         |         | State   |         |
+| idents_ |        |         |         |         | Adams   |         |         |  (1817– |         |
+| of_the_ |        |         |         |         |         |         |         | 1825)   |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 7      | March   | March   | Andrew  | https:/ | 1767–18 | (Lived: | U.S.    | Democra |
+| /en.wik |        | 4, 1829 | 4, 1837 | Jackson | /en.wik | 45      | 78      | Senator | tic     |
+| ipedia. |        |         |         |         | ipedia. |         | years)  | (Class  |         |
+| org/wik |        |         |         |         | org/wik |         |         | 2) from |         |
+| i/List_ |        |         |         |         | i/Andre |         |         | Tenness |         |
+| of_Pres |        |         |         |         | w_Jacks |         |         | ee      |         |
+| idents_ |        |         |         |         | on      |         |         |  (1797– |         |
+| of_the_ |        |         |         |         |         |         |         | 1798 &  |         |
+| United_ |        |         |         |         |         |         |         | 1823–18 |         |
+| States  |        |         |         |         |         |         |         | 25)     |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 7      | March   | March   | Andrew  | https:/ | 1767–18 | (Lived: | U.S.    | Democra |
+| /en.wik |        | 4, 1829 | 4, 1837 | Jackson | /en.wik | 45      | 78      | Senator | tic     |
+| ipedia. |        |         |         |         | ipedia. |         | years)  | (Class  |         |
+| org/wik |        |         |         |         | org/wik |         |         | 2) from |         |
+| i/List_ |        |         |         |         | i/Andre |         |         | Tenness |         |
+| of_Pres |        |         |         |         | w_Jacks |         |         | ee      |         |
+| idents_ |        |         |         |         | on      |         |         |  (1797– |         |
+| of_the_ |        |         |         |         |         |         |         | 1798 &  |         |
+| United_ |        |         |         |         |         |         |         | 1823–18 |         |
+| States  |        |         |         |         |         |         |         | 25)     |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 7      | March   | March   | Andrew  | https:/ | 1767–18 | (Lived: | U.S.    | Democra |
+| /en.wik |        | 4, 1829 | 4, 1837 | Jackson | /en.wik | 45      | 78      | Senator | tic     |
+| ipedia. |        |         |         |         | ipedia. |         | years)  | (Class  |         |
+| org/wik |        |         |         |         | org/wik |         |         | 2) from |         |
+| i/List_ |        |         |         |         | i/Andre |         |         | Tenness |         |
+| of_Pres |        |         |         |         | w_Jacks |         |         | ee      |         |
+| idents_ |        |         |         |         | on      |         |         |  (1797– |         |
+| of_the_ |        |         |         |         |         |         |         | 1798 &  |         |
+| United_ |        |         |         |         |         |         |         | 1823–18 |         |
+| States  |        |         |         |         |         |         |         | 25)     |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 8      | March   | March   | Martin  | https:/ | 1782–18 | (Lived: | 8th     | Democra |
+| /en.wik |        | 4, 1837 | 4, 1841 | Van     | /en.wik | 62      | 79      |  Vice P | tic     |
+| ipedia. |        |         |         | Buren   | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Marti |         |         | the     |         |
+| of_Pres |        |         |         |         | n_Van_B |         |         | United  |         |
+| idents_ |        |         |         |         | uren    |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 9      | March   | April   | William | https:/ | 1773–18 | (Lived: | United  | Whig    |
+| /en.wik |        | 4, 1841 | 4, 1841 | Henry H | /en.wik | 41      | 68      | States  |         |
+| ipedia. |        |         |         | arrison | ipedia. |         | years)  | Ministe |         |
+| org/wik |        |         |         |         | org/wik |         |         | r to Co |         |
+| i/List_ |        |         |         |         | i/Willi |         |         | lombia  |         |
+| of_Pres |        |         |         |         | am_Henr |         |         |  (1828– |         |
+| idents_ |        |         |         |         | y_Harri |         |         | 1829)   |         |
+| of_the_ |        |         |         |         | son     |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 10     | April   | March   | John    | https:/ | 1790–18 | (Lived: | 10th    | Whig    |
+| /en.wik |        | 4, 1841 | 4, 1845 | Tyler   | /en.wik | 62      | 71      |  Vice P |         |
+| ipedia. |        |  [k]    |         |         | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/John_ |         |         | the     |         |
+| of_Pres |        |         |         |         | Tyler   |         |         | United  |         |
+| idents_ |        |         |         |         |         |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 10     | April   | March   | John    | https:/ | 1790–18 | (Lived: | 10th    |         |
+| /en.wik |        | 4, 1841 | 4, 1845 | Tyler   | /en.wik | 62      | 71      |  Vice P |         |
+| ipedia. |        |  [k]    |         |         | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/John_ |         |         | the     |         |
+| of_Pres |        |         |         |         | Tyler   |         |         | United  |         |
+| idents_ |        |         |         |         |         |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 11     | March   | March   | James   | https:/ | 1795–18 | (Lived: | 9th     | Democra |
+| /en.wik |        | 4, 1845 | 4, 1849 | K. Polk | /en.wik | 49      | 53      |  Govern | tic     |
+| ipedia. |        |         |         |         | ipedia. |         | years)  | or of T |         |
+| org/wik |        |         |         |         | org/wik |         |         | ennesse |         |
+| i/List_ |        |         |         |         | i/James |         |         | e       |         |
+| of_Pres |        |         |         |         | _K._Pol |         |         |  (1839– |         |
+| idents_ |        |         |         |         | k       |         |         | 1841)   |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 12     | March   | July 9, | Zachary | https:/ | 1784–18 | (Lived: | Major   | Whig    |
+| /en.wik |        | 4, 1849 | 1850    | Taylor  | /en.wik | 50      | 65      | General |         |
+| ipedia. |        |         |         |         | ipedia. |         | years)  | of the  |         |
+| org/wik |        |         |         |         | org/wik |         |         | 1st Inf |         |
+| i/List_ |        |         |         |         | i/Zacha |         |         | antry R |         |
+| of_Pres |        |         |         |         | ry_Tayl |         |         | egiment |         |
+| idents_ |        |         |         |         | or      |         |         |  United |         |
+| of_the_ |        |         |         |         |         |         |         | States  |         |
+| United_ |        |         |         |         |         |         |         | Army    |         |
+| States  |        |         |         |         |         |         |         |  (1846– |         |
+|         |        |         |         |         |         |         |         | 1849)   |         |
+|         |        |         |         |         |         |         |         |  (No    |         |
+|         |        |         |         |         |         |         |         | prior   |         |
+|         |        |         |         |         |         |         |         | elected |         |
+|         |        |         |         |         |         |         |         | office) |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 13     | July 9, | March   | Millard | https:/ | 1800–18 | (Lived: | 12th    | Whig    |
+| /en.wik |        | 1850    | 4, 1853 | Fillmor | /en.wik | 74      | 74      |  Vice P |         |
+| ipedia. |        |  [m]    |         | e       | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Milla |         |         | the     |         |
+| of_Pres |        |         |         |         | rd_Fill |         |         | United  |         |
+| idents_ |        |         |         |         | more    |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 14     | March   | March   | Frankli | https:/ | 1804–18 | (Lived: | Brigadi | Democra |
+| /en.wik |        | 4, 1853 | 4, 1857 | n       | /en.wik | 69      | 64      | er      | tic     |
+| ipedia. |        |         |         | Pierce  | ipedia. |         | years)  | General |         |
+| org/wik |        |         |         |         | org/wik |         |         | of the  |         |
+| i/List_ |        |         |         |         | i/Frank |         |         | 9th Inf |         |
+| of_Pres |        |         |         |         | lin_Pie |         |         | antry   |         |
+| idents_ |        |         |         |         | rce     |         |         |  United |         |
+| of_the_ |        |         |         |         |         |         |         | States  |         |
+| United_ |        |         |         |         |         |         |         | Army    |         |
+| States  |        |         |         |         |         |         |         |  (1847– |         |
+|         |        |         |         |         |         |         |         | 1848)   |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 14     | March   | March   | Frankli | https:/ | 1804–18 | (Lived: | Brigadi | Democra |
+| /en.wik |        | 4, 1853 | 4, 1857 | n       | /en.wik | 69      | 64      | er      | tic     |
+| ipedia. |        |         |         | Pierce  | ipedia. |         | years)  | General |         |
+| org/wik |        |         |         |         | org/wik |         |         | of the  |         |
+| i/List_ |        |         |         |         | i/Frank |         |         | 9th Inf |         |
+| of_Pres |        |         |         |         | lin_Pie |         |         | antry   |         |
+| idents_ |        |         |         |         | rce     |         |         |  United |         |
+| of_the_ |        |         |         |         |         |         |         | States  |         |
+| United_ |        |         |         |         |         |         |         | Army    |         |
+| States  |        |         |         |         |         |         |         |  (1847– |         |
+|         |        |         |         |         |         |         |         | 1848)   |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 15     | March   | March   | James B | https:/ | 1791–18 | (Lived: | United  | Democra |
+| /en.wik |        | 4, 1857 | 4, 1861 | uchanan | /en.wik | 68      | 77      | States  | tic     |
+| ipedia. |        |         |         |         | ipedia. |         | years)  | Ministe |         |
+| org/wik |        |         |         |         | org/wik |         |         | r to    |         |
+| i/List_ |        |         |         |         | i/James |         |         | the     |         |
+| of_Pres |        |         |         |         | _Buchan |         |         |  Court  |         |
+| idents_ |        |         |         |         | an      |         |         | of St   |         |
+| of_the_ |        |         |         |         |         |         |         | James's |         |
+| United_ |        |         |         |         |         |         |         |  (1853– |         |
+| States  |        |         |         |         |         |         |         | 1856)   |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 16     | March   | April   | Abraham | https:/ | 1809–18 | (Lived: | U.S. Re | Republi |
+| /en.wik |        | 4, 1861 | 15,     | Lincoln | /en.wik | 65      | 56      | present | can     |
+| ipedia. |        |         | 1865    |         | ipedia. |         | years)  | ative   |         |
+| org/wik |        |         |         |         | org/wik |         |         | for Ill |         |
+| i/List_ |        |         |         |         | i/Abrah |         |         | inois's |         |
+| of_Pres |        |         |         |         | am_Linc |         |         | 7th Dis |         |
+| idents_ |        |         |         |         | oln     |         |         | trict   |         |
+| of_the_ |        |         |         |         |         |         |         |  (1847– |         |
+| United_ |        |         |         |         |         |         |         | 1849)   |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 16     | March   | April   | Abraham | https:/ | 1809–18 | (Lived: | U.S. Re | Republi |
+| /en.wik |        | 4, 1861 | 15,     | Lincoln | /en.wik | 65      | 56      | present | can     |
+| ipedia. |        |         | 1865    |         | ipedia. |         | years)  | ative   |         |
+| org/wik |        |         |         |         | org/wik |         |         | for Ill |         |
+| i/List_ |        |         |         |         | i/Abrah |         |         | inois's |         |
+| of_Pres |        |         |         |         | am_Linc |         |         | 7th Dis |         |
+| idents_ |        |         |         |         | oln     |         |         | trict   |         |
+| of_the_ |        |         |         |         |         |         |         |  (1847– |         |
+| United_ |        |         |         |         |         |         |         | 1849)   |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 17     | April   | March   | Andrew  | https:/ | 1808–18 | (Lived: | 16th    | Nationa |
+| /en.wik |        | 15,     | 4, 1869 | Johnson | /en.wik | 75      | 66      |  Vice P | l Union |
+| ipedia. |        | 1865    |         |         | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Andre |         |         | the     |         |
+| of_Pres |        |         |         |         | w_Johns |         |         | United  |         |
+| idents_ |        |         |         |         | on      |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 17     | April   | March   | Andrew  | https:/ | 1808–18 | (Lived: | 16th    | Democra |
+| /en.wik |        | 15,     | 4, 1869 | Johnson | /en.wik | 75      | 66      |  Vice P | tic     |
+| ipedia. |        | 1865    |         |         | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Andre |         |         | the     |         |
+| of_Pres |        |         |         |         | w_Johns |         |         | United  |         |
+| idents_ |        |         |         |         | on      |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 18     | March   | March   | Ulysses | https:/ | 1822–18 | (Lived: | Command | Republi |
+| /en.wik |        | 4, 1869 | 4, 1877 | S.      | /en.wik | 85      | 63      | ing     | can     |
+| ipedia. |        |         |         | Grant   | ipedia. |         | years)  | General |         |
+| org/wik |        |         |         |         | org/wik |         |         | of the  |         |
+| i/List_ |        |         |         |         | i/Ulyss |         |         | U.S.    |         |
+| of_Pres |        |         |         |         | es_S._G |         |         | Army    |         |
+| idents_ |        |         |         |         | rant    |         |         |  (1864– |         |
+| of_the_ |        |         |         |         |         |         |         | 1869)   |         |
+| United_ |        |         |         |         |         |         |         |  (No    |         |
+| States  |        |         |         |         |         |         |         | prior   |         |
+|         |        |         |         |         |         |         |         | elected |         |
+|         |        |         |         |         |         |         |         | office) |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 18     | March   | March   | Ulysses | https:/ | 1822–18 | (Lived: | Command | Republi |
+| /en.wik |        | 4, 1869 | 4, 1877 | S.      | /en.wik | 85      | 63      | ing     | can     |
+| ipedia. |        |         |         | Grant   | ipedia. |         | years)  | General |         |
+| org/wik |        |         |         |         | org/wik |         |         | of the  |         |
+| i/List_ |        |         |         |         | i/Ulyss |         |         | U.S.    |         |
+| of_Pres |        |         |         |         | es_S._G |         |         | Army    |         |
+| idents_ |        |         |         |         | rant    |         |         |  (1864– |         |
+| of_the_ |        |         |         |         |         |         |         | 1869)   |         |
+| United_ |        |         |         |         |         |         |         |  (No    |         |
+| States  |        |         |         |         |         |         |         | prior   |         |
+|         |        |         |         |         |         |         |         | elected |         |
+|         |        |         |         |         |         |         |         | office) |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 18     | March   | March   | Ulysses | https:/ | 1822–18 | (Lived: | Command | Republi |
+| /en.wik |        | 4, 1869 | 4, 1877 | S.      | /en.wik | 85      | 63      | ing     | can     |
+| ipedia. |        |         |         | Grant   | ipedia. |         | years)  | General |         |
+| org/wik |        |         |         |         | org/wik |         |         | of the  |         |
+| i/List_ |        |         |         |         | i/Ulyss |         |         | U.S.    |         |
+| of_Pres |        |         |         |         | es_S._G |         |         | Army    |         |
+| idents_ |        |         |         |         | rant    |         |         |  (1864– |         |
+| of_the_ |        |         |         |         |         |         |         | 1869)   |         |
+| United_ |        |         |         |         |         |         |         |  (No    |         |
+| States  |        |         |         |         |         |         |         | prior   |         |
+|         |        |         |         |         |         |         |         | elected |         |
+|         |        |         |         |         |         |         |         | office) |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 19     | March   | March   | Rutherf | https:/ | 1822–18 | (Lived: | 29th &  | Republi |
+| /en.wik |        | 4, 1877 | 4, 1881 | ord B.  | /en.wik | 93      | 70      | 32nd    | can     |
+| ipedia. |        |         |         | Hayes   | ipedia. |         | years)  |  Govern |         |
+| org/wik |        |         |         |         | org/wik |         |         | or of   |         |
+| i/List_ |        |         |         |         | i/Ruthe |         |         | Ohio    |         |
+| of_Pres |        |         |         |         | rford_B |         |         |  (1868– |         |
+| idents_ |        |         |         |         | ._Hayes |         |         | 1872 &  |         |
+| of_the_ |        |         |         |         |         |         |         | 1876–18 |         |
+| United_ |        |         |         |         |         |         |         | 77)     |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 20     | March   | Septemb | James   | https:/ | 1831–18 | (Lived: | U.S. Re | Republi |
+| /en.wik |        | 4, 1881 | er 19,  | A. Garf | /en.wik | 81      | 49      | present | can     |
+| ipedia. |        |         | 1881    | ield    | ipedia. |         | years)  | ative   |         |
+| org/wik |        |         |         |         | org/wik |         |         | for     |         |
+| i/List_ |        |         |         |         | i/James |         |         | Ohio's  |         |
+| of_Pres |        |         |         |         | _A._Gar |         |         | 19th Di |         |
+| idents_ |        |         |         |         | field   |         |         | strict  |         |
+| of_the_ |        |         |         |         |         |         |         |  (1863– |         |
+| United_ |        |         |         |         |         |         |         | 1881)   |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 21     | Septemb | March   | Chester | https:/ | 1829–18 | (Lived: | 20th    | Republi |
+| /en.wik |        | er 19,  | 4, 1885 | A.      | /en.wik | 86      | 57      |  Vice P | can     |
+| ipedia. |        | 1881    |         | Arthur  | ipedia. |         | years)  | residen |         |
+| org/wik |        |  [p]    |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Chest |         |         | the     |         |
+| of_Pres |        |         |         |         | er_A._A |         |         | United  |         |
+| idents_ |        |         |         |         | rthur   |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 22     | March   | March   | Grover  | https:/ | 1837–19 | (Lived: | 28th    | Democra |
+| /en.wik |        | 4, 1885 | 4, 1889 | Clevela | /en.wik | 08      | 71      |  Govern | tic     |
+| ipedia. |        |         |         | nd      | ipedia. |         | years)  | or of   |         |
+| org/wik |        |         |         |         | org/wik |         |         | New     |         |
+| i/List_ |        |         |         |         | i/Grove |         |         | York    |         |
+| of_Pres |        |         |         |         | r_Cleve |         |         |  (1883– |         |
+| idents_ |        |         |         |         | land    |         |         | 1885)   |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 22     | March   | March   | Grover  | https:/ | 1837–19 | (Lived: | 28th    | Democra |
+| /en.wik |        | 4, 1885 | 4, 1889 | Clevela | /en.wik | 08      | 71      |  Govern | tic     |
+| ipedia. |        |         |         | nd      | ipedia. |         | years)  | or of   |         |
+| org/wik |        |         |         |         | org/wik |         |         | New     |         |
+| i/List_ |        |         |         |         | i/Grove |         |         | York    |         |
+| of_Pres |        |         |         |         | r_Cleve |         |         |  (1883– |         |
+| idents_ |        |         |         |         | land    |         |         | 1885)   |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 23     | March   | March   | Benjami | https:/ | 1833–19 | (Lived: | U.S.    | Republi |
+| /en.wik |        | 4, 1889 | 4, 1893 | n Harri | /en.wik | 01      | 67      | Senator | can     |
+| ipedia. |        |         |         | son     | ipedia. |         | years)  | (Class  |         |
+| org/wik |        |         |         |         | org/wik |         |         | 1) from |         |
+| i/List_ |        |         |         |         | i/Benja |         |         | Indiana |         |
+| of_Pres |        |         |         |         | min_Har |         |         |  (1881– |         |
+| idents_ |        |         |         |         | rison   |         |         | 1887)   |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 24     | March   | March   | Grover  | https:/ | 1837–19 | (Lived: | 22nd    | Democra |
+| /en.wik |        | 4, 1893 | 4, 1897 | Clevela | /en.wik | 08      | 71      |  Presid | tic     |
+| ipedia. |        |         |         | nd      | ipedia. |         | years)  | ent of  |         |
+| org/wik |        |         |         |         | org/wik |         |         | the     |         |
+| i/List_ |        |         |         |         | i/Grove |         |         | United  |         |
+| of_Pres |        |         |         |         | r_Cleve |         |         | States  |         |
+| idents_ |        |         |         |         | land    |         |         |  (1885– |         |
+| of_the_ |        |         |         |         |         |         |         | 1889)   |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 25     | March   | Septemb | William | https:/ | 1843–19 | (Lived: | 39th    | Republi |
+| /en.wik |        | 4, 1897 | er 14,  | McKinle | /en.wik | 01      | 58      |  Govern | can     |
+| ipedia. |        |         | 1901    | y       | ipedia. |         | years)  | or of   |         |
+| org/wik |        |         |         |         | org/wik |         |         | Ohio    |         |
+| i/List_ |        |         |         |         | i/Willi |         |         |  (1892– |         |
+| of_Pres |        |         |         |         | am_McKi |         |         | 1896)   |         |
+| idents_ |        |         |         |         | nley    |         |         |         |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 25     | March   | Septemb | William | https:/ | 1843–19 | (Lived: | 39th    | Republi |
+| /en.wik |        | 4, 1897 | er 14,  | McKinle | /en.wik | 01      | 58      |  Govern | can     |
+| ipedia. |        |         | 1901    | y       | ipedia. |         | years)  | or of   |         |
+| org/wik |        |         |         |         | org/wik |         |         | Ohio    |         |
+| i/List_ |        |         |         |         | i/Willi |         |         |  (1892– |         |
+| of_Pres |        |         |         |         | am_McKi |         |         | 1896)   |         |
+| idents_ |        |         |         |         | nley    |         |         |         |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 25     | March   | Septemb | William | https:/ | 1843–19 | (Lived: | 39th    | Republi |
+| /en.wik |        | 4, 1897 | er 14,  | McKinle | /en.wik | 01      | 58      |  Govern | can     |
+| ipedia. |        |         | 1901    | y       | ipedia. |         | years)  | or of   |         |
+| org/wik |        |         |         |         | org/wik |         |         | Ohio    |         |
+| i/List_ |        |         |         |         | i/Willi |         |         |  (1892– |         |
+| of_Pres |        |         |         |         | am_McKi |         |         | 1896)   |         |
+| idents_ |        |         |         |         | nley    |         |         |         |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 26     | Septemb | March   | Theodor | https:/ | 1858–19 | (Lived: | 25th    | Republi |
+| /en.wik |        | er 14,  | 4, 1909 | e Roose | /en.wik | 19      | 60      |  Vice P | can     |
+| ipedia. |        | 1901    |         | velt    | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Theod |         |         | the     |         |
+| of_Pres |        |         |         |         | ore_Roo |         |         | United  |         |
+| idents_ |        |         |         |         | sevelt  |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 26     | Septemb | March   | Theodor | https:/ | 1858–19 | (Lived: | 25th    | Republi |
+| /en.wik |        | er 14,  | 4, 1909 | e Roose | /en.wik | 19      | 60      |  Vice P | can     |
+| ipedia. |        | 1901    |         | velt    | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Theod |         |         | the     |         |
+| of_Pres |        |         |         |         | ore_Roo |         |         | United  |         |
+| idents_ |        |         |         |         | sevelt  |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 27     | March   | March   | William | https:/ | 1857–19 | (Lived: | 42nd    | Republi |
+| /en.wik |        | 4, 1909 | 4, 1913 | Howard  | /en.wik | 30      | 72      |  United | can     |
+| ipedia. |        |         |         | Taft    | ipedia. |         | years)  | States  |         |
+| org/wik |        |         |         |         | org/wik |         |         | Secreta |         |
+| i/List_ |        |         |         |         | i/Willi |         |         | ry of   |         |
+| of_Pres |        |         |         |         | am_Howa |         |         | War     |         |
+| idents_ |        |         |         |         | rd_Taft |         |         |  (1904– |         |
+| of_the_ |        |         |         |         |         |         |         | 1908)   |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 27     | March   | March   | William | https:/ | 1857–19 | (Lived: | 42nd    | Republi |
+| /en.wik |        | 4, 1909 | 4, 1913 | Howard  | /en.wik | 30      | 72      |  United | can     |
+| ipedia. |        |         |         | Taft    | ipedia. |         | years)  | States  |         |
+| org/wik |        |         |         |         | org/wik |         |         | Secreta |         |
+| i/List_ |        |         |         |         | i/Willi |         |         | ry of   |         |
+| of_Pres |        |         |         |         | am_Howa |         |         | War     |         |
+| idents_ |        |         |         |         | rd_Taft |         |         |  (1904– |         |
+| of_the_ |        |         |         |         |         |         |         | 1908)   |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 28     | March   | March   | Woodrow | https:/ | 1856–19 | (Lived: | 34th    | Democra |
+| /en.wik |        | 4, 1913 | 4, 1921 | Wilson  | /en.wik | 24      | 67      |  Govern | tic     |
+| ipedia. |        |         |         |         | ipedia. |         | years)  | or of   |         |
+| org/wik |        |         |         |         | org/wik |         |         | New     |         |
+| i/List_ |        |         |         |         | i/Woodr |         |         | Jersey  |         |
+| of_Pres |        |         |         |         | ow_Wils |         |         |  (1911– |         |
+| idents_ |        |         |         |         | on      |         |         | 1913)   |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 28     | March   | March   | Woodrow | https:/ | 1856–19 | (Lived: | 34th    | Democra |
+| /en.wik |        | 4, 1913 | 4, 1921 | Wilson  | /en.wik | 24      | 67      |  Govern | tic     |
+| ipedia. |        |         |         |         | ipedia. |         | years)  | or of   |         |
+| org/wik |        |         |         |         | org/wik |         |         | New     |         |
+| i/List_ |        |         |         |         | i/Woodr |         |         | Jersey  |         |
+| of_Pres |        |         |         |         | ow_Wils |         |         |  (1911– |         |
+| idents_ |        |         |         |         | on      |         |         | 1913)   |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 29     | March   | August  | Warren  | https:/ | 1865–19 | (Lived: | U.S.    | Republi |
+| /en.wik |        | 4, 1921 | 2, 1923 | G.      | /en.wik | 23      | 57      | Senator | can     |
+| ipedia. |        |         |         | Harding | ipedia. |         | years)  | (Class  |         |
+| org/wik |        |         |         |         | org/wik |         |         | 3) from |         |
+| i/List_ |        |         |         |         | i/Warre |         |         | Ohio    |         |
+| of_Pres |        |         |         |         | n_G._Ha |         |         |  (1915– |         |
+| idents_ |        |         |         |         | rding   |         |         | 1921)   |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 30     | August  | March   | Calvin  | https:/ | 1872–19 | (Lived: | 29th    | Republi |
+| /en.wik |        | 2, 1923 | 4, 1929 | Coolidg | /en.wik | 33      | 60      |  Vice P | can     |
+| ipedia. |        |  [q]    |         | e       | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Calvi |         |         | the     |         |
+| of_Pres |        |         |         |         | n_Cooli |         |         | United  |         |
+| idents_ |        |         |         |         | dge     |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 30     | August  | March   | Calvin  | https:/ | 1872–19 | (Lived: | 29th    | Republi |
+| /en.wik |        | 2, 1923 | 4, 1929 | Coolidg | /en.wik | 33      | 60      |  Vice P | can     |
+| ipedia. |        |  [q]    |         | e       | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Calvi |         |         | the     |         |
+| of_Pres |        |         |         |         | n_Cooli |         |         | United  |         |
+| idents_ |        |         |         |         | dge     |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 31     | March   | March   | Herbert | https:/ | 1874–19 | (Lived: | 3rd     | Republi |
+| /en.wik |        | 4, 1929 | 4, 1933 | Hoover  | /en.wik | 64      | 90      |  United | can     |
+| ipedia. |        |         |         |         | ipedia. |         | years)  | States  |         |
+| org/wik |        |         |         |         | org/wik |         |         | Secreta |         |
+| i/List_ |        |         |         |         | i/Herbe |         |         | ry of C |         |
+| of_Pres |        |         |         |         | rt_Hoov |         |         | ommerce |         |
+| idents_ |        |         |         |         | er      |         |         |  (1921– |         |
+| of_the_ |        |         |         |         |         |         |         | 1928)   |         |
+| United_ |        |         |         |         |         |         |         |  (No    |         |
+| States  |        |         |         |         |         |         |         | prior   |         |
+|         |        |         |         |         |         |         |         | elected |         |
+|         |        |         |         |         |         |         |         | office) |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 32     |         |         | Frankli | https:/ | 1882–19 | (Lived: | 44th    | Democra |
+| /en.wik |        |         |         | n D. Ro | /en.wik | 45      | 63      |  Govern | tic     |
+| ipedia. |        |         |         | osevelt | ipedia. |         | years)  | or of   |         |
+| org/wik |        |         |         |         | org/wik |         |         | New     |         |
+| i/List_ |        |         |         |         | i/Frank |         |         | York    |         |
+| of_Pres |        |         |         |         | lin_D._ |         |         |  (1929– |         |
+| idents_ |        |         |         |         | Rooseve |         |         | 1932)   |         |
+| of_the_ |        |         |         |         | lt      |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 32     |         |         | Frankli | https:/ | 1882–19 | (Lived: | 44th    | Democra |
+| /en.wik |        |         |         | n D. Ro | /en.wik | 45      | 63      |  Govern | tic     |
+| ipedia. |        |         |         | osevelt | ipedia. |         | years)  | or of   |         |
+| org/wik |        |         |         |         | org/wik |         |         | New     |         |
+| i/List_ |        |         |         |         | i/Frank |         |         | York    |         |
+| of_Pres |        |         |         |         | lin_D._ |         |         |  (1929– |         |
+| idents_ |        |         |         |         | Rooseve |         |         | 1932)   |         |
+| of_the_ |        |         |         |         | lt      |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 32     |         |         | Frankli | https:/ | 1882–19 | (Lived: | 44th    | Democra |
+| /en.wik |        |         |         | n D. Ro | /en.wik | 45      | 63      |  Govern | tic     |
+| ipedia. |        |         |         | osevelt | ipedia. |         | years)  | or of   |         |
+| org/wik |        |         |         |         | org/wik |         |         | New     |         |
+| i/List_ |        |         |         |         | i/Frank |         |         | York    |         |
+| of_Pres |        |         |         |         | lin_D._ |         |         |  (1929– |         |
+| idents_ |        |         |         |         | Rooseve |         |         | 1932)   |         |
+| of_the_ |        |         |         |         | lt      |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 32     |         |         | Frankli | https:/ | 1882–19 | (Lived: | 44th    | Democra |
+| /en.wik |        |         |         | n D. Ro | /en.wik | 45      | 63      |  Govern | tic     |
+| ipedia. |        |         |         | osevelt | ipedia. |         | years)  | or of   |         |
+| org/wik |        |         |         |         | org/wik |         |         | New     |         |
+| i/List_ |        |         |         |         | i/Frank |         |         | York    |         |
+| of_Pres |        |         |         |         | lin_D._ |         |         |  (1929– |         |
+| idents_ |        |         |         |         | Rooseve |         |         | 1932)   |         |
+| of_the_ |        |         |         |         | lt      |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 33     | April   | January | Harry   | https:/ | 1884–19 | (Lived: | 34th    | Democra |
+| /en.wik |        | 12,     | 20,     | S.      | /en.wik | 72      | 88      |  Vice P | tic     |
+| ipedia. |        | 1945    | 1953    | Truman  | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Harry |         |         | the     |         |
+| of_Pres |        |         |         |         | _S._Tru |         |         | United  |         |
+| idents_ |        |         |         |         | man     |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 33     | April   | January | Harry   | https:/ | 1884–19 | (Lived: | 34th    | Democra |
+| /en.wik |        | 12,     | 20,     | S.      | /en.wik | 72      | 88      |  Vice P | tic     |
+| ipedia. |        | 1945    | 1953    | Truman  | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Harry |         |         | the     |         |
+| of_Pres |        |         |         |         | _S._Tru |         |         | United  |         |
+| idents_ |        |         |         |         | man     |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 34     | January | January | Dwight  | https:/ | 1890–19 | (Lived: | Supreme | Republi |
+| /en.wik |        | 20,     | 20,     | D. Eise | /en.wik | 69      | 78      | Allied  | can     |
+| ipedia. |        | 1953    | 1961    | nhower  | ipedia. |         | years)  | Command |         |
+| org/wik |        |         |         |         | org/wik |         |         | er      |         |
+| i/List_ |        |         |         |         | i/Dwigh |         |         | Europe  |         |
+| of_Pres |        |         |         |         | t_D._Ei |         |         |  (1949– |         |
+| idents_ |        |         |         |         | senhowe |         |         | 1952)   |         |
+| of_the_ |        |         |         |         | r       |         |         |  (No    |         |
+| United_ |        |         |         |         |         |         |         | prior   |         |
+| States  |        |         |         |         |         |         |         | elected |         |
+|         |        |         |         |         |         |         |         | office) |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 34     | January | January | Dwight  | https:/ | 1890–19 | (Lived: | Supreme | Republi |
+| /en.wik |        | 20,     | 20,     | D. Eise | /en.wik | 69      | 78      | Allied  | can     |
+| ipedia. |        | 1953    | 1961    | nhower  | ipedia. |         | years)  | Command |         |
+| org/wik |        |         |         |         | org/wik |         |         | er      |         |
+| i/List_ |        |         |         |         | i/Dwigh |         |         | Europe  |         |
+| of_Pres |        |         |         |         | t_D._Ei |         |         |  (1949– |         |
+| idents_ |        |         |         |         | senhowe |         |         | 1952)   |         |
+| of_the_ |        |         |         |         | r       |         |         |  (No    |         |
+| United_ |        |         |         |         |         |         |         | prior   |         |
+| States  |        |         |         |         |         |         |         | elected |         |
+|         |        |         |         |         |         |         |         | office) |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 35     | January | Novembe | John F. | https:/ | 1917–19 | (Lived: | U.S.    | Democra |
+| /en.wik |        | 20,     | r 22,   | Kennedy | /en.wik | 63      | 46      | Senator | tic     |
+| ipedia. |        | 1961    | 1963    |         | ipedia. |         | years)  | (Class  |         |
+| org/wik |        |         |         |         | org/wik |         |         | 1) from |         |
+| i/List_ |        |         |         |         | i/John_ |         |         | Massach |         |
+| of_Pres |        |         |         |         | F._Kenn |         |         | usetts  |         |
+| idents_ |        |         |         |         | edy     |         |         |  (1953– |         |
+| of_the_ |        |         |         |         |         |         |         | 1960)   |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 36     | Novembe | January | Lyndon  | https:/ | 1908–19 | (Lived: | 37th    | Democra |
+| /en.wik |        | r 22,   | 20,     | B.      | /en.wik | 73      | 64      |  Vice P | tic     |
+| ipedia. |        | 1963    | 1969    | Johnson | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Lyndo |         |         | the     |         |
+| of_Pres |        |         |         |         | n_B._Jo |         |         | United  |         |
+| idents_ |        |         |         |         | hnson   |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 36     | Novembe | January | Lyndon  | https:/ | 1908–19 | (Lived: | 37th    | Democra |
+| /en.wik |        | r 22,   | 20,     | B.      | /en.wik | 73      | 64      |  Vice P | tic     |
+| ipedia. |        | 1963    | 1969    | Johnson | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Lyndo |         |         | the     |         |
+| of_Pres |        |         |         |         | n_B._Jo |         |         | United  |         |
+| idents_ |        |         |         |         | hnson   |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 37     | January | August  | Richard | https:/ | 1913–   | (Lived: | 36th    | Republi |
+| /en.wik |        | 20,     | 9, 1974 | Nixon   | /en.wik |         | 81      |  Vice P | can     |
+| ipedia. |        | 1969    |         |         | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Richa |         |         | the     |         |
+| of_Pres |        |         |         |         | rd_Nixo |         |         | United  |         |
+| idents_ |        |         |         |         | n       |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |  (1953– |         |
+| United_ |        |         |         |         |         |         |         | 1961)   |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 37     | January | August  | Richard | https:/ | 1913–   | (Lived: | 36th    | Republi |
+| /en.wik |        | 20,     | 9, 1974 | Nixon   | /en.wik |         | 81      |  Vice P | can     |
+| ipedia. |        | 1969    |         |         | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Richa |         |         | the     |         |
+| of_Pres |        |         |         |         | rd_Nixo |         |         | United  |         |
+| idents_ |        |         |         |         | n       |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |  (1953– |         |
+| United_ |        |         |         |         |         |         |         | 1961)   |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 37     | January | August  | Richard | https:/ | 1913–   | (Lived: | 36th    | Republi |
+| /en.wik |        | 20,     | 9, 1974 | Nixon   | /en.wik |         | 81      |  Vice P | can     |
+| ipedia. |        | 1969    |         |         | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Richa |         |         | the     |         |
+| of_Pres |        |         |         |         | rd_Nixo |         |         | United  |         |
+| idents_ |        |         |         |         | n       |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |  (1953– |         |
+| United_ |        |         |         |         |         |         |         | 1961)   |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 37     | January | August  | Richard | https:/ | 1913–   | (Lived: | 36th    | Republi |
+| /en.wik |        | 20,     | 9, 1974 | Nixon   | /en.wik |         | 81      |  Vice P | can     |
+| ipedia. |        | 1969    |         |         | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Richa |         |         | the     |         |
+| of_Pres |        |         |         |         | rd_Nixo |         |         | United  |         |
+| idents_ |        |         |         |         | n       |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |  (1953– |         |
+| United_ |        |         |         |         |         |         |         | 1961)   |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 38     | August  | January | Gerald  | https:/ | 1913–   | (Lived: | 40th    | Republi |
+| /en.wik |        | 9, 1974 | 20,     | Ford    | /en.wik |         | 93      |  Vice P | can     |
+| ipedia. |        |         | 1977    |         | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Geral |         |         | the     |         |
+| of_Pres |        |         |         |         | d_Ford  |         |         | United  |         |
+| idents_ |        |         |         |         |         |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 38     | August  | January | Gerald  | https:/ | 1913–   | (Lived: | 40th    | Republi |
+| /en.wik |        | 9, 1974 | 20,     | Ford    | /en.wik |         | 93      |  Vice P | can     |
+| ipedia. |        |         | 1977    |         | ipedia. |         | years)  | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Geral |         |         | the     |         |
+| of_Pres |        |         |         |         | d_Ford  |         |         | United  |         |
+| idents_ |        |         |         |         |         |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 39     | January | January | Jimmy   | https:/ | Born    | (93     | 76th    | Democra |
+| /en.wik |        | 20,     | 20,     | Carter  | /en.wik | 1924    | years   |  Govern | tic     |
+| ipedia. |        | 1977    | 1981    |         | ipedia. |         | old)    | or of   |         |
+| org/wik |        |         |         |         | org/wik |         |         | Georgia |         |
+| i/List_ |        |         |         |         | i/Jimmy |         |         |  (1971– |         |
+| of_Pres |        |         |         |         | _Carter |         |         | 1975)   |         |
+| idents_ |        |         |         |         |         |         |         |         |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 40     | January | January | Ronald  | https:/ | 1911–   | (Lived: | 33rd    | Republi |
+| /en.wik |        | 20,     | 20,     | Reagan  | /en.wik |         | 93      |  Govern | can     |
+| ipedia. |        | 1981    | 1989    |         | ipedia. |         | years)  | or of C |         |
+| org/wik |        |         |         |         | org/wik |         |         | aliforn |         |
+| i/List_ |        |         |         |         | i/Ronal |         |         | ia      |         |
+| of_Pres |        |         |         |         | d_Reaga |         |         |  (1967– |         |
+| idents_ |        |         |         |         | n       |         |         | 1975)   |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 40     | January | January | Ronald  | https:/ | 1911–   | (Lived: | 33rd    | Republi |
+| /en.wik |        | 20,     | 20,     | Reagan  | /en.wik |         | 93      |  Govern | can     |
+| ipedia. |        | 1981    | 1989    |         | ipedia. |         | years)  | or of C |         |
+| org/wik |        |         |         |         | org/wik |         |         | aliforn |         |
+| i/List_ |        |         |         |         | i/Ronal |         |         | ia      |         |
+| of_Pres |        |         |         |         | d_Reaga |         |         |  (1967– |         |
+| idents_ |        |         |         |         | n       |         |         | 1975)   |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 41     | January | January | George  | https:/ | Born    | (93     | 43rd    | Republi |
+| /en.wik |        | 20,     | 20,     | H. W.   | /en.wik | 1924    | years   |  Vice P | can     |
+| ipedia. |        | 1989    | 1993    | Bush    | ipedia. |         | old)    | residen |         |
+| org/wik |        |         |         |         | org/wik |         |         | t of    |         |
+| i/List_ |        |         |         |         | i/Georg |         |         | the     |         |
+| of_Pres |        |         |         |         | e_H._W. |         |         | United  |         |
+| idents_ |        |         |         |         | _Bush   |         |         | States  |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 42     | January | January | Bill    | https:/ | Born    | (71     | 40th &  | Democra |
+| /en.wik |        | 20,     | 20,     | Clinton | /en.wik | 1946    | years   | 42nd    | tic     |
+| ipedia. |        | 1993    | 2001    |         | ipedia. |         | old)    |  Govern |         |
+| org/wik |        |         |         |         | org/wik |         |         | or of A |         |
+| i/List_ |        |         |         |         | i/Bill_ |         |         | rkansas |         |
+| of_Pres |        |         |         |         | Clinton |         |         |  (1979– |         |
+| idents_ |        |         |         |         |         |         |         | 1981 &  |         |
+| of_the_ |        |         |         |         |         |         |         | 1983–19 |         |
+| United_ |        |         |         |         |         |         |         | 92)     |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 42     | January | January | Bill    | https:/ | Born    | (71     | 40th &  | Democra |
+| /en.wik |        | 20,     | 20,     | Clinton | /en.wik | 1946    | years   | 42nd    | tic     |
+| ipedia. |        | 1993    | 2001    |         | ipedia. |         | old)    |  Govern |         |
+| org/wik |        |         |         |         | org/wik |         |         | or of A |         |
+| i/List_ |        |         |         |         | i/Bill_ |         |         | rkansas |         |
+| of_Pres |        |         |         |         | Clinton |         |         |  (1979– |         |
+| idents_ |        |         |         |         |         |         |         | 1981 &  |         |
+| of_the_ |        |         |         |         |         |         |         | 1983–19 |         |
+| United_ |        |         |         |         |         |         |         | 92)     |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 43     | January | January | George  | https:/ | Born    | (71     | 46th    | Republi |
+| /en.wik |        | 20,     | 20,     | W. Bush | /en.wik | 1946    | years   |  Govern | can     |
+| ipedia. |        | 2001    | 2009    |         | ipedia. |         | old)    | or of   |         |
+| org/wik |        |         |         |         | org/wik |         |         | Texas   |         |
+| i/List_ |        |         |         |         | i/Georg |         |         |  (1995– |         |
+| of_Pres |        |         |         |         | e_W._Bu |         |         | 2000)   |         |
+| idents_ |        |         |         |         | sh      |         |         |         |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 43     | January | January | George  | https:/ | Born    | (71     | 46th    | Republi |
+| /en.wik |        | 20,     | 20,     | W. Bush | /en.wik | 1946    | years   |  Govern | can     |
+| ipedia. |        | 2001    | 2009    |         | ipedia. |         | old)    | or of   |         |
+| org/wik |        |         |         |         | org/wik |         |         | Texas   |         |
+| i/List_ |        |         |         |         | i/Georg |         |         |  (1995– |         |
+| of_Pres |        |         |         |         | e_W._Bu |         |         | 2000)   |         |
+| idents_ |        |         |         |         | sh      |         |         |         |         |
+| of_the_ |        |         |         |         |         |         |         |         |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 44     | January | January | Barack  | https:/ | Born    | (56     | U.S.    | Democra |
+| /en.wik |        | 20,     | 20,     | Obama   | /en.wik | 1961    | years   | Senator | tic     |
+| ipedia. |        | 2009    | 2017    |         | ipedia. |         | old)    | (Class  |         |
+| org/wik |        |         |         |         | org/wik |         |         | 3) from |         |
+| i/List_ |        |         |         |         | i/Barac |         |         | Illinoi |         |
+| of_Pres |        |         |         |         | k_Obama |         |         | s       |         |
+| idents_ |        |         |         |         |         |         |         |  (2005– |         |
+| of_the_ |        |         |         |         |         |         |         | 2008)   |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 44     | January | January | Barack  | https:/ | Born    | (56     | U.S.    | Democra |
+| /en.wik |        | 20,     | 20,     | Obama   | /en.wik | 1961    | years   | Senator | tic     |
+| ipedia. |        | 2009    | 2017    |         | ipedia. |         | old)    | (Class  |         |
+| org/wik |        |         |         |         | org/wik |         |         | 3) from |         |
+| i/List_ |        |         |         |         | i/Barac |         |         | Illinoi |         |
+| of_Pres |        |         |         |         | k_Obama |         |         | s       |         |
+| idents_ |        |         |         |         |         |         |         |  (2005– |         |
+| of_the_ |        |         |         |         |         |         |         | 2008)   |         |
+| United_ |        |         |         |         |         |         |         |         |         |
+| States  |        |         |         |         |         |         |         |         |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+
+| https:/ | 45     | January |         | Donald  | https:/ | Born    | (71     | Chairma | Republi |
+| /en.wik |        | 20,     |         | Trump   | /en.wik | 1946    | years   | n of    | can     |
+| ipedia. |        | 2017    |         |         | ipedia. |         | old)    |  The    |         |
+| org/wik |        |         |         |         | org/wik |         |         | Trump O |         |
+| i/List_ |        |         |         |         | i/Donal |         |         | rganiza |         |
+| of_Pres |        |         |         |         | d_Trump |         |         | tion    |         |
+| idents_ |        |         |         |         |         |         |         |  (1971– |         |
+| of_the_ |        |         |         |         |         |         |         | 2017)   |         |
+| United_ |        |         |         |         |         |         |         |  (No    |         |
+| States  |        |         |         |         |         |         |         | prior   |         |
+|         |        |         |         |         |         |         |         | elected |         |
+|         |        |         |         |         |         |         |         | office) |         |
++---------+--------+---------+---------+---------+---------+---------+---------+---------+---------+

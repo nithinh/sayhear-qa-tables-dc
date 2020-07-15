@@ -1,0 +1,41 @@
++--------------------------------+--------------------------------+--------------------------------+
+| definition of bitcoin          | recent examples of bitcoin     | origin and etymology of        |
+|                                | from the web                   | bitcoin                        |
++--------------------------------+--------------------------------+--------------------------------+
+|  : a digital currency created  | the desk struck a relationship | 4 bit + 1 coin                 |
+| for use in peer-to-peer online | with poloniex, its boston      |                                |
+| transactions introduced in     | neighbor, after poloniex       |                                |
+| 2008 by a person or group      | became one of the earliest     |                                |
+| using the name satoshi         | exchanges to list ether, the   |                                |
+| nakamoto, bitcoin is the most  | native coin of ethereum, the   |                                |
+| prominent of a group of        | biggest cryptocurrency network |                                |
+| virtual currencies—money that  | next to bitcoin .              |                                |
+| exists mainly as computer      |                                |                                |
+| code—that have no central      |                                |                                |
+| issuing authority. —carter     |                                |                                |
+| dougherty   … bitcoin … is     |                                |                                |
+| backed by no government and    |                                |                                |
+| has a fluctuating value linked |                                |                                |
+| in part to a scarcity that is  |                                |                                |
+| mathematically predetermined.  |                                |                                |
+| unlike other forms of digital  |                                |                                |
+| cash, bitcoin is truly         |                                |                                |
+| untraceable and therefore,     |                                |                                |
+| like cash, cannot be recovered |                                |                                |
+| if lost or destroyed. —glenn   |                                |                                |
+| zorpette    also   usually     |                                |                                |
+| bitcoin   : a unit of this     |                                |                                |
+| currency commercial space      |                                |                                |
+| venture virgin galactic—which  |                                |                                |
+| announced on nov. 22 that it   |                                |                                |
+| would start accepting bitcoins |                                |                                |
+| to reserve a refundable        |                                |                                |
+| $250,000 seat on a future      |                                |                                |
+| trip—is just the latest of     |                                |                                |
+| many businesses that have      |                                |                                |
+| recently embraced the          |                                |                                |
+| decentralized virtual payment  |                                |                                |
+| system. (at press time, 1      |                                |                                |
+| bitcoin was worth roughly      |                                |                                |
+| $879.) — time                  |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+

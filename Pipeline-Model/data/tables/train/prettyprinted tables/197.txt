@@ -1,0 +1,259 @@
++---------------------------+---------------+---------------------------+--------------------------+
+| url                       | Key           | Key_link                  | Value                    |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Technology    | https://www.gsmarena.com/ | GSM / CDMA / HSPA / EVDO |
+| apple_iphone_7_plus-8065. |               | network-bands.php3        | / LTE                    |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | 2G bands      | https://www.gsmarena.com/ |                          |
+| apple_iphone_7_plus-8065. |               | network-bands.php3        |                          |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | 3G bands      | https://www.gsmarena.com/ |                          |
+| apple_iphone_7_plus-8065. |               | network-bands.php3        |                          |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | 4G bands      | https://www.gsmarena.com/ |                          |
+| apple_iphone_7_plus-8065. |               | network-bands.php3        |                          |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Speed         | https://www.gsmarena.com/ |                          |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=3g     |                          |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | GPRS          | https://www.gsmarena.com/ |                          |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=gprs   |                          |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | EDGE          | https://www.gsmarena.com/ |                          |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=edge   |                          |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Announced     | https://www.gsmarena.com/ | 2016, September          |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=phone- |                          |
+| php                       |               | life-cycle                |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Status        | https://www.gsmarena.com/ | Available. Released      |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=phone- | 2016, September          |
+| php                       |               | life-cycle                |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Dimensions    |                           | 158.2 x 77.9 x 7.3 mm    |
+| apple_iphone_7_plus-8065. |               |                           | (6.23 x 3.07 x 0.29 in)  |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Weight        |                           | 188 g (6.63 oz)          |
+| apple_iphone_7_plus-8065. |               |                           |                          |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Build         | https://www.gsmarena.com/ | Front glass, body        |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=build  |                          |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | SIM           | https://www.gsmarena.com/ | Nano-SIM                 |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=sim    |                          |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ |               |                           | - IP67 certified -       |
+| apple_iphone_7_plus-8065. |               |                           | dust/water resistant (up |
+| php                       |               |                           | to 1m for 30 mins)       |
+|                           |               |                           |  - Apple Pay (Visa,      |
+|                           |               |                           | MasterCard, AMEX         |
+|                           |               |                           | certified)               |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Type          | https://www.gsmarena.com/ | LED-backlit IPS LCD,     |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=displa | capacitive touchscreen,  |
+| php                       |               | y-type                    | 16M colors               |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Size          |                           | 5.5 inches, 83.4 cm2     |
+| apple_iphone_7_plus-8065. |               |                           | (~67.7% screen-to-body   |
+| php                       |               |                           | ratio)                   |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Resolution    | https://www.gsmarena.com/ | 1080 x 1920 pixels, 16:9 |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=resolu | ratio (~401 ppi density) |
+| php                       |               | tion                      |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Multitouch    | https://www.gsmarena.com/ | Yes                      |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=multit |                          |
+| php                       |               | ouch                      |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Protection    | https://www.gsmarena.com/ | Ion-strengthened glass,  |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=screen | oleophobic coating       |
+| php                       |               | -protection               |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ |               |                           | - Wide color gamut       |
+| apple_iphone_7_plus-8065. |               |                           | display                  |
+| php                       |               |                           |  - 3D Touch display &    |
+|                           |               |                           | home button              |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | OS            | https://www.gsmarena.com/ | iOS 10.0.1, upgradable   |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=os     | to iOS 11.3              |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Chipset       | https://www.gsmarena.com/ | Apple A10 Fusion         |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=chipse |                          |
+| php                       |               | t                         |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | CPU           | https://www.gsmarena.com/ | Quad-core 2.34 GHz (2x   |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=cpu    | Hurricane + 2x Zephyr)   |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | GPU           | https://www.gsmarena.com/ | PowerVR Series7XT Plus   |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=gpu    | (six-core graphics)      |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Card slot     | https://www.gsmarena.com/ | No                       |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=memory |                          |
+| php                       |               | -card-slot                |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Internal      | https://www.gsmarena.com/ | 32/128/256 GB, 3 GB RAM  |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=dynami |                          |
+| php                       |               | c-memory                  |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Primary       | https://www.gsmarena.com/ | Dual: 12 MP (f/1.8,      |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=camera | 28mm, 1/3", OIS) + 12 MP |
+| php                       |               |                           | (f/2.8, 56mm, 1/3.6"),   |
+|                           |               |                           | phase detection          |
+|                           |               |                           | autofocus, 2x optical    |
+|                           |               |                           | zoom, quad-LED dual-tone |
+|                           |               |                           | flash, check quality     |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Features      | https://www.gsmarena.com/ | Geo-tagging,             |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=camera | simultaneous 4K video    |
+| php                       |               |                           | and 8MP image recording, |
+|                           |               |                           | touch focus, face/smile  |
+|                           |               |                           | detection, HDR           |
+|                           |               |                           | (photo/panorama)         |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Video         | https://www.gsmarena.com/ | 2160p@30fps,             |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=camera | 1080p@30/60/120fps,      |
+| php                       |               |                           | 720p@240fps, check       |
+|                           |               |                           | quality                  |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Secondary     | https://www.gsmarena.com/ | 7 MP (f/2.2, 32mm),      |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=video- | 1080p@30fps,             |
+| php                       |               | call                      | 720p@240fps, face        |
+|                           |               |                           | detection, HDR           |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Alert types   | https://www.gsmarena.com/ | Vibration, proprietary   |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=call-  | ringtones                |
+| php                       |               | alerts                    |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Loudspeaker   | https://www.gsmarena.com/ | Yes, with stereo         |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=loudsp | speakers                 |
+| php                       |               | eaker                     |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | 3.5mm jack    | https://www.gsmarena.com/ | No                       |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=audio- |                          |
+| php                       |               | jack                      |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ |               |                           | - Active noise           |
+| apple_iphone_7_plus-8065. |               |                           | cancellation with        |
+| php                       |               |                           | dedicated mic            |
+|                           |               |                           |  - Lightning to 3.5 mm   |
+|                           |               |                           | headphone jack adapter   |
+|                           |               |                           | incl.                    |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | WLAN          | https://www.gsmarena.com/ | Wi-Fi 802.11 a/b/g/n/ac, |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=wi-fi  | dual-band, hotspot       |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Bluetooth     | https://www.gsmarena.com/ | 4.2, A2DP, LE            |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=blueto |                          |
+| php                       |               | oth                       |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | GPS           | https://www.gsmarena.com/ | Yes, with A-GPS,         |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=gps    | GLONASS, GALILEO, QZSS   |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | NFC           | https://www.gsmarena.com/ | Yes                      |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=nfc    |                          |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Radio         | https://www.gsmarena.com/ | No                       |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=fm-    |                          |
+| php                       |               | radio                     |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | USB           | https://www.gsmarena.com/ | 2.0, proprietary         |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=usb    | reversible connector     |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Sensors       | https://www.gsmarena.com/ | Fingerprint (front-      |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=sensor | mounted), accelerometer, |
+| php                       |               | s                         | gyro, proximity,         |
+|                           |               |                           | compass, barometer       |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Messaging     | https://www.gsmarena.com/ | iMessage, SMS(threaded   |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=messag | view), MMS, Email, Push  |
+| php                       |               | ing                       | Email                    |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Browser       | https://www.gsmarena.com/ | HTML5 (Safari)           |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=browse |                          |
+| php                       |               | r                         |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ |               |                           | - Siri natural language  |
+| apple_iphone_7_plus-8065. |               |                           | commands and dictation   |
+| php                       |               |                           |  - iCloud cloud service  |
+|                           |               |                           |  -                       |
+|                           |               |                           | MP3/WAV/AAX+/AIFF/Apple  |
+|                           |               |                           | Lossless player          |
+|                           |               |                           |  - MP4/H.264 player      |
+|                           |               |                           |  - Audio/video/photo     |
+|                           |               |                           | editor                   |
+|                           |               |                           |  - Document editor       |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ |               |                           | Non-removable Li-Ion     |
+| apple_iphone_7_plus-8065. |               |                           | 2900 mAh battery (11.1   |
+| php                       |               |                           | Wh)                      |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Stand-by      | https://www.gsmarena.com/ | Up to 384 h (3G)         |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=stand- |                          |
+| php                       |               | by-time                   |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Talk time     | https://www.gsmarena.com/ | Up to 21 h (3G)          |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=talk-  |                          |
+| php                       |               | time                      |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Music play    | https://www.gsmarena.com/ | Up to 60 h               |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=music- |                          |
+| php                       |               | playback-time             |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Colors        | https://www.gsmarena.com/ | Jet Black, Black,        |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=build  | Silver, Gold, Rose Gold, |
+| php                       |               |                           | Red                      |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | SAR           | https://www.gsmarena.com/ | 1.19 W/kg (head) 1.19    |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=sar    | W/kg (body)              |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | SAR EU        | https://www.gsmarena.com/ | 1.24 W/kg (head) 1.00    |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=sar    | W/kg (body)              |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Price         | https://www.gsmarena.com/ | About 690 EUR            |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=price  |                          |
+| php                       |               |                           |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Performance   | https://www.gsmarena.com/ | Basemark OS II 2.0: 3796 |
+| apple_iphone_7_plus-8065. |               | glossary.php3?term=benchm |                          |
+| php                       |               | arking                    |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Display       | https://www.gsmarena.com/ | Contrast ratio: 1398:1   |
+| apple_iphone_7_plus-8065. |               | gsmarena_lab_tests-       | (nominal), 3.588         |
+| php                       |               | review-751p2.php          | (sunlight)               |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Camera        | https://www.gsmarena.com/ | Photo / Video            |
+| apple_iphone_7_plus-8065. |               | gsmarena_lab_tests-       |                          |
+| php                       |               | review-751p5.php          |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Loudspeaker   | https://www.gsmarena.com/ | Voice 68dB / Noise 72dB  |
+| apple_iphone_7_plus-8065. |               | gsmarena_lab_tests-       | / Ring 72dB              |
+| php                       |               | review-751p3.php          |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Audio quality | https://www.gsmarena.com/ | Noise -93.1dB /          |
+| apple_iphone_7_plus-8065. |               | gsmarena_lab_tests-       | Crosstalk -80.5dB        |
+| php                       |               | review-751p4.php          |                          |
++---------------------------+---------------+---------------------------+--------------------------+
+| https://www.gsmarena.com/ | Battery life  | https://www.gsmarena.com/ | Endurance rating 75h     |
+| apple_iphone_7_plus-8065. |               | gsmarena_lab_tests-       |                          |
+| php                       |               | review-751p6.php          |                          |
++---------------------------+---------------+---------------------------+--------------------------+

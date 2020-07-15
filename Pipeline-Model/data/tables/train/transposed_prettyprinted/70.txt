@@ -1,0 +1,22 @@
++-----------------------------+-------------------+-----------------------------+------------------+
+| url                         | City              | Address                     | Phone_Number     |
++-----------------------------+-------------------+-----------------------------+------------------+
+| https://usable.darbydental. | Jericho, NY       | 300 Jericho Quadrangle      | 1-(800) 645-2310 |
+| com/scripts/reachout.aspx   |                   |  Jericho, NY 11753          |                  |
++-----------------------------+-------------------+-----------------------------+------------------+
+| https://usable.darbydental. | Coral Springs, FL | 3300 University Drive       | 1-(800) 448-7323 |
+| com/scripts/reachout.aspx   |                   | Suite 250                   |                  |
+|                             |                   |  Coral Springs, FL 33065    |                  |
++-----------------------------+-------------------+-----------------------------+------------------+
+| https://usable.darbydental. | DePere, WI        | 310 North Wisconsin Street  | 1-(866) 309-9471 |
+| com/scripts/reachout.aspx   |                   | Suite C                     |                  |
+|                             |                   |  DePere, WI 54115           |                  |
++-----------------------------+-------------------+-----------------------------+------------------+
+| https://usable.darbydental. | Chandler, AZ      | 1850 East Northrop          | 1-(800) 645-2310 |
+| com/scripts/reachout.aspx   |                   | Boulevard                   |                  |
+|                             |                   |  Suite 100                  |                  |
+|                             |                   |  Chandler, AZ 85286         |                  |
++-----------------------------+-------------------+-----------------------------+------------------+
+| https://usable.darbydental. | Memphis, TN       | 4460 Holmes Road            | 1-(800) 645-2310 |
+| com/scripts/reachout.aspx   |                   |  Memphis, TN 38118          |                  |
++-----------------------------+-------------------+-----------------------------+------------------+

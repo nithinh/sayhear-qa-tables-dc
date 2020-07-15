@@ -1,0 +1,78 @@
++--------------------------------+--------------------------------+--------------------------------+
+| url                            | Degree                         | Abbreviations                  |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Audiology            | AuD or Au.D.                   |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Chiropractic         | DC or D.C.                     |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Dental Surgery       | DDS or D.D.S.                  |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Divinity             | DD or D.D.                     |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Education            | EdD or Ed.D.                   |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Jurisprudence (Juris | JD or J.D.                     |
+| /Appendix:Academic_degrees     | Doctor)                        |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Medical Dentistry    | DMD or D.M.D.                  |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Medicine             | MD or M.D.                     |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Ministry             | DMin                           |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Metaphysics          | Dr. mph.                       |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Musical Arts         | D.M.A.                         |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Naturopathy          | ND or N.D.                     |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Nursing Practice     | DNP or D.N.P.                  |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Optometry            | OD or O.D.                     |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Osteopathy           | DO or D.O.                     |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Pharmacy             | PharmD or Pharm.D.             |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Philosophy           | PhD, Ph.D., DPhil, D.Phil.,    |
+| /Appendix:Academic_degrees     |                                | DPh, or D.Ph.                  |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Physical Therapy     | DPT or D.P.T.                  |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Practical Theology   | DPT or D.P.T.                  |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Psychology           | PsyD or Psy.D.                 |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Public Health        | DrPH                           |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Religious Sciences   | Dr. sc. rel. or D.R.S.         |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Science              | DSc, D.Sc. or ScD              |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Theology             | D.Th., Th.D. or ThD            |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wiktionary.org/wiki | Doctor of Veterinary Medicine  | DVM or D.V.M.                  |
+| /Appendix:Academic_degrees     |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+

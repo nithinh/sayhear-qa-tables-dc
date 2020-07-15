@@ -1,0 +1,420 @@
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| url     | Team    | Team_li | Coach   | Season_ | Current | Current | Current | Current | Career |
+|         |         | nk      |         | Hired   | _W      | _L      | _T      | _W%     | _W     |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Arizona | https:/ | Steve   | 2018    | 0       | 0       | 0       | –       | 0      |
+| /en.wik | Cardina | /en.wik | Wilks   |         |         |         |         |         |        |
+| ipedia. | ls      | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Arizo |         |         |         |         |         |         |        |
+| of_curr |         | na_Card |         |         |         |         |         |         |        |
+| ent_Nat |         | inals   |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Atlanta | https:/ | Dan     | 2015    | 29      | 19      | 0       | 0.604   | 29     |
+| /en.wik | Falcons | /en.wik | Quinn   |         |         |         |         |         |        |
+| ipedia. |         | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Atlan |         |         |         |         |         |         |        |
+| of_curr |         | ta_Falc |         |         |         |         |         |         |        |
+| ent_Nat |         | ons     |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Baltimo | https:/ | John Ha | 2008    | 94      | 66      | 0       | 0.588   | 94     |
+| /en.wik | re      | /en.wik | rbaugh  |         |         |         |         |         |        |
+| ipedia. | Ravens  | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Balti |         |         |         |         |         |         |        |
+| of_curr |         | more_Ra |         |         |         |         |         |         |        |
+| ent_Nat |         | vens    |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Buffalo | https:/ | Sean Mc | 2017    | 9       | 7       | 0       | 0.563   | 9      |
+| /en.wik | Bills   | /en.wik | Dermott |         |         |         |         |         |        |
+| ipedia. |         | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Buffa |         |         |         |         |         |         |        |
+| of_curr |         | lo_Bill |         |         |         |         |         |         |        |
+| ent_Nat |         | s       |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Carolin | https:/ | Ron     | 2011    | 64      | 47      | 1       | 0.576   | 64     |
+| /en.wik | a Panth | /en.wik | Rivera  |         |         |         |         |         |        |
+| ipedia. | ers     | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Carol |         |         |         |         |         |         |        |
+| of_curr |         | ina_Pan |         |         |         |         |         |         |        |
+| ent_Nat |         | thers   |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Chicago | https:/ | Matt    | 2018    | 0       | 0       | 0       | –       | 0      |
+| /en.wik | Bears   | /en.wik | Nagy    |         |         |         |         |         |        |
+| ipedia. |         | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Chica |         |         |         |         |         |         |        |
+| of_curr |         | go_Bear |         |         |         |         |         |         |        |
+| ent_Nat |         | s       |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Cincinn | https:/ | Marvin  | 2003    | 123     | 112     | 3       | 0.523   | 123    |
+| /en.wik | ati     | /en.wik | Lewis   |         |         |         |         |         |        |
+| ipedia. | Bengals | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Cinci |         |         |         |         |         |         |        |
+| of_curr |         | nnati_B |         |         |         |         |         |         |        |
+| ent_Nat |         | engals  |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Clevela | https:/ | Hue     | 2016    | 1       | 31      | 0       | 0.031   | 9      |
+| /en.wik | nd      | /en.wik | Jackson |         |         |         |         |         |        |
+| ipedia. | Browns  | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Cleve |         |         |         |         |         |         |        |
+| of_curr |         | land_Br |         |         |         |         |         |         |        |
+| ent_Nat |         | owns    |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Dallas  | https:/ | Jason   | 2010    | 66      | 52      | 0       | 0.559   | 66     |
+| /en.wik | Cowboys | /en.wik | Garrett |         |         |         |         |         |        |
+| ipedia. |         | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Dalla |         |         |         |         |         |         |        |
+| of_curr |         | s_Cowbo |         |         |         |         |         |         |        |
+| ent_Nat |         | ys      |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Denver  | https:/ | Vance   | 2017    | 5       | 11      | 0       | 0.313   | 5      |
+| /en.wik | Broncos | /en.wik | Joseph  |         |         |         |         |         |        |
+| ipedia. |         | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Denve |         |         |         |         |         |         |        |
+| of_curr |         | r_Bronc |         |         |         |         |         |         |        |
+| ent_Nat |         | os      |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Detroit | https:/ | Matt Pa | 2018    | 0       | 0       | 0       | –       | 0      |
+| /en.wik | Lions   | /en.wik | tricia  |         |         |         |         |         |        |
+| ipedia. |         | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Detro |         |         |         |         |         |         |        |
+| of_curr |         | it_Lion |         |         |         |         |         |         |        |
+| ent_Nat |         | s       |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Green   | https:/ | Mike Mc | 2006    | 121     | 70      | 1       | 0.633   | 121    |
+| /en.wik | Bay     | /en.wik | Carthy  |         |         |         |         |         |        |
+| ipedia. | Packers | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Green |         |         |         |         |         |         |        |
+| of_curr |         | _Bay_Pa |         |         |         |         |         |         |        |
+| ent_Nat |         | ckers   |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Houston | https:/ | Bill    | 2014    | 31      | 33      | 0       | 0.484   | 31     |
+| /en.wik | Texans  | /en.wik | O'Brien |         |         |         |         |         |        |
+| ipedia. |         | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Houst |         |         |         |         |         |         |        |
+| of_curr |         | on_Texa |         |         |         |         |         |         |        |
+| ent_Nat |         | ns      |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Indiana | https:/ | Frank   | 2018    | 0       | 0       | 0       | –       | 0      |
+| /en.wik | polis   | /en.wik | Reich   |         |         |         |         |         |        |
+| ipedia. | Colts   | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/India |         |         |         |         |         |         |        |
+| of_curr |         | napolis |         |         |         |         |         |         |        |
+| ent_Nat |         | _Colts  |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Jackson | https:/ | Doug    | 2016    | 11      | 7       | 0       | 0.611   | 26     |
+| /en.wik | ville   | /en.wik | Marrone |         |         |         |         |         |        |
+| ipedia. | Jaguars | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Jacks |         |         |         |         |         |         |        |
+| of_curr |         | onville |         |         |         |         |         |         |        |
+| ent_Nat |         | _Jaguar |         |         |         |         |         |         |        |
+| ional_F |         | s       |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Kansas  | https:/ | Andy    | 2013    | 53      | 27      | 0       | 0.663   | 183    |
+| /en.wik | City    | /en.wik | Reid    |         |         |         |         |         |        |
+| ipedia. | Chiefs  | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Kansa |         |         |         |         |         |         |        |
+| of_curr |         | s_City_ |         |         |         |         |         |         |        |
+| ent_Nat |         | Chiefs  |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Los     | https:/ | Anthony | 2017    | 9       | 7       | 0       | 0.563   | 9      |
+| /en.wik | Angeles | /en.wik | Lynn    |         |         |         |         |         |        |
+| ipedia. | Charger | ipedia. |         |         |         |         |         |         |        |
+| org/wik | s       | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Los_A |         |         |         |         |         |         |        |
+| of_curr |         | ngeles_ |         |         |         |         |         |         |        |
+| ent_Nat |         | Charger |         |         |         |         |         |         |        |
+| ional_F |         | s       |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Los     | https:/ | Sean    | 2017    | 11      | 5       | 0       | 0.688   | 11     |
+| /en.wik | Angeles | /en.wik | McVay   |         |         |         |         |         |        |
+| ipedia. | Rams    | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Los_A |         |         |         |         |         |         |        |
+| of_curr |         | ngeles_ |         |         |         |         |         |         |        |
+| ent_Nat |         | Rams    |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Miami D | https:/ | Adam    | 2016    | 16      | 16      | 0       | 0.500   | 16     |
+| /en.wik | olphins | /en.wik | Gase    |         |         |         |         |         |        |
+| ipedia. |         | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Miami |         |         |         |         |         |         |        |
+| of_curr |         | _Dolphi |         |         |         |         |         |         |        |
+| ent_Nat |         | ns      |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Minneso | https:/ | Mike    | 2014    | 39      | 25      | 0       | 0.609   | 39     |
+| /en.wik | ta      | /en.wik | Zimmer  |         |         |         |         |         |        |
+| ipedia. | Vikings | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Minne |         |         |         |         |         |         |        |
+| of_curr |         | sota_Vi |         |         |         |         |         |         |        |
+| ent_Nat |         | kings   |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | New     | https:/ | Bill Be | 2000    | 214     | 74      | 0       | 0.743   | 250    |
+| /en.wik | England | /en.wik | lichick |         |         |         |         |         |        |
+| ipedia. | Patriot | ipedia. |         |         |         |         |         |         |        |
+| org/wik | s       | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/New_E |         |         |         |         |         |         |        |
+| of_curr |         | ngland_ |         |         |         |         |         |         |        |
+| ent_Nat |         | Patriot |         |         |         |         |         |         |        |
+| ional_F |         | s       |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | New     | https:/ | Sean    | 2006    | 105     | 71      | 0       | 0.597   | 105    |
+| /en.wik | Orleans | /en.wik | Payton  |         |         |         |         |         |        |
+| ipedia. | Saints  | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/New_O |         |         |         |         |         |         |        |
+| of_curr |         | rleans_ |         |         |         |         |         |         |        |
+| ent_Nat |         | Saints  |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | New     | https:/ | Pat     | 2018    | 0       | 0       | 0       | –       | 10     |
+| /en.wik | York    | /en.wik | Shurmur |         |         |         |         |         |        |
+| ipedia. | Giants  | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/New_Y |         |         |         |         |         |         |        |
+| of_curr |         | ork_Gia |         |         |         |         |         |         |        |
+| ent_Nat |         | nts     |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | New     | https:/ | Todd    | 2015    | 20      | 28      | 0       | 0.417   | 22     |
+| /en.wik | York    | /en.wik | Bowles  |         |         |         |         |         |        |
+| ipedia. | Jets    | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/New_Y |         |         |         |         |         |         |        |
+| of_curr |         | ork_Jet |         |         |         |         |         |         |        |
+| ent_Nat |         | s       |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Oakland | https:/ | Jon     | 2018    | 0       | 0       | 0       | –       | 95     |
+| /en.wik | Raiders | /en.wik | Gruden  |         |         |         |         |         |        |
+| ipedia. |         | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Oakla |         |         |         |         |         |         |        |
+| of_curr |         | nd_Raid |         |         |         |         |         |         |        |
+| ent_Nat |         | ers     |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Philade | https:/ | Doug Pe | 2016    | 20      | 12      | 0       | 0.625   | 20     |
+| /en.wik | lphia   | /en.wik | derson  |         |         |         |         |         |        |
+| ipedia. | Eagles  | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Phila |         |         |         |         |         |         |        |
+| of_curr |         | delphia |         |         |         |         |         |         |        |
+| ent_Nat |         | _Eagles |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Pittsbu | https:/ | Mike    | 2007    | 116     | 60      | 0       | 0.659   | 116    |
+| /en.wik | rgh Ste | /en.wik | Tomlin  |         |         |         |         |         |        |
+| ipedia. | elers   | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Pitts |         |         |         |         |         |         |        |
+| of_curr |         | burgh_S |         |         |         |         |         |         |        |
+| ent_Nat |         | teelers |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | San Fra | https:/ | Kyle Sh | 2017    | 6       | 10      | 0       | 0.375   | 6      |
+| /en.wik | ncisco  | /en.wik | anahan  |         |         |         |         |         |        |
+| ipedia. | 49ers   | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/San_F |         |         |         |         |         |         |        |
+| of_curr |         | rancisc |         |         |         |         |         |         |        |
+| ent_Nat |         | o_49ers |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Seattle | https:/ | Pete    | 2010    | 79      | 48      | 1       | 0.621   | 112    |
+| /en.wik | Seahawk | /en.wik | Carroll |         |         |         |         |         |        |
+| ipedia. | s       | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Seatt |         |         |         |         |         |         |        |
+| of_curr |         | le_Seah |         |         |         |         |         |         |        |
+| ent_Nat |         | awks    |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Tampa   | https:/ | Dirk    | 2016    | 14      | 18      | 0       | 0.438   | 14     |
+| /en.wik | Bay Buc | /en.wik | Koetter |         |         |         |         |         |        |
+| ipedia. | caneers | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Tampa |         |         |         |         |         |         |        |
+| of_curr |         | _Bay_Bu |         |         |         |         |         |         |        |
+| ent_Nat |         | ccaneer |         |         |         |         |         |         |        |
+| ional_F |         | s       |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Tenness | https:/ | Mike    | 2018    | 0       | 0       | 0       | –       | 0      |
+| /en.wik | ee      | /en.wik | Vrabel  |         |         |         |         |         |        |
+| ipedia. | Titans  | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Tenne |         |         |         |         |         |         |        |
+| of_curr |         | ssee_Ti |         |         |         |         |         |         |        |
+| ent_Nat |         | tans    |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Washing | https:/ | Jay     | 2014    | 28      | 35      | 1       | 0.445   | 28     |
+| /en.wik | ton Red | /en.wik | Gruden  |         |         |         |         |         |        |
+| ipedia. | skins   | ipedia. |         |         |         |         |         |         |        |
+| org/wik |         | org/wik |         |         |         |         |         |         |        |
+| i/List_ |         | i/Washi |         |         |         |         |         |         |        |
+| of_curr |         | ngton_R |         |         |         |         |         |         |        |
+| ent_Nat |         | edskins |         |         |         |         |         |         |        |
+| ional_F |         |         |         |         |         |         |         |         |        |
+| ootball |         |         |         |         |         |         |         |         |        |
+| _League |         |         |         |         |         |         |         |         |        |
+| _head_c |         |         |         |         |         |         |         |         |        |
+| oaches  |         |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+

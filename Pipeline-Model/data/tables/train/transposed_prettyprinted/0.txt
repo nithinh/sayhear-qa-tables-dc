@@ -1,0 +1,57 @@
++------+------+------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+| Dire | Prod | Scre | Bas | Sta | Mus | Cin | Edi | Pro | Dis | Rel | Run | Cou | Lan | Bud | Box |
+| cted | uced | enpl | ed  | rri | ic  | ema | ted | duc | tri | eas | nin | ntr | gua | get | off |
+| by   | by   | ay   | on  | ng  | by  | tog | by  | tio | but | e d | g t | y   | ge  |     | ice |
+|      |      | by   |     |     |     | rap |     | n   | ed  | ate | ime |     |     |     |     |
+|      |      |      |     |     |     | hy  |     |  co | by  |     |     |     |     |     |     |
+|      |      |      |     |     |     |     |     | mpa |     |     |     |     |     |     |     |
+|      |      |      |     |     |     |     |     | ny  |     |     |     |     |     |     |     |
++------+------+------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+| Jame | Mich | Nial | Fif | Dak | Dan | Joh | Ric | Per | Uni | Feb | 105 | Uni | Eng | $55 | $37 |
+| s Fo | ael  | l Le | ty  | ota | ny  | n S | har | fec | ver | rua | min | ted | lis | mil | 0.1 |
+| ley  | De   | onar | Sha | Joh | Elf | chw | d F | t W | sal | ry  | ute | Sta | h   | lio | mil |
+|      | Luca | d    | des | nso | man | art | ran | orl | Pic | 6,  | s ( | tes |     | n[2 | lio |
+|      |      |      | Fre | n   |     | zma | cis | d P | tur | 201 | rat |     |     | ]   | n[2 |
+|      | E.   |      | ed  |     |     | n   | -Br | ict | es  | 8 ( | ed) |     |     |     | ]   |
+|      | L. J |      |  by | Jam |     |     | uce | ure |     | 201 | 110 |     |     |     |     |
+|      | ames |      | E.  | ie  |     |     |     | s   |     | 8-0 | min |     |     |     |     |
+|      |      |      | L.  | Dor |     |     | Deb |     |     | 2-0 | ute |     |     |     |     |
+|      | Dana |      | Jam | nan |     |     | ra  | Mic |     | 6)  | s ( |     |     |     |     |
+|      | Brun |      | es  |     |     |     | Nei | hae |     | (Pa | unr |     |     |     |     |
+|      | etti |      |     | Eri |     |     | l-F | l   |     | ris | ate |     |     |     |     |
+|      |      |      |     | c J |     |     | ish | De  |     | )   | d)[ |     |     |     |     |
+|      | Marc |      |     | ohn |     |     | er  | Luc |     |     | 1]  |     |     |     |     |
+|      | us V |      |     | son |     |     |     | a P |     | Feb |     |     |     |     |     |
+|      | isci |      |     |     |     |     |     | rod |     | rua |     |     |     |     |     |
+|      | di   |      |     | Rit |     |     |     | uct |     | ry  |     |     |     |     |     |
+|      |      |      |     | a   |     |     |     | ion |     | 9,  |     |     |     |     |     |
+|      |      |      |     | Ora |     |     |     | s   |     | 201 |     |     |     |     |     |
+|      |      |      |     |     |     |     |     |     |     | 8 ( |     |     |     |     |     |
+|      |      |      |     | Luk |     |     |     | Tri |     | 201 |     |     |     |     |     |
+|      |      |      |     | e G |     |     |     | gge |     | 8-0 |     |     |     |     |     |
+|      |      |      |     | rim |     |     |     | r S |     | 2-0 |     |     |     |     |     |
+|      |      |      |     | es  |     |     |     | tre |     | 9)  |     |     |     |     |     |
+|      |      |      |     |     |     |     |     | et  |     | (Un |     |     |     |     |     |
+|      |      |      |     | Vic |     |     |     | Pro |     | ite |     |     |     |     |     |
+|      |      |      |     | tor |     |     |     | duc |     | d S |     |     |     |     |     |
+|      |      |      |     | Ras |     |     |     | tio |     | tat |     |     |     |     |     |
+|      |      |      |     | uk  |     |     |     | ns  |     | es) |     |     |     |     |     |
+|      |      |      |     |     |     |     |     |     |     |     |     |     |     |     |     |
+|      |      |      |     | Jen |     |     |     |     |     |     |     |     |     |     |     |
+|      |      |      |     | nif |     |     |     |     |     |     |     |     |     |     |     |
+|      |      |      |     | er  |     |     |     |     |     |     |     |     |     |     |     |
+|      |      |      |     | Ehl |     |     |     |     |     |     |     |     |     |     |     |
+|      |      |      |     | e   |     |     |     |     |     |     |     |     |     |     |     |
+|      |      |      |     |     |     |     |     |     |     |     |     |     |     |     |     |
+|      |      |      |     | Ari |     |     |     |     |     |     |     |     |     |     |     |
+|      |      |      |     | ell |     |     |     |     |     |     |     |     |     |     |     |
+|      |      |      |     | e K |     |     |     |     |     |     |     |     |     |     |     |
+|      |      |      |     | ebb |     |     |     |     |     |     |     |     |     |     |     |
+|      |      |      |     | el  |     |     |     |     |     |     |     |     |     |     |     |
+|      |      |      |     |     |     |     |     |     |     |     |     |     |     |     |     |
+|      |      |      |     | Mar |     |     |     |     |     |     |     |     |     |     |     |
+|      |      |      |     | cia |     |     |     |     |     |     |     |     |     |     |     |
+|      |      |      |     | Gay |     |     |     |     |     |     |     |     |     |     |     |
+|      |      |      |     | Har |     |     |     |     |     |     |     |     |     |     |     |
+|      |      |      |     | den |     |     |     |     |     |     |     |     |     |     |     |
++------+------+------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+

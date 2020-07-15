@@ -1,0 +1,1309 @@
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| url        | Airport_ID | Depart_Cit | Suggested | Terminal_ | Fly_By_Ch | Fly_By_Se | Self_Tagg |
+|            |            | y_/_Airpor | _Time_of_ | and_Gate  | eck-in    | curity    | ing       |
+|            |            | t_ID       | Arrival   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | ALB        | Albany, NY | Domestic  | Terminal  | yes       | No        | yes       |
+| w.southwes |            | - ALB      | 90        | C; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | C:2,3     |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | ABQ        | Albuquerqu | Domestic  | Concourse | yes       | yes       | yes       |
+| w.southwes |            | e, NM -    | 90        | A; Gates  |           |           |           |
+| t.com/html |            | ABQ        | Minutes   | 5,7-11    |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | AMA        | Amarillo,  | Domestic  | Main      | No        | yes       | No        |
+| w.southwes |            | TX - AMA   | 60        | Terminal; |           |           |           |
+| t.com/html |            |            | Minutes   | Gates 6,7 |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 60        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | AUA        | Aruba, AW  | 180       | US Depart | yes       | No        | No        |
+| w.southwes |            | - AUA      | Minutes;  | ures;     |           |           |           |
+| t.com/html |            |            | 180       | Gates     |           |           |           |
+| /air/airpo |            |            | Minutes   | change    |           |           |           |
+| rt-informa |            |            |           | daily     |           |           |           |
+| tion.html  |            |            |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | ATL        | Atlanta,   | Domestic  | Concourse | yes       | yes       | yes       |
+| w.southwes |            | GA - ATL   | 120       | C; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | C: 1-7,9, |           |           |           |
+| /air/airpo |            |            | Internati | 10,12-17, |           |           |           |
+| rt-informa |            |            | onal      | 20-22     |           |           |           |
+| tion.html  |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | AUS        | Austin, TX | Domestic  | Main      | yes       | yes       | yes       |
+| w.southwes |            | - AUS      | 120       | Terminal; |           |           |           |
+| t.com/html |            |            | Minutes   | Gates     |           |           |           |
+| /air/airpo |            |            | Internati | 7-12      |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | BWI        | Baltimore/ | Domestic  | Terminals | yes       | yes       | yes       |
+| w.southwes |            | Washington | 120       | A,B,&C;   |           |           |           |
+| t.com/html |            | , MD - BWI | Minutes   | Gates     |           |           |           |
+| /air/airpo |            |            | Internati | A:1-11    |           |           |           |
+| rt-informa |            |            | onal      | B:2-15    |           |           |           |
+| tion.html  |            |            | 180       | C:9-14    |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 180 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | BZE        | Belize     | 180       | Terminal  | yes       | No        | No        |
+| w.southwes |            | City,      | Minutes;  | 1; Gate 2 |           |           |           |
+| t.com/html |            | Belize -   | 180       |           |           |           |           |
+| /air/airpo |            | BZE        | Minutes   |           |           |           |           |
+| rt-informa |            |            |           |           |           |           |           |
+| tion.html  |            |            |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | BHM        | Birmingham | Domestic  | Terminal  | No        | No        | yes       |
+| w.southwes |            | , AL - BHM | 90        | C; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | C:1,3,5   |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | BOI        | Boise, ID  | Domestic  | Concourse | No        | No        | No        |
+| w.southwes |            | - BOI      | 90        | B; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | 15,17     |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | BOS        | Boston     | Domestic  | Terminal  | yes       | yes       | yes       |
+| w.southwes |            | Logan, MA  | 120       | A; Gates  |           |           |           |
+| t.com/html |            | - BOS      | Minutes   | 18-22     |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | BUF        | Buffalo/Ni | Domestic  | Main      | yes       | yes       | yes       |
+| w.southwes |            | agara, NY  | 90        | Terminal; |           |           |           |
+| t.com/html |            | - BUF      | Minutes   | Gates     |           |           |           |
+| /air/airpo |            |            | Internati | 15,16,18  |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | BUR        | Burbank,   | Domestic  | Concourse | yes       | yes       | No        |
+| w.southwes |            | CA - BUR   | 90        | A; Gates; |           |           |           |
+| t.com/html |            |            | Minutes   | A:1-4,6   |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | SJD        | Cabo/Los   | 120       | Terminal  | yes       | No        | No        |
+| w.southwes |            | Cabos,     | Minutes;  | 2; Gates  |           |           |           |
+| t.com/html |            | Baja       | 120       | change    |           |           |           |
+| /air/airpo |            | California | Minutes   | daily     |           |           |           |
+| rt-informa |            | Sur - SJD  |           |           |           |           |           |
+| tion.html  |            |            |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | CUN        | Cancun,    | 120       | Terminal  | yes       | No        | No        |
+| w.southwes |            | Quintana   | Minutes;  | 4; Gates  |           |           |           |
+| t.com/html |            | Roo - CUN  | 120       | change    |           |           |           |
+| /air/airpo |            |            | Minutes   | daily     |           |           |           |
+| rt-informa |            |            |           |           |           |           |           |
+| tion.html  |            |            |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | CHS        | Charleston | Domestic  | Main Conc | No        | No        | No        |
+| w.southwes |            | , SC - CHS | 90        | ourse:;   |           |           |           |
+| t.com/html |            |            | Minutes   | Gate B4   |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | CLT        | Charlotte, | Domestic  | Terminal  | yes       | yes       | No        |
+| w.southwes |            | NC - CLT   | 90        | A; Gate   |           |           |           |
+| t.com/html |            |            | Minutes   | A: 6,8    |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | MDW        | Chicago    | Domestic  | Terminals | yes       | No        | yes       |
+| w.southwes |            | (Midway),  | 90        | A&B;      |           |           |           |
+| t.com/html |            | IL - MDW   | Minutes   | Gates     |           |           |           |
+| /air/airpo |            |            | Internati | A:4a,4b,  |           |           |           |
+| rt-informa |            |            | onal      | 9,11,12,1 |           |           |           |
+| tion.html  |            |            | 120       | 4-19 B:1- |           |           |           |
+|            |            |            | Minutes;  | 3,5,7-12, |           |           |           |
+|            |            |            | Domestic; | 14-26     |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | CVG        | Cincinnati | Domestic  | Concourse | yes       | yes       | No        |
+| w.southwes |            | , OH - CVG | 90        | A; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | 3, 5      |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | CLE        | Cleveland, | Domestic  | Concourse | yes       | yes       | yes       |
+| w.southwes |            | OH - CLE   | 90        | B; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | 7-11      |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | CMH        | Columbus,  | Domestic  | Concourse | yes       | yes       | yes       |
+| w.southwes |            | OH - CMH   | 60        | A; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | A:2-6     |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 60        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | CRP        | Corpus     | Domestic  | Main      | No        | No        | No        |
+| w.southwes |            | Christi,   | 60        | Terminal; |           |           |           |
+| t.com/html |            | TX - CRP   | Minutes   | Gate 2    |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 60        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | DAL        | Dallas     | Domestic  | Main      | yes       | yes       | yes       |
+| w.southwes |            | (Love      | 120       | Terminal; |           |           |           |
+| t.com/html |            | Field), TX | Minutes   | Gates A:  |           |           |           |
+| /air/airpo |            | - DAL      | Internati | 1-10,12,1 |           |           |           |
+| rt-informa |            |            | onal      | 4-20      |           |           |           |
+| tion.html  |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | DEN        | Denver, CO | Domestic  | Concourse | yes       | yes       | yes       |
+| w.southwes |            | - DEN      | 120       | C; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | C: 23-37, |           |           |           |
+| /air/airpo |            |            | Internati | 40-47,49, |           |           |           |
+| rt-informa |            |            | onal      | 51        |           |           |           |
+| tion.html  |            |            | 180       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 180 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | DSM        | Des        | Domestic  | Terminal  | yes       | No        | No        |
+| w.southwes |            | Moines, IA | 90        | A; Gate   |           |           |           |
+| t.com/html |            | - DSM      | Minutes   | A3        |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | DTW        | Detroit,   | Domestic  | North     | yes       | yes       | yes       |
+| w.southwes |            | MI - DTW   | 120       | Terminal; |           |           |           |
+| t.com/html |            |            | Minutes   | Gates D:1 |           |           |           |
+| /air/airpo |            |            | Internati | 9-21,23   |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | ELP        | El Paso,   | Domestic  | Main      | No        | yes       | No        |
+| w.southwes |            | TX - ELP   | 90        | Terminal; |           |           |           |
+| t.com/html |            |            | Minutes   | Gates     |           |           |           |
+| /air/airpo |            |            | Internati | B:3-6     |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | FNT        | Flint, MI  | Domestic  | Main      | No        | yes       | No        |
+| w.southwes |            | - FNT      | 90        | Terminal; |           |           |           |
+| t.com/html |            |            | Minutes   | Gates 8,9 |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | FLL        | Ft. Lauder | Domestic  | Terminal  | yes       | yes       | yes       |
+| w.southwes |            | dale, FL - | 60        | 1; Gates  |           |           |           |
+| t.com/html |            | FLL        | Minutes   | A: 2-7,;  |           |           |           |
+| /air/airpo |            |            | Internati | Gates B:  |           |           |           |
+| rt-informa |            |            | onal      | 2,4-9     |           |           |           |
+| tion.html  |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 60        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | RSW        | Ft. Myers, | Domestic  | Terminal  | yes       | yes       | No        |
+| w.southwes |            | FL - RSW   | 120       | B; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | B:2,4,6,8 |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | GCM        | Grand      | 180       | Main      | No        | No        | No        |
+| w.southwes |            | Cayman     | minutes;  | Terminal; |           |           |           |
+| t.com/html |            | Islands,   | 180       | Gate 8    |           |           |           |
+| /air/airpo |            | KY - GCM   | minutes   |           |           |           |           |
+| rt-informa |            |            |           |           |           |           |           |
+| tion.html  |            |            |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | GRR        | Grand      | Domestic  | Concourse | yes       | No        | No        |
+| w.southwes |            | Rapids, MI | 60        | B; Gates  |           |           |           |
+| t.com/html |            | - GRR      | Minutes   | B4        |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 60        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | GSP        | Greenville | Domestic  | Main Term | yes       | yes       | No        |
+| w.southwes |            | /Spartanbu | 60        | inal:;    |           |           |           |
+| t.com/html |            | rg, SC -   | Minutes   | Gates A:  |           |           |           |
+| /air/airpo |            | GSP        | Internati | 4         |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 60        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | HRL        | Harlingen, | Domestic  | Main      | yes       | yes       | No        |
+| w.southwes |            | TX - HRL   | 60        | Terminal; |           |           |           |
+| t.com/html |            |            | Minutes   | Gates 5,  |           |           |           |
+| /air/airpo |            |            | Internati | 6         |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 60        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | BDL        | Hartford,  | Domestic  | Terminal  | No        | yes       | No        |
+| w.southwes |            | CT - BDL   | 120       | A; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | A:2,4,6   |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | HAV        | Havana,    | 180       | Terminal  | yes       | No        | No        |
+| w.southwes |            | Cuba - HAV | Minutes;  | 2         |           |           |           |
+| t.com/html |            |            | 180       |           |           |           |           |
+| /air/airpo |            |            | Minutes   |           |           |           |           |
+| rt-informa |            |            |           |           |           |           |           |
+| tion.html  |            |            |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | HOU        | Houston    | Domestic  | Central C | yes       | yes       | yes       |
+| w.southwes |            | (Hobby),   | 120       | oncourse; |           |           |           |
+| t.com/html |            | TX - HOU   | Minutes   | Gates 20- |           |           |           |
+| /air/airpo |            |            | Internati | 25,27,40- |           |           |           |
+| rt-informa |            |            | onal      | 51        |           |           |           |
+| tion.html  |            |            | 180       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 180 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | IND        | Indianapol | Domestic  | Terminal  | yes       | No        | No        |
+| w.southwes |            | is, IN -   | 90        | B; Gates  |           |           |           |
+| t.com/html |            | IND        | Minutes   | B:17,20-2 |           |           |           |
+| /air/airpo |            |            | Internati | 4         |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | JAX        | Jacksonvil | Domestic  | Concourse | No        | No        | No        |
+| w.southwes |            | le, FL -   | 90        | C; Gates  |           |           |           |
+| t.com/html |            | JAX        | Minutes   | C: 1,2,4  |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | MCI        | Kansas     | Domestic  | Terminal  | yes       | yes       | No        |
+| w.southwes |            | City, MO - | 90        | B; Gates  |           |           |           |
+| t.com/html |            | MCI        | Minutes   | 32,33,37- |           |           |           |
+| /air/airpo |            |            | Internati | 41,43,45  |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | LAS        | Las Vegas, | Domestic  | Concourse | yes       | yes       | yes       |
+| w.southwes |            | NV - LAS   | 90        | B&C;      |           |           |           |
+| t.com/html |            |            | Minutes   | Gates B:  |           |           |           |
+| /air/airpo |            |            | Internati | 9-12,14,1 |           |           |           |
+| rt-informa |            |            | onal      | 5; C:1-5, |           |           |           |
+| tion.html  |            |            | 90        | 7-9,11,12 |           |           |           |
+|            |            |            | Minutes;  | ,; 14,16, |           |           |           |
+|            |            |            | Domestic; | 19,21-25  |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | LIR        | Liberia,   | 120       | Main      | yes       | No        | No        |
+| w.southwes |            | Costa Rica | Minutes;  | Terminal; |           |           |           |
+| t.com/html |            | - LIR      | 120       | Gates     |           |           |           |
+| /air/airpo |            |            | Minutes   | change    |           |           |           |
+| rt-informa |            |            |           | daily     |           |           |           |
+| tion.html  |            |            |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | LIT        | Little     | Domestic  | Main      | yes       | No        | No        |
+| w.southwes |            | Rock, AR - | 90        | Terminal; |           |           |           |
+| t.com/html |            | LIT        | Minutes   | Gates     |           |           |           |
+| /air/airpo |            |            | Internati | 9,10      |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | LGB        | Long       | Domestic  | Main      | No        | yes       | No        |
+| w.southwes |            | Beach, CA  | 90        | Terminal; |           |           |           |
+| t.com/html |            | - LGB      | Minutes   | Gate 1    |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | ISP        | Long       | Domestic  | East      | No        | yes       | yes       |
+| w.southwes |            | Island, NY | 90        | Terminal; |           |           |           |
+| t.com/html |            | - ISP      | Minutes   | Gates     |           |           |           |
+| /air/airpo |            |            | Internati | A:1-8     |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | LAX        | Los        | Domestic  | Terminal  | yes       | yes       | yes       |
+| w.southwes |            | Angeles,   | Tues-Thur | 1; Gates  |           |           |           |
+| t.com/html |            | CA - LAX   | 90        | 9,10,11A, |           |           |           |
+| /air/airpo |            |            | Minutes   | ; 11B,12A |           |           |           |
+| rt-informa |            |            | Fri-Mon   | ,12B,13,1 |           |           |           |
+| tion.html  |            |            | 120       | 4,15,16A, |           |           |           |
+|            |            |            | Minutes   | 16B,17A,; |           |           |           |
+|            |            |            | Internati | 17B,18A,1 |           |           |           |
+|            |            |            | onal      | 8B        |           |           |           |
+|            |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | Tues-     |           |           |           |           |
+|            |            |            | Thur; 90  |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Fri-Mon;  |           |           |           |           |
+|            |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | SDF        | Louisville | Domestic  | Terminal  | No        | No        | No        |
+| w.southwes |            | , KY - SDF | 90        | 1; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | B:11,15,1 |           |           |           |
+| /air/airpo |            |            | Internati | 7         |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | LBB        | Lubbock,   | Domestic  | Main      | No        | No        | No        |
+| w.southwes |            | TX - LBB   | 90        | Terminal; |           |           |           |
+| t.com/html |            |            | Minutes   | Gates 6-8 |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | MHT        | Manchester | Domestic  | Main      | No        | No        | yes       |
+| w.southwes |            | , NH - MHT | 90        | Terminal; |           |           |           |
+| t.com/html |            |            | Minutes   | Gates     |           |           |           |
+| /air/airpo |            |            | Internati | 11,12,14, |           |           |           |
+| rt-informa |            |            | onal      | 15,15a    |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | MEM        | Memphis,   | Domestic  | Terminal  | No        | No        | No        |
+| w.southwes |            | TN - MEM   | 90        | A; Gate   |           |           |           |
+| t.com/html |            |            | Minutes   | A: 25,27  |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | MEX        | Mexico     | 120       | Terminal  | yes       | No        | No        |
+| w.southwes |            | City/D.F., | Minutes;  | 1; Gates  |           |           |           |
+| t.com/html |            | MX - MEX   | 120       | change    |           |           |           |
+| /air/airpo |            |            | Minutes   | daily     |           |           |           |
+| rt-informa |            |            |           |           |           |           |           |
+| tion.html  |            |            |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | MAF        | Midland/Od | Domestic  | Main      | No        | No        | No        |
+| w.southwes |            | essa, TX - | 60        | Terminal; |           |           |           |
+| t.com/html |            | MAF        | Minutes   | Gates 3,4 |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 60        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | MKE        | Milwaukee, | Domestic  | Terminal  | yes       | yes       | yes       |
+| w.southwes |            | WI - MKE   | 90        | C; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | C:14,15,1 |           |           |           |
+| /air/airpo |            |            | Internati | 8-25      |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | MSP        | Minneapoli | Domestic  | Terminal  | yes       | yes       | No        |
+| w.southwes |            | s/St.      | 120       | 2-Humphre |           |           |           |
+| t.com/html |            | Paul, MN - | Minutes   | y; Gate   |           |           |           |
+| /air/airpo |            | MSP        | Internati | H: 7-10   |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | MBJ        | Montego    | 120       | Main      | yes       | No        | No        |
+| w.southwes |            | Bay, JM -  | Minutes;  | Terminal; |           |           |           |
+| t.com/html |            | MBJ        | 120       | Gates     |           |           |           |
+| /air/airpo |            |            | Minutes   | assigned  |           |           |           |
+| rt-informa |            |            |           | daily     |           |           |           |
+| tion.html  |            |            |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | BNA        | Nashville, | Domestic  | South     | yes       | yes       | yes       |
+| w.southwes |            | TN - BNA   | 120       | Concourse |           |           |           |
+| t.com/html |            |            | Minutes   | C; Gates  |           |           |           |
+| /air/airpo |            |            | Internati | C:4,7,9,1 |           |           |           |
+| rt-informa |            |            | onal      | 5-21,23,2 |           |           |           |
+| tion.html  |            |            | 120       | 5         |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | NAS        | Nassau/Par | 180       | US        | yes       | No        | No        |
+| w.southwes |            | adise      | Minutes;  | Terminal; |           |           |           |
+| t.com/html |            | Island, BS | 180       | C41-C45   |           |           |           |
+| /air/airpo |            | - NAS      | Minutes   |           |           |           |           |
+| rt-informa |            |            |           |           |           |           |           |
+| tion.html  |            |            |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | EWR        | Newark, NJ | Domestic  | Terminal  | yes       | yes       | No        |
+| w.southwes |            | - EWR      | 90        | A; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | A:10,14,1 |           |           |           |
+| /air/airpo |            |            | Internati | 5         |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | MSY        | New        | Domestic  | Concourse | yes       | yes       | No        |
+| w.southwes |            | Orleans,   | 90        | B; Gates  |           |           |           |
+| t.com/html |            | LA - MSY   | Minutes   | B: 2,4,5, |           |           |           |
+| /air/airpo |            |            | Internati | 7-9,15    |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | LGA        | New York ( | Domestic  | Central   | yes       | yes       | No        |
+| w.southwes |            | LaGuardia) | 120       | Terminal  |           |           |           |
+| t.com/html |            | , NY - LGA | Minutes   | Building; |           |           |           |
+| /air/airpo |            |            | Internati | Gate B: 1 |           |           |           |
+| rt-informa |            |            | onal      | ,3,4,5,7, |           |           |           |
+| tion.html  |            |            | 120       | 8         |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | ORF        | Norfolk,   | Domestic  | Concourse | No        | No        | No        |
+| w.southwes |            | VA - ORF   | 90        | A; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | 3, 5      |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | OAK        | Oakland,   | Domestic  | Terminal  | yes       | yes       | yes       |
+| w.southwes |            | CA - OAK   | 90        | 1 & 2;    |           |           |           |
+| t.com/html |            |            | Minutes   | Terminal  |           |           |           |
+| /air/airpo |            |            | Internati | 1 Gates:  |           |           |           |
+| rt-informa |            |            | onal      | 4,6       |           |           |           |
+| tion.html  |            |            | 120       | Terminal  |           |           |           |
+|            |            |            | Minutes;  | 2 Gates:  |           |           |           |
+|            |            |            | Domestic; | 20-32     |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | OKC        | Oklahoma   | Domestic  | Main      | No        | No        | No        |
+| w.southwes |            | City, OK - | 90        | Terminal; |           |           |           |
+| t.com/html |            | OKC        | Minutes   | Gates     |           |           |           |
+| /air/airpo |            |            | Internati | 14,16,18  |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | OMA        | Omaha, NE  | Domestic  | North Sat | No        | No        | No        |
+| w.southwes |            | - OMA      | 90        | ellite;   |           |           |           |
+| t.com/html |            |            | Minutes   | Gates     |           |           |           |
+| /air/airpo |            |            | Internati | 16-18     |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | ONT        | Ontario/LA | Domestic  | Terminal  | yes       | yes       | yes       |
+| w.southwes |            | , CA - ONT | 90        | 4; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | 401-407   |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | SNA        | Orange     | Domestic  | Terminal  | yes       | yes       | yes       |
+| w.southwes |            | County, CA | 90        | C; Gates  |           |           |           |
+| t.com/html |            | - SNA      | Minutes   | 14-21     |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | MCO        | Orlando,   | Domestic  | Terminal  | yes       | No        | yes       |
+| w.southwes |            | FL - MCO   | 120       | A; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | 101,103,1 |           |           |           |
+| /air/airpo |            |            | Internati | 05,107, 1 |           |           |           |
+| rt-informa |            |            | onal      | 09,110,12 |           |           |           |
+| tion.html  |            |            | 120       | 0-129     |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | ECP        | Panama     | Domestic  | Main      | No        | No        | No        |
+| w.southwes |            | City       | 60        | Terminal; |           |           |           |
+| t.com/html |            | Beach, FL  | Minutes   | Gate 3    |           |           |           |
+| /air/airpo |            | - ECP      | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 60        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | PNS        | Pensacola, | Domestic  | Main      | yes       | No        | No        |
+| w.southwes |            | FL - PNS   | 90        | Terminal; |           |           |           |
+| t.com/html |            |            | Minutes   | Gates     |           |           |           |
+| /air/airpo |            |            | Internati | 8,10      |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | PHL        | Philadelph | Domestic  | Terminal  | yes       | yes       | No        |
+| w.southwes |            | ia, PA -   | 90        | E; Gates  |           |           |           |
+| t.com/html |            | PHL        | Minutes   | E:9,11-17 |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | PHX        | Phoenix,   | Domestic  | Terminal  | yes       | yes       | yes       |
+| w.southwes |            | AZ - PHX   | 120       | 4; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | C:1-4, 6- |           |           |           |
+| /air/airpo |            |            | Internati | 9,11-14,1 |           |           |           |
+| rt-informa |            |            | onal      | 6-19,     |           |           |           |
+| tion.html  |            |            | 120       | D:1-8     |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | PIT        | Pittsburgh | Domestic  | Terminal  | yes       | yes       | yes       |
+| w.southwes |            | , PA - PIT | 120       | A; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | A:1,3,5,7 |           |           |           |
+| /air/airpo |            |            | Internati | ,9        |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | PWM        | Portland,  | Domestic  | Main      | yes       | yes       | No        |
+| w.southwes |            | ME - PWM   | 90        | Terminal; |           |           |           |
+| t.com/html |            |            | Minutes   | Gate 3    |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | PDX        | Portland,  | Domestic  | Concourse | yes       | yes       | yes       |
+| w.southwes |            | OR - PDX   | 90        | C; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | C:12-16   |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | PVD        | Providence | Domestic  | North Con | No        | yes       | yes       |
+| w.southwes |            | , RI - PVD | 90        | course;   |           |           |           |
+| t.com/html |            |            | Minutes   | Gates 15, |           |           |           |
+| /air/airpo |            |            | Internati | 17,19,21  |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | PVR        | Puerto     | 180       | Terminal  | yes       | No        | No        |
+| w.southwes |            | Vallarta,  | Minutes;  | B; Gates  |           |           |           |
+| t.com/html |            | MX - PVR   | 180       | change    |           |           |           |
+| /air/airpo |            |            | Minutes   | daily     |           |           |           |
+| rt-informa |            |            |           |           |           |           |           |
+| tion.html  |            |            |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | PUJ        | Punta      | 120       | Internati | yes       | yes       | No        |
+| w.southwes |            | Cana, DO - | Minutes;  | onal      |           |           |           |
+| t.com/html |            | PUJ        | 120       | Terminal; |           |           |           |
+| /air/airpo |            |            | Minutes   | Gates     |           |           |           |
+| rt-informa |            |            |           | change    |           |           |           |
+| tion.html  |            |            |           | daily     |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | RDU        | Raleigh/Du | Domestic  | Terminal  | yes       | yes       | No        |
+| w.southwes |            | rham, NC - | 90        | 1; Gates  |           |           |           |
+| t.com/html |            | RDU        | Minutes   | A:5-8     |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | RNO        | Reno/Tahoe | Domestic  | Concourse | yes       | yes       | yes       |
+| w.southwes |            | , NV - RNO | 90        | B; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | 1,3,5,7   |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | RIC        | Richmond,  | Domestic  | Main      | yes       | No        | No        |
+| w.southwes |            | VA - RIC   | 90        | Terminal; |           |           |           |
+| t.com/html |            |            | Minutes   | Gates     |           |           |           |
+| /air/airpo |            |            | Internati | B:7,9     |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | ROC        | Rochester, | Domestic  | Terminal  | yes       | yes       | No        |
+| w.southwes |            | NY - ROC   | 90        | A; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | A: 2,4    |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | SMF        | Sacramento | Domestic  | Terminal  | yes       | yes       | yes       |
+| w.southwes |            | , CA - SMF | 90        | B; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | B:14-20   |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | SLC        | Salt Lake  | Domestic  | Concourse | yes       | yes       | No        |
+| w.southwes |            | City, UT - | 90        | B; Gates  |           |           |           |
+| t.com/html |            | SLC        | Minutes   | B:15,17,  |           |           |           |
+| /air/airpo |            |            | Internati | 19-22     |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | SAT        | San        | Domestic  | Terminal  | yes       | yes       | yes       |
+| w.southwes |            | Antonio,   | 90        | A; Gates  |           |           |           |
+| t.com/html |            | TX - SAT   | Minutes   | A:9-14    |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | SAN        | San Diego, | Domestic  | Terminal  | yes       | yes       | yes       |
+| w.southwes |            | CA - SAN   | 90        | 1; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | 1,1a,     |           |           |           |
+| /air/airpo |            |            | Internati | 2-10      |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | SFO        | San        | Domestic  | Terminal  | yes       | No        | yes       |
+| w.southwes |            | Francisco, | 90        | 1; Gates  |           |           |           |
+| t.com/html |            | CA - SFO   | Minutes   | 23-28     |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | SJC        | San Jose,  | Domestic  | Concourse | yes       | yes       | yes       |
+| w.southwes |            | CA - SJC   | 90        | B; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | 19-25     |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | SJO        | San Jose,  | Internati | Main      | yes       | No        | No        |
+| w.southwes |            | Costa Rica | onal      | terminal; |           |           |           |
+| t.com/html |            | - SJO      | 120       | Gates     |           |           |           |
+| /air/airpo |            |            | Minutes;  | change    |           |           |           |
+| rt-informa |            |            | Internati | daily     |           |           |           |
+| tion.html  |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | SJU        | San Juan,  | 120       | Concourse | yes       | yes       | No        |
+| w.southwes |            | PR - SJU   | Minutes;  | C; Gates  |           |           |           |
+| t.com/html |            |            | 120       | B: 3,5,7  |           |           |           |
+| /air/airpo |            |            | Minutes   |           |           |           |           |
+| rt-informa |            |            |           |           |           |           |           |
+| tion.html  |            |            |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | SEA        | Seattle/Ta | Domestic  | Main      | yes       | yes       | yes       |
+| w.southwes |            | coma, WA - | 120       | Terminal; |           |           |           |
+| t.com/html |            | SEA        | Minutes   | Gates     |           |           |           |
+| /air/airpo |            |            | Internati | B:6,8, 10 |           |           |           |
+| rt-informa |            |            | onal      | ,12,14,15 |           |           |           |
+| tion.html  |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | GEG        | Spokane,   | Domestic  | Concourse | No        | No        | No        |
+| w.southwes |            | WA - GEG   | 105       | A; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | A:11,13   |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 105       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 105       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 105 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | STL        | St. Louis, | Domestic  | Terminal  | yes       | yes       | yes       |
+| w.southwes |            | MO - STL   | 90        | 2; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | 4,6,8,10, |           |           |           |
+| /air/airpo |            |            | Internati | 12; 14,16 |           |           |           |
+| rt-informa |            |            | onal      | ,18,20,22 |           |           |           |
+| tion.html  |            |            | 90        | ; 24,29,3 |           |           |           |
+|            |            |            | Minutes;  | 1,33,34,3 |           |           |           |
+|            |            |            | Domestic; | 8         |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | TPA        | Tampa Bay, | Domestic  | Airside   | No        | No        | yes       |
+| w.southwes |            | FL - TPA   | 90        | C; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | 30-40,42- |           |           |           |
+| /air/airpo |            |            | Internati | 44        |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | TUS        | Tucson, AZ | Domestic  | Concourse | yes       | No        | No        |
+| w.southwes |            | - TUS      | 90        | A; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | 2-4,6     |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | TUL        | Tulsa, OK  | Domestic  | Concourse | No        | No        | No        |
+| w.southwes |            | - TUL      | 60        | B; Gates  |           |           |           |
+| t.com/html |            |            | Minutes   | B:3,5     |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 60        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | PLS        | Turks and  | 180       | Main      | yes       | No        | No        |
+| w.southwes |            | Caicos,    | Minutes;  | Terminal; |           |           |           |
+| t.com/html |            | Turks and  | 180       | Gates 1-9 |           |           |           |
+| /air/airpo |            | Caicos -   | Minutes   |           |           |           |           |
+| rt-informa |            | PLS        |           |           |           |           |           |
+| tion.html  |            |            |           |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | IAD        | Washington | Domestic  | Main      | No        | No        | No        |
+| w.southwes |            | (Dulles),  | 90        | Terminal; |           |           |           |
+| t.com/html |            | DC - IAD   | Minutes   | Gates B:5 |           |           |           |
+| /air/airpo |            |            | Internati | 0,62,64   |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | DCA        | Washington | Domestic  | Terminal  | yes       | No        | yes       |
+| w.southwes |            | (Reagan),  | 90        | A; Gates  |           |           |           |
+| t.com/html |            | DC - DCA   | Minutes   | A:2,4,5,6 |           |           |           |
+| /air/airpo |            |            | Internati | ,8,9      |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | PBI        | West Palm  | Domestic  | Terminal  | yes       | yes       | No        |
+| w.southwes |            | Beach, FL  | 60        | B; Gates  |           |           |           |
+| t.com/html |            | - PBI      | Minutes   | B: 1, 3,  |           |           |           |
+| /air/airpo |            |            | Internati | 5         |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 120       |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 60        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 120 |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+
+| https://ww | ICT        | Wichita,   | Domestic  | Main      | yes       | No        | No        |
+| w.southwes |            | KS - ICT   | 90        | Terminal; |           |           |           |
+| t.com/html |            |            | Minutes   | Gate 4    |           |           |           |
+| /air/airpo |            |            | Internati |           |           |           |           |
+| rt-informa |            |            | onal      |           |           |           |           |
+| tion.html  |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Domestic; |           |           |           |           |
+|            |            |            | 90        |           |           |           |           |
+|            |            |            | Minutes;  |           |           |           |           |
+|            |            |            | Internati |           |           |           |           |
+|            |            |            | onal; 90  |           |           |           |           |
+|            |            |            | Minutes   |           |           |           |           |
++------------+------------+------------+-----------+-----------+-----------+-----------+-----------+

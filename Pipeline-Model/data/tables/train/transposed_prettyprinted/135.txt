@@ -1,0 +1,65 @@
++--------------+-------------+-------------+-------------+-------------+-------------+-------------+
+| url          | Image       | Image_alt   | Image_link  | Type        | Type_link   | Price       |
++--------------+-------------+-------------+-------------+-------------+-------------+-------------+
+| https://www. | https://pho | Prints + En | https://www | Prints + En | https://www | 4x6, 5x7,   |
+| cvs.com/phot | to-store.cv | largements  | .cvs.com/ph | largements  | .cvs.com/ph | 6x8, 8x10 | |
+| o/prints     | s.com/resou |             | oto/standar |             | oto/standar | As low as   |
+|              | rces/images |             | d-print-4x6 |             | d-print-4x6 | 23¢         |
+|              | /cvs/store/ |             | -details#!/ |             | -details#!/ |             |
+|              | 2015/global |             | pdpview     |             | pdpview     |             |
+|              | /470x470/Wo |             |             |             |             |             |
+|              | od-easel-8x |             |             |             |             |             |
+|              | 10_Home_Mom |             |             |             |             |             |
+|              | s-470x470.j |             |             |             |             |             |
+|              | pg          |             |             |             |             |             |
++--------------+-------------+-------------+-------------+-------------+-------------+-------------+
+| https://www. | https://pho | Collage     | https://www | Collage     | https://www | 4x6, 5x7,   |
+| cvs.com/phot | to-store.cv | Prints      | .cvs.com/ph | Prints      | .cvs.com/ph | 8x10 | As   |
+| o/prints     | s.com/resou |             | oto/collage |             | oto/collage | low as 39¢  |
+|              | rces/images |             | -prints-    |             | -prints-    |             |
+|              | /cvs/store/ |             | detail      |             | detail      |             |
+|              | 2015/global |             |             |             |             |             |
+|              | /470x470/Pr |             |             |             |             |             |
+|              | ints_470x47 |             |             |             |             |             |
+|              | 0_CollageSp |             |             |             |             |             |
+|              | ring_Spring |             |             |             |             |             |
+|              | Refresh_201 |             |             |             |             |             |
+|              | 8.jpg       |             |             |             |             |             |
++--------------+-------------+-------------+-------------+-------------+-------------+-------------+
+| https://www. | https://pho | Square      | https://www | Square      | https://www | 6x6, 8x8 |  |
+| cvs.com/phot | to-store.cv | Prints      | .cvs.com/ph | Prints      | .cvs.com/ph | As low as   |
+| o/prints     | s.com/resou |             | oto/square- |             | oto/square- | $2.29       |
+|              | rces/images |             | print-6x6-d |             | print-6x6-d |             |
+|              | /cvs/store/ |             | etails      |             | etails      |             |
+|              | 2015/global |             |             |             |             |             |
+|              | /470x470/Pr |             |             |             |             |             |
+|              | ints_470x47 |             |             |             |             |             |
+|              | 0_SquareGra |             |             |             |             |             |
+|              | duation_Spr |             |             |             |             |             |
+|              | ingRefresh_ |             |             |             |             |             |
+|              | 2018.jpg    |             |             |             |             |             |
++--------------+-------------+-------------+-------------+-------------+-------------+-------------+
+| https://www. | https://pho | Passport    | https://www | Passport    | https://www | $11.99 with |
+| cvs.com/phot | to-store.cv | Photos      | .cvs.com/ph | Photos      | .cvs.com/ph | Coupon      |
+| o/prints     | s.com/resou |             | oto/passpor |             | oto/passpor |             |
+|              | rces/images |             | t-photos?pa |             | t-photos?pa |             |
+|              | /cvs/store/ |             | ssport=true |             | ssport=true |             |
+|              | 2015/global |             |             |             |             |             |
+|              | /470x470/Su |             |             |             |             |             |
+|              | mmerRefresh |             |             |             |             |             |
+|              | _prints-pas |             |             |             |             |             |
+|              | sport-470x4 |             |             |             |             |             |
+|              | 70.jpg      |             |             |             |             |             |
++--------------+-------------+-------------+-------------+-------------+-------------+-------------+
+| https://www. | https://pho | Wallet      | https://www | Wallet      | https://www | 4 wallets   |
+| cvs.com/phot | to-store.cv | Prints      | .cvs.com/ph | Prints      | .cvs.com/ph | on a 4x6    |
+| o/prints     | s.com/resou |             | oto/wallet- |             | oto/wallet- | print | 99¢ |
+|              | rces/images |             | print       |             | print       | each        |
+|              | /cvs/store/ |             |             |             |             |             |
+|              | 2015/global |             |             |             |             |             |
+|              | /470x470/Pr |             |             |             |             |             |
+|              | ints_470x47 |             |             |             |             |             |
+|              | 0_Wallet_Sp |             |             |             |             |             |
+|              | ringRefresh |             |             |             |             |             |
+|              | _2018.jpg   |             |             |             |             |             |
++--------------+-------------+-------------+-------------+-------------+-------------+-------------+

@@ -1,0 +1,59 @@
++--------------------------------+--------------------------------+--------------------------------+
+| url                            | Key                            | Value                          |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Date                           | February 4, 2018               |
+| Super_Bowl_LII                 |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Stadium                        | U.S. Bank Stadium,             |
+| Super_Bowl_LII                 |                                | Minneapolis, Minnesota         |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | MVP; MVP                       | Nick Foles, Quarterback        |
+| Super_Bowl_LII                 |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Favorite                       | Patriots by 5.5[1]             |
+| Super_Bowl_LII                 |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Referee; Referee               | Gene Steratore[2]              |
+| Super_Bowl_LII                 |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Attendance                     | 67,612[3][4]                   |
+| Super_Bowl_LII                 |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | National anthem; National      | Pink[5]                        |
+| Super_Bowl_LII                 | anthem                         |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Coin toss                      | Hershel W. Williams,           |
+| Super_Bowl_LII                 |                                | representing Medal of Honor    |
+|                                |                                | recipients[6]                  |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Halftime show; Halftime show   | Justin Timberlake[7]           |
+| Super_Bowl_LII                 |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Date                           | February 4, 2018               |
+| Super_Bowl_LII                 |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Stadium                        | U.S. Bank Stadium,             |
+| Super_Bowl_LII                 |                                | Minneapolis, Minnesota         |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | MVP; MVP                       | Nick Foles, Quarterback        |
+| Super_Bowl_LII                 |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Favorite                       | Patriots by 5.5[1]             |
+| Super_Bowl_LII                 |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Referee; Referee               | Gene Steratore[2]              |
+| Super_Bowl_LII                 |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Attendance                     | 67,612[3][4]                   |
+| Super_Bowl_LII                 |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | National anthem; National      | Pink[5]                        |
+| Super_Bowl_LII                 | anthem                         |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Coin toss                      | Hershel W. Williams,           |
+| Super_Bowl_LII                 |                                | representing Medal of Honor    |
+|                                |                                | recipients[6]                  |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Halftime show; Halftime show   | Justin Timberlake[7]           |
+| Super_Bowl_LII                 |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+

@@ -1,0 +1,594 @@
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| url      | State    | State_li | EVs | Session | Bill    | Lower_h | Upper_h | Executi | Outcome |
+|          |          | nk       |     |         |         | ouse    | ouse    | ve      |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Arizona  | https:// | 11  | 2016    | HB 2456 | Passed  | Died in | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | 16–4    | committ |         |         |
+| edia.org |          | edia.org |     |         |         |         | ee      |         |         |
+| /wiki/Na |          | /wiki/Ar |     |         |         |         |         |         |         |
+| tional_P |          | izona    |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Arkansas | https:// | 6   | 2007    | HB 1703 | Passed  | Died in | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | 52–41   | committ |         |         |
+| edia.org |          | edia.org |     |         |         |         | ee      |         |         |
+| /wiki/Na |          | /wiki/Ar |     |         |         |         |         |         |         |
+| tional_P |          | kansas   |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Arkansas | https:// | 6   | 2009    | HB 1339 | Passed  | Died in | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | 56–43   | committ |         |         |
+| edia.org |          | edia.org |     |         |         |         | ee      |         |         |
+| /wiki/Na |          | /wiki/Ar |     |         |         |         |         |         |         |
+| tional_P |          | kansas   |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Californ | https:// | 55  | 2005–06 | AB 2948 | Passed  | Passed  | Vetoed  | Failed  |
+| en.wikip | ia       | en.wikip |     |         |         | 48–30   | 23–14   |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Ca |     |         |         |         |         |         |         |
+| tional_P |          | lifornia |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Californ | https:// | 55  | 2007–08 | SB 37   | Passed  | Passed  | Vetoed  | Failed  |
+| en.wikip | ia       | en.wikip |     |         |         | 45–30   | 21–16   |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Ca |     |         |         |         |         |         |         |
+| tional_P |          | lifornia |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Californ | https:// | 55  | 2011–12 | AB 459  | Passed  | Passed  | Signed  | Law     |
+| en.wikip | ia       | en.wikip |     |         |         | 52–15   | 23–15   |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Ca |     |         |         |         |         |         |         |
+| tional_P |          | lifornia |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Colorado | https:// | 9   | 2006    | SB      | Indefin | Passed  | —       | Failed  |
+| en.wikip |          | en.wikip |     |         | 06-223  | itely p | 20–15   |         |         |
+| edia.org |          | edia.org |     |         |         | ostpone |         |         |         |
+| /wiki/Na |          | /wiki/Co |     |         |         | d       |         |         |         |
+| tional_P |          | lorado   |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Colorado | https:// | 9   | 2007    | SB      | Indefin | Passed  | —       | Failed  |
+| en.wikip |          | en.wikip |     |         | 07-046  | itely p | 19–15   |         |         |
+| edia.org |          | edia.org |     |         |         | ostpone |         |         |         |
+| /wiki/Na |          | /wiki/Co |     |         |         | d       |         |         |         |
+| tional_P |          | lorado   |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Colorado | https:// | 9   | 2009    | HB 1299 | Passed  | Not     | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | 34–29   | voted   |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Co |     |         |         |         |         |         |         |
+| tional_P |          | lorado   |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Connecti | https:// | 7   | 2009    | HB 6437 | Passed  | Not     | —       | Failed  |
+| en.wikip | cut      | en.wikip |     |         |         | 76–69   | voted   |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Co |     |         |         |         |         |         |         |
+| tional_P |          | nnecticu |     |         |         |         |         |         |         |
+| opular_V |          | t        |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | District | https:// | 3   | 2009–10 | B18-076 | Passed  |         | Signed  | Law     |
+| en.wikip | of       | en.wikip |     |         | 9       | 11–0    |         |         |         |
+| edia.org | Columbia | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Wa |     |         |         |         |         |         |         |
+| tional_P |          | shington |     |         |         |         |         |         |         |
+| opular_V |          | ,_D.C.   |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Delaware | https:// | 3   | 2009–10 | HB 198  | Passed  | Not     | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | 23–11   | voted   |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/De |     |         |         |         |         |         |         |
+| tional_P |          | laware   |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Delaware | https:// | 3   | 2011–12 | HB 55   | Passed  | Died in | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | 21–19   | committ |         |         |
+| edia.org |          | edia.org |     |         |         |         | ee      |         |         |
+| /wiki/Na |          | /wiki/De |     |         |         |         |         |         |         |
+| tional_P |          | laware   |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Hawaii   | https:// | 4   | 2007    | SB 1956 | Passed  | Passed  | Vetoed  | Failed  |
+| en.wikip |          | en.wikip |     |         |         | 35–12   | 19–4    |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Ha |     |         |         |         |         |         |         |
+| tional_P |          | waii     |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Hawaii   | https:// | 4   | 2007    | SB 1956 | Overrid | Overrod | Vetoed  | Failed  |
+| en.wikip |          | en.wikip |     |         |         | e not   | e 20–5  |         |         |
+| edia.org |          | edia.org |     |         |         | voted   |         |         |         |
+| /wiki/Na |          | /wiki/Ha |     |         |         |         |         |         |         |
+| tional_P |          | waii     |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Hawaii   | https:// | 4   | 2008    | HB 3013 | Passed  | Died in | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | 36–9    | committ |         |         |
+| edia.org |          | edia.org |     |         |         |         | ee      |         |         |
+| /wiki/Na |          | /wiki/Ha |     |         |         |         |         |         |         |
+| tional_P |          | waii     |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Hawaii   | https:// | 4   | 2008    | SB 2898 | Passed  | Passed  | Vetoed  | Law     |
+| en.wikip |          | en.wikip |     |         |         | 39–8    | 20–4    |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Ha |     |         |         |         |         |         |         |
+| tional_P |          | waii     |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Hawaii   | https:// | 4   | 2008    | SB 2898 | Overrod | Overrod | Vetoed  | Law     |
+| en.wikip |          | en.wikip |     |         |         | e 36–3  | e 20–4  |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Ha |     |         |         |         |         |         |         |
+| tional_P |          | waii     |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Illinois | https:// | 21  | 2007–08 | HB 858  | Passed  | Died in | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | 65–50   | committ |         |         |
+| edia.org |          | edia.org |     |         |         |         | ee      |         |         |
+| /wiki/Na |          | /wiki/Il |     |         |         |         |         |         |         |
+| tional_P |          | linois   |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Illinois | https:// | 21  | 2007–08 | HB 1685 | Passed  | Passed  | Signed  | Law     |
+| en.wikip |          | en.wikip |     |         |         | 64–50   | 37–22   |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Il |     |         |         |         |         |         |         |
+| tional_P |          | linois   |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Louisian | https:// | 8   | 2012    | HB 1095 | Failed  | —       | —       | Failed  |
+| en.wikip | a        | en.wikip |     |         |         | 29–64   |         |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Lo |     |         |         |         |         |         |         |
+| tional_P |          | uisiana  |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Maine    | https:// | 4   | 2007–08 | LD 1744 | Indefin | Passed  | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | itely p | 18–17   |         |         |
+| edia.org |          | edia.org |     |         |         | ostpone |         |         |         |
+| /wiki/Na |          | /wiki/Ma |     |         |         | d       |         |         |         |
+| tional_P |          | ine      |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Maine    | https:// | 4   | 2013–14 | LD 511  | Failed  | Failed  | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | 60–85   | 17–17   |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Ma |     |         |         |         |         |         |         |
+| tional_P |          | ine      |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Maryland | https:// | 10  | 2007    | HB 148  | Passed  | Passed  | Signed  | Law     |
+| en.wikip |          | en.wikip |     |         |         | 85–54   | 29–17   |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Ma |     |         |         |         |         |         |         |
+| tional_P |          | ryland   |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Maryland | https:// | 10  | 2007    | SB 634  | Passed  | Passed  | Signed  | Law     |
+| en.wikip |          | en.wikip |     |         |         | 84–54   | 29–17   |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Ma |     |         |         |         |         |         |         |
+| tional_P |          | ryland   |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Massachu | https:// | 12  | 2007–08 | H 4952  | Passed  | Passed  | —[128]  | Failed  |
+| en.wikip | setts    | en.wikip |     |         |         | 116–37  |         |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Ma |     |         |         |         |         |         |         |
+| tional_P |          | ssachuse |     |         |         |         |         |         |         |
+| opular_V |          | tts      |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Massachu | https:// | 12  | 2007–08 | H 4952  | Enacted | Enactme | —[128]  | Failed  |
+| en.wikip | setts    | en.wikip |     |         |         |         | nt not  |         |         |
+| edia.org |          | edia.org |     |         |         |         | voted   |         |         |
+| /wiki/Na |          | /wiki/Ma |     |         |         |         |         |         |         |
+| tional_P |          | ssachuse |     |         |         |         |         |         |         |
+| opular_V |          | tts      |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Massachu | https:// | 12  | 2009–10 | H 4156  | Passed  | Passed  | Signed  | Law     |
+| en.wikip | setts    | en.wikip |     |         |         | 114–35  | 28–10   |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Ma |     |         |         |         |         |         |         |
+| tional_P |          | ssachuse |     |         |         |         |         |         |         |
+| opular_V |          | tts      |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Massachu | https:// | 12  | 2009–10 | H 4156  | Enacted | Enacted | Signed  | Law     |
+| en.wikip | setts    | en.wikip |     |         |         | 116–34  | 28–9    |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Ma |     |         |         |         |         |         |         |
+| tional_P |          | ssachuse |     |         |         |         |         |         |         |
+| opular_V |          | tts      |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Michigan | https:// | 17  | 2007–08 | HB 6610 | Passed  | Died in | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | 65–36   | committ |         |         |
+| edia.org |          | edia.org |     |         |         |         | ee      |         |         |
+| /wiki/Na |          | /wiki/Mi |     |         |         |         |         |         |         |
+| tional_P |          | chigan   |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Minnesot | https:// | 10  | 2013–14 | HF 799  | Failed  | —       | —       | Failed  |
+| en.wikip | a        | en.wikip |     |         |         | 62–71   |         |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Mi |     |         |         |         |         |         |         |
+| tional_P |          | nnesota  |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Montana  | https:// | 3   | 2007    | SB 290  | —       | Failed  | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         |         | 20–30   |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Mo |     |         |         |         |         |         |         |
+| tional_P |          | ntana    |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Nevada   | https:// | 5   | 2009    | AB 413  | Passed  | Died in | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | 27–14   | committ |         |         |
+| edia.org |          | edia.org |     |         |         |         | ee      |         |         |
+| /wiki/Na |          | /wiki/Ne |     |         |         |         |         |         |         |
+| tional_P |          | vada     |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | New      | https:// | 15  | 2006–07 | A 4225  | Passed  | Passed  | Signed  | Law     |
+| en.wikip | Jersey   | en.wikip |     |         |         | 43–32   | 22–13   |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Ne |     |         |         |         |         |         |         |
+| tional_P |          | w_Jersey |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | New      | https:// | 5   | 2009    | HB 383  | Passed  | Died in | —       | Failed  |
+| en.wikip | Mexico   | en.wikip |     |         |         | 41–27   | committ |         |         |
+| edia.org |          | edia.org |     |         |         |         | ee      |         |         |
+| /wiki/Na |          | /wiki/Ne |     |         |         |         |         |         |         |
+| tional_P |          | w_Mexico |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | New      | https:// | 5   | 2017    | SB 42   | Died in | Passed  | —       | Failed  |
+| en.wikip | Mexico   | en.wikip |     |         |         | committ | 26–16   |         |         |
+| edia.org |          | edia.org |     |         |         | ee      |         |         |         |
+| /wiki/Na |          | /wiki/Ne |     |         |         |         |         |         |         |
+| tional_P |          | w_Mexico |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | New York | https:// | 31  | 2009–10 | S02286  | Not     | Passed  | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | voted   |         |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Ne |     |         |         |         |         |         |         |
+| tional_P |          | w_York_( |     |         |         |         |         |         |         |
+| opular_V |          | state)   |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | New York | https:// | 29  | 2011–12 | S04208  | Not     | Passed  | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | voted   |         |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Ne |     |         |         |         |         |         |         |
+| tional_P |          | w_York_( |     |         |         |         |         |         |         |
+| opular_V |          | state)   |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | New York | https:// | 29  | 2013–14 | A04422  | Passed  | Died in | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | 100–40  | committ |         |         |
+| edia.org |          | edia.org |     |         |         |         | ee      |         |         |
+| /wiki/Na |          | /wiki/Ne |     |         |         |         |         |         |         |
+| tional_P |          | w_York_( |     |         |         |         |         |         |         |
+| opular_V |          | state)   |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | New York | https:// | 29  | 2013–14 | S03149  | Passed  | Passed  | Signed  | Law     |
+| en.wikip |          | en.wikip |     |         |         | 102–33  |         |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Ne |     |         |         |         |         |         |         |
+| tional_P |          | w_York_( |     |         |         |         |         |         |         |
+| opular_V |          | state)   |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | North    | https:// | 15  | 2007–08 | S954    | Died in | Passed  | —       | Failed  |
+| en.wikip | Carolina | en.wikip |     |         |         | committ | 30–18   |         |         |
+| edia.org |          | edia.org |     |         |         | ee      |         |         |         |
+| /wiki/Na |          | /wiki/No |     |         |         |         |         |         |         |
+| tional_P |          | rth_Caro |     |         |         |         |         |         |         |
+| opular_V |          | lina     |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | North    | https:// | 3   | 2007    | HB 1336 | Failed  | —       | —       | Failed  |
+| en.wikip | Dakota   | en.wikip |     |         |         | 31–60   |         |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/No |     |         |         |         |         |         |         |
+| tional_P |          | rth_Dako |     |         |         |         |         |         |         |
+| opular_V |          | ta       |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Oklahoma | https:// | 7   | 2013–14 | SB 906  | Died in | Passed  | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | committ | 28–18   |         |         |
+| edia.org |          | edia.org |     |         |         | ee      |         |         |         |
+| /wiki/Na |          | /wiki/Ok |     |         |         |         |         |         |         |
+| tional_P |          | lahoma   |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Oregon   | https:// | 7   | 2009    | HB 2588 | Passed  | Died in | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | 39–19   | committ |         |         |
+| edia.org |          | edia.org |     |         |         |         | ee      |         |         |
+| /wiki/Na |          | /wiki/Or |     |         |         |         |         |         |         |
+| tional_P |          | egon     |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Oregon   | https:// | 7   | 2013    | HB 3077 | Passed  | Died in | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | 38–21   | committ |         |         |
+| edia.org |          | edia.org |     |         |         |         | ee      |         |         |
+| /wiki/Na |          | /wiki/Or |     |         |         |         |         |         |         |
+| tional_P |          | egon     |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Oregon   | https:// | 7   | 2015    | HB 3475 | Passed  | Died in | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | 37–21   | committ |         |         |
+| edia.org |          | edia.org |     |         |         |         | ee      |         |         |
+| /wiki/Na |          | /wiki/Or |     |         |         |         |         |         |         |
+| tional_P |          | egon     |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Oregon   | https:// | 7   | 2017    | HB 2927 | Passed  | Died in | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | 34–23   | committ |         |         |
+| edia.org |          | edia.org |     |         |         |         | ee      |         |         |
+| /wiki/Na |          | /wiki/Or |     |         |         |         |         |         |         |
+| tional_P |          | egon     |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Rhode    | https:// | 4   | 2008    | H 7707  | Passed  | Passed  | Vetoed  | Failed  |
+| en.wikip | Island   | en.wikip |     |         |         | 36–34   |         |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Rh |     |         |         |         |         |         |         |
+| tional_P |          | ode_Isla |     |         |         |         |         |         |         |
+| opular_V |          | nd       |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Rhode    | https:// | 4   | 2008    | S 2112  | Passed  | Passed  | Vetoed  | Failed  |
+| en.wikip | Island   | en.wikip |     |         |         | 34–28   |         |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Rh |     |         |         |         |         |         |         |
+| tional_P |          | ode_Isla |     |         |         |         |         |         |         |
+| opular_V |          | nd       |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Rhode    | https:// | 4   | 2009    | H 5569  | Failed  | —       | —       | Failed  |
+| en.wikip | Island   | en.wikip |     |         |         | 28–45   |         |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Rh |     |         |         |         |         |         |         |
+| tional_P |          | ode_Isla |     |         |         |         |         |         |         |
+| opular_V |          | nd       |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Rhode    | https:// | 4   | 2009    | S 161   | Died in | Passed  | —       | Failed  |
+| en.wikip | Island   | en.wikip |     |         |         | committ |         |         |         |
+| edia.org |          | edia.org |     |         |         | ee      |         |         |         |
+| /wiki/Na |          | /wiki/Rh |     |         |         |         |         |         |         |
+| tional_P |          | ode_Isla |     |         |         |         |         |         |         |
+| opular_V |          | nd       |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Rhode    | https:// | 4   | 2011    | S 164   | Died in | Passed  | —       | Failed  |
+| en.wikip | Island   | en.wikip |     |         |         | committ |         |         |         |
+| edia.org |          | edia.org |     |         |         | ee      |         |         |         |
+| /wiki/Na |          | /wiki/Rh |     |         |         |         |         |         |         |
+| tional_P |          | ode_Isla |     |         |         |         |         |         |         |
+| opular_V |          | nd       |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Rhode    | https:// | 4   | 2013    | H 5575  | Passed  | Passed  | Signed  | Law     |
+| en.wikip | Island   | en.wikip |     |         |         | 41–31   |         |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Rh |     |         |         |         |         |         |         |
+| tional_P |          | ode_Isla |     |         |         |         |         |         |         |
+| opular_V |          | nd       |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Rhode    | https:// | 4   | 2013    | S 346   | Passed  | Passed  | Signed  | Law     |
+| en.wikip | Island   | en.wikip |     |         |         | 48–21   |         |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Rh |     |         |         |         |         |         |         |
+| tional_P |          | ode_Isla |     |         |         |         |         |         |         |
+| opular_V |          | nd       |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Vermont  | https:// | 3   | 2007–08 | S 270   | Passed  | Passed  | Vetoed  | Failed  |
+| en.wikip |          | en.wikip |     |         |         |         | 22–6    |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Ve |     |         |         |         |         |         |         |
+| tional_P |          | rmont    |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Vermont  | https:// | 3   | 2009–10 | S 34    | Died in | Passed  | —       | Failed  |
+| en.wikip |          | en.wikip |     |         |         | committ | 15–10   |         |         |
+| edia.org |          | edia.org |     |         |         | ee      |         |         |         |
+| /wiki/Na |          | /wiki/Ve |     |         |         |         |         |         |         |
+| tional_P |          | rmont    |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Vermont  | https:// | 3   | 2011–12 | S 31    | Passed  | Passed  | Signed  | Law     |
+| en.wikip |          | en.wikip |     |         |         | 85–44   |         |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Ve |     |         |         |         |         |         |         |
+| tional_P |          | rmont    |     |         |         |         |         |         |         |
+| opular_V |          |          |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Washingt | https:// | 11  | 2007–08 | SB 5628 | Died in | Passed  | —       | Failed  |
+| en.wikip | on       | en.wikip |     |         |         | committ | 30–18   |         |         |
+| edia.org |          | edia.org |     |         |         | ee      |         |         |         |
+| /wiki/Na |          | /wiki/Wa |     |         |         |         |         |         |         |
+| tional_P |          | shington |     |         |         |         |         |         |         |
+| opular_V |          | _(state) |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+
+| https:// | Washingt | https:// | 11  | 2009–10 | SB 5599 | Passed  | Passed  | Signed  | Law     |
+| en.wikip | on       | en.wikip |     |         |         | 52–42   | 28–21   |         |         |
+| edia.org |          | edia.org |     |         |         |         |         |         |         |
+| /wiki/Na |          | /wiki/Wa |     |         |         |         |         |         |         |
+| tional_P |          | shington |     |         |         |         |         |         |         |
+| opular_V |          | _(state) |     |         |         |         |         |         |         |
+| ote_Inte |          |          |     |         |         |         |         |         |         |
+| rstate_C |          |          |     |         |         |         |         |         |         |
+| ompact   |          |          |     |         |         |         |         |         |         |
++----------+----------+----------+-----+---------+---------+---------+---------+---------+---------+

@@ -1,0 +1,903 @@
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| url      | State    | Portrait | Portrait | Governor | Party    | Prior_pu | Inaugrat | End_of_t |
+|          |          |          | _alt     |          |          | blic_exp | ion      | erm      |
+|          |          |          |          |          |          | erience  |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Alabama  | https:// | Portrait | Kay Ivey | Republic | Lieutena | April    | 2019     |
+| en.wikip |          | upload.w | -Governo |          | an       | nt Gover | 10, 2017 |          |
+| edia.org |          | ikimedia | r-Kay-   |          |          | nor, Tre |          |          |
+| /wiki/Li |          | .org/wik | Ivey (cr |          |          | asurer   |          |          |
+| st_of_cu |          | ipedia/c | opped).j |          |          |          |          |          |
+| rrent_Un |          | ommons/t | pg       |          |          |          |          |          |
+| ited_Sta |          | humb/e/e |          |          |          |          |          |          |
+| tes_gove |          | 3/Portra |          |          |          |          |          |          |
+| rnors    |          | it-Gover |          |          |          |          |          |          |
+|          |          | nor-Kay- |          |          |          |          |          |          |
+|          |          | Ivey_%28 |          |          |          |          |          |          |
+|          |          | cropped% |          |          |          |          |          |          |
+|          |          | 29.jpg/1 |          |          |          |          |          |          |
+|          |          | 00px-Por |          |          |          |          |          |          |
+|          |          | trait-Go |          |          |          |          |          |          |
+|          |          | vernor-  |          |          |          |          |          |          |
+|          |          | Kay-Ivey |          |          |          |          |          |          |
+|          |          | _%28crop |          |          |          |          |          |          |
+|          |          | ped%29.j |          |          |          |          |          |          |
+|          |          | pg       |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Alaska   | https:// | Bill Wal | Bill     | Independ | Mayor of | December | 2018     |
+| en.wikip |          | upload.w | ker.jpg  | Walker   | ent      | Valdez,  | 1, 2014  |          |
+| edia.org |          | ikimedia |          |          |          | Valdez   |          |          |
+| /wiki/Li |          | .org/wik |          |          |          | City     |          |          |
+| st_of_cu |          | ipedia/c |          |          |          | Council  |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/f/f |          |          |          |          |          |          |
+| tes_gove |          | c/Bill_W |          |          |          |          |          |          |
+| rnors    |          | alker.jp |          |          |          |          |          |          |
+|          |          | g/100px- |          |          |          |          |          |          |
+|          |          | Bill_Wal |          |          |          |          |          |          |
+|          |          | ker.jpg  |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Arizona  | https:// | Doug     | Doug     | Republic | Treasure | January  | 2019     |
+| en.wikip |          | upload.w | Ducey by | Ducey    | an       | r        | 5, 2015  |          |
+| edia.org |          | ikimedia | Gage     |          |          |          |          |          |
+| /wiki/Li |          | .org/wik | Skidmore |          |          |          |          |          |
+| st_of_cu |          | ipedia/c | 2.jpg    |          |          |          |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/5/5 |          |          |          |          |          |          |
+| tes_gove |          | f/Doug_D |          |          |          |          |          |          |
+| rnors    |          | ucey_by_ |          |          |          |          |          |          |
+|          |          | Gage_Ski |          |          |          |          |          |          |
+|          |          | dmore_2. |          |          |          |          |          |          |
+|          |          | jpg/100p |          |          |          |          |          |          |
+|          |          | x-Doug_D |          |          |          |          |          |          |
+|          |          | ucey_by_ |          |          |          |          |          |          |
+|          |          | Gage_Ski |          |          |          |          |          |          |
+|          |          | dmore_2. |          |          |          |          |          |          |
+|          |          | jpg      |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Arkansas | https:// | Asa Hutc | Asa Hutc | Republic | Under Se | January  | 2019     |
+| en.wikip |          | upload.w | hinson.j | hinson   | an       | cretary  | 13, 2015 |          |
+| edia.org |          | ikimedia | pg       |          |          | of       |          |          |
+| /wiki/Li |          | .org/wik |          |          |          | Homeland |          |          |
+| st_of_cu |          | ipedia/c |          |          |          | Security |          |          |
+| rrent_Un |          | ommons/t |          |          |          | for      |          |          |
+| ited_Sta |          | humb/b/b |          |          |          | Border & |          |          |
+| tes_gove |          | 8/Asa_Hu |          |          |          | Transpor |          |          |
+| rnors    |          | tchinson |          |          |          | tation S |          |          |
+|          |          | .jpg/100 |          |          |          | ecurity, |          |          |
+|          |          | px-Asa_H |          |          |          |  Adminis |          |          |
+|          |          | utchinso |          |          |          | trator   |          |          |
+|          |          | n.jpg    |          |          |          | of the   |          |          |
+|          |          |          |          |          |          | Drug Enf |          |          |
+|          |          |          |          |          |          | orcement |          |          |
+|          |          |          |          |          |          | Administ |          |          |
+|          |          |          |          |          |          | ration,  |          |          |
+|          |          |          |          |          |          | U.S.     |          |          |
+|          |          |          |          |          |          | House,   |          |          |
+|          |          |          |          |          |          | U.S.     |          |          |
+|          |          |          |          |          |          | Attorney |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Californ | https:// | Edmund G | Jerry    | Democrat | Governor | January  | 2019     |
+| en.wikip | ia       | upload.w | Brown Jr | Brown    | ic       | (1975–19 | 3, 2011  | (term    |
+| edia.org |          | ikimedia | (cropped |          |          | 83),     |          | limits)  |
+| /wiki/Li |          | .org/wik | ).jpg    |          |          | Attorney |          |          |
+| st_of_cu |          | ipedia/c |          |          |          | General, |          |          |
+| rrent_Un |          | ommons/t |          |          |          |  Mayor   |          |          |
+| ited_Sta |          | humb/5/5 |          |          |          | of       |          |          |
+| tes_gove |          | 9/Edmund |          |          |          | Oakland, |          |          |
+| rnors    |          | _G_Brown |          |          |          | Secretar |          |          |
+|          |          | _Jr_%28c |          |          |          | y of     |          |          |
+|          |          | ropped%2 |          |          |          | State    |          |          |
+|          |          | 9.jpg/10 |          |          |          |          |          |          |
+|          |          | 0px-Edmu |          |          |          |          |          |          |
+|          |          | nd_G_Bro |          |          |          |          |          |          |
+|          |          | wn_Jr_%2 |          |          |          |          |          |          |
+|          |          | 8cropped |          |          |          |          |          |          |
+|          |          | %29.jpg  |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Colorado | https:// | Governor | John Hic | Democrat | Mayor of | January  | 2019     |
+| en.wikip |          | upload.w | John Hic | kenloope | ic       | Denver   | 11, 2011 | (term    |
+| edia.org |          | ikimedia | kenloope | r        |          |          |          | limits)  |
+| /wiki/Li |          | .org/wik | r        |          |          |          |          |          |
+| st_of_cu |          | ipedia/c | 2015.jpg |          |          |          |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/2/2 |          |          |          |          |          |          |
+| tes_gove |          | 5/Govern |          |          |          |          |          |          |
+| rnors    |          | or_John_ |          |          |          |          |          |          |
+|          |          | Hickenlo |          |          |          |          |          |          |
+|          |          | oper_201 |          |          |          |          |          |          |
+|          |          | 5.jpg/10 |          |          |          |          |          |          |
+|          |          | 0px-Gove |          |          |          |          |          |          |
+|          |          | rnor_Joh |          |          |          |          |          |          |
+|          |          | n_Hicken |          |          |          |          |          |          |
+|          |          | looper_2 |          |          |          |          |          |          |
+|          |          | 015.jpg  |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Connecti | https:// | Dannel   | Dannel   | Democrat | Mayor of | January  | 2019 (re |
+| en.wikip | cut      | upload.w | Malloy   | Malloy   | ic       | Stamford | 5, 2011  | tiring)  |
+| edia.org |          | ikimedia | 2016.jpg |          |          |          |          |          |
+| /wiki/Li |          | .org/wik |          |          |          |          |          |          |
+| st_of_cu |          | ipedia/c |          |          |          |          |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/e/e |          |          |          |          |          |          |
+| tes_gove |          | 4/Dannel |          |          |          |          |          |          |
+| rnors    |          | _Malloy_ |          |          |          |          |          |          |
+|          |          | 2016.jpg |          |          |          |          |          |          |
+|          |          | /100px-D |          |          |          |          |          |          |
+|          |          | annel_Ma |          |          |          |          |          |          |
+|          |          | lloy_201 |          |          |          |          |          |          |
+|          |          | 6.jpg    |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Delaware | https:// | John C.  | John     | Democrat | U.S.     | January  | 2021     |
+| en.wikip |          | upload.w | Carney   | Carney   | ic       | House, L | 17, 2017 |          |
+| edia.org |          | ikimedia | Jr.      |          |          | ieutenan |          |          |
+| /wiki/Li |          | .org/wik | official |          |          | t        |          |          |
+| st_of_cu |          | ipedia/c | portrait |          |          | Governor |          |          |
+| rrent_Un |          | ommons/t | 112th Co |          |          | of       |          |          |
+| ited_Sta |          | humb/3/3 | ngress.j |          |          | Delaware |          |          |
+| tes_gove |          | c/John_C | pg       |          |          |          |          |          |
+| rnors    |          | ._Carney |          |          |          |          |          |          |
+|          |          | _Jr._off |          |          |          |          |          |          |
+|          |          | icial_po |          |          |          |          |          |          |
+|          |          | rtrait_1 |          |          |          |          |          |          |
+|          |          | 12th_Con |          |          |          |          |          |          |
+|          |          | gress.jp |          |          |          |          |          |          |
+|          |          | g/100px- |          |          |          |          |          |          |
+|          |          | John_C._ |          |          |          |          |          |          |
+|          |          | Carney_J |          |          |          |          |          |          |
+|          |          | r._offic |          |          |          |          |          |          |
+|          |          | ial_port |          |          |          |          |          |          |
+|          |          | rait_112 |          |          |          |          |          |          |
+|          |          | th_Congr |          |          |          |          |          |          |
+|          |          | ess.jpg  |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Florida  | https:// | Rick     | Rick     | Republic | No prior | January  | 2019     |
+| en.wikip |          | upload.w | Scott (c | Scott    | an       | public e | 4, 2011  | (term    |
+| edia.org |          | ikimedia | ropped). |          |          | xperienc |          | limits)  |
+| /wiki/Li |          | .org/wik | jpg      |          |          | e        |          |          |
+| st_of_cu |          | ipedia/c |          |          |          |          |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/1/1 |          |          |          |          |          |          |
+| tes_gove |          | d/Rick_S |          |          |          |          |          |          |
+| rnors    |          | cott_%28 |          |          |          |          |          |          |
+|          |          | cropped% |          |          |          |          |          |          |
+|          |          | 29.jpg/1 |          |          |          |          |          |          |
+|          |          | 00px-Ric |          |          |          |          |          |          |
+|          |          | k_Scott_ |          |          |          |          |          |          |
+|          |          | %28cropp |          |          |          |          |          |          |
+|          |          | ed%29.jp |          |          |          |          |          |          |
+|          |          | g        |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Georgia  | https:// | Nathan   | Nathan   | Republic | U.S.     | January  | 2019     |
+| en.wikip |          | upload.w | Deal,    | Deal     | an       | House,   | 10, 2011 | (term    |
+| edia.org |          | ikimedia | official |          |          | Georgia  |          | limits)  |
+| /wiki/Li |          | .org/wik | 110th    |          |          | Senate   |          |          |
+| st_of_cu |          | ipedia/c | Congress |          |          |          |          |          |
+| rrent_Un |          | ommons/t | photo.jp |          |          |          |          |          |
+| ited_Sta |          | humb/e/e | g        |          |          |          |          |          |
+| tes_gove |          | 7/Nathan |          |          |          |          |          |          |
+| rnors    |          | _Deal%2C |          |          |          |          |          |          |
+|          |          | _officia |          |          |          |          |          |          |
+|          |          | l_110th_ |          |          |          |          |          |          |
+|          |          | Congress |          |          |          |          |          |          |
+|          |          | _photo.j |          |          |          |          |          |          |
+|          |          | pg/100px |          |          |          |          |          |          |
+|          |          | -Nathan_ |          |          |          |          |          |          |
+|          |          | Deal%2C_ |          |          |          |          |          |          |
+|          |          | official |          |          |          |          |          |          |
+|          |          | _110th_C |          |          |          |          |          |          |
+|          |          | ongress_ |          |          |          |          |          |          |
+|          |          | photo.jp |          |          |          |          |          |          |
+|          |          | g        |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Hawaii   | https:// | Governor | David    | Democrat | Hawaii   | December | 2018     |
+| en.wikip |          | upload.w | David    | Ige      | ic       | Senate,  | 1, 2014  |          |
+| edia.org |          | ikimedia | Ige.jpg  |          |          | Hawaii   |          |          |
+| /wiki/Li |          | .org/wik |          |          |          | House    |          |          |
+| st_of_cu |          | ipedia/c |          |          |          |          |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/e/e |          |          |          |          |          |          |
+| tes_gove |          | e/Govern |          |          |          |          |          |          |
+| rnors    |          | or_David |          |          |          |          |          |          |
+|          |          | _Ige.jpg |          |          |          |          |          |          |
+|          |          | /100px-G |          |          |          |          |          |          |
+|          |          | overnor_ |          |          |          |          |          |          |
+|          |          | David_Ig |          |          |          |          |          |          |
+|          |          | e.jpg    |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Idaho    | https:// | Butchott | Butch    | Republic | U.S.     | January  | 2019 (re |
+| en.wikip |          | upload.w | er.jpg   | Otter    | an       | House, L | 1, 2007  | tiring)  |
+| edia.org |          | ikimedia |          |          |          | ieutenan |          |          |
+| /wiki/Li |          | .org/wik |          |          |          | t Govern |          |          |
+| st_of_cu |          | ipedia/c |          |          |          | or,      |          |          |
+| rrent_Un |          | ommons/t |          |          |          | Idaho    |          |          |
+| ited_Sta |          | humb/1/1 |          |          |          | House    |          |          |
+| tes_gove |          | 1/Butcho |          |          |          |          |          |          |
+| rnors    |          | tter.jpg |          |          |          |          |          |          |
+|          |          | /100px-B |          |          |          |          |          |          |
+|          |          | utchotte |          |          |          |          |          |          |
+|          |          | r.jpg    |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Illinois | https:// | Bruce    | Bruce    | Republic | No prior | January  | 2019     |
+| en.wikip |          | upload.w | Rauner   | Rauner   | an       | public e | 12, 2015 |          |
+| edia.org |          | ikimedia | 2016     |          |          | xperienc |          |          |
+| /wiki/Li |          | .org/wik | cropped  |          |          | e        |          |          |
+| st_of_cu |          | ipedia/c | (cropped |          |          |          |          |          |
+| rrent_Un |          | ommons/t | ).jpg    |          |          |          |          |          |
+| ited_Sta |          | humb/0/0 |          |          |          |          |          |          |
+| tes_gove |          | 4/Bruce_ |          |          |          |          |          |          |
+| rnors    |          | Rauner_2 |          |          |          |          |          |          |
+|          |          | 016_crop |          |          |          |          |          |          |
+|          |          | ped_%28c |          |          |          |          |          |          |
+|          |          | ropped%2 |          |          |          |          |          |          |
+|          |          | 9.jpg/10 |          |          |          |          |          |          |
+|          |          | 0px-Bruc |          |          |          |          |          |          |
+|          |          | e_Rauner |          |          |          |          |          |          |
+|          |          | _2016_cr |          |          |          |          |          |          |
+|          |          | opped_%2 |          |          |          |          |          |          |
+|          |          | 8cropped |          |          |          |          |          |          |
+|          |          | %29.jpg  |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Indiana  | https:// | Eric     | Eric     | Republic | Lieutena | January  | 2021     |
+| en.wikip |          | upload.w | Holcomb  | Holcomb  | an       | nt Gover | 9, 2017  |          |
+| edia.org |          | ikimedia | Grissom. |          |          | nor,     |          |          |
+| /wiki/Li |          | .org/wik | jpg      |          |          | Chair of |          |          |
+| st_of_cu |          | ipedia/c |          |          |          | the      |          |          |
+| rrent_Un |          | ommons/t |          |          |          | Indiana  |          |          |
+| ited_Sta |          | humb/9/9 |          |          |          | Republic |          |          |
+| tes_gove |          | f/Eric_H |          |          |          | an Party |          |          |
+| rnors    |          | olcomb_G |          |          |          |          |          |          |
+|          |          | rissom.j |          |          |          |          |          |          |
+|          |          | pg/100px |          |          |          |          |          |          |
+|          |          | -Eric_Ho |          |          |          |          |          |          |
+|          |          | lcomb_Gr |          |          |          |          |          |          |
+|          |          | issom.jp |          |          |          |          |          |          |
+|          |          | g        |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Iowa     | https:// | Kim      | Kim      | Republic | Lieutena | May 24,  | 2019     |
+| en.wikip |          | upload.w | Reynolds | Reynolds | an       | nt Gover | 2017     |          |
+| edia.org |          | ikimedia | by Gage  |          |          | nor,     |          |          |
+| /wiki/Li |          | .org/wik | Skidmore |          |          | Iowa     |          |          |
+| st_of_cu |          | ipedia/c | (cropped |          |          | Senate   |          |          |
+| rrent_Un |          | ommons/t | ).jpg    |          |          |          |          |          |
+| ited_Sta |          | humb/0/0 |          |          |          |          |          |          |
+| tes_gove |          | b/Kim_Re |          |          |          |          |          |          |
+| rnors    |          | ynolds_b |          |          |          |          |          |          |
+|          |          | y_Gage_S |          |          |          |          |          |          |
+|          |          | kidmore_ |          |          |          |          |          |          |
+|          |          | %28cropp |          |          |          |          |          |          |
+|          |          | ed%29.jp |          |          |          |          |          |          |
+|          |          | g/100px- |          |          |          |          |          |          |
+|          |          | Kim_Reyn |          |          |          |          |          |          |
+|          |          | olds_by_ |          |          |          |          |          |          |
+|          |          | Gage_Ski |          |          |          |          |          |          |
+|          |          | dmore_%2 |          |          |          |          |          |          |
+|          |          | 8cropped |          |          |          |          |          |          |
+|          |          | %29.jpg  |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Kansas   | https:// | Jeff Col | Jeff     | Republic | Lieutena | January  | 2019     |
+| en.wikip |          | upload.w | yer.jpg  | Colyer   | an       | nt Gover | 31, 2018 |          |
+| edia.org |          | ikimedia |          |          |          | nor,     |          |          |
+| /wiki/Li |          | .org/wik |          |          |          | Kansas   |          |          |
+| st_of_cu |          | ipedia/c |          |          |          | Senate,  |          |          |
+| rrent_Un |          | ommons/t |          |          |          | Kansas   |          |          |
+| ited_Sta |          | humb/6/6 |          |          |          | House    |          |          |
+| tes_gove |          | 9/Jeff_C |          |          |          |          |          |          |
+| rnors    |          | olyer.jp |          |          |          |          |          |          |
+|          |          | g/100px- |          |          |          |          |          |          |
+|          |          | Jeff_Col |          |          |          |          |          |          |
+|          |          | yer.jpg  |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Kentucky | https:// | Matt     | Matt     | Republic | No prior | December | 2019     |
+| en.wikip |          | upload.w | Bevin by | Bevin    | an       | public e | 8, 2015  |          |
+| edia.org |          | ikimedia | Gage     |          |          | xperienc |          |          |
+| /wiki/Li |          | .org/wik | Skidmore |          |          | e        |          |          |
+| st_of_cu |          | ipedia/c | 2.jpg    |          |          |          |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/b/b |          |          |          |          |          |          |
+| tes_gove |          | 3/Matt_B |          |          |          |          |          |          |
+| rnors    |          | evin_by_ |          |          |          |          |          |          |
+|          |          | Gage_Ski |          |          |          |          |          |          |
+|          |          | dmore_2. |          |          |          |          |          |          |
+|          |          | jpg/100p |          |          |          |          |          |          |
+|          |          | x-Matt_B |          |          |          |          |          |          |
+|          |          | evin_by_ |          |          |          |          |          |          |
+|          |          | Gage_Ski |          |          |          |          |          |          |
+|          |          | dmore_2. |          |          |          |          |          |          |
+|          |          | jpg      |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Louisian | https:// | John Bel | John Bel | Democrat | Minority | January  | 2020     |
+| en.wikip | a        | upload.w | Edwards  | Edwards  | ic       | Leader   | 11, 2016 |          |
+| edia.org |          | ikimedia |          |          |          | of the L |          |          |
+| /wiki/Li |          | .org/wik |          |          |          | ouisiana |          |          |
+| st_of_cu |          | ipedia/c |          |          |          | House of |          |          |
+| rrent_Un |          | ommons/t |          |          |          | Represen |          |          |
+| ited_Sta |          | humb/9/9 |          |          |          | tatives  |          |          |
+| tes_gove |          | e/John_B |          |          |          |          |          |          |
+| rnors    |          | el_Edwar |          |          |          |          |          |          |
+|          |          | ds_2015. |          |          |          |          |          |          |
+|          |          | jpg/100p |          |          |          |          |          |          |
+|          |          | x-John_B |          |          |          |          |          |          |
+|          |          | el_Edwar |          |          |          |          |          |          |
+|          |          | ds_2015. |          |          |          |          |          |          |
+|          |          | jpg      |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Maine    | https:// | Paul     | Paul     | Republic | Mayor of | January  | 2019     |
+| en.wikip |          | upload.w | LePage   | LePage   | an       | Watervil | 5, 2011  | (term    |
+| edia.org |          | ikimedia | by Gage  |          |          | le       |          | limits)  |
+| /wiki/Li |          | .org/wik | Skidmore |          |          |          |          |          |
+| st_of_cu |          | ipedia/c | .jpg     |          |          |          |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/5/5 |          |          |          |          |          |          |
+| tes_gove |          | 0/Paul_L |          |          |          |          |          |          |
+| rnors    |          | ePage_by |          |          |          |          |          |          |
+|          |          | _Gage_Sk |          |          |          |          |          |          |
+|          |          | idmore.j |          |          |          |          |          |          |
+|          |          | pg/100px |          |          |          |          |          |          |
+|          |          | -Paul_Le |          |          |          |          |          |          |
+|          |          | Page_by_ |          |          |          |          |          |          |
+|          |          | Gage_Ski |          |          |          |          |          |          |
+|          |          | dmore.jp |          |          |          |          |          |          |
+|          |          | g        |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Maryland | https:// | Larry-Ho | Larry    | Republic | Maryland | January  | 2019     |
+| en.wikip |          | upload.w | gan.JPG  | Hogan    | an       | Secretar | 21, 2015 |          |
+| edia.org |          | ikimedia |          |          |          | y of App |          |          |
+| /wiki/Li |          | .org/wik |          |          |          | ointment |          |          |
+| st_of_cu |          | ipedia/c |          |          |          | s        |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/7/7 |          |          |          |          |          |          |
+| tes_gove |          | d/Larry- |          |          |          |          |          |          |
+| rnors    |          | Hogan.JP |          |          |          |          |          |          |
+|          |          | G/100px- |          |          |          |          |          |          |
+|          |          | Larry-Ho |          |          |          |          |          |          |
+|          |          | gan.JPG  |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Massachu | https:// | Charlie  | Charlie  | Republic | Swampsco | January  | 2019     |
+| en.wikip | setts    | upload.w | Baker    | Baker    | an       | tt Selec | 8, 2015  |          |
+| edia.org |          | ikimedia | official |          |          | tman, Ma |          |          |
+| /wiki/Li |          | .org/wik | portrait |          |          | ssachuse |          |          |
+| st_of_cu |          | ipedia/c | (cropped |          |          | tts Secr |          |          |
+| rrent_Un |          | ommons/t | ).jpg    |          |          | etary of |          |          |
+| ited_Sta |          | humb/b/b |          |          |          | Administ |          |          |
+| tes_gove |          | e/Charli |          |          |          | ration   |          |          |
+| rnors    |          | e_Baker_ |          |          |          | and      |          |          |
+|          |          | official |          |          |          | Finance, |          |          |
+|          |          | _portrai |          |          |          |  Massach |          |          |
+|          |          | t_%28cro |          |          |          | usetts S |          |          |
+|          |          | pped%29. |          |          |          | ecretary |          |          |
+|          |          | jpg/100p |          |          |          | of       |          |          |
+|          |          | x-Charli |          |          |          | Health   |          |          |
+|          |          | e_Baker_ |          |          |          | and      |          |          |
+|          |          | official |          |          |          | Human    |          |          |
+|          |          | _portrai |          |          |          | Services |          |          |
+|          |          | t_%28cro |          |          |          |          |          |          |
+|          |          | pped%29. |          |          |          |          |          |          |
+|          |          | jpg      |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Michigan | https:// | Rick     | Rick     | Republic | No prior | January  | 2019     |
+| en.wikip |          | upload.w | Snyder   | Snyder   | an       | public e | 1, 2011  | (term    |
+| edia.org |          | ikimedia | in       |          |          | xperienc |          | limits)  |
+| /wiki/Li |          | .org/wik | 2013.jpg |          |          | e        |          |          |
+| st_of_cu |          | ipedia/c |          |          |          |          |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/5/5 |          |          |          |          |          |          |
+| tes_gove |          | 0/Rick_S |          |          |          |          |          |          |
+| rnors    |          | nyder_in |          |          |          |          |          |          |
+|          |          | _2013.jp |          |          |          |          |          |          |
+|          |          | g/100px- |          |          |          |          |          |          |
+|          |          | Rick_Sny |          |          |          |          |          |          |
+|          |          | der_in_2 |          |          |          |          |          |          |
+|          |          | 013.jpg  |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Minnesot | https:// | Mark     | Mark     | Democrat | U.S.     | January  | 2019 (re |
+| en.wikip | a        | upload.w | Dayton   | Dayton   | ic-      | Senate,  | 3, 2011  | tiring)  |
+| edia.org |          | ikimedia | official |          | Farmer-  | Auditor  |          |          |
+| /wiki/Li |          | .org/wik | photo.jp |          | Labor    |          |          |          |
+| st_of_cu |          | ipedia/c | g        |          |          |          |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/0/0 |          |          |          |          |          |          |
+| tes_gove |          | c/Mark_D |          |          |          |          |          |          |
+| rnors    |          | ayton_of |          |          |          |          |          |          |
+|          |          | ficial_p |          |          |          |          |          |          |
+|          |          | hoto.jpg |          |          |          |          |          |          |
+|          |          | /100px-M |          |          |          |          |          |          |
+|          |          | ark_Dayt |          |          |          |          |          |          |
+|          |          | on_offic |          |          |          |          |          |          |
+|          |          | ial_phot |          |          |          |          |          |          |
+|          |          | o.jpg    |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Mississi | https:// | Secretar | Phil     | Republic | Lieutena | January  | 2020     |
+| en.wikip | ppi      | upload.w | y Perry  | Bryant   | an       | nt Gover | 10, 2012 | (term    |
+| edia.org |          | ikimedia | with     |          |          | nor,     |          | limits)  |
+| /wiki/Li |          | .org/wik | Govt     |          |          | Auditor, |          |          |
+| st_of_cu |          | ipedia/c | Phil     |          |          | Mississi |          |          |
+| rrent_Un |          | ommons/t | Bryant   |          |          | ppi      |          |          |
+| ited_Sta |          | humb/b/b | KSS2455  |          |          | House    |          |          |
+| tes_gove |          | 9/Secret | (3274309 |          |          |          |          |          |
+| rnors    |          | ary_Perr | 7363) (c |          |          |          |          |          |
+|          |          | y_with_G | ropped). |          |          |          |          |          |
+|          |          | ovt_Phil | jpg      |          |          |          |          |          |
+|          |          | _Bryant_ |          |          |          |          |          |          |
+|          |          | KSS2455_ |          |          |          |          |          |          |
+|          |          | %2832743 |          |          |          |          |          |          |
+|          |          | 097363%2 |          |          |          |          |          |          |
+|          |          | 9_%28cro |          |          |          |          |          |          |
+|          |          | pped%29. |          |          |          |          |          |          |
+|          |          | jpg/100p |          |          |          |          |          |          |
+|          |          | x-Secret |          |          |          |          |          |          |
+|          |          | ary_Perr |          |          |          |          |          |          |
+|          |          | y_with_G |          |          |          |          |          |          |
+|          |          | ovt_Phil |          |          |          |          |          |          |
+|          |          | _Bryant_ |          |          |          |          |          |          |
+|          |          | KSS2455_ |          |          |          |          |          |          |
+|          |          | %2832743 |          |          |          |          |          |          |
+|          |          | 097363%2 |          |          |          |          |          |          |
+|          |          | 9_%28cro |          |          |          |          |          |          |
+|          |          | pped%29. |          |          |          |          |          |          |
+|          |          | jpg      |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Missouri | https:// | Eric Gre | Eric     | Republic | No prior | January  | 2021     |
+| en.wikip |          | upload.w | itens.jp | Greitens | an       | public e | 9, 2017  |          |
+| edia.org |          | ikimedia | g        |          |          | xperienc |          |          |
+| /wiki/Li |          | .org/wik |          |          |          | e        |          |          |
+| st_of_cu |          | ipedia/c |          |          |          |          |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/b/b |          |          |          |          |          |          |
+| tes_gove |          | f/Eric_G |          |          |          |          |          |          |
+| rnors    |          | reitens. |          |          |          |          |          |          |
+|          |          | jpg/100p |          |          |          |          |          |          |
+|          |          | x-Eric_G |          |          |          |          |          |          |
+|          |          | reitens. |          |          |          |          |          |          |
+|          |          | jpg      |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Montana  | https:// | Steve Bu | Steve    | Democrat | Attorney | January  | 2021     |
+| en.wikip |          | upload.w | llock.jp | Bullock  | ic       | General  | 7, 2013  | (term    |
+| edia.org |          | ikimedia | g        |          |          |          |          | limits)  |
+| /wiki/Li |          | .org/wik |          |          |          |          |          |          |
+| st_of_cu |          | ipedia/c |          |          |          |          |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/0/0 |          |          |          |          |          |          |
+| tes_gove |          | f/Steve_ |          |          |          |          |          |          |
+| rnors    |          | Bullock. |          |          |          |          |          |          |
+|          |          | jpg/100p |          |          |          |          |          |          |
+|          |          | x-Steve_ |          |          |          |          |          |          |
+|          |          | Bullock. |          |          |          |          |          |          |
+|          |          | jpg      |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Nebraska | https:// | Pete     | Pete     | Republic | No prior | January  | 2019     |
+| en.wikip |          | upload.w | Ricketts | Ricketts | an       | public e | 8, 2015  |          |
+| edia.org |          | ikimedia | by Gage  |          |          | xperienc |          |          |
+| /wiki/Li |          | .org/wik | Skidmore |          |          | e        |          |          |
+| st_of_cu |          | ipedia/c | .jpg     |          |          |          |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/a/a |          |          |          |          |          |          |
+| tes_gove |          | b/Pete_R |          |          |          |          |          |          |
+| rnors    |          | icketts_ |          |          |          |          |          |          |
+|          |          | by_Gage_ |          |          |          |          |          |          |
+|          |          | Skidmore |          |          |          |          |          |          |
+|          |          | .jpg/100 |          |          |          |          |          |          |
+|          |          | px-Pete_ |          |          |          |          |          |          |
+|          |          | Ricketts |          |          |          |          |          |          |
+|          |          | _by_Gage |          |          |          |          |          |          |
+|          |          | _Skidmor |          |          |          |          |          |          |
+|          |          | e.jpg    |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Nevada   | https:// | Brian    | Brian    | Republic | U.S.     | January  | 2019     |
+| en.wikip |          | upload.w | Sandoval | Sandoval | an       | District | 3, 2011  | (term    |
+| edia.org |          | ikimedia | 2010.jpg |          |          | Court    |          | limits)  |
+| /wiki/Li |          | .org/wik |          |          |          | Judge,   |          |          |
+| st_of_cu |          | ipedia/c |          |          |          | Attorney |          |          |
+| rrent_Un |          | ommons/t |          |          |          | General, |          |          |
+| ited_Sta |          | humb/4/4 |          |          |          | Nevada   |          |          |
+| tes_gove |          | 4/Brian_ |          |          |          | Assembly |          |          |
+| rnors    |          | Sandoval |          |          |          |          |          |          |
+|          |          | _2010.jp |          |          |          |          |          |          |
+|          |          | g/100px- |          |          |          |          |          |          |
+|          |          | Brian_Sa |          |          |          |          |          |          |
+|          |          | ndoval_2 |          |          |          |          |          |          |
+|          |          | 010.jpg  |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | New Hamp | https:// | Christop | Chris    | Republic | Member   | January  | 2019     |
+| en.wikip | shire    | upload.w | her T Su | Sununu   | an       | of the   | 5, 2017  |          |
+| edia.org |          | ikimedia | nunu.jpg |          |          | New Hamp |          |          |
+| /wiki/Li |          | .org/wik |          |          |          | shire Ex |          |          |
+| st_of_cu |          | ipedia/c |          |          |          | ecutive  |          |          |
+| rrent_Un |          | ommons/t |          |          |          | Council  |          |          |
+| ited_Sta |          | humb/e/e |          |          |          |          |          |          |
+| tes_gove |          | 1/Christ |          |          |          |          |          |          |
+| rnors    |          | opher_T_ |          |          |          |          |          |          |
+|          |          | Sununu.j |          |          |          |          |          |          |
+|          |          | pg/100px |          |          |          |          |          |          |
+|          |          | -Christo |          |          |          |          |          |          |
+|          |          | pher_T_S |          |          |          |          |          |          |
+|          |          | ununu.jp |          |          |          |          |          |          |
+|          |          | g        |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | New      | https:// | Philip   | Phil     | Democrat | United   | January  | 2022     |
+| en.wikip | Jersey   | upload.w | D.       | Murphy   | ic       | States A | 16, 2018 |          |
+| edia.org |          | ikimedia | Murphy ( |          |          | mbassado |          |          |
+| /wiki/Li |          | .org/wik | cropped) |          |          | r        |          |          |
+| st_of_cu |          | ipedia/c | .jpg     |          |          |          |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/7/7 |          |          |          |          |          |          |
+| tes_gove |          | 0/Philip |          |          |          |          |          |          |
+| rnors    |          | _D._Murp |          |          |          |          |          |          |
+|          |          | hy_%28cr |          |          |          |          |          |          |
+|          |          | opped%29 |          |          |          |          |          |          |
+|          |          | .jpg/100 |          |          |          |          |          |          |
+|          |          | px-Phili |          |          |          |          |          |          |
+|          |          | p_D._Mur |          |          |          |          |          |          |
+|          |          | phy_%28c |          |          |          |          |          |          |
+|          |          | ropped%2 |          |          |          |          |          |          |
+|          |          | 9.jpg    |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | New      | https:// | Governor | Susana   | Republic | District | January  | 2019     |
+| en.wikip | Mexico   | upload.w | NewMexic | Martinez | an       | Attorney | 1, 2011  | (term    |
+| edia.org |          | ikimedia | o.jpg    |          |          | of Doña  |          | limits)  |
+| /wiki/Li |          | .org/wik |          |          |          | Ana      |          |          |
+| st_of_cu |          | ipedia/c |          |          |          | County   |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/2/2 |          |          |          |          |          |          |
+| tes_gove |          | b/Govern |          |          |          |          |          |          |
+| rnors    |          | or_NewMe |          |          |          |          |          |          |
+|          |          | xico.jpg |          |          |          |          |          |          |
+|          |          | /100px-G |          |          |          |          |          |          |
+|          |          | overnor_ |          |          |          |          |          |          |
+|          |          | NewMexic |          |          |          |          |          |          |
+|          |          | o.jpg    |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | New York | https:// | Andrew   | Andrew   | Democrat | Attorney | January  | 2018[1]  |
+| en.wikip |          | upload.w | Cuomo by | Cuomo    | ic       | General, | 1, 2011  |          |
+| edia.org |          | ikimedia | Pat      |          |          | U.S. Sec |          |          |
+| /wiki/Li |          | .org/wik | Arnow cr |          |          | retary   |          |          |
+| st_of_cu |          | ipedia/c | opped.jp |          |          | of HUD   |          |          |
+| rrent_Un |          | ommons/t | eg       |          |          |          |          |          |
+| ited_Sta |          | humb/0/0 |          |          |          |          |          |          |
+| tes_gove |          | e/Andrew |          |          |          |          |          |          |
+| rnors    |          | _Cuomo_b |          |          |          |          |          |          |
+|          |          | y_Pat_Ar |          |          |          |          |          |          |
+|          |          | now_crop |          |          |          |          |          |          |
+|          |          | ped.jpeg |          |          |          |          |          |          |
+|          |          | /100px-A |          |          |          |          |          |          |
+|          |          | ndrew_Cu |          |          |          |          |          |          |
+|          |          | omo_by_P |          |          |          |          |          |          |
+|          |          | at_Arnow |          |          |          |          |          |          |
+|          |          | _cropped |          |          |          |          |          |          |
+|          |          | .jpeg    |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | North    | https:// | NC       | Roy      | Democrat | Attorney | January  | 2021     |
+| en.wikip | Carolina | upload.w | Governor | Cooper   | ic       | General, | 1, 2017  |          |
+| edia.org |          | ikimedia | Roy Coop |          |          | North    |          |          |
+| /wiki/Li |          | .org/wik | er.jpg   |          |          | Carolina |          |          |
+| st_of_cu |          | ipedia/c |          |          |          | Senate,  |          |          |
+| rrent_Un |          | ommons/t |          |          |          | North    |          |          |
+| ited_Sta |          | humb/f/f |          |          |          | Carolina |          |          |
+| tes_gove |          | 9/NC_Gov |          |          |          | House    |          |          |
+| rnors    |          | ernor_Ro |          |          |          |          |          |          |
+|          |          | y_Cooper |          |          |          |          |          |          |
+|          |          | .jpg/100 |          |          |          |          |          |          |
+|          |          | px-NC_Go |          |          |          |          |          |          |
+|          |          | vernor_R |          |          |          |          |          |          |
+|          |          | oy_Coope |          |          |          |          |          |          |
+|          |          | r.jpg    |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | North    | https:// | Gov.     | Doug     | Republic | No prior | December | 2020     |
+| en.wikip | Dakota   | upload.w | Doug     | Burgum   | an       | public e | 15, 2016 |          |
+| edia.org |          | ikimedia | Burgum   |          |          | xperienc |          |          |
+| /wiki/Li |          | .org/wik | presents |          |          | e        |          |          |
+| st_of_cu |          | ipedia/c | an award |          |          |          |          |          |
+| rrent_Un |          | ommons/t | (cropped |          |          |          |          |          |
+| ited_Sta |          | humb/f/f | ).jpg    |          |          |          |          |          |
+| tes_gove |          | 2/Gov._D |          |          |          |          |          |          |
+| rnors    |          | oug_Burg |          |          |          |          |          |          |
+|          |          | um_prese |          |          |          |          |          |          |
+|          |          | nts_an_a |          |          |          |          |          |          |
+|          |          | ward_%28 |          |          |          |          |          |          |
+|          |          | cropped% |          |          |          |          |          |          |
+|          |          | 29.jpg/1 |          |          |          |          |          |          |
+|          |          | 00px-Gov |          |          |          |          |          |          |
+|          |          | ._Doug_B |          |          |          |          |          |          |
+|          |          | urgum_pr |          |          |          |          |          |          |
+|          |          | esents_a |          |          |          |          |          |          |
+|          |          | n_award_ |          |          |          |          |          |          |
+|          |          | %28cropp |          |          |          |          |          |          |
+|          |          | ed%29.jp |          |          |          |          |          |          |
+|          |          | g        |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Ohio     | https:// | Governor | John     | Republic | U.S.     | January  | 2019     |
+| en.wikip |          | upload.w | John Kas | Kasich   | an       | House,   | 10, 2011 | (term    |
+| edia.org |          | ikimedia | ich.jpg  |          |          | Ohio     |          | limits)  |
+| /wiki/Li |          | .org/wik |          |          |          | Senate   |          |          |
+| st_of_cu |          | ipedia/c |          |          |          |          |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/a/a |          |          |          |          |          |          |
+| tes_gove |          | b/Govern |          |          |          |          |          |          |
+| rnors    |          | or_John_ |          |          |          |          |          |          |
+|          |          | Kasich.j |          |          |          |          |          |          |
+|          |          | pg/100px |          |          |          |          |          |          |
+|          |          | -Governo |          |          |          |          |          |          |
+|          |          | r_John_K |          |          |          |          |          |          |
+|          |          | asich.jp |          |          |          |          |          |          |
+|          |          | g        |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Oklahoma | https:// | Governor | Mary     | Republic | U.S.     | January  | 2019     |
+| en.wikip |          | upload.w | Mary     | Fallin   | an       | House, L | 10, 2011 | (term    |
+| edia.org |          | ikimedia | Fallin   |          |          | ieutenan |          | limits)  |
+| /wiki/Li |          | .org/wik | May      |          |          | t Govern |          |          |
+| st_of_cu |          | ipedia/c | 2015.jpg |          |          | or,      |          |          |
+| rrent_Un |          | ommons/t |          |          |          | Oklahoma |          |          |
+| ited_Sta |          | humb/d/d |          |          |          | House    |          |          |
+| tes_gove |          | c/Govern |          |          |          |          |          |          |
+| rnors    |          | or_Mary_ |          |          |          |          |          |          |
+|          |          | Fallin_M |          |          |          |          |          |          |
+|          |          | ay_2015. |          |          |          |          |          |          |
+|          |          | jpg/100p |          |          |          |          |          |          |
+|          |          | x-Govern |          |          |          |          |          |          |
+|          |          | or_Mary_ |          |          |          |          |          |          |
+|          |          | Fallin_M |          |          |          |          |          |          |
+|          |          | ay_2015. |          |          |          |          |          |          |
+|          |          | jpg      |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Oregon   | https:// | Kate     | Kate     | Democrat | Secretar | February | 2019     |
+| en.wikip |          | upload.w | Brown in | Brown    | ic       | y of     | 18, 2015 |          |
+| edia.org |          | ikimedia | 2017.jpg |          |          | State,   |          |          |
+| /wiki/Li |          | .org/wik |          |          |          | Oregon   |          |          |
+| st_of_cu |          | ipedia/c |          |          |          | Senate,  |          |          |
+| rrent_Un |          | ommons/t |          |          |          | Oregon   |          |          |
+| ited_Sta |          | humb/9/9 |          |          |          | House    |          |          |
+| tes_gove |          | e/Kate_B |          |          |          |          |          |          |
+| rnors    |          | rown_in_ |          |          |          |          |          |          |
+|          |          | 2017.jpg |          |          |          |          |          |          |
+|          |          | /100px-K |          |          |          |          |          |          |
+|          |          | ate_Brow |          |          |          |          |          |          |
+|          |          | n_in_201 |          |          |          |          |          |          |
+|          |          | 7.jpg    |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Pennsylv | https:// | Governor | Tom Wolf | Democrat | Pennsylv | January  | 2019     |
+| en.wikip | ania     | upload.w | Tom Wolf |          | ic       | ania Sec | 20, 2015 |          |
+| edia.org |          | ikimedia | official |          |          | retary   |          |          |
+| /wiki/Li |          | .org/wik | portrait |          |          | of       |          |          |
+| st_of_cu |          | ipedia/c | 2015 (cr |          |          | Revenue  |          |          |
+| rrent_Un |          | ommons/t | opped2). |          |          |          |          |          |
+| ited_Sta |          | humb/5/5 | jpg      |          |          |          |          |          |
+| tes_gove |          | f/Govern |          |          |          |          |          |          |
+| rnors    |          | or_Tom_W |          |          |          |          |          |          |
+|          |          | olf_offi |          |          |          |          |          |          |
+|          |          | cial_por |          |          |          |          |          |          |
+|          |          | trait_20 |          |          |          |          |          |          |
+|          |          | 15_%28cr |          |          |          |          |          |          |
+|          |          | opped2%2 |          |          |          |          |          |          |
+|          |          | 9.jpg/10 |          |          |          |          |          |          |
+|          |          | 0px-Gove |          |          |          |          |          |          |
+|          |          | rnor_Tom |          |          |          |          |          |          |
+|          |          | _Wolf_of |          |          |          |          |          |          |
+|          |          | ficial_p |          |          |          |          |          |          |
+|          |          | ortrait_ |          |          |          |          |          |          |
+|          |          | 2015_%28 |          |          |          |          |          |          |
+|          |          | cropped2 |          |          |          |          |          |          |
+|          |          | %29.jpg  |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Rhode    | https:// | RI       | Gina     | Democrat | General  | January  | 2019     |
+| en.wikip | Island   | upload.w | Governor | Raimondo | ic       | Treasure | 6, 2015  |          |
+| edia.org |          | ikimedia | Gina     |          |          | r        |          |          |
+| /wiki/Li |          | .org/wik | Raimondo |          |          |          |          |          |
+| st_of_cu |          | ipedia/c | Bristol  |          |          |          |          |          |
+| rrent_Un |          | ommons/t | parade ( |          |          |          |          |          |
+| ited_Sta |          | humb/e/e | cropped) |          |          |          |          |          |
+| tes_gove |          | 3/RI_Gov | .jpg     |          |          |          |          |          |
+| rnors    |          | ernor_Gi |          |          |          |          |          |          |
+|          |          | na_Raimo |          |          |          |          |          |          |
+|          |          | ndo_Bris |          |          |          |          |          |          |
+|          |          | tol_para |          |          |          |          |          |          |
+|          |          | de_%28cr |          |          |          |          |          |          |
+|          |          | opped%29 |          |          |          |          |          |          |
+|          |          | .jpg/100 |          |          |          |          |          |          |
+|          |          | px-RI_Go |          |          |          |          |          |          |
+|          |          | vernor_G |          |          |          |          |          |          |
+|          |          | ina_Raim |          |          |          |          |          |          |
+|          |          | ondo_Bri |          |          |          |          |          |          |
+|          |          | stol_par |          |          |          |          |          |          |
+|          |          | ade_%28c |          |          |          |          |          |          |
+|          |          | ropped%2 |          |          |          |          |          |          |
+|          |          | 9.jpg    |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | South    | https:// | South    | Henry    | Republic | Lieutena | January  | 2019     |
+| en.wikip | Carolina | upload.w | Carolina | McMaster | an       | nt Gover | 24, 2017 |          |
+| edia.org |          | ikimedia | Governor |          |          | nor,     |          |          |
+| /wiki/Li |          | .org/wik | Henry Mc |          |          | Attorney |          |          |
+| st_of_cu |          | ipedia/c | Master.j |          |          | General, |          |          |
+| rrent_Un |          | ommons/t | pg       |          |          | Chair of |          |          |
+| ited_Sta |          | humb/c/c |          |          |          | the      |          |          |
+| tes_gove |          | 1/South_ |          |          |          | South    |          |          |
+| rnors    |          | Carolina |          |          |          | Carolina |          |          |
+|          |          | _Governo |          |          |          | Republic |          |          |
+|          |          | r_Henry_ |          |          |          | an       |          |          |
+|          |          | McMaster |          |          |          | Party,   |          |          |
+|          |          | .jpg/100 |          |          |          | U.S.     |          |          |
+|          |          | px-South |          |          |          | Attorney |          |          |
+|          |          | _Carolin |          |          |          |          |          |          |
+|          |          | a_Govern |          |          |          |          |          |          |
+|          |          | or_Henry |          |          |          |          |          |          |
+|          |          | _McMaste |          |          |          |          |          |          |
+|          |          | r.jpg    |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | South    | https:// | Dennis   | Dennis   | Republic | Lieutena | January  | 2019     |
+| en.wikip | Dakota   | upload.w | Daugaard | Daugaard | an       | nt Gover | 8, 2011  | (term    |
+| edia.org |          | ikimedia | Berlin 2 |          |          | nor,     |          | limits)  |
+| /wiki/Li |          | .org/wik | 017-03-2 |          |          | South    |          |          |
+| st_of_cu |          | ipedia/c | 2.jpg    |          |          | Dakota   |          |          |
+| rrent_Un |          | ommons/t |          |          |          | Senate   |          |          |
+| ited_Sta |          | humb/e/e |          |          |          |          |          |          |
+| tes_gove |          | 6/Dennis |          |          |          |          |          |          |
+| rnors    |          | _Daugaar |          |          |          |          |          |          |
+|          |          | d_Berlin |          |          |          |          |          |          |
+|          |          | _2017-03 |          |          |          |          |          |          |
+|          |          | -22.jpg/ |          |          |          |          |          |          |
+|          |          | 100px-De |          |          |          |          |          |          |
+|          |          | nnis_Dau |          |          |          |          |          |          |
+|          |          | gaard_Be |          |          |          |          |          |          |
+|          |          | rlin_201 |          |          |          |          |          |          |
+|          |          | 7-03-22. |          |          |          |          |          |          |
+|          |          | jpg      |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Tennesse | https:// | Governor | Bill     | Republic | Mayor of | January  | 2019     |
+| en.wikip | e        | upload.w | Bill     | Haslam   | an       | Knoxvill | 15, 2011 | (term    |
+| edia.org |          | ikimedia | Haslam   |          |          | e        |          | limits)  |
+| /wiki/Li |          | .org/wik | crop.jpg |          |          |          |          |          |
+| st_of_cu |          | ipedia/c |          |          |          |          |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/2/2 |          |          |          |          |          |          |
+| tes_gove |          | e/Govern |          |          |          |          |          |          |
+| rnors    |          | or_Bill_ |          |          |          |          |          |          |
+|          |          | Haslam_c |          |          |          |          |          |          |
+|          |          | rop.jpg/ |          |          |          |          |          |          |
+|          |          | 100px-Go |          |          |          |          |          |          |
+|          |          | vernor_B |          |          |          |          |          |          |
+|          |          | ill_Hasl |          |          |          |          |          |          |
+|          |          | am_crop. |          |          |          |          |          |          |
+|          |          | jpg      |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Texas    | https:// | Greg     | Greg     | Republic | Attorney | January  | 2019     |
+| en.wikip |          | upload.w | Abbott   | Abbott   | an       | General, | 20, 2015 |          |
+| edia.org |          | ikimedia | 2015.jpg |          |          | Associat |          |          |
+| /wiki/Li |          | .org/wik |          |          |          | e        |          |          |
+| st_of_cu |          | ipedia/c |          |          |          | Justice  |          |          |
+| rrent_Un |          | ommons/t |          |          |          | of the   |          |          |
+| ited_Sta |          | humb/b/b |          |          |          | Texas    |          |          |
+| tes_gove |          | 3/Greg_A |          |          |          | Supreme  |          |          |
+| rnors    |          | bbott_20 |          |          |          | Court    |          |          |
+|          |          | 15.jpg/1 |          |          |          |          |          |          |
+|          |          | 00px-Gre |          |          |          |          |          |          |
+|          |          | g_Abbott |          |          |          |          |          |          |
+|          |          | _2015.jp |          |          |          |          |          |          |
+|          |          | g        |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Utah     | https:// | 2013-05- | Gary     | Republic | Lieutena | August   | 2021 (re |
+| en.wikip |          | upload.w | 23 Gary  | Herbert  | an       | nt Gover | 11, 2009 | tiring)  |
+| edia.org |          | ikimedia | R Herber |          |          | nor,     |          |          |
+| /wiki/Li |          | .org/wik | t.JPG    |          |          | Utah     |          |          |
+| st_of_cu |          | ipedia/c |          |          |          | County C |          |          |
+| rrent_Un |          | ommons/t |          |          |          | ommissio |          |          |
+| ited_Sta |          | humb/8/8 |          |          |          | ner      |          |          |
+| tes_gove |          | 2/2013-0 |          |          |          |          |          |          |
+| rnors    |          | 5-23_Gar |          |          |          |          |          |          |
+|          |          | y_R_Herb |          |          |          |          |          |          |
+|          |          | ert.JPG/ |          |          |          |          |          |          |
+|          |          | 100px-20 |          |          |          |          |          |          |
+|          |          | 13-05-23 |          |          |          |          |          |          |
+|          |          | _Gary_R_ |          |          |          |          |          |          |
+|          |          | Herbert. |          |          |          |          |          |          |
+|          |          | JPG      |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Vermont  | https:// | Phil     | Phil     | Republic | Lieutena | January  | 2019     |
+| en.wikip |          | upload.w | Scott    | Scott    | an       | nt Gover | 5, 2017  |          |
+| edia.org |          | ikimedia | 2017.jpg |          |          | nor,     |          |          |
+| /wiki/Li |          | .org/wik |          |          |          | Vermont  |          |          |
+| st_of_cu |          | ipedia/c |          |          |          | Senate   |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/f/f |          |          |          |          |          |          |
+| tes_gove |          | 9/Phil_S |          |          |          |          |          |          |
+| rnors    |          | cott_201 |          |          |          |          |          |          |
+|          |          | 7.jpg/10 |          |          |          |          |          |          |
+|          |          | 0px-Phil |          |          |          |          |          |          |
+|          |          | _Scott_2 |          |          |          |          |          |          |
+|          |          | 017.jpg  |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Virginia | https:// | Governor | Ralph    | Democrat | Lieutena | January  | 2022     |
+| en.wikip |          | upload.w | Ralph    | Northam  | ic       | nt Gover | 13, 2018 | (term    |
+| edia.org |          | ikimedia | Northam  |          |          | nor,     |          | limits)  |
+| /wiki/Li |          | .org/wik | Gives In |          |          | Virginia |          |          |
+| st_of_cu |          | ipedia/c | augural  |          |          | Senate   |          |          |
+| rrent_Un |          | ommons/t | Address  |          |          |          |          |          |
+| ited_Sta |          | humb/7/7 | (3934861 |          |          |          |          |          |
+| tes_gove |          | 2/Govern | 2584) (c |          |          |          |          |          |
+| rnors    |          | or_Ralph | ropped). |          |          |          |          |          |
+|          |          | _Northam | jpg      |          |          |          |          |          |
+|          |          | _Gives_I |          |          |          |          |          |          |
+|          |          | naugural |          |          |          |          |          |          |
+|          |          | _Address |          |          |          |          |          |          |
+|          |          | _%283934 |          |          |          |          |          |          |
+|          |          | 8612584% |          |          |          |          |          |          |
+|          |          | 29_%28cr |          |          |          |          |          |          |
+|          |          | opped%29 |          |          |          |          |          |          |
+|          |          | .jpg/100 |          |          |          |          |          |          |
+|          |          | px-Gover |          |          |          |          |          |          |
+|          |          | nor_Ralp |          |          |          |          |          |          |
+|          |          | h_Northa |          |          |          |          |          |          |
+|          |          | m_Gives_ |          |          |          |          |          |          |
+|          |          | Inaugura |          |          |          |          |          |          |
+|          |          | l_Addres |          |          |          |          |          |          |
+|          |          | s_%28393 |          |          |          |          |          |          |
+|          |          | 48612584 |          |          |          |          |          |          |
+|          |          | %29_%28c |          |          |          |          |          |          |
+|          |          | ropped%2 |          |          |          |          |          |          |
+|          |          | 9.jpg    |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Washingt | https:// | Jay      | Jay      | Democrat | U.S.     | January  | 2021     |
+| en.wikip | on       | upload.w | Inslee   | Inslee   | ic       | House, W | 16, 2013 |          |
+| edia.org |          | ikimedia | official |          |          | ashingto |          |          |
+| /wiki/Li |          | .org/wik | portrait |          |          | n House  |          |          |
+| st_of_cu |          | ipedia/c | (cropped |          |          |          |          |          |
+| rrent_Un |          | ommons/t | ).jpg    |          |          |          |          |          |
+| ited_Sta |          | humb/3/3 |          |          |          |          |          |          |
+| tes_gove |          | 5/Jay_In |          |          |          |          |          |          |
+| rnors    |          | slee_off |          |          |          |          |          |          |
+|          |          | icial_po |          |          |          |          |          |          |
+|          |          | rtrait_% |          |          |          |          |          |          |
+|          |          | 28croppe |          |          |          |          |          |          |
+|          |          | d%29.jpg |          |          |          |          |          |          |
+|          |          | /100px-J |          |          |          |          |          |          |
+|          |          | ay_Insle |          |          |          |          |          |          |
+|          |          | e_offici |          |          |          |          |          |          |
+|          |          | al_portr |          |          |          |          |          |          |
+|          |          | ait_%28c |          |          |          |          |          |          |
+|          |          | ropped%2 |          |          |          |          |          |          |
+|          |          | 9.jpg    |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | West     | https:// | Governor | Jim      | Republic | No prior | January  | 2021     |
+| en.wikip | Virginia | upload.w | Jim      | Justice  | an       | public e | 16, 2017 |          |
+| edia.org |          | ikimedia | Justice  |          |          | xperienc |          |          |
+| /wiki/Li |          | .org/wik | 2017.jpg |          |          | e        |          |          |
+| st_of_cu |          | ipedia/c |          |          |          |          |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/0/0 |          |          |          |          |          |          |
+| tes_gove |          | a/Govern |          |          |          |          |          |          |
+| rnors    |          | or_Jim_J |          |          |          |          |          |          |
+|          |          | ustice_2 |          |          |          |          |          |          |
+|          |          | 017.jpg/ |          |          |          |          |          |          |
+|          |          | 100px-Go |          |          |          |          |          |          |
+|          |          | vernor_J |          |          |          |          |          |          |
+|          |          | im_Justi |          |          |          |          |          |          |
+|          |          | ce_2017. |          |          |          |          |          |          |
+|          |          | jpg      |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Wisconsi | https:// | Governor | Scott    | Republic | Executiv | January  | 2019     |
+| en.wikip | n        | upload.w | Scott Wa | Walker   | an       | e of Mil | 3, 2011  |          |
+| edia.org |          | ikimedia | lker.jpg |          |          | waukee   |          |          |
+| /wiki/Li |          | .org/wik |          |          |          | County,  |          |          |
+| st_of_cu |          | ipedia/c |          |          |          | Wisconsi |          |          |
+| rrent_Un |          | ommons/t |          |          |          | n        |          |          |
+| ited_Sta |          | humb/c/c |          |          |          | Assembly |          |          |
+| tes_gove |          | c/Govern |          |          |          |          |          |          |
+| rnors    |          | or_Scott |          |          |          |          |          |          |
+|          |          | _Walker. |          |          |          |          |          |          |
+|          |          | jpg/100p |          |          |          |          |          |          |
+|          |          | x-Govern |          |          |          |          |          |          |
+|          |          | or_Scott |          |          |          |          |          |          |
+|          |          | _Walker. |          |          |          |          |          |          |
+|          |          | jpg      |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+
+| https:// | Wyoming  | https:// | Matt     | Matt     | Republic | United   | January  | 2019     |
+| en.wikip |          | upload.w | Mead.jpg | Mead     | an       | States   | 3, 2011  | (term    |
+| edia.org |          | ikimedia |          |          |          | Attorney |          | limits)  |
+| /wiki/Li |          | .org/wik |          |          |          |          |          |          |
+| st_of_cu |          | ipedia/c |          |          |          |          |          |          |
+| rrent_Un |          | ommons/t |          |          |          |          |          |          |
+| ited_Sta |          | humb/2/2 |          |          |          |          |          |          |
+| tes_gove |          | 1/Matt_M |          |          |          |          |          |          |
+| rnors    |          | ead.jpg/ |          |          |          |          |          |          |
+|          |          | 100px-Ma |          |          |          |          |          |          |
+|          |          | tt_Mead. |          |          |          |          |          |          |
+|          |          | jpg      |          |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+----------+----------+----------+

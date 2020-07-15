@@ -1,0 +1,152 @@
++----------------------------------------+-----------------+---------------------------------------+
+| url                                    | Term            | Definition                            |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Buñuelo         | A thin fried pastry finished with a   |
+| y.html                                 |                 | sweet topping.                        |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Burro/Burrito   | A large flour tortilla filled with    |
+| y.html                                 |                 | meat, cheese, or beans.               |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Camaron         | Shrimp.                               |
+| y.html                                 |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Carne Asada     | Pieces of thin-cut beef that is       |
+| y.html                                 |                 | grilled. Literally, "roasted meat."   |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Carnita         | A dish made with small pieces of      |
+| y.html                                 |                 | pork.                                 |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Chalupa         | A thick boat-shaped corn tortilla     |
+| y.html                                 |                 | fried and filled with other           |
+|                                        |                 | ingredients. In Mexico, a chalupa is  |
+|                                        |                 | a small canoe.                        |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Charro Beans    | Simmered pinto beans with a bacon     |
+| y.html                                 |                 | flavoring, mixed with onions and      |
+|                                        |                 | tomatoes. Charros are Mexican         |
+|                                        |                 | cowboys.                              |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Chile Con Queso | A melted cheese dip flavored with     |
+| y.html                                 |                 | mild green chilies.                   |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Chile Relleno   | Cheese-stuffed mild green chilies,    |
+| y.html                                 |                 | battered and fried until the outside  |
+|                                        |                 | is crisp and the cheese inside is     |
+|                                        |                 | melted. Literally, "stuffed peppers." |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Chimichanga     | A burrito that is sealed closed and   |
+| y.html                                 |                 | fried till crisp.                     |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Chipotle        | Dried, smoked jalapeño chilies.       |
+| y.html                                 |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Chorizo         | A Mexican sausage made with ground    |
+| y.html                                 |                 | pork and spicy seasonings.            |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Decebrada       | Shredded meat, usually beef.          |
+| y.html                                 |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Enchilada       | A tortilla dipped in chili sauce,     |
+| y.html                                 |                 | then filled with meat or cheese,      |
+|                                        |                 | rolled up, and baked. Usually served  |
+|                                        |                 | topped with salsa and cheese.         |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Ensalada        | A salad.                              |
+| y.html                                 |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Fajita          | Meat brought to the table on a metal  |
+| y.html                                 |                 | platter, sizzling loudly, with        |
+|                                        |                 | tortillas and condiments served on    |
+|                                        |                 | the side.                             |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Flan            | A rich custard dessert with a layer   |
+| y.html                                 |                 | of soft caramel on top.               |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Flauta/Flautita | A small corn tortilla that has been   |
+| y.html                                 |                 | stuffed with meat or beans, then      |
+|                                        |                 | sealed and deep-fried until crisp.    |
+|                                        |                 | Literally, "flute".                   |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Guacamole       | A dish made from mashed avacado and   |
+| y.html                                 |                 | lime or lemon juice, with onions,     |
+|                                        |                 | chilies, and seasonings added. Often  |
+|                                        |                 | used as a condiment in Mexican        |
+|                                        |                 | dishes.                               |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Jalapeño        | A medium-hot green chili pepper.      |
+| y.html                                 |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Margarita       | A cocktail made with tequila, an      |
+| y.html                                 |                 | orange-flavored liqueur, and lime     |
+|                                        |                 | juice.                                |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Masa            | Dough made from dried corn.           |
+| y.html                                 |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Mexican Rice    | White rice roasted in a skillet with  |
+| y.html                                 |                 | garlic and onions until light brown,  |
+|                                        |                 | then steamed or simmered with tomato  |
+|                                        |                 | sauce and chicken stock.              |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Mole            | A spicy, rich sauce consisting of     |
+| y.html                                 |                 | nuts, seeds, spices, chilies and a    |
+|                                        |                 | small amount of chocolate.            |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Nachos          | Crisp torilla chips topped with       |
+| y.html                                 |                 | melted cheese and chopped chilies.    |
+|                                        |                 | Invented in 1943 by Ignacio "Nacho"   |
+|                                        |                 | Anaya in Piedras Negras, Mexico.      |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Pico de Gallo   | An uncooked tomato, onion, and chili  |
+| y.html                                 |                 | relish. Literally, "beak of the       |
+|                                        |                 | rooster."                             |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Poblano         | A large mild green chile. Poblanos    |
+| y.html                                 |                 | originated in the Mexican state of    |
+|                                        |                 | Puebla.                               |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Pollo           | Chicken.                              |
+| y.html                                 |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Quesadilla      | A flour tortilla filled with meat and |
+| y.html                                 |                 | cheese, folded in half, and toasted.  |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Queso           | Cheese.                               |
+| y.html                                 |                 |                                       |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Ranchero Sauce  | A spciy tomato-based sauce that       |
+| y.html                                 |                 | includes onions, green chilies, and   |
+|                                        |                 | seasonings.                           |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Refried Beans   | Cooked red or pinto beans that are    |
+| y.html                                 |                 | mashed, then fried.                   |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Salsa           | A spicy tomato-based sauce used to    |
+| y.html                                 |                 | dip or to accent dishes.              |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Sincronizada    | A grilled sandwich of cheese and      |
+| y.html                                 |                 | other ingredients between two         |
+|                                        |                 | tortillas.                            |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Sope            | A small circle or bowl of fried masa  |
+| y.html                                 |                 | topped with some type of filling and  |
+|                                        |                 | a garnish or cheese.                  |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Suizo           | A creamy white sauce. Literally,      |
+| y.html                                 |                 | "Swiss."                              |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Taco            | A corn tortilla filled with meat,     |
+| y.html                                 |                 | cheese, or beans.                     |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Tamale          | Corn masa encasing some type of       |
+| y.html                                 |                 | filling, usually pork. Traditionally  |
+|                                        |                 | steamed in corn husks. Don't eat the  |
+|                                        |                 | husks!                                |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Tortilla        | A thin, round unleavened bread made   |
+| y.html                                 |                 | of either corn flour or wheat flour   |
+|                                        |                 | and baked on a griddle.               |
++----------------------------------------+-----------------+---------------------------------------+
+| http://www.fiestajalapenos.com/glossar | Tostada         | A toasted tortilla topped with meats, |
+| y.html                                 |                 | beans, or cheeses.                    |
++----------------------------------------+-----------------+---------------------------------------+

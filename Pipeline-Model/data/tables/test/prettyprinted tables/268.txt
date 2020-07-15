@@ -1,0 +1,779 @@
++-------------------------+-------------------------+----------------------+-----------------------+
+| url                     | Character               | Portrayed_by         | Seasons               |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Leonard Hofstadter      | Johnny Galecki       | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Sheldon Cooper          | Jim Parsons          | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Penny                   | Kaley Cuoco          | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Howard Wolowitz         | Simon Helberg        | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Raj Koothrappali        | Kunal Nayyar         | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Leslie Winkle           | Sara Gilbert         | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Guest                 |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Guest                 |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Bernadette              | Melissa Rauch        | Recurring             |
+| g/wiki/List_of_The_Big_ | Rostenkowski-Wolowitz   |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Amy Farrah Fowler       | Mayim Bialik         | Guest                 |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Stuart Bloom            | Kevin Sussman        | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Emily Sweeney           | Laura Spencer        | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Main                  |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Guest                 |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Kurt                    | Brian Patrick Wade   | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Eric Gablehauser        | Mark Harelik         | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Mary Cooper             | Laurie Metcalf       | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Mrs. Wolowitz           | Carol Ann Susi       | Recurring; voice only |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring; voice only |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring; voice only |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring; voice only |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring; voice only |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring; voice only |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring; voice only |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring; voice only |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Guest                 |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | V.M. Koothrappali       | Brian George         | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Mrs. Koothrappali       | Alice Amter          | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Guest                 |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Barry Kripke            | John Ross Bowie      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Beverly Hofstadter      | Christine Baranski   | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Guest                 |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Wil Wheaton             | Wil Wheaton          | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Zack Johnson            | Brian Thomas Smith   | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Priya Koothrappali      | Aarti Mann           | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Wyatt                   | Keith Carradine      | Guest                 |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | President Siebert       | Joshua Malina        | Guest                 |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Guest                 |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Mike Rostenkowski       | Casey Sander         | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Alex Jensen             | Margo Harshman       | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Janine Davis            | Regina King          | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Guest                 |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Lucy                    | Kate Micucci         | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Guest                 |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Guest                 |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Bert Kibbler            | Brian Posehn         | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Arthur Jeffries         | Bob Newhart          | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Guest                 |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Guest                 |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Dave Gibbs              | Stephen Merchant     | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Claire                  | Alessandra Torresani | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Guest                 |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Alfred Hofstadter       | Judd Hirsch          | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Colonel Richard         | Dean Norris          | Recurring             |
+| g/wiki/List_of_The_Big_ | Williams                |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or |                         |                      | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+
+| https://en.wikipedia.or | Ruchi                   | Swati Kapila         | Recurring             |
+| g/wiki/List_of_The_Big_ |                         |                      |                       |
+| Bang_Theory_characters  |                         |                      |                       |
++-------------------------+-------------------------+----------------------+-----------------------+

@@ -1,0 +1,72 @@
++--------------------------------------+--------------------+--------------------------------------+
+| url                                  | Info               | Description                          |
++--------------------------------------+--------------------+--------------------------------------+
+| https://aquariuminfo.org/hornednerit | Temperature ~75°F  | The optimum aquarium temperature for |
+| esnail.html                          |                    | Horned Nerite Snails is around 70°F  |
+|                                      |                    | - 80°F (21°C-27°C).                  |
++--------------------------------------+--------------------+--------------------------------------+
+| https://aquariuminfo.org/hornednerit | pH ~7 | Hardness 7 | Horned Nerite Snails require pH      |
+| esnail.html                          |                    | between about 6.5 and 8.; Relative   |
+|                                      |                    | water hardness for Horned Nerite     |
+|                                      |                    | Snails should be in the range of     |
+|                                      |                    | 6-12dH. Horned Nerite Snails are     |
+|                                      |                    | hardy species and are able to        |
+|                                      |                    | withstand captivity fluctuations.    |
++--------------------------------------+--------------------+--------------------------------------+
+| https://aquariuminfo.org/hornednerit | Max Size ~1"       | Horned Nerite Snails can grow up to  |
+| esnail.html                          |                    | 1" but are often found at a maximum  |
+|                                      |                    | size of 3/4". They are suitable for  |
+|                                      |                    | medium sized aquariums.              |
++--------------------------------------+--------------------+--------------------------------------+
+| https://aquariuminfo.org/hornednerit | Nitrite 0ppm       | Nitrite should always be 0.          |
+| esnail.html                          |                    |                                      |
++--------------------------------------+--------------------+--------------------------------------+
+| https://aquariuminfo.org/hornednerit | Ammonia 0ppm       | Horned Nerite Snails are sensitive   |
+| esnail.html                          |                    | to ammonia spikes.                   |
++--------------------------------------+--------------------+--------------------------------------+
+| https://aquariuminfo.org/hornednerit | Nitrate >40ppm     | Nitrates should be as close to 0ppm  |
+| esnail.html                          |                    | as possible. Horned Nerite Snails    |
+|                                      |                    | consume debris contributing to lower |
+|                                      |                    | nitrates.                            |
++--------------------------------------+--------------------+--------------------------------------+
+| https://aquariuminfo.org/hornednerit | Stocking Guide     | Horned Nerite Snails are excellent   |
+| esnail.html                          |                    | at consuming debris and algae.       |
+|                                      |                    | However in large numbers they will   |
+|                                      |                    | require extra food. For this reason  |
+|                                      |                    | it is wise to stock no more than one |
+|                                      |                    | snail for every 4 gallons of         |
+|                                      |                    | aquarium water. Horned Nerite Snails |
+|                                      |                    | have a short captive life of         |
+|                                      |                    | approximately one year. For this     |
+|                                      |                    | reason it is wise to slowly re-      |
+|                                      |                    | purchase snails throughout the year  |
+|                                      |                    | as Horned Nerite Snails cannot       |
+|                                      |                    | reproduce in freshwater.             |
++--------------------------------------+--------------------+--------------------------------------+
+| https://aquariuminfo.org/hornednerit | Feeding            | Horned Nerite Snails can simply be   |
+| esnail.html                          |                    | fed commercial flake and pellet      |
+|                                      |                    | food. They only require supplemental |
+|                                      |                    | feeding if there is no debris or     |
+|                                      |                    | algae left to consume. They are      |
+|                                      |                    | efficient cleaners and will leave    |
+|                                      |                    | the glass and substrate very clean.  |
+|                                      |                    | They are not fussy eaters. The       |
+|                                      |                    | filter should be turned off during   |
+|                                      |                    | feeding to allow the food to float   |
+|                                      |                    | to the substrate where it is easily  |
+|                                      |                    | accessible for the Horned Nerite     |
+|                                      |                    | Snails.                              |
++--------------------------------------+--------------------+--------------------------------------+
+| https://aquariuminfo.org/hornednerit | Breeding           | Horned Nerite Snails will not breed  |
+| esnail.html                          |                    | in freshwater aquariums. Horned      |
+|                                      |                    | Nerite Snails will only breed in     |
+|                                      |                    | brackish waters and even then        |
+|                                      |                    | raising young is difficult. Young    |
+|                                      |                    | successfully raised in captivity     |
+|                                      |                    | have far lower life expectancies     |
+|                                      |                    | than those wild caught. On the       |
+|                                      |                    | upside, Horned Nerite Snails will    |
+|                                      |                    | not overpopulate the aquarium making |
+|                                      |                    | them far easier maintenance than     |
+|                                      |                    | other species.                       |
++--------------------------------------+--------------------+--------------------------------------+

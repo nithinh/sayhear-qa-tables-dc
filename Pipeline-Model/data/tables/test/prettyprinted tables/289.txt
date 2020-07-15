@@ -1,0 +1,448 @@
++---------------------------------------------+--------------------------------------------+-------+
+| url                                         | Food                                       | Price |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Big Mac                                    | $3.99 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Big Mac – Meal                             | $5.99 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | 2 Cheeseburgers                            | $2.00 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | 2 Cheeseburgers – Meal                     | $4.89 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Quarter Pounder with Cheese                | $3.79 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Quarter Pounder with Cheese – Meal         | $5.79 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Double Quarter Pounder with Cheese         | $4.79 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Double Quarter Pounder with Cheese – Meal  | $6.69 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Bacon Clubhouse Burger                     | $4.49 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Bacon Clubhouse Burger – Meal              | $6.49 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Buttermilk Crispy Chicken                  | $4.39 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Buttermilk Crispy Chicken – Meal           | $6.39 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Artisan Grilled Chicken                    | $4.39 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Artisan Grilled Chicken – Meal             | $6.39 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Premium McWrap Chicken & Bacon (Grilled or | $4.39 |
+| s-prices/?redir                             | Crispy)                                    |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Premium McWrap Chicken & Bacon (Grilled or | $6.39 |
+| s-prices/?redir                             | Crispy) – Meal                             |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Premium McWrap Chicken & Ranch (Grilled or | $4.39 |
+| s-prices/?redir                             | Crispy)                                    |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Premium McWrap Chicken & Ranch (Grilled or | $6.39 |
+| s-prices/?redir                             | Crispy) – Meal                             |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Premium McWrap Sweet Chili Chicken         | $4.39 |
+| s-prices/?redir                             | (Grilled or Crispy)                        |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Premium McWrap Sweet Chili Chicken         | $6.39 |
+| s-prices/?redir                             | (Grilled or Crispy) – Meal                 |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Filet-O-Fish                               | $3.79 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Filet-O-Fish – Meal                        | $5.79 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Double Filet-O-Fish                        | $4.79 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Double Filet-O-Fish – Meal                 | $6.79 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Premium Chicken Bacon Clubhouse (Grilled   | $4.49 |
+| s-prices/?redir                             | or Crispy)                                 |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Premium Chicken Bacon Clubhouse (Grilled   | $6.49 |
+| s-prices/?redir                             | or Crispy) – Meal                          |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Nuggets                                    |       |
+| s-prices/?redir                             | Meals Include Medium French Fries or Salad |       |
+|                                             | & Soft Drink                               |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Chicken McNuggets                          | $4.49 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Chicken McNuggets – Meal                   | $6.49 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Chicken McNuggets                          | $5.00 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Chicken McNuggets                          | $8.99 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Salads                                     |       |
+| s-prices/?redir                             | Grilled or Crispy Chicken                  |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Southwest Salad                            | $4.79 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Bacon Ranch Salad                          | $4.59 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | McPick 2 for $2                            |       |
+| s-prices/?redir                             | Limited Time                               |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Entree (McDouble or McChicken) & Side      | $2.00 |
+| s-prices/?redir                             | (Small Fries or 3 Pc. Mozzarella Sticks)   |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Snacks & Sides                             |       |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Chicken Ranch Snack Wrap (Grilled or       | $1.69 |
+| s-prices/?redir                             | Crispy)                                    |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | French Fries                               | $1.39 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | French Fries                               | $1.79 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | French Fries                               | $1.89 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Mozzarella Sticks                          | $1.19 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | McValue Menu & More                        |       |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Grilled Onion Cheddar Burger               | $1.00 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | McDouble                                   | $1.39 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | McChicken                                  | $1.29 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | BBQ Ranch Burger                           | $1.00 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Cheeseburger                               | $1.00 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Double Cheeseburger                        | $1.69 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Daily Double                               | $1.99 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Bacon McDouble                             | $2.00 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | 4 Pc. Chicken McNuggets                    | $1.99 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | 20 Pc. Chicken McNuggets                   | $5.00 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Parfait                                    | $1.00 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Side Salad                                 | $1.59 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | 3 Cookies                                  | $1.00 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Cone                                       | $1.00 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Apple Slices                               | $1.00 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | McValue Breakfast Menu                     |       |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Sausage Burrito                            | $1.29 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Sausage McMuffin                           | $1.19 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Sausage Biscuit                            | $1.19 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Hash Browns                                | $1.09 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Egg & Cheese Biscuit                       | $1.39 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Cinnamon Melt                              | $1.69 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | McCafe Drinks                              |       |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Smoothie (Mango Pineapple, Strawberry      | $2.39 |
+| s-prices/?redir                             | Banana, or Blueberry Pomegranate)          |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Smoothie (Mango Pineapple, Strawberry      | $2.89 |
+| s-prices/?redir                             | Banana, or Blueberry Pomegranate)          |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Smoothie (Mango Pineapple, Strawberry      | $3.39 |
+| s-prices/?redir                             | Banana, or Blueberry Pomegranate)          |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Frappe (Mocha, Caramel, or Chocolate Chip) | $2.39 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Frappe (Mocha, Caramel, or Chocolate Chip) | $2.89 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Frappe (Mocha, Caramel, or Chocolate Chip) | $3.39 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Espresso & Chocolate (Mocha, Caramel       | $2.39 |
+| s-prices/?redir                             | Mocha, Iced Mocha, Iced Caramel Mocha,     |       |
+|                                             | Latte, Hot Chocolate, White Chocolate      |       |
+|                                             | Mocha or White Hot Chocolate)              |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Espresso & Chocolate (Mocha, Caramel       | $2.89 |
+| s-prices/?redir                             | Mocha, Iced Mocha, Iced Caramel Mocha,     |       |
+|                                             | Latte, Hot Chocolate, White Chocolate      |       |
+|                                             | Mocha or White Hot Chocolate)              |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Espresso & Chocolate (Mocha, Caramel       | $3.39 |
+| s-prices/?redir                             | Mocha, Iced Mocha, Iced Caramel Mocha,     |       |
+|                                             | Latte, Hot Chocolate, White Chocolate      |       |
+|                                             | Mocha or White Hot Chocolate)              |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Premium Roast Coffee                       | $1.00 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Premium Roast Coffee                       | $1.29 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Premium Roast Coffee                       | $1.49 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Iced Coffee                                | $1.39 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Iced Coffee                                | $1.79 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Iced Coffee                                | $1.99 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Sweet Tea                                  | $1.00 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Sweet Tea                                  | $1.29 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Sweet Tea                                  | $1.49 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Soft Drink                                 | $1.00 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Soft Drink                                 | $1.29 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Soft Drink                                 | $1.49 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Orange Juice                               | $1.59 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Orange Juice                               | $1.89 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Orange Juice                               | $2.09 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Milk                                       | $1.00 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Dasani Water                               | $1.00 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Sweet Treats                               |       |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Shake (Chocolate, Vanilla, or Strawberry)  | $2.19 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Shake (Chocolate, Vanilla, or Strawberry)  | $2.59 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Shake (Chocolate, Vanilla, or Strawberry)  | $2.99 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Shamrock Shake (Limited Time)              | $2.19 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Shamrock Shake (Limited Time)              | $2.59 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Shamrock Shake (Limited Time)              | $2.99 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Sundae (Hot Fudge or Caramel)              | $1.29 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Apple Pie                                  | $0.99 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Cone (Vanilla)                             | $1.00 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | McFlurry                                   | $1.79 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | McFlurry                                   | $2.39 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Soft Baked Chocolate Chip Cookie           | $0.39 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Soft Baked Chocolate Chip Cookie           | $1.00 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Strawberry & Creme Pie (Limited Time)      | $0.99 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Happy Meal                                 |       |
+| s-prices/?redir                             | Includes Kids French Fries, Side & Drink   |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Chicken McNuggets                          | $3.29 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Hamburger                                  | $2.49 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Cheeseburger                               | $2.79 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Mighty Kids Meal                           |       |
+| s-prices/?redir                             | Includes Small French Fries, Side & Drink  |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Chicken McNuggets                          | $3.99 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Breakfast Meals                            |       |
+| s-prices/?redir                             | Meals Include Hash Browns and Small Coffee |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Egg White Delight McMuffin                 | $2.79 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Egg White Delight McMuffin – Meal          | $3.99 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Egg McMuffin                               | $2.79 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Egg McMuffin – Meal                        | $3.99 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Sausage McMuffin with Egg                  | $2.99 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Sausage McMuffin with Egg – Meal           | $4.19 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Bacon, Egg & Cheese Biscuit                | $3.19 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Bacon, Egg & Cheese Biscuit – Meal         | $4.39 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Sausage Biscuit with Egg                   | $2.79 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Sausage Biscuit with Egg – Meal            | $3.99 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Sausage Gravy & Biscuit                    | $2.89 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Sausage Gravy & Biscuit – Meal             | $4.89 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Bacon, Egg & Cheese McGriddles             | $3.29 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Bacon, Egg & Cheese McGriddles – Meal      | $4.49 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Sausage, Egg & Cheese McGriddles           | $3.29 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Sausage, Egg & Cheese McGriddles – Meal    | $4.49 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Sausage McGriddles                         | $2.79 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Sausage McGriddles – Meal                  | $4.49 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Bacon, Egg & Cheese Bagel                  | $3.29 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Bacon, Egg & Cheese Bagel – Meal           | $4.99 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Steak, Egg & Cheese Bagel                  | $3.99 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Steak, Egg & Cheese Bagel – Meal           | $5.19 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | 2 Sausage Burritos                         | $2.39 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | 2 Sausage Burritos – Meal                  | $4.29 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Morning Platters                           |       |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Big Breakfast with Hot Cakes               | $5.49 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Big Breakfast                              | $3.69 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Sausage Gravy & Biscuit                    | $2.99 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | 3 Hot Cakes with Sausage                   | $3.19 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | 3 Hot Cakes                                | $2.49 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Oatmeal                                    |       |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+
+| https://www.fastfoodmenuprices.com/mcdonald | Fruit & Maple Oatmeal                      | $1.99 |
+| s-prices/?redir                             |                                            |       |
++---------------------------------------------+--------------------------------------------+-------+

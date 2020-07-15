@@ -1,0 +1,165 @@
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| url     | Analyti | Analyti | Analyti | Indexed | Biz_Nam | Biz_Nam | Off_Scr | Off_Scr | Review |
+|         | cs_Imag | cs_Imag | cs_Imag | _Biz    | e_Click | e_Click | een     | een_alt | _Count |
+|         | e       | e_alt   | e_link  |         |         | _link   |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Mon Ami | https:/ | 1       | Mon Ami | https:/ | https:/ | 4.0     | 7735 r |
+| /www.ye | /s3-med | Gabi    | /www.ye |         | Gabi    | /www.ye | /s3-med | star    | eviews |
+| lp.com/ | ia3.fl. |         | lp.com/ |         |         | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn |         | biz/mon |         |         | biz/mon | yelpcdn |         |        |
+| find_de | .com/bp |         | -ami-   |         |         | -ami-   | .com/as |         |        |
+| sc=&fin | hoto/8Q |         | gabi-   |         |         | gabi-   | sets/sr |         |        |
+| d_loc=L | ULBxrkg |         | las-    |         |         | las-    | v0/yelp |         |        |
+| as+Vega | i8d_ieE |         | vegas-2 |         |         | vegas-2 | _design |         |        |
+| s%2C+NV | awGJAQ/ |         |         |         |         |         | _web/9b |         |        |
+| &ns=1   | 90s.jpg |         |         |         |         |         | 34e39cc |         |        |
+|         |         |         |         |         |         |         | beb/ass |         |        |
+|         |         |         |         |         |         |         | ets/img |         |        |
+|         |         |         |         |         |         |         | /stars/ |         |        |
+|         |         |         |         |         |         |         | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Earl of | https:/ | 2       | Earl of | https:/ | https:/ | 4.5     | 4924 r |
+| /www.ye | /s3-med | Sandwic | /www.ye |         | Sandwic | /www.ye | /s3-med | star    | eviews |
+| lp.com/ | ia4.fl. | h       | lp.com/ |         | h       | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn |         | biz/ear |         |         | biz/ear | yelpcdn |         |        |
+| find_de | .com/bp |         | l-of-sa |         |         | l-of-sa | .com/as |         |        |
+| sc=&fin | hoto/z4 |         | ndwich- |         |         | ndwich- | sets/sr |         |        |
+| d_loc=L | 44WzW6t |         | las-    |         |         | las-    | v0/yelp |         |        |
+| as+Vega | 2Ve1vSP |         | vegas   |         |         | vegas   | _design |         |        |
+| s%2C+NV | elEvug/ |         |         |         |         |         | _web/9b |         |        |
+| &ns=1   | 90s.jpg |         |         |         |         |         | 34e39cc |         |        |
+|         |         |         |         |         |         |         | beb/ass |         |        |
+|         |         |         |         |         |         |         | ets/img |         |        |
+|         |         |         |         |         |         |         | /stars/ |         |        |
+|         |         |         |         |         |         |         | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Gangnam | https:/ | 3       | Gangnam | https:/ | https:/ | 4.5     | 3515 r |
+| /www.ye | /s3-med | Asian   | /www.ye |         | Asian   | /www.ye | /s3-med | star    | eviews |
+| lp.com/ | ia1.fl. | BBQ     | lp.com/ |         | BBQ     | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn | Dining  | biz/gan |         | Dining  | biz/gan | yelpcdn |         |        |
+| find_de | .com/bp |         | gnam-   |         |         | gnam-   | .com/as |         |        |
+| sc=&fin | hoto/Sr |         | asian-  |         |         | asian-  | sets/sr |         |        |
+| d_loc=L | M8q-cGp |         | bbq-    |         |         | bbq-    | v0/yelp |         |        |
+| as+Vega | bX5RJUY |         | dining- |         |         | dining- | _design |         |        |
+| s%2C+NV | iEFFrQ/ |         | las-    |         |         | las-    | _web/9b |         |        |
+| &ns=1   | 90s.jpg |         | vegas-2 |         |         | vegas-2 | 34e39cc |         |        |
+|         |         |         |         |         |         |         | beb/ass |         |        |
+|         |         |         |         |         |         |         | ets/img |         |        |
+|         |         |         |         |         |         |         | /stars/ |         |        |
+|         |         |         |         |         |         |         | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Yardbir | https:/ | 4       | Yardbir | https:/ | https:/ | 4.5     | 2634 r |
+| /www.ye | /s3-med | d South | /www.ye |         | d South | /www.ye | /s3-med | star    | eviews |
+| lp.com/ | ia2.fl. | ern     | lp.com/ |         | ern     | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn | Table & | biz/yar |         | Table & | biz/yar | yelpcdn |         |        |
+| find_de | .com/bp | Bar     | dbird-s |         | Bar     | dbird-s | .com/as |         |        |
+| sc=&fin | hoto/Lv |         | outhern |         |         | outhern | sets/sr |         |        |
+| d_loc=L | AbNDFiF |         | -table- |         |         | -table- | v0/yelp |         |        |
+| as+Vega | pAL_smf |         | and-    |         |         | and-    | _design |         |        |
+| s%2C+NV | 1lUM-g/ |         | bar-    |         |         | bar-    | _web/9b |         |        |
+| &ns=1   | 90s.jpg |         | las-    |         |         | las-    | 34e39cc |         |        |
+|         |         |         | vegas   |         |         | vegas   | beb/ass |         |        |
+|         |         |         |         |         |         |         | ets/img |         |        |
+|         |         |         |         |         |         |         | /stars/ |         |        |
+|         |         |         |         |         |         |         | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Bacchan | https:/ | 5       | Bacchan | https:/ | https:/ | 4.0     | 7598 r |
+| /www.ye | /s3-med | al      | /www.ye |         | al      | /www.ye | /s3-med | star    | eviews |
+| lp.com/ | ia4.fl. | Buffet  | lp.com/ |         | Buffet  | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn |         | biz/bac |         |         | biz/bac | yelpcdn |         |        |
+| find_de | .com/bp |         | chanal- |         |         | chanal- | .com/as |         |        |
+| sc=&fin | hoto/T6 |         | buffet- |         |         | buffet- | sets/sr |         |        |
+| d_loc=L | p2zmAdE |         | las-    |         |         | las-    | v0/yelp |         |        |
+| as+Vega | RYge9Rh |         | vegas-7 |         |         | vegas-7 | _design |         |        |
+| s%2C+NV | Yk2Y0Q/ |         |         |         |         |         | _web/9b |         |        |
+| &ns=1   | 90s.jpg |         |         |         |         |         | 34e39cc |         |        |
+|         |         |         |         |         |         |         | beb/ass |         |        |
+|         |         |         |         |         |         |         | ets/img |         |        |
+|         |         |         |         |         |         |         | /stars/ |         |        |
+|         |         |         |         |         |         |         | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | The     | https:/ | 6       | The     | https:/ | https:/ | 4.5     | 2245 r |
+| /www.ye | /s3-med | Oyster  | /www.ye |         | Oyster  | /www.ye | /s3-med | star    | eviews |
+| lp.com/ | ia3.fl. | Bar     | lp.com/ |         | Bar     | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn |         | biz/the |         |         | biz/the | yelpcdn |         |        |
+| find_de | .com/bp |         | -       |         |         | -       | .com/as |         |        |
+| sc=&fin | hoto/XR |         | oyster- |         |         | oyster- | sets/sr |         |        |
+| d_loc=L | OPF2Gj_ |         | bar-    |         |         | bar-    | v0/yelp |         |        |
+| as+Vega | w0nhHvd |         | las-    |         |         | las-    | _design |         |        |
+| s%2C+NV | 2-pzPA/ |         | vegas-2 |         |         | vegas-2 | _web/9b |         |        |
+| &ns=1   | 90s.jpg |         |         |         |         |         | 34e39cc |         |        |
+|         |         |         |         |         |         |         | beb/ass |         |        |
+|         |         |         |         |         |         |         | ets/img |         |        |
+|         |         |         |         |         |         |         | /stars/ |         |        |
+|         |         |         |         |         |         |         | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Egg & I | https:/ | 7       | Egg & I | https:/ | https:/ | 4.5     | 2789 r |
+| /www.ye | /s3-med |         | /www.ye |         |         | /www.ye | /s3-med | star    | eviews |
+| lp.com/ | ia3.fl. |         | lp.com/ |         |         | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn |         | biz/egg |         |         | biz/egg | yelpcdn |         |        |
+| find_de | .com/bp |         | -and-i- |         |         | -and-i- | .com/as |         |        |
+| sc=&fin | hoto/vl |         | las-    |         |         | las-    | sets/sr |         |        |
+| d_loc=L | SPp57h1 |         | vegas   |         |         | vegas   | v0/yelp |         |        |
+| as+Vega | jI7Y0Ba |         |         |         |         |         | _design |         |        |
+| s%2C+NV | BIE4kg/ |         |         |         |         |         | _web/9b |         |        |
+| &ns=1   | 90s.jpg |         |         |         |         |         | 34e39cc |         |        |
+|         |         |         |         |         |         |         | beb/ass |         |        |
+|         |         |         |         |         |         |         | ets/img |         |        |
+|         |         |         |         |         |         |         | /stars/ |         |        |
+|         |         |         |         |         |         |         | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Secret  | https:/ | 8       | Secret  | https:/ | https:/ | 4.0     | 3950 r |
+| /www.ye | /s3-med | Pizza   | /www.ye |         | Pizza   | /www.ye | /s3-med | star    | eviews |
+| lp.com/ | ia2.fl. |         | lp.com/ |         |         | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn |         | biz/sec |         |         | biz/sec | yelpcdn |         |        |
+| find_de | .com/bp |         | ret-    |         |         | ret-    | .com/as |         |        |
+| sc=&fin | hoto/aU |         | pizza-  |         |         | pizza-  | sets/sr |         |        |
+| d_loc=L | EiGRhpk |         | las-    |         |         | las-    | v0/yelp |         |        |
+| as+Vega | JD9VCiV |         | vegas   |         |         | vegas   | _design |         |        |
+| s%2C+NV | sCViNw/ |         |         |         |         |         | _web/9b |         |        |
+| &ns=1   | 90s.jpg |         |         |         |         |         | 34e39cc |         |        |
+|         |         |         |         |         |         |         | beb/ass |         |        |
+|         |         |         |         |         |         |         | ets/img |         |        |
+|         |         |         |         |         |         |         | /stars/ |         |        |
+|         |         |         |         |         |         |         | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Rollin  | https:/ | 9       | Rollin  | https:/ | https:/ | 4.5     | 2539 r |
+| /www.ye | /s3-med | Smoke B | /www.ye |         | Smoke B | /www.ye | /s3-med | star    | eviews |
+| lp.com/ | ia3.fl. | arbeque | lp.com/ |         | arbeque | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn |         | biz/rol |         |         | biz/rol | yelpcdn |         |        |
+| find_de | .com/bp |         | lin-    |         |         | lin-    | .com/as |         |        |
+| sc=&fin | hoto/bo |         | smoke-b |         |         | smoke-b | sets/sr |         |        |
+| d_loc=L | CTmkhQT |         | arbeque |         |         | arbeque | v0/yelp |         |        |
+| as+Vega | _TtjTJx |         | -las-   |         |         | -las-   | _design |         |        |
+| s%2C+NV | wAX67Q/ |         | vegas   |         |         | vegas   | _web/9b |         |        |
+| &ns=1   | 90s.jpg |         |         |         |         |         | 34e39cc |         |        |
+|         |         |         |         |         |         |         | beb/ass |         |        |
+|         |         |         |         |         |         |         | ets/img |         |        |
+|         |         |         |         |         |         |         | /stars/ |         |        |
+|         |         |         |         |         |         |         | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | Hash    | https:/ | 10      | Hash    | https:/ | https:/ | 4.0     | 5171 r |
+| /www.ye | /s3-med | House A | /www.ye |         | House A | /www.ye | /s3-med | star    | eviews |
+| lp.com/ | ia3.fl. | Go Go   | lp.com/ |         | Go Go   | lp.com/ | ia2.fl. | rating  |        |
+| search? | yelpcdn |         | biz/has |         |         | biz/has | yelpcdn |         |        |
+| find_de | .com/bp |         | h-      |         |         | h-      | .com/as |         |        |
+| sc=&fin | hoto/XR |         | house-  |         |         | house-  | sets/sr |         |        |
+| d_loc=L | mqr-QiN |         | a-go-   |         |         | a-go-   | v0/yelp |         |        |
+| as+Vega | Wa34yYA |         | go-las- |         |         | go-las- | _design |         |        |
+| s%2C+NV | rKE8tg/ |         | vegas-5 |         |         | vegas-5 | _web/9b |         |        |
+| &ns=1   | 90s.jpg |         |         |         |         |         | 34e39cc |         |        |
+|         |         |         |         |         |         |         | beb/ass |         |        |
+|         |         |         |         |         |         |         | ets/img |         |        |
+|         |         |         |         |         |         |         | /stars/ |         |        |
+|         |         |         |         |         |         |         | stars.p |         |        |
+|         |         |         |         |         |         |         | ng      |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+

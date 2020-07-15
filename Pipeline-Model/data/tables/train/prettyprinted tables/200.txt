@@ -1,0 +1,34 @@
++-------------------------+-------------------------+------------------------+---------------------+
+| url                     | Holidays                | Holidays_link          | Date                |
++-------------------------+-------------------------+------------------------+---------------------+
+| https://www.calendardat | New Years Day 2018      | https://www.calendarda | - Monday, Jan 1     |
+| e.com/easter_2018.htm   |                         | te.com/new_years_day_2 |                     |
+|                         |                         | 018.htm                |                     |
++-------------------------+-------------------------+------------------------+---------------------+
+| https://www.calendardat | Martin Luther King 2018 | https://www.calendarda | - Monday, Jan 15    |
+| e.com/easter_2018.htm   |                         | te.com/martin_luther_k |                     |
+|                         |                         | ing_day_2018.htm       |                     |
++-------------------------+-------------------------+------------------------+---------------------+
+| https://www.calendardat | Valentines Day 2018     | https://www.calendarda | - Wednesday, Feb 14 |
+| e.com/easter_2018.htm   |                         | te.com/valentines_day_ |                     |
+|                         |                         | 2018.htm               |                     |
++-------------------------+-------------------------+------------------------+---------------------+
+| https://www.calendardat | Presidents Day 2018     | https://www.calendarda | - Monday, Feb 19    |
+| e.com/easter_2018.htm   |                         | te.com/presidents_day_ |                     |
+|                         |                         | 2018.htm               |                     |
++-------------------------+-------------------------+------------------------+---------------------+
+| https://www.calendardat | St. Patrick's Day 2018  | https://www.calendarda | - Saturday, Mar 17  |
+| e.com/easter_2018.htm   |                         | te.com/st_patricks_day |                     |
+|                         |                         | _2018.htm              |                     |
++-------------------------+-------------------------+------------------------+---------------------+
+| https://www.calendardat | Easter 2018             | https://www.calendarda | - Sunday, Apr 1     |
+| e.com/easter_2018.htm   |                         | te.com/easter_2018.htm |                     |
++-------------------------+-------------------------+------------------------+---------------------+
+| https://www.calendardat | Mothers Day 2018        | https://www.calendarda | - Sunday, May 13    |
+| e.com/easter_2018.htm   |                         | te.com/mothers_day_201 |                     |
+|                         |                         | 8.htm                  |                     |
++-------------------------+-------------------------+------------------------+---------------------+
+| https://www.calendardat | Memorial Day 2018       | https://www.calendarda | - Monday, May 28    |
+| e.com/easter_2018.htm   |                         | te.com/memorial_day_20 |                     |
+|                         |                         | 18.htm                 |                     |
++-------------------------+-------------------------+------------------------+---------------------+

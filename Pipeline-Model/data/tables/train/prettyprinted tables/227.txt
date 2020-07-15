@@ -1,0 +1,40 @@
++-----------------------------------------+--------------+-----------------------------------------+
+| url                                     | Property     | Value                                   |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Jane_Fond | Born         | Jane Seymour Fonda                      |
+| a                                       |              |  (1937-12-21) December 21, 1937 (age    |
+|                                         |              | 80)                                     |
+|                                         |              |  New York City, New York, U.S.          |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Jane_Fond | Citizenship  | American                                |
+| a                                       |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Jane_Fond | Occupation   | Actress, writer, activist               |
+| a                                       |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Jane_Fond | Years active | 1960–present                            |
+| a                                       |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Jane_Fond | Spouse(s)    | Roger Vadim                             |
+| a                                       |              |  (m. 1965; div. 1973)                   |
+|                                         |              |                                         |
+|                                         |              | Tom Hayden                              |
+|                                         |              |  (m. 1973; div. 1990)                   |
+|                                         |              |                                         |
+|                                         |              | Ted Turner                              |
+|                                         |              |  (m. 1991; div. 2001)                   |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Jane_Fond | Partner(s)   | Richard Perry (2009–2017)               |
+| a                                       |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Jane_Fond | Children     | 3, including:                           |
+| a                                       |              |  Troy Garity                            |
+|                                         |              |  Mary Luana Williams (unofficial        |
+|                                         |              | adoption)                               |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Jane_Fond | Parent(s)    | Henry Fonda                             |
+| a                                       |              |  Frances Ford Seymour                   |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Jane_Fond | Relatives    | Peter Fonda (brother)                   |
+| a                                       |              |  Bridget Fonda (niece)                  |
++-----------------------------------------+--------------+-----------------------------------------+

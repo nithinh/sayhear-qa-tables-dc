@@ -1,0 +1,168 @@
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| url     | Charact | Actor   | Actor_l | Rank1   | Rank2   | Rank2_l | Role1   | Role2   | Role2_ |
+|         | er      |         | ink     |         |         | ink     |         |         | link   |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Hawkeye | Alan    | https:/ | Captain | Captain | https:/ | Chief   | Chief   | https: |
+| /en.wik | Pierce; | Alda    | /en.wik |         |         | /en.wik | surgeon | surgeon | //en.w |
+| ipedia. | Hawkeye |         | ipedia. |         |         | ipedia. |         |         | ikiped |
+| org/wik | Pierce  |         | org/wik |         |         | org/wik |         |         | ia.org |
+| i/M*A*S |         |         | i/Alan_ |         |         | i/Capta |         |         | /wiki/ |
+| *H_(TV_ |         |         | Alda    |         |         | in_(Uni |         |         | Surger |
+| series) |         |         |         |         |         | ted_Sta |         |         | y      |
+|         |         |         |         |         |         | tes_O-3 |         |         |        |
+|         |         |         |         |         |         | )       |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Margare | Loretta | https:/ | Major   | Major   | https:/ | Head    | nurse;  | https: |
+| /en.wik | t "Hot  | Swit    | /en.wik |         |         | /en.wik | nurse,  | adjutan | //en.w |
+| ipedia. | Lips" H |         | ipedia. |         |         | ipedia. |  tempor | t       | ikiped |
+| org/wik | oulihan |         | org/wik |         |         | org/wik | ary adj |         | ia.org |
+| i/M*A*S | ; Marga |         | i/Loret |         |         | i/Major | utant   |         | /wiki/ |
+| *H_(TV_ | ret     |         | ta_Swit |         |         | _(Unite |         |         | Nurse; |
+| series) | "Hot    |         |         |         |         | d_State |         |         | https: |
+|         | Lips" H |         |         |         |         | s)      |         |         | //en.w |
+|         | oulihan |         |         |         |         |         |         |         | ikiped |
+|         |         |         |         |         |         |         |         |         | ia.org |
+|         |         |         |         |         |         |         |         |         | /wiki/ |
+|         |         |         |         |         |         |         |         |         | Adjuta |
+|         |         |         |         |         |         |         |         |         | nt     |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Max     | Jamie   | https:/ | Corpora | Corpora | https:/ | Corpsma |         |        |
+| /en.wik | Klinger | Farr    | /en.wik | l,      | l; serg | /en.wik | n,      |         |        |
+| ipedia. |  (Recur |         | ipedia. |  later  | eant    | ipedia. |  later  |         |        |
+| org/wik | ring    |         | org/wik | sergean |         | org/wik | company |         |        |
+| i/M*A*S | seasons |         | i/Jamie | t       |         | i/Corpo | clerk   |         |        |
+| *H_(TV_ | 1–3,    |         | _Farr   |         |         | ral; ht |         |         |        |
+| series) | regular |         |         |         |         | tps://e |         |         |        |
+|         | 4–11);  |         |         |         |         | n.wikip |         |         |        |
+|         | Max Kli |         |         |         |         | edia.or |         |         |        |
+|         | nger; ( |         |         |         |         | g/wiki/ |         |         |        |
+|         | Recurri |         |         |         |         | Sergean |         |         |        |
+|         | ng      |         |         |         |         | t       |         |         |        |
+|         | seasons |         |         |         |         |         |         |         |        |
+|         | 1–3,    |         |         |         |         |         |         |         |        |
+|         | regular |         |         |         |         |         |         |         |        |
+|         | 4–11)   |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Father  | William | https:/ | First l | First l | https:/ | Chaplai | Chaplai | https: |
+| /en.wik | Mulcahy | Christo | /en.wik | ieutena | ieutena | /en.wik | n       | n       | //en.w |
+| ipedia. |  (recur | pher    | ipedia. | nt,     | nt;     | ipedia. |         |         | ikiped |
+| org/wik | ring    |         | org/wik |  later  | captain | org/wik |         |         | ia.org |
+| i/M*A*S | seasons |         | i/Willi | captain |         | i/First |         |         | /wiki/ |
+| *H_(TV_ | 1–4,    |         | am_Chri |         |         | _lieute |         |         | Chapla |
+| series) | regular |         | stopher |         |         | nant; h |         |         | in     |
+|         | 5–11);  |         |         |         |         | ttps:// |         |         |        |
+|         | Father  |         |         |         |         | en.wiki |         |         |        |
+|         | Mulcahy |         |         |         |         | pedia.o |         |         |        |
+|         | ; (recu |         |         |         |         | rg/wiki |         |         |        |
+|         | rring   |         |         |         |         | /Captai |         |         |        |
+|         | seasons |         |         |         |         | n_(Unit |         |         |        |
+|         | 1–4,    |         |         |         |         | ed_Stat |         |         |        |
+|         | regular |         |         |         |         | es_O-3) |         |         |        |
+|         | 5–11)   |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Trapper | Wayne   | https:/ | Captain |         |         | Surgeon |         |        |
+| /en.wik | John Mc | Rogers  | /en.wik |         |         |         |         |         |        |
+| ipedia. | Intyre  |         | ipedia. |         |         |         |         |         |        |
+| org/wik |  (seaso |         | org/wik |         |         |         |         |         |        |
+| i/M*A*S | ns      |         | i/Wayne |         |         |         |         |         |        |
+| *H_(TV_ | 1–3);   |         | _Rogers |         |         |         |         |         |        |
+| series) | Trapper |         |         |         |         |         |         |         |        |
+|         | John Mc |         |         |         |         |         |         |         |        |
+|         | Intyre; |         |         |         |         |         |         |         |        |
+|         | (season |         |         |         |         |         |         |         |        |
+|         | s 1–3)  |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Henry   | McLean  | https:/ | Lieuten | Lieuten | https:/ | Command | Command | https: |
+| /en.wik | Blake   | Stevens | /en.wik | ant     | ant     | /en.wik | ing off | ing     | //en.w |
+| ipedia. |  (seaso | on      | ipedia. | colonel | colonel | ipedia. | icer,   | officer | ikiped |
+| org/wik | ns      |         | org/wik |         |         | org/wik | surgeon |         | ia.org |
+| i/M*A*S | 1–3);   |         | i/McLea |         |         | i/Lieut |         |         | /wiki/ |
+| *H_(TV_ | Henry   |         | n_Steve |         |         | enant_c |         |         | Comman |
+| series) | Blake;  |         | nson    |         |         | olonel_ |         |         | ding_o |
+|         | (season |         |         |         |         | (United |         |         | fficer |
+|         | s 1–3)  |         |         |         |         | _States |         |         |        |
+|         |         |         |         |         |         | )       |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Frank   | Larry L | https:/ | Major,  |         |         | Surgeon | executi | https: |
+| /en.wik | Burns   | inville | /en.wik |  later  |         |         | , execu | ve      | //en.w |
+| ipedia. |  (seaso |         | ipedia. | lieuten |         |         | tive    | officer | ikiped |
+| org/wik | ns      |         | org/wik | ant     |         |         | officer |         | ia.org |
+| i/M*A*S | 1–5);   |         | i/Larry | colonel |         |         |  tempor |         | /wiki/ |
+| *H_(TV_ | Frank   |         | _Linvil | (off-   |         |         | ary com |         | Execut |
+| series) | Burns;  |         | le      | screen) |         |         | manding |         | ive_of |
+|         | (season |         |         |         |         |         | officer |         | ficer  |
+|         | s 1–5)  |         |         |         |         |         | (follow |         |        |
+|         |         |         |         |         |         |         | ing the |         |        |
+|         |         |         |         |         |         |         | death   |         |        |
+|         |         |         |         |         |         |         | of      |         |        |
+|         |         |         |         |         |         |         | Henry   |         |        |
+|         |         |         |         |         |         |         | Blake)  |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Radar O | Gary Bu | https:/ | Corpora | second  | https:/ | Company | bugler  | https: |
+| /en.wik | 'Reilly | rghoff  | /en.wik | l       | lieuten | /en.wik | clerk,  |         | //en.w |
+| ipedia. |  (seaso |         | ipedia. |  (one   | ant     | ipedia. |  bugler |         | ikiped |
+| org/wik | ns      |         | org/wik | episode |         | org/wik |         |         | ia.org |
+| i/M*A*S | 1–8);   |         | i/Gary_ | as      |         | i/Secon |         |         | /wiki/ |
+| *H_(TV_ | Radar O |         | Burghof | second  |         | d_lieut |         |         | Bugler |
+| series) | 'Reilly |         | f       | lieuten |         | enant   |         |         |        |
+|         | ; (seas |         |         | ant due |         |         |         |         |        |
+|         | ons     |         |         | to fals |         |         |         |         |        |
+|         | 1–8)    |         |         | ified p |         |         |         |         |        |
+|         |         |         |         | romotio |         |         |         |         |        |
+|         |         |         |         | n)      |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | B. J. H | Mike    | https:/ | Captain |         |         | Surgeon |         |        |
+| /en.wik | unnicut | Farrell | /en.wik |         |         |         |         |         |        |
+| ipedia. | t       |         | ipedia. |         |         |         |         |         |        |
+| org/wik |  (repla |         | org/wik |         |         |         |         |         |        |
+| i/M*A*S | ced Tra |         | i/Mike_ |         |         |         |         |         |        |
+| *H_(TV_ | pper;   |         | Farrell |         |         |         |         |         |        |
+| series) | seasons |         |         |         |         |         |         |         |        |
+|         | 4–11);  |         |         |         |         |         |         |         |        |
+|         | B. J. H |         |         |         |         |         |         |         |        |
+|         | unnicut |         |         |         |         |         |         |         |        |
+|         | t; (rep |         |         |         |         |         |         |         |        |
+|         | laced T |         |         |         |         |         |         |         |        |
+|         | rapper; |         |         |         |         |         |         |         |        |
+|         | ;       |         |         |         |         |         |         |         |        |
+|         | seasons |         |         |         |         |         |         |         |        |
+|         | 4–11)   |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Sherman | Harry   | https:/ | Colonel | Colonel | https:/ | Command |         |        |
+| /en.wik | Potter  | Morgan  | /en.wik |         |         | /en.wik | ing     |         |        |
+| ipedia. |  (repla |         | ipedia. |         |         | ipedia. | officer |         |        |
+| org/wik | ced     |         | org/wik |         |         | org/wik | (after  |         |        |
+| i/M*A*S | Henry   |         | i/Harry |         |         | i/Colon | Lt.     |         |        |
+| *H_(TV_ | Blake;  |         | _Morgan |         |         | el_(Uni | Col.    |         |        |
+| series) | Seasons |         |         |         |         | ted_Sta | Blake), |         |        |
+|         | 4–11);  |         |         |         |         | tes)    | surgeon |         |        |
+|         | Sherman |         |         |         |         |         |         |         |        |
+|         | Potter; |         |         |         |         |         |         |         |        |
+|         | (replac |         |         |         |         |         |         |         |        |
+|         | ed      |         |         |         |         |         |         |         |        |
+|         | Henry   |         |         |         |         |         |         |         |        |
+|         | Blake;; |         |         |         |         |         |         |         |        |
+|         | Seasons |         |         |         |         |         |         |         |        |
+|         | 4–11)   |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | Charles | David   | https:/ | Major   |         |         | Surgeon |         |        |
+| /en.wik | Emerson | Ogden   | /en.wik |         |         |         | , execu |         |        |
+| ipedia. | Winches | Stiers  | ipedia. |         |         |         | tive    |         |        |
+| org/wik | ter III |         | org/wik |         |         |         | officer |         |        |
+| i/M*A*S |  (repla |         | i/David |         |         |         | (after  |         |        |
+| *H_(TV_ | ced     |         | _Ogden_ |         |         |         | Major   |         |        |
+| series) | Frank   |         | Stiers  |         |         |         | Burns)  |         |        |
+|         | Burns;  |         |         |         |         |         |         |         |        |
+|         | seasons |         |         |         |         |         |         |         |        |
+|         | 6–11);  |         |         |         |         |         |         |         |        |
+|         | Charles |         |         |         |         |         |         |         |        |
+|         | Emerson |         |         |         |         |         |         |         |        |
+|         | Winches |         |         |         |         |         |         |         |        |
+|         | ter     |         |         |         |         |         |         |         |        |
+|         | III; (r |         |         |         |         |         |         |         |        |
+|         | eplaced |         |         |         |         |         |         |         |        |
+|         | Frank   |         |         |         |         |         |         |         |        |
+|         | Burns;; |         |         |         |         |         |         |         |        |
+|         | seasons |         |         |         |         |         |         |         |        |
+|         | 6–11)   |         |         |         |         |         |         |         |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+

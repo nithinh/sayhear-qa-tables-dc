@@ -1,0 +1,1026 @@
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| url             | Release_1       | Status | Currency        | Currency_link   | Description     |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2009; 2009      | Active | Bitcoin         | https://en.wiki | 2009            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Bitcoin         | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Bitcoin         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | BTC,[4][5] XBT, |
+|                 |                 |        |                 |                 | ₿              |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Satoshi         |
+|                 |                 |        |                 |                 | Nakamoto[nt 1]  |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | SHA-256d[6][7]  |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C++[8]          |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW[7][9]       |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | The first       |
+|                 |                 |        |                 |                 | decentralized   |
+|                 |                 |        |                 |                 | ledger          |
+|                 |                 |        |                 |                 | currency.       |
+|                 |                 |        |                 |                 | Cryptocurrency  |
+|                 |                 |        |                 |                 | with the most   |
+|                 |                 |        |                 |                 | famous,         |
+|                 |                 |        |                 |                 | popular,        |
+|                 |                 |        |                 |                 | notable and     |
+|                 |                 |        |                 |                 | highest market  |
+|                 |                 |        |                 |                 | capitalization. |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2011; 2011      | Active | Litecoin        | https://en.wiki | 2011            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Litecoin        | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Litecoin        |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | LTC, Ł          |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Charlie Lee     |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Scrypt          |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C++[10]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | The first       |
+|                 |                 |        |                 |                 | cryptocurrency  |
+|                 |                 |        |                 |                 | to use Scrypt   |
+|                 |                 |        |                 |                 | as a hashing    |
+|                 |                 |        |                 |                 | algorithm.      |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2011; 2011      | Active | Namecoin        | https://en.wiki | 2011            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Namecoin        | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Namecoin        |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | NMC             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Vincent         |
+|                 |                 |        |                 |                 | Durham[11][12]  |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | SHA-256d        |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C++[13]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Also acts as an |
+|                 |                 |        |                 |                 | alternative,    |
+|                 |                 |        |                 |                 | decentralized   |
+|                 |                 |        |                 |                 | DNS.            |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2011; 2011      | Active | SwiftCoin       | https://en.wiki | 2011            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | SwiftCoin       | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | SwiftCoin       |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | STC             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Daniel Bruno    |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | SHA-256         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | First digital   |
+|                 |                 |        |                 |                 | coin with       |
+|                 |                 |        |                 |                 | theoretical     |
+|                 |                 |        |                 |                 | value based on  |
+|                 |                 |        |                 |                 | the work        |
+|                 |                 |        |                 |                 | required to     |
+|                 |                 |        |                 |                 | produce         |
+|                 |                 |        |                 |                 | electricity.    |
+|                 |                 |        |                 |                 | First block     |
+|                 |                 |        |                 |                 | chain to        |
+|                 |                 |        |                 |                 | support         |
+|                 |                 |        |                 |                 | currency        |
+|                 |                 |        |                 |                 | creation by     |
+|                 |                 |        |                 |                 | interest paid   |
+|                 |                 |        |                 |                 | on debt.        |
+|                 |                 |        |                 |                 | Solidus Bond    |
+|                 |                 |        |                 |                 | proto smart-    |
+|                 |                 |        |                 |                 | contract. One   |
+|                 |                 |        |                 |                 | of the first    |
+|                 |                 |        |                 |                 | digital coins   |
+|                 |                 |        |                 |                 | patented in the |
+|                 |                 |        |                 |                 | US. First block |
+|                 |                 |        |                 |                 | chain to        |
+|                 |                 |        |                 |                 | support         |
+|                 |                 |        |                 |                 | encrypted mail  |
+|                 |                 |        |                 |                 | with            |
+|                 |                 |        |                 |                 | attachments.    |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2012; 2012      | Active | Bytecoin        | https://en.wiki | 2012            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Bytecoin_(crypt | Active          |
+| urrencies       |                 |        |                 | ocurrency)      |                 |
+|                 |                 |        |                 |                 | Bytecoin        |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | BCN             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | CryptoNote      |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C++[14]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | First           |
+|                 |                 |        |                 |                 | cryptocurrency  |
+|                 |                 |        |                 |                 | based on the    |
+|                 |                 |        |                 |                 | CryptoNote      |
+|                 |                 |        |                 |                 | algorithm.      |
+|                 |                 |        |                 |                 | Focused on user |
+|                 |                 |        |                 |                 | privacy through |
+|                 |                 |        |                 |                 | impassive and   |
+|                 |                 |        |                 |                 | anonymous       |
+|                 |                 |        |                 |                 | transactions    |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2012; 2012      | Active | Peercoin        | https://en.wiki | 2012            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Peercoin        | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Peercoin        |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PPC             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Sunny King      |
+|                 |                 |        |                 |                 | (pseudonym)[15] |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | SHA-256d[16]    |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C++[17]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW & PoS       |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | The first       |
+|                 |                 |        |                 |                 | cryptocurrency  |
+|                 |                 |        |                 |                 | to use POW and  |
+|                 |                 |        |                 |                 | POS functions.  |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2013; 2013      | Active | Dogecoin        | https://en.wiki | 2013            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Dogecoin        | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Dogecoin        |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | DOGE, XDG, Ð    |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Jackson Palmer  |
+|                 |                 |        |                 |                 |  & Billy        |
+|                 |                 |        |                 |                 | Markus[18]      |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Scrypt[19]      |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C++[20]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Based on an     |
+|                 |                 |        |                 |                 | internet meme.  |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2013; 2013      | Active | Emercoin        | https://en.wiki | 2013            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Emercoin        | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Emercoin        |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | EMC             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | EvgenijM86 &    |
+|                 |                 |        |                 |                 | Yitshak Dorfman |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | SHA-256         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C++[21]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW & PoS       |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Trusted storage |
+|                 |                 |        |                 |                 | for any small   |
+|                 |                 |        |                 |                 | data: acts as   |
+|                 |                 |        |                 |                 | an alternative, |
+|                 |                 |        |                 |                 | decentralized   |
+|                 |                 |        |                 |                 | DNS, PKI store, |
+|                 |                 |        |                 |                 | SSL             |
+|                 |                 |        |                 |                 | infrastructure  |
+|                 |                 |        |                 |                 | and other.      |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2013[22]; 2013  | Active | Feathercoin     | https://en.wiki | 2013[22]        |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Feathercoin     | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Feathercoin     |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | FTC, ₣          |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Peter Bushnell, |
+|                 |                 |        |                 |                 | Brasenose       |
+|                 |                 |        |                 |                 | College of      |
+|                 |                 |        |                 |                 | Oxford          |
+|                 |                 |        |                 |                 | University      |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | NeoScrypt       |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C++[23]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | N/A             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Approx. 60      |
+|                 |                 |        |                 |                 | seconds block   |
+|                 |                 |        |                 |                 | time            |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2013[24][25];   | Active | Gridcoin        | https://en.wiki | 2013[24][25]    |
+| pedia.org/wiki/ | 2013            |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Gridcoin        | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Gridcoin        |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | GRC             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Rob Hälford     |
+|                 |                 |        |                 |                 | [26]            |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Scrypt          |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C++[27]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Decentralized   |
+|                 |                 |        |                 |                 | PoS             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | The first       |
+|                 |                 |        |                 |                 | cryptocurrency  |
+|                 |                 |        |                 |                 | linked to       |
+|                 |                 |        |                 |                 | citizen science |
+|                 |                 |        |                 |                 | through the     |
+|                 |                 |        |                 |                 | Berkeley Open   |
+|                 |                 |        |                 |                 | Infrastructure  |
+|                 |                 |        |                 |                 | for Network Com |
+|                 |                 |        |                 |                 | puting[28][29]  |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2013; 2013      | Active | Primecoin       | https://en.wiki | 2013            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Primecoin       | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Primecoin       |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | XPM             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Sunny King      |
+|                 |                 |        |                 |                 | (pseudonym)[15] |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | 1CC/2CC/TWN[30] |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | TypeScript,     |
+|                 |                 |        |                 |                 | C++[31]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW[30]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Uses the        |
+|                 |                 |        |                 |                 | finding of      |
+|                 |                 |        |                 |                 | prime chains    |
+|                 |                 |        |                 |                 | composed of     |
+|                 |                 |        |                 |                 | Cunningham      |
+|                 |                 |        |                 |                 | chains and bi-  |
+|                 |                 |        |                 |                 | twin chains for |
+|                 |                 |        |                 |                 | proof-of-work,  |
+|                 |                 |        |                 |                 | which can lead  |
+|                 |                 |        |                 |                 | to useful       |
+|                 |                 |        |                 |                 | byproducts.     |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2013; 2013      | Active | Ripple          | https://en.wiki | 2013            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Ripple_(payment | Active          |
+| urrencies       |                 |        |                 | _protocol)      |                 |
+|                 |                 |        |                 |                 | Ripple[32][33][ |
+|                 |                 |        |                 |                 | 34]             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | XRP[34]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Chris Larsen &  |
+|                 |                 |        |                 |                 |  Jed            |
+|                 |                 |        |                 |                 | McCaleb[35]     |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | ECDSA[36]       |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C++[37]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | "Consensus"     |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Designed for    |
+|                 |                 |        |                 |                 | peer to peer    |
+|                 |                 |        |                 |                 | debt transfer.  |
+|                 |                 |        |                 |                 | Not based on    |
+|                 |                 |        |                 |                 | bitcoin.        |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2013; 2013      | Active | Nxt             | https://en.wiki | 2013            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Nxt             | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Nxt             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | NXT             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | BCNext          |
+|                 |                 |        |                 |                 |  (pseudonym)    |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | SHA-256d[38]    |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Java[39]        |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoS             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Specifically    |
+|                 |                 |        |                 |                 | designed as a   |
+|                 |                 |        |                 |                 | flexible        |
+|                 |                 |        |                 |                 | platform to     |
+|                 |                 |        |                 |                 | build           |
+|                 |                 |        |                 |                 | applications    |
+|                 |                 |        |                 |                 | and financial   |
+|                 |                 |        |                 |                 | services around |
+|                 |                 |        |                 |                 | its protocol.   |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2014; 2014      | Active | Auroracoin      | https://en.wiki | 2014            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Auroracoin      | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Auroracoin      |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | AUR             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Baldur Odinsson |
+|                 |                 |        |                 |                 | (pseudonym)[40] |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Scrypt          |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C++[41]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Created as an   |
+|                 |                 |        |                 |                 | alternative to  |
+|                 |                 |        |                 |                 | fiat currency   |
+|                 |                 |        |                 |                 | in Iceland.     |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2014; 2014      |        | Coinye          | https://en.wiki | 2014            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Coinye          | Inactive        |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Coinye          |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | KOI, COYE       |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Scrypt          |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Used American   |
+|                 |                 |        |                 |                 | hip hop artist  |
+|                 |                 |        |                 |                 | Kanye West as   |
+|                 |                 |        |                 |                 | its mascot,     |
+|                 |                 |        |                 |                 | abandoned after |
+|                 |                 |        |                 |                 | trademark       |
+|                 |                 |        |                 |                 | lawsuit.        |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2014; 2014      | Active | Dash            | https://en.wiki | 2014            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Dash_(cryptocur | Active          |
+| urrencies       |                 |        |                 | rency)          |                 |
+|                 |                 |        |                 |                 | Dash            |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | DASH            |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Evan Duffield & |
+|                 |                 |        |                 |                 |  Kyle Hagan[42] |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | X11             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C++[43]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW & Proof of  |
+|                 |                 |        |                 |                 | Service[nt 2]   |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | A bitcoin-based |
+|                 |                 |        |                 |                 | currency        |
+|                 |                 |        |                 |                 | featuring       |
+|                 |                 |        |                 |                 | instant         |
+|                 |                 |        |                 |                 | transactions,   |
+|                 |                 |        |                 |                 | decentralized   |
+|                 |                 |        |                 |                 | governance and  |
+|                 |                 |        |                 |                 | budgeting, and  |
+|                 |                 |        |                 |                 | private         |
+|                 |                 |        |                 |                 | transactions.   |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2014; 2014      | Active | NEO             | https://en.wiki | 2014            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | NEO_(cryptocurr | Active          |
+| urrencies       |                 |        |                 | ency)           |                 |
+|                 |                 |        |                 |                 | NEO             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | NEO             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Da Hongfei &    |
+|                 |                 |        |                 |                 | Erik Zhang      |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | SHA-256 &       |
+|                 |                 |        |                 |                 | RIPEMD160       |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C#[44]          |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | dBFT            |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Chinese based   |
+|                 |                 |        |                 |                 | cryptocurrency  |
+|                 |                 |        |                 |                 | (formerly ANT   |
+|                 |                 |        |                 |                 | Shares which    |
+|                 |                 |        |                 |                 | produce ANT     |
+|                 |                 |        |                 |                 | Coins) name     |
+|                 |                 |        |                 |                 | change August   |
+|                 |                 |        |                 |                 | 2017 to NEO and |
+|                 |                 |        |                 |                 | GAs, these      |
+|                 |                 |        |                 |                 | enable the      |
+|                 |                 |        |                 |                 | development of  |
+|                 |                 |        |                 |                 | digital assets  |
+|                 |                 |        |                 |                 | and smart       |
+|                 |                 |        |                 |                 | contracts.      |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2014; 2014      | Active | MazaCoin        | https://en.wiki | 2014            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | MazaCoin        | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | MazaCoin        |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | MZC             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | BTC Oyate       |
+|                 |                 |        |                 |                 | Initiative      |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | SHA-256d        |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C++[45]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | The underlying  |
+|                 |                 |        |                 |                 | software is     |
+|                 |                 |        |                 |                 | derived from    |
+|                 |                 |        |                 |                 | that of another |
+|                 |                 |        |                 |                 | cryptocurrency, |
+|                 |                 |        |                 |                 | ZetaCoin.       |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2014; 2014      | Active | Monero          | https://en.wiki | 2014            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Monero_(cryptoc | Active          |
+| urrencies       |                 |        |                 | urrency)        |                 |
+|                 |                 |        |                 |                 | Monero          |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | XMR             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Monero Core     |
+|                 |                 |        |                 |                 | Team            |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | CryptoNight[46] |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C++[47]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Privacy-centric |
+|                 |                 |        |                 |                 | coin using the  |
+|                 |                 |        |                 |                 | CryptoNote      |
+|                 |                 |        |                 |                 | protocol with   |
+|                 |                 |        |                 |                 | improvements    |
+|                 |                 |        |                 |                 | for scalability |
+|                 |                 |        |                 |                 | and decentraliz |
+|                 |                 |        |                 |                 | ation.          |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2014; 2014      | Active | NEM             | https://en.wiki | 2014            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | NEM_(cryptocurr | Active          |
+| urrencies       |                 |        |                 | ency)           |                 |
+|                 |                 |        |                 |                 | NEM             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | XEM             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | UtopianFuture   |
+|                 |                 |        |                 |                 | (pseudonym)     |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | SHA3-512        |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Java[48]        |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | POI             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | The first       |
+|                 |                 |        |                 |                 | hybrid          |
+|                 |                 |        |                 |                 | public/private  |
+|                 |                 |        |                 |                 | blockchain      |
+|                 |                 |        |                 |                 | solution built  |
+|                 |                 |        |                 |                 | from scratch,   |
+|                 |                 |        |                 |                 | and first to    |
+|                 |                 |        |                 |                 | use the Proof   |
+|                 |                 |        |                 |                 | of Importance   |
+|                 |                 |        |                 |                 | algorithm using |
+|                 |                 |        |                 |                 | EigenTrust++    |
+|                 |                 |        |                 |                 | reputation      |
+|                 |                 |        |                 |                 | system.         |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2015; 2015      | Active | Tether          | https://en.wiki | 2015            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Tether_(cryptoc | Active          |
+| urrencies       |                 |        |                 | urrency)        |                 |
+|                 |                 |        |                 |                 | Tether          |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | USDT            |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Jan Ludovicus   |
+|                 |                 |        |                 |                 | van der         |
+|                 |                 |        |                 |                 | Velde[49]       |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Omnicore [50]   |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Tether is       |
+|                 |                 |        |                 |                 | backed by the   |
+|                 |                 |        |                 |                 | USD so that one |
+|                 |                 |        |                 |                 | tether is       |
+|                 |                 |        |                 |                 | exactly equal   |
+|                 |                 |        |                 |                 | to $1USD. It is |
+|                 |                 |        |                 |                 | commonly used   |
+|                 |                 |        |                 |                 | to convert      |
+|                 |                 |        |                 |                 | other cryptocur |
+|                 |                 |        |                 |                 | rencies to      |
+|                 |                 |        |                 |                 | USD.[51]        |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2014; 2014      | Active | PotCoin         | https://en.wiki | 2014            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | PotCoin         | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PotCoin         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | POT             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Potcoin core    |
+|                 |                 |        |                 |                 | dev team        |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Scrypt          |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C++[52]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoS             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Developed to    |
+|                 |                 |        |                 |                 | service the     |
+|                 |                 |        |                 |                 | legalized       |
+|                 |                 |        |                 |                 | cannabis        |
+|                 |                 |        |                 |                 | industry        |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2014; 2014      | Active | Synereo AMP     | https://en.wiki | 2014            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Synereo         | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Synereo AMP     |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | AMP             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Dor Konforty &  |
+|                 |                 |        |                 |                 | Greg            |
+|                 |                 |        |                 |                 | Meredith[53]    |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoS             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Scala, Java[54] |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoS             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Trying to       |
+|                 |                 |        |                 |                 | create a world  |
+|                 |                 |        |                 |                 | computer,       |
+|                 |                 |        |                 |                 | Synereo’s 2.0   |
+|                 |                 |        |                 |                 | tech stack      |
+|                 |                 |        |                 |                 | incorporates    |
+|                 |                 |        |                 |                 | all faculties   |
+|                 |                 |        |                 |                 | needed to       |
+|                 |                 |        |                 |                 | support         |
+|                 |                 |        |                 |                 | decentralized   |
+|                 |                 |        |                 |                 | computation     |
+|                 |                 |        |                 |                 | without central |
+|                 |                 |        |                 |                 | servers.[55]    |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2014; 2014      | Active | Titcoin         | https://en.wiki | 2014            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Titcoin         | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Titcoin         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | TIT             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Edward          |
+|                 |                 |        |                 |                 | Mansfield &     |
+|                 |                 |        |                 |                 | Richard         |
+|                 |                 |        |                 |                 | Allen[56]       |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | SHA-256d        |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | TypeScript,     |
+|                 |                 |        |                 |                 | C++[57]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | The first       |
+|                 |                 |        |                 |                 | cryptocurrency  |
+|                 |                 |        |                 |                 | to be nominated |
+|                 |                 |        |                 |                 | for a major     |
+|                 |                 |        |                 |                 | adult industry  |
+|                 |                 |        |                 |                 | award.[58]      |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2014; 2014      | Active | Verge           | https://en.wiki | 2014            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Verge_(cryptocu | Active          |
+| urrencies       |                 |        |                 | rrency)         |                 |
+|                 |                 |        |                 |                 | Verge           |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | XVG             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Sunerok         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Scrypt, x17,    |
+|                 |                 |        |                 |                 | groestl,        |
+|                 |                 |        |                 |                 | blake2s, and    |
+|                 |                 |        |                 |                 | lyra2rev2       |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C, C++[59]      |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW             |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2014; 2014      | Active | Stellar         | https://en.wiki | 2014            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Stellar_(paymen | Active          |
+| urrencies       |                 |        |                 | t_network)      |                 |
+|                 |                 |        |                 |                 | Stellar         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | XLM             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Jed McCaleb     |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Stellar         |
+|                 |                 |        |                 |                 | Consensus       |
+|                 |                 |        |                 |                 | Protocol (SCP)  |
+|                 |                 |        |                 |                 | [60]            |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C, C++[61]      |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Stellar         |
+|                 |                 |        |                 |                 | Consensus       |
+|                 |                 |        |                 |                 | Protocol (SCP)  |
+|                 |                 |        |                 |                 | [60]            |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Open-source,    |
+|                 |                 |        |                 |                 | decentralized   |
+|                 |                 |        |                 |                 | global          |
+|                 |                 |        |                 |                 | financial       |
+|                 |                 |        |                 |                 | network. The    |
+|                 |                 |        |                 |                 | usage is for    |
+|                 |                 |        |                 |                 | remittances,    |
+|                 |                 |        |                 |                 | micropayments,  |
+|                 |                 |        |                 |                 | services for    |
+|                 |                 |        |                 |                 | the             |
+|                 |                 |        |                 |                 | underbanked,    |
+|                 |                 |        |                 |                 | mobile          |
+|                 |                 |        |                 |                 | money/branches  |
+|                 |                 |        |                 |                 | and             |
+|                 |                 |        |                 |                 | professional    |
+|                 |                 |        |                 |                 | setups.         |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2014; 2014      | Active | Vertcoin        | https://en.wiki | 2014            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Vertcoin        | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Vertcoin        |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | VTC             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Bushido         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Lyra2RE[62]     |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C++[63]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Next-gen ASIC   |
+|                 |                 |        |                 |                 | resistance and  |
+|                 |                 |        |                 |                 | first to        |
+|                 |                 |        |                 |                 | implement       |
+|                 |                 |        |                 |                 | stealth         |
+|                 |                 |        |                 |                 | addresses.      |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2015; 2015      | Active | Ether           | https://en.wiki | 2015            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Ether_(currency | Active          |
+| urrencies       |                 |        |                 | )               |                 |
+|                 |                 |        |                 |                 | Ether or        |
+|                 |                 |        |                 |                 | "Ethereum"      |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | ETH             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Vitalik         |
+|                 |                 |        |                 |                 | Buterin[64]     |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Ethash[65]      |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C++, Go[66]     |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Supports        |
+|                 |                 |        |                 |                 | Turing-complete |
+|                 |                 |        |                 |                 | smart           |
+|                 |                 |        |                 |                 | contracts.      |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2015; 2015      | Active | Ethereum        | https://en.wiki | 2015            |
+| pedia.org/wiki/ |                 |        | Classic         | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Ethereum_Classi | Active          |
+| urrencies       |                 |        |                 | c               |                 |
+|                 |                 |        |                 |                 | Ethereum        |
+|                 |                 |        |                 |                 | Classic         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | ETC             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Ethash[65]      |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | An alternative  |
+|                 |                 |        |                 |                 | version of      |
+|                 |                 |        |                 |                 | Ethereum[67]    |
+|                 |                 |        |                 |                 | whose           |
+|                 |                 |        |                 |                 | blockchain does |
+|                 |                 |        |                 |                 | not include the |
+|                 |                 |        |                 |                 | DAO Hard-       |
+|                 |                 |        |                 |                 | fork.[68][69]   |
+|                 |                 |        |                 |                 | Supports        |
+|                 |                 |        |                 |                 | Turing-complete |
+|                 |                 |        |                 |                 | smart           |
+|                 |                 |        |                 |                 | contracts.      |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2015; 2015      | Active | IOTA            | https://en.wiki | 2015            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | IOTA_(cryptocur | Active          |
+| urrencies       |                 |        |                 | rency)          |                 |
+|                 |                 |        |                 |                 | IOTA            |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | IOT, MIOTA[70]  |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | David Sønstebø, |
+|                 |                 |        |                 |                 | Sergey          |
+|                 |                 |        |                 |                 | Ivancheglo,     |
+|                 |                 |        |                 |                 | Dominik         |
+|                 |                 |        |                 |                 | Schiener and    |
+|                 |                 |        |                 |                 | Dr. Serguei     |
+|                 |                 |        |                 |                 | Popov           |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | SHA-3           |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Java[71]        |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Directed        |
+|                 |                 |        |                 |                 | acyclic graph   |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | The first       |
+|                 |                 |        |                 |                 | cryptocurrency  |
+|                 |                 |        |                 |                 | using the       |
+|                 |                 |        |                 |                 | Tangle, a next  |
+|                 |                 |        |                 |                 | generation      |
+|                 |                 |        |                 |                 | blockchain, as  |
+|                 |                 |        |                 |                 | distributed     |
+|                 |                 |        |                 |                 | ledger          |
+|                 |                 |        |                 |                 | technology.     |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2016; 2016      | Active | Decred          | https://en.wiki | 2016            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Decred          | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Decred          |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | DCR             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Blake-256       |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Go[72]          |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW/PoS Hybrid  |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Built in        |
+|                 |                 |        |                 |                 | governance and  |
+|                 |                 |        |                 |                 | hybrid PoW/PoS. |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2016; 2016      | Active | Waves Platform  | https://en.wiki | 2016            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Waves_Platform  | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Waves Platform  |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | WAVES           |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Sasha Ivanov    |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoS             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Scala,          |
+|                 |                 |        |                 |                 | JavaScript[73]  |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoS             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Open blockchain |
+|                 |                 |        |                 |                 | platform,       |
+|                 |                 |        |                 |                 | featuring token |
+|                 |                 |        |                 |                 | creation,       |
+|                 |                 |        |                 |                 | distributed     |
+|                 |                 |        |                 |                 | exchange and    |
+|                 |                 |        |                 |                 | fast, high      |
+|                 |                 |        |                 |                 | volume,         |
+|                 |                 |        |                 |                 | transactions    |
+|                 |                 |        |                 |                 | designed for    |
+|                 |                 |        |                 |                 | ease of use[74] |
+|                 |                 |        |                 |                 | and mass        |
+|                 |                 |        |                 |                 | adoption.       |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2016; 2016      | Active | Zcash           | https://en.wiki | 2016            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Zcash           | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Zcash           |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | ZEC             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Zooko Wilcox    |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Equihash        |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C++[75]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | The first open, |
+|                 |                 |        |                 |                 | permissionless  |
+|                 |                 |        |                 |                 | financial       |
+|                 |                 |        |                 |                 | system          |
+|                 |                 |        |                 |                 | employing zero- |
+|                 |                 |        |                 |                 | knowledge       |
+|                 |                 |        |                 |                 | security.       |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2017; 2017      |        | BitConnect      | https://en.wiki | 2017            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | BitConnect      | Inactive        |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | BitConnect      |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | BCC             |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2017; 2017      | Active | Bitcoin Cash    | https://en.wiki | 2017            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Bitcoin_Cash    | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Bitcoin Cash    |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | BCH[76]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | SHA-256d        |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | PoW             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Hard fork from  |
+|                 |                 |        |                 |                 | Bitcoin,        |
+|                 |                 |        |                 |                 | Increased Block |
+|                 |                 |        |                 |                 | size from 1mb   |
+|                 |                 |        |                 |                 | to 8mb          |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2017; 2017      | Active | EOS.IO          | https://en.wiki | 2017            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | EOS.IO          | Active          |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | EOS.IO          |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | EOS             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Dan Larimer     |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | WebAssembly,    |
+|                 |                 |        |                 |                 | Rust, C,        |
+|                 |                 |        |                 |                 | C++[77]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | delegated       |
+|                 |                 |        |                 |                 | Proof-of-stake  |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Feeless Smart   |
+|                 |                 |        |                 |                 | contract        |
+|                 |                 |        |                 |                 | platform for    |
+|                 |                 |        |                 |                 | decentralized   |
+|                 |                 |        |                 |                 | applications    |
+|                 |                 |        |                 |                 | and             |
+|                 |                 |        |                 |                 | decentralized   |
+|                 |                 |        |                 |                 | autonomous      |
+|                 |                 |        |                 |                 | corporations    |
+|                 |                 |        |                 |                 | with a block    |
+|                 |                 |        |                 |                 | time of 500     |
+|                 |                 |        |                 |                 | ms.[78][77]     |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2018; 2018      | Active | Cardano         | https://en.wiki | 2018            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Cardano_(crypto | Active          |
+| urrencies       |                 |        |                 | currency)       |                 |
+|                 |                 |        |                 |                 | Cardano         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | ADA             |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Charles         |
+|                 |                 |        |                 |                 | Hoskinson &     |
+|                 |                 |        |                 |                 | Jeremy Wood     |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Haskell[79]     |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2018; 2018      |        | KodakCoin       | https://en.wiki | 2018            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | KodakCoin       | Inactive        |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | KodakCoin       |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Kodak and WENN  |
+|                 |                 |        |                 |                 | Digital         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Ethash[80]      |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | KodakCoin is a  |
+|                 |                 |        |                 |                 | "photographer-  |
+|                 |                 |        |                 |                 | centric"        |
+|                 |                 |        |                 |                 | blockchain      |
+|                 |                 |        |                 |                 | cryptocurrency  |
+|                 |                 |        |                 |                 | used for        |
+|                 |                 |        |                 |                 | payments for    |
+|                 |                 |        |                 |                 | licensing       |
+|                 |                 |        |                 |                 | photographs.    |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2018; 2018      | Active | Petro           | https://en.wiki | 2018            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Petro_(cryptocu | Active          |
+| urrencies       |                 |        |                 | rrency)         |                 |
+|                 |                 |        |                 |                 | Petro           |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Venezuela       |
+|                 |                 |        |                 |                 | Government      |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | onixCoin[81]    |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | C++[82]         |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | First           |
+|                 |                 |        |                 |                 | cryptocurrency  |
+|                 |                 |        |                 |                 | backed by       |
+|                 |                 |        |                 |                 | Venezuela's     |
+|                 |                 |        |                 |                 | reserves of     |
+|                 |                 |        |                 |                 | oil.            |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+
+| https://en.wiki | 2018; 2018      |        | Petro gold      | https://en.wiki | 2018            |
+| pedia.org/wiki/ |                 |        |                 | pedia.org/wiki/ |                 |
+| List_of_cryptoc |                 |        |                 | Petro_gold      | Proposed        |
+| urrencies       |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Petro gold      |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Venezuela       |
+|                 |                 |        |                 |                 | Government      |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 |                 |
+|                 |                 |        |                 |                 | Announced by    |
+|                 |                 |        |                 |                 | President       |
+|                 |                 |        |                 |                 | Nicolás Maduro  |
+|                 |                 |        |                 |                 | February 21,    |
+|                 |                 |        |                 |                 | 2018            |
++-----------------+-----------------+--------+-----------------+-----------------+-----------------+

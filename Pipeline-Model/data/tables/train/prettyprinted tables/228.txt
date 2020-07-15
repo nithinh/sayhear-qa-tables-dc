@@ -1,0 +1,61 @@
++-----------------------------------------+--------------+-----------------------------------------+
+| url                                     | Key          | Value                                   |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Jimmy_Kim | Birth name   | James Christian Kimmel                  |
+| mel                                     |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Jimmy_Kim | Born         | (1967-11-13) November 13, 1967 (age     |
+| mel                                     |              | 50)[1]                                  |
+|                                         |              |  Brooklyn, New York, U.S.[2]            |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Jimmy_Kim | Medium       | Television                              |
+| mel                                     |              |                                         |
+|                                         |              | film                                    |
+|                                         |              |                                         |
+|                                         |              | radio                                   |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Jimmy_Kim | Years active | 1989–present                            |
+| mel                                     |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Jimmy_Kim | Genres       | Observational comedy                    |
+| mel                                     |              |                                         |
+|                                         |              | black comedy                            |
+|                                         |              |                                         |
+|                                         |              | insult comedy                           |
+|                                         |              |                                         |
+|                                         |              | surreal humor                           |
+|                                         |              |                                         |
+|                                         |              | satire                                  |
+|                                         |              |                                         |
+|                                         |              | deadpan                                 |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Jimmy_Kim | Subject(s)   | American culture                        |
+| mel                                     |              |                                         |
+|                                         |              | American politics                       |
+|                                         |              |                                         |
+|                                         |              | everyday life                           |
+|                                         |              |                                         |
+|                                         |              | pop culture                             |
+|                                         |              |                                         |
+|                                         |              | gender differences                      |
+|                                         |              |                                         |
+|                                         |              | human behavior                          |
+|                                         |              |                                         |
+|                                         |              | human sexuality                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Jimmy_Kim | Spouse       | Gina Maddy (m. 1988; div. 2002)         |
+| mel                                     |              |                                         |
+|                                         |              | Molly McNearney (m. 2013)               |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Jimmy_Kim | Children     | 4                                       |
+| mel                                     |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Jimmy_Kim | Relative(s)  | Jonathan Kimmel (brother)               |
+| mel                                     |              |                                         |
+|                                         |              | Frank Potenza (uncle)                   |
+|                                         |              |                                         |
+|                                         |              | Sal Iacono (cousin)                     |
++-----------------------------------------+--------------+-----------------------------------------+
+| https://en.wikipedia.org/wiki/Jimmy_Kim | Website      | Official website                        |
+| mel                                     |              |                                         |
++-----------------------------------------+--------------+-----------------------------------------+

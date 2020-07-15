@@ -1,0 +1,81 @@
++--------------------------------+--------------------------------+--------------------------------+
+| url                            | key                            | value                          |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Former names; Former names     | Franklin College               |
+| University_of_Georgia          |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Motto                          | Et docere et rerum exquirere   |
+| University_of_Georgia          |                                | causas                         |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Motto in English; Motto in     | Both to teach and to inquire   |
+| University_of_Georgia          | English                        | into the nature of things.     |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Type                           | Flagship university            |
+| University_of_Georgia          |                                | Public research university     |
+|                                |                                | Land-grant university          |
+|                                |                                | Regional Sun Grant university  |
+|                                |                                | National Sea Grant university  |
+|                                |                                | National Space Grant           |
+|                                |                                | university                     |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Established                    | January 27, 1785 (1785-01-27)  |
+| University_of_Georgia          |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Parent institution             | University System of Georgia   |
+| University_of_Georgia          |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Academic affiliation; Academic | SURA                           |
+| University_of_Georgia          | affiliation                    |  GRA                           |
+|                                |                                |  USOG                          |
+|                                |                                |  ORAU                          |
+|                                |                                | APLU                           |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Endowment                      | $2.67 billion (2016)[2]        |
+| University_of_Georgia          |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | President                      | Jere W. Morehead               |
+| University_of_Georgia          |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Provost                        | Pamela Whitten[3]              |
+| University_of_Georgia          |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Academic staff; Academic staff | 3,240[4]                       |
+| University_of_Georgia          |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Students                       | 37,606[4]                      |
+| University_of_Georgia          |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Undergraduates                 | 28,848[4]                      |
+| University_of_Georgia          |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Postgraduates                  | 8,758[4]                       |
+| University_of_Georgia          |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Location                       | Athens, Georgia, U.S.          |
+| University_of_Georgia          |                                | 33°57′21″N 83°22′28″W /        |
+|                                |                                | 33.9558°N 83.3745°W / 33.9558; |
+|                                |                                | -83.3745Coordinates:           |
+|                                |                                | 33°57′21″N 83°22′28″W /        |
+|                                |                                | 33.9558°N 83.3745°W / 33.9558; |
+|                                |                                | -83.3745                       |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Campus                         | University town; 762 acres     |
+| University_of_Georgia          |                                | (3.08 km2) (Main campus)       |
+|                                |                                | 41,539 acres (168.10 km2)      |
+|                                |                                | (Total).[4]                    |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Colors                         | Red, Black[5]                  |
+| University_of_Georgia          |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Nickname                       | Bulldogs & Lady Bulldogs       |
+| University_of_Georgia          |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Sporting affiliations;         | NCAA Division I FBS – SEC      |
+| University_of_Georgia          | Sporting affiliations          |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Mascot                         | Uga (live English Bulldog)     |
+| University_of_Georgia          |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| https://en.wikipedia.org/wiki/ | Website                        | uga.edu                        |
+| University_of_Georgia          |                                |                                |
++--------------------------------+--------------------------------+--------------------------------+

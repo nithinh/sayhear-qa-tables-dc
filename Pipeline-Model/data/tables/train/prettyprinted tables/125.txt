@@ -1,0 +1,35 @@
++------------------------+------------------------+------------------------+-----------------------+
+| url                    | Key                    | Key_link               | Value                 |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Developer(s);          | ; https://en.wikipedia | Rockstar Studios      |
+| rg/wiki/Red_Dead_Redem | Developer(s)           | .org/wiki/Video_game_d |                       |
+| ption_2                |                        | eveloper               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Publisher(s);          | ; https://en.wikipedia | Rockstar Games        |
+| rg/wiki/Red_Dead_Redem | Publisher(s)           | .org/wiki/Video_game_p |                       |
+| ption_2                |                        | ublisher               |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Series                 |                        | Red Dead              |
+| rg/wiki/Red_Dead_Redem |                        |                        |                       |
+| ption_2                |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Engine; Engine         | ; https://en.wikipedia | RAGE                  |
+| rg/wiki/Red_Dead_Redem |                        | .org/wiki/Game_engine  |                       |
+| ption_2                |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Platform(s);           | ; https://en.wikipedia | PlayStation 4         |
+| rg/wiki/Red_Dead_Redem | Platform(s)            | .org/wiki/Computing_pl |                       |
+| ption_2                |                        | atform                 | Xbox One              |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Release                |                        | October 26, 2018      |
+| rg/wiki/Red_Dead_Redem |                        |                        |                       |
+| ption_2                |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Genre(s); Genre(s)     | ; https://en.wikipedia | Action-adventure      |
+| rg/wiki/Red_Dead_Redem |                        | .org/wiki/Video_game_g |                       |
+| ption_2                |                        | enre                   |                       |
++------------------------+------------------------+------------------------+-----------------------+
+| https://en.wikipedia.o | Mode(s)                |                        | Single-player,        |
+| rg/wiki/Red_Dead_Redem |                        |                        | multiplayer           |
+| ption_2                |                        |                        |                       |
++------------------------+------------------------+------------------------+-----------------------+

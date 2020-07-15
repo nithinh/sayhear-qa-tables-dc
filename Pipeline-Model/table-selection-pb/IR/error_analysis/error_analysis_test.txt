@@ -1,0 +1,206 @@
+
+--------------------------------------------------------------------
+
+0-->13
+
+Q0.	Alexa when was the moon landing 
+Q13.	What is Wikipedia 
+
+alexa	1.7196	0.0298		0.0000
+moon	1.4886	0.0000		0.0105
+land	1.1831	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+1-->19
+
+Q1.	What day is Chinese New Years 
+Q19.	Where do I find the best condoms in Miami 
+
+what	0.8931	0.0021		0.0000
+day	0.5188	0.0024		0.0012
+chines	0.0000	0.0000		0.0000
+new	0.5522	0.0000		0.1250
+year	0.4651	0.0000		0.1063
+
+--------------------------------------------------------------------
+
+8-->44
+
+Q8.	How long do cats live 
+Q44.	What is the superbowl being televised on channel in new england 
+
+how	1.2897	0.1098		0.0000
+long	0.8418	0.0000		0.0000
+cat	1.2897	0.0000		0.4299
+live	1.0151	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+13-->24
+
+Q13.	What is Wikipedia 
+Q24.	Alexa what year did Michigan become a state 
+
+what	2.2329	0.0049		0.0000
+wikipedia	1.2254	0.0000		0.3967
+
+--------------------------------------------------------------------
+
+14-->13
+
+Q14.	Alexa where is the University of Georgia located 
+Q13.	What is Wikipedia 
+
+alexa	1.2897	0.0298		0.0000
+univers	0.9431	0.0000		0.3399
+georgia	0.7404	0.0000		0.2135
+locat	0.8418	0.0000		0.0101
+
+--------------------------------------------------------------------
+
+24-->13
+
+Q24.	Alexa what year did Michigan become a state 
+Q13.	What is Wikipedia 
+
+alexa	1.0318	0.0298		0.0000
+year	0.4651	0.0134		0.0025
+michigan	0.6734	0.0000		0.0074
+becom	0.8931	0.0000		0.0000
+state	0.4902	0.0000		0.0214
+
+--------------------------------------------------------------------
+
+25-->13
+
+Q25.	Alexa how old are the pyramids 
+Q13.	What is Wikipedia 
+
+alexa	1.7196	0.0298		0.0000
+old	1.4886	0.0000		0.0000
+pyramid	1.7196	0.0000		0.0355
+
+--------------------------------------------------------------------
+
+28-->35
+
+Q28.	When are taxes due 
+Q35.	Does a loan from my 401k count as taxable income 
+
+when	1.4886	0.0000		0.0000
+tax	1.3534	0.0745		0.3505
+due	1.7196	0.0473		0.0000
+
+--------------------------------------------------------------------
+
+31-->19
+
+Q31.	What time does Best Buy close 
+Q19.	Where do I find the best condoms in Miami 
+
+what	0.8931	0.0021		0.0000
+time	0.4773	0.0011		0.0000
+best	0.7099	0.0017		0.0000
+buy	0.8931	0.0000		0.0000
+close	0.8121	0.0000		0.0655
+
+--------------------------------------------------------------------
+
+37-->48
+
+Q37.	Alexa what time does wal mart close 
+Q48.	Alexa where is the Super Bowl being played this year 
+
+alexa	1.0318	0.0000		0.0000
+time	0.4773	0.0000		0.0000
+wal	0.0000	0.0000		0.0000
+mart	1.0318	0.0169		0.0000
+close	0.8121	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+40-->13
+
+Q40.	Alexa what is the population of Boston MA 
+Q13.	What is Wikipedia 
+
+alexa	1.2897	0.0298		0.0000
+popul	1.0151	0.0000		0.2482
+boston	1.1164	0.0000		0.0027
+MA	0.0000	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+43-->23
+
+Q43.	When is Groundhog Day 
+Q23.	Alexa Did the Groundhog see his shadow in 2018 
+
+when	1.4886	0.0000		0.0000
+groundhog	1.4886	0.0181		0.0083
+day	0.8646	0.0060		0.1394
+
+--------------------------------------------------------------------
+
+44-->58
+
+Q44.	What is the superbowl being televised on channel in new england 
+Q58.	What time does the super bowl start 
+
+what	0.7443	0.0000		0.0000
+superbowl	0.8598	0.1258		0.0000
+televis	0.0000	0.0000		0.0000
+channel	0.7443	0.1089		0.0000
+new	0.4602	0.0000		0.0000
+england	0.6288	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+53-->13
+
+Q53.	Alexa when does Black Panther come out in the theaters 
+Q13.	What is Wikipedia 
+
+alexa	1.0318	0.0298		0.0000
+black	0.8121	0.0000		0.0000
+panther	1.0318	0.0000		0.0000
+come	0.8931	0.0000		0.0000
+theater	0.0000	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+56-->44
+
+Q56.	How tall is will smith 
+Q44.	What is the superbowl being televised on channel in new england 
+
+how	1.7196	0.1098		0.0000
+tall	0.0000	0.0000		0.0000
+smith	1.2575	0.0000		0.1035
+
+--------------------------------------------------------------------
+
+58-->44
+
+Q58.	What time does the super bowl start 
+Q44.	What is the superbowl being televised on channel in new england 
+
+what	0.8931	0.0000		0.0000
+time	0.4773	0.1015		0.1164
+super	0.6734	0.0716		0.0000
+bowl	0.7545	0.0803		0.0000
+start	1.0318	0.0000		0.0000
+
+--------------------------------------------------------------------
+
+62-->34
+
+Q62.	What years are millennials considered born in 
+Q34.	where do I buy a cheap laptop 
+
+what	0.8931	0.0000		0.0000
+year	0.4651	0.0000		0.0000
+millenni	1.0318	0.0000		0.0316
+consid	1.0318	0.0430		0.0000
+born	0.8121	0.0000		0.0000

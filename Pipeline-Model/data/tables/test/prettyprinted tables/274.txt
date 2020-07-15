@@ -1,0 +1,32 @@
++-----------------------------+--------------------------------------------------------------------+
+| Key                         | Value                                                              |
++-----------------------------+--------------------------------------------------------------------+
+| address                     |  barton creek square  2901 s capital of texas highway  austin , tx |
+|                             | 78746  us                                                          |
++-----------------------------+--------------------------------------------------------------------+
+| hours of operation          | 11:00am - 11:00pm                                                  |
++-----------------------------+--------------------------------------------------------------------+
+| happy hour                  | 4:00pm - 6:00pm                                                    |
++-----------------------------+--------------------------------------------------------------------+
+| location                    | located at the southwest entrance to the barton creek square mall  |
+|                             | adjacent the amc theatre. reservations are available for certain   |
+|                             | times of the day.                                                  |
++-----------------------------+--------------------------------------------------------------------+
+| parking                     | we have ample self-parking in front of our location and our        |
+|                             | curbside parking is located directly across from the front of our  |
+|                             | restaurant adjacent handicap parking.                              |
++-----------------------------+--------------------------------------------------------------------+
+| patio seating               | our restaurant has a fully covered patio with seating inside the   |
+|                             | mall.                                                              |
++-----------------------------+--------------------------------------------------------------------+
+| order online                | our entire menu is available for pickup and delivery.              |
++-----------------------------+--------------------------------------------------------------------+
+| take out                    | for your convenience our entire menu of more than 250 selections   |
+|                             | is available for take out! you may place and pick up take out      |
+|                             | orders at our bakery counter.                                      |
++-----------------------------+--------------------------------------------------------------------+
+| curbside to-go instructions | need your order "to go?" try our curbside to-go service! it’s as   |
+|                             | easy as 1, 2, 3!                                                   |
++-----------------------------+--------------------------------------------------------------------+
+| catering                    | something for everyone at your office, party or home!              |
++-----------------------------+--------------------------------------------------------------------+

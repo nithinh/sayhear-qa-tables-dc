@@ -1,0 +1,29 @@
++---------+---------+---------+---------+---------+---------+--------+---------+---------+---------+
+| url     | Image   | Image_a | Image_l | Name    | Descrip | Rating | Author  | Ingredi | Main_En |
+|         |         | lt      | ink     |         | tion    |        |         | ents    | tity_Of |
+|         |         |         |         |         |         |        |         |         | _Page   |
++---------+---------+---------+---------+---------+---------+--------+---------+---------+---------+
+| https:/ | https:/ | Photo   | https:/ | Three I | "This   | 4.380  | Francie | 1 cup   | True    |
+| /www.al | /images | of      | /www.al | ngredie | recipe  |        |         | peanut  |         |
+| lrecipe | .media- | Three I | lrecipe | nt      | has     |        |         | butter; |         |
+| s.com/r | allreci | ngredie | s.com/v | Peanut  | just 3  |        |         | 1 cup   |         |
+| ecipe/1 | pes.com | nt      | ideo/45 | Butter  | ingredi |        |         | white   |         |
+| 1352/th | /userph | Peanut  | 74/thre | Cookies | ents.   |        |         | sugar;  |         |
+| ree-ing | otos/56 | Butter  | e-ingre |         | It's    |        |         | 1 egg   |         |
+| redient | 0x315/1 | Cookies | dient-  |         | fast,   |        |         |         |         |
+| -       | 78805.j | by      | peanut- |         | easy    |        |         |         |         |
+| peanut- | pg      | Francie | butter- |         | and the |        |         |         |         |
+| butter- |         |         | cookies |         | cookies |        |         |         |         |
+| cookies |         |         | /       |         | are won |        |         |         |         |
+| /       |         |         |         |         | derful! |        |         |         |         |
+|         |         |         |         |         | It's    |        |         |         |         |
+|         |         |         |         |         | great   |        |         |         |         |
+|         |         |         |         |         | for     |        |         |         |         |
+|         |         |         |         |         | kids    |        |         |         |         |
+|         |         |         |         |         | that    |        |         |         |         |
+|         |         |         |         |         | are     |        |         |         |         |
+|         |         |         |         |         | just le |        |         |         |         |
+|         |         |         |         |         | arning  |        |         |         |         |
+|         |         |         |         |         | to      |        |         |         |         |
+|         |         |         |         |         | bake."  |        |         |         |         |
++---------+---------+---------+---------+---------+---------+--------+---------+---------+---------+

@@ -1,0 +1,47 @@
++----------------------------------+----------------------------+----------------------------------+
+| url                              | keys                       | values                           |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/90 | Date                       | March 4, 2018                    |
+| th_Academy_Awards                |                            |                                  |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/90 | Site                       | Dolby Theatre                    |
+| th_Academy_Awards                |                            |  Hollywood, Los Angeles,         |
+|                                  |                            | California, U.S.                 |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/90 | Hosted by                  | Jimmy Kimmel                     |
+| th_Academy_Awards                |                            |                                  |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/90 | Preshow hosts              | Michael Strahan                  |
+| th_Academy_Awards                |                            |                                  |
+|                                  |                            | Wendi McLendon-Covey             |
+|                                  |                            |                                  |
+|                                  |                            | Sara Haines                      |
+|                                  |                            |                                  |
+|                                  |                            | Krista Smith                     |
+|                                  |                            |                                  |
+|                                  |                            | Dave Karger                      |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/90 | Produced by                | Michael De Luca                  |
+| th_Academy_Awards                |                            |  Jennifer Todd                   |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/90 | Directed by                | Glenn Weiss                      |
+| th_Academy_Awards                |                            |                                  |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/90 | Best Picture; Best Picture | The Shape of Water               |
+| th_Academy_Awards                |                            |                                  |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/90 | Most awards                | The Shape of Water (4)           |
+| th_Academy_Awards                |                            |                                  |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/90 | Most nominations           | The Shape of Water (13)          |
+| th_Academy_Awards                |                            |                                  |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/90 | Network                    | ABC                              |
+| th_Academy_Awards                |                            |                                  |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/90 | Duration                   | 3 hours, 53 minutes              |
+| th_Academy_Awards                |                            |                                  |
++----------------------------------+----------------------------+----------------------------------+
+| https://en.wikipedia.org/wiki/90 | Ratings                    | 26.5 million                     |
+| th_Academy_Awards                |                            |  18.9% (Nielsen ratings)[1][2]   |
++----------------------------------+----------------------------+----------------------------------+

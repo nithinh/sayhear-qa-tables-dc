@@ -1,0 +1,71 @@
++----------------------------------------+----------------+----------------------------------------+
+| url                                    | Property       | Value                                  |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Spider-  | Directed by    | Sam Raimi                              |
+| Man_(2002_film)                        |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Spider-  | Produced by    | Laura Ziskin                           |
+| Man_(2002_film)                        |                |                                        |
+|                                        |                | Ian Bryce                              |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Spider-  | Screenplay by  | David Koepp                            |
+| Man_(2002_film)                        |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Spider-  | Based on       | Spider-Man                             |
+| Man_(2002_film)                        |                |  by                                    |
+|                                        |                |                                        |
+|                                        |                |                                        |
+|                                        |                | Stan Lee                               |
+|                                        |                |                                        |
+|                                        |                | Steve Ditko                            |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Spider-  | Starring       | Tobey Maguire                          |
+| Man_(2002_film)                        |                |                                        |
+|                                        |                | Willem Dafoe                           |
+|                                        |                |                                        |
+|                                        |                | Kirsten Dunst                          |
+|                                        |                |                                        |
+|                                        |                | James Franco                           |
+|                                        |                |                                        |
+|                                        |                | Cliff Robertson                        |
+|                                        |                |                                        |
+|                                        |                | Rosemary Harris                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Spider-  | Music by       | Danny Elfman                           |
+| Man_(2002_film)                        |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Spider-  | Cinematography | Don Burgess                            |
+| Man_(2002_film)                        |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Spider-  | Edited by      | Bob Murawski                           |
+| Man_(2002_film)                        |                |                                        |
+|                                        |                | Arthur Coburn                          |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Spider-  | Production     | Marvel Enterprises                     |
+| Man_(2002_film)                        |  company       |                                        |
+|                                        |                | Laura Ziskin Productions               |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Spider-  | Distributed by | Columbia Pictures                      |
+| Man_(2002_film)                        |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Spider-  | Release date   | April 29, 2002 (2002-04-29) (Mann      |
+| Man_(2002_film)                        |                | Village Theater)                       |
+|                                        |                |                                        |
+|                                        |                | May 3, 2002 (2002-05-03) (United       |
+|                                        |                | States)                                |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Spider-  | Running time   | 121 minutes[1]                         |
+| Man_(2002_film)                        |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Spider-  | Country        | United States                          |
+| Man_(2002_film)                        |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Spider-  | Language       | English                                |
+| Man_(2002_film)                        |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Spider-  | Budget         | $139 million[2]                        |
+| Man_(2002_film)                        |                |                                        |
++----------------------------------------+----------------+----------------------------------------+
+| https://en.wikipedia.org/wiki/Spider-  | Box office     | $821.7 million[2]                      |
+| Man_(2002_film)                        |                |                                        |
++----------------------------------------+----------------+----------------------------------------+

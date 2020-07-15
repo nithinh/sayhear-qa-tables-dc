@@ -1,0 +1,18 @@
++-------------------------------------------------+--------+-------------+-------------------------+
+| url                                             | Date   | Temperature | Description             |
++-------------------------------------------------+--------+-------------+-------------------------+
+| https://www.accuweather.com/en/us/bloomsburg-   | Mar 24 | 22°         | Partly cloudy           |
+| pa/17815/daily-weather-forecast/335344          |        |             |                         |
++-------------------------------------------------+--------+-------------+-------------------------+
+| https://www.accuweather.com/en/us/bloomsburg-   | Mar 25 | 46°         | Times of clouds and sun |
+| pa/17815/daily-weather-forecast/335344          |        |             |                         |
++-------------------------------------------------+--------+-------------+-------------------------+
+| https://www.accuweather.com/en/us/bloomsburg-   | Mar 26 | 49°         | Plenty of sunshine      |
+| pa/17815/daily-weather-forecast/335344          |        |             |                         |
++-------------------------------------------------+--------+-------------+-------------------------+
+| https://www.accuweather.com/en/us/bloomsburg-   | Mar 27 | 49°         | Sunny to partly cloudy  |
+| pa/17815/daily-weather-forecast/335344          |        |             |                         |
++-------------------------------------------------+--------+-------------+-------------------------+
+| https://www.accuweather.com/en/us/bloomsburg-   | Mar 28 | 48°         | Cloudy with a shower    |
+| pa/17815/daily-weather-forecast/335344          |        |             |                         |
++-------------------------------------------------+--------+-------------+-------------------------+

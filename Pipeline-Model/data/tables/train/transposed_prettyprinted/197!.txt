@@ -1,0 +1,23 @@
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| Technol | 2G      | 3G      | 4G      | Speed   | GPRS    | EDGE    | Announc | Status  | Dimens |
+| ogy     | bands   | bands   | bands   |         |         |         | ed      |         | ions   |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| https:/ | https:/ | https:/ | https:/ | https:/ | https:/ | https:/ | https:/ | https:/ |        |
+| /www.gs | /www.gs | /www.gs | /www.gs | /www.gs | /www.gs | /www.gs | /www.gs | /www.gs |        |
+| marena. | marena. | marena. | marena. | marena. | marena. | marena. | marena. | marena. |        |
+| com/net | com/net | com/net | com/net | com/glo | com/glo | com/glo | com/glo | com/glo |        |
+| work-ba | work-ba | work-ba | work-ba | ssary.p | ssary.p | ssary.p | ssary.p | ssary.p |        |
+| nds.php | nds.php | nds.php | nds.php | hp3?ter | hp3?ter | hp3?ter | hp3?ter | hp3?ter |        |
+| 3       | 3       | 3       | 3       | m=3g    | m=gprs  | m=edge  | m=phone | m=phone |        |
+|         |         |         |         |         |         |         | -life-  | -life-  |        |
+|         |         |         |         |         |         |         | cycle   | cycle   |        |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+
+| GSM /   |         |         |         |         |         |         | 2016, S | Availab | 158.2  |
+| CDMA /  |         |         |         |         |         |         | eptembe | le. Rel | x 77.9 |
+| HSPA /  |         |         |         |         |         |         | r       | eased   | x 7.3  |
+| EVDO /  |         |         |         |         |         |         |         | 2016, S | mm     |
+| LTE     |         |         |         |         |         |         |         | eptembe | (6.23  |
+|         |         |         |         |         |         |         |         | r       | x 3.07 |
+|         |         |         |         |         |         |         |         |         | x 0.29 |
+|         |         |         |         |         |         |         |         |         | in)    |
++---------+---------+---------+---------+---------+---------+---------+---------+---------+--------+

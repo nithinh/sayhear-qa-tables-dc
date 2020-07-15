@@ -1,0 +1,43 @@
++-------------------------------------------------------------------+----------+-----------+
+| url                                                               | Pounds   | Kilograms |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 100.00lb | 45.359kg  |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 101.00lb | 45.813kg  |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 102.00lb | 46.266kg  |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 103.00lb | 46.720kg  |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 104.00lb | 47.174kg  |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 105.00lb | 47.627kg  |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 106.00lb | 48.081kg  |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 107.00lb | 48.534kg  |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 108.00lb | 48.988kg  |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 109.00lb | 49.442kg  |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 110.00lb | 49.895kg  |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 111.00lb | 50.349kg  |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 112.00lb | 50.802kg  |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 113.00lb | 51.256kg  |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 114.00lb | 51.710kg  |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 115.00lb | 52.163kg  |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 116.00lb | 52.617kg  |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 117.00lb | 53.070kg  |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 118.00lb | 53.524kg  |
++-------------------------------------------------------------------+----------+-----------+
+| https://www.metric-conversions.org/weight/pounds-to-kilograms.htm | 119.00lb | 53.977kg  |
++-------------------------------------------------------------------+----------+-----------+
